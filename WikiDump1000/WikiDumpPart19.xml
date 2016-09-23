@@ -1,0 +1,1633 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>CACS/User Conundrum</title>
+    <ns>0</ns>
+    <id>647</id>
+    <revision>
+      <id>1508374</id>
+      <parentid>1493397</parentid>
+      <timestamp>2009-05-25T23:58:02Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>Fixed category, removed {{alphabetical}}</comment>
+      <text xml:space="preserve">'''Wiki Note'''
+
+''This note will be removed later. The entire essay may become a secion within an Introduction Chapter. Or, it might remain here and just have an ''assigned reading'' on the introduction. Please use the Talk page for this entry for additional discussion. Thanks.  [[User:LouI|LouI]]
+----
+=The Myth of the User=
+There are several terms widely used in the computer industry that are not clearly defined. The result is that everyone understands them and uses them, but the use may tend to complicate rather than illuminate a discussion. This outline looks just two of these terms in the context of an application within a fairly large corporation. Then it draws some conclusions about the impact of context on the use of terminology.
+
+Consider the terms User and Application. The '''User''' is defined as ''the person who uses a computer''. The '''Platform''' is ''the hardware or software that supports an application or a system''. The suggested application is one of monitoring and use of a particular resource pool across an area of the company. 
+==The Application==
+Project and unit managers share a common resource pool. They budget and track the use of the pool in their area. They use a series of spreadsheets that show their planned vs. actual use of many resources. The data is extracted for their status reports. The data is also uploaded through the company's networks for use in other summaries of the effective use of the resource pool. These support the manager and planning staff that are responsible for the pool.
+
+To make this work, a set of spreadsheet macros are in place to ensure data validity and consistency. These templates are put in place by the corporate IT staff. The ''end-user'' needs to record their work results, using the spreadsheets by an arbitrary cutoff time on Friday. 
+==The Software Hierarchy==
+Now consider the hierarchy of software engineering that puts this application in place.
+# The Spreadsheet application has a programming team that work for the software vendor. They assume an Intel Pentium running Windows NT as their platform. They produce a set of software that integrates the work of the Visual Basic for Applications team with the next release of the operating system software and their own code (written in C++) to produce a working application.
+# The vendors packaging team puts this together with the other desktop embedded applications to produce an integrated version or release of the composite operating system.
+# The corporate IT department takes this software, along with the company ''standard'' network, Operating System,, and desktop applications as their platform. They add the VBA macros with  upload and reporting utilities that will make the aggregate set of applications work. Then they ''lock'' the results to ensure that no bad input comes from the end-users. They deliver their work to the system administrators.
+# The system administrators in each division install the results. Some of these are on department servers, and some on individual desktops. The entire assembled application is their platform, and the desktops of the affected staff the target domain for their work.
+# The individual manager now uses the entire work product as a seamless platform to do their work.
+The example could be extended further. The extensions in Step 3 could be produced by an outside ''Value Added Reseller'' to produce a resource planning system. Step 1 could look into the earlier history in Hardware for PC Configuration, BIOS, Operating Systems, The C++ compiler, etc. But these 5 layers are quite complex enough to illustrate the terminology problems.
+
+''For those who are have never worked in this situation, this is NOT an uncommon example. Millions of people work in this environment every day at your bank, your university, or the manufacturer of your automobile.''
+==The Confusion==
+The above example is fine when it works. But, what about when it fails? As the end-user, I've got a problem in my spreadsheet, and an error message. I find something from the 1st level, the ''User's Guide'', and try to find a solution. But it is a hopeless quest. I can't use most of the options they discuss. I can't even inspect the VBA code that the guide says my error message comes from. The usually helpful System Admin who put this new update on my desk is equally puzzled, and other users haven't reported a problem. So, '''what went wrong?'''
+
+Every layer in the hierarchy has their own viewpoint. Everything in the layers above them is viewed as a ''Platform'' and constitutes a given. Every participant in the layers below them is the '''User''' and is considered with the same monolithic view.
+
+In some cases, the monolithic view is correct, but even then it is usually distorted. When I buy a new PC for home use, I have the seemingly unfiltered copy of the spreadsheet. But even here, the software was preinstalled by the people I bought the PC from. They chose certain options left by the 1st level spreadsheet team to make the installed software work with this particular configuration. Certain other options may be precluded by their choices.
+
+A really good practitioner working in the hierarchy will be partially aware one layer above and below their own level. They can influence the layer above them, through user groups or other methods. They can consider the needs of those one layer below them, and improve their product and documentation to help out, but only as limited by budgets and competitive factors.
+==Conclusions==
+If you begin to understand the problem, then '''''Welcome to the world of Computers!'''''. But you can also understand how many niches in this world open opportunities for integrators and vendors. How a ''Peoplesoft'' vendor can package and sell an integrated solution for a business function. How a high-powered consulting firm can charge high prices to help corporate management try to cope. Why the industry keeps looking for something like an ''XML'' magic wand to make it fit together. 
+
+And most of all, how some kind of mental framework is needed before you can see how the pieces fit together. This kind of a framework is called an ''Architecture'', and several of them are needed to see how the pieces fit together.
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>ovpufzb0djpk4to2xwbjhb5mljvci83</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Calculus/Differentiation/Differentiation Defined</title>
+    <ns>1</ns>
+    <id>648</id>
+    <revision>
+      <id>2119825</id>
+      <parentid>1724302</parentid>
+      <timestamp>2011-06-11T17:48:27Z</timestamp>
+      <contributor>
+        <username>Greenbreen</username>
+        <id>436161</id>
+      </contributor>
+      <comment>/* Proof of the Power Rule */ new section</comment>
+      <text xml:space="preserve">{{talkheader}}
+{{todo|organise flow of article.}}
+==2003==
+Why use square brackets for the differential operator? 
+IMHO, round brackets are just fine... [[User:Dysprosia|Dysprosia]] 09:17, 16 Aug 2003 (UTC)
+
+: My calc book uses square brackets when differentiating an expression, like &lt;math&gt;{d \over dx} [x^2]&lt;/math&gt;.  Some is style, some is real theory.  Ex.: what is &lt;math&gt;\lim_{\Delta x \to 0} {\Delta y \over \Delta x}&lt;/math&gt;?  Why it's &lt;math&gt;{dy \over dx}&lt;/math&gt; of course.  It would look wierd to have &lt;math&gt;{\Delta \over \Delta x} y&lt;/math&gt;; delta what, right?  So I guess that's the reason.  However, that's also why I think that the equation for the derivative should be &lt;math&gt;\lim_{\Delta x \to 0} {f(x + \Delta x) - f(x) \over \Delta x}&lt;/math&gt; because it correctly shows what dy/dx really means.[[User:Boothinator|Boothinator]] 02:17, 19 Mar 2004 (UTC)
+==question==
+
+How do the last two steps listed for ''f'(sin(x))'' work? [[User:Ugen64|Ugen64]] 01:09, 18 Dec 2003 (UTC)
+
+: You mean D sin(''x'')? The second summand should be clear (from sin(x)/x -&gt; 1 as x-&gt;0), and the second is a result from that limit, though I should point that out in the article (and leave it to the Trig page ;). [[User:Dysprosia|Dysprosia]] 05:20, 18 Dec 2003 (UTC)
+
+::Is it worth it to prove the product rule, division rule, or chain rule here? Do prove the mean value theorem in this book?
+--[[User:Cronian|Cronian]] 07:43, 26 Mar 2004 (UTC)
+
+:::OK, am I the only one who can't see the apostrophe in &lt;I&gt;f&lt;/I&gt;'(x)?  If not, should I put a space after the &lt;I&gt;f&lt;/I&gt;, or is there a better way to make it more readable? --Xhad
+
+If you itallicize the 'f' and the 'prime' you can read it a bit more clearly: &lt;I&gt;f'&lt;/I&gt;(x).
+The whole bit itallicized: &lt;i&gt;f'(x)&lt;/i&gt;. Maybe that's better? &lt;b&gt;&lt;font color=&quot;#347235&quot;&gt;ChaoticLlama&lt;/font&gt;&lt;/b&gt; 14:59, 13 April 2007 (UTC)
+
+==question==
+
+In the differentiation rules (d/dx)c=0 and (d/dx)mx=m, what exactly does &quot;d&quot; stand for?  does it stand for change in x and y???  could somebody please explain these rules more clearly?
+--[[Elpenmaster]]
+:I think of the letter d as meaning &quot;a tiny '''d'''ifference&quot;.&lt;br&gt;..... (d/dx)c means a tiny difference of a constant (obviously there is none, or else it would not be a constant!) divided by a tiny difference in x is zero.&lt;br&gt;..... And (d/dx)mx means (a tiny difference of the product m times x) divided by (a tiny difference in x) is m, where m, by the way, is the trigonometric tangent of the angle of that line (y = mx + any constant) against the horizontal. QUITTNER [[User:142.150.49.171|142.150.49.171]] 18:42, 17 Jun 2005 (UTC)
+
+::First: The power rule is used in an example (about the addition rule) before it is introduced. Would people new to calculus be confused by the sudden transformation and miss the point of the example as a whole?
+
+::Second: Regarding proofs, in my opinion, lengthy proofs (read, &quot;90% of proofs&quot;) are not overly important to the average reader. I believe that important proofs (chain rule, product rule, etc.) could all be placed on a seperate page in order to keep the text from becoming cluttered. If the goal is to reach people who don't already understand calculus, too much notation all at once becomes confusing and distracting.
+
+--[[User:Noah]] 16:14, 30 Jul 2004 (UTC)
+
+== power rule ==
+I noticed that the power rule section said &lt;math&gt;\frac{d}{dx}\left[x^n\right]=nx^{n-1}, n\ne0&lt;/math&gt;. If you work it out when &lt;math&gt;n=0&lt;/math&gt;, you get &lt;math&gt;\frac{d}{dx}\left[x^0\right]=0x^{0-1}=0x^{-1}=0&lt;/math&gt;. Since &lt;math&gt;x^{0}=1&lt;/math&gt;, you get &lt;math&gt;\frac{d}{dx}\left[1\right]=0&lt;/math&gt;, which is true. Unless I made a mistake, the &lt;math&gt;n\ne0&lt;/math&gt; is not needed. Should it be taken out of the equation? [[User:DanielLC|DanielLC]] 00:28, 1 August 2005 (UTC)
+
+While often &lt;math&gt;x^{0}=1&lt;/math&gt;, there is some confusion over the special case of ''x=0'' (''0^0'') [http://www.math.hmc.edu/funfacts/ffiles/10005.3-5.shtml][http://mathcentral.uregina.ca/QQ/database/QQ.09.99/J322711.html][http://mathforum.org/library/drmath/view/58214.html][http://mathforum.org/dr.math/faq/faq.0.to.0.power.html].
+
+The &lt;math&gt;n\ne0&lt;/math&gt; keeps us far, far away from that one point of confusion.
+
+--[[User:DavidCary|DavidCary]] 20:13, 31 October 2005 (UTC)
+
+== bold new words ==
+Should new words like &quot;derivative&quot; and &quot;differentiable&quot; (Section 2.1) be emphasized (bold/italic) for clarity? --anonymous
+
+I think the first thing that should be included on this page is the definition of the derivative of a function by First Principles, ie. limit of the gradient of secants, and then possibly explain some of the derivatives pulled, apparently, out of the blue, in terms of that.
+
+Second, for those asking what the d in (d/dx)c is all about - d/dx is a &quot;differential operator&quot;, which means it's something that acts on a function to differentiate it, in this case with respect to x. It follows ''some'' of the rules of normal fractions, so you have (d/dx)(f(x)), which means &quot;the derivative (with respect to x) operator applied to the function f of x&quot;, and write it df/dx, which means &quot;the derivative of f with respect to x&quot; (ie. pretty much the same thing). Then if f(x) = c, ie. a constant function, then you can write either (d/dx)c or dc/dx, both of which equal 0. [[User:203.26.177.2|203.26.177.2]] 18:52, 26 September 2005 (UTC)
+
+==High school==
+I'm a bored high school student currently in Precalc, trying to teach myself derivatives, so hopefully I can contribute to this project.  I had to read the old Sales Example several times to figure out exactly what was going on, so I tried to make it more clear, based on what I gathered from the article, and also tried to make it more text-bookesque.  Someone please check the changes in that section, because I'm not entirely sure I'm correct.
+--[[User:SimRPGman|SimRPGman]] 03:44, 27 October 2005 (UTC)
+
+:Well done for deciding to contribute, it is a great way to learn the subject.   That example looks correct to me.  My only concern is the sentence
+&quot;Because the functions are defined for all n &gt;= 0 and are only differentiable in n &gt; 0, the only points that can be minima or maxima are those above.&quot;
+
+:Actually it is defined and differentiable for all ''n''.  But we are only concerned with positive ''n'' (as it makes no sense to produce -5 items).  
+:Also here are some idead which might make the example clearer
+* Instead of 8.1n maybe use (8.1)n.   When I first read it I thought it mean 8.(1n)
+* It is implicit by using the integer ''n'' that we are dealing with whole numbers. (otherwise we should use a letter like x,y,z).     Since the max is 3.97.... the seller really has to produce 4 units (as that is the nearest whole number) [[User:Juliusross|Juliusross]] 11:34, 27 October 2005 (UTC)
+
+
+::The previously quoted sentence was like that when I had it.
+::The example states that all amounts are in thousands, so 3.797 thousand units would be a valid amount  at 3,797 units.
+::--[[User:SimRPGman|SimRPGman]] 23:09, 27 October 2005 (UTC)
+
+:::My mistake, you are right. [[User:Juliusross|Juliusross]] 23:52, 27 October 2005 (UTC)
+
+==Confused==
+Hey folks, the section on the Maxima and Minima confused the heck out of me.  I tried to re-word the first paragraph, as I thought I grasped the point, but the second paragraph eluded me.  If someone with more math knowledge than me (I'm trying to learn this stuff) could take a look I'd appreciate it.  It almost seems as though it were written by someone with English as a second language, or just someone who knows their math but perhaps isn't as smooth with English.  Not that I'm criticising the effort!  Thanks all.--Dave
+: Agreed.  These two paragraphs need to be expanded (it might take a few pages in an ordinary textbook).  One way to learn is to write.  Do you want to get involved? [[User:Juliusross|Juliusross]] 12:43, 31 October 2005 (UTC)
+:: (This is me, the same as above--I just got an account) Well, that sounds like a challenge...sure, I'm game.  Let me give it a shot and then get a critique. [[User:Dubitable|Dubitable]] 13:52, 31 October 2005 (UTC)
+Also on the subject of Maxima and Minima, I &quot;stole&quot; some info from Wikipedia and formed it into a introduction to the concept.  A picture would really be nice.  Should we use Wikipedia's picture? --[[User:SimRPGman|SimRPGman]] 05:41, 7 November 2005 (UTC)
+::: Sure, take any material from wikipedia if you think it is suitable.  You should maybe add a line at the bottom of the page to say you have taken material from wikipedia, and put in a link (although I am not 100% sure what is really necessary) [[User:Juliusross|Juliusross]] 02:18, 8 November 2005 (UTC)
+Ok, I took a swing at that last paragraph on Maxima and Minima and actually made two paragraphs out of it.  Please review and see if it's any clearer and if I'm right (because I'm not entirely certain I am). --[[User:SimRPGman|SimRPGman]] 04:27, 21 November 2005 (UTC)
+
+
+Whoever is editing this book needs to stop adding &quot;Example&quot; as a category - it appears in the table of contents and looks very cumbersome. If each subcategory extended for more than page - THEN it might be good to add example to the table of contents - but as it stands it just looks horrible. I fixed a couple of them. [[User:Fresheneesz|Fresheneesz]]
+:: I agree that this is not optimal.  But  we need a consistent way of presenting examples.  Until per page css is possible this is the best I can come up with.  Have a look at the discussion page on the main calculus page and you will see some other comments about this [[User:Juliusross|Juliusross]] 18:40, 5 November 2005 (UTC)
+:: You changed my mind.  I will not longer use example as a category. [[User:Juliusross|Juliusross]] 02:18, 8 November 2005 (UTC)
+
+I rewrote the Maxima and Minima section (and renamed it, though I'm not sure that it shouldn't be &quot;Stationary Points&quot;), as it was confusing and incorrect in several places. It ''is'' possible to classify a stationary point without doubt. My browser crashed and I forgot to log in so I am  87.194.203.205. Sorry. [[User:Inductiveload|Inductiveload]] 20:40, 23 October 2007 (UTC)
+
+== Better exercises needed ==
+
+I've already been through the mill on learning derivatives and can practically do them in my sleep (I'm a AP Calculus C student), but I had to read the exercise at the bottom of the page twice to understand what it's asking. To someone who's just learning differentiation it's a horribly ambiguous question to ask. I've added some simpler straightforward differentiation exercises above the existing one, which is now at the bottom of the list (if someone could clean up my LaTEX equation syntax, I'd appreciate it; I've never used it myself). It's better to go through the process itself a few times from a few different approaches before getting that in-depth into the workings of it--asking a student to use the definition of derivative to prove the theories discussed in the article before having them actually do any differentiation independently of running it through the definition of derivative is a bit of a stretch. I also reworded the exercise that was already there to make it a little more clear in what it's asking. --[[User:Jesse Hannah|Jesse Hannah]] 05:38, 24 February 2007 (UTC)
+
+== What is Differentiation? ==
+
+This section is a little bit in depth for someone who is just being introduced to derivatives. While those of us who have already taken calculus would understand it fine, I am a little worried that those who have not taken calculus will be lost as soon as you start introducing syntax. I think this section should just mention that differentiation is a way of solving the tangent problem, and leave it at that. Maybe mentioning the difference quotient would be good.
+[[User:Tapioca|Tapioca]] 19:23, 5 March 2007 (UTC)
+
+== Overall Structure ==
+
+I've been reading through the differentiation article several times making edits as I go, however I've noticed there is little flow in this article; Even from sentence to sentence.
+As I finish finalizing the notes I am creating, I will post the structure and teaching method that I believe to be most effective. I would appreciate any comments in modifying this layout, yet do not reply if you merely wish to comment on this post.
+
+[[User:ChaoticLlama|ChaoticLlama]] 17:51, 20 March 2007 (UTC)
+
+== Section Removed ==
+
+&lt;code&gt;This may be surprising, because &lt;math&gt;y=x^2&lt;/math&gt; fits &lt;math&gt;y=mx+c&lt;/math&gt; if &lt;math&gt;m=x&lt;/math&gt; and &lt;math&gt;c=0&lt;/math&gt;, and taking the derivative treating &lt;math&gt;m&lt;/math&gt; as a constant gives &lt;math&gt;f'(x)=m&lt;/math&gt;, then putting back &lt;math&gt;m=x&lt;/math&gt; gives &lt;math&gt;f'(x)=x&lt;/math&gt;. This is '''wrong''' because here &lt;math&gt;m&lt;/math&gt; is not constant! It is indeed identical to &lt;math&gt;x&lt;/math&gt; by our own definition, and its influence on the curve must also be considered when taking the derivative. For a correct analysis, you would need to apply the product rule to both &lt;math&gt;x&lt;/math&gt; and &lt;math&gt;m&lt;/math&gt; which would give &lt;math&gt;f'(x) = m + x = 2x&lt;/math&gt;, matching the above result.&lt;/code&gt;
+
+I don't see how this hand-waving argument adds to the article. Any comments otherwise? [[User:ChaoticLlama|ChaoticLlama]] 14:53, 13 April 2007 (UTC)
+
+== Moving Sections Around ==
+
+IMO, this article should be focused on describing the theory of differention, and its techniques.
+Topics such as Maxima &amp; Minima or the Sales Example are clearly applications of differentiation.
+I'd move Max &amp; Mins to applications, and put the sales example under Mean Value Theorem.
+Thoughts?
+&lt;b&gt;&lt;font color=&quot;#347235&quot;&gt;ChaoticLlama&lt;/font&gt;&lt;/b&gt; 15:09, 13 April 2007 (UTC)
+
+:Well, I agree sales and extrema are application, but the concept of local extrema, and their relation to differentiation, is very important. So if and when they are moved, they should receive their own clearly defined section, preferably at the very top of the application section. cheers. --[[User:Cronholm144|Cronholm]]&lt;sup&gt;[[User talk:Cronholm144|144]]&lt;/sup&gt; 07:56, 18 June 2007 (UTC)
+
+:I agree with both. The extrema section is (now) well written, but it doesn't flow with the rest of this page. More importantly it relies on [[Calculus/Higher Order Derivatives]], which is a later module. --[[User:Mrwojo|Mrwojo]] ([[User talk:Mrwojo|talk]]) 01:16, 29 December 2008 (UTC)
+
+== addition and subtraction ==
+In the very first line of the section on addition and subtraction rules, the brackets in the expression in the numerator are imbalanced. There are 2 open brackets and 1 close bracket. I would think we need a close bracket just to the left of the first minus sign.
+ 
+&lt;math&gt; \lim_{\Delta x \to 0}\left[\frac{[f(x+\Delta x) \pm g(x + \Delta x) - [f(x) \pm g(x)]}{\Delta x}\right] &lt;/math&gt;
+[[User:Johnor|Johnor]] ([[User talk:Johnor|talk]]) 02:39, 16 October 2008 (UTC)
+
+:Fixed. [http://en.wikibooks.org/w/index.php?title=Calculus/Differentiation&amp;diff=1367744&amp;oldid=1367743] --[[User:Mrwojo|Mrwojo]] ([[User talk:Mrwojo|talk]]) 01:04, 29 December 2008 (UTC)
+
+==Unusual Terminology==
+Hi, I find the use of the term &quot;Gradient&quot; a bit unusual.  I have not often encountered the phrase, and most calculus books I have encountered stick with the term slope.  I am fine with keeping the first sentence of section &quot;The Definition of Slope&quot; but I think after that it would be wise to use the term slope.  Does anyone mind if I make this change? [[User:Thenub314|Thenub314]] ([[User talk:Thenub314|talk]]) 11:08, 21 January 2009 (UTC)
+
+== Proof of the Power Rule ==
+
+I don't have time to implement this now, but if someone else would like to, it would be nice to have a brief discussion of where the power rule for non-integer exponents comes from.  There is a proof given at [http://planetmath.org/encyclopedia/ProofOfPowerRule.html PlanetMath] that may be useful.  --[[User:Greenbreen|Greenbreen]] ([[User talk:Greenbreen|discuss]] • [[Special:Contributions/Greenbreen|contribs]]) 17:48, 11 June 2011 (UTC)</text>
+      <sha1>f3qqrpdjkhln3zt7jkcj6vgv1xg25z9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Calculus/Ordinary differential equations</title>
+    <ns>0</ns>
+    <id>649</id>
+    <revision>
+      <id>2715788</id>
+      <parentid>2655499</parentid>
+      <timestamp>2014-10-21T01:56:59Z</timestamp>
+      <contributor>
+        <ip>128.82.44.63</ip>
+      </contributor>
+      <text xml:space="preserve">{{Calculus/Top Nav|Differential Equations|Partial differential equations}}
+
+'''Ordinary differential equations''' involve equations containing:
+* variables
+* functions
+* their derivatives
+and their solutions.
+
+In studying integration, you ''already'' have considered solutions to very simple differential equations. For example, when you look to solving
+: &lt;math&gt;\int f(x) \,dx=g(x)&lt;/math&gt;
+for g(x), you are really solving the differential equation
+: &lt;math&gt; g'(x) = f(x) \,&lt;/math&gt;
+
+== Notations and terminology ==
+The notations we use for solving differential equations will be crucial in the ease of solubility for these equations. 
+
+This document will be using '''three''' notations primarily:
+* f' to denote the derivative of f
+* D ''f'' to denote the derivative of ''f''
+* &lt;math&gt;{df \over dx}&lt;/math&gt; to denote the derivative of ''f'' (for separable equations).
+
+=== Terminology ===
+Consider the differential equation
+: &lt;math&gt;3 f^{\prime \prime}(x)+5xf(x)=11&lt;/math&gt;
+
+Since the equation's highest derivative is 2, we say that the differential equation is of ''order'' 2.
+
+== Some simple differential equations ==
+A key idea in solving differential equations will be that of [[Calculus/Definite integral|integration]].
+
+Let us consider the second order differential equation (remember that a function acts on a value).
+:&lt;math&gt;f''(x)=2 \,&lt;/math&gt;
+
+How would we go about solving this? It tells us that on differentiating twice, we obtain the constant 2 so, if we integrate twice, we should obtain our result. 
+
+Integrating once first of all: 	
+
+:&lt;math&gt;\int f''(x) \,dx = \int 2 \,dx&lt;/math&gt; 	
+:&lt;math&gt;f'(x)=2x+C_1 \,&lt;/math&gt; 	
+
+We have transformed the apparently difficult second order differential equation into a rather simpler one, viz.
+
+:&lt;math&gt;f'(x)=2x+C_1 \,&lt;/math&gt;
+
+This equation tells us that if we differentiate a function once, we get &lt;math&gt;2x+C_1&lt;/math&gt;. If we integrate once more, we should find the solution.
+
+:&lt;math&gt;\int f'(x) \,dx = \int 2x+C_1 \,dx&lt;/math&gt;
+:&lt;math&gt;f(x)=x^2+C_1x+C_2 \,&lt;/math&gt; 
+
+This is the ''solution'' to the differential equation. We will get &lt;math&gt;f''=2 \,&lt;/math&gt; for ''all'' values of &lt;math&gt;C_1&lt;/math&gt; and &lt;math&gt;C_2&lt;/math&gt;.
+
+The values &lt;math&gt;C_1&lt;/math&gt; and &lt;math&gt;C_2&lt;/math&gt; are related to quantities known as ''initial conditions''.
+
+Why are initial conditions useful? ODEs (ordinary differential equations) are useful in modeling physical conditions. We may wish to model a certain physical system which is initially at rest (so one initial condition may be zero), or wound up to some point (so an initial condition may be nonzero, say 5 for instance) and we may wish to see how the system reacts under such an initial condition. 
+
+When we solve a system with given initial conditions, we substitute them after our process of integration.
+===Example===
+When we solved &lt;math&gt;f''(x)=2 \,&lt;/math&gt; say we had the initial conditions &lt;math&gt;f'(0)=3 \,&lt;/math&gt; and &lt;math&gt;f(0)=2 \,&lt;/math&gt;. (Note, initial conditions need not occur at f(0)).
+
+After we integrate we make substitutions:
+:&lt;math&gt;f'(0)=2(0)+C_1 \,&lt;/math&gt;
+:&lt;math&gt;3=C_1 \,&lt;/math&gt;
+:&lt;math&gt;\int f'(x) \,dx = \int 2x+3 \,dx&lt;/math&gt;
+:&lt;math&gt;f(x)=x^2+3x+C_2 \,&lt;/math&gt;
+:&lt;math&gt;f(0)=0^2+3(0)+C_2 \,&lt;/math&gt;
+:&lt;math&gt;2=C_2 \,&lt;/math&gt;
+:&lt;math&gt;f(x)=x^2+3x+2 \,&lt;/math&gt;
+
+Without initial conditions, the answer we obtain is known as the ''general solution'' or the solution to the ''family of equations''. With them, our solution is known as a ''specific solution''.
+
+== Basic first order DEs ==
+In this section we will consider ''four'' main types of differential equations:
+* separable
+* homogeneous
+* linear
+* exact
+
+There are many other forms of differential equation, however, and these will be dealt with in the next section
+
+=== Separable equations ===
+A ''separable'' equation is in the form (using dy/dx notation which will serve us greatly here)
+:&lt;math&gt;{dy \over dx} = f(x)/g(y)&lt;/math&gt;
+
+Previously we have only dealt with simple differential equations with g(''y'')=1. How do we solve such a separable equation as above?
+
+We group ''x'' and ''dx'' terms together, and ''y'' and ''dy'' terms together as well.
+:&lt;math&gt;g(y)\ dy = f(x)\ dx&lt;/math&gt;
+Integrating both sides with respect to y on the left hand side and x on the right hand side:
+:&lt;math&gt;\int g(y)\,dy=\int f(x)\,dx+C&lt;/math&gt;
+
+we will obtain the solution.
+
+==== Worked example ====
+Here is a worked example illustrating the process.
+
+We are asked to solve
+:&lt;math&gt;{dy \over dx} = 3x^2y&lt;/math&gt;
+
+Separating
+:&lt;math&gt;{dy \over y} = (3x^2)\,dx&lt;/math&gt;
+Integrating
+:&lt;math&gt;\int {dy \over y} = \int 3x^2\,dx&lt;/math&gt;
+:&lt;math&gt;\ln{y}=x^3+C \,\!&lt;/math&gt;
+:&lt;math&gt;y=e^{x^3+C}&lt;/math&gt;
+Letting &lt;math&gt;k = e^C&lt;/math&gt; where k is a constant we obtain
+:&lt;math&gt;y=ke^{x^3}&lt;/math&gt;
+which is the general solution.
+
+==== Verification ====
+This step does not need to be part of your work, but if you want to check your solution, you can verify your answer by differentiation.
+
+We obtained
+:&lt;math&gt;y=ke^{x^3}&lt;/math&gt;
+as the solution to
+:&lt;math&gt;{dy \over dx} = 3x^2y&lt;/math&gt;
+
+Differentiating our solution with respect to x,
+:&lt;math&gt;{dy \over dx} = 3kx^2e^{x^3}&lt;/math&gt;
+
+And since &lt;math&gt;y=ke^{x^3}&lt;/math&gt;, we can write
+:&lt;math&gt;{dy \over dx} = 3x^2y&lt;/math&gt;
+We see that we obtain our original differential equation, thus our work must be correct.
+
+=== Homogeneous equations ===
+A ''homogeneous'' equation is in the form 
+:&lt;math&gt;{dy \over dx} = f(y/x)&lt;/math&gt;
+
+This looks difficult as it stands, however we can utilize the substitution
+:&lt;math&gt;v = {y \over x}&lt;/math&gt;
+so that we are now dealing with F(v) rather than F(y/x).
+
+Now we can express y in terms of v, as ''y''=''xv'' and use the product rule.
+
+The equation above then becomes, using the product rule
+:&lt;math&gt;{dy \over dx} = v+x{dv \over dx}&lt;/math&gt;
+
+Then
+:&lt;math&gt;v+x{dv \over dx} = f(v)&lt;/math&gt;
+:&lt;math&gt;x{dv \over dx} = f(v)-v&lt;/math&gt;
+:&lt;math&gt;{dv \over dx} = {f(v)-v \over x}&lt;/math&gt;
+which is a separable equation and can be solved as above.
+
+However let's look at a worked equation to see how homogeneous equations are solved.
+
+==== Worked example ====
+We have the equation
+:&lt;math&gt; {dy \over dx} = {y^2 + x^2 \over yx}&lt;/math&gt;
+
+This does not appear to be immediately separable, but let us expand to get
+:&lt;math&gt; {dy \over dx} = {y^2 \over yx} + {x^2 \over yx}&lt;/math&gt;
+:&lt;math&gt; {dy \over dx} = {x \over y} + {y \over x}&lt;/math&gt;
+
+Substituting ''y''=''xv'' which is the same as substituting ''v''=''y''/''x'':
+:&lt;math&gt; {dy \over dx} = 1/v + v&lt;/math&gt;
+
+Now
+:&lt;math&gt; v+x{dv \over dx} = 1/v + v&lt;/math&gt;
+Canceling ''v'' from both sides
+:&lt;math&gt; x{dv \over dx} = 1/v&lt;/math&gt;
+Separating
+:&lt;math&gt; v\, dv = dx/x&lt;/math&gt;
+Integrating both sides
+:&lt;math&gt; {1 \over 2}v^2+C= \ln(x) \,&lt;/math&gt;
+:&lt;math&gt; {1 \over 2}\left({y \over x}\right)^2= \ln(x)-C&lt;/math&gt;
+:&lt;math&gt; y^2 = 2x^2 \ln(x) - 2Cx^2 \,&lt;/math&gt;
+:&lt;math&gt; y = x\sqrt{2 \ln(x) - 2C}&lt;/math&gt;
+
+which is our desired solution.
+
+=== Linear equations ===
+A linear first order differential equation is a differential equation in the form
+:&lt;math&gt; a(x){dy \over dx} + b(x)y=c(x)&lt;/math&gt;
+
+Multiplying or dividing this equation by any non-zero function of ''x'' makes no difference to its solutions so we could always divide by ''a''(''x'') to make the coefficient of the differential 1, but writing the equation in this more general form may offer insights.
+
+At first glance, it is not possible to integrate the left hand side, but there is one special case. If ''b'' happens to be the differential of ''a'' then we can write
+
+:&lt;math&gt;a(x){dy \over dx} + b(x)y = a(x){dy \over dx} + y{da \over dx}
+= {d \over dx}a(x)y &lt;/math&gt;
+
+and integration is now straightforward.
+
+Since we can freely multiply by any function, lets see if we can use this freedom to write the left hand side in this special form.
+
+We multiply the entire equation by an arbitrary, ''I''(''x''), getting
+
+:&lt;math&gt; aI{dy \over dx} + bIy=cI&lt;/math&gt;
+
+then impose the condition
+
+:&lt;math&gt; \frac{d}{dx}aI = bI &lt;/math&gt;
+
+If this is satisfied the new left hand side will have the special form. Note that multiplying ''I'' by any constant will leave this condition still satisfied.
+
+Rearranging this condition gives
+
+:&lt;math&gt; \frac{1}{I}\frac{dI}{dx} = \frac{b-\frac{da}{dx}}{a} &lt;/math&gt;
+
+We can integrate this to get
+
+:&lt;math&gt; \ln I(x) = \int \frac{b(z)}{a(z)}dz - \ln a(x) + c \quad
+I(x)=\frac{k}{a(x)}e^{\int \frac{b(z)}{a(z)}dz}&lt;/math&gt;
+
+We can set the constant ''k'' to be 1, since this makes no difference.
+
+Next we use ''I'' on the original differential equation, getting
+
+:&lt;math&gt; e^{\int \frac{b(z)}{a(z)}dz}{dy \over dx} + 
+e^{\int \frac{b(z)}{a(z)}dz} \frac{b(x)}{a(x)}y
+=e^{\int \frac{b(z)}{a(z)}dz}\frac{c(x)}{a(x)}&lt;/math&gt;
+
+Because we've chosen ''I'' to put the left hand side in the special form we can
+rewrite this as 
+
+:&lt;math&gt; {d \over dx}(ye^{\int \frac{b(z)}{a(z)}dz}) = 
+e^{\int \frac{b(z)}{a(z)}dz}\frac{c(x)}{a(x)}&lt;/math&gt;
+
+Integrating both sides and dividing by ''I'' we obtain the final result
+
+:&lt;math&gt; y = e^{-\int \frac{b(z)}{a(z)}dz}
+\left(\int e^{\int \frac{b(z)}{a(z)}dz}\frac{c(x)}{a(x)}dx + C\right)
+&lt;/math&gt;
+
+We call ''I'' an ''integrating factor''. Similar techniques can be used on some other calculus problems.
+
+====Example====
+
+Consider
+
+:&lt;math&gt;\frac{dy}{dx} + y \tan x = 1 \quad y(0)=0&lt;/math&gt;
+
+First we calculate the integrating factor.
+
+:&lt;math&gt;I=e^{\int \tan x dx} = e^ {\ln \sec x} = \sec x &lt;/math&gt;
+
+Multiplying the equation by this gives
+
+
+:&lt;math&gt;\sec x \frac{dy}{dx} + y \sec x \tan x = \sec x &lt;/math&gt;
+
+or
+
+:&lt;math&gt; \frac{d}{dx} y\sec x = \sec x &lt;/math&gt;
+
+We can now integrate
+
+:&lt;math&gt; y = \cos x \int_0^x \sec z \, dz = \cos x \ln (\sec x + \tan x) &lt;/math&gt;
+
+=== Exact equations ===
+An exact equation is in the form
+: f(''x'', ''y'') d''x'' + g(''x'', ''y'') d''y'' = 0
+and, has the property that
+: D&lt;sub&gt;x&lt;/sub&gt; f = D&lt;sub&gt;y&lt;/sub&gt; g
+(If the differential equation does not have this property then we can't proceed any further).
+
+As a result of this, if we have an exact equation then there exists a function h(''x'', ''y'') such that 
+: D&lt;sub&gt;y&lt;/sub&gt; h = f and D&lt;sub&gt;x&lt;/sub&gt; h = g
+
+So then the solutions are in the form
+: h(''x'', ''y'') = c
+by using the fact of the total differential.
+We can find then h(''x'', ''y'') by integration
+
+&lt;!-- === Worked example ===
+Consider the differential equation 
+: (3''x''&lt;sup&gt;2&lt;/sup&gt; + 6''y''&lt;sup&gt;2&lt;/sup&gt;) d''x'' + ( (3''x''&lt;sup&gt;2&lt;/sup&gt; + 6''y''&lt;sup&gt;2&lt;/sup&gt;+4''y'') d''y''
+
+It is exact since
+: D&lt;sub&gt;x&lt;/sub&gt; (3''x''&lt;sup&gt;2&lt;/sup&gt; + 6''y''&lt;sup&gt;2&lt;/sup&gt;) = 6''x''
+: D&lt;sub&gt;y&lt;/sub&gt; (3''x''&lt;sup&gt;2&lt;/sup&gt; + 6''y''&lt;sup&gt;2&lt;/sup&gt;+4''y'') = 6''x''
+
+Now, there exists a function h such that
+: 1) D&lt;sub&gt;x&lt;/sub&gt; h = f = (3''x''&lt;sup&gt;2&lt;/sup&gt; + 6''y''&lt;sup&gt;2&lt;/sup&gt;)
+: 2) D&lt;sub&gt;y&lt;/sub&gt; h = g = (3''x''&lt;sup&gt;2&lt;/sup&gt; + 6''y''&lt;sup&gt;2&lt;/sup&gt;+4''y'') 
+
+Integrate D&lt;sub&gt;x&lt;/sub&gt; h, with treating ''y'' as a constant:
+: h(''x'', ''y'') = 2''y''&lt;sup&gt;3&lt;/sup&gt;+3''x''&lt;sup&gt;2&lt;/sup&gt;''y''+r(''y'')
+(We have the function r(''y'') because on differentiating with respect to ''x'' of the above expression, r(''y'') disappears - this is the similar procedure of adding an arbitrary constant)
+
+So now, 
+: D&lt;sub&gt;y&lt;/sub&gt; h = 3''x''&lt;sup&gt;2&lt;/sup&gt;+6''y''&lt;sup&gt;2&lt;/sup&gt;+r'(x)
+Comparing with (2), we see r'(''y'')=4''y'', so r(''y'')=2''y''&lt;sup&gt;2&lt;/sup&gt;+''C''
+
+So substituting above, we get 
+: h(''x'', ''y'')2''y''&lt;sup&gt;3&lt;/sup&gt;+3''x''&lt;sup&gt;2&lt;/sup&gt;''y''+2''y''&lt;sup&gt;2&lt;/sup&gt;+''C'' = ''C''&lt;sub&gt;1&lt;/sub&gt;
+where ''C''&lt;sub&gt;1&lt;/sub&gt; is a constant, and our most general solution is then 
+: 2''y''&lt;sup&gt;3&lt;/sup&gt;+3''x''&lt;sup&gt;2&lt;/sup&gt;''y''+2''y''&lt;sup&gt;2&lt;/sup&gt;=''k''
+and we have simply moved the two constants to the one side of the expression and made this one constant
+--&gt;
+
+==Basic second and higher order ODE's==
+
+The generic solution of a ''n''&lt;sup&gt;th&lt;/sup&gt; order ODE will contain ''n'' constants of integration. To calculate them we need ''n'' more equations.
+Most often, we have either
+:boundary conditions, the values of ''y'' and its derivatives take for two different values of ''x'' 
+or
+:initial conditions, the values of ''y'' and its first ''n-1'' derivatives take  for one particular value of ''x''.
+
+===Reducible ODE's===
+
+1.  If the independent variable, ''x'', does not occur in the differential equation then its order can be lowered by one. This will reduce a second order ODE to first order.
+
+Consider the equation:
+:&lt;math&gt;F\left(y,\frac{dy}{dx},\frac{d^2y}{dx^2}\right)=0&lt;/math&gt;
+Define
+:&lt;math&gt;u=\frac{dy}{dx}&lt;/math&gt;
+Then
+:&lt;math&gt;\frac{d^2y}{dx^2}=\frac{du}{dx}=\frac{du}{dy}\cdot\frac{dy}{dx}=\frac{du}{dy}\cdot u&lt;/math&gt;
+Substitute these two expression into the equation and we get
+:&lt;math&gt;F\left(y,u,\frac{du}{dy}\cdot u\right)&lt;/math&gt;=0
+which is a first order ODE
+
+====Example====
+Solve
+:&lt;math&gt;1+2y^2\operatorname{D}^2y=0&lt;/math&gt;
+if at ''x''=0,&amp;nbsp; ''y''=D''y''=1
+
+First, we make the substitution, getting
+:&lt;math&gt;1+2y^2 u \frac{du}{dy}=0&lt;/math&gt;
+This is a first order ODE.
+By rearranging terms we can separate the variables
+:&lt;math&gt;udu=-\frac{dy}{2y^2}&lt;/math&gt;
+Integrating this gives
+:&lt;math&gt;u^2/2=c+1/2y&lt;/math&gt;
+We know the values of ''y'' and ''u'' when ''x''=0 so we can find ''c''
+:&lt;math&gt;c=u^2/2-1/2y=1^2/2-1/(2\cdot 1)=1/2-1/2=0&lt;/math&gt;
+Next, we reverse the substitution
+:&lt;math&gt;\frac{dy}{dx}^2=u^2=\frac{1}{y}&lt;/math&gt;
+and take the square root
+:&lt;math&gt;\frac{dy}{dx}=\pm \frac{1}{\sqrt{y}}&lt;/math&gt;
+To find out which sign of the square root to keep, we use the initial condition, D''y''=1 at ''x''=0, again, and rule out the negative square root.
+We now have another separable first order ODE,
+:&lt;math&gt;\frac{dy}{dx}=\frac{1}{\sqrt{y}}&lt;/math&gt;
+Its solution is
+:&lt;math&gt;\frac{2}{3}y^\frac{3}{2}= x+d&lt;/math&gt;
+Since ''y''=1 when ''x''=0, ''d''=2/3, and 
+:&lt;math&gt;y=\left(1 + \frac{3x}{2} \right)^\frac{2}{3}&lt;/math&gt;
+
+2.  If the dependent variable, ''y'', does not occur in the differential equation then it may also be reduced to a first order equation.
+
+Consider the equation:
+:&lt;math&gt;F\left(x,\frac{dy}{dx},\frac{d^2y}{dx^2}\right)=0&lt;/math&gt;
+Define
+:&lt;math&gt;u=\frac{dy}{dx}&lt;/math&gt;
+Then
+:&lt;math&gt;\frac{d^2y}{dx^2}=\frac{du}{dx}&lt;/math&gt;
+Substitute these two expressions into the first equation and we get
+:&lt;math&gt;F\left(x,u,\frac{du}{dx}\right)&lt;/math&gt;=0
+which is a first order ODE
+
+===Linear ODEs===
+An ODE of the form
+:&lt;math&gt;\frac{d^ny}{dx^n}+a_1(x)\frac{d^{n-1}y}{dx^{n-1}}+ ... +a_n y=F(x)&lt;/math&gt;
+is called '''linear'''. Such equations are much simpler to solve than typical non-linear ODEs. Though only a few special cases can be solved exactly in terms of elementary functions, there is much that can be said about the solution of a generic linear ODE. A full account would be beyond the scope of this book &lt;!-- This book covers up to 1st year undergraduate, per intro. Save special functions (Bessel, Legendre etc), Sturm-Liouville problem, eigenfunctions, orthonormal bases, etc for a later book --&gt;
+
+
+If ''F(x)=0'' for all ''x'' the ODE is called '''homogeneous'''
+
+Two useful properties of generic linear equations are
+#Any linear combination of solutions of an homogeneous linear equation is also a solution.
+#If we have a solution of a nonhomogeneous linear equation and we add any solution of the corresponding homogenous linear equation we get another solution of the nonhomogeneous linear equation
+
+====Variation of constants====
+
+Suppose we have a linear ODE,
+:&lt;math&gt;\frac{d^ny}{dx^n}+a_1(x)\frac{d^{n-1}y}{dx^{n-1}}+ ... +a_n y=0&lt;/math&gt;
+and we know one solution, ''y=w(x)''
+
+The other solutions can always be written as ''y=wz''. This substitution in the ODE will give us terms involving every differential of ''z'' upto the ''n''&lt;sup&gt;th&lt;/sup&gt;, no higher, so we'll end up with an ''n''&lt;sup&gt;th&lt;/sup&gt; order linear ODE for ''z''.
+
+We know that ''z'' is constant is one solution, so the ODE for ''z'' must not contain a ''z'' term, which means it will effectively be an ''n-1''&lt;sup&gt;th&lt;/sup&gt; order linear ODE. We will have reduced the order by one.
+
+Lets see how this works in practice.
+
+=====Example=====
+
+Consider
+:&lt;math&gt;\frac{d^2y}{dx^2}+\frac{2}{x}\frac{dy}{dx}-\frac{6}{x^2}y=0&lt;/math&gt;
+
+One solution of this is ''y=x&lt;sup&gt;2&lt;/sup&gt;'', so substitute ''y=zx&lt;sup&gt;2&lt;/sup&gt;'' into this equation.
+
+:&lt;math&gt;\left( x^2\frac{d^2z}{dx^2}+4x\frac{dz}{dx}+2z\right) 
++\frac{2}{x} \left( x^2\frac{dz}{dx}+2xz \right) -\frac{6}{x^2}x^2 z=0&lt;/math&gt;
+
+Rearrange and simplify.
+:&lt;math&gt;x^2 D^2 z + 6xD z=0&lt;/math&gt; 
+This is first order for D''z''. We can solve it to get
+:&lt;math&gt;z=A x^{-5} \quad y=A x^{-3}&lt;/math&gt;
+
+Since the equation is linear we can add this to any multiple of the other solution to get the general solution,
+
+:&lt;math&gt;y=A x^{-3} + B x^2&lt;/math&gt;
+
+====Linear homogeneous ODE's with constant coefficients====
+
+Suppose we have a ODE
+:&lt;math&gt; (D^n+a_1 D^{n-1}+ ... + a_{n-1}D+a_0)y=0&lt;/math&gt;
+we can take an inspired guess at a solution (motivate this)
+:&lt;math&gt;y=e^{px}&lt;/math&gt;
+For this function D&lt;sup&gt;n&lt;/sup&gt;''y''=p&lt;sup&gt;n&lt;/sup&gt;y so the ODE becomes
+:&lt;math&gt; (p^n+a_1 p^{n-1}+ ... + a_{n-1}p+a_0)y=0&lt;/math&gt;
+
+''y=0'' is a trivial solution of the ODE so we can discard it. We are then left with the equation
+:&lt;math&gt; p^n+a_1 p^{n-1}+ ... + a_{n-1}p+a_0)=0&lt;/math&gt;
+This is called the ''characteristic'' equation of the ODE.
+
+It can have up to ''n'' roots, p&lt;sub&gt;1&lt;/sub&gt;,  p&lt;sub&gt;2&lt;/sub&gt; &amp;hellip;  p&lt;sub&gt;n&lt;/sub&gt;, each root giving us a different solution of the ODE.
+
+Because the ODE is linear, we can add all those solution together in any linear combination to get a general solution
+:&lt;math&gt;y=A_1 e^{p_1 x} +A_2 e^{p_2 x} + ... + A_n e^{p_n x}&lt;/math&gt;
+
+To see how this works in practice we will look at the second order case. Solving equations like this of higher order uses exactly the same principles; only the algebra is more complex.
+
+=====Second order=====
+
+If the ODE is second order,
+:&lt;math&gt;D^2 y + bDy+cy=0&lt;/math&gt;
+then the characteristic equation is a quadratic,
+:&lt;math&gt;p^2+bp+c=0&lt;/math&gt;
+with roots
+:&lt;math&gt;p_{\pm}=\frac{-b \pm \sqrt{b^2-4c}}{2}&lt;/math&gt;
+
+What these roots are like depends on the sign of ''b''&lt;sup&gt;2&lt;/sup&gt;-4''c'', so we have three cases to consider.
+
+''1) b&lt;sup&gt;2&lt;/sup&gt; &gt; 4c''
+
+In this case we have two different real roots, so we can write down the solution straight away.
+:&lt;math&gt; y=A_{+}e^{p_{+}}+A_{-}e^{p_{-}}&lt;/math&gt;
+
+
+''2) b&lt;sup&gt;2&lt;/sup&gt; &lt; 4c''
+
+In this case, both roots are imaginary. We could just put them directly in the formula, but if we are interested in real solutions it is more useful to write them another way.
+
+Defining k&lt;sup&gt;2&lt;/sup&gt;=4c-b&lt;sup&gt;2&lt;/sup&gt;, then the solution is
+:&lt;math&gt;y=A_{+}e^{ikx-\frac{bx}{2}}+A_{-}e^{-ikx-\frac{bx}{2}}&lt;/math&gt;
+
+For this to be real, the ''A''&lt;nowiki&gt;'&lt;/nowiki&gt;s must be complex conjugates
+:&lt;math&gt;A_{\pm}=A e^{\pm ia}&lt;/math&gt;
+
+Make this substitution and we can write,
+:&lt;math&gt;y=A e^{-bx/2}\cos (kx+a)&lt;/math&gt;
+
+If ''b'' is positive, this is a damped oscillation.
+
+
+''3) b&lt;sup&gt;2&lt;/sup&gt; = 4c''
+
+In this case the characteristic equation only gives us one root, ''p=-b/2''. We must use another method to find the other solution.
+
+We'll use the method of variation of constants. The ODE we need to solve is,
+:&lt;math&gt;D^2 y -2pDy+p^2y=0&lt;/math&gt;
+rewriting ''b'' and ''c'' in terms of the root. From the characteristic equation we know one solution is &lt;math&gt;y=e^{px}&lt;/math&gt; so we make the substitution &lt;math&gt;y=ze^{px}&lt;/math&gt;, giving
+:&lt;math&gt; (e^{px}D^2z+2pe^{px}Dz+p^2e^{px}z)-2p(e^{px}Dz+pe^{px}z)+p^2e^{px}z=0 &lt;/math&gt;
+This simplifies to D&lt;sup&gt;2&lt;/sup&gt;''z''=0, which is easily solved. We get
+:&lt;math&gt;z=Ax+B \quad y=(Ax+B)e^{px}&lt;/math&gt;
+so the second solution is the first multiplied by ''x''.
+
+Higher order linear constant coefficient ODE's behave similarly: an exponential for every real root of the characteristic and a exponent multiplied by a trig factor for every complex conjugate pair, both being multiplied by a polynomial if the root is repeated.
+
+E.g., if the characteristic equation factors to
+:&lt;math&gt;(p-1)^4(p-3)(p^2+1)^2=0&lt;/math&gt;
+the general solution of the ODE will be
+:&lt;math&gt;y=(A+Bx+Cx^2+Dx^3)e^x + Ee^{3x}+ F \cos (x+a) +Gx \cos(x+b)&lt;/math&gt;
+
+The most difficult part is finding the roots of the characteristic equation.
+
+====Linear nonhomogeneous ODEs with constant coefficients====
+
+First, let's consider the ODE
+:&lt;math&gt;Dy-y=x&lt;/math&gt;
+a nonhomogeneous first order ODE which we know how to solve.
+
+Using the integrating factor ''e&lt;sup&gt;-x&lt;/sup&gt;'' we find
+:&lt;math&gt;y=c e^{-x} +1 -x&lt;/math&gt;
+
+This is the sum of a solution of the corresponding homogeneous equation, and a polynomial.
+
+Nonhomogeneous ODE's of higher order behave similarly.
+
+If we have a single solution, ''y&lt;sub&gt;p&lt;/sub&gt;'' of the nonhomogeneous ODE, called a ''particular'' solution,
+:&lt;math&gt; (D^n+a_1 D^{n-1} + \cdots + a_n)y=F(x)&lt;/math&gt;
+then the general solution is ''y=y&lt;sub&gt;p&lt;/sub&gt;+y&lt;sub&gt;h&lt;/sub&gt;'', where ''y&lt;sub&gt;h&lt;/sub&gt;'' is the general solution of the homogeneous ODE. 
+
+Find ''y&lt;sub&gt;p&lt;/sub&gt;'' for an arbitrary ''F(x)'' requires methods beyond the scope of this chapter, but there are some special cases where finding ''y&lt;sub&gt;p&lt;/sub&gt;'' is straightforward.
+
+Remember that in the first order problem ''y&lt;sub&gt;p&lt;/sub&gt;'' for a polynomial ''F(x)'' was itself a polynomial of the same order. We can extend this to higher orders.
+
+''Example:''
+:&lt;math&gt;D^2y+y=x^3-x+1&lt;/math&gt;
+Consider a particular solution
+:&lt;math&gt;y_p=b_0+b_1 x+b_2 x^2 + x^3&lt;/math&gt;
+Substitute for ''y'' and collect coefficients
+:&lt;math&gt;x^3 + b_2 x^2 +(6+b_1)x +(2b_2+b_0)=x^3-x+1&lt;/math&gt;
+So ''b&lt;sub&gt;2&lt;/sub&gt;=0'', ''b&lt;sub&gt;1&lt;/sub&gt;=-7'', ''b&lt;sub&gt;0&lt;/sub&gt;=1'', and the general solution is
+:&lt;math&gt;y=a \sin x + b \cos x + 1 -7x + x^3&lt;/math&gt;
+
+This works because all the derivatives of a polynomial are themselves polynomials.
+
+Two other special cases are
+:&lt;math&gt;F(x)=P_n e^{kx} \quad y_p(x)=Q_n e^{kx}&lt;/math&gt;
+:&lt;math&gt;F(x)=A_n \sin kx +B_n \cos kx \quad 
+y_p(x)=P_n \sin kx +Q_n \cos kx&lt;/math&gt;
+where ''P&lt;sub&gt;n&lt;/sub&gt;'',''Q&lt;sub&gt;n&lt;/sub&gt;'',''A&lt;sub&gt;n&lt;/sub&gt;'', and ''B&lt;sub&gt;n&lt;/sub&gt;'' are all polynomials of degree ''n''.
+
+Making these substitutions will give a set of simultaneous linear equations for the coefficients of the polynomials.
+
+{{Calculus/TOC}}
+[[Category:Calculus (book)|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>4669ffd9w391n2n7tfy2wvuvzvkxk75</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CACS/Glossary/Basic</title>
+    <ns>0</ns>
+    <id>650</id>
+    <revision>
+      <id>1508357</id>
+      <parentid>1493428</parentid>
+      <timestamp>2009-05-25T23:51:16Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>recat</comment>
+      <text xml:space="preserve">'''Basic Language''' is a high level computer language that was intrroducd with the PC in the 1960s.
+BASIC is an acronym for '''B'''eginner's '''A'''ll-purpose '''S'''ymbolic '''I'''nstruction '''C'''ode.
+Basic was originally an [[CACS:Glossary/Interpreter|''interpreted language'']], but compilers were soon introduced.
+While there is an ''ANSI Standard'' Basic, most vendors use proprietary extensions. There is a subset or similar language used in ''Web pages'' called ''Basic Script.''
+Microsoft platform applications include another subset called ''Visual Basic for Applications (VBA)''.
+The '''.BAS''' ''file extension'' is frequently used for Basic source code.
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>mwg6qv102er8s54546432ln0duvjrsn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CACS/Glossary/Binary</title>
+    <ns>0</ns>
+    <id>651</id>
+    <revision>
+      <id>1508358</id>
+      <parentid>1493430</parentid>
+      <timestamp>2009-05-25T23:51:33Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>recat</comment>
+      <text xml:space="preserve">'''Binary''' is a number system in the base 2, which contains only the digits 0 and 1.
+Since computer memory is made up of off-on switches, all computer programs and data are ultimately encoded in binary.
+----
+'''Binary''' refers to a program that has been compiled into an executable module.
+When the module is stored, the '''.BIN''' ''file extension'' is used.
+Some development platform compilers produce a binary module that must still be ''linked'' with other modules to produce an executable program.
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>kjrhbpijwnv2ad54dr4qsvmjraiwnj7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CACS/Glossary/Borland</title>
+    <ns>0</ns>
+    <id>652</id>
+    <revision>
+      <id>1508359</id>
+      <parentid>1493432</parentid>
+      <timestamp>2009-05-25T23:52:15Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>recat</comment>
+      <text xml:space="preserve">'''Borland''' &lt;small&gt;''(Company)''&lt;/small&gt; is a software developer and vendor specializing in development tools, language compilers, and data base platforms.
+It was founded in 1983, and is located in Scotts Valley, California.
+Their Web address is [http://www.borland.com/index.html Borland.com].
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>ms32z8l4j94d1erlfnkpb5muia6166l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CACS/Glossary/Computer</title>
+    <ns>0</ns>
+    <id>653</id>
+    <revision>
+      <id>1508361</id>
+      <parentid>1493436</parentid>
+      <timestamp>2009-05-25T23:52:41Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>recat</comment>
+      <text xml:space="preserve">A '''Computer''' is programmable machine containing memory, input and output devices, and a ''central processor (CPU)''; and capable of executing a stored program.
+Each computer has a well defined ''instruction set'' that is used in ''programming'' it.
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>fq7ojaqo0pg5ap7h0vn60f84zkefk7f</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Spanish/Typing Spanish Characters</title>
+    <ns>0</ns>
+    <id>654</id>
+    <revision>
+      <id>2670359</id>
+      <parentid>2670352</parentid>
+      <timestamp>2014-06-06T09:25:02Z</timestamp>
+      <contributor>
+        <username>Xania</username>
+        <id>40302</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/59.160.18.89|59.160.18.89]] ([[User talk:59.160.18.89|talk]]) to last version by Recent Runes</comment>
+      <text xml:space="preserve">== Windows ==
+
+=== Language Settings (fastest) ===
+The idea of changing the language settings is that you can then type
+characters quickly and easily (for example by pressing Alt+a for 
+typing '''á'''). 
+
+==== Windows XP ====
+This is a list that describes how to change the language settings
+for Windows XP.
+
+# Click the Start button 
+# Click on Control Panel 
+# Click Regional and Language Options - a new window will pop up 
+# Click the Languages tab 
+# Click on the Details button 
+# Click the Add button - a new window will pop up 
+# Select &quot;United States-International (keyboard layout menu)&quot; or &quot;United States-Dvorak (International)&quot;
+# Click OK 
+# Click Apply 
+
+Now you should see a keyboard icon at your task bar at the bottom. 
+Click on this icon to switch to the United States International keyboard layout. 
+This keyboard layout has a new key (AltGr) and 5 ''dead keys''. The dead keys are explained [[Spanish/Typing Spanish Characters#Dead_Keys|below]]. An interactive diagram of this layout can be found in [http://www.microsoft.com/globaldev/keyboards/kbdusx.htm].
+
+The US International keyboard has two different Alt keys.
+The left Alt key continues to be the regular Alt key, normally associated with Windows menus. The right Alt key becomes what is called AltGr (or graphic Alt) key.
+This key lets you type very quickly special characters in Spanish and other languages by using ''AltGr'' and then typing a character from the list below.
+
+Note: + indicate typing one key after the other. - is typing two keys at the same time.
+
+===== Lower-Case Characters =====
+ á -&gt; AltGr+a
+ é -&gt; AltGr+e
+ í -&gt; AltGr+i
+ ó -&gt; AltGr+o
+ ú -&gt; AltGr+u
+ ü -&gt; AltGr+y
+ ñ -&gt; AltGr+n
+
+ ç -&gt; AltGr+,
+ &amp;aring; -&gt; AltGr+w
+
+===== Upper-Case Characters =====
+ Á -&gt; AltGr+Shift-a
+ É -&gt; AltGr+Shift-e
+ Í -&gt; AltGr+Shift-i
+ Ó -&gt; AltGr+Shift-o
+ Ú -&gt; AltGr+Shift-u
+ Ü -&gt; AltGr+Shift-y
+ Ñ -&gt; AltGr+Shift-n
+
+ Ç -&gt; AltGr+Shift-,
+ &amp;ETH; -&gt; AltGr+Shift-d
+
+===== Other Symbols =====
+ ¿ -&gt; AltGr+?
+ ¡ -&gt; AltGr+!
+ « -&gt; AltGr+[      Spaniards prefer «angular» quotes
+ &amp;raquo; -&gt; AltGr+]      Latin Americans prefer the &amp;ldquo;curly&amp;rdquo; ones
+ ° -&gt; AltGr+:      Degree sign; ordinal sign, as in ''4° año = cuarto año''
+ &amp;euro; -&gt; AltGr+5
+ &amp;cent; -&gt; AltGr+Shift-c
+ &amp;pound; -&gt; AltGr+$
+ &amp;yen; -&gt; AltGr+-
+
+===== Dead Keys =====
+
+The US International keyboard has five ''dead keys''. They add the symbol they have marked at the top of the following letter.
+
+ '+a = á; '+e = é; ...
+ &quot;+a = ä; ...; &quot;+u = ü
+ ~+a = ã; ~+n = ñ
+ ^+a = â; ...
+ `+a = à; ...
+ '+Shift-a = Á; '+Shift+e = É; ...
+ &quot;+Shift-u = Ü; ...
+ ~+Shift-n = Ñ; ...
+
+To enter what's written on a dead key you need to add a space. 
+' followed by space generates an actual apostrophe.
+
+==== Other Operating Systems ====
+Information on some other operation systems can be found
+[http://www.studyspanish.com/accents/typing.htm here].
+
+=== Alt Number Codes ===
+You can type a special character by pressing and holding down
+the ''Alt'' button and then typing a number code on the number
+pad of your keyboard. The most frequently used characters have both a three-digit
+and a four-digit code. Less frequent characters (such as Á)
+have only a four-digit code. This page contains a good overview of
+[http://www.starr.net/is/type/altnum.htm special characters] for different languages
+
+==== Lower Case Characters ====
+ á -&gt; Alt-160 or Alt-0225
+ ç -&gt; Alt-135 or Alt-0231 
+ é -&gt; Alt-130 or Alt-0233
+ í -&gt; Alt-161 or Alt-0237
+ ñ -&gt; Alt-164 or Alt-0241
+ ó -&gt; Alt-162 or Alt-0243
+ ú -&gt; Alt-163 or Alt-0250 
+ ü -&gt; Alt-129 or Alt-0252
+
+==== Upper Case Characters ====
+ Á -&gt;            Alt-0193  
+ Ç -&gt; Alt-128 or Alt-0199
+ É -&gt; Alt-144 or Alt-0201  
+ Í -&gt;            Alt-0205
+ Ñ -&gt; Alt-165 or Alt-0209
+ Ó -&gt;            Alt-0211
+ Ú -&gt;            Alt-0218  
+ Ü -&gt; Alt-154 or Alt-0220
+
+==== Punctuation Marks ====
+ ¿ Alt-168 or Alt-0191
+ ¡ Alt-173 or Alt-0161
+
+=== Copy &amp; Paste ===
+This method can be useful if you are just writing a short
+text (for example an e-mail) and don't have a computer
+where you can/want change language settings. Just try to
+pull up a web page or a document that contains the special
+characters and paste them into your text. For longer texts,
+however, this can become quite tedious.
+
+=== Search &amp; Replace ===
+If you are working with a text editor you have the option to
+search for text and replace it with other text. This feature
+can be used to 'type' special characters. The idea is to
+''mark'' a character for becoming a special character, for
+example typing ''~a'' when you mean ''á''. After you have written
+your text you replace marked characters (the ''~a'') with
+special characters (the ''á''). Of course you have to either
+type in the Alt number code or paste the character,
+but the point is that you only have to do it ''once'' for
+the whole text and not for every single ''á'' that you want to
+type.
+
+==== Automated Search &amp; Replace ====
+If you know a programming language that allows string processing
+you can automate the ''Search &amp; Replace'' process by a computer
+program which automatically replaces all your marked characters with 
+the appropriate special characters after you are done with typing
+your text.
+
+=== References ===
+* http://www.studyspanish.com/accents/typing.htm
+* http://www.starr.net/is/type/altnum.htm
+
+==Macintosh==
+
+Compared to Windows, typing Spanish characters on a Macintosh is relatively easy. So long as you are using a standard American or UK-style QWERTY keyboard, you may just use the following keyboard commands. (Note that you should release the Option (Opt) key before striking the second letter; for example, for á, hold down Option, strike E, release Option, strike A.)
+
+One good way to practice typing Spanish characters on a Mac is to use the Key Caps program, which should be in the Utilities folder in the Applications folder. This simple program will show you what characters you can type next if you hold down the Option and/or Shift keys.
+
+=== Lower-Case Characters ===
+ á -&gt; Opt+E, A
+ é -&gt; Opt+E, E
+ í -&gt; Opt+E, I
+ ó -&gt; Opt+E, O
+ ú -&gt; Opt+E, U
+ ü -&gt; Opt+U, U
+ ñ -&gt; Opt+N, N
+
+ ç -&gt; Opt+C
+ &amp;aring; -&gt; Opt+A
+
+=== Upper-Case Characters ===
+ Á -&gt; Opt+E, Shift+A
+ É -&gt; Opt+E, Shift+E
+ Í -&gt; Opt+E, Shift+I
+ Ó -&gt; Opt+E, Shift+O
+ Ú -&gt; Opt+E, Shift+U
+ Ü -&gt; Opt+U, Shift+U
+ Ñ -&gt; Opt+N, Shift+N
+
+ Ç -&gt; Opt+Shift+C
+
+=== Other Symbols ===
+ ¿ -&gt; Opt+Shift+/ (forward slash; same key as ?)
+ ¡ -&gt; Opt+1
+ « -&gt; Opt+\ (back slash; under the Delete key)
+ &amp;raquo; -&gt; Opt+Shift+\
+ *Note that Spaniards prefer «angle quotes,» whereas Latin Americans prefer &amp;ldquo;curly quotes&amp;rdquo; as in English.
+ ° -&gt; Opt+Shift+8      Degree sign; ordinal sign, as in ''4° año = cuarto año''
+ &amp;euro; -&gt; Opt+Shift+2
+ &amp;cent; -&gt; Opt+4
+ &amp;pound; -&gt; Opt+3
+ &amp;yen; -&gt; Opt+Y
+
+== KDE/GNOME ==
+In KDE and GNOME you can choose the international US keyboard layout.  
+
+In KDE, go to Regional &amp; Accessibility - Keyboard Layout in the ''KDE Control Center''. Add the international US keyboard layout to your active layouts. With the flag icon in your taskbar you can now switch between different layouts.
+
+In GNOME, find preferences in the system menu, and select ''keyboard'' from the preferences menu. Add the US English International layout to your layouts. Alt+Alt will cycle through the various layouts you have added. Alternatively, keyboard layout selection and management may be done via the GNOME ''keyboard indicator'' applet, which may be added to your panel.
+
+With the appropriate keyboard layout selected, you can type á by typing ' and then a:
+
+ 'a á
+ 'e é
+ 'i í
+ 'o ó
+ 'u ú
+ &quot;u ü
+ ~n ñ
+
+== X Windows ==
+In X Windows (the default windowing system for Linux which both KDE and Gnome run on top of) you can create a custom X keyboard layout with the special Spanish letters added; more information is [http://www.samiam.org/typing.spanish.characters.html#linux here].
+
+[[Category:Spanish]]</text>
+      <sha1>36lncbcie4imschwtay8vnuzs87o4fr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Spanish/Web Resources</title>
+    <ns>0</ns>
+    <id>655</id>
+    <revision>
+      <id>2714934</id>
+      <parentid>2573626</parentid>
+      <timestamp>2014-10-18T17:59:43Z</timestamp>
+      <contributor>
+        <ip>49.207.234.154</ip>
+      </contributor>
+      <comment>/* Software (software) */</comment>
+      <text xml:space="preserve">===Leer en línea (read online)===
+
+Todos los enlaces llevan a páginas en español (''all links go to Spanish language pages'').
+*[http://www.veintemundos.com/en/ VeinteMundos Spanish E-Magazine] (free online resource with vocab and podcasts)
+*[http://www.telesurtv.net/ TeleSurTV] (South America's own CNN)
+*[http://espanol.yahoo.com/ Yahoo]
+*[http://www.cnnenespanol.com/ CNN]
+*[http://news.bbc.co.uk/hi/spanish/news/ BBC Mundo] BBC World
+*Lista de [http://periodicos.ws/ periódicos] (list of newspapers)
+*[http://www.healthfinder.gov/espanol/default.htm Informacion sobre la salud] Health information
+*[http://www.biblegateway.org/cgi-bin/bible?language=spanish La Biblia] the Bible
+*[http://es.wikipedia.org/ Wikipedia]
+
+=== Estudiar el español (to study Spanish) ===
+* http://www.lingolex.com/spanish.htm (Large collection of free learning Spanish resources)
+* http://www.learnspanishinspainwith.us (Learn Spanish in Spain)
+* http://www.wiracochaschool.org (Immersion Spanish courses)
+* http://www.spanishpod101.com (Podcasts for learning Spanish)
+* http://www.wiracochaschool.org (Learn spanish in Peru)
+* http://www.onlinespanishhelp.com
+* http://www.patagoniaschool.com  (Spanish Courses in Argentina -Patagonia)
+* http://www.executivespanishimmersion.com/ (Spanish Immersion Programs)
+* http://www.rocketspanish.com/ (Learn Spanish)
+* http://www.english-spanish-translator.org (Spanish Language Community)
+* http://www.spanish-translator-services.com/ (Free Spanish Translator Resources)
+* http://www.jetpunk.com/tags/spanish-language-vocabulary.php (Spanish Vocabulary Quizzes)
+* http://www.elcastellano.org/
+* http://study-spanish.net/
+* http://spanish.about.com/
+* http://www.spanicity.com (grammar and audio lessons)
+* http://spanish.allinfo-about.com/
+* http://www.spanishstudyholidays.com/
+* http://www.ielanguages.com/spanish.html
+* http://www.rae.es/ (Spanish Royal Academy of Language, see http://www.wikipedia.org/wiki/Real_Academia_Espa%F1ola .)
+* http://www.bbc.co.uk/languages/spanish/
+* http://www.indiana.edu/~call/reglas.html (focusses on Spanish grammar)
+* http://www.notesfromspain.com/ (podcasts of everyday Spanish)
+* http://www.supremespanish.com/ (Conversational Spanish)
+* http://www.spanishlanguageimmersion.net/
+* http://www.perulanguage.com/
+* http://www.spanish-schools.com.ar/ (Learn Spanish)
+* http://www.spanishconversationclub.com/ (learn Spanish for free)
+* http://www.thespanishforum.co.uk/ (Spanish language forum)
+* http://www.gooverseas.com/study-abroad/peru (reviews of study abroad programs in Peru)
+
+=== Software (software) ===
+*(links to sites where you can download software for learning Spanish)
+**[http://spanishexito.com/ Spanish Éxito] The most effective Spanish learning program available.
+**[http://pythonol.sourceforge.net/ Pythoñol] Pythonol, an opensource Spanish learning program. Note: For Linux users
+**[http://wordsgalore.com/ WordsGalore] 9,100 Spanish and English Words. Flash cards. Make your own MP3s. Windows only.
+**[https://play.google.com/store/apps/details?id=com.altergyan.learnspanishquickly Learn Spanish Quickly] - Android app to learn Spanish
+www.spanishconversationclub.com (Spansih as foreign language conversation club in London)
+
+=== Diccionarios (dictionaries) ===
+* http://www.diccionarios.com/
+* http://www.spanish-translator-services.com/
+* http://education.yahoo.com/reference/dict_en_es/
+* http://www.spanishdict.com/
+* http://dictionary.reference.com/
+* http://www.wordreference.com
+* http://en.wiktionary.org/wiki/Main_Page
+* http://www.wordmagicsoft.com/dictionary/tools/index.php
+
+=== Misceláneo (miscellaneous) ===
+* http://www.lenguaje.com/cgi-bin/motnumeng.exe (change numbers into letters)
+* http://www.english-spanish-translations.com (Spanish Resources in English)
+[[Category:Spanish]]
+* [http://www.mepsyd.es/redele/revista7/mendoza.pdf Medicine Spanish].</text>
+      <sha1>35yo356m2jsh83b52qwym6vswpc3egw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Spanish/History</title>
+    <ns>0</ns>
+    <id>656</id>
+    <revision>
+      <id>532412</id>
+      <parentid>473594</parentid>
+      <timestamp>2006-07-22T07:38:28Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">Here is a little history about the development of this Wikibook, detailing milestones since the beginning of the project.
+
+=== 1 Jun 2006 ===
+* 109 pages under Spanish namespace
+* 29 pages outside of Spanish namespace
+* 31 pages linked to from main page
+:* 1 entry page
+:* 10 lessons
+:* 3 vocabulary
+:* 3 grammar
+:* 4 verbs
+:* 4 learning tools
+:* 3 &quot;and more&quot; pages
+:* 1 history of the project
+:* 1 list of contributors
+:* 1 requests page
+* 10 lessons complete (one more linked to but as of yet unedited)
+* 2 stubs
+* Index of sound files (but all links are broken)
+* 14 exercises
+* 8 external links
+* 8 users listed as main contributors
+
+=== 03 Oct 2003 ===
+* '''6 lessons complete''' with vocabulary, grammar, and exercises
+* about 10 exercises (all of which are &quot;fill in the blank&quot; type of exercises)
+
+=== 25 Aug 2003 ===
+* Most titles now in both Spanish and English
+* Index of soundfiles
+* First exercise (regular verbs)
+
+=== 16 Aug 2003 ===
+* Introduction
+* 8 Lessons (3 lesson with more than just mere vocabulary)
+* 4 Appendices (Characters, Slang, Verb Tenses, Web Resources)
+* A handful of images and sound files
+* A total of about 10 users have contributed to the book
+* Talk page contains a huge number of potential topics
+
+=== 09 Aug 2003 ===
+* Introduction
+* 6 Lessons (1 lesson with more than just mere vocabulary)
+* 1 Appendix (Slang)
+
+=== 02 Aug 2003 ===
+* Spanish took off as the first Wikibook on a foreign language
+
+[[Category:Spanish]]</text>
+      <sha1>jeumgwl7ul084efx6q8f7fphjuukx64</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Spanish/History</title>
+    <ns>1</ns>
+    <id>657</id>
+    <revision>
+      <id>1867684</id>
+      <parentid>1865606</parentid>
+      <timestamp>2010-06-28T23:38:55Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>replaced: {{WikiProject Languages}} → {{WikiProject Languages|spanish=yes}}</comment>
+      <text xml:space="preserve">{{WikiProject Languages|spanish=yes}} 
+
+Wow this whole thing is pretty exciting dont you think ? --[[User:Karl Wick|Karl Wick]]
+
+Yep, when looking back it is quite amazing how much has been already done
+in two weeks. If the number of contributers keeps increasing steadily
+then the book might become pretty good ;) -- [[User:ThomasStrohmann | Thomas Strohmann]]
+
+I've updated the history because now it's about two months since the Spanish
+Wikibook started. I'm really glad how far it has developed by now. But as
+it's always the case with a Wiki Website: there is always a lot that can
+be improved. So keep up the good work! [[User:ThomasStrohmann | Thomas]]
+
+== Periodic Updating of History ==
+
+It looks like the history was being updated weekly when this Wikibook started.  This only continued for five weeks.  Then it was not updated again for two years and eight months!  So, if we're going to update this regularly again, how often does everyone think it should be updated?  --[[User:Think Fast|Think Fast]] 14:55, 26 June 2006 (UTC)
+: 1 month --[[User:Think Fast|Think Fast]] 14:19, 27 June 2006 (UTC)</text>
+      <sha1>i4qn2x7zoopsqy9qqwen7pq6yb8l73b</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Spanish/Verbs</title>
+    <ns>1</ns>
+    <id>664</id>
+    <revision>
+      <id>1867808</id>
+      <parentid>1865728</parentid>
+      <timestamp>2010-06-28T23:45:09Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>replaced: {{WikiProject Languages}} → {{WikiProject Languages|spanish=yes}}</comment>
+      <text xml:space="preserve">{{WikiProject Languages|spanish=yes}} 
+
+Someone who knows, please rearrange this from alphabetical order into a logical order for learning, such as from simplest to most complex. 
+
+I think having an alphabetic order for this appendix is OK since it would be used more likely for quick look-ups (learning the tenses from simple to complex should be done with the lessons structure).
+
+
+----
+I'm going to add all the forms of the typical 1st, 2nd and 3rd conjugation verbs in Spanish: am'''ar''', tem'''er''' and part'''ir'''. There should also be a page for the irregular verbs. [[User:Sabbut|Sabbut]] 10:20, 19 Dec 2003 (UTC)</text>
+      <sha1>abrojxol7h26ajtt3ys3p9nhsg2ggcx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:WouterVH</title>
+    <ns>2</ns>
+    <id>668</id>
+    <revision>
+      <id>152807</id>
+      <timestamp>2003-08-17T13:27:52Z</timestamp>
+      <contributor>
+        <username>WouterVH</username>
+        <id>34</id>
+      </contributor>
+      <comment>projects</comment>
+      <text xml:space="preserve">==Projects I'm currently working on:==
+*[http://www.opencursus Open Cursus Initiatief]
+*[http://www.vrijschrift.org Vrijschrift]
+*[http://www.open-education Open-Education.org]</text>
+      <sha1>n8tqta9tb62jzc2dda897gcyfu97zo4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Biochemistry/Thermodynamics</title>
+    <ns>0</ns>
+    <id>669</id>
+    <revision>
+      <id>2289388</id>
+      <parentid>2140570</parentid>
+      <timestamp>2012-03-19T17:57:52Z</timestamp>
+      <contributor>
+        <username>Dintymusk</username>
+        <id>590806</id>
+      </contributor>
+      <comment>/* What Does &amp;Delta;G Really Mean? */ --I corrected an incorrect statement in the section.  When DeltaG equals zero (at chemical equilibrium, reaction does NOT cease, but proceeds at the same rate in the forward and reverse directions.</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Biochemistry|&lt;&lt; Introduction to Biochemistry]] | Thermodynamics | [[Biochemistry/Catalysis|Catalysis &gt;&gt;]]
+&lt;/noinclude&gt;
+----
+
+== Why Do Substances React? ==
+Chemical (and thus, biochemical) reactions only occur to a significant extent if they are energetically favorable.  If the products are more stable than the reactants, then in general the reaction will, over time, tend to go forward.  Ashes are more stable than wood, so once the energy of activation is supplied (e.g., by a match), the wood will burn.  There are plenty of exceptions to the rule, of course, but as a rule of thumb it's pretty safe to say that &lt;u&gt;if the products of a reaction represent a more stable state, then that reaction will go in the forward direction.&lt;/u&gt;
+
+There are two factors that determine whether or not reactions changing reactants into products are considered to be ''favorable'': these two factors are simply called '''enthalpy''' and '''entropy'''.
+
+=== Enthalpy ===
+Simply put, '''enthalpy''' is the heat content of a substance (''H'').  Most people have an intuitive understanding of what heat is... we learn as children not to touch the burners on the stove when they are glowing orange.  Enthalpy is '''not''' the same as that kind of heat.  Enthalpy is the sum of all the internal energy of a substance's matter plus its pressure times its volume.  Enthalpy is therefore defined by the following equation:
+
+
+&lt;!-- this equation taken from wikipedia article on Enthalpy --&gt;
+:&lt;math&gt;H = U + PV \,&lt;/math&gt;
+where (all units given in SI)
+*''H'' is the enthalpy
+*''U'' is the internal energy, (joules)
+*''P'' is the pressure of the system, (Pascals)
+* and ''V'' is the volume, (cubic meters)
+
+
+If the enthalpy of the reactants while being converted to products ends up decreasing (&amp;Delta;''H'' &lt; 0), that means that the products have less enthalpy than the reactants and energy is released to the environment. This reaction type is termed ''exothermic''.  In the course of most biochemical processes there is little change in pressure or volume, so the change in enthalpy accompanying a reaction generally reflects the change in the internal energy of the system. Thus, exothermic reactions in biochemistry are  processes in which the products are lower in energy than the starting materials.  
+
+As an example, consider the reaction of glucose with oxygen to give carbon dioxide and water.  Strong bonds form in the products, reducing the internal energy of the system relative to the reactants. This is a highly exothermic reaction, releasing 2805 kJ of energy per mole of glucose that burns (&amp;Delta;''H'' = -2805 kJ/mol).  That energy is given off as heat. 
+
+
+{| border=&quot;1&quot; cellpadding=&quot;4&quot;
+|-
+! &amp;Delta;''H''
+! reactants/products
+! environment
+! favorable
+|-
+| &amp;lt; 0 || releases heat || heats up || yes
+|-
+| &amp;gt; 0 || gains heat || cools down || no
+|}
+
+=== Entropy ===
+'''Entropy''' (symbol ''S'') is the measure of randomness in something.  It represents the most likely of statistical possibilities of a system, so the concept has extremely broad applications.  In chemistry of all types, entropy is generally considered important in determining whether or not a reaction goes forward based on the principle that a less-ordered system is more statistically probable than a more-ordered system.
+
+What does that mean, really?  Well, if the volcano Mt. Vesuvius erupted next to a Roman-Empire era Mediterranean city, would the volcano be more likely to destroy the city, or build a couple of skyscrapers there?  It's pretty obvious what would happen (or, rather, what ''did'' happen) because it makes sense to us that natural occurrences favor randomness (destruction) over order (construction, or in this case, skyscrapers).  Entropy is just a mathematical way of expressing these essential differences.
+
+When it comes to chemistry, there are three major concepts based on the concept of entropy:
+# ''Intramolecular'' states (''Degrees of freedom'')
+#* The more degrees of freedom (how much the molecules can move in space) a molecule has, the greater the degree of randomness, and thus, the greater the entropy.  
+#* There are three ways molecules can move in space, and each has a name: rotation = movement around an axis, vibration = intramolecular movement of two bonded atoms in relation to each other, and translation = a molecule moving from place to place. 
+# ''Intermolecular'' structures
+#* When molecules can interact with each other by forming non-covalent bonds a structure is often created. 
+#* This tends to reduce randomness (and thus entropy) since any such association between molecules stabilizes the motion of both and decreases the possibilities for a random distribution.
+# Number of possibilities
+#* The more molecules present, the more ways of distributing the molecules in space - which because of statistical probabilities means more potential for randomness. 
+#* Also, if there is more space available to distribute the molecules within, the randomness increases for precisely the same reason 
+#* ''solid matter (least entropy)'' &lt;&lt; ''liquids'' &lt;&lt; ''gases (most entropy)''
+ 
+
+Changes in entropy are denoted as &amp;Delta;S. For the reasons stated above (in the volcano situation), the increase of entropy (&amp;Delta;S &gt; 0) is considered to be favorable as far as the Universe in general is concerned.  A decrease in entropy is generally not considered favorable unless an energetic component in the reaction system can make up for the decrease in entropy (see free energy below).
+
+
+{| border=&quot;1&quot; cellpadding=&quot;4&quot;
+|-
+! &amp;Delta;S
+! entropy
+! favorable
+|-
+| &amp;gt; 0 || increases || yes
+|-
+| &amp;lt; 0 || decreases || no
+|}
+
+===Gibbs Free Energy===
+Changes of both '''enthalpy''' (&amp;Delta;H) and '''entropy''' (&amp;Delta;S) combined decide how favorable a reaction is.  For instance, burning a piece of wood releases energy (''exothermic'', favorable) and results in a substance with less structure (CO&lt;sub&gt;2&lt;/sub&gt; and H&lt;sub&gt;2&lt;/sub&gt;O gas, both of which are less 'ordered' than solid wood).  Thus, one could predict that once a piece of wood was set on fire, it would continue to burn until it was gone.  The fact that it does so is ascribed to the change in its '''Gibbs Free Energy'''.
+
+The overall favorability of a reaction was first described by the prominent chemist [[w:Willard Gibbs|Josiah Willard Gibbs]], who defined the ''free energy'' of a reaction as
+::&amp;Delta;G = &amp;Delta;H - T &amp;Delta;S
+
+where T is the temperature on the Kelvin temperature scale.  The formula above assumes that pressure and temperature are constant during the reaction, which is almost always the case for biochemical reactions, and so this book makes the same assumption throughout. 
+
+The unit of &amp;Delta;G (for ''Gibbs'') is the &quot;joule&quot; in SI systems, but the unit of &quot;calorie&quot; is also often used because of its convenient relation to the properties of water.  This book will use both terms as convenient, but the preference should really be for the SI notation.
+
+===What Does &amp;Delta;G Really Mean?===
+If &amp;Delta;G &lt; 0 then the reactants should convert into products (signifying a forward reaction)... eventually.  (Gibbs free energy says nothing about a reaction's ''rate'', only its ''probability''.)  Likewise, for a given reaction if &amp;Delta;G &gt; 0 then it is known that the reverse reaction is favored to take place. A state where &amp;Delta;G = 0 is called '''equilibrium''', and this is the state where the reaction in both the forward and reverse directions take place at the same rate, thus not changing the '''net''' effect on the system.
+
+&lt;blockquote&gt;
+How is equilibrium best explained?  Alright, as an example set yourself on the living room carpet with your most gullible younger relative (a little nephew, niece or cousin will work fine).  Take out a set of Monopoly, take one ten dollar bill for yourself and give your little relative the rest.  Now both of you give the other 5% of all that you have.  Do this again, and again, and again-again-again until eventually... you both have the same amount of money.  This is '''precisely''' what the equilibrium of a reaction means, though equilibrium only very rarely results in an even, 50-50% split of products and reactants.
+&lt;/blockquote&gt;
+
+&amp;Delta;G naturally varies with the concentration of reactants and products. When &amp;Delta;G reaches 0, the reaction rate in the forward direction and the reaction rate in the reverse direction are the same, and the concentration of reactants and products no longer appears to change; this state is called the ''point of chemical equilibrium''.  You and your gullible little relative have stopped gaining and losing Monopoly money, respectively; you both keep exchanging the same amount each turn.  Note again that equilibrium is ''dynamic''.  Chemical reaction does not cease at equilibrium, but products are converted to reactants and reactants are converted to products at exactly the same rate.
+
+A small &amp;Delta;G (that is, a value of &amp;Delta;G close to 0) indicates that a reaction is somewhat reversible; the reaction can actually run backwards, converting products back to reactants. A very large &amp;Delta;G (that is, &amp;Delta;G &gt;&gt; 0 or &amp;Delta;G &lt;&lt; 0) is precisely the opposite, because it indicates that a given reaction is irreversible, i.e., once the reactants become products there are very few molecules that go back to reactants.
+
+== Metabolic pathways ==
+The food we consume is processed to become a part of our cells; DNA, proteins, etc. If the biochemical reactions involved in this process were reversible, we would convert our own DNA back to food molecules if we stop eating even for a short period of time. To prevent this from happening, our ''metabolism'' is organized in ''metabolic pathways''. These pathways are a series of biochemical reactions which are, as a whole, irreversible. The reactions of a pathway occur in a row, with the products of the first reaction being the reactants of the second, and so on:
+:A &amp;#8652; B &amp;#8652; C &amp;#8652; D &amp;#8652; E
+At least one of these reactions has to be irreversible, e.g.:
+:A &amp;#8640; B &amp;#8652; C &amp;#8652; D &amp;#8640; E
+The control of the irreversible steps (e.g., A &amp;rarr; B) enables the cell to control the whole pathway and, thus, the amount of reactants used, as well as the amount of products generated.
+
+Some metabolic pathways do have a &quot;way back&quot;, but it is not the same pathway backwards. Instead, while using the reversible steps of the existing pathway, at least one of the irreversible reactions is bypassed by another (irreversible) one on the way back from E to A:
+:E &amp;#8640; '''X''' &amp;#8652; C &amp;#8652; B &amp;#8640; A
+This reaction is itself controlled, letting the cell choose the direction in which the pathway is running.
+
+
+== Free energy and equilibrium ==
+For &amp;Delta;G, the free energy of a reaction, standard conditions were defined:
+*concentration of reactants and products at 1M
+*temperature at 25&amp;deg;C
+*acidity at pH 7.0
+Under these standard conditions, '''&amp;Delta;G&lt;sup&gt;0'&lt;/sup&gt;''' is defined as the '''standard free energy change'''.
+
+For a reaction
+:A + B &amp;#8652; C + D
+the ratio of products to reactants is given by &lt;b&gt;k&lt;sub&gt;eq&lt;/sub&gt;'&lt;/b&gt; (=k&lt;sub&gt;eq&lt;/sub&gt; at pH 7.0):
+:&lt;math&gt;k_{eq}^\prime = {products \over reactants} = {[C][D] \over [A][B]}&lt;/math&gt;
+The relationship of &amp;Delta;G&lt;sup&gt;0'&lt;/sup&gt; and k&lt;sub&gt;eq&lt;/sub&gt;' is
+:&amp;Delta;G&lt;sup&gt;0'&lt;/sup&gt; = - R T ln k&lt;sub&gt;eq&lt;/sub&gt;' = - R T 2.030 log&lt;sub&gt;10&lt;/sub&gt; k&lt;sub&gt;eq&lt;/sub&gt;'
+with
+:R = 8.315 [J mol&lt;sup&gt;-1&lt;/sup&gt; K&lt;sup&gt;-1&lt;/sup&gt;] ([[w:molar gas constant|molar gas constant]])
+:T = temperature [K]
+
+In theory, we can now decide if a reaction is favorable (&amp;Delta;G&lt;sup&gt;0'&lt;/sup&gt; &lt; 0). However, the reaction might need a ''catalyst'' to occur within a reasonable amount of time. In biochemistry, such a catalyst is often called an ''enzyme''.
+
+----
+&lt;noinclude&gt;
+[[Biochemistry|&lt;&lt; Introduction to Biochemistry]] | Thermodynamics | [[Biochemistry/Catalysis|Catalysis &gt;&gt;]]
+&lt;/noinclude&gt;
+[[Category:Biochemistry]]
+
+The purpose of DNA melting or DNA denaturation is emphasizing and demonstrating the life cycles of all organisms and the origin of replication. The origin of replication specific structure varies from species to species. Furthermore, the particular sequence of the origin of replication is in a genome which is the human genes. Nevertheless, DNA replication is also part of origin of replication which examen in the living organism such as prokaryotes and eukaryotes. 
+
+Thermodynamically, there are two important contributions on the DNA denaturation. One of them is the breaking all of the hydrogen bonds between the bases in the double helix; the other one is to overcome the stacking stability/energy of bases on top of each other. There are several methods to denature DNA; heat is known as the most common one use in laboratory. We just have to heat the sample to reach above its melting point, the unstack ability of DNA can be then monitored. Melting point and denaturation of DNA depend on several factors: the length of DNA, base-composition of DNA, the condition of the DNA and also the composition of buffer. For instance, the longer DNA will contain more H-bonds and more intermolecular forces compared to the shorter one; therefore, denaturations of longer DNA requires more time and more heat. Base-composition of DNA can also play as a key factor because A:T requires two hydrogen bonds and G:C interaction requires three hydrogen bonds. The region of DNA which contains more A:T will melt/denature more rapidly compared to G:C. We can also see how the condition of DNA is important because condition of DNA is related to whether the DNA is relax, supercoiled, linear or heavily nicked. It is important because it allow us to examine how much intermolecular forces existing in the double helix. Finally, condition of buffer is also playing an essential role to study DNA denaturation because it allow us to control the amount of ions present in the solution during the entire process.
+
+Biologically, DNA denaturation can happen inside the cell during DNA replication or translation. In both cases, DNA denaturation is an essential step and a beginning to start each of the process. Most of the time, denaturation happened because of binding of protein or enzymes to a specific region of DNA, the binding will likely lead to open or denature of the helix. However, the actual meaning of the DNA melting is the denaturation of DNA which changes the structure of DNA from double stranded into single stranded. The processes of DNA denaturation is unwinding the double stranded deoxyribonucleic acid and breaks it into two single stranded by breaking the hydrogen bonding between the bases. DNA denaturation is also known of DNA annealing because it is reservable . The main steps DNA annealing are double helical will go through the denaturation to become partially denatured DNA then it will separated the strands into two single strand of DNA in random coils.</text>
+      <sha1>7pocvqcyjwxwwcgb3hpzr2nh2my6ijx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Biochemistry/Authors</title>
+    <ns>0</ns>
+    <id>670</id>
+    <revision>
+      <id>489190</id>
+      <parentid>489184</parentid>
+      <timestamp>2006-06-17T11:59:26Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">
+== Authors of this book ==
+* [[User:Magnus Manske|Magnus Manske]] : Started this book
+* [[User:Cyclop|Cyclop]] : Began the work on Proteins section
+* [[User:Brandon|Brandon]] : Lipids and membranes chapter
+* [[User:JSJohnson|Justin]] : Filled in a few gaps
+----
+[[Category:Biochemistry]]</text>
+      <sha1>gr33xu8c6cscjb8eiued0m6wv0ddc9e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cell Biology/Introduction</title>
+    <ns>0</ns>
+    <id>671</id>
+    <revision>
+      <id>1318634</id>
+      <parentid>961056</parentid>
+      <timestamp>2008-10-27T15:12:33Z</timestamp>
+      <contributor>
+        <ip>87.121.52.100</ip>
+      </contributor>
+      <comment>[[bg:Клетъчна биология/Въведение]]</comment>
+      <text xml:space="preserve"># [[/Cell biology's interest|What is interesting about cell biology]]
+# [[/What is living|What is living]]
+# [[/What is a cell|What is a cell]]
+# [[/Cell_size|Size of cells]]
+# [[/The elements of life|Chemical elements necessary for life]]
+
+{{CellBio}}
+
+[[Category:Cell Biology]]
+
+[[bg:Клетъчна биология/Въведение]]</text>
+      <sha1>gmq263eiw4jsjpz16x102veokhxfs42</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cell Biology/Cell types</title>
+    <ns>0</ns>
+    <id>672</id>
+    <revision>
+      <id>1896777</id>
+      <parentid>1318622</parentid>
+      <timestamp>2010-07-21T16:08:20Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>fixed links</comment>
+      <text xml:space="preserve">{{CellBio}}
+----
+== Types of Cells ==
+
+# [[/Prokaryotes/]]
+# [[/Eukaryotes/]]
+# [[/Plant cells/]]
+# [[/Bacteria/]]
+
+----
+{{CellBio}}
+
+{{BookCat}}
+
+[[bg:Клетъчна биология/Типове клетки]]</text>
+      <sha1>8dx6o9pkq4vh4dd5kahsx5f9pujlv4c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cell Biology/Parts of the cell</title>
+    <ns>0</ns>
+    <id>673</id>
+    <revision>
+      <id>1888632</id>
+      <parentid>1384525</parentid>
+      <timestamp>2010-07-14T13:05:45Z</timestamp>
+      <contributor>
+        <ip>180.190.181.2</ip>
+      </contributor>
+      <text xml:space="preserve">{{CellBio}}
+----
+
+# [[Cell Biology/Membranes|Membranes]]
+# [[Cell Biology/Organs|Organs]]
+# [[Cell Biology/Genetic material|Genetic material]]
+# [[Cell Biology/Energy supply|Energy supply (chloroplasts and mitochondria)|Energy supply (chloroplasts and mitochondria)]]
+
+----
+{{CellBio}}
+
+[[Category:Cell Biology]]
+
+[[bg:Клетъчна биология/Части на клетката]]&lt;s&gt;&lt;/s&gt;</text>
+      <sha1>28unk24hgxlb148vkr4k6h5yz6zmuvs</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cell Biology/Cell division</title>
+    <ns>0</ns>
+    <id>674</id>
+    <revision>
+      <id>1896783</id>
+      <parentid>1371017</parentid>
+      <timestamp>2010-07-21T16:11:14Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>fixed links</comment>
+      <text xml:space="preserve">{{CellBio}}
+----
+
+# [[/Cell cycle/]]
+# [[/Meiosis/]]
+# [[/Mitosis/]]
+
+----
+{{CellBio}}
+
+{{BookCat}}
+
+[[bg:Клетъчна биология/Клетъчно делене]]</text>
+      <sha1>sgkrf3bz3zl0e2ztvmfdhqq0xl393cm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cell Biology/Gene expression and translation</title>
+    <ns>0</ns>
+    <id>675</id>
+    <revision>
+      <id>1896786</id>
+      <parentid>1371018</parentid>
+      <timestamp>2010-07-21T16:14:34Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>fixed links</comment>
+      <text xml:space="preserve">{{CellBio}}
+----
+
+# [[../Genes/Gene expression|Gene expression]]
+# [[../Genes/Gene translation|Gene translation]]
+
+----
+{{CellBio}}
+
+{{BookCat}}
+
+[[bg:Клетъчна биология/Генна експресия и транслация]]</text>
+      <sha1>3e9s32ti635q5v7bl85h3qy4kx9r24k</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

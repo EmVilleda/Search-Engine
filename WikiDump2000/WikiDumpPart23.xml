@@ -1,0 +1,1150 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Help talk:Glossary</title>
+    <ns>13</ns>
+    <id>785</id>
+    <revision>
+      <id>2000523</id>
+      <parentid>1968786</parentid>
+      <timestamp>2010-12-15T03:31:24Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>{{metatalk}}</comment>
+      <text xml:space="preserve">{{metatalk}}
+
+== [[{{ARTICLEPAGENAME}}#book|#book]] ==
+
+I'm wondering if this should say something about the coherence of the modules of a book, at least distantly echoing that point made at {{nowrap|[[WB:WIW#Wikibooks is not an encyclopedia]]}}.  Care needs to be taken to avoid implying a greater (as well as lesser) exclusion than we actually apply.  (Come to think of it, maybe that item in the policy could use clarification.)  --[[User:Pi zero|Pi zero]] ([[User talk:Pi zero|talk]]) 13:16, 6 November 2010 (UTC)
+
+:That entry was already either on this page or the &quot;glossary of Wikibooks jargon&quot; page that I merged in here.  Certainly there may be a possibility of better phrasing and I hope it's not a stretch to say that I believe you have the eloquence to find the ideal wording. &amp;ndash;&amp;nbsp;[[User:Adrignola|Adrignola]]&amp;nbsp;&lt;small&gt;[[User talk:Adrignola|talk]]&lt;/small&gt; 13:18, 6 November 2010 (UTC)</text>
+      <sha1>0u2mjtohef0jmrb4i713ru8dypaptcw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:WikiProject</title>
+    <ns>4</ns>
+    <id>792</id>
+    <revision>
+      <id>1831710</id>
+      <parentid>1828484</parentid>
+      <timestamp>2010-06-08T12:45:08Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>Protected &quot;[[Wikibooks:WikiProject]]&quot;: High-impact page ([edit=autoconfirmed] (indefinite) [move=autoconfirmed] (indefinite))</comment>
+      <text xml:space="preserve">{{shortcut|WB:PROJ|WB:PROJECT}}
+A WikiProject is a metadata page that serves as a reference point for those who wish to be involved in a specific project to create a set of highly-related books.
+
+Structural principles for a WikiProject page:
+*defines the scope of the particular project
+*establishes the formatting conventions for individual pages and books (e.g. how each individual item should be structured)
+*lists participating contributors
+*provides subject-specific forums
+
+==What are the advantages?==
+*'''Standard of look and feel'''. There are existing pages that deal with standards, but they cannot be applied to specific books. The conventions for books on mathematics or chemistry are worlds apart from the conventions for foreign languages.
+*'''Allows the development of special interest communities within Wikibooks'''. This can happen organically, but the WikiProject page makes the process formal.
+*'''Permits strategic planning and consensual discussion''' by creating a central location for discussion instead of fragmented discussion over several different talk pages.
+*'''Allows controlled dynamic evolution'''. The inherent problem in any communal project is that without central authority chaos emerges. But with excessive central authority, stagnation sets in. The WikiProject is a 'central authority' (thus providing the benefits of stability), but the WikiProject page itself remains consensual and dynamic. Where evolution occurs, the process can be centrally managed.
+*'''Helps to build community among users''', by creating common goals that people can work towards. Wikibookians tend to be focused on their own books and their own pet projects, and WikiProjects allow users to get together and work collaboratively on greater goals.
+
+==What a WikiProject is not==
+A WikiProject is not a place for subject information or book content. It is not a place to write a book, but it can be used to help plan a book, or to organize the authors of a book.
+
+==Is it worth the effort?==
+The value of such a metadata management model increases with the volume of contributors. In a case where only a handful of contributors are working on a project the actual value of a WikiProject page is negative - it only adds additional work. However, as the volume of contributors increases the work required to maintain the WikiProject pages is substantially less than the work required to correct the fragmentation of style and content, and the duplication which will otherwise occur.
+
+== How to Start a WikiProject ==
+Use {{tl|project}} on your page. WikiProjects should have a clear objective in mind, and should work to meet some goal. Once a new WikiProject is started, it can be advertised on the [[Wikibooks:Reading room/Bulletin Board|bulletin board]] or in the [[Wikibooks:Reading room/Projects|reading room]]. It is currently advised that WikiProjects's hyperlink be in the form of: Wikibooks:WikiProject_YourProjectName
+
+If a WikiProject becomes inactive, it can be labeled with {{tl|inactive}}.  If it has only recently seen a slowdown in activity, {{tl|semi-active}} may be more appropriate.
+
+==List of WikiProjects==
+{| class=&quot;wikitable&quot;
+!Active WikiProjects || Inactive WikiProjects
+|-
+|style=&quot;vertical-align:top; height:10px;&quot;|{{CategoryList|WikiProjects|namespace=Wikibooks}}
+|rowspan=&quot;3&quot; style=&quot;vertical-align:top;&quot;|{{CategoryList|Inactive WikiProjects|namespace=Wikibooks}}
+|-
+!style=&quot;height:10px;&quot;|Semi-active WikiProjects
+|-
+|style=&quot;vertical-align:top;&quot;|{{CategoryList|Semi-active WikiProjects|namespace=Wikibooks}}
+|}
+
+[[Category:Wikibooks]]
+__NOTOC__
+[[it:Wikibooks:Progetto]]
+[[ja:Wikibooks:ウィキプロジェクト]]</text>
+      <sha1>pttp8tnlyrg34quvq0d7v8moidxbnzg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks talk:WikiProject</title>
+    <ns>5</ns>
+    <id>793</id>
+    <revision>
+      <id>1794891</id>
+      <parentid>1794869</parentid>
+      <timestamp>2010-05-13T20:16:13Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>moved [[Wikibooks talk:WikiProjects]] to [[Wikibooks talk:WikiProject]]</comment>
+      <text xml:space="preserve">Initial text adapted from [[en:User:Manning Bartlett/WikiProject]] --[[User:Maveric149|mav]] 06:58, 24 Aug 2003 (UTC)
+
+===Layout===
+Does anybody else wish to start a WikiProject to improve page design?  I am thinking specifically of the [[Main Page]] and the [[Wikibooks:All_bookshelves|Bookshelves page]], and the individual department pages.  If we could make them more like the [[Wikijunior]] page, the site would be a lot easier to navigate.  At the moment, it is easy to find your way within one book, but browsing the library is nearly impossible.  --[[User:Runnerupnj|Runnerupnj]] 01:45, 28 January 2007 (UTC)
+
+:I agree with your assesment, but I would like to warn you that navigation and organization are much larger projects then you might realize. The mainpage probably could use a redesign, and many of the navigational links could likely be made more clear and obvious. What kinds of ideas do you have? --[[User:Whiteknight|Whiteknight]] &lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 23:33, 28 January 2007 (UTC)
+
+===Wikiprojects do not need to have the word &quot;wikiproject&quot; in their page name.===
+What's this change about? To should have &quot;wikiproject&quot; in their page name
+http://en.wikibooks.org/w/index.php?title=Wikibooks%3AWikiprojects&amp;diff=1160501&amp;oldid=1160117
+
+It's quite unhelpful as &quot;Wikibooks:Wikiproject bookname&quot; is far to much of a mouthful. No easy way to use in conversation, to long to put into sidemenus etc.
+Hence it's not used in wikiprojects [[Wikibooks:Counter-Vandalism_Unit]], [[Wikibooks:Wikipublish]] etc. [[User:ChessCreator|ChessCreator]] ([[User talk:ChessCreator|talk]]) 15:17, 9 April 2008 (UTC)
+:To add what I wrote [[Wikibooks_talk:WikiProject_History]] 
+:I strongly disagree that 'All wikiprojects should use Wikibooks:Wikiproject XXXXXXX as the format to avoid any such conflicts.' If you are concerned about the conflicts a better way is to redirect Wikibooks:Wikiproject XXXXXXX to whatever format is choosen. It's quite inappropriate to change existing wikibooks that have already been branded with a name, and known as that name from many links in wikibooks and elsewhere (like wikipedia). Also the practical problems of the name 'Wikibooks:Wikiproject XXXXXXX' being to long to sensible displayed in sidebars. [[User:ChessCreator|ChessCreator]] ([[User talk:ChessCreator|talk]]) 15:41, 9 April 2008 (UTC)
+::Well the point is that Wikibooks:History will presumably not be a redirect forever since that should be a page about the history of Wikibooks. That's only one example, which prompted the move. In these cases, it is necessarily impossible to have a redirect since there'd be content there. The consistent naming scheme suggested avoids those conflicts, allows easy recognition from a pagename, and also allows easy search using the prefixindex. Finally, there are any number of workarounds for long pagenames wherever they may occur. As for having a &quot;brand&quot; -- the Wikiprojects at issue were created last week, so I don't see how there's some identity crisis created by a pagemove. Regardless, it's not my place to force anything upon the maintainers of these pages, so you're of course free to leave it as-is. I just think there are good reasons to use that naming scheme and trivial reasons not to. &amp;nbsp;'''&amp;ndash;&amp;nbsp;[[User:Mike.lifeguard|&lt;font color=&quot;Indigo&quot;&gt;Mike.lifeguard&lt;/font&gt;]]'''&amp;nbsp;&amp;#124;&amp;nbsp;&lt;sup&gt;[[User talk:Mike.lifeguard|&lt;font color=&quot;Indigo&quot;&gt;talk&lt;/font&gt;]]&lt;/sup&gt; 01:25, 10 April 2008 (UTC)</text>
+      <sha1>kxh37kvn3l57t0icgxeub2wlqpvoa18</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks talk:Content disclaimer</title>
+    <ns>5</ns>
+    <id>797</id>
+    <revision>
+      <id>1854773</id>
+      <parentid>152934</parentid>
+      <timestamp>2010-06-24T21:13:50Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>{{permprot}}</comment>
+      <text xml:space="preserve">{{permprot}}</text>
+      <sha1>oawis2iup6gvzhr212e0b1ef29eaye7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Profanity</title>
+    <ns>4</ns>
+    <id>803</id>
+    <revision>
+      <id>2388218</id>
+      <parentid>2001124</parentid>
+      <timestamp>2012-08-07T13:18:36Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <text xml:space="preserve">{{policy|WB:PROFANE}}
+__NOTOC__
+Avoid [[wikt:profanity|profanity]] (words or images that could be considered offensive by typical Wikibooks readers), but not at the expense of accuracy. We strive to create a serious educational resource with [[Wikibooks:Featured books|brilliant prose]]. Consideration to how others will perceive it is therefore an asset. Profanity is never acceptable in Wikijunior.
+
+== Usernames ==
+
+Avoid offensive usernames. Wikibookians feel that tolerating offensive usernames has few, if any benefits, but can turn away contributors who see them in a list of recent changes or elsewhere. For the purpose of Wikibooks, this outweighs freedom of expression. Users with profane or obscene usernames may be blocked without prior warning.
+
+== Modules ==
+
+[[WB:MODULE|Module]] titles should not include profanity unless specifically required by the content. Modules with inappropriate titles may be moved on sight to more appropriate locations, or [[WB:SPEEDY|speedily deleted]] and do not need to be listed on [[WB:RFD|requests for deletion]].
+
+Well written modules should not, on the whole, need to use profanity. It may, however, be warranted in some cases: modules specifically ''about'' how profanity is used in society are an example, and when mentioning someone else's use of it, you should go ahead and be accurate.
+
+Include the full, uncensored version when including exact quotes that are relevant to the module. There's no point in ever turning an instance of &quot;[[wikt:fuck|fuck]]&quot; into &quot;f***&quot; or &quot;the f word&quot;. If you wish to eliminate the word, you should paraphrase rather than quote it.
+
+== Other pages ==
+
+Other pages don't have the same requirements as the module pages, but profanity should be avoided there as well. Talk pages in particular are for conversation between users about a page, and in such conversations (except perhaps conversations about profanity itself) do not require profanity. Wikibookians may not verbally attack or abuse one another anywhere on Wikibooks, as we are all required to [[Wikibooks:Be civil|be nice to one another]].
+
+== See also ==
+* [[Wikibooks:Content disclaimer]]
+
+
+{{Wikibooks policies and guidelines}}</text>
+      <sha1>dxs10v3i78ofaupavribwpbs1qm25xp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks talk:Profanity</title>
+    <ns>5</ns>
+    <id>804</id>
+    <revision>
+      <id>1911425</id>
+      <parentid>1911352</parentid>
+      <timestamp>2010-08-15T10:38:20Z</timestamp>
+      <contributor>
+        <username>Panic2k4</username>
+        <id>2865</id>
+      </contributor>
+      <comment>/* Possible copy-edit? */</comment>
+      <text xml:space="preserve">Initial text adapted from [[en:Wikipedia:Profanity]] --[[User:Maveric149|mav]] 07:47, 24 Aug 2003 (UTC)
+
+== Move to Enforce ==
+
+I am proposing that the text of [[Wikibooks:No offensive usernames]] be merged into this policy. I am also proposing that this page be moved to {{tl|enforced}}. It is my opinion that the concepts of these policies are already being implemented, and we should make our policy match the current state of business here on wikibooks. If there are no dissenting opinions, I would like to merge the policies by the beginning of the week, and I would like to move the policy to {{tl|enforced}} by the weekend. --[[User:Whiteknight|Whiteknight]] &lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 22:05, 8 October 2006 (UTC)
+
+== Last minute rewordings ==
+
+Sorry for doing this so in the nick of time before this sucker's time as Proposal of the Week runs out. I've done a large rewording; hardly substantial, mostly minor tweaks. I'd like some comments on a couple of concerns that I have. --[[User:Swift|Swift]] 05:47, 16 October 2006 (UTC)
+
+=== Speedy delete obscene module names? ===
+
+Do we really need to speedy delete these? OK, it may be nice to have the option, but if the content is meaningful it should be moved. If the content isn't, it already qualifies for [[WB:DP#Speedy deletion|speedy deletion]]. --[[User:Swift|Swift]] 05:47, 16 October 2006 (UTC)
+
+:Perhaps we don't need to speedy delete them, but I would argue that few modules that have obscene page names will have any worthwhile content. If somebody creates a page &quot;Microsoft is fucking stupid!&quot; (as an example), can you imagine that the page will have much meaningful content? Also, I don't see any value in keeping such pages around as redirects. If a page has an obscene name, content can be moved to a better location, but the obscene page should still be deleted, preferrably quickly. --[[User:Whiteknight|Whiteknight]] &lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt;
+
+:: Good point. Thanks. For that scenario it would, indeed, be useful to have the speedy delete clause. --[[User:Swift|Swift]] 21:29, 16 October 2006 (UTC)
+
+=== Not use profanity? ===
+
+Yes, this is a semantic nit-pick, but I find [http://m-w.com/dictionary/offensive offensive] and [http://m-w.com/dictionary/obscene obscene] to be more precise words than [http://m-w.com/dictionary/profane profane] and fit better with the purpose of this proposal. Does anyone object to moving this to [[Wikibooks:Don't be offensive]] or [[Wikibooks:Obscenity]] and replacing instances of &quot;profane&quot; in the text? I personally prefer &quot;offensive&quot;.--[[User:Swift|Swift]] 05:47, 16 October 2006 (UTC)
+
+:&quot;offensive&quot; is an arbitrary term, and people can claim offense to all sorts of subjects. Creationists can claim that texts about evolution are &quot;offensive&quot;, for instance, and if we say that &quot;offensive materials can be deleted&quot;, then entire texts on evolution could become speedy delete targets. Of course, that's just one example, but it proves the point that &quot;offensive&quot; is arbitrary. Also, I would like to say that &quot;profanity&quot; and &quot;obscenity&quot; are pretty well-defined, and are not nearly so arbitrary. I could agree to change this to [[Wikibooks:Obscenity]], but I dont think that is nearly as good as [[Wikibooks:Profanity]]. --[[User:Whiteknight|Whiteknight]] &lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 15:05, 16 October 2006 (UTC)
+
+::After looking at the definitions again, I think &quot;Obscenity&quot; might be better then &quot;Profanity&quot;. I still don't like &quot;offensive&quot;, however. --[[User:Whiteknight|Whiteknight]] &lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 21:16, 18 October 2006 (UTC)
+
+::: Well, the reason I like offensive is that it captures the essence of obscenity/profanity without including the other specific meanings (sexual/religious). True, offensive is an arbitrary term, but so are the others as there exists no moral authority (well, except the infallable Pople, that is) to define them. I'd say the main drawback of &quot;offensive&quot; was that it may have a greater scope.
+::: While you have switched your preferences over to &quot;obscene&quot;, I'm actually warming up to &quot;profane&quot; (there is no causal relationship there though, I assure you). I'd venture to say, that even though the &quot;profane&quot; definition may be a little further from the intended use than &quot;obscene&quot;, those fringe meanings are rarely used.
+::: Hmmm ... I don't think we are in any hurry on this. The proposal is set as Proposal of the Week till Sunday. I'd like a little more time to think about this. Meanwhile, could you reconsider &quot;offensive&quot;. I'm not absolutely sure it is better for our purpose, but it looks appealing to me and I'd be willing to argue its case for the sake of this argument. --[[User:Swift|Swift]] 21:49, 18 October 2006 (UTC)
+
+::::I certainly understand what you are saying, but I can't seem to jump over this semantic fence that i'm stuck behind. I'm just worried that an active voting minority could be setting standards as to what qualifies as &quot;offensive&quot; for the entire community. Now, if we move this page to [[Wikibooks:Offensive content]], or something similar, we would have to painstakingly define &quot;offensive&quot; to exclude things that suit a particular minority at the expense of the majority. For instance, we would need to show that talking about controversial subjects (evolution/creationism, as a classic example) is not offensive, but talking about some subjects (god, religious POV) could be offensive/inappropriate. This raises another option: [[Wikibooks:Inappropriate content]]. Too many options. I need to think about it too. --[[User:Whiteknight|Whiteknight]] &lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 00:42, 20 October 2006 (UTC)
+
+== Enforced ==
+
+I have moved this policy to enforced. There were no outstanding objections besides comments from [[User:Swift]] on the semantics of the word &quot;profanity&quot;. Given that the aforementioned discussion has stagnated, and no suitable alternatives to the word &quot;profanity&quot; were found, I have made this into an official policy. --[[User:Whiteknight|Whiteknight]] &lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 01:46, 11 December 2006 (UTC)
+
+== Possible copy-edit? ==
+
+'If you wish to eliminate the word, you should paraphrase rather than quoting.' A bare infinitive followed immediately by a gerund? Perhaps it should be changed? [[User:Kayau|Kayau]] ( [[User talk:Kayau|talk]] &amp;#124; [[Special:Emailuser/Kayau|email]] &amp;#124; [[Special:Contributions/Kayau|contribs]] ) 06:10, 15 August 2010 (UTC)
+
+:I agree, to &quot;quote it&quot;. --[[User:Panic2k4|Panic]] ([[User talk:Panic2k4|talk]]) 10:38, 15 August 2010 (UTC)</text>
+      <sha1>qsyux1df77ku8gasszy4thm8fq3ia9q</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:No offensive usernames</title>
+    <ns>4</ns>
+    <id>807</id>
+    <revision>
+      <id>630605</id>
+      <parentid>441450</parentid>
+      <timestamp>2006-10-30T15:07:37Z</timestamp>
+      <contributor>
+        <username>Whiteknight</username>
+        <id>10714</id>
+      </contributor>
+      <text xml:space="preserve">{{rejected}}
+
+User names which offend other people are thought by most to be needlessly discouraging to other contributors, and distracting from the core purpose - creating an instructional resource.  This might include legitimate names and long-established Internet pseudonyms that can be misconstrued, however this has yet to occur in practice.
+
+The primary purpose of user names is to identify and distinguish contributors.  This facilitates communication and record-keeping. The user name is not a forum to be offensive or make a statement. No one has a right to any particular user name. While colorful, interesting, or expressive names may add to the pleasure of Wikibooks, they are not essential.
+
+Fairly or unfairly, the line between acceptable and unacceptable user names is drawn by the people who are offended, not by the creator of the name.  If someone complains about your user name, please consider changing it, in the spirit of Wikibooks.  If enough people complain about your user name (through talk pages or the [[Wikibooks:mailing lists|mailing lists]] or [http://meta.wikipedia.org Meta-Wikimedia]), the [[Wikibooks:Administrators#Bureaucrats|bureaucrats]] will change it.  Neither complaints, nor name changes should be arbitrary, but user names that are offensive to a significant number of people will be changed, not without notice, but without appeal.
+
+Users creating accounts with aggressive, vulgar, offensive words in username, will be blocked infinitely without any warning.
+
+Some people on Wikibooks use their real names as usernames. This certainly '''isn't''' required, but if you are having difficulty thinking of a username, please consider using your real name.
+
+See also: [[Wikibooks:Profanity]]</text>
+      <sha1>2fbnbizkic1h7unv5ja95dvsh2u3re5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks talk:No offensive usernames</title>
+    <ns>5</ns>
+    <id>808</id>
+    <revision>
+      <id>630606</id>
+      <parentid>614032</parentid>
+      <timestamp>2006-10-30T15:08:52Z</timestamp>
+      <contributor>
+        <username>Whiteknight</username>
+        <id>10714</id>
+      </contributor>
+      <comment>/* Move to Reject */</comment>
+      <text xml:space="preserve">Initial text adapted from [[en:Wikipedia:No offensive usernames]] --[[User:Maveric149|mav]] 07:57, 24 Aug 2003 (UTC)
+
+==Vote==
+
+===Yes===
+
+* [[User:RobinH|RobinH]] 09:39, 30 April 2006 (UTC)
+
+
+===No===
+#Why are we creating rules where no problem exists? Don't we want to at least '''''try''''' asking someone nicely if they will use a different name? Before we make ourselves little dictators of our virtual domain, perhaps we ought to think about the ramifications. Systems of '''''crime and punishment''''' are a ''failure state''. They are an admission that we weren't able to work congenially as co-editors on a common project — that our little [[w:Animal Farm|Animal Farm]] couldn't exist without making some of us &quot;more equal.&quot; Do we really want to duplicate the system of punishment and vandalism that exists at Wikipedia? Is their instruction creep working for them? Perhaps we could learn something from our founder:&lt;blockquote&gt;''The problem we are seeing, again and again, is this attitude that some poor victim of a biased rant in Wikipedia ought to not get pissed and take us up on our offer of &quot;anyone can edit&quot; but should rather immerse themselves in our arcane internal culture until they understand the right way to get things done. I do not know what is going to change, but something BIG has got to happen and SOON about this issue, because the amount of time it is consuming for some of our best editors is getting way out of control.''  ~Jimbo Wales May 3, 2006 [http://mail.wikipedia.org/pipermail/wikien-l/2006-May/045082.html WikiEN-l]&lt;/blockquote&gt; --[[User:Zephram Stark|Zephram Stark]] 04:19, 7 May 2006 (UTC)
+#If needed should be done at the wikimedia software level not as a policy. --[[User:Panic2k4|Panic]] 07:26, 9 October 2006 (UTC)
+# From the [http://en.wikibooks.org/w/index.php?title=Wikibooks:No_offensive_usernames&amp;oldid=441450 current version]: &quot;''however this has yet to occur in practice.''&quot;!! This is far too explicit. [[Wikibooks:Be civil]] and [[Wikibooks:Profanity]] already cover it nicely and the better parts of it (e.g. &quot;''While colorful, interesting, or expressive names may add to the pleasure of Wikibooks, they are not essential.''&quot;) may be added to those. Some parts of this are even bad (e.g. &quot;''Fairly or unfairly, the line between acceptable and unacceptable user names is drawn by the people who are offended, not by the creator of the name.''&quot; I remember seeing a request by someone who was offended by a username. The whole thing was a misunderstanding, but that didn't deter the offended who refused to listen to reason). --[[User:Swift|Swift]] 16:55, 9 October 2006 (UTC)
+
+== Merger to [[Wikibooks:Profanity]] ==
+
+I propose we merge the text of this policy into [[Wikibooks:Profanity]]. I also propose that after the merger, we move the new composite policy to {{tl|enforced}} status. --[[User:Whiteknight|Whiteknight]] &lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 22:03, 8 October 2006 (UTC)
+
+:Doesn't it need to have consensus to become a enforced policy ?!?
+:Words like &quot;Avoid&quot; aren't prohibitive and then at the end of the section &quot;Users with offensive usernames may be blocked without prior warning.&quot; seems very prohibitive and against the votes here. --[[User:Panic2k4|Panic]] 07:29, 9 October 2006 (UTC)
+::It does require concensus. I have proposed those changes, and I am asking the community to try and agree on it. If we dont reach concensus, this things wont happen. I agree with you that there are inconsistencies with the language in this one, and those need to be corrected. I would rather not make any substantive changes to this proposal until we've discussed the merger to [[Wikibooks:Profanity]].  --[[User:Whiteknight|Whiteknight]] &lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 12:44, 9 October 2006 (UTC)
+
+: I propose we don't. The essential parts are currently coverd by [[Wikibooks:Be civil]] and [[Wikibooks:Profanity]] (though both are still only proposed). We don't need to it to be so explicit and we'll have a better time at getting consensus on those I mentioned if they don't have stuff in them which doesn't even seem to have majority support! --[[User:Swift|Swift]] 16:48, 9 October 2006 (UTC)
+
+::You are right in saying that the important material here is duplicated in other places. However, those other places are themselves still just proposals. If we move to reject this policy, then it would seem we should move to enforce [[Wikibooks:Be civil]] and [[Wikibooks:Profanity]]. --[[User:Whiteknight|Whiteknight]] &lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 17:05, 9 October 2006 (UTC)
+
+::: How about not rejecting anything till the matter has been accepted in some policy? I say we go for [[Wikibooks:Profanity]] first. If we get consensus on that we can move to reject this one. If not, we can revisit this one. --[[User:Swift|Swift]] 19:51, 9 October 2006 (UTC)
+
+::::I agree. Let's focus our attention on that policy first. --[[User:Whiteknight|Whiteknight]] &lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 23:48, 9 October 2006 (UTC)
+
+== Move to Reject ==
+
+I am moving to reject this policy. All the key points here are already found in [[Wikibooks:Profanity]], and This policy is poorly written in comparison to that one. Also, I am simultaneously moving to enforce [[Wikibooks:Profanity]]. --[[User:Whiteknight|Whiteknight]] &lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 15:01, 16 October 2006 (UTC)
+
+: '''Support''' as soon as [[Wikibooks:Profanity]] has been made official. --[[User:Swift|Swift]] 04:28, 17 October 2006 (UTC)
+
+I have moved this one to '''rejected''' I see no reason to wait for the profanity policy, because with or without that proposal being accepted, there is no desire to keep this one. --[[User:Whiteknight|Whiteknight]] &lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 15:08, 30 October 2006 (UTC)</text>
+      <sha1>n5heiv8139ts1s063gmbof8mbcpic9t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Help:FAQ/Contributing</title>
+    <ns>12</ns>
+    <id>811</id>
+    <revision>
+      <id>2276220</id>
+      <parentid>2018904</parentid>
+      <timestamp>2012-02-28T19:12:46Z</timestamp>
+      <contributor>
+        <username>Arch dude</username>
+        <id>173261</id>
+      </contributor>
+      <minor />
+      <comment>/* Why limit pages to 30 kilobytes in size? */ sp</comment>
+      <text xml:space="preserve">{{wikibooks help}}
+
+== Contributing ==
+
+=== Should I use Wikibooks or create my own wiki? ===
+Wikibooks is for textbooks, annotated texts, instructional guides, and manuals. If you want to create new documentation and want people to know where to find it, such as for a new open source software program that you helped create, you may want to do it on your own wiki. Creating a book on Wikibooks may not be such a bad idea either. See [[Wikibooks:What is Wikibooks]] for what is and isn't ok to include in Wikibooks.
+
+=== Who can contribute? ===
+Anyone can contribute and [[Help:Editing|edit pages]] at any time. You are encouraged to create an account and [[WB:LOGIN|login]], but you don't have to if you don't want to.
+
+===Why would I want to contribute?===
+: See [[Help:Contributing|Why contribute to Wikibooks?]]
+
+===How can I contribute?===
+There are many [[Help:Contributing|ways you can contribute]]. You can [[Help:Editing|edit pages]], [[WB:CREATE|create new books or pages]], publicize Wikibooks, or [{{int:sitesupport-url}} donate].
+
+=== How do I donate? ===
+To learn how to donate to Wikibooks' parent organization, [[Wikimedia:|Wikimedia]], see [[Wikimedia:Fundraising|Fundraising and Donations]].
+
+===Do I have to use my real name?===
+No. You don't have to use your real name. Some people choose to use their real name, some don't. Some people may seek recognition for their contributions. Some people may seek to encourage the free exchange of knowledge and information.
+
+===How do I change my username?===
+You may request a name change at [[Wikibooks:Requests for renaming]]. This method will also ensure all your contributions are reassigned to your new username as well. If that doesn't matter, you can also just create a new user account.
+
+===How do I recover a password I have forgotten?===
+:If you entered your e-mail address when you signed up, you can have a new password generated. Click on the &quot;[[Special:Userlogin|Log in]]&quot; link in the upper-right corner. Enter your user name, and click the button near the bottom of the page called &quot;E-mail password&quot;. You should receive an e-mail message with a new random password; you can use it to log in, then go ahead and change you password to something you'll remember in your preferences.
+
+===Can we debate or talk about subjects here?===
+Discussions intended to improves books, pages or Wikibooks are welcome here. Most discussions take place on a page's [[Wikibooks:Talk page|discussion page]]. You can also use the [[Wikibooks:Reading room|reading room]] to discussion things with the Wikibooks community. Any other discussions probably belong on [[v:|Wikiversity]].
+
+===What languages can I use?===
+Books and discussions should be understandable by people who know the English language. Please use one of the other Wikibooks languages projects if you wish to write books for people who don't know the English language.
+
+===Which spelling should I use?===
+Books may be written in British or American English. You should follow whatever the existing spelling convention is for consistency.
+
+===How do I spell-check a page?===
+You can use an online spell checker such as [http://www.spellonline.com Spellonline], or paste the text into your favorite [[:w:text editor|text editor]] or [[:w:word processor|word processor]] first, edit and spell check there, and then paste back into your browser to preview. Additionally, some browsers include spelling correction for all text editing files. Such is the case of all Cocoa browsers for MacOS X (Safari, Camino, OmniWeb, etc) and Firefox. Please see the documentation for your particular browser/operating system to turn this option on.
+
+&lt;!-- Note to admin: There are two MediaWiki spellcheckers that you could install.
+   1) [http://mirror.linuxquestions.org/pub/lq/lqwiki/ linuxquestions.org ]
+   2) [http://mcintosh.cjb.net/wiki/index.php/Spell_Checker mcintosh.cjb.net] --&gt;
+
+===I found works on the same subject, now what? ===
+Books often have a unique scope, target audience, style, and method of teaching a subject. If two or more books are similar enough you can see what others think by suggesting a merger on the discussion page for one of the books or pages and leave a quick note with a link on the other discussion pages. If you know which book or page you would like to merge works into the discussion should be done on the discussion page for that book or page, and you should also add {{tlx|mergeto}} or {{tlx|mergefrom}} to the pages or books in question. You should use the [[Wikibooks:Decision making]] process to decide when or if you can merge them yourself.
+
+=== Is there a standard convention for X? ===
+: See the [[Wikibooks:Manual of Style|Manual of Style]]
+
+===What file formats are supported?===
+[[Commons:Help:SVG|SVG]] is preferred for diagrams, maps, and other non-photographic images. You can use [[w:JPEG|JPEG]] for photographs, and [[w:PNG|PNG]] for drawings. [[w:GIF|GIF]] can be used instead of PNG, but it is discouraged because of patent reasons. [[w:Ogg Vorbis|Ogg Vorbis]] is preferred for sound; [[w:MP3|MP3]] is tolerated but also discouraged for the same reason as GIF.
+
+=== Why limit pages to 30 kilobytes in size? ===
+Some people use dialup or use mobile devices which can drastically effect the length of time it will take to download and load a page longer than 30 kilobytes. Additionally some web browsers may have an upper limit on how much text can be placed into or edited in text boxes.
+
+=== How do I undo vandalism or restore a previous version? ===
+: See [[Help:Editing#Reverting]] and [[Wikibooks:Dealing with vandalism]]
+
+=== What is Recent Changes, and what do the abbreviations there mean? ===
+: Recent Changes lists all the edits that have been made over a given time period. See [[Help:Tracking changes#Recent changes|Help:Tracking changes]] for info.
+
+=== Why are some links different from others? ===
+Pages which have not yet been created or started either appear in red or include a question mark next to them depending on your [[Special:Preferences|preferences]]. Either way, you can click on that link and start a page with that name. Please search Wikibooks before starting new pages on a topic. Books may already have a page on the topic you wish to contribute to, or there may also be a book on the topic you wish to contribute to. See [[Wikibooks:Naming policy]] for information on how to name pages.
+
+===What happens when two users edit a page at the same time?===
+This is called an  &quot;edit conflict&quot;. The first person to click &quot;Save page&quot; has their changes saved. The second person will get a conflict screen that displays both versions in separate windows, along with a summary highlighting the differences (typically showing the edits of both users, except those which both have made exactly the same), and instructions on how you should proceed. It's virtually impossible to lose any data.
+
+=== Can I lose my work mid-edit? ===
+If your computer or web browser crashes mid-edit you may lose your work. Firefox can sometimes recover from this, and will not only return you to the last page you were at but include any changes you've made to text boxes. If the server is unresponsive, you can often recover your work by clicking the back button. To some extent, you may be able to guard against work loss by using a word or text editor.
+
+=== Is there an easy way I can track changes? ===
+If you are a logged-in user, on every page you will see a link that says &quot;Watch this page&quot;. If you click on it, the page will be added to your [[Special:Watchlist|personal watchlist]]. Your watchlist will show you the latest changes on your watched pages. Every page also includes a rss and atom feed that anyone (even unregistered users) can subscribe to which can be used to keep track of a page's changes.
+
+=== Can I adjust the number of changes shown by default? ===
+Yes. The number of changes shown by default can be changed in your [[Special:Preferences|preferences]].
+
+=== Can I link to other websites? ===
+Wikibooks is not a [[:w:web directory|web directory]]. Books should be reasonably self contained. External links should be relevant and support works, not replace works. The current convention is to place external links on dedicated page specifically for all links. However, sometimes links are placed within footnotes or in a separate section at the bottom of a page. See [[Help:Editing#External links]] for different ways to create external links.
+
+=== A contributor is being unreasonable. Help! ===
+: See [[Wikibooks:Staying cool when the editing gets hot]] and [[Wikibooks:Problem users]].
+
+== Copyrights ==
+
+=== Can I copy works to Wikibooks that I got special permission for? ===
+Unless you have permission to use textual works under the terms of the [[Wikibooks:GNU Free Documentation License|GNU Free Documentation License]], a similar and compatible license, or the work is in the [[w:public domain|public domain]], the work cannot be used on Wikibooks. So you may have to ask the copyright holder of the material to license it under GFDL (See [[Wikibooks:Boilerplate request for permission]]). Any other works must satisfy the requirements set out by [[Wikibooks:Media]].
+
+=== Can I copy public domain works that are reproduced in copyright works? ===
+A copyright claim cannot be made provided the out-of-copyright work hasn't been altered. If it was in the public domain before they used it, it's still in the public domain afterward.
+
+=== Does using a GIF image violate the GFDL because of its patent? ===
+: ''Note: the [[:w:LZW|LZW]] patent owned by Unisys has expired on June 20, 2003 in the United States, and have also been expired in other countries since July 7, 2004. Some of the below may no longer be relevant''  Like all legal questions, however, there are still issues to be resolved, including other conflicting patents on the LZW algorithm, as well as data compression patents that may more generally apply.  &quot;Consult an attorney for more legal advice.&quot;
+
+:The LZW compression algorithm used with the [[:w:GIF|GIF]] format is patented . It is nevertheless legally permissable to produce gif's and release them under the GFDL, just like it is legal to produce a CD-ROM with GFDL material even though the CD-ROM format is patented. People who write or use gif creation programs are bound by the patent.  There may also be separate licensing fees for distribution of patented multimedia data formats like GIF images, which if not in fact at least in philosophy violate the principles of the GFDL, preventing you from freely using the image or picture.  That is why [[:w:free software|free software]] generally does not support the format anymore. That being said, we encourage Wikibookians to use the technically superior and patent-free [[:w:PNG|PNG]] format instead of GIF.
+
+=== Works in Japan cannot be released into the public domain! What can I do?===
+
+Technically, there is still expiration in Japan too. So if the works exceeded expiration term, they are considered public domain. Otherwise, they cannot be public domain.
+
+== Terminology ==
+''See also [[Help:Glossary]]''
+
+===What's the difference between a page and a module?===
+: The term &quot;page&quot; encompasses all the material on Wikibooks, including instructional resource topics, talk pages, documentation, and special pages such as [[Special:Recentchanges|Recent Changes]]. &quot;module&quot; is a narrower term referring to a page containing an instructional resource entry. Thus, all modules are pages, but not all pages are modules. See [[Help:Pages#Modules]] for more.
+
+===What is an orphan?===
+: An orphan is a module that no other module links to. These can still be found by searching Wikibooks, but it is preferable to find another module where a link can be added. You can find a list of orphan modules from [[Special:Lonelypages]].
+
+===What is a stub?===
+: A stub on Wikibooks is a very short module, generally of one paragraph or less. Most people hate stubs, even though they are probably a necessary evil. Many excellent modules started out as short stubs. Existing stubs should be expanded into proper modules: there is a hand-made list at [[Wikibooks:Find or fix a stub]], and a generated list at [[special:Shortpages]].
+
+===What is a minor edit? When should I use it?===
+:When editing a page, a [[WB:LOGIN|logged-in]] user has the option of flagging the edit as a &quot;minor edit&quot;. When to use this is somewhat a matter of personal preference. The rule of thumb is that an edit of a page that is spelling corrections, formatting, and minor rearranging of text should be flagged as a &quot;minor edit&quot;. A non minor edit is basically something that makes the entry worth relooking at for somebody who wants to watch the module rather closely, so any &quot;real&quot; change, even if it is a single word. If ''information'' is added to, or removed from a page then the edit should not be marked minor.
+
+:This feature is important, because users can choose to ''hide'' minor edits in their view of the Recent Changes page, to keep the volume of edits down to a manageable level.
+
+== Miscellaneous ==
+
+===Does Wikibooks use cookies?===
+:[[w:HTTP cookie|HTTP cookie]]s are not required to read or edit Wikibooks, but they are required in order to [[Special:Userlogin|log in]] and link your edits to a user account.
+
+:When you log in, the wiki will set a temporary session cookie which identifies your login session; this will be expired when your browser exits (or after an inactivity timeout), and is not saved on your hard drive.
+
+:Another cookie will be saved which lists the user name you last logged in under, to make subsequent logins just a teensy bit easier. (Actually two: one with your name, and one with your account's internal ID number; they must match up.)  These cookies expire after 30 days. If this worries you, clear your cookies after completing your session.
+
+:If you check the &quot;remember my login on this computer&quot; box on the login form, another cookie will be saved with a hash of your password (not the password itself). As long as this remains valid, you can bypass the login step on subsequent visits to the wiki. The cookie expires after 30 days, or is removed if you [[Special:Userlogout|log out]]. If this worries you, don't use the option. You should probably not use it on a public terminal! See also: [[Help:Account management#Logging in]]
+
+===Where do I find more information beyond this FAQ?===
+: You can start by reading the introduction at [[Wikibooks:Welcome]]. [[Help:Contents]] lists all the help pages that Wikibooks has. You may also find some books on Wikibooks helpful, such as [[Using Wikibooks]] or [[Editing Wikitext]].
+
+[[Category:Wikibooks FAQ|Overview]]
+
+[[ja:ヘルプ:投稿FAQ]]</text>
+      <sha1>23qjoyfl9mgaa0fvyecnqxwh5mr0dmc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Help:FAQ/Editing</title>
+    <ns>12</ns>
+    <id>812</id>
+    <revision>
+      <id>2287845</id>
+      <parentid>2018911</parentid>
+      <timestamp>2012-03-15T06:07:31Z</timestamp>
+      <contributor>
+        <username>InverseHypercube</username>
+        <id>434331</id>
+      </contributor>
+      <comment>/* Can I give the references in a book? */</comment>
+      <text xml:space="preserve">{{wikibooks help}}
+
+==How do I edit a page?==
+:It's quite simple. Simply click &quot;Edit this page&quot; on the bottom or the side of the page, and type away. See [[Help:Editing|How to edit a page]] to learn about making links, using '''bold''' and ''italics'', linking to images, and many other things...
+
+==What happens if two or more people are editing the same page?==
+:The second person (and later persons) to save the page will receive an &quot;edit conflict&quot; message, and the opportunity to merge their changes into the most-currently-saved version. The wiki will also check for a conflict if you are editing and do a preview of the edit. Multiple consecutive conflicts are noticed, and will generate a slightly different message. This is similar to [[w:Concurrent Versions System|Concurrent Versions System]] (CVS), a widely-used software version management system.
+
+==But I have problems editing with my browser!==
+: See [[w:Wikipedia:Browser notes|Browser notes]] (Wikipedia page)
+
+==Why not use [[w:HTML|HTML]]?==
+:The short answer is: for simplicity and security.
+
+:And now the longer answer. Wikibooks, and [[w:wiki|wiki]]s in general, are meant to be edited on the fly. HTML is not easy to use when you simply want to write a module. Creating links gives us a particularly dramatic example. To link to the HTML page using HTML, one would have to type
+
+::&lt;nowiki&gt;&lt;a href=&quot;http://www.Wikibooks.org/wiki/Main_Page&quot;&gt;Main Page&lt;/a&gt;&lt;/nowiki&gt;
+
+:Using MediaWiki's markup is much easier:
+
+::&lt;nowiki&gt;[[Main Page]]&lt;/nowiki&gt;
+
+:Then there's security. Different [[w:web browser|web browser]]s have bugs that can be exploited via HTML. Malicious users could also do things like [[w:JavaScript|JavaScript]] popup windows or page redirects if they had full HTML ability on Wikibooks.  Several &quot;experimental&quot; sites that allowed full-HTML editing have suffered such attacks, including a couple other wikis that allowed arbitrary HTML.
+
+==So we can't use &lt;i&gt;any&lt;/i&gt; HTML?==
+:Alright, alright, a few tags work. Especially, HTML table tags can be used to create tables. See [[Wikibooks:How does one edit a page]]. However, there's been some rumbling among the [[m:MediaWiki|MediaWiki]] software developers that most HTML tags are [[w:deprecated|deprecated]]. There's also a wiki syntax for tables; see [[m:Help:Table]] for help in using it.
+
+==What about non-[[w:ASCII|ASCII]] characters, and special symbols?==
+:Just because the codes are defined in HTML 4 doesn't mean they actually work in any common browser. See [[meta:Help:Special characters]] for a discussion of what is generally safe and what isn't.
+
+==What about math topics, which require many special symbols, fonts, and graphics?==
+:Just use [[w:TeX|TeX]]! See [[meta:Help:Displaying a formula]].
+
+==How do I make links?==
+: A link is just the name of the page surrounded by double square brackets. It's also possible to make the link display text that is different from that of the link itself:
+:&lt;nowiki&gt;[[page name]]&lt;/nowiki&gt;
+:&lt;nowiki&gt;[[page name]]s&lt;/nowiki&gt; -- suffix text will display as part of the link
+:&lt;nowiki&gt;[[page name|display name]]&lt;/nowiki&gt; -- the piped link: hide the page name and display something else (but use this sparingly, and ''never'' &quot;click here&quot;!)
+:&lt;nowiki&gt;[[page name (disambiguation)|]]&lt;/nowiki&gt; -- the &quot;pipe trick&quot;: the part in parentheses  or the [[w:namespace|namespace]] will not be displayed.
+:You don't need to put underscores (&quot;_&quot;), to act as space separators like you see in links. Spaces will work fine.
+: Note: to link to an external webpage, use &lt;nowiki&gt;[http://webpage Multi-word Title]&lt;/nowiki&gt;
+
+==How do I rename a page?==
+:Registered users can move a page; this moves the page content and edit history to a new title, and creates a redirecting page at the old title. This method is better than just copying the content by hand, as it preserves the page's history. Use the &quot;Move this page&quot; link. If you want to move a page, please click the &quot;What links here&quot; and fix the links to the page in question.
+
+==How do I edit a redirect page?==
+:The easiest way to edit the redirected page is to click on the link you see at the top of the page after being redirected: &quot;redirected from ...&quot;. At the very top of that page, you will see a message: &quot;(redirected from [[page name]])&quot;, Click on the [[page name]] link, and you will edit the redirect page page.  See [[Help:Editing#Redirecting|Redirect]].
+
+==How do I figure out how big a page is?==
+:Search results give the size, for example &quot;Knot theory (3220 bytes)&quot;. See [[Help:Navigating#Searching]]
+
+==How do I determine what other users have changed in a module?==
+: Wikibooks's software [[m:MediaWiki|MediaWiki]] can produce a list of all the changes between two versions of a module (either between two consecutive versions, or between an old and the current version), laid out in two-columns side by side with changes highlighted. From the Recent Changes page you can click the &quot;diff&quot; link; from a module page itself click &quot;Page history&quot;, then &quot;cur&quot; or &quot;last&quot; to see changes.
+
+==How can I put pictures on a page?==
+:First, you need the right to publish the picture under the [[GNU Free Documentation License]]. This means that either you created the picture and therefore own the copyright, or it is in the public domain. If the picture is located on a server you control, you can refer to that image from your wiki page by simply including its URL, like this:
+&lt;code&gt;&lt;nowiki&gt;http://my.webserver.com/image.png&lt;/nowiki&gt;&lt;/code&gt; and it will be included. (Note it will only be linked, not displayed.) If instead you want to upload a picture to Wikibooks.org, you can use [[commons:Commons:Upload]] as a logged-in user and once it is uploaded, you can refer to it in your wiki pages as above, by including its file name :&lt;code&gt;&lt;nowiki&gt;[[File:NameOfImage.png|Alternate Text]]&lt;/nowiki&gt;&lt;/code&gt;.
+
+See also [[Wikibooks:Media]].
+
+==How can I delete uploaded items?==
+:Only [[Wikibooks:Administrators]] can delete uploads, but anyone can upload a new item with the same name, thereby replacing the old one.
+
+==How do I describe images?==
+:Click on the image to get the description page.  Also, when you upload the file everything you put in the upload summary is placed into the image's description page. See [[:Image:Introductory Physics fig 4.3.png]] for an example of what goes onto one of these pages. See also: [[Wikibooks:Image use policy]]
+
+==Can I give the references in a book?==
+Yes. See [[Help:Editing#References]] and [[Template:Reflist]].
+
+==Can I link to a specific section header if there are multiple section headers of the same name? If so, how?==
+Yes, you can. Each section header, regardless of size or depth, has a number corresponding to how many times that header's name has already appeared on the page. The number is &quot;1&quot; for the very first instance, &quot;2&quot; for the next, &quot;3&quot; for the next, and so on. You can link to each header just like a normal header, but using that number after the header's name (i.e. if there are three headers named &quot;Foo,&quot; then the first can be linked to like so: &lt;nowiki&gt;[[#Foo 1]], the second. [[#Foo 2]], and the third, [[#Foo 3]]&lt;/nowiki&gt;). Using the number &quot;1&quot; for the first header is generally superfluous, as the software will automatically link to the first header without using the number (i.e. &lt;nowiki&gt;[[#Foo]]&lt;/nowiki&gt;). If you don't want the number to show, then you have to use a piped link (e.g. &lt;nowiki&gt;[[#Foo 2|Foo]]&lt;/nowiki&gt;).
+
+If you don't know how many times a given header has already appeared on a page (and thus the number to use), there are two ways to find out.
+#Use the table of contents.
+#:If a table of contents appears on the page, click on the header that you wish to link to. The page will jump to that header. Now, look at the [[w:Uniform Resource Locator|URL]]. At the end, it will show the ID of the header in question. An example of a URL who has just been linked to a header, whose name has already appeared twice (and so is the third instance), and whose name is &quot;Foo:&quot;
+#::&lt;tt&gt;&lt;nowiki&gt;http://meta.wikimedia.org/wiki/Example_article#Foo_3&lt;/nowiki&gt;&lt;/tt&gt;
+#:The header link at the end of the URL shows that to link to this header, you would use &lt;nowiki&gt;[[#Foo 3]]&lt;/nowiki&gt;.
+#Look at the source.
+#:While looking at the source, first find the section you're looking for, and then look at its ID tags. It will show the number in that tag. An example for a header, whose name has already appeared once (and so is the second instance), and whose name is &quot;Foo:&quot;
+#::&lt;tt&gt;&lt;nowiki&gt;&lt;p&gt;&lt;a name=&quot;Foo_2&quot; id=&quot;Foo_2&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/nowiki&gt;&lt;/tt&gt;
+#::&lt;tt&gt;&lt;nowiki&gt;&lt;h3&gt;Foo&lt;/h3&gt;&lt;/nowiki&gt;&lt;/tt&gt;
+#:The ID and name tags (the ones that say &quot;a name=&quot; and &quot;id=&quot;) show that this header can be linked to with &lt;nowiki&gt;[[#Foo 2]]&lt;/nowiki&gt;.
+
+==How do I get a page deleted?==
+First you should review our [[Wikibooks:Deletion policy|deletion policy]]. If a page qualifies for speedy deletion you can add {{tlx|delete|your reason}} to the top of the page. Otherwise you should add {{tlx|rfd}} to the top of the page and add a new section to [[Wikibooks:Requests for deletion]] explaining why the page ought to be deleted.
+
+==How can I easily change the title of a book?==
+Use the MOVE button/link at the top of the page to change the title of your book.
+
+==How do I archive my User Page?==
+See [[Help:Pages#Archiving]]
+
+==Can I put preformatted text inside a numbered list?==
+Yes, if you use the HTML &amp;lt;ol&gt; and &amp;lt;li&gt; tags and the &amp;lt;pre&gt; tag like this:
+
+{| border=&quot;1&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;
+ |
+&lt;pre&gt;&lt;nowiki&gt;
+&lt;ol&gt;
+&lt;li&gt;one&lt;/li&gt;
+&lt;li&gt;two
+&lt;pre&gt;
+here are a couple lines
+of preformatted text
+&amp;lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;and the numbering&lt;/li&gt;
+&lt;li&gt;does not start over&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/nowiki&gt;&lt;/pre&gt;
+ |
+&lt;ol&gt;
+&lt;li&gt;one&lt;/li&gt;
+&lt;li&gt;two
+&lt;pre&gt;
+here are a couple lines
+of preformatted text
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;and the numbering&lt;/li&gt;
+&lt;li&gt;does not start over&lt;/li&gt;
+&lt;/ol&gt;
+ |}
+
+==Can I use transparent borders on a table? ==
+Yes. The easiest way to write this is using wiki table notation with a different background for the table and for each row.
+
+{| border=&quot;1&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;
+ |
+&lt;pre&gt;
+{| style=&quot;background:transparent;&quot;
+ |- style=&quot;background:#0075ff;&quot;
+ | abc || def ||ghi
+ |- style=&quot;background:#0075ff;&quot;
+ | jkl || mno || pqr
+ |}&lt;/pre&gt;
+ |
+{|style=&quot;background:transparent;&quot;
+ |- style=&quot;background:#0075ff;&quot;
+ | abc || def ||ghi
+ |- style=&quot;background:#0075ff;&quot;
+ | jkl || mno || pqr
+ |}
+ |}
+
+==Can I change the style of something throughout a page without having to repeat the style?==
+There are two ways this can be done.
+
+'''Method 1''': This can be done by using a template and using the template repeatedly on the page instead. For example add &lt;nowiki&gt;&lt;pre style=&quot;border:pink; ...&quot;&gt;{{{1}}}&lt;/pre&gt;&lt;/nowiki&gt; to [[Template:Template sandbox]] and use &lt;nowiki&gt;{{template sandbox|some text}}&lt;/nowiki&gt; throughout the [[Wikibooks:Sandbox]] page. Everyone will see what you see.
+
+'''Method 2''': You can set this up once using CSS on your User Style. Then every &quot;pre&quot; tag will have the same pink-on-yellow style. However, every person that wants to see that style will need to set it up in their own personal &quot;User style&quot;. That allows people to see a yellow-on-pink style if they want, without messing up your pink-on-yellow view.
+
+[[Category:Wikibooks FAQ|{{PAGENAME}}]]</text>
+      <sha1>06xeq1jw8vqy4cd848njdbra1rn357h</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Help:FAQ/Administration</title>
+    <ns>12</ns>
+    <id>813</id>
+    <revision>
+      <id>2018915</id>
+      <parentid>1966973</parentid>
+      <timestamp>2011-01-18T04:59:04Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>moved [[Help:Administration FAQ]] to [[Help:FAQ/Administration]]: Subpages enabled.</comment>
+      <text xml:space="preserve">{{wikibooks help}}
+
+''See also:'' [[Wikibooks:Administrators]]
+
+==How do policies get decided?==
+:[[Wikibooks:Policies and guidelines]] describes how Wikibooks arrives at its policies and guidelines through a process of discussion and consensus.  Discussion takes place on the [[Wikibooks:Mailing lists]], on [[irc:#wikibooks|IRC]], and in the various policy pages which form part of the &quot;Wikibooks:&quot; namespace. For recent policy discussion on wiki, try looking at [{{fullurl:Special:RecentChanges|namespace=5}} recent changes].
+
+==What is an Administrator? What is a sysop?==
+:An Administrator is simply a [[Wikibooks:Wikibookians|Wikibookian]] who can access the few restricted Wikibooks software functions: deleting modules and uploaded files, protecting and unprotecting pages and blocking and unblocking IP addresses.
+:&quot;[[w:sysop|Sysop]]&quot; is a more technical designation which deals with the a special user account itself, due to historical and to the Wikimedia software the &quot;flag&quot; that gives an Administrator its special privileges is called ''sysop flag'' that is why Administrators are sometimes called  sysops (even if the definitions aren't equivalent).
+:The Administration tasks and rules are (still to be) defined on [[Wikibooks:Administrators]], they are not of a technical nature and are defined more as several managerial task that must be performed by a selected groups of users that needed or requested the access to be able to perform them to the good of all the community.
+
+==How can I become an Administrator?==
+:It's easy. First, you need a user account. Then, make useful edits over a period of time. In this way, you prove to the community that you are here in good faith. Then, add your name to [[Wikibooks:Requests for adminship]]. Voila! Be sure to read [[Wikibooks:Administrators]] and [[Wikibooks:Deletion policy]], and use your new &quot;powers&quot; with caution.
+
+==Who monitors the conduct of an Administrator?==
+: Administrators monitor each other; all administration tools are completely reversible by any other admin (including [[Special:Log/Delete|page and media deletions]], [[Wikibooks:Protected page|lockings]], and [[Special:Ipblocklist|IP bannings]]). In rare cases [[w:User:Jimbo Wales|Jimbo Wales]] has to step in. In any case, the GFDL license grants you the [[MeatBall:RightToFork|right to fork]], but all forks must be on your own servers, in accordance to [[Wikibooks:Forking policy|policy]] (the fixed policy regarding fork is still under discussion you are welcomed to express your views).
+
+==How can I unban an IP?==
+:Administrators can go to [[Special:Ipblocklist]] and click on &quot;unblock&quot; as required.  Developers can unblock multiple IPs at once.
+
+[[Category:Wikibooks FAQ|Overview]]</text>
+      <sha1>63ec11zpy9q0ipqisw5koljgo2r9514</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Help talk:FAQ/Administration</title>
+    <ns>13</ns>
+    <id>814</id>
+    <revision>
+      <id>2018917</id>
+      <parentid>475925</parentid>
+      <timestamp>2011-01-18T04:59:04Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>moved [[Help talk:Administration FAQ]] to [[Help talk:FAQ/Administration]]: Subpages enabled.</comment>
+      <text xml:space="preserve">Initial text adapted from [[en:Wikipedia:Administration FAQ]] --[[User:Maveric149|mav]] 08:58, 24 Aug 2003 (UTC)</text>
+      <sha1>0j8atdix6gw6191dqr22ldb1025oa1c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Help talk:More editing FAQ</title>
+    <ns>13</ns>
+    <id>815</id>
+    <revision>
+      <id>479386</id>
+      <parentid>152952</parentid>
+      <timestamp>2006-06-06T07:43:24Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <comment>[[Wikibooks talk:Editing FAQ]] moved to [[Help talk:More editing FAQ]]: more suited to help namespace</comment>
+      <text xml:space="preserve">Initial text adapted from [[en:Wikipedia:Editing FAQ]] --[[User:Maveric149|mav]] 08:59, 24 Aug 2003 (UTC)</text>
+      <sha1>a2nu5nxa2sx4tnfrr04zyxq81wt90nu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Help talk:FAQ/Contributing</title>
+    <ns>13</ns>
+    <id>816</id>
+    <revision>
+      <id>2470638</id>
+      <parentid>2231542</parentid>
+      <timestamp>2012-12-31T05:33:40Z</timestamp>
+      <contributor>
+        <username>Maximilian.Klein.LRMI</username>
+        <id>849601</id>
+      </contributor>
+      <comment>/* wording nitpick */ new section</comment>
+      <text xml:space="preserve">
+==Source of initial text==
+Initial text adapted from [http://en.wikipedia.org/wiki/Wikipedia:Contributing_FAQ Wikipedia:Contributing FAQ] --[[User:Maveric149|mav]] 08:59, 24 Aug 2003 (UTC)
+
+== Linking to wikipedia? ==
+As a new user, I upgraded the [[perl]] book to link to all first-occurrences of foreign comp-science words to wikipedia ( ie. &lt;nowiki&gt;[[w:foo|foo]]&lt;/nowiki&gt;.) Today I find someone of high stature has reverted all of those links. Please advise on when a wikibook should consult with a wikipedia entry and when it shouldn't. I feel discouraged, a lot of time has been needlessly wasted. [[User:EvanCarroll|EvanCarroll]] 19:14, 23 September 2007 (UTC)
+
+== wording nitpick ==
+
+This is super minor, but while browsing the page, the wording about the GIF patent question leapt out at me.  Instead of saying  &quot;&quot;Consult an attorney for more legal advice,&quot;&quot; it would probably be better to delete the word &quot;more.&quot;  It seems like, to me at least, including the word &quot;more&quot; suggests that the answer is in fact trying to give legal advice, which we probably shouldn't be giving the impression of. [[User:Maximilian.Klein.LRMI|Maximilian.Klein.LRMI]] ([[User talk:Maximilian.Klein.LRMI|discuss]] • [[Special:Contributions/Maximilian.Klein.LRMI|contribs]]) 05:33, 31 December 2012 (UTC)</text>
+      <sha1>d41ml2i70tkm8716naehc3sl7w3c735</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Help:FAQ/Problems</title>
+    <ns>12</ns>
+    <id>819</id>
+    <revision>
+      <id>2141839</id>
+      <parentid>2141834</parentid>
+      <timestamp>2011-07-15T19:38:16Z</timestamp>
+      <contributor>
+        <username>Recent Runes</username>
+        <id>66908</id>
+      </contributor>
+      <comment>/* Help - a page I am interested in has been deleted! */ add instructions</comment>
+      <text xml:space="preserve">{{wikibooks help}}
+
+''Note: If you're trying to get help for a specific technical problem that isn't answered by the FAQs, try asking in the [[WB:TECH|Reading room]].''
+
+==How do I report that something isn't working properly?==
+:If you think it's a bug in the software, you can send a bug report to the developers. See [[Wikibooks:Bug reports]] for directions. It may also be a problem with your browser; see the next question.
+
+==My web browser and Wikibooks aren't playing nice!==
+:Report at [[Wikipedia:Wikipedia:Browser notes|Browser notes]]. Include a description of the problem, the name of your browser, the version number, and the [[w:operating system|operating system]] you are running.
+
+==How do I know if the problem is in the [[m:MediaWiki|MediaWiki]] software or my browser?==
+:If you have another [[w:web browser|web browser]] installed, you can try to reproduce the problem in both. Failing this, you can describe your problem at the [[Wikibooks:Staff lounge|Staff lounge]] and ask other Wikibookians if they are having a similiar problem. If no one else is, it's probably a problem with your particular browser setup.
+
+==Some, but not all, images don't show up. What's wrong?==
+:Usually this is caused by ad-blocking software; uploaded files are distributed into random subdirectories, and 1/256th of all images on the server end up in http://www.Wikibooks.org/upload/a/ad/, which trips off some advertisement-blocking proxies. Configure your proxy to allow this directory, and you should be fine.
+
+==Is it possible for a vandal to delete all Wikibooks pages?==
+:Not really. Not even [[Wikibooks:Administrators|administrators]] can permanently and totally delete pages. Any other users could remove the text of a page, but any other user could restore the text from the history archive. If someone did an extensive attack, they could be blocked from further editing by the admins. Moreover, there are periodic backups kept of the server itself. For more on this topic, see [http://www.c2.com/cgi/wiki?WikiWipeout this discussion of &quot;wiki wipeouts&quot;] at the original [[en:Wiki|Wiki]].
+
+==Help - a page I am interested in has been deleted!==
+When you try to go to the page, you should see a notice saying who deleted the page and the reason why. If you disagree with the reason given or think the administrator made a mistake you can contact them directly on their talk page or make a general request for the page to be undeleted [[Wikibooks:Requests_for_deletion#Undeletion|here]]. (Select &quot;Add New Entry&quot; in the '''Undeletion''' section.)
+
+[[Category:Wikibooks FAQ|{{PAGENAME}}]]</text>
+      <sha1>ok76zm0d8cc8582lsqh3j9p2biu5syf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Help:Database download</title>
+    <ns>12</ns>
+    <id>822</id>
+    <revision>
+      <id>1985491</id>
+      <parentid>1985486</parentid>
+      <timestamp>2010-12-02T01:48:38Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>{{Wikibooks help}}</comment>
+      <text xml:space="preserve">{{Wikibooks help}}
+
+This page explains how to download an XML dump of the entire en.wikibooks.org site, or of one specific page. If you are trying to download the entire site, please use the XML dump instead of a web crawler.
+
+== What is MediaWiki? ==
+The [[Wikimedia:Home|Wikimedia Foundation]] hosts Wikibooks on servers running the free software [[MW:MediaWiki|MediaWiki]]. MediaWiki is a PHP script that provides the wiki to web browsers and stores the pages in a MySQL database. MediaWiki was developed for our sister project, [[Wikipedia:Main Page|Wikipedia]]. It is now used by all wiki projects hosted by the Wikimedia Foundation, including Wikibooks itself.
+
+To learn more about MediaWiki or to download a copy, visit:
+* http://www.mediawiki.org
+
+== How is Wikibooks copyrighted? ==
+Contributors to Wikibooks own the copyright to their contributions, but they all grant permmission under the [[GNU Free Documentation License]] and the [[Wikibooks:Creative Commons Attribution-ShareAlike 3.0 Unported License|CC-BY-SA 3.0]] license for copying, modifying, and reusing our textbooks and other content. Some embedded images and media are under [[Commons:Commons:Licensing|other free licenses]]. Some copyrighted content is used under &quot;[[WB:FUP|fair use]]&quot;. For more information, see the page [[Wikibooks:Copyrights]].
+
+== How do I download my copy? ==
+Because Wikibooks is free documentation, you are allowed to copy our content from our MediaWiki server to your own computer. You might want to download a machine-readable copy designed for human modification, that is, the '''Transparent Version'''. Or you might want to load a copy of en.wikibooks.org into your own copy of MediaWiki as a mirror. Our XML dumps fulfill both purposes.
+
+== Understanding different formats ==
+* '''Wiki markup''' is the format in which authors write pages for MediaWiki. This is what you see when you use the &quot;Edit this page&quot; tab on Wikibooks.
+* '''HTML''' is the format that web browsers understand. This is what you obtain when you use the &quot;Save Page&quot; function of your web browser.
+* An '''XML dump''' is a format from MediaWiki that contains the complete wiki markup of a page, plus additional information about the page such as its title. ''Thus an XML dump is the best format for copying the wiki markup from Wikibooks.'' You can also reimport an XML dump into your own copy of MediaWiki.
+
+== Downloading the ENTIRE site ==
+The site http://download.wikimedia.org contains an entire site dump for en.wikibooks.org. To download the entire collection of textbooks:
+# Visit http://download.wikimedia.org
+# Look for &quot;enwikibooks&quot;
+# Pick an XML dump and download it
+
+Note that &quot;enwiki&quot; is the English Wikipedia, and does not contain any part of &quot;enwikibooks&quot;.
+
+== Downloading some pages ==
+The [[Special:Export]] feature allows you to download one or more pages from Wikibooks. To download some pages:
+# Visit [[Special:Export]]
+# Follow the instructions to submit a query
+# Save the resulting XML to disk
+
+... or just use [[Special:Export/Main Page]] to quickly get the XML dump of the [[Main Page]], for example.</text>
+      <sha1>chqr2s46an9v5e8zgo50hhcjaqrhbmd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Help talk:Database download</title>
+    <ns>13</ns>
+    <id>823</id>
+    <revision>
+      <id>1985488</id>
+      <parentid>1967513</parentid>
+      <timestamp>2010-12-02T01:48:08Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>moved [[Wikibooks talk:Database download]] to [[Help talk:Database download]]: Moving to help namespace.</comment>
+      <text xml:space="preserve">Initial text adapted from [[en:Wikipedia:Database download]] --[[User:Maveric149|mav]] 10:00, 24 Aug 2003 (UTC)</text>
+      <sha1>59z7v6fvms466ns845sz5mjto6tm44j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:ISBN</title>
+    <ns>4</ns>
+    <id>833</id>
+    <revision>
+      <id>152970</id>
+      <timestamp>2003-08-24T10:58:57Z</timestamp>
+      <contributor>
+        <username>Maveric149</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve">test</text>
+      <sha1>jrwjerxiekdtj9k82lg930wpkr6tq6r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Spanish/Sound Files</title>
+    <ns>0</ns>
+    <id>838</id>
+    <revision>
+      <id>532458</id>
+      <parentid>490469</parentid>
+      <timestamp>2006-07-22T07:46:54Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">*[http://commons.wikimedia.org/wiki/Image:SpanishL1D1.ogg Diálogo 1] Dialogue 1
+*[http://commons.wikimedia.org/wiki/Image:SpanishL1D2.ogg Diálogo 2] Dialogue 2
+*[http://commons.wikimedia.org/wiki/Image:Spanish_alphabet.ogg Alfabeto español] Spanish alphabet
+*[http://commons.wikimedia.org/wiki/Image:SpanishNumbers.ogg Los números de 0 a 20] Numbers 0 to 20
+----
+[[w:Wikipedia:Media#Audio|Audio Help]]
+
+[[Category:Spanish]]</text>
+      <sha1>hyuac44wc1pn5obyc5551a46h6831zj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Requests for permissions</title>
+    <ns>4</ns>
+    <id>840</id>
+    <revision>
+      <id>2712786</id>
+      <parentid>2711462</parentid>
+      <timestamp>2014-10-13T01:49:30Z</timestamp>
+      <contributor>
+        <username>Jusjih</username>
+        <id>10882</id>
+      </contributor>
+      <comment>/* Requests for permissions */ /Jusjih</comment>
+      <text xml:space="preserve">__NEWSECTIONLINK__ {{Discussion Rooms}} {{Requests for permissions/Archives}} {{shortcut|WB:RFP}} [[Category:Wikibooks administration|{{PAGENAME}}]]
+[[ca:Viquillibres:candidatura a administrador]]
+[[de:Wikibooks:Adminkandidaturen]]
+[[eo:Vikilibroj-Diskuto:Administrantoj]]
+[[es:Wikilibros:Candidaturas a bibliotecario]]
+[[pl:Wikibooks:Przyznawanie uprawnień]]
+[[pt:Wikibooks:Pedidos de administração]]
+
+All rights available on Wikibooks are handled here, including [[Wikibooks:Reviewers|reviewer]], [[Wikibooks:Importers|importer]], [[Wikibooks:Uploaders|uploader]], [[Wikibooks:Administrators|administrator]], [[Wikibooks:Administrators|bureaucrat]], [[m:CheckUser|CheckUser]], [[Wikibooks:Pseudo-bots|pseudo-bot]], and [[Wikibooks:Bots|bot]] flags. A nomination must demonstrate how the project will benefit from granting the rights.
+
+;Nominations
+: To nominate a user (including yourself), add their username to the appropriate section below. Please explain why you feel the nominated user would be a good choice. All registered Wikibookians may comment, and provide arguments in support or opposition. For the bot flag, technical information about the bot may be requested. See the specific requirements for each type of access on their respective pages.
+
+;Outcome
+: Consensus does not need to be demonstrated in granting reviewer, importer, and uploader flags. Administrators may use their best judgement in granting those. All other tools require community consensus and can only be granted by bureaucrats. Access to CheckUser is governed by [[meta:CheckUser policy|CheckUser policy]]. After about one week, if there is consensus to grant access, then a [[Special:ListUsers/bureaucrat|bureaucrat]] will make it so and record the fact here. If not, a bureaucrat may refuse to grant the rights and the request will remain until a consensus is reached.
+
+= Removal of permissions=
+{{message box|image=Symbol comment vote.svg|message='''Note:''' You may request removal of ''your own'' rights at [[meta:Steward requests/Permissions]]. Requests to remove others' rights should be placed here, whether due to inactivity, or abuse.
+}}
+=={{usercheck|MiszaBot}} (-Bot)==
+{{closed|1=Removed - if the bot reactivates we need full visibility of the edits given the situation re. its operator, etc. [[User:QuiteUnusual|QuiteUnusual]] ([[User talk:QuiteUnusual|discuss]] • [[Special:Contributions/QuiteUnusual|contribs]]) 07:02, 26 June 2014 (UTC)}}
+As a logic consequence of the bot's reported dysfunction since late March and in face of an alternative offering by [[User:Whym|Whym]] to run [[User:Whym|ArchiverBot]] in the same function, the bot flag should be removed from the previous bot ([[User:Misza13]] hasn't registered an email but the bot account has one). I see no problem in running the two procedures in parallel but this one should be closed before we resolve [[User:Whym|Whym]]'s request.  --[[User:Panic2k4|Panic]] ([[User talk:Panic2k4|discuss]] • [[Special:Contributions/Panic2k4|contribs]]) 01:18, 26 June 2014 (UTC)
+* {{support}} Sure, perfectly reasonable to take away the old bot's bit (say that three times fast).  Though I don't think the old bot is ever going to do anything again, so it's mostly a formality, not to leave an extra bit lying around.  --[[User:Pi zero|Pi zero]] ([[User talk:Pi zero|discuss]] • [[Special:Contributions/Pi zero|contribs]]) 01:25, 26 June 2014 (UTC)
+* {{support}} Even though this is in the wrong section. If someone does wake MiszaBot up again, we want to be aware of that if ArchiverBot is active. [[User:Chazz|Chazz]] &lt;small&gt;([[User talk:Chazz|talk]])&lt;/small&gt; 03:23, 26 June 2014 (UTC)
+:: Fixed (wrong section, moved disc. up to the removal header).  --[[User:Panic2k4|Panic]] ([[User talk:Panic2k4|discuss]] • [[Special:Contributions/Panic2k4|contribs]]) 04:04, 26 June 2014 (UTC)
+{{end closed}}
+
+=Requests for permissions=
+{{message box|image=Symbol comment vote.svg|message='''Note:''' When adding nominations, please use the format &lt;code&gt;=={{tlx|usercheck|Username}} (Right requested)==&lt;/code&gt; followed by the nomination.
+}}
+=={{usercheck|rattleCAD}} (reviewer)==
+rattleCAD is an opensource project on sourceforge.net &lt;br /&gt; http://sourceforge.net/projects/rattlecad. &lt;br /&gt;I wants to create a maunual for users here on wikibooks. I am the programmer of rattleCAD and wants to become also a reviewer of the wikibook: [[https://en.wikibooks.org/wiki/RattleCAD_User_Manual rattleCAD User Manual] {{usercheck|rattleCAD}}
+* You don't need the reviewer bit to contribute.  Eventually, once you have breadth of experience contributing to the project, you get automatically promoted to reviewer.  --[[User:Pi zero|Pi zero]] ([[User talk:Pi zero|discuss]] • [[Special:Contributions/Pi zero|contribs]]) 17:41, 15 June 2014 (UTC)
+
+{{/ArchiverBot}}
+{{/Jusjih}}
+
+==Request for upload permission==
+
+==Upload Access, Administrator Permission &amp; Check-User Access==
+{{closed|1=Not done. Make one request for each permission to allow a proper discussion by permission. [[User:QuiteUnusual|QuiteUnusual]] ([[User talk:QuiteUnusual|discuss]] • [[Special:Contributions/QuiteUnusual|contribs]]) 07:24, 8 September 2014 (UTC)}}
+Hello All.
+
+I am a regular editor and reviewer at both WB and WP. I contribute mostly to the German Book on WB. Apart from the same I also am a counter vandalism personal, and keep a watch on the reviews and edits at both the places.
+
+I am currently requesting the following:
+
+1. Upload access here at WB for uploading images and media files (voice recordings and images for German Language), towards the book contribution. I am at office most of the times, and we have media restrictions on media web pages, which is Wiki Media and Commons. Apart from that many a times I have faced troubles uploading on the Commons, and thus would request if, the Upload access is granted to me out at WB.
+
+2. I am a regular Vandal and Spam rain checker. Not only that I see that we have very few Admin Levels (8 to be precise of whom Xania is on a break for some time, and out of Quite, Pi, Dark and Recent, I see Quite and Pi on a regular basis, making only 2 active ones), who are granted to provide Page Protections, Blocks, Vandal Blocks etc, which in order to get actioned, at times take long If I get the rights, I can take actions on the request as and when I am able to on them. I will also be able to do rain checks on the pages, users and the activities. Currently, or rather today I did 20+ reviews of the edits and also reverted few of them. Glad, if can get the sysops right.
+
+3. I would also like to get the Check-User access, which I see is also with very limited people (3 to be precise, if I am not wrong), and see that I can be of use here too. Hope to get the same as well.
+
+'''Jai Jinendra'''. [[User:Harrybrowne1986|Vishal]][[User Talk:Harrybrowne1986| Bakhai]] - [[Special:Contributions/Harrybrowne1986|Works]][[Image:Flag_of_India.svg|15px]] 17:10, 7 September 2014 (UTC)
+
+:This is quite clearly three separate requests, for which quite separate criteria apply. I would re-enter your requests, following the format as laid out in the top of the page. For the record, I {{support}} uploader, {{oppose}} admin, and '''strongly''' {{oppose}} CU. [[User:Chazz|Chazz]] &lt;small&gt;([[User talk:Chazz|talk]])&lt;/small&gt; 01:24, 8 September 2014 (UTC)
+{{end closed}}
+
+==Uploader Access==
+Firstly I would apologies as I entered the access request for all three into one. I am posting all as individual requests. Also [[User:Chazz|Chazz]], thank you for your support for this.
+
+As stated earlier, I request Upload access here at WB for uploading images and media files (voice recordings and images for German Language), towards the book contribution. I am at office most of the times, and we have media restrictions on media web pages, which is Wiki Media and Commons. Apart from that many a times I have faced troubles uploading on the Commons, and thus would request if, the Upload access is granted to me out at WB. '''Jai Jinendra'''. [[User:Harrybrowne1986|Vishal]][[User Talk:Harrybrowne1986| Bakhai]] - [[Special:Contributions/Harrybrowne1986|Works]][[Image:Flag_of_India.svg|15px]] 08:30, 8 September 2014 (UTC)
+
+{{oppose}} After reading the reasons for the request it simply does not conform to requirements of the function of uploader. As an alternative solution to [[User:Harrybrowne1986]] problems he may request help from someone at Commons to a) find a proxy that works b) serve as a proxy for the uploads.  --[[User:Panic2k4|Panic]] ([[User talk:Panic2k4|discuss]] • [[Special:Contributions/Panic2k4|contribs]]) 00:42, 15 September 2014 (UTC)  
+
+:Hello [[User:Panic2k4|Panic]]. Thank you for the suggestion. However, as I already stated, the main reason I am asking is, I face issues with uploads in Commons, and many a times the Uploads fail. In those cases, my bandwidth goes for a toss, and also my time. '''Jai Jinendra'''. [[User:Harrybrowne1986|Vishal]][[User Talk:Harrybrowne1986| Bakhai]] - [[Special:Contributions/Harrybrowne1986|Works]][[Image:Flag_of_India.svg|15px]] 18:16, 19 September 2014 (UTC)
+
+::Again I don't see in there any reason to grant you the tools to upload what would be by our rules unacceptable files into Wikibooks. Seek a proxy that can do the work for you without requiring us to create an exception and a workload to deal with your issues.  --[[User:Panic2k4|Panic]] ([[User talk:Panic2k4|discuss]] • [[Special:Contributions/Panic2k4|contribs]]) 21:00, 19 September 2014 (UTC) 
+
+:::I do not see where did I state that I wish to upload any unacceptable file? Please read again, as I specifically mentioned the files are dated about 50 years. Also, I request you to let me know, what do you mean by when you said &quot;deal with your issues&quot;. Where and what is the issue here? If I face trouble uploading, and if I say I lose my time and my bandwidth after trying to upload something, is this an issue? I also do not see any reason behind all of these things, like &quot;My English Skills&quot;, &quot;My Issues&quot;! All I know is that I have a &quot;Neutral English&quot;, and that I do not find any proper justification in the way things have been picked on my requests. I might be new compared to some of the others, but I do have to say this, that I am really surprised at the way I am being treated here. '''Jai Jinendra'''. [[User:Harrybrowne1986|Vishal]][[User Talk:Harrybrowne1986| Bakhai]] - [[Special:Contributions/Harrybrowne1986|Works]][[Image:Flag_of_India.svg|15px]] 18:33, 23 September 2014 (UTC)
+
+:::: If a file is acceptable at Commons it is automatically not acceptable here.
+:::: Deal with your issues means deal with your problems. Problems that are exclusive to yourself.
+:::: I did no comment on you English skills and I find them not relevant if you at least can understand our policies and guidelines and fill up the required upload information.
+:::: I do agree that people have gone in a tangent when they should have clearly simply opposed your request on enough valid grounds. If you look at the archives you may notice that you aren't being treated differently that everyone else in the past. You also didn't help your cause by initiating discussions for several flags at the same time. I am opposing you in this one request because no one else was and you certainly (for what I understood) would be uploading files that wouldn't be acceptable here, since the cornerstone of the request is to use our project to upload files that you aren't' capable of uploading to Commons on technical problems, not license issues. At Wikibooks we only accept some Non-free media files as defined in our [[WB:MEDIA|Media policy]]. --[[User:Panic2k4|Panic]] ([[User talk:Panic2k4|discuss]] • [[Special:Contributions/Panic2k4|contribs]]) 21:38, 23 September 2014 (UTC)
+
+===Comments===
+
+* For the record, I {{support}} uploader. [[User:Chazz|Chazz]] &lt;small&gt;([[User talk:Chazz|talk]])&lt;/small&gt; 01:24, 8 September 2014 (UTC)
+:If I'm reading this correctly, requester seems to be saying that upload to commons is blocked at his workplace and he believes upload to WB may not be. I'm a little concerned that if he starts uploading to WB from his workplace, his workplace may respond by shutting down upload to WB as well... and maybe all access to all Wikimedia sites. Companies have been known to do that sort of thing... but if that's a risk requester wants to take with his entire company, and if he understands fair use and copyright issues, then my support remains in place... though shaken, I have to admit, by QU's comments below. [[User:Chazz|Chazz]] &lt;small&gt;([[User talk:Chazz|talk]])&lt;/small&gt; 18:25, 8 September 2014 (UTC)
+::Don't get me wrong, once I understand the request properly I'm happy to consider it - I just don't understand it properly and I'm not really comfortable with uploading material here that should be at Commons most particularly as we don't have the volunteers to police the uploads like they do to ensure copyright compliance. I can grant the permission, remove the permission if abused and delete any bad uploads here so I'm not overly concerned about ensuring &quot;perfection in understanding&quot; first - unlike the admin and CU requests. [[User:QuiteUnusual|QuiteUnusual]] ([[User talk:QuiteUnusual|discuss]] • [[Special:Contributions/QuiteUnusual|contribs]]) 18:34, 8 September 2014 (UTC)
+::: Hello [[User:Chazz|Chazz]] &amp; [[User:QuiteUnusual|Quite]].&lt;br&gt;I actually missed reading out this portion earlier. My office blocks only those sites, from which it has open source and data vulnerability issues, like commons, as it has its back-end data source on open library forum. Apart from commons, all other sites are open, till the time, the link do not lead to any porn, or inappropriate sites/topics/forum. Unlike commons, where, I agree and, no doubt had a lot of trouble, due to my own mistakes, I understand my responsibility here, and have always portrayed it. Also, the site Commons is blocked totally, and not just uploads, but none of the other projects are blocked, as are required at times for reference in our work. '''Jai Jinendra'''. [[User:Harrybrowne1986|Vishal]][[User Talk:Harrybrowne1986| Bakhai]] - [[Special:Contributions/Harrybrowne1986|Works]][[Image:Flag_of_India.svg|15px]] 10:28, 14 September 2014 (UTC)
+* This request is out of line with the reason the uploader flag is granted. It is only granted to those needing to upload non-free media that is unacceptable on Wikimedia Commons. [[User:QuiteUnusual|QuiteUnusual]] ([[User talk:QuiteUnusual|discuss]] • [[Special:Contributions/QuiteUnusual|contribs]]) 08:40, 8 September 2014 (UTC)
+:Not too sure of the abrupt ending of the sentence [[User:QuiteUnusual|Quite]] and out of line! What I understand, is that I wish to upload a lot of audio files, and other images for the scope of German, and which is way too tedious to be done from Commons, and, since, I cannot access Commons from my work place, (wherein I work on WB/WP, when I get time), I will not be able to get the file codes, and also, the media linkage on the server gets too high. People do get the uploader access here as well, if it pertains out of non free media uploads as well. Please let me know, if this is feasible for the grant? Danke Schôn. '''Jai Jinendra'''. [[User:Harrybrowne1986|Vishal]][[User Talk:Harrybrowne1986| Bakhai]] - [[Special:Contributions/Harrybrowne1986|Works]][[Image:Flag_of_India.svg|15px]] 08:59, 8 September 2014 (UTC)
+:*I don't understand why you think the upload would be &quot;tedious&quot; at Commons but okay at Wikibooks? Can you explain why you think uploading at Wikibooks would be easier? [[User:QuiteUnusual|QuiteUnusual]] ([[User talk:QuiteUnusual|discuss]] • [[Special:Contributions/QuiteUnusual|contribs]]) 09:18, 8 September 2014 (UTC)
+:*You also seem to have received a lot of comments on your talk page at Commons ([https://commons.wikimedia.org/wiki/User_talk:Harrybrowne1986 here]) that suggests you don't understand free media and copyright rules. Is that what you mean by having difficulty with Commons? If so, you'll have the same problems here. And I see you have had images deleted as copyright violations from Wikipedia too. None of this suggests we should let you do the same here - [[User:QuiteUnusual|QuiteUnusual]] ([[User talk:QuiteUnusual|discuss]] • [[Special:Contributions/QuiteUnusual|contribs]]) 11:59, 8 September 2014 (UTC)
+:*I know that I have a lot of removals from commons, and I agree to the points (to a certain extend of course), as I believe, that what I did was lack of knowledge at that time. If you would see, post those comments, I have uploaded images of my own, and while I continued my fight against vandalism. I am not sure, if you looked the dates up on WP, for images which got deleted. I believe, anyones can commit a mistake (me, you or anyone else). If that person comes out of it, and still is chased for the same thing again and again for no valid reason, it is just showing less respect for the other good deeds of his. The images and media (audio) files I am speaking about uploading here are for the German book, and are dated more than 50 years. So, they anyways can be uploaded here. The fact I said about the commons trouble, is that my system at times gets stuck due to some error, and the uploads do not get completed. This I have faced lot of times, only in commons. Still, if you do not wish to grant me one, I am fine with it. '''Jai Jinendra''' [[User:Harrybrowne1986|Vishal]][[User Talk:Harrybrowne1986| Bakhai]] - [[Special:Contributions/Harrybrowne1986|Works]][[Image:Flag_of_India.svg|15px]] 13:44, 13 September 2014 (UTC)
+:*I would probably support this request if all of the other comments hadn't been here.  I can fully understand the problem and here in Italy websites are routinely blocked without warning.  Commons and Source were both unavailable on many ISPs for most of June and July.  Do we now judge people based on their actions on other Wikimedia sites?  If that's the case why don't we just use global blocks for everything and global permissions rather than local ones?--[[User:Xania|ЗAНИA]] [[Image:Flag_of_the_Isle_of_Mann.svg|15px]][[User talk:Xania|&lt;sup&gt;talk&lt;/sup&gt;]] 19:20, 8 October 2014 (UTC)
+
+==Administrator Permission==
+{{closed|1=Not done. After 8 days there is clearly no support for the rights at this time. I would suggest you try again in 9 months or so once you have longer tenure here and contributors know better. [[User:QuiteUnusual|QuiteUnusual]] ([[User talk:QuiteUnusual|discuss]] • [[Special:Contributions/QuiteUnusual|contribs]]) 10:57, 16 September 2014 (UTC)}}
+Again, as I mentioned earlier, I am a regular Vandal and Spam rain checker. Not only that I see that we have very few Admin Levels (8 to be precise of whom Xania is on a break for some time, and out of Quite, Pi, Dark and Recent, I see Quite and Pi on a regular basis, making only 2 active ones), who are granted to provide Page Protections, Blocks, Vandal Blocks etc, which in order to get actioned, at times take long If I get the rights, I can take actions on the request as and when I am able to on them. I will also be able to do rain checks on the pages, users and the activities. Currently, or rather today I did 20+ reviews of the edits and also reverted few of them. Glad, if can get the sysops right.
+
+I request [[User:Chazz|Chazz]], to let me know the reason for {{oppose|Opposing}}, as I am not sure why, he is stating this. I might be able to work on the point, for the reason he is opposing.
+
+'''Jai Jinendra'''. [[User:Harrybrowne1986|Vishal]][[User Talk:Harrybrowne1986| Bakhai]] - [[Special:Contributions/Harrybrowne1986|Works]][[Image:Flag_of_India.svg|15px]] 08:30, 8 September 2014 (UTC)
+
+===Questions===
+
+#Can you explain the reasons you issued a &quot;no spam, no vandalism&quot; warning to the IP editors who made [https://en.wikibooks.org/w/index.php?title=General_Chemistry/The_Quantum_Atom&amp;diff=prev&amp;oldid=2695971 this edit] and [https://en.wikibooks.org/w/index.php?title=Accordion%2FPrint_Version&amp;diff=2696260&amp;oldid=2502384 this edit]? I would judge neither as vandalism - one is poor quality but a good faith edit, the other is a valid correction. You seem to have a fairly high rate of issuing incorrect warnings which coupled with your relatively weak English language skills and lack of experience (less than 1,000 edits across all projects) suggest to me that you are not ready to be trusted with block and delete buttons. However, please feel free to explain your actions.  [[User:QuiteUnusual|QuiteUnusual]] ([[User talk:QuiteUnusual|discuss]] • [[Special:Contributions/QuiteUnusual|contribs]]) 10:15, 8 September 2014 (UTC)
+
+::Hello [[User:QuiteUnusual|Quite]]. I agree with you that, I misjudged, and, placed incorrect message for the mentioned IP users. I have gone ahead and amended the message for both. I '''know''' that I do not commit ''high rate'' of issuances of incorrect warnings and that I am very good with my language skills. I have been from my school days, and still am. So, I am not being able to understand why you are mentioning ''relatively weak English language skills''?  I am aware too, that I have less than 1,000 edits. I generally do less of editing, and am more of into either fighting vandalism or into my WB German Project. Apart from that I do not get to much time over the weekdays to log-in. The way I have committed some mistakes, the same might have gone for you in your initial days. Everybody is given a chance, and that too, I am not asking it to flaunt, that see, I have these rights, but too do good for WB. I used to do it previously as well, and will continue to do it. I try to learn from my mistakes and thus I work on them. It is to see how I fair and not what mistakes I have committed in the past. It is good to keep in mind, but not good to stop the future, by dwelling in the past. I hope that I am clear in my English! '''Jai Jinendra''' [[User:Harrybrowne1986|Vishal]][[User Talk:Harrybrowne1986| Bakhai]] - [[Special:Contributions/Harrybrowne1986|Works]][[Image:Flag_of_India.svg|15px]] 14:30, 13 September 2014 (UTC)
+:::Regarding &quot;relatively weak English skills&quot;: I will not argue with your education, but there is a very great difference between excellent English education and the way a native speaker uses the language. Quite clearly from your writing, while you have a good knowledge of English, you are not a native speaker of the language. In the first few sentences of the above, I note the following infelicities in grammar: &quot;I do not commit ''high rate'' of issuances of incorrect&quot; missing &quot;a&quot; before &quot;high rate&quot; and unnecessary form &quot;issuances&quot; over-complicates the entire clause; &quot;I am not being able to understand why you are mentioning&quot; &quot;not being able&quot; is not proper English grammar in this sentence, &quot;being&quot; does not belong; &quot;I generally do less of editing&quot; superfluous &quot;of&quot;. I cannot comment on the other items you discuss here. [[User:Chazz|Chazz]] &lt;small&gt;([[User talk:Chazz|talk]])&lt;/small&gt; 17:55, 13 September 2014 (UTC)
+::Thank you Chazz. When I mentioned the first point without an ''a'', I knew that it was not required, in the sentence. I also framed a proper sentence, when I used ''issuances'', in order to make my point clear. In &quot;Not being able&quot;, I agree, being should not have been used, as it really does not belong in the sentence. I should have framed it in a much better way, like, 'I am unable to understand, why you are mentioning/why you mentioned', and that would have been a proper construction. To be frank, when a person literally points a finger at you, and states it in a manner as placed earlier: [You seem to have a fairly high rate of issuing incorrect warnings '''which coupled with your relatively weak English language skills'''], especially, when it was mentioned, ['''weak English'''], it pinched a lot, as I know, that although I am not a native speaker, my skills are no way below par, and I do not need to prove it. No doubt, I have a tendency to use US English more, than the UK one, however, I try to be fair, and use a proper one, as I know many native speakers, using completely incorrect English. '''Jai Jinendra''' [[User:Harrybrowne1986|Vishal]][[User Talk:Harrybrowne1986| Bakhai]] - [[Special:Contributions/Harrybrowne1986|Works]][[Image:Flag_of_India.svg|15px]] 18:19, 13 September 2014 (UTC)
+
+===Comments===
+
+*For the record, I {{oppose}} admin. [[User:Chazz|Chazz]] &lt;small&gt;([[User talk:Chazz|talk]])&lt;/small&gt; 01:24, 8 September 2014 (UTC)
+:[[User:Chazz|Chazz]], request you to let me know, the reason for opposing. Danke Schôn. '''Jai Jinendra'''. [[User:Harrybrowne1986|Vishal]][[User Talk:Harrybrowne1986| Bakhai]] - [[Special:Contributions/Harrybrowne1986|Works]][[Image:Flag_of_India.svg|15px]] 08:59, 8 September 2014 (UTC)
+::Of course, now that there is an appropriate venue. Each project in Wikimedia has its own feel, its own style if you will, and it takes time on a project to understand that local milieu. An administrator must understand that style if he is to work effectively. With possibly five hundred edits on WB, most of them simple reversals of vandalism, I do not believe that you have had the necessary exposure to learn the style of this project, which is quite different from WP. For vandalism reversals, admin permission is not needed, rollback is quite sufficient. [[User:Chazz|Chazz]] &lt;small&gt;([[User talk:Chazz|talk]])&lt;/small&gt; 15:22, 8 September 2014 (UTC)
+:::Hello [[User:Chazz|Chazz]]. Thanks for the comment. May I know, what do you mean by '''Of course, now that there is an appropriate venue.'''. Just wanted to know, if you thought, my work is all wrong or something like that? Might be I do things differently, which you thought to be wrong!&lt;br&gt;I am trying to do things in a proper manner, and am being just as per the requirements. No one is perfect, and neither am I. '''Jai Jinendra'''. [[User:Harrybrowne1986|Vishal]][[User Talk:Harrybrowne1986| Bakhai]] - [[Special:Contributions/Harrybrowne1986|Works]][[Image:Flag_of_India.svg|15px]] 17:15, 14 September 2014 (UTC)
+::::When you were asking for all three permissions at the same time, there was no space to comment on your request for admin separately from the others. That was all that I meant there. But I'm afraid my concern remains: your work on this project has been largely vandalism reversals, which don't require understanding of the &quot;project culture&quot;, something that is different from one project to another. And without seeing more creative work, whether editing or actually writing, I have no way to judge whether you understand the culture of EN:WB. [[User:Chazz|Chazz]] &lt;small&gt;([[User talk:Chazz|talk]])&lt;/small&gt; 17:53, 14 September 2014 (UTC)
+:{{outdent|::::::::}}
+:Hello [[User:Chazz|Chazz]]. Firstly, I would like to apologies, if I sounded rude (which I believe I did). I did not mean to. Secondly, please help me understand what is meant by '''project culture''', as I have done more than just reverts. I have been, and am currently contributing for the German book. Also, few other edits. Apart from that I do reviewing, Welcome newcomers, try and help others, and also learn on the way. :) '''Jai Jinendra'''. [[User:Harrybrowne1986|Vishal]][[User Talk:Harrybrowne1986| Bakhai]] - [[Special:Contributions/Harrybrowne1986|Works]][[Image:Flag_of_India.svg|15px]] 18:23, 14 September 2014 (UTC)
+::Well, the fact that you feel that it is a reasonable thing to request admin privileges when you have only a few hundred edits under your belt would be a strong indicator that you have some problems understanding the culture here. EN:WB moves more slowly than many other projects, despite having a lot of articles and contributors. The key point, I guess, is that I don't really feel that anything has appeared in your edit log that would really allow me to know whether or not you fit into this project... and the sudden appearance looking for high office does sort of argue against.
+::On the English issue, I don't doubt your abilities when you're really trying... but you don't try all the time, nobody does. And in the paragraph of yours just above this response, I would like to point out &quot;apologies&quot;... [[User:Chazz|Chazz]] &lt;small&gt;([[User talk:Chazz|talk]])&lt;/small&gt; 01:32, 15 September 2014 (UTC)
+{{oppose}} btw, I feel like you are hat collecting. Idk you very well, and the poor English skills makes you look confusing to communicate with. --[[User:Goldenburg111|goldenburg111]] ([[User talk:Goldenburg111|talk]]) 21:22, 14 September 2014 (UTC)
+
+:Not sure, what people here consider English as! I have very good communication skills, and all I can see is everyone JUDGING as if they are the best. Please, where do I portray anything 'confusing' and 'poor skills'? Also to let you know, I am not '''hat collecting'''. I also do not know you. I would request you to not just jump to &lt;s&gt;Do not just jump to&lt;s&gt; any conclusion, and &lt;s&gt;do&lt;s&gt; not to be judgmental. It shows a bad picture of the people here. Sorry to say this, but it feels like, I gave the opportunity for the people who had to vent out. '''Jai Jinendra'. [[User:Harrybrowne1986|Vishal]][[User Talk:Harrybrowne1986| Bakhai]] - [[Special:Contributions/Harrybrowne1986|Works]][[Image:Flag_of_India.svg|15px]] 22:13, 14 September 2014 (UTC)
+{{end closed}}
+
+==CheckUser Access==
+{{closed|1=Not done. Wikibooks policy requires a CheckUser to be an administrator, which there is also no support for at this time. In addition, the CU right requires 25 votes - this is not going to be achieved at this time. I suggest you try again for admin in the future and once you have tenure as an admin consider standing for CU again. [[User:QuiteUnusual|QuiteUnusual]] ([[User talk:QuiteUnusual|discuss]] • [[Special:Contributions/QuiteUnusual|contribs]]) 10:59, 16 September 2014 (UTC)}}
+The last but not the least, access request for CU.
+
+I would also like to get the Check-User access, which I see is also with very limited people (3 to be precise, if I am not wrong), and see that I can be of use here too. Hope to get the same as well.
+
+Not repeating myself, but still I am not sure why (and I am rather curious of this) [[User:Chazz|Chazz]] states '''strongly''' {{oppose|Opposing}} for this?
+
+'''Jai Jinendra'''. [[User:Harrybrowne1986|Vishal]][[User Talk:Harrybrowne1986| Bakhai]] - [[Special:Contributions/Harrybrowne1986|Works]][[Image:Flag_of_India.svg|15px]] 08:30, 8 September 2014 (UTC)
+
+===Questions and comments===
+
+*Please explain your understanding of the CheckUser policy, what the tool is used for, and how to interpret its results. [[User:QuiteUnusual|QuiteUnusual]] ([[User talk:QuiteUnusual|discuss]] • [[Special:Contributions/QuiteUnusual|contribs]]) 08:33, 8 September 2014 (UTC)
+:First and foremost, I do not see, how a trust is built, if the tendency is more of neglecting all the positive things one does. Earning the trust is what matters the most, which I agree to. However, if the person is not given the chance to earn it, and just is being opposed to for everything, I believe there is nothing I can do in that case. How would you know if a person is worth it or not, if he is not given the time to prove it. I might be right, might be wrong in saying that &quot;I do not trust you or anyone else&quot;. Then what to do? We all have to go hand in hand, and trust can only be gained in the time that goes by. This is my criteria of understanding the level required to trust a person. What is the understanding of others, I am not aware of.
+
+As for understanding what CU Policy is, all I have to say is, as a layman, that CU assists one to keep check on any disruptions or misleading edits to the project. This also assists one in maintaining the check and providing vital information, in order to stop any disruption caused by an IP or User, for any kind of Sock Puppetry and if required put a block/report for future edits from the requisite address/user. One thing I would say, is that I do require assistance taking into consideration, the time other CU's have given here, and of course looking at the changes that have occurred from the time Wiki started; from the time the CU's have started. So..
+
+I am not saying that I want it so badly, that I would argue too much about it, but all I am saying is that I am sure, I am the last person to misuse any power granted to me(be it any privilege). I also know that this access is a very big deal as [[User:Chazz|Chazz]] stated, and also I appreciate the nature of CU [[User:Pi zero|Pi]], that it cannot be and is not the same as admin privilege. However, I am certain, that I will not, as I stated earlier, misuse any power, and before doing anything, which I am not sure of, will take assistance from others, as I do, in any case, where I am stuck. I further understand that this is a very big responsibility, and should be provided to only those users, who can be trusted, and who understand the right to it. '''Jai Jinendra' [[User:Harrybrowne1986|Vishal]][[User Talk:Harrybrowne1986| Bakhai]] - [[Special:Contributions/Harrybrowne1986|Works]][[Image:Flag_of_India.svg|15px]] 16:06, 13 September 2014 (UTC)
+:You have demonstrated my concern clearly. You have explained what you think the CU tool is used for, not the CU policy. Please explain the CU policy as this governs the use of the tool. If you don't understand the policy, you can hardly be trusted to use the tool in line with that policy.[[User:QuiteUnusual|QuiteUnusual]] ([[User talk:QuiteUnusual|discuss]] • [[Special:Contributions/QuiteUnusual|contribs]]) 20:33, 13 September 2014 (UTC)
+::The CU Policy as I understand is as follows:
+Any CU is governed by -&gt;
+#The CU Policy
+#The Privacy Policy
+#The Magic-8-Ball fundamental
+
+The CU &amp; Privacy Policy state:&lt;br&gt;
+The policy prohibits disclosure of any personal information, unless there is a breach or violation of any policy (e.g., spamming, vandalism, continuous disruption of pages, voiding policies, etc.,). If and only if revealing information about the concerned person/ip is what will help in prevention of the said disruption,  then only should the information be revealed, else, it is considered a breach of trust and privacy policy. It is another name for data protection, and it is very important, as the private information could be misused by anyone for any purpose.&lt;br&gt;One exception in restrictive manner is (though not exactly, but for understanding bit), in case one has revealed their own information in the stated project/post.
+
+The privacy policy is very much clear about the same. The following are the &quot;When is the personal information used&quot;:
+#With Your Permission (requested for a Wikimedia scholarship, or if requested for a reason)
+#For Legal Reasons (on order from the court, law, company legal requirements, etc,)
+#If the Organization is Transferred (Really Unlikely!) (Mergers, Acquisitions, if)
+#To Protect You, Ourselves &amp; Others (possible violation, threat, breaches, etc.,)
+#To Our Service Providers (third-party service providers or contractors)
+#To Understand &amp; Experiment (to protect, develop and contribute)
+#Because You Made It Public (information posted by the person him/herself)
+
+Also during the [https://meta.wikimedia.org/wiki/CheckUser_policy#Release:_Policy_on_Release_of_Data following situations]:
+#In response to a valid [https://en.wikipedia.org/wiki/subpoena subpoena] or other compulsory request from law enforcement,
+#With permission of the affected user,
+#When necessary for investigation of abuse complaints,
+#Where the information pertains to page views generated by a spider or bot and its dissemination is necessary to illustrate or resolve technical issues,
+#Where the user has been vandalizing articles or persistently behaving in a disruptive way, data may be released to a service provider, carrier, or other third-party entity to assist in the targeting of IP blocks, or to assist in the formulation of a complaint to relevant Internet Service Providers,
+#Where it is reasonably necessary to protect the rights, property or safety of the Wikimedia Foundation, its users or the public.
+It is to be remembered specifically that '''Wikimedia policy does not permit public distribution of such information under any circumstances, except as described above.'''
+
+It is much better, if the personal information is not revealed, even if the user is committing abuse, if it is possible, and only reveal information about, which says, 'same network, or not the same service provider', rather than IP. 
+It is better not to give any information from one's end if the person is in doubt.
+
+As per the [https://en.wikipedia.org/wiki/Magic_8-Ball#Possible_answers Magic-8-Ball fundamental], it is a very good thing to, not reveal anything, in certain situations, and give ''possible'' answers like the specified 20 (10 +-ive, 5 --ive, 5 Neutral):
+#It is certain
+#It is decidedly so
+#Without a doubt
+#Yes definitely
+#You may rely on it
+#As I see it, yes
+#Most likely
+#Outlook good
+#Yes
+#Signs point to yes
+#Reply hazy try again
+#Ask again later
+#Better not tell you now
+#Cannot predict now
+#Concentrate and ask again
+#Don't count on it
+#My reply is no
+#My sources say no
+#Outlook not so good
+#Very doubtful
+
+Basically, it is the same, and has high responsibilities associated with it. I find the [https://meta.wikimedia.org/wiki/Help:CheckUser Guide], [https://meta.wikimedia.org/wiki/CheckUser_policy Policy], and the [https://wikimediafoundation.org/wiki/Privacy_policy Wiki Privacy Policy], very helpful for this.
+
+I hope, I have mentioned as requested. However, I am sure, time teaches more, and just theoretical knowledge is not sufficient for anything. Practical knowledge is very much required in order.
+'''Jai Jinendra'''. [[User:Harrybrowne1986|Vishal]][[User Talk:Harrybrowne1986| Bakhai]] - [[Special:Contributions/Harrybrowne1986|Works]][[Image:Flag_of_India.svg|15px]] 13:03, 14 September 2014 (UTC)
+
+This discussion seems too extensive and does not focus on what people are objecting to in order to result in a positive outcome. In fact the request was premature as the community has generally only granted the tool to standing administrators that have been supporting the project for a significative time-frame, unless there is an emergency as such this will always result in opposition to requests that do not conform to the norm, making the discussion unnecessary as nothing that the proponent may say will change these facts.&lt;br&gt;
+Unless [[User:Harrybrowne1986]] has some rational that would supplant the common practice (that he clearly was not aware of, in itself showing that he does not have the necessary experience) he should just retract the request.  --[[User:Panic2k4|Panic]] ([[User talk:Panic2k4|discuss]] • [[Special:Contributions/Panic2k4|contribs]]) 00:32, 15 September 2014 (UTC)
+
+===Support===
+
+===Oppose===
+
+# For the record, I... '''strongly''' {{oppose}} CU. [[User:Chazz|Chazz]] &lt;small&gt;([[User talk:Chazz|talk]])&lt;/small&gt; 01:24, 8 September 2014 (UTC) &lt;br/&gt;As to why, part of that is the reasons I stated above, regarding unfamiliarity with the culture of this project. The user's relative inexperience also leads me to believe this user does not understand what a big deal CU is, with its potential to violate user privacy. CU requires trust from the project's users, and I have seen nothing to suggest that the requestor has yet earned that trust. [[User:Chazz|Chazz]] &lt;small&gt;([[User talk:Chazz|talk]])&lt;/small&gt; 15:28, 8 September 2014 (UTC)
+# {{oppose}} Checkuser is a very, very big deal. I don't think the requester appreciates what a big deal it is. It's certainly not something to be mentioned in the same breath with requesting admin.  --[[User:Pi zero|Pi zero]] ([[User talk:Pi zero|discuss]] • [[Special:Contributions/Pi zero|contribs]]) 12:33, 8 September 2014 (UTC)
+# '''Strong''' {{oppose}} It does not look like you know the tools very well. I have a good feeling you are hat collecting, in which requesting rights in which you do not need. Thanks. --[[User:Goldenburg111|goldenburg111]] ([[User talk:Goldenburg111|talk]]) 21:19, 14 September 2014 (UTC)
+:I just believe, that no one knew the tool properly, before using them, and they did get the access to it. To let you know once more, I am not '''hat collecting''', and I do know the tools which I use. If I do not know, I learn them, and excel. '''Jai Jinendra'''. [[User:Harrybrowne1986|Vishal]][[User Talk:Harrybrowne1986| Bakhai]] - [[Special:Contributions/Harrybrowne1986|Works]][[Image:Flag_of_India.svg|15px]] 22:13, 14 September 2014 (UTC)
+{{end closed}}</text>
+      <sha1>d53lgslm5jm8cyuvzs7jscv2fvsss4r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

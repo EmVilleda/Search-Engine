@@ -1,0 +1,880 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Talk:German/Level III/Tour de France</title>
+    <ns>1</ns>
+    <id>4244</id>
+    <revision>
+      <id>1867467</id>
+      <parentid>1864717</parentid>
+      <timestamp>2010-06-28T23:28:57Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>replaced: {{WikiProject Languages}} → {{WikiProject Languages|german=yes}}</comment>
+      <text xml:space="preserve">{{WikiProject Languages|german=yes}} 
+
+Hallole, ich habe mir gerade diesen Deutschkurs durchgeschaut und der erste Eindruck ist recht vielversprechend. Bei dieser Lektion bin ich aber über einen Satz gestolpert: 
+
+&quot;Die Tour de France ist das bei weitem berühmteste der Welt und eines der wichtigsten sportlichen Großereignisse überhaupt.&quot;
+
+Ich hatte die Grammatik dieses Satzes erst beim dritten Lesen verstanden (und das obwohl deutsch meine Muttersprache ist) imho ist dieser Satz für einen Ausländer, der deutsch lernen will nicht geeignet. 
+Ein Freund von mir hält es sogar für gramatikalisch falsch. Eine bessere Formulierung (die dann halt nicht mehr aus der Wikipedia stammt; aber da kann man es ja auch ändern) wäre: &quot;Die Tour de France ist das bei weitem berühmteste sportliche Großereignis der Welt und eines der wichtigsten überhaupt.&quot;
+
+Mit den Lektionsnummern ist hier übrigens auch noch was nicht korrekt. --[[User:Berni|berni]] 13:45, 31 Jan 2004 (UTC)
+
+:No time to fully respond right now, except to point out that this Lesson is supposed to be an advanced lesson, presently being stored here. You are correct, it is too difficult for the basic lessons, but may be appropriate for the Advanced Lesson, if not here, the further on. Presently, the book is organized only through about Lesson 4 - [[User:Marshman|Marsh]] 18:52, 6 Feb 2004 (UTC)</text>
+      <sha1>rd1bwzrl6znctvxbs5bacv4k2a7l2ll</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Chemistry/Introduction</title>
+    <ns>0</ns>
+    <id>4247</id>
+    <revision>
+      <id>2533046</id>
+      <parentid>2533039</parentid>
+      <timestamp>2013-06-05T10:50:30Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/112.198.64.93|112.198.64.93]] ([[User talk:112.198.64.93|talk]]) to last version by Xania</comment>
+      <text xml:space="preserve">{{GeneralChemTOC}}
+
+=== Chemistry is Everywhere ===
+
+[[Image:VysokePece1.jpg|thumb|150px|Chemistry: the study of the properties, composition, and transformation of matter.]]
+
+The modern human experience places a large emphasis upon the material world. From the day of our birth to the day we die, we are frequently preoccupied with the world around us.  Whether struggling to feed ourselves, occupying ourselves with modern inventions, interacting with other people or animals, or simply meditating on the air we breathe, our attention is focused on different aspects of the material world.  In fact only a handful of disciplines—certain subsets of religion, philosophy, and abstract math—can be considered completely unrelated to the material world. Everything else is somehow related to '''chemistry''', the scientific discipline which studies the properties, composition, and transformation of matter.
+
+=== Branches of Chemistry ===
+
+Chemistry itself has a number of branches:
+
+*''Analytical chemistry'' seeks to determine the composition of substances.
+*''Biochemistry'' is the study of chemicals found in living things (such as DNA and proteins).
+*''Inorganic Chemistry'' studies substances that do not contain carbon.
+*''Organic chemistry'' studies carbon-based substances. Carbon, as described in more detail in this book, has unique properties that allow it to make complex chemicals, including those of living organisms. An entire field of chemistry is devoted to substances with this element.
+*''Physical chemistry'' is the study of the ''physical properties'' of chemicals, which are characteristics that can be measured without changing the composition of the substance.
+
+[[Image:Sodium_chloride_crystal.png|thumb|left|200px|This is the structure of table salt, or ''sodium chloride''.]]
+
+Chemistry as a discipline is based on a number of other fields. Because it is a measurement-based science, math plays an important role in its study and usage. A proficiency in high-school level algebra should be all that is needed in this text, and can be obtained from a number of [[Algebra|sources]]. Chemistry itself is determined by the rules and principles of [[Physics Study Guide|physics]].  Basic principles from physics may be introduced in this text when necessary.
+
+=== Why Study Chemistry? ===
+
+There are many reasons to study chemistry. It is one pillar of the natural sciences necessary for detailed studies in the physical sciences or engineering. The principles of biology and psychology are rooted in the biochemistry of the animal world, in ways that are only now beginning to be understood. Modern medicine is firmly rooted in the chemical nature of the human body. Even students without long term aspirations in science find beauty in the infinite possibilities that originate from the small set of rules found in chemistry.
+
+Chemistry has the power to explain everything in this world, from the ordinary to the bizarre.  Why does iron rust?  What makes propane such an efficient, clean burning fuel?  How can soot and diamond be so different in appearance, yet so similar chemically?  Chemistry has the answer to these questions, and so many more.  Understanding chemistry is the key to understanding the world as we know it.
+
+=== This Book: General Chemistry ===
+
+An introduction to the chemical world is set forth in this text.  The units of study are organized as follows.
+
+[[Image:Chemicals_in_flasks.jpg|thumb|150px]]
+
+# '''Properties of Matter''': An explanation of the most fundamental concept in chemistry: ''matter''.
+# '''Atomic Structure''': While technically in the domain of physics, ''atoms'' determine the behavior of matter, making them a necessary starting point for any discussion of chemistry.
+# '''Compounds and Bonding''': Chemical ''bonding'' is introduced, which explains how less than one hundred naturally-occurring elements can combine to form all the different compounds that fill our world.
+# '''Chemical Reactions''': Things get interesting once chemical ''reactions'' start making and breaking bonds.
+# '''Aqueous Solutions''': Substances ''dissolved'' in water have special properties.  This is when ''acids and bases'' are introduced.
+# '''Phases of Matter''': A detailed look at the ''organization of substances'', with particular focus on ''gases''.
+# '''Chemical Equilibria''': Chemical reactions don't go on forever.  ''Equilibrium'' is the balance that reactions seek to achieve.
+# '''Chemical Kinetics''': ''Kinetics'' explain why it takes years for an iron nail to rust, but only a split second for a hydrogen-filled hot air balloon to explode.
+# '''Thermodynamics''': Two things decide which reactions can occur and which reactions cannot: heat and chaos.  Or ''enthalpy and entropy'', as they are called in thermodynamics
+# '''Chemistries of Various Elements''':  An exploration of the ''elements'' that make up all substance.  Includes an introduction to ''nuclear chemistry'' and carbon, the essence of ''organic chemistry''.
+
+
+&lt;center&gt;&lt;big&gt;[[General Chemistry|&lt;&lt; Begin Your Study of &lt;b&gt;General Chemistry&lt;/b&gt;! &gt;&gt;]]&lt;/big&gt;&lt;/center&gt;
+
+{{BookCat}}</text>
+      <sha1>sxlq6y3mjxpx1mjb507bde6f6sbktuj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Oliezekat</title>
+    <ns>2</ns>
+    <id>4248</id>
+    <revision>
+      <id>156037</id>
+      <timestamp>2004-01-31T19:23:34Z</timestamp>
+      <contributor>
+        <username>Oliezekat</username>
+        <id>527</id>
+      </contributor>
+      <text xml:space="preserve">Do you miaouw ? ''':op'''</text>
+      <sha1>58xg97n76ya3vc6gti5ibqxlxmxy9a6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MIPS Assembly</title>
+    <ns>0</ns>
+    <id>4250</id>
+    <revision>
+      <id>2120665</id>
+      <parentid>2016000</parentid>
+      <timestamp>2011-06-13T20:38:25Z</timestamp>
+      <contributor>
+        <username>Arthurvogel</username>
+        <id>448563</id>
+      </contributor>
+      <minor />
+      <comment>most -&gt; more</comment>
+      <text xml:space="preserve">The MIPS microprocessor paradigm was created in 1981 from work done by J. L. Hennessy at Stanford University. Since that time, the MIPS paradigm has been so influential that nearly every modern-day processor family makes some use of the concepts derived from that original research. This book will discuss the MIPS architecture and (perhaps more importantly) MIPS assembly programming.
+
+== Table of Contents ==
+{{Reading level|Intermediate}}
+{{Print version|MIPS Assembly/Print Version}}
+*[[MIPS Assembly/Introduction|Introduction]]
+
+=== Section 1: Introduction to MIPS ===
+*[[MIPS Assembly/MIPS Architecture|MIPS Architecture]]
+*[[MIPS Assembly/MIPS Processors|MIPS Processors]]
+*[[MIPS Assembly/MIPS Details|MIPS Details]]
+
+=== Section 2: MIPS Instructions ===
+*[[MIPS Assembly/MIPS Instructions|MIPS Instructions]]
+*[[MIPS Assembly/Arithmetic Instructions|Arithmetic Instructions]]
+*[[MIPS Assembly/Control Flow Instructions|Control Flow Instructions]]
+*[[MIPS Assembly/Memory Instructions|Memory Instructions]]
+*[[MIPS Assembly/Floating Point Instructions|Floating Point Instructions]]
+*[[MIPS Assembly/Miscellaneous Instructions|Miscellaneous Instructions]]
+
+=== Section 3: Programming MIPS ===
+*[[MIPS Assembly/MIPS Assemblers|MIPS Assemblers]]
+*[[MIPS Assembly/MIPS Emulation|MIPS Emulation]]
+*[[MIPS Assembly/Subroutines|Subroutines]]
+*[[MIPS Assembly/Programming Style|Programming Style]]
+
+=== Section 4: Advanced MIPS ===
+*[[MIPS Assembly/Instruction Formats|Instruction Formats]]
+*[[MIPS Assembly/System Instructions|System Instructions]]
+*[[MIPS Assembly/Pseudoinstructions|Pseudoinstructions]]
+*[[MIPS Assembly/Register File|Register File]]
+*[[MIPS Assembly/Exceptions|Exceptions]]
+
+== Resources and Licensing ==
+*[[MIPS Assembly/Resources|Resources]]
+*[[MIPS Assembly/Licensing|Licensing]]
+
+{{Alphabetical|M}}
+{{Subjects|Assembly languages}}
+{{status|25%}}
+__NOTOC__ __NOEDITSECTION__</text>
+      <sha1>fiwf6dgumwk69h0qgmdaem66owvp9c1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Easy Sequence 4/Solution</title>
+    <ns>0</ns>
+    <id>4252</id>
+    <revision>
+      <id>502295</id>
+      <parentid>502279</parentid>
+      <timestamp>2006-06-27T06:58:20Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <comment>[[Easy Sequence 4 - Solution]] moved to [[Puzzles/Easy Sequence 4/Solution]]</comment>
+      <text xml:space="preserve">alternate subtracting and adding numbers starting with 1 and increasing by 1 each time.
+
+3,2,4,1,5,0,6,-1,7,...
+
+[[Category:Puzzles]]</text>
+      <sha1>8gvepifspkyfcalzpar0fhb91cux9wa</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Easy Sequence 5/Solution</title>
+    <ns>0</ns>
+    <id>4253</id>
+    <revision>
+      <id>502297</id>
+      <parentid>502280</parentid>
+      <timestamp>2006-06-27T06:58:36Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <comment>[[Easy Sequence 5 - Solution]] moved to [[Puzzles/Easy Sequence 5/Solution]]</comment>
+      <text xml:space="preserve">&lt; [[Puzzles:Number sequences|Number sequences]]
+----
+'''Problem'''
+3 2 4 1 4 ?
+
+'''Solution'''
+
+Alternate subtracting and multiplying, starting with 1 and increasing by 1 each time. 
+
+3,2,4,1,4,-1,-6,...
+
+[[Category:Puzzles]]</text>
+      <sha1>ev344sx9o0p9fpbf2tnb36mknhtwd96</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Chess</title>
+    <ns>0</ns>
+    <id>4255</id>
+    <revision>
+      <id>2676119</id>
+      <parentid>2627605</parentid>
+      <timestamp>2014-06-23T20:02:18Z</timestamp>
+      <contributor>
+        <username>Xania</username>
+        <id>40302</id>
+      </contributor>
+      <comment>/* Table of Contents */ added orphaned page to contents</comment>
+      <text xml:space="preserve">{{featured book}}
+== Welcome ==
+{{PDF version|Chess|Prepared 19 July 2006, file size 3.3 MB|Chess}}
+{{Print version}}
+[[Image:ChessSet.jpg|200px|right|thumb|Some chess pieces: (from left to right) a white king, a black rook, a black queen, a white pawn, a black knight, and a white bishop]]Chess is an ancient strategy game that originated in India.  It is played by two individuals on an 8×8 grid. The objective is to maneuver one's pieces so as to trap the opposing king in &quot;checkmate&quot;. This book will cover the basic pieces of chess, before going on to some more advanced topics. 
+
+The history of chess began in India during the Gupta Empire where its early form in the 6th century was known as ''chaturanga'', which translates as &quot;four divisions of the military&quot; – infantry, cavalry, elephants, and chariotry, represented by the pieces that would evolve into the modern pawn, knight, bishop, and rook, respectively.  In Sassanid Persia around 600 the name became ''shatranj'' and the rules were developed further.  Shatranj was taken up by the Muslim world after the Islamic conquest of Persia, with the pieces largely retaining their Persian names.  In Spanish &quot;shatranj&quot; was rendered as ''ajedrez'', in Portuguese as ''xadrez'', and in Greek as ''zatrikion'', but in the rest of Europe it was replaced by versions of the Persian ''shāh'' (&quot;king&quot;).
+
+== Table of Contents ==
+#[[/Arranging The Board/]]
+#[[/Playing The Game/]]
+#[[/Notating The Game/]]
+#[[/Tactics/]]
+#[[/Tactics Exercises/]]
+#[[/Strategy/]]
+#[[/Basic Openings/]]
+#[[/Sample chess game/]]
+#[[/The Endgame/]]
+#[[/Variants/]]
+#[[/Tournaments/]]
+#[[/Famous Games/]]
+#[[/Puzzles/]]
+#[[/Computer Chess/]]
+#[[/Optional homework/]]
+
+== Related Wikibooks ==
+
+* [[Chess Opening Theory]] treats the chess openings in much more detail.
+* [[Chess Strategy]] provides a more detailed understanding of chess strategy.
+
+
+{{clear}}
+{{Associated Wikimedia|Chess
+|Commons             = Chess
+|Commons category    = Chess
+|Wikinews category   = Chess
+|Wikipedia           = Chess
+|Wikipedia portal    = Chess
+|Wikiquote           = Chess
+|Wikiquote category  = 
+|Wikisource          = 
+|Wikisource category = 
+|Wikiversity         = 
+|Wiktionary          = chess
+|Wiktionary category = Chess
+}}
+
+{{Subjects|Board games}}
+{{Alphabetical|C}}
+{{status|100%}}
+
+[[ca:Escacs]]
+[[cy:Gwyddbwyll]]
+[[de:Schach]]
+[[es:Manual de Ajedrez]]
+[[fi:Shakkiaapinen]]
+[[fr:Apprendre à jouer aux échecs]]
+[[it:Scacchi]]
+[[ja:チェス]]
+[[ko:체스]]
+[[ms:Catur]]
+[[nl:Schaken]]
+[[oc:Escacs]]
+[[pa:ਸ਼ਤਰਂਜ]]
+[[pl:Szachy/Okładka]]
+[[pt:Xadrez]]
+[[ro:Şah]]
+[[ru:Шахматы]]
+[[th:หมากรุกสากล]]
+[[uk:Шахи]]
+[[zh:国际象棋]]</text>
+      <sha1>q2n9yan9shrmj19vkvh5lcyah6ka8nj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:WarrenWilkinson</title>
+    <ns>3</ns>
+    <id>4256</id>
+    <revision>
+      <id>1154800</id>
+      <parentid>1154687</parentid>
+      <timestamp>2008-04-02T21:19:52Z</timestamp>
+      <contributor>
+        <username>Mike's bot account</username>
+        <id>67847</id>
+      </contributor>
+      <minor />
+      <comment>subst templates</comment>
+      <text xml:space="preserve">Welcome to Wikibooks, Warren :) I hope you like it here and choose to [[Wikibooks:Wikibookians|stay]]. 
+A small tip, if you want to have an automatic signature, you can just type &lt;nowiki&gt;~~~~&lt;/nowiki&gt;, and it will come out like below. Thanks [[User:Dysprosia|Dysprosia]] 03:50, 1 Feb 2004 (UTC)
+
+Re [[Chess]] - please stick with &quot;N&quot; for the knight - this is more standard notation. Thanks [[User:Dysprosia|Dysprosia]] 23:45, 1 Feb 2004 (UTC)
+
+Hi WarrenWilkinson! Hope you enjoy yourself, let me know if you have any questions or think that I could help you with anything. --[[User:Karl Wick|Karl Wick]]
+
+== [[Electrical Engineering, Basic signals]] ==
+
+I have proposed a merge between your book at [[Electrical Engineering, Basic signals]], and another book already on the EE bookshelf called [[Signals and Systems]]. The Signals and Systems book already has a nice page hierarchy, it has a few contributers, and it's covers alot of the same material. I would like to merge the two books soonish because i have lots of time on my hands for the next few days. If you disagree with the merge proposal in the near future, let me know. --{{User Whiteknight Sig|Whiteknight}} 21:34, 8 December 2005 (UTC)
+
+== Guitar ==
+
+I was thinking we could do something with the Guitar page based on your idea.  I am still in school now, but it is second semester of my Senior year of high school, so I should have plenty of free time.  I posted something in the Guitar discussion page.
+[[User:Sameerkale|Sameerkale]] 21:58, 31 January 2007 (UTC)
+==Your invited!==
+&lt;div class=&quot;boilerplate metadata&quot; id=&quot;stub&quot;&gt;&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;background-color:#cef2e0;&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;
+Hello,&lt;br&gt;
+As a previous contributor to Chess topics, I'd like inform you of the creation of a new project called [[Wikibooks:Chess]]&lt;br&gt; 
+Recently this project page has been created and it is hoped that you will join.&lt;br&gt;
+To overcome issues of communicating, the project has it's own central page and talk area along with navigation system of useful pages and many new features to make communication among users much slicker and easier, including a [[Special:RecentChangesLinked/List_of_chess_topics|public chess watchlist]]. No need to have your own watchlist anymore, one click and you can see all recent Chess edits!&lt;br&gt;
+Also added recently is a new opening navigator(See below), a chess diagram upgrade(looks nice), and a chess stub category. All the [[Opening theory in chess]] pages now have this built in, that's over 500 pages upgraded.&lt;br&gt;
+
+Hope to hear from you.
+Regards
+[[User:ChessCreator|ChessCreator]] ([[User talk:ChessCreator|talk]]) 19:47, 2 April 2008 (UTC)
+{{ChessOpenings}}
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</text>
+      <sha1>i9fsrai5nrgdd19v6moyodf2c6ry8zh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Empanada</title>
+    <ns>103</ns>
+    <id>4257</id>
+    <revision>
+      <id>1044244</id>
+      <parentid>353661</parentid>
+      <timestamp>2007-12-04T00:44:34Z</timestamp>
+      <contributor>
+        <ip>69.76.28.122</ip>
+      </contributor>
+      <text xml:space="preserve">Page history from [[en:Empanadas]]
+
+    * (cur) (last) . . 00:22, 1 Feb 2004 . . Gentgeen (formating)
+    * (cur) (last) . . 00:18, 1 Feb 2004 . . Gentgeen (clearing up a redirect to wikibooks. VfD tag)
+    * (cur) (last) . . M 16:11, 22 Jan 2004 . . Hyacinth
+    * (cur) (last) . . 16:11, 22 Jan 2004 . . Hyacinth
+    * (cur) (last) . . 21:11, 31 Aug 2003 . . Jose Ramos (expand definition geographically and culinarily)
+    * (cur) (last) . . M 05:57, 31 Oct 2002 . . Hephaestos (sp.)
+    * (cur) (last) . . 11:33, 26 Sep 2002 . . Ed Poor (sp: Dissolve)
+    * (cur) (last) . . M 14:12, 2 Aug 2002 . . Karen Johnson (linking)
+    * (cur) (last) . . M 07:43, 25 Feb 2002 . . Conversion script (Automated conversion)
+    * (cur) (last) . . M 20:51, 11 Oct 2001 . . Stokerm
+
+Discussion from [[en:Talk:Empanadas]]
+
+Uhm, should we be a recipie book?
+
+----
+how much does ths make</text>
+      <sha1>r9xbosoqt1lh9652j08xcr5pgmmjz6g</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Anzac Biscuits</title>
+    <ns>102</ns>
+    <id>4258</id>
+    <revision>
+      <id>2678163</id>
+      <parentid>2628534</parentid>
+      <timestamp>2014-07-02T23:41:35Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>Added cats for baking, metrics, images.  Removed request to merge into other recipe - the other recipe was very lacking.</comment>
+      <text xml:space="preserve">{{recipesummary|Cookie recipes|25|prep: 15 min&lt;br/&gt;baking: 20 min|1|[[Image:Single ANZAC biscuit.jpg|300px|Note: this one was made without [[cookbook:coconut|coconut]]]]}}
+
+{{recipe}} | [[Cookbook:Cuisine of Australia|Cuisine of Australia]] | [[Cookbook:Cuisine of New Zealand|Cuisine of New Zealand]]
+
+'''ANZAC biscuits''' have long had an association with the Australia/New Zealand Army Corps ([[w:Australian and New Zealand Army Corps|ANZAC]]) troops sent to Gallipoli during WWI. The biscuit appears to be a variant of the Scottish oat cake, said to be from the Scottish-influenced city of Dunedin. The recipe was created to ensure the biscuits would keep well during naval transportation to loved ones who were fighting abroad.
+
+==Ingredients==
+* 2 cups plain (non-self raising) [[Cookbook:Flour|flour]]
+* 1 cup white or brown [[Cookbook:Sugar|sugar]]
+* 4 tablespoons [[Cookbook:Golden Syrup|golden syrup]] (cane syrup) or [[Cookbook:Honey|honey]]
+* 1 cup desiccated [[Cookbook:Coconut|coconut]]
+* 1 teaspoon [[Cookbook:Baking Soda|baking soda]]
+* 2 tablespoons of water
+* 2 cups rolled or instant [[Cookbook:Oats|oats]]
+* 225 grams [[Cookbook:Butter|butter]] or [[Cookbook:Margarine|margarine]]
+
+==Procedure==
+#Mix the dry ingredients in a bowl, and melt the syrup and butter in a [[Cookbook:Saucepan|saucepan]]. Add the baking soda and water to the syrup mix.
+#Mix the wet and dry ingredients, adding water if necessary.
+#Separate and roll the mixture into small balls, and flatten them on oven trays.
+#[[Cookbook:Baking|Bake]] at 150°C (300°F) for about 20 minutes or until golden brown.
+
+The finished biscuits are quite chewy and crisp, and have a long shelf-life.
+
+==Notes, tips, and variations==
+{{Wikipedia|Anzac biscuit}}
+* Using brown sugar instead of white sugar gives more colour and flavour
+* You can replace coconut with more syrup and oats.
+* Don't omit the baking soda and water. They give the biscuits crispness and colour.
+* See [http://www.awm.gov.au/encyclopedia/anzac/biscuit/recipe.htm http://www.awm.gov.au/encyclopedia/anzac/biscuit/recipe.htm] for the official ANZAC recipe
+
+[[Category:New Zealand recipes|{{PAGENAME}}]]
+[[Category:Australian recipes|{{PAGENAME}}]]
+[[Category:Cookie recipes|{{PAGENAME}}]]
+[[Category:Oat recipes|{{PAGENAME}}]]
+[[Category:Vegetarian recipes|{{PAGENAME}}]]
+[[Category:Baking recipes|{{PAGENAME}}]]
+[[Category:Recipes with metric units]]
+[[Category:Recipes with images]]</text>
+      <sha1>8xs3vyczfx5kc9dy7vvvf3gkpu9dhlu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Anzac Biscuits</title>
+    <ns>103</ns>
+    <id>4259</id>
+    <revision>
+      <id>765803</id>
+      <parentid>764783</parentid>
+      <timestamp>2007-02-24T22:48:14Z</timestamp>
+      <contributor>
+        <username>Webaware</username>
+        <id>27565</id>
+      </contributor>
+      <comment>/* Query origin of recipe */ probably urban myth</comment>
+      <text xml:space="preserve">Page history from [[en:Anzac biscuits]]
+
+Legend: (cur) = difference with current version, (last) = difference with preceding version, M = minor edit
+
+    * (cur) (last) . . 00:47, 1 Feb 2004 . . Gentgeen (transwiking recipe to wikibooks)
+    * (cur) (last) . . M 23:24, 15 Dec 2003 . . Sarge Baldy (biscuit-&gt;biscuits)
+    * (cur) (last) . . M 02:40, 20 Jun 2003 . . Cameron Dewe (formatting, links &amp; spelling)
+    * (cur) (last) . . 02:32, 20 Jun 2003 . . Cameron Dewe (more history)
+    * (cur) (last) . . M 05:54, 31 Oct 2002 . . Hephaestos (sp.)
+    * (cur) (last) . . 23:50, 21 Oct 2002 . . Karen Johnson (adding proportions and instructions)
+    * (cur) (last) . . 02:07, 24 Aug 2002 . . Vicki Rosenzweig (copyedit)
+    * (cur) (last) . . M 03:53, 5 Aug 2002 . . 62.30.112.2
+    * (cur) (last) . . 14:45, 2 Aug 2002 . . 210.54.160.211
+
+== Query origin of recipe==
+The article states ''ANZAC biscuits were originally invented in the trenches of WWI, on the Gallipoli front. Troops from the Australia/New Zealand Army Corps (hence ANZAC) developed the biscuits out of the meagre rations that they had.''  Is there a source for this info?  Not even the war memorial claims this. --[[User:Golden Wattle|Golden Wattle]] 19:45, 23 February 2007 (UTC)
+
+The assertion was added by an anon in December 2005 [http://en.wikibooks.org/w/index.php?title=Cookbook:Anzac_Biscuits&amp;direction=next&amp;oldid=261216]--[[User:Golden Wattle|Golden Wattle]] 19:51, 23 February 2007 (UTC)
+
+:It sounds like that may be an urban myth, reading the [[w:Anzac biscuit|Wikipedia page]] about the biscuit. Certainly, it is taken for granted in NZ and Australia that these biscuits are related to the ANZAC effort in WWI, however. I think the article could do with revising, but without losing reference to the ANZACs. [[User:Webaware|Webaware]]&amp;nbsp;&lt;sup&gt;[[User_talk:Webaware|talk]]&lt;/sup&gt; 22:48, 24 February 2007 (UTC)</text>
+      <sha1>5yueqzb661saopveszn3a7med8lji51</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Carpetbag Steak</title>
+    <ns>102</ns>
+    <id>4260</id>
+    <revision>
+      <id>2682729</id>
+      <parentid>2680318</parentid>
+      <timestamp>2014-07-19T17:21:41Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>Distinguishing the various types of frying cats.</comment>
+      <text xml:space="preserve">{{recipe}} | [[Cookbook:Cuisine of Australia|Cuisine of Australia]] | [[Cookbook:Meat|Meat]] | [[Cookbook:Seafood|Seafood]]
+
+'''Carpetbag steak''' is a uniquely Australian dish that was first popularised in Sydney around 1950. 
+
+==Ingredients ==
+* 1 Scotch [[Cookbook:Steak|fillet steak]] (thickly cut)
+* 3-4 [[cookbook:Oyster|oyster]]s
+* [[Cookbook:Worcestershire Sauce|Worcestershire sauce]]
+
+Optional
+* [[Cookbook:Lime|limes]]
+* Shredded [[Cookbook:Cheese|cheese]]
+* [[Cookbook:Lemon Juice|lemon juice]]
+
+==Procedure==
+#Cut a small pocket, approximately 6 cm (2.5&quot;) in length and about the same depth, in the edge of the thick steak.
+##Optionally season the pocket with some of salt, pepper, cayenne pepper, lemon juice, olive oil 
+#Dip the oysters into the Worcestershire sauce, and then place them in the pocket in the steak.
+##Substitutes for Worcestershire sauce include teriyaki sauce, oyster sauce or red wine vinegar marinades, or the steak has the marinade or sauce
+##Substitutes for oysters include mushrooms, yabbies, prawns
+##Optionally add lime pulp or some shredded cheese  into the pocket.
+#Seal the pocket with a moistened skewer and barbecue, grill. broil or cook over a moderate heat in a heavy based [[Cookbook:Frying Pan|frying pan]].
+##Optionally deglaze pan with sherry or brandy, or make a reduction of oyster liquid and wine, frequently with chopped parsley
+##Some recipes poach or saute the oysters first a little, if the diners prefer rare steak but not raw oysters
+##Some recipes wrap the steak in bacon or pancetta
+
+[[Category:Australian recipes|Carpetbag Steak]]
+[[Category:Beef recipes|Carpetbag Steak]]
+[[Category:Oyster recipes|Carpetbag Steak]]
+[[Category:Broiled recipes]]
+[[Category:Pan fried recipes]]
+[[Category:Grilled recipes]]
+[[Category:Gluten-free recipes|{{PAGENAME}}]]
+[[Category:Recipes with metric units]]</text>
+      <sha1>hzsl63d1l70k88qklbzcqv9bkn24dhd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Carpetbag Steak</title>
+    <ns>103</ns>
+    <id>4261</id>
+    <revision>
+      <id>353488</id>
+      <parentid>156048</parentid>
+      <timestamp>2006-02-03T03:45:05Z</timestamp>
+      <contributor>
+        <username>Uncle G's major work 'bot</username>
+        <id>10904</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Cookbook:Carpetbag Steak]] moved to [[Cookbook talk:Carpetbag Steak]]: COOKBOT: Renaming talk page to Cookbook talk namespace</comment>
+      <text xml:space="preserve">Page history from [[en:Carpetbag steak]]
+
+    * (cur) (last) . . 01:00, 1 Feb 2004 . . Gentgeen (Transwiki VfD boilerplate)
+    * (cur) (last) . . M 04:58, 5 Jul 2003 . . ( (relink lime)
+    * (cur) (last) . . 22:43, 18 Jun 2003 . . 203.202.5.75 (No point using US spellings here - PML)
+    * (cur) (last) . . 04:43, 14 May 2003 . . Tarquin
+    * (cur) (last) . . 19:25, 28 Jan 2003 . . 203.15.73.3</text>
+      <sha1>bg1y8vz48fibr8ud3qh8steldhqiaxk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Pavlova</title>
+    <ns>103</ns>
+    <id>4263</id>
+    <revision>
+      <id>1760142</id>
+      <parentid>825710</parentid>
+      <timestamp>2010-04-18T16:16:36Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <text xml:space="preserve">Page history from en:Pavlova
+    * (cur) (last) . . 01:13, 1 Feb 2004 . . Gentgeen (minor change to announce that the last edit was a transwiki move of the recipe to wikibooks)
+    * (cur) (last) . . 01:12, 1 Feb 2004 . . Gentgeen
+    * (cur) (last) . . 13:17, 19 Jan 2004 . . 80.225.12.253
+    * (cur) (last) . . M 22:52, 22 Dec 2003 . . RedWolf (dab)
+    * (cur) (last) . . M 00:51, 17 Nov 2003 . . Mark Ryan (fixing link away from disambiguation)
+    * (cur) (last) . . M 14:44, 7 Nov 2003 . . Moriori (tidy)
+    * (cur) (last) . . M 17:59, 6 Nov 2003 . . Moriori (add info)
+    * (cur) (last) . . M 17:04, 13 Sep 2003 . . Cyan (moving a sentence fragment)
+    * (cur) (last) . . 16:48, 13 Sep 2003 . . Montrealais
+    * (cur) (last) . . M 04:28, 29 Aug 2002 . . Vignaux (add NZ)
+    * (cur) (last) . . M 16:50, 2 Aug 2002 . . Tarquin ( See also Cooking)
+    * (cur) (last) . . 16:48, 2 Aug 2002 . . Karen Johnson
+    * (cur) (last) . . 16:45, 2 Aug 2002 . . Karen Johnson
+    * (cur) (last) . . M 15:02, 2 Aug 2002 . . 64.12.96.232
+    * (cur) (last) . . M 15:01, 2 Aug 2002 . . 64.12.96.232
+    * (cur) (last) . . 14:56, 2 Aug 2002 . . 210.54.160.211
+
+Discussion copied from en:Talk:Pavlova
+
+Does anybody else dispute the sentence &quot;Pavlova is rarely made at home in Australia or New Zealand today&quot;?  In New Zealand, virtually every pavlova I have had the pleasure of eating was home made.  - [[User:GaryW|GaryW]] 20:21 Mar 28, 2003 (UTC)
+
+I agree!  Supermarket pavlovas - yuck.   [[User:Piha|Piha]] 21:29, 24 Aug 2003 (UTC)
+
+:I think supermarket pavlovas are nice! :-) and a hell of a lot easier.
+
+:Do other countries have them? The article doesn't really emphasise NZ/Aussie thing. [[User:Tristanb|Tristanb]] 12:38, 4 Sep 2003 (UTC)
+::Not sure, but I just had Christmas dinner with a Californian visitor who'd never seen one before. [[User:Securiger|Securiger]] 12:18, 30 Dec 2003 (UTC)
+
+The NZ/Australian origin of the Pavlova is an interesting question.  As far as I can tell, New Zealand can certainly claim credit for the name &quot;pavlova&quot;.  But, and it is a big but, the &quot;pavlova&quot; that was created in 1926 in New Zealand is not the same thing as the &quot;pavlova&quot; that was created by Bert Sachse in Perth in c. 1935.  The New Zealand &quot;pavlova&quot; contained gelatine.  The Aussie &quot;pavlova&quot; does not.  There are probably other, more significant differences.  The point is that when the world says &quot;pavlova&quot; nowadays, it means the entity that had its origin in Australia, not the entity that had its origin in New Zealand.  So, it is an Australian recipe.  I think we Aussies are being more than generous in allowing our Kiwi cousins to claim credit for coming up with the name - but only the name.  [[User:JackofOz|JackofOz]] 06:35, 18 Dec 2003 (UTC)
+
+== Weight ==
+
+I have modified the weight reference from 9oz. to 250g (9 oz.). Firstly, this is a New Zealand and Australian recipe so units that will generally be used by most New Zealands and Australians should predominate. This would be grams  not ounces. As far as I can tell (being new to Cookbook) there is no policy requiring that American units predominate. Secondly and more importantly, 250g (9 oz.) was the original recipe. Without discussion, Eadmund remove the 250g completely. This is unacceptable IMHO and should not be repeated without discussion. [[User:Nil Einne|Nil Einne]] 12:17, 25 April 2006 (UTC)
+
+== Pavlova in the U.S. ==
+
+Pavlova isn't sold here in the U.S..  I only found out about it after randomly trawling through h2g2.com.
+
+:Lucky for you, we have a recipe here for making it then, eh? [[User:Webaware|Webaware]]&amp;nbsp;&lt;sup&gt;[[User_talk:Webaware|talk]]&lt;/sup&gt; 03:33, 11 April 2007 (UTC)</text>
+      <sha1>ie30njgleux98q6b9ektxhbx37v224m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Preserved Lemon</title>
+    <ns>103</ns>
+    <id>4264</id>
+    <revision>
+      <id>711674</id>
+      <parentid>354055</parentid>
+      <timestamp>2007-01-08T16:06:19Z</timestamp>
+      <contributor>
+        <username>Kellen</username>
+        <id>4014</id>
+      </contributor>
+      <comment>unlink WP cookbook</comment>
+      <text xml:space="preserve">Page history from [[en:Preserved Lemon]]
+
+    * (cur) (last) . . 01:46, 1 Feb 2004 . . Gentgeen (VfD tag for a interwiki redirect)
+    * (cur) (last) . . 20:23, 22 Jan 2004 . . Hyacinth
+    * (cur) (last) . . 11:42, 22 May 2002 . . Maveric149 (Wikipedia Cookbook)
+    * (cur) (last) . . 11:42, 22 May 2002 . . Maveric149 (Wikpedia Cookbook )
+    * (cur) (last) . . M 07:51, 25 Feb 2002 . . Conversion script (Automated conversion)
+    * (cur) (last) . . M 16:24, 10 Dec 2001 . . Cpt (* elaboration on usage and cultural origin)
+    * (cur) (last) . . 16:21, 10 Dec 2001 . . 63.192.137.xxx (added question)
+    * (cur) (last) . . M 16:14, 10 Dec 2001 . . 63.192.137.xxx
+    * (cur) (last) . . 15:07, 10 Dec 2001 . . Cpt (*another dry pickling recipe, to be added to Cooking/pickling)
+
+----</text>
+      <sha1>pv5jiq3do8xjts4vpo7wo1dvuhgvvjz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Guacamole</title>
+    <ns>103</ns>
+    <id>4265</id>
+    <revision>
+      <id>1907491</id>
+      <parentid>1567794</parentid>
+      <timestamp>2010-08-06T18:48:31Z</timestamp>
+      <contributor>
+        <username>Bk314159</username>
+        <id>371786</id>
+      </contributor>
+      <comment>/* Regarding the 'cookwork' template on this article */ reply</comment>
+      <text xml:space="preserve">Page history from [[w:Guacamole]]
+
+    * (cur) (last) . . 02:03, 1 Feb 2004 . . Gentgeen (squashing an interwiki redirect)
+    * (cur) (last) . . 20:18, 22 Jan 2004 . . Hyacinth
+    * (cur) (last) . . 14:29, 26 Dec 2003 . . Mzamora (Tip: keep the avocado pit )
+    * (cur) (last) . . M 20:41, 13 Nov 2003 . . GRAHAMUK
+    * (cur) (last) . . 12:36, 13 Nov 2003 . . Morwen
+    * (cur) (last) . . 14:12, 16 Oct 2003 . . Dgrant (changed cilantro link)
+    * (cur) (last) . . 14:53, 18 Aug 2003 . . Craigor
+    * (cur) (last) . . M 20:22, 6 Aug 2003 . . GRAHAMUK
+    * (cur) (last) . . M 20:13, 6 Aug 2003 . . GRAHAMUK
+    * (cur) (last) . . M 20:12, 6 Aug 2003 . . GRAHAMUK
+    * (cur) (last) . . 20:11, 6 Aug 2003 . . GRAHAMUK (formatting)
+    * (cur) (last) . . 20:11, 6 Aug 2003 . . GRAHAMUK (added simpler recipe)
+    * (cur) (last) . . M 05:57, 4 Aug 2003 . . Guaka (sauce, not town in mexico..)
+    * (cur) (last) . . M 03:40, 4 Aug 2003 . . Guaka (tabasco, blender)
+    * (cur) (last) . . 04:35, 19 May 2003 . . G (Added a recipe)
+    * (cur) (last) . . 19:50, 5 Mar 2003 . . Zoe (onions, peppers, garlic and tomatoes)
+    * (cur) (last) . . M 18:03, 3 Mar 2003 . . Karen Johnson
+    * (cur) (last) . . M 12:25, 3 Mar 2003 . . Theresa knott
+    * (cur) (last) . . M 10:16, 3 Mar 2003 . . Zanimum
+
+Discussion copied from [[w:Talk:Guacamole]]
+
+Anyone actually tried this stuff, to be able to add more info? [[user:zanimum]]
+----
+
+== featured recipe ==
+
+This module was the featured recipe on the main cookbook page from May 23- 2004 to June 1, 2004. [[User:Gentgeen|Gentgeen]] 12:24, 23 May 2004 (UTC)
+
+== Regarding the 'cookwork' template on this article ==
+
+This is with respect to the infobox on this page that says:
+:This Cookbook page needs work. Please improve it. See the talk page for discussion regarding improvements. The following reason was given: Page should be split
+I don't think the page has to be split. It's kind of nice seeing all of the different ways to do guacamole on one page, without searching around. Thoughts? [[User:Wikidsoup|Wikidsoup]] ([[User talk:Wikidsoup|talk]]) 22:16, 24 April 2008 (UTC)
+:'''Agree''' Moreover, several other entries also have multiple recipes on one page [[User:Bk314159|Bk314159]] ([[User talk:Bk314159|talk]]) 18:48, 6 August 2010 (UTC)</text>
+      <sha1>7iootu8zd1qpe7jxo6pdjwur0qp5cq6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Quesadilla</title>
+    <ns>103</ns>
+    <id>4266</id>
+    <revision>
+      <id>843029</id>
+      <parentid>842989</parentid>
+      <timestamp>2007-04-25T19:29:11Z</timestamp>
+      <contributor>
+        <username>Vanmankline</username>
+        <id>57926</id>
+      </contributor>
+      <text xml:space="preserve">== Page history from [[w:en:Quesadilla]] ==
+
+* 02:05, 1 Feb 2004 . . Gentgeen (squashing another interwiki redirect)
+* 20:19, 22 Jan 2004 . . Hyacinth
+* M 20:29, 8 Jan 2004 . . Mikkalai ([[]])
+* M 13:37, 8 Jan 2003 . . Mzamora (sp guacamole (what about &quot;sarza criolla&quot; instead of &quot;salsa criolla&quot;?))
+* 20:55, 13 Nov 2002 . . 64.0.146.61
+* 20:50, 13 Nov 2002 . . 64.0.146.61
+* 15:18, 13 Nov 2002 . . Zoe
+* 13:41, 13 Nov 2002 . . Grimm Ripper (Removed recipie)
+* 13:38, 13 Nov 2002 . . Grimm Ripper (Reverted to old version(left in recipie))
+* 13:35, 13 Nov 2002 . . 66.185.164.2 (Added the recipe)
+* 13:31, 13 Nov 2002 . . 205.188.209.69
+* M 13:24, 21 Sep 2002 . . Andre Engels
+* 12:59, 20 Sep 2002 . . 207.249.130.208 (Clarified definition and differences vs. the taco)
+* 11:37, 19 Sep 2002 . . Koyaanis Qatsi
+* 11:36, 19 Sep 2002 . . Vicki Rosenzweig (copyedit; sometimes a pair of tortillas)
+* M 11:34, 19 Sep 2002 . . -- April (header, copyedit)
+* 11:31, 19 Sep 2002 . . 148.247.2.44
+* M 02:54, 29 Jul 2002 . . 206.187.63.161
+* 02:52, 29 Jul 2002 . . 206.187.63.161 (New Article)
+
+== Discussion coppied from [[w:en:Talk:Quesadilla]] ==
+
+I removed this recipie:
+
+Preheat a frying pan, seasoned with an oil, to simmering heat.
+
+Drop in a tortilla.
+
+Drop on it shredded cheese (typically MontereyJackCheese), and any of the following:
+
+ * salsa
+ * sarsa
+ * chilies
+ * meat
+ * avocado or quacamole
+
+Cover with another tortilla, simmer until the cheese binds the two tortillas together and the outside starts to brown, flip it over, simmer a little longer.
+
+Slice into strips and serve with any of those optional ingredients on top, or with a dipping sauce.&quot;
+
+from the main article. IMHO it seems out of place in an encyclopedia. --[[Wikipedia:User:Grimm_Ripper|Grimm]]
+----
+I put it back in.  There are recipes all over wikipedia.  -- [[Wikipedia:User:Zoe|Zoe]]
+
+End of copied discussion [[User:Gentgeen|Gentgeen]] 10:47, 1 Feb 2004 (UTC)
+----
+For the sake of sanitiation and food saftey, I added &quot;Cooked&quot; to &quot;meat or seafood&quot;.  In the quick time required to melt the cheese and warm the remaining ingredients, raw meat or seafood will mostlikely not fully cook.  I started writing the artical for Microwave Quesdillas.  I barrowed some text from here, but feel they should match. -- Vanmankline
+---</text>
+      <sha1>rgronqwvnql55mv7x423hppke8itn5f</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Jamaican Jerk Chicken</title>
+    <ns>103</ns>
+    <id>4267</id>
+    <revision>
+      <id>2714003</id>
+      <parentid>904736</parentid>
+      <timestamp>2014-10-15T17:14:22Z</timestamp>
+      <contributor>
+        <username>Djkrysa</username>
+        <id>573130</id>
+      </contributor>
+      <text xml:space="preserve">Page history from [[en:Jamaican Jerk Chicken]]
+
+    * (cur) (last) . . 02:08, 1 Feb 2004 . . Gentgeen (squashing another interwiki redirect)
+    * (cur) (last) . . 16:25, 22 Jan 2004 . . Hyacinth
+    * (cur) (last) . . M 12:19, 5 Oct 2002 . . Bdesham (Formatting)
+    * (cur) (last) . . M 04:19, 7 May 2002 . . Bryan Derksen (-/Talk)
+    * (cur) (last) . . M 07:51, 25 Feb 2002 . . Conversion script (Automated conversion)
+    * (cur) (last) . . 20:27, 20 Sep 2001 . . 65.68.87.xxx (* By request)
+
+----
+
+Wow, this recipe is completely useless.
+
+----
+
+&quot;Servings: A few people&quot; Can someone clarify this? It's like saying How long is a piece of string... [[User:85.211.139.111|85.211.139.111]] 16:54, 20 June 2007 (UTC)
+
+Although recipes vary, I have never seen one that doesn't include scotch bonnet chillis, not cayenne.[[User:Djkrysa|Djkrysa]] ([[User talk:Djkrysa|discuss]] • [[Special:Contributions/Djkrysa|contribs]]) 17:14, 15 October 2014 (UTC)</text>
+      <sha1>ov8yeaqogeeaw0jec2bka5sxbjafgkv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Jamaican Jerk Spice</title>
+    <ns>103</ns>
+    <id>4268</id>
+    <revision>
+      <id>353798</id>
+      <parentid>156055</parentid>
+      <timestamp>2006-02-03T04:34:37Z</timestamp>
+      <contributor>
+        <username>Uncle G's major work 'bot</username>
+        <id>10904</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Cookbook:Jamaican Jerk Spice]] moved to [[Cookbook talk:Jamaican Jerk Spice]]: COOKBOT: Renaming talk page to Cookbook talk namespace</comment>
+      <text xml:space="preserve">Page history from [[en:Jamaican jerk spice]]
+
+    * (cur) (last) . . 02:10, 1 Feb 2004 . . Gentgeen (squashing another interwiki redirect)
+    * (cur) (last) . . 16:23, 22 Jan 2004 . . Hyacinth
+    * (cur) (last) . . M 19:50, 22 Jul 2002 . . Tobias Hoevekamp (-/talk)
+    * (cur) (last) . . M 07:51, 25 Feb 2002 . . 0 (Automated conversion)
+    * (cur) (last) . . M 10:45, 1 Sep 2001 . . Mike Dill
+
+----</text>
+      <sha1>0t8zmfuww2flvn78ccwbqh84ijxojv9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Barbecued Spare Ribs</title>
+    <ns>103</ns>
+    <id>4270</id>
+    <revision>
+      <id>2271447</id>
+      <parentid>2271405</parentid>
+      <timestamp>2012-02-22T06:02:25Z</timestamp>
+      <contributor>
+        <username>Panic2k4</username>
+        <id>2865</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/216.66.161.75|216.66.161.75]] ([[User talk:216.66.161.75|talk]]) to last version by Uncle G's major work 'bot</comment>
+      <text xml:space="preserve">Page history from [[en:Barbecued spare ribs]]
+
+    * (cur) (last) . . 11:12, 14 Dec 2003 . . The Grimm Ripper (Copied to Wikibooks Cookbook)
+    * (cur) (last) . . M 14:17, 2 Aug 2002 . . 210.54.160.211
+    * (cur) (last) . . M 18:41, 22 May 2002 . . WojPob
+
+----
+
+''This recipe was the featured recipe on the main [[Cookbook]] page from April 28, 2004 - May 8, 2004''</text>
+      <sha1>o2zxo908zwk7uyfnpm8cwvsvg8x2s27</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

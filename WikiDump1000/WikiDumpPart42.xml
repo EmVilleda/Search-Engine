@@ -1,0 +1,2972 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Talk:Puzzles/Action sequences/Crossing the River II</title>
+    <ns>1</ns>
+    <id>1535</id>
+    <revision>
+      <id>870346</id>
+      <parentid>335143</parentid>
+      <timestamp>2007-05-18T16:18:34Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles:Action sequences:Crossing the River II]] moved to [[Talk:Puzzles/Action sequences/Crossing the River II]]: death to colons</comment>
+      <text xml:space="preserve">Restatement of Situation:
+Three Farmers- F1, F2, F3
+Three Sons- S1, S2, S3
+Any &quot;S&quot; cannot stay with an &quot;F&quot; with a different number.
+Solution:
+# F1 and S1 cross the river; S1 disembarks and F1 returns
+# S3 and S2 cross the river; S2 disembarks and S3 returns
+# F2 and F1 cross the river; F1 disembarks and F2 returns w/ S2
+# F3 and F2 cross the river; F2 disembarks and F3 returns
+# F3 and S3 cross the river; both disembark and F2 returns
+# F2 and S2 cross the river; both disembark: The End.
+ASSUME that when someone (&quot;X&quot;) returns to the origin and is about to make another journey to the final destination, X stays in his boat, but if ''two other people'' are to use the boat to reach the final destination, X gets off to make room. 
+-- [[User:Lord Emsworth|Lord Emsworth]] 00:43, 11 Oct 2003 (UTC)
+
+:That looks pretty good. I think, In step 4 there is a little problem: you return with F3 to the original shore where there are S2 and S3 which means that S2 will be frightened because F3 is there but not his own father. [[User:ThomasStrohmann | Thomas]]
+:: I actually thought about that. Now my statement &quot;ASSUME...&quot; says that if a person X returns to the origin and in the immediate next trip is to go back to the final destination, then X does not get off at the origin. Step 4:F3 returns but stays in the boat. On Step5:F3 and S3 go across. F3 was in the boat and S2 was on shore! The instructions say &quot;The sons are afraid to be either on the shore or in the boat whith one or two of the other fathers if their own father is not there.&quot; There is no requirement that a son on shore will be afraid of someone closeby in the boat.[[User:Lord Emsworth|Lord Emsworth]] 13:16, 11 Oct 2003 (UTC)
+
+:::I've reformulated the problem a bit. Can you please have a look and check that it now rules out the case you have after step 4. Thanks. There is a solution where you don't have to do the &quot;staying in the boat and therefore technically not on the shore&quot; thing [[User:ThomasStrohmann | Thomas]]
+
+---
+
+Well...you didn't say the kids on the far side would stay put:
+
+Two kids go across, one rows back.  Two kids go across, one rows back.  He and his pop row across, scare away two kids - but they're already across the river.  Pop rows back.  Two other dads row across, scare away the kid (might as well be fair).  One rows back, last two farmers go across - there, no one left on the far side of the river!
+
+---
+
+Ok, here's my reasoning - I'm not sure this thing has a solution.  I'm stating the problem with Aa, Bb, and Cc being Farmers with sons.
+
+Step 1:  You can't leave anyone on the far side of the river except a kid.  (If you try to leave a farmer on the far side, kids will run off).  So we have:
+ A *  a
+ Bb   
+ Cc    
+
+Step 2:  We can't send across any adults except A - otherwise a runs off.  If we send A with anyone else, a kid runs off.  Sending only A is dumb - that takes us back to the beginning.  So, we can't send anyone except kids, e.g, b and c.
+ A   *a
+ B    b
+ C    c
+
+Which can only have one real way to go forward:
+ Aa*   
+ B    b
+ C    c
+
+Step 3:  We can't send A, because that will scare away kids (either a left on this side, or b or c on the far side).  Sending a only takes us back a step, so we have to send B.  If we send B, we have to send C, otherwise, c runs away.
+ Aa   
+     *Bb
+      Cc
+
+Now, who is coming back?  We can't send the kids - A will scare them away.  We can't send only 1 adult - his kid will run away.  Sending both adults is dumb - that just takes us back a step.  So, we send a pair back:
+ Aa
+ Bb*
+      Cc
+
+
+Step 4:  Who can we send over now?  We can't send unescorted kids - C will scare them away.  Sending a pair back (Aa) just takes us back a step.  We can't send only one adult - his kid will run.  Send both adults.
+ a     *A
+ b      B
+        Cc
+
+Who can we send back?  One adult will scare away a or b.  Sending back A and B takes us back a step...send c.
+ a    A
+ b    B
+ c*   C
+
+Step 5:  Awww, crap - it's got a solution - you just move kids around now!
+
+----
+
+Anybody else find that too easy?</text>
+      <sha1>cecj2cbr5q70soexbbh0xe3jzttjcze</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/How do you ... ?</title>
+    <ns>0</ns>
+    <id>1536</id>
+    <revision>
+      <id>875205</id>
+      <parentid>875161</parentid>
+      <timestamp>2007-05-24T00:28:00Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>NC</comment>
+      <text xml:space="preserve">[[Puzzles]] | How do you ... ?
+----
+
+* [[Puzzles/How do you ... ?/The Burning Island|The Burning Island]]
+* [[Puzzles/How do you ... ?/Ten Apples and a Basket|Ten Apples and a Basket]]
+* [[Puzzles/How do you ... ?/Crossing the Bridge|Crossing the Bridge]]
+* [[Puzzles/How do you ... ?/Sending a Package|Sending a Package]]
+
+[[Category:Puzzles]]</text>
+      <sha1>qnu8h61lqcpsrtpr0o7fsn1aanqaw0r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/How do you ... ?/The Burning Island</title>
+    <ns>0</ns>
+    <id>1537</id>
+    <revision>
+      <id>875175</id>
+      <parentid>875166</parentid>
+      <timestamp>2007-05-24T00:21:30Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>NC</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/How do you ... ?]] | The Burning Island
+----
+
+A man is stranded on an island covered in forest. One day, when the wind is blowing from the west, lightning strikes the west end of the island and sets fire to the forest. The fire is very violent, burns everything in its path, and without intervention the fire will burn the whole island, killing the man in the process. There are cliffs around the island, so he cannot get back on if he jumps into the ocean.
+
+''How can the man survive? (The fire, at least.) There are no buckets or any other means to douse the fire with water or sand to put it out.''
+
+[[Puzzles/How do you ... ?/The Burning Island/Solution| solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>fn06568cl85ijytlxg184fediwg06de</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/How do you ... ?/The Burning Island</title>
+    <ns>1</ns>
+    <id>1538</id>
+    <revision>
+      <id>875168</id>
+      <parentid>282002</parentid>
+      <timestamp>2007-05-24T00:20:04Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles:The Burning Island]] moved to [[Talk:Puzzles/How do you ... ?/The Burning Island]]: NC</comment>
+      <text xml:space="preserve">Hi Etothex, 
+
+nice puzzle! My first guess would be that he &quot;swims around&quot; the fire (swimming out from the east shore and returning
+on the west shore once the forest has already been burnt there) but maybe that solution is too trivial...
+[[User:ThomasStrohmann | Thomas]]
+
+:Oops, copied the problem wrong. Try again. [[User:Etothex|Etothex]] 08:33, 5 Oct 2003 (UTC)
+
+Here's another attempt: He sets a fire at about 1/4 from the east end and waits in the center of the island.
+When the &quot;eastern&quot; fire (which moves to the east since the wind is coming from west) is burnt out, the &quot;western&quot;
+fire caused by the lighting should be only 1/4 from the west end (and not endangering the man). Then the
+man can walk to the east end and be safe from the &quot;western&quot; fire which will stop 1/4 from the east coast
+because there is nothing left to burn. [[User:ThomasStrohmann | Thomas]]
+
+:Yep, that's it. Now I've got to find more. :) [[User:Etothex|Etothex]] 09:11, 5 Oct 2003 (UTC)</text>
+      <sha1>c3w989jyy4ceqj7w5x234258bwthhxi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Arithmetical puzzles/Digits of the Square</title>
+    <ns>0</ns>
+    <id>1539</id>
+    <revision>
+      <id>872612</id>
+      <parentid>872604</parentid>
+      <timestamp>2007-05-20T22:31:16Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>NC</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Arithmetical puzzles|Arithmetical puzzles]] | Digits of the square
+----
+
+There is one four-digit whole number ''n'', such that the last four digits of ''n''&amp;sup2; are in fact the original number ''n''. 
+ 
+''What is it?'' 
+
+[[Puzzles/Arithmetical puzzles/Digits of the Square/Solution| solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>ghjxxhlreo2rsfqj73ihna3twm8es3m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/Arithmetical puzzles/Digits of the Square</title>
+    <ns>1</ns>
+    <id>1540</id>
+    <revision>
+      <id>872606</id>
+      <parentid>361077</parentid>
+      <timestamp>2007-05-20T22:29:18Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles:Arithmetical puzzles:Digits of the Square]] moved to [[Talk:Puzzles/Arithmetical puzzles/Digits of the Square]]: NC... lets get a couple more of these done</comment>
+      <text xml:space="preserve">9376 - [[User:ThomasStrohmann | Thomas]] with a little help of the computer ;). I wonder: is there a trick to do this by hand?
+
+Well, you certainly don't have to try all 9000 possibilities.
+Hint: 9376 = 9000 + 376. Also (x + y)&amp;sup2; = x(x + 2y) + y&amp;sup2;.  Incidentally numbers of this type fall into a rather regular pattern which will require no guess-and-check at all. But you'd probably have to already have some of them to see the pattern. [[User:Eric119|Eric119]] 04:23, 12 Oct 2003 (UTC)
+
+I don't think you can do this rigourously and algebraically, it involves finding a solution to &lt;math&gt;a=(a^2/10^4 - \lfloor a^2/10^4\rfloor )10^4&lt;/math&gt; for a &amp;isin; [1000,9999] [[User:Dysprosia|Dysprosia]] 04:27, 12 Oct 2003 (UTC)
+
+Thinking a bit more about the problem, I am now pretty sure that it can be solved analytically
+and by hand:
+
+We can start by writing the equation given by Dysposia:
+
+&lt;math&gt;a=a^2 - \lfloor a^2/10^4 \rfloor 10^4&lt;/math&gt;
+
+which is equivalent to:
+
+&lt;math&gt;a^2-a=\lfloor a^2/10^4\rfloor 10^4&lt;/math&gt;
+
+this implies:
+
+&lt;math&gt;a(a-1) \equiv 0 (mod 10^4)&lt;/math&gt;
+
+or
+
+&lt;math&gt;a(a-1) = k 10^4 (for k \in Z)&lt;/math&gt;
+
+We can decompose &lt;math&gt;10^4 = 2^4 * 5^4 &lt;/math&gt;. Also, it is relatively easy to see that either
+''a'' must provide all the 2's and ''a-1'' all the 5's or vice versa (because it can't be that 
+both ''a'' and ''a-1'' are divisible by 2, or that both ''a'' and ''a-1'' are divisible by 5).
+
+Case 1:&lt;br&gt;
+If ''a'' contained all the 5's then it must be divisible by 625. We now want that:
+
+&lt;math&gt; a-1 \equiv 0 (mod 16)&lt;/math&gt;
+
+which is equivalent to:
+
+&lt;math&gt; a \equiv 1 (mod 16)&lt;/math&gt;
+
+It turns out that ''a=625'' has &lt;math&gt; a \equiv 1 (mod 16)&lt;/math&gt; (625 = 39*16+1). Unfortunately ''a''
+is too small. The other possible multiples of 625 (2*625, 3*625,...,15*625) then give (by laws for 
+modulo operations) &lt;math&gt; a \equiv 2,3,...,15 (mod 16)&lt;/math&gt; none of which satisfies &lt;math&gt; a \equiv 1 (mod 16)&lt;/math&gt;.
+So this case leads to a dead end
+
+Case 2:&lt;br&gt;
+If ''a'' contained all the 2's then ''a-1'' must be divisible by 625. We now want that:
+
+&lt;math&gt; a \equiv 0 (mod 16)&lt;/math&gt;
+
+which is equivalent to:
+
+&lt;math&gt; a-1 \equiv 15 (mod 16)&lt;/math&gt;
+
+Now if we run through all the multiples of 625 we find a suitable one (and only this one): ''a-1=15*625=9375''
+which means that our desired number is ''a=9376''. [[User:ThomasStrohmann | Thomas]]
+
+: Kudos! A nice solution; I would never have seen it :) [[User:Dysprosia|Dysprosia]] 08:24, 12 Oct 2003 (UTC)
+
+: Wow. I am impressed. Broadening the scope of discussion, I have been thinking about numbers like these for some months now (though sporadically). In base 10, the sequence is infinite:
+
+:1
+:5
+:6
+:25
+:76
+:376
+:625
+:9376
+:90625
+:890625
+:109376
+:2890625
+:7109376
+:12890625
+:87109376
+:212890625
+:787109376
+:1787109376
+:8212890625
+:and so on
+
+:Note that there are two sequences, one with numbers ending in 5 and the other with numbers ending in 6. The occurence of 1 is a singularity. (I first proved this so I could justify not putting it into my program to find these :-). The 5, 25, 625, 90635... sequence and the 6, 76, 376, 9376... sequence fall into simple patterns that I did not notice until I had proved what they were. The patterns also generalize to bases 4x+2, x in Z and &gt; 0.
+
+:I post all this at the risk of having you prove everything I've asserted within an hour and a lot faster than I did. :) But, hey, it might be worthwhile to compare different proofs. [[User:Eric119|Eric119]] 20:01, 12 Oct 2003 (UTC)</text>
+      <sha1>s372adpllvm65wvbigmkslrdjkmh46o</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/Logic puzzles/Hats</title>
+    <ns>1</ns>
+    <id>1541</id>
+    <revision>
+      <id>647557</id>
+      <parentid>239019</parentid>
+      <timestamp>2006-11-13T04:46:34Z</timestamp>
+      <contributor>
+        <username>Think Fast</username>
+        <id>10874</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles:Logic puzzles:Hats]] moved to [[Talk:Puzzles/Logic puzzles/Hats]]: naming convention</comment>
+      <text xml:space="preserve">Question-
+Does the middle man only see the front man's hat? (I recollect a puzzle where three men, one blindfolded and two with sight, are taken into a room and given hats. In that one, the two with sight can see each other's as well as the blindfolded person's hat. Then again, this is probably a different puzzle.) [[User:Lord Emsworth|Lord Emsworth]] 01:05, 12 Oct 2003 (UTC)
+
+:They are all facing the same way, so I suppose they can't see backwards without a mirror... [[User:Cyp|Cyp]] 14:04, 18 Oct 2003 (UTC)</text>
+      <sha1>16kri2495q653abvxumwocnwvax8kay</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Decision puzzles/Monty Hall</title>
+    <ns>0</ns>
+    <id>1544</id>
+    <revision>
+      <id>872728</id>
+      <parentid>872719</parentid>
+      <timestamp>2007-05-20T22:59:02Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>NC</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Decision puzzles|Decision puzzles]] | Monty Hall
+----
+Let us assume that you are participating on the show &quot;Let´s make a deal&quot;. Monty Hall offers you a choice of three doors. Monty tells you, and you know, that you can trust Monty, that there is one big prize (such as a sports car) behind one of the doors and goats behind the others. He tells you that after you choose a door, he will open a different door than you chose, which contains a goat.
+
+After you have chosen one door, he opens one of the two other doors, which as promised, contains a goat. Now he gives you the chance to switch or stay at your initial choice. You will then get what is behind that door.
+
+You cannot hear the goats from behind the doors, or in any way know which door has the prize.
+
+''Does it matter whether you switch or stay?''
+
+[[Puzzles/Decision puzzles/Monty Hall/Solution|solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>rxe6wnan8kzmtb6f06jafu5fg9fcqlt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Number sequences</title>
+    <ns>0</ns>
+    <id>1545</id>
+    <revision>
+      <id>2683613</id>
+      <parentid>2683585</parentid>
+      <timestamp>2014-07-22T08:54:29Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <text xml:space="preserve">The task is to find the hidden principle that constructs the list, and sometimes to continue the sequence, which is indicated by a question mark. 
+Be aware: some sequences are infinite, some are finite.
+If you find a different solution than the given one please add it to the solution page. Creativity is encouraged!
+
+== Easy sequences ==
+ 1 2 4 8 ?                  [[Puzzles/Easy Sequence 1/Solution|solution]]
+ 1 2 4 7 ?                  [[Puzzles/Easy Sequence 2/Solution|solutions (more than one)]]
+ 3 9 27 81 ?                [[Puzzles/Easy Sequence 6/Solution|solution]]
+ 2 3 5 8 13 21 ?            [[Puzzles/Easy Sequence 7/Solution|solution]]
+ 1 0 1 0 1 0 1 1 0 1 0 1    [[Puzzles/Easy Sequence 8/Solution|solution]]
+ 2 3 6 7 1 9 4 5 8          [[Puzzles/Easy Sequence 9/Solution|solution]]
+ 0 1 1 1 1 1 1 ...          [[Puzzles/Easy Sequence 10/Solution|solution]]
+
+== Medium Sequences ==
+ 1 3 7 61 ?                 [[Puzzles/Medium Sequence 1/Solution|solution]]
+ 2 -2 0 2 -3 0 ?            [[Puzzles/Medium Sequence 2/Solution|solution]]
+ 1 4 1 5 9 ?                [[Puzzles/Medium Sequence 3/Solution|solution]]
+
+== Hard Sequences ==
+                  ??
+                85  90
+              29  67   0    [[Puzzles/Hard Sequence 1/Solution|solution]]
+            83  33  69   2
+           1  81  91  57  36
+        60  55  61  29  35   6
+      29  42  45  23  13   5  16
+    23  13  44   7  39  69  47  98
+  61  41  91  82   1  37  27  71  36
+ 6   4   6   9   0   8   9   5   9   6
+
+                  ??
+                73  94
+              69  81  28    [[Puzzles/Hard Sequence 2/Solution|solution]]
+            56   3  43  54
+          33  98  49  91   8
+         7  31  44  27  57   6
+      26  45  71  38  61  65  88
+    25  36   7  97  76  91  87  86
+  83  55  98   1   5  10   1  15  96
+ 3   9   3   4   4   3   0   7   5   6
+
+[[Category:Puzzles]]</text>
+      <sha1>g0urhwgalbzjri89sn4g45xqwzqh8x2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Lessons/Food and drink</title>
+    <ns>0</ns>
+    <id>1550</id>
+    <revision>
+      <id>2587631</id>
+      <parentid>2587418</parentid>
+      <timestamp>2013-12-04T20:45:24Z</timestamp>
+      <contributor>
+        <username>JackBot</username>
+        <id>396820</id>
+      </contributor>
+      <minor />
+      <comment>/* {{French/Section|Vocabulary|Related expressions|supplementary-id=french-mettre-expressions}} */ using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{French/Lessons/Level two/Header||La nourriture}}&lt;/noinclude&gt;
+== {{French/Section|Dialogue|&lt;!-- title here --&gt;}} ==
+{{sectstub}}
+
+== {{French/Section|Grammar|''-ger'' verbs}} ==
+
+''-ger'' verbs are regular ''-er'' verbs that are also stem changing. The most common ''-ger'' verb is ''manger.''
+
+For ''manger'' and all other regular ''-ger'' verbs, the stem change is the addition of an ''e'' after the ''g''. This only applies in the ''nous'' form. In this case, the change is made to preserve the soft ''g'' pronunciation rather than the hard ''g'' that would be present if the ''e'' were not included.
+
+=== Formation ===
+{| class=wikitable
+!'''manger {{fr/IPA|/mɑ̃ʒe/, [mɑ̃ː.ˈʒe](''mah&lt;sup&gt;(n)&lt;/sup&gt;zhay'')|audio=Fr-manger.ogg}} !! to eat'''
+|-
+|je mange {{fr/IPA|/mɑ̃ʒ/ (''mah&lt;sup&gt;(n)&lt;/sup&gt;zh'')}} || I eat
+|-
+|tu manges {{fr/IPA|/mɑ̃ʒ/ (''mah&lt;sup&gt;(n)&lt;/sup&gt;zh'')}} || you eat
+|-
+|il mange {{fr/IPA|/mɑ̃ʒ/ (''mah&lt;sup&gt;(n)&lt;/sup&gt;zh'')}} || he eats
+|-
+|nous mangeons {{fr/IPA|/mɑ̃.ʒɔ̃/ (''mah&lt;sup&gt;(n)&lt;/sup&gt;zhoh&lt;sup&gt;(n)&lt;/sup&gt;'')}} || we eat
+|-
+|vous mangez {{fr/IPA|/mɑ̃.ʒe/ (''mah&lt;sup&gt;(n)&lt;/sup&gt;zhay'')}} || you eat
+|-
+|ils mangent {{fr/IPA|/mɑ̃ʒ/ (''mah&lt;sup&gt;(n)&lt;/sup&gt;zh'')}} || they eat
+|-
+|mangé {{fr/IPA|/mɑ̃.ʒe/ (''mah&lt;sup&gt;(n)&lt;/sup&gt;zhay'')}} || eaten
+|}
+
+=== Other ''-ger'' verbs ===
+
+{| {{French/Translations table|audio=French/Grammar/-ger verbs.ogg}}
+| changer || {{audio|Fr-changer.ogg|approx=shah&lt;sup&gt;(n)&lt;/sup&gt;-zhay|/ʃɑ̃.ʒe/}} || to change
+|-
+| exiger || {{audio|Fr-exiger.ogg|approx=ehg-zee-zhay|/ɛɡ.zi.ʒe/}} || to require
+|-
+| nager || {{audio|Fr-nager.ogg|approx=nah-zhay|/na.ʒe/}} || to swim
+|-
+| soulager || {{audio|Fr-soulager.ogg|approx=soolahzhay|/sulaʒe/}} || to relieve
+|-
+| voyager || {{audio|Fr-voyager.ogg|approx=vwah-y&lt;sup&gt;uh&lt;/sup&gt;ah-zhay|/vwa.ja.ʒe/}} || to travel
+|}
+
+=== Examples ===
+{{sectstub}} &lt;!-- example sentences with any -ger verb --&gt;
+
+{| {{French/Translations table|audio=French/Grammar/Examples with -ger verbs.ogg}}
+| Nous mangeons dans une heure. ||  || We eat in an hour.
+|-
+| C’est le soir qui soulage les esprits. ||  || It’s the evening which soothes the spirits.
+|}
+
+== {{French/Section|Vocabulary|Common foods}} ==
+{| {{French/Translations table|audio=French/Vocabulary/Common foods.ogg}}
+| la banane || {{audio|Fr-banane.ogg|/ba.nan/}} || banana ||  ||  || 
+|-
+| la pomme || {{audio|Fr-pomme.ogg|/pɔm/}} || apple ||  || Je vais m'étendre dans la prairie, sous un pommier aux pommes vertes et dures. || I'll lie down in the meadow, under a tree with green and hard apples.
+|-
+| la viande || {{audio|Fr-viande.ogg|/vjɑ̃d/}} || meat ||  ||  || 
+|-
+| le poulet || {{audio|Fr-poulet.ogg|/pu.lɛ/}} || chicken ||  || Je vais faire du poulet rôti. || I'm going to make roasted chicken.
+|-
+| le bœuf || {{audio|Fr-bœuf.ogg|/bœf/}} || beef ||  ||  || 
+|-
+| le poisson {{French/Section|(frais, salé, mariné, sec, frit, grillé)}} || {{audio|Fr-poisson.ogg|/pwa.sɔ̃/}} || {{French/Section|(fresh, salted, pickled, dried, fried, grilled)}} fish ||  ||  || 
+|-
+| le bonbon || {{audio|Fr-bonbon.ogg|}} || candy ||  || Je vous ai apporté des bonbons. || I brought you some candy.
+|}
+
+== {{French/Section|Grammar|To drink|Boire}} ==
+
+The verb ''boire'', meaning ''to drink'', is irregularly conjugated (it is not a regular ''-re'' verb).
+
+=== Formation ===
+{| class=wikitable
+!'''boire {{fr/IPA|/bwaʁ/ (''bwahr'')|audio=Fr-boire-fr.ogg}} !! to drink'''
+|-
+|je bois {{fr/IPA|/bwɑ/ (''bwah'')}} || I drink
+|-
+|tu bois {{fr/IPA|/bwɑ/ (''bwah'')}} || you drink
+|-
+|il boit {{fr/IPA|/bwɑ/ (''bwah'')}} || he drinks
+|-
+|nous buvons {{fr/IPA|/by.vɔ̃/ (''bew-voh&lt;sup&gt;(n)&lt;/sup&gt;'')}} || we drink
+|-
+|vous buvez {{fr/IPA|/by.ve/ (''bew-vay'')}} || you drink
+|-
+|ils boivent {{fr/IPA|/bwav/ (''bwahv'')}} || they drink
+|-
+|bu {{fr/IPA|/by/ (''bu'') (''bew'')}} || drunk
+|}
+
+== {{French/Section|Vocabulary|Drinks|Les boissons}} ==
+
+{| {{French/Translations table|audio=French/Vocabulary/Drinks.ogg}}
+| la bière || {{audio|Fr-bière.ogg|/bjɛr/}} || beer ||  ||  || 
+|-
+| le café || {{audio|Fr-café.ogg|/ka.fe/}} || coffee ||  || Je vais boire une tasse de café. || I'll drink a cup of coffee.
+|-
+| le chocolat {{French/Section|(chaud)}} || {{audio|Fr-Le-chocolat.ogg|/ʃɔ.kɔ.la/}} || hot chocolate ||  || Quand j’ai froid, je bois un chocolat chaud. || When I'm cold, I drink a hot chocolate.
+|-
+| le coca || {{audio|Fr-Paris--coca.ogg|/kɔ.ka/}} || Coke, soda ||  || Nous avons bu un coca dans ce bar après le travail. || We drank a Coke in the bar after work.
+|-
+| la limonade || {{audio|/li.mɔ.nad/}} || lemonade, lemon soda ||  || La limonade est rafraîchissante en été. || Lemonade is refreshing in the summer.
+|-
+| l'eau {{French/Section|(f)}} || {{audio|Fr-eau.ogg|/o/}} || water ||  || Je vais boire un verre d’eau fraîche. || I'm going to drink a cool glass of water.
+|-
+| le jus {{French/Section|(d'orange, de pomme, de raisin, de tomate)}} || {{audio|Fr-jus-ca-Montréal.ogg|/ʒy/}} || {{French/Section|(orange, apple, grape, tomato)}} juice ||  || Garçon, deux jus de pomme, s’il vous plaît ! || Waiter, two apple juice, please!
+|-
+| le thé {{French/Section|(vert, noir, rouge)}} || {{audio|Fr-thé.ogg|/te/}} || {{French/Section|(green, black, red)}} tea ||  || Mon frère n'aime pas le thé noir.  Il boit toujours du thé vert. || My brother does not like black tea.  He always drinks green tea.
+|-
+| le vin {{French/Section|(blanc, rosé, rouge)}} || {{audio|Fr-vin.ogg|/vɛ̃/}} || {{French/Section|(white, rosé, red)}} wine ||  || As-tu bu ?&lt;br /&gt;J'ai bu deux verres de vin. || Have you been drinking?&lt;br /&gt;I have drunk two glasses of wine.
+|}
+
+== {{French/Section|Grammar|The partitive article}} ==
+
+The partitive article ''de'' indicates, among other things, the word ''some''. As learned earlier, ''de'' and ''le'' contract (combine) into ''du'', as ''de'' and ''les'' contract into ''des''. Also, instead of ''du'' or ''de la'', ''de l''' is used in front of vowels.
+
+When speaking about food, the partitive article is used at some times while the definite article (''le'', ''la'', ''les'') is used at other times, and the indefinite article (''un'', ''une'') in yet another set of situations. In general ''de'' refers to a ''part'' of food (a ''piece'' of pie) whereas the definite article (''le'') refers to a food in general (''I like pie (in general)''). The indefinite article refers to an ''entire unit'' of a food (''I would like a ('''whole''') pie'').
+
+When speaking about preferences, use the definite article:
+
+{| {{French/Translations table}}
+| J'aime ''la'' glace. ||  || I like ice cream.
+|-
+| Nous préférons le steak. ||  || We prefer steak.
+|-
+| Vous aimez les frites. ||  || You like French fries.
+|}
+
+When speaking about eating or drinking an item, there are specific situations for the use of each article.
+
+{| {{French/Translations table}}
+! colspan=6 | Definite article {{French/Section|(specific/whole items)}}
+|-
+| J'ai mangé ''la'' tarte. ||  || I ate the (whole) pie.
+|-
+! colspan=6 | Indefinite article {{French/Section|(known quantity)}}
+|-
+| J'ai mangé ''une'' tarte. ||  || I ate a pie.
+|-
+! colspan=6 | Partitive article {{French/Section|(unknown quantity)}}
+|-
+| J'ai mangé ''de la'' tarte. ||  || I ate some pie.
+|}
+
+In the negative construction, certain rules apply. ''Un'' or ''une'' changes to ''de'' in a negative construction, meaning, in this context, ''any''. Similarly, ''du'', ''de la'', or ''des'' change to ''de'' in negative constructions.
+
+{| {{French/Translations table}}
+| Nous avons mangé ''une'' tarte. ||  || We ate a pie.
+|-
+| Nous n'avons pas mangé ''de'' tarte. ||  || We did not eat a pie.&lt;br /&gt;We did not eat any pie.
+|-
+| Nous avons mangé ''de la'' tarte. ||  || We ate some pie.
+|-
+| Nous n'avons pas mangé de tarte. ||  || We did not eat some pie.&lt;br /&gt;We did not eat any pie.
+|}
+
+== {{French/Section|Grammar|Some of it|En}} ==
+
+To say ''some of it'' without specifying the exact object, the pronoun ''en'' can be used. Additionally, ''en'' can mean ''of it'' when ''it'' is not specified. For instance, instead of saying ''J'ai besoin d'argent'', if the idea of money has already been raised, it can be stated as ''J'en ai besoin.'' This is because ''en'' replaces ''du'', ''de la'' or ''des'' when the noun is not specifically mentioned in the sentence.
+
+Like with ''me'', ''te'' and other pronouns, ''en'' (meaning ''some'') comes before the verb. 
+
+{| {{French/Translations table}}
+| Tu joues du piano? Non, je n'en joue pas. ||  || Do you play piano? No, I don't play it.
+|-
+| Vous prenez du poisson? Oui, j'en prends. ||  || Are you having fish? Yes, I'm having some.
+|-
+| Vous avez commandé de l'eau? Oui, nous en avons commandé. ||  || Did you order some water? Yes, we ordered some.
+|}
+
+== {{French/Section|Vocabulary|Cooking}} ==
+{{sectstub}}
+
+== {{French/Section|Grammar|To put|Mettre}} ==
+
+=== Formation ===
+{| class=wikitable
+!'''mettre {{fr/IPA|/mɛtʁ/ (''mehtr'')|audio=Fr-mettre.ogg}} !! to put'''
+|-
+|je mets {{fr/IPA|/mɛ/ (''meh'')|audio=Fr-mets-fr FR-Paris.ogg}} || I put
+|-
+|tu mets {{fr/IPA|/mɛ/ (''meh'')|audio=Fr-mets-fr FR-Paris.ogg}} || you put
+|-
+|il met {{fr/IPA|/mɛ/ (''meh'')|audio=Fr-met-fr FR-Paris.ogg}} || he puts
+|-
+|nous mettons {{fr/IPA|/mɛ.tɔ̃/ (''meh-toh&lt;sup&gt;(n)&lt;/sup&gt;'')}} || we put
+|-
+|vous mettez {{fr/IPA|/mɛ.te/ (''meh-tay'')}} || you put
+|-
+|ils mettent {{fr/IPA|/mɛt/ (''meht'')}} || they put
+|-
+|mis {{fr/IPA|/mi/ (''mee'')}} || put
+|}
+
+=== {{French/Section|Vocabulary|Derived words|supplementary-id=french-mettre-words}} ===
+&lt;div id='french-mettre-words'&gt;
+{| {{French/Translations table|audio=French/Grammar/Words derived from mettre.ogg}}
+| admettre || {{audio|Fr-admettre.ogg|/admɛtʁ/}} || to admit, to accept ||  || On va admettre Georges dans la compagnie. || We'll admit George in the company.
+|-
+| commettre || {{audio|Fr-commettre.ogg|/kɔ.mɛtʁ/}} || to commit, to entrust ||  || Il a commis un crime. || He committed a crime.
+|-
+| compromettre || {{audio|/kɔ̃.pʁɔ.mɛtʁ/}} || to compromise, to jeopardize ||  || Il n'a pas compromis sa dignité. || He did not compromise his dignity.
+|-
+| démettre || {{audio|/de.mɛtʁ/}} || to dismiss, to discharge ||  || Il a été démis de ses fonctions de préfet. || He was dismissed from his position as prefect.
+|-
+| se démettre ||  || to resign ||  || Il s’est démis de sa charge. || He resigned from his office.
+|-
+| émettre || {{audio|/e.mɛtʁ/}} || to emit, to express, to issue ||  || Le gouvernement émit du papier-monnaie. || The government issued paper money.
+|-
+| omettre || {{audio|Fr-omettre.ogg|/ɔ.mɛtʁ/}} || to omit ||  || Il a omis une formalité nécessaire. || He omitted a necessary formality.
+|-
+| permettre || {{audio|Fr-permettre.ogg|/pɛʁ.mɛtʁ/}} || to allow ||  || Vous me permettrez  de le faire? || Will you allow me to do that?
+|-
+| promettre || {{audio|Fr-promettre.ogg|/pʁɔ.mɛtʁ/}} || to promise, to be promising, to be hopeful ||  ||  || 
+|-
+| réadmettre || {{audio|/ʁeadmɛtʁ/}} || to readmit ||  ||  || 
+|-
+| remettre || {{audio|Fr-remettre.ogg|/ʁə.mɛtʁ/}} || to put back, to replace ||  ||  || 
+|-
+| soumettre || {{audio|Fr-soumettre.ogg|/su.mɛtʁ/}} || to submit ||  || Je soumets cette proposition à votre agrément. || I submit this proposal for your approval.
+|-
+| transmettre || {{audio|Fr-transmettre.ogg|/tʁɑ̃s.mɛtʁ/}} || to transmit ||  || Le télégraphe a transmis cette dépêche. || The telegraph sent this dispatch.
+|}&lt;/div&gt; &lt;!-- /french-mettre-words --&gt;
+
+=== {{French/Section|Vocabulary|Related expressions|supplementary-id=french-mettre-expressions}} ===
+&lt;div id='french-mettre-expressions'&gt;
+{| {{French/Translations table|audio=French/Grammar/Expressions related to mettre.ogg}}
+| mettre à jour || {{audio|/mɛ.tʁ‿a ʒuʁ/}} || to update ||  ||  || 
+|-
+| mettre au jour ||  || to bring to light, to uncover ||  || Les autorités policières ont mis au jour des opérations illégales.&lt;br /&gt;Les archéologues travaillent à mettre au jour les vestiges d'un oppidum. || The police have uncovered illegal operations.&lt;br /&gt;Archaeologists work to uncover the remains of an oppidum.
+|-
+| mettre au monde || {{audio|/mɛt.ʁ‿o mɔ̃d/}} || to give birth ||  ||  || 
+|-
+| mettre à profit || {{audio|/mɛt.ʁ‿a pʁɔ.fi/}} || to benefit, to gain ||  || C’est un homme qui met tout à profit. || This is a man who benefits from everything.
+|-
+| mettre de côté || {{audio|/mɛtʁ də ko.te/}} || to put aside, to save {{French/Section|(money, etc.)}} ||  || C'est un homme d'une grande économie et qui met tous les ans quelque chose de côté. || This is a man of great economy who saves something every year.
+|-
+| mettre en cause ||  || to suspect; to accuse, blame ||  ||  || 
+|-
+| mettre en marche || {{audio|/mɛ.tʁ‿ɑ̃ maʁʃ/}} || to start ||  ||  || 
+|-
+| mettre en œuvre || {{audio|/mɛ.tʁ‿ɑ̃.n‿œvʁ/}} || to implement, to carry out ||  || On mets du bois en œuvre. || We put wood to work.
+|-
+| mettre en place ||  || to put in place, to set up ||  ||  || 
+|-
+| mettre en route || {{audio|/mɛ.tʁ‿ɑ̃ ʁut/}} || to start ||  ||  || 
+|-
+| mettre fin {{French/Section|(à)}} ||  || to put an end {{French/Section|(to)}} ||  || Il a mis fin au contrat. || He terminated the contract.
+|-
+| mettre l'accent sur ||  || to highlight
+|-
+| mettre la main à la pâte ||  || to pitch in ||  ||  || 
+|-
+| mettre le couvert ||  || to set the table ||  ||  || 
+|-
+| remettre en route || {{audio|/ʁǝ.mɛ.tʁ‿ɑ̃ rut/}} || to resume ||  ||  || 
+|-
+| se mettre à ||  || to start {{French/Section|(to do something)}}, to take up ||  || Elles s'est mis à sortir les weekends. || The girls started going out on weekends.
+|-
+| se mettre à table || {{audio|/sə mɛ.tʁ‿a tabl/}} || to sit down to eat ||  ||  || 
+|-
+| se mettre d'accord || {{audio|/sə mɛtʁ d‿a.kɔʁ/}} || to settle on, to agree ||  ||  || 
+|}&lt;/div&gt; &lt;!-- /french-mettre-expressions --&gt;
+
+=== {{French/Section|Examples|supplementary-id=french-mettre-examples}} ===
+&lt;div id='french-mettre-examples'&gt;
+{| {{French/Translations table|audio=French/Grammar/Examples with words related to mettre.ogg}}
+| C’est un fait que je n’admets pas. ||  || It's a fact that I do not accept.
+|-
+| Je vous en ai commis le soin. ||  || I entrusted the care of it to you.
+|-
+| J’ai commis cela à vos soins. ||  || I committed that to your care.
+|-
+| Cette compagnie de chemin de fer a émis un grand nombre d’obligations. ||  || This railway company has issued a large number of bonds.
+|-
+| C’est un homme qui promet toujours et qui ne tient rien. ||  || This is a man who always promises and does nothing.
+|}&lt;/div&gt; &lt;!-- /french-mettre-examples --&gt;
+
+=== {{French/Section|Usage notes|''Mettre''|supplementary-id=french-mettre}} ===
+&lt;div id='french-mettre'&gt;
+{{sectstub}}
+&lt;/div&gt; &lt;!-- /french-mettre --&gt;
+
+=== {{French/Section|Usage notes|''Remettre''|supplementary-id=french-remettre}} ===
+&lt;div id='french-remettre'&gt;
+{{sectstub}}
+&lt;/div&gt; &lt;!-- /french-remettre --&gt;
+
+== {{French/Section|Vocabulary|Fruits and vegetables|supplementary-id=french-fruits-and-vegetables}} ==
+&lt;div id='french-fruits-and-vegetables'&gt;
+{| {{French/Translations table|audio=French/Vocabulary/Fruits and vegetables.ogg}}
+! colspan=6 | les fruits {{French/Section|(fruits)}}
+|-
+| la banane || {{audio|Fr-banane.ogg|/ba.nan/}} || banana ||  ||  || 
+|-
+| la cerise || {{audio|Fr-cerise.ogg|/s(ə)ʁiz/}} || cherry ||  ||  || 
+|-
+| le citron || {{audio|Fr-citron.ogg|/sit.ʁɔ̃/}} || lemon ||  ||  || 
+|-
+| la fraise || {{audio|Fr-fraise.ogg|/fʁɛz/}} || strawberry ||  ||  || 
+|-
+| l'orange {{French/Section|(f)}} || {{audio|Fr-orange.ogg|/ɔ.ʁɑ̃ʒ/}} || orange ||  || Il a pressé l’orange afin d’en extraire du jus. || He squeezed the orange to extract juice from it.
+|-
+| la pomme || {{audio|Fr-pomme.ogg|/pɔm/}} || apple ||  ||  || 
+|-
+| le raisin || {{audio|Fr-raisin.ogg|/ʁɛ.zɛ̃/}} || grape ||  || Quentin cueille des raisins. || Quentin's picking the grapes.
+|-
+| le pamplemousse || {{audio|Fr-pamplemousse-ca-Montréal.ogg|/pɑ̃pləmus/}} || grapefruit ||  ||  || 
+|-
+! colspan=6 | les légumes {{French/Section|(vegetables)}}
+|-
+| la carotte || {{audio|Fr-carotte.ogg|/ka.ʁɔt/}} || carrot ||  ||  || 
+|-
+| les épinards {{French/Section|(m)}} || {{audio|Fr-épinards.ogg|/epinaʁ/}} || spinach ||  ||  || 
+|-
+| l'oignon {{French/Section|(m)}} || {{audio|Fr-oignon.ogg|/ɔɲɔ̃/|/waɲɔ̃/}} || onion ||  ||  || 
+|-
+| les petits pois {{French/Section|(m)}} || {{audio|Fr-un_petit_pois.ogg|/pə.ti pwa/}} || peas ||  ||  || 
+|-
+| la pomme de terre || {{audio|Fr-la pomme de terre.ogg|/pɔm də tɛʁ/}} || potato ||  || Faites cuire des pommes de terre à l'eau salée. || Cook potatoes in salted water.
+|-
+| la tomate || {{audio|Fr-tomate.ogg|/tɔ.mat/}} || tomato ||  ||  || 
+|-
+| les asperges {{French/Section|(f)}} || {{audio|/as.pɛʁʒ/}} || asparagus ||  || Je vais semer des asperges. || I'm going to plant asparagus.
+|-
+| les haricots {{French/Section|(m)}} || {{audio|Fr-haricot.ogg|/a.ʁi.ko/}} ||  beans ||  ||  || 
+|}&lt;/div&gt; &lt;!-- /french-fruits-and-vegetables --&gt;
+
+== {{French/Section|Vocabulary|Meat and seafood|supplementary-id=french-meat-and-seafood}} ==
+&lt;div id='french-meat-and-seafood'&gt;
+{| {{French/Translations table|audio=French/Vocabulary/Meat and seafood.ogg}}
+! colspan=6 | la viande {{French/Section|(meat)}}
+|-
+| l'agneau {{French/Section|(m)}} || {{audio|Fr-agneau.ogg|/a.ɲo/}} || lamb
+|-
+| la dinde || {{audio|Fr-dinde.ogg|/dɛ̃d/}} || turkey
+|-
+| le jambon || {{audio|Fr-jambon.ogg|/ʒɑ̃.bɔ̃/}} || ham
+|-
+| le porc || {{audio|Fr-porc.ogg|/pɔʁ/}} || pork 
+|-
+| le poulet || {{audio|Fr-poulet.ogg|/pu.lɛ/}} || chicken
+|-
+| le bœuf || {{audio|Fr-bœuf.ogg|/bœf/}} || beef
+|-
+| la saucisse || {{audio|Fr-saucisse.ogg|/so.sis/}} || sausage
+|-
+!colspan=6 | les fruits de mer {{French/Section|(m)}} {{French/Section|(shellfish, seafood)}}
+|-
+| la coquille Saint-Jacques || {{audio|Fr-une coquille Saint-Jacques.ogg|/kɔ.kij sɛ̃ jak/}} || scallop
+|-
+| le crabe || {{audio|Fr-crabe.ogg|/kʁab/}} || crab
+|-
+!colspan=6 | le poisson {{French/Section|(fish)}}
+|-
+| les anchois {{French/Section|(m)}} || {{audio|Fr-anchois.ogg|/ɑ̃.ʃwa/}} || anchovies
+|-
+| le saumon || {{audio|Fr-saumon.ogg|/somõ/}} || salmon
+|-
+| l'anguille {{French/Section|(f)}} || {{audio|Fr-anguille.ogg|/ɑ̃.ɡij/}} || eel
+|}&lt;/div&gt; &lt;!-- /french-meat-and-seafood --&gt;
+
+== {{French/Section|Vocabulary|Dessert|Le dessert|supplementary-id=french-dessert}} ==
+&lt;div id='french-dessert'&gt;
+{| {{French/Translations table|audio=French/Vocabulary/Dessert.ogg}}
+| le bonbon || {{audio|Fr-bonbon.ogg|/bɔ̃.bɔ̃/}} || candy ||  || Je vous ai apporté des bonbons. || I brought you some candy.
+|-
+| le chocolat || {{audio|Fr-Le-chocolat.ogg|/ʃɔ.kɔ.la/}} || chocolate ||  ||  || 
+|-
+| le gâteau {{French/Section|(au chocolat, au fromage, de pommes de terre)}} || {{audio|Fr-gâteau.ogg|/ɡa.tɔ/}} || cake ||  ||  || 
+|-
+| la glace {{French/Section|(à la vanille, au citron, au chocolat)}} || {{audio|Fr-glace.ogg|/ɡlas/}} || {{French/Section|(vanilla, orange, chocolate)}} ice cream ||  || La glace est un met très apprécié en été. || Ice cream is a dish popular in summer.
+|-
+| la mousse || {{audio|Fr-mousse.ogg|/mus/}} || mousse ||  || J’adore les mousses au chocolat avec des biscuits. || I love chocolate mousse with crackers.
+|-
+| la tarte {{French/Section|(aux cerises, aux abricots, aux pommes, aux fraises)}} || {{audio|Fr-tarte.ogg|/taʁt/}} || {{French/Section|(cherry, apricot, apple, strawberry)}} pie ||  || Noémie apprécie la tarte aux myrtilles et la tarte aux pommes. || Noémie likes blueberry pie and apple pie.
+|}&lt;/div&gt; &lt;!-- /french-dessert --&gt;
+
+== {{French/Section|Vocabulary|Other foods|supplementary-id=french-other-foods}} ==
+&lt;div id='french-other-foods'&gt;
+{| {{French/Translations table|audio=French/Vocabulary/Other foods.ogg}}
+| le croissant || {{audio|Fr-croissant2.ogg|/kʁwasɑ̃/}} || crescent roll ||  ||  || 
+|-
+| les frites {{French/Section|(f)}} || {{audio|/fʁit/}} || French fries ||  ||  || 
+|-
+| la crêpe || {{audio|Fr-crêpe.ogg|/kʁɛp/}} || pancake ||  ||  || 
+|-
+| la mayonnaise || {{audio|/ma.jɔ.nɛz/}} || mayonnaise ||  ||  || 
+|-
+| la moutarde || {{audio|Fr-moutarde.ogg|/mu.taʁd/}} || mustard ||  ||  || 
+|-
+| le pain || {{audio|Fr-Pain-fr-Paris.ogg|/pɛ̃/}} || bread ||  ||  || 
+|-
+| la pâtisserie || {{audio|Fr-pâtisserie.ogg|/pɑ.ti.sʁi/}} ||  pastry ||  || Regardez les belles pâtisseries dans la vitrine. || Look at the beautiful pastries in the window.
+|-
+| le poivre || {{audio|Fr-poivre.ogg|/pwavʁ/}} || pepper ||  ||  || 
+|-
+| le riz || {{audio|Fr-riz.ogg|/ʁi/}} || rice ||  || Adèle cultive du riz. || Adele grows rice.
+|-
+| le sel || {{audio|Fr-sel.ogg|/sɛl/}} || salt ||  ||  || 
+|-
+| le sucre || {{audio|Fr-Sucre-fr-Paris.ogg|/sykʁ/}} || sugar ||  ||  || 
+|-
+| la confiture || {{audio|Fr-confiture.ogg|/kɔ̃.fi.tyʁ/}} || jam ||  ||  || 
+|-
+! colspan=6 | les produits laitiers {{French/Section|(dairy products)}}
+|-
+| le beurre || {{audio|Fr-beurre.ogg|/bœʁ/}} || butter ||  ||  || 
+|-
+| le fromage || {{audio|Fr-fromage.ogg|/fʁɔ.maʒ/}} || cheese ||  ||  || 
+|-
+| le lait || {{audio|Fr-lait.ogg|/lɛ/}} || milk ||  ||  || 
+|-
+| le yaourt || {{audio|Fr-yaourt.ogg|/ja.uʁt/}} || yogurt ||  ||  || 
+|}&lt;/div&gt; &lt;!-- /french-other-foods --&gt;
+
+== {{French/Section|Text|&lt;!-- title here --&gt;}} ==
+{{sectstub}}
+
+== {{French/Section|Exercises}} ==
+{{sectstub}}
+&lt;noinclude&gt;{{French/Lessons/Level two|Rural life|Dining}}&lt;/noinclude&gt;</text>
+      <sha1>psnhg5qzvz25cggqxj4y84mp5oiq1kx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Lessons/Family</title>
+    <ns>0</ns>
+    <id>1551</id>
+    <revision>
+      <id>2587439</id>
+      <parentid>2586116</parentid>
+      <timestamp>2013-12-04T17:06:03Z</timestamp>
+      <contributor>
+        <username>JackPotte</username>
+        <id>99248</id>
+      </contributor>
+      <comment>/* Formation */</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{French/Lessons/Level one/Header|The family|La famille}}&lt;/noinclude&gt;
+{{French/Lesson objective|
+: ''Elle est la sœur de Michel.''
+: ''Nous avons trois frères.''
+|
+: ''Combien de personnes y a-t-il à votre bureau ?''
+: ''Il est le cousin de ma grandmère.''
+}}
+== {{French/Section|Vocabulary|First fifty cardinal numbers|review-id=french-numbers}} ==
+&lt;div id='french-numbers'&gt;
+{| {{French/Translations table|audio=French/Vocabulary/Cardinal numbers 0-50.ogg}}
+| zéro || {{audio|Fr-zéro.ogg|/ze.ʁɔ/}} || 0
+|-
+| un(e) || {{audio|Fr-un.ogg|/œ̃/}}, {{audio|Fr-une.ogg|/yn/}} || 1
+|-
+| deux || {{audio|Fr-deux-fr.ogg|/dø/}} || 2
+|-
+| trois || {{audio|Fr-Trois-fr-Paris.ogg|/tʀwa/}} || 3
+|-
+| quatre || {{audio|Fr-quatre.ogg|/katʁ/}} || 4
+|-
+| cinq || {{audio|Fr-cinq-fr.ogg||/sɛ̃k/}} || 5
+|-
+| six || {{audio|Fr-Six-fr-Paris.ogg|/sis/}} || 6
+|-
+| sept || {{audio|Fr-sept.ogg|/sɛt/}} || 7
+|-
+| huit || {{audio|Fr-huit.ogg|/ɥit/}} || 8
+|-
+| neuf || {{audio|Fr-Neuf-fr-Paris.ogg|/nœf/}} || 9
+|-
+| dix || {{audio|Fr-dix.ogg|/dis/}} || 10
+|-
+| onze || {{audio|Fr-onze.ogg|/ɔ̃z/}} || 11
+|-
+| douze || {{audio|Fr-douze.ogg|/duz/}} || 12
+|-
+| treize || {{audio|Fr-treize.ogg|/tʁɛz/}} || 13
+|-
+| quatorze || {{audio|Fr-quatorze.ogg|/ka.tɔʁz/}} || 14
+|-
+| quinze|| {{audio|Fr-quinze.ogg|/kɛ̃z/}} || 15
+|-
+| seize|| {{audio|Fr-seize.ogg|/sɛz/}} || 16
+|-
+| dix-sept|| {{audio|Fr-dix-sept.ogg|/dis.sɛt/|/di-sɛt}} || 17
+|-
+| dix-huit || {{audio|Fr-dix-huit.ogg|/dis.ɥit/|/di-zɥit/}} || 18
+|-
+| dix-neuf|| {{audio|Fr-dix-neuf.ogg|/dis.nœf/}}  || 19
+|-
+| vingt || {{audio|Fr-vingt.ogg|/vɛ̃/}} || 20
+|-
+| vingt et un, vingt-et-un || {{audio|/vɛ̃t e œ̃/|/vɛ̃ -te-œ̃/}} || 21
+|-
+| vingt-[deux - neuf] ||  || 22-29
+|-
+| trente || {{audio|Fr-trente.ogg|/tʁɑ̃t/}} || 30
+|-
+| trente et un, trente-et-un || {{audio|/tʁɑ̃.t‿e œ̃/}} || 31
+|-
+| trente-[deux - neuf] ||  || 32-39
+|-
+| quarante || {{audio|Fr-quarante.ogg|/ka.ʁɑ̃t/|/kaʀɑ̃t/}} || 40
+|-
+| cinquante || {{audio|Fr-cinquante.ogg|/sɛ̃.kɑ̃t/}} || 50
+|}&lt;/div&gt; &lt;!-- /french-numbers --&gt;
+
+== {{French/Section|Dialogue|&lt;!-- title here --&gt;}} ==
+{{sectstub}}
+
+== {{French/Section|Grammar|To have|Avoir}} ==
+
+''Avoir'', meaning ''to have'', is conjugated irregularly.
+
+=== Formation ===
+{| class=wikitable
+!'''avoir {{fr/IPA|/a.vwaʁ/ (''ah-vwahr'')|audio=Fr-avoir.ogg}} !! to have'''
+|-
+|j'ai {{fr/IPA|/e/ (''ay'')}} || I have
+|-
+|tu as {{fr/IPA|/a/ (''ah'')}} || you have
+|-
+|il a {{fr/IPA|/a/ (''ah'')}} || he has
+|-
+|nous avons {{fr/IPA|/a.vɔ̃/ (''ah-voh&lt;sup&gt;(n)&lt;/sup&gt;'')}} || we have
+|-
+|vous avez {{fr/IPA|/a.ve/ (''ah-vay'')}} || you have
+|-
+|ils ont {{fr/IPA|/ɔ̃/ (''oh&lt;sup&gt;(n)&lt;/sup&gt;'')}} || they have
+|-
+|eu {{fr/IPA|/y/}} || had
+|}
+
+Remember to ''liaison'' between &quot;nous avons&quot;, &quot;vous avez&quot;, and &quot;ils ont/elles ont&quot;.
+
+=== Examples ===
+
+{| {{French/Translations table|audio=French Verb - Examples with avoir.ogg}}
+| J'ai deux stylos. ||  || I have two pens.
+|-
+| Tu as trois frères. ||  || You have three brothers.
+|-
+| Il a une idée. ||  || He has an idea.
+|}
+
+=== Expressing age ===
+''Avoir'' is used to express age.
+
+{| {{French/Translations table|audio=French/Grammar/Expressing age.ogg}}
+| Tu as quel âge ? ||  || How old are you? || lit: You have what age?
+|-
+| J'ai trente ans. ||  || I'm thirty (years old) || lit: I have thirty years.
+|}
+
+===Interogitives===
+The above uses avoir ''affirmatively''. You can also use it ''interrogatively''. A small complication arises,
+in that without some help, the result does not sound very good. The use of an ''euphonic'' (pleasing to the ear) is
+used with vowels before the pronoun. Thus, the letter ''-t-'' is placed between the verb and the pronoun:
+
+Ai-je ? (Have I ?)&lt;br /&gt;
+As-tu ? (Have you ?) informal (hast thou)&lt;br /&gt;
+A-t-il ? (Has he ?)&lt;br /&gt;
+A-t-elle ? (Has she ?)&lt;br /&gt;
+Avons nous ? (Have we ?)&lt;br /&gt;
+Avez vous ? (Have you ?) formal&lt;br /&gt;
+Ont ils ? (Have they ?) masculine&lt;br /&gt;
+Ont elles ? (Have they ?) feminine&lt;br /&gt;
+
+The use of ''liaison'' fullfils the euphonic for &quot;ont&quot;.
+
+Examples:
+
+A-t-il la farine ? Oui, Monsieur, il a la farine.&lt;br /&gt;
+Avons nous la viande ? Oui, Monsieur, nous avons la viande et le pain.&lt;br /&gt;
+Avez vous la table ? Oui, Madame, j'ai la table.
+
+== {{French/Section|Vocabulary|Immediate family|&lt;!-- French here --&gt;}} ==
+
+{| {{French/Translations table|audio=French/Vocabulary/Immediate family.ogg}}
+| ma famille || {{audio|Fr-famille.ogg|/fa.mij/}} || my family
+|-
+| les parents || {{audio|Fr-parents.ogg|/pa.'ʁɑ~/}} || parents
+|-
+| la mère || {{audio|Fr-mère.ogg|/mɛʁ/}} || mother
+|-
+| le père || {{audio|Fr-père.ogg|[pɛʁ]|/pɛr/}} || father
+|-
+| la femme || {{audio|Fr-femme.ogg|/fam/}} || wife
+|-
+| le mari || {{audio|Fr-mari.ogg|/ma.ʁi/}} || husband
+|-
+| la sœur || {{audio|Fr-sœur.ogg|/sœʁ/}} || sister
+|-
+| le frère || {{audio|Fr-frère.ogg|/fʁɛʁ/}} || brother
+|-
+| l'enfant {{French/Section|(m or f)}} || {{audio|Fr-enfant.ogg|/ɑ̃.fɑ̃/}} || child
+|-
+| les enfants || {{audio|Fr-enfants.ogg|/ɑ̃.fɑ̃/}} || children
+|-
+| la fille || {{audio|Fr-fille.ogg|/fij/}} || daughter
+|-
+| le fils || {{audio|Fr-fils.ogg|/fis/}} || son
+|}
+
+== {{French/Section|Grammar|Possession and association}} ==
+The preposition {{French/Word|de|IPA=/də/ (''duh'')|audio=Fr-de.ogg}} is used to express possession or association:
+: {{French/Word|le frère de Michel|en=the brother of Michel}}
+
+''De'' can also be translated as '''s'':
+: {{French/Word|le frère de Michel|en=Michel's brother}}
+: {{French/Word|les Œuvres de Fermat|en=Fermat’s Works}}
+
+Recall that {{French/Word|du|IPA=/dy/|approx=dew|audio=Fr-du.ogg}} replaces ''de le'', and {{French/Word|des|IPA=/dɛ/|approx=deh|audio=Fr-des.ogg}} replaces ''de les''.
+
+=== Examples ===
+{{sectstub}}
+
+{| {{French/Translations table|audio=French/Grammar/Examples of possession and association.ogg}}
+| Il est le voisin de Gabriel. ||  || He is Gabriel's neighbor.
+|-
+| Elle est la femme du comptable. ||  || She is the accountant's wife.
+|-
+| Paris est la capitale de la France. ||  || Paris is France's capital.
+|}
+
+== {{French/Section|Grammar|Possessive adjectives|Les adjectifs possessifs|supplementary-id=french-possessive-adjectives}} ==
+&lt;div id='french-possessive-adjectives'&gt;
+=== Formation ===
+{| {{French/Table|audio=French/Grammar/Possessive adjectives.ogg|columns=10}}
+!  
+! colspan=3 style='min-width: 130px;' | {{French/Section|First person}}
+! colspan=3 style='min-width: 130px;' | {{French/Section|Second person}}
+! colspan=3 style='min-width: 130px;' | {{French/Section|Third person}}
+|-
+! {{French/Section|Singular}}
+! mon (m)&lt;br /&gt;ma (f)&lt;br /&gt;mes
+| {{French/Section|{{audio|Fr-mon.ogg|/mɔ̃/|approx=moh&lt;sup&gt;(n)&lt;/sup&gt;}}&lt;br /&gt;{{audio|Fr-ma.ogg|/ma/|approx=mah}}&lt;br /&gt;{{audio|Fr-mes.ogg|/me/|approx=may}}}}
+| &amp;nbsp;my&amp;nbsp;
+! ton (m)&lt;br /&gt;ta (f)&lt;br /&gt;tes
+| {{French/Section|{{audio|Fr-ton.ogg|/tɔ̃/|approx=toh&lt;sup&gt;(n)&lt;/sup&gt;}}&lt;br /&gt;{{audio|Fr-ta.ogg|/ta/|approx=tah}}&lt;br /&gt;{{audio|Fr-tes.ogg|/te/|approx=tay}}}}
+| your (tu form)
+! son (m)&lt;br /&gt;sa (f)&lt;br /&gt;ses
+| {{French/Section|{{audio|audio=Fr-son.ogg|/sɔ̃/|approx=soh&lt;sup&gt;(n)&lt;/sup&gt;}}&lt;br /&gt;{{audio|Fr-sa.ogg|/sa/|approx=sah}}&lt;br /&gt;{{audio|/sɛ/|approx=seh}}}}
+| &amp;nbsp;his, her, its&amp;nbsp;
+|-
+! {{French/Section|Plural}}
+! notre&lt;br /&gt;nos
+| {{French/Section|{{audio|Fr-notre.ogg|/nɔ.tʁ/|approx=nohtr}}&lt;br /&gt;{{audio|/no/|approx=noh}}}}
+| &amp;nbsp;our&amp;nbsp;
+! votre&lt;br /&gt;vos
+| {{French/Section|{{audio|/vɔ.tʁ/|approx=vo-tr}}&lt;br /&gt;{{audio|/vo/|approx=voh}}}}
+| your (vous form)
+! leur&lt;br /&gt;leurs
+| {{French/Section|{{audio|Fr-leur.ogg|/lœʁ/|approx=lewr}}&lt;br /&gt;{{audio|Fr-leur.ogg|/lœʁ/|approx=lewr}}}}
+| &amp;nbsp;their&amp;nbsp;
+|}
+
+=== Usage ===
+Possessive adjective are used to express possession of an object.
+
+: {{French/Word|C'est mon livre.|en=It's my book.}}
+
+In English the possessive adjective agrees with the subject (''his sister'', ''her brother''). But in French, possessive adjectives act like all other adjectives: they must agree with the noun they modify.
+
+{| {{French/Table|audio=French/Grammar/Possesive adjective usage.ogg|columns=4}}
+! colspan=2 | Masculine noun&lt;br /&gt;le frère
+! colspan=2 | Feminine noun&lt;br /&gt;la sœur
+|-
+| le frère de Marc&lt;br /&gt;{{French/Section|Marc's brother}} || '''son''' frère&lt;br /&gt;{{French/Section|his brother}}
+| la sœur de Marc&lt;br /&gt;{{French/Section|Marc's sister}} || '''sa''' sœur&lt;br /&gt;{{French/Section|his sister}}
+|-
+| les frères de Marc&lt;br /&gt;{{French/Section|Marc's brothers}} || '''ses''' frères&lt;br /&gt;{{French/Section|his brothers}}
+| les sœurs de Marc&lt;br /&gt;{{French/Section|Marc's sisters}} || '''ses''' sœurs&lt;br /&gt;{{French/Section|his sisters}}
+|-
+| le frère de Marie&lt;br /&gt;{{French/Section|Marie's brother}} || '''son''' frère&lt;br /&gt;{{French/Section|her brother}}
+| la sœur de Marie&lt;br /&gt;{{French/Section|Marie's sister}} || '''sa''' sœur&lt;br /&gt;{{French/Section|her sister}}
+|-
+| les frères de Marie&lt;br /&gt;{{French/Section|Marie's brothers}} || '''ses''' frères&lt;br /&gt;{{French/Section|her brothers}}
+| les sœurs de Marie&lt;br /&gt;{{French/Section|Marie's sisters}} || '''ses''' sœurs&lt;br /&gt;{{French/Section|her sisters}}
+|}
+
+Whether ''son'', ''sa'' and ''ses'' translate to ''his'' or ''her'' is indicated by context:
+: {{French/Word|Oui, elle a son livre.|en=Yes, she has her book.}}
+
+''Notre'', ''votre'', and ''leur'' modify singular nouns, regardless of gender; ''nos'', ''vos'', and ''leurs'' modify plural nouns:
+: ''l'appartement'' {{French/Section|(m)}}: {{French/Word|C'est notre appartement.|en=It's our apartment.}}
+: ''la maison'': {{French/Word|C'est notre maison.|en=It's our house.}}
+
+=== Liaison and adjective changes ===
+
+Liaison occurs when ''mon'', ''ton'', and ''son'' are followed by a vowel.
+
+{| {{French/Translations table|audio=French/Grammar/Liaison with mon, ton, and son.ogg}}
+| Il est mon&lt;sub&gt;n&lt;/sub&gt;ami. || &lt;!-- IPA here --&gt; || He is my friend.
+|-
+| Il est ton&lt;sub&gt;n&lt;/sub&gt;ami. || &lt;!-- IPA here --&gt; || He is your friend.
+|-
+| Il est son&lt;sub&gt;n&lt;/sub&gt;ami. || &lt;!-- IPA here --&gt; || He is his/her friend.
+|}
+
+Liaison also occurs with all plural forms, since they all end in ''s''.
+
+{| {{French/Translations table|audio=French/Grammar/Liaison with mes and nos.ogg}}
+| Ils sont mes&lt;sub&gt;z&lt;/sub&gt;amis. || &lt;!-- IPA here --&gt; || They are my friends.
+|-
+| Ils sont nos&lt;sub&gt;z&lt;/sub&gt;amis. || &lt;!-- IPA here --&gt; || They are our friends.
+|}
+
+''Mon'', ''ton'', and ''son'' are used before a feminine singular noun that starts with a vowel or silent ''h'':
+: {{French/Word|Elle est mon&lt;sub&gt;n&lt;/sub&gt;amie.|en=She is my friend.}}
+
+=== Examples ===
+{{sectstub}}
+
+{| {{French/Translations table|audio=French/Grammar/Examples with possessive adjectives.ogg}}
+| Ton écriture est jolie. ||  || Your  writing is nice. || ''l'écriture'' is feminine, but begins with a vowel
+|-
+| J’ai son livre. ||  || I have his/her book. || ''le livre'' is masculine
+|-
+| | Elle est la femme de mon ami. ||  || She's my friend's wife. || ''l'ami'' is maculine
+|}&lt;/div&gt; &lt;!-- /french-possessive-adjectives --&gt;
+
+== {{French/Section|Grammar|Questions|supplementary-id=french-questions}} ==
+&lt;div id='french-questions'&gt;
+Recall that the expression {{French/Word|il y a|IPA=/i.lja/|audio=Fr-il y a.ogg}} means ''there is …'' or ''there are …'':
+: {{French/Word|Il y a un problème.|en=There is a problem.}}
+: {{French/Word|Il y a des livres.|en=There are books.}}
+
+The interrogative form of ''il y a'' is {{French/Word|y a-t-il|IPA=/i aˈt̪il/|audio=fr-fr-y_a-t-il.ogg}}. That is, ''il y a'' is inverted to ''y a-t-il'', meaning ''is there?'' or ''are there?'', within questions:
+: {{French/Word|Y a-t-il un problème ?|en=Is there a problem?}}
+: {{French/Word|Y a-t-il des magasins près d'ici ?|en=Are there shops near here?}}
+
+Both ''How much …'' and ''How many …'' are translated as {{French/Word|Combien de …|IPA=&lt;!-- IPA here --&gt;}}.
+
+If the person or thing it refers to is countable, ''combien de'' is always followed by a plural noun:
+: {{French/Word|Combien de personnes y a-t-il à votre bureau ?|en=How many people are there in your office ?}}
+: {{French/Word|Vous avez combien de frères ?|en=You have how many brothers?}}
+
+However, with uncountable nouns, such as {{French/Word|l'eau|IPA=/o/|audio=Fr-eau.ogg|en=water|gender=m}} and {{French/Word|l'argent|IPA=/aʁ.ʒɑ̃/|audio=Fr-argent.ogg|en=money|gender=m}}, the singular form is used:
+: {{French/Word|Vous avez combien d’argent ?|en=You have how much money?}}
+
+As with ''il y a'', other nouns and verbs can be inverted within questions. For example, {{French/Word|vous avez …|en=you have …}} can become {{French/Word|… avez-vous ?|en=… do you have?}}:
+: {{French/Word|Combien de frères avez-vous ?|en=How many brothers do you have?}}
+: {{French/Word|Combien avez-vous d’argent ?|en=How much money do you have?}}
+
+=== Examples ===
+{| {{French/Translations table|audio=French/Grammar/Examples with combien de and il y a.ogg}}
+| Tu as combien de livres ? ||  || You have how many books?
+|-
+| Combien d’argent avez-vous sur votre compte d’épargne ? ||  || How much money do you have in your account?
+|-
+| Combien y a-t-il de personnes ? ||  || How many people are there?
+|-
+| Avez-vous tous vos bagages ? ||  || Do you have all your baggage?
+|-
+| Y a-t-il beaucoup de pièces ? ||  || Are there many rooms?
+|}&lt;/div&gt; &lt;!-- /french-questions --&gt;
+
+== {{French/Section|Vocabulary|Extended family|La famille éloignée|supplementary-id=french-extended-family}} ==
+&lt;div id='french-extended-family'&gt;
+{| {{French/Translations table|start-hidden=true|audio=French/Vocabulary/Extended family.ogg}}
+| le grand-parent || {{audio|/ɡʁɑ̃.pa.ʁɑ̃/}} || grandparent ||  || l’un des deux grands-pères ou l’une des deux grands-mères d’une personne || one of two grandfathers and one of the two grandmothers of a person
+|-
+| la grand-mère {{French/Section|(paternelle, maternelle)}} || {{audio|Fr-grand-mère.ogg|/ɡʁɑ̃.mɛʁ/}} || grandmother ||  || mère du père ou de la mère d’une personne || mother of the father or of the mother of a person
+|-
+| le grand-père {{French/Section|(paternel, maternel)}} || {{audio|Fr-grand-père.ogg|/ɡʁɑ̃.pɛʁ/}} || grandfather ||  || père du père ou de la mère d’une personne || father of the father or of the mother of a person
+|-
+| les petits-enfants || {{audio|/pə.ti.zɑ̃.fɑ̃/}} || grandchildren ||  || les enfants du fils ou de la fille d'une personne || the children of the son or of the daughter of a person
+|-
+| le petit-fils || {{audio|Fr-petit-fils.ogg|/pə.ti.fis/}} || grandson ||  || fils du fils ou de la fille d'une personne || son of the son or of the daughter of a person
+|-
+| la petite-fille || {{audio|Fr-petite-fille.ogg|/pə.tit.fij/}} || granddaughter ||  || fille de l’enfant d’une personne || daughter of the child of a person
+|-
+| l'oncle&lt;br /&gt;le tonton || {{audio|Fr-oncle.ogg|/ɔ̃kl/}}&lt;br /&gt;{{audio|/tɔ̃.tɔ̃/}} || uncle ||  || frère ou beau-frère du père ou de la mère d’une personne || brother or brother-in-law of the father or of the mother of a person
+|-
+| la tante&lt;br /&gt;la tatie || {{audio|Fr-tante.ogg|/tɑ̃t/}}&lt;br /&gt;{{audio|/ta.ti/}} || aunt ||  || sœur du père ou de la mère d’une personne, ou femme de l’oncle d’une personne || sister of the father or of the mother of a person, or wife of the uncle of a person
+|-
+| le neveu || {{audio|Fr-neveu.ogg|/nə.vø/}} || nephew ||  || fils du frère ou de la sœur d’une personne || son of the brother or of the sister of a person
+|-
+| la nièce || {{audio|Fr-nièce.ogg|/njɛs/}} || niece ||  ||  fille du frère ou de la sœur d’une personne || daughter of the brother or of the sister of a person
+|-
+| le cousin&lt;br /&gt;la cousine || {{audio|Fr-cousin.ogg|/ku.zɛ̃/}}&lt;br /&gt;{{audio|Fr-cousine.ogg|/ku.zin/}} || cousin ||  || fils ou fille de l’oncle ou de la tante d’une personne || son or daughter of the uncle or of the aunt of a person
+|}
+
+To speak about complex family relations, you use ''de mon'', ''de ma'', and ''de mes'':
+: {{French/Word|le cousin de ma grandmère|en=my grandmother's cousin}}.
+
+=== Examples ===
+{{sectstub}}
+{| {{French/Translations table|audio=French/Vocabulary/Examples with extended family.ogg}}
+| Cette grand-mère a déjà cinq petits-enfants. ||  || This grandmother already has five grandchildren.
+|}
+&lt;/div&gt; &lt;!-- /french-extended-family --&gt;
+
+== {{French/Section|Dialogue|&lt;!-- title here --&gt;}} ==
+{{sectstub}}
+
+== {{French/Section|Exercises}} ==
+{{French/Exercise list
+ | title = Translation
+ | instructions = Translate from French to English.
+ | la sœur | sister
+ | le père | father
+ | le fils | son
+ | la femme | wife
+ | les enfants | children
+ | le mari | husband
+ | ma famille | my family
+ | la fille | daughter
+ | le frère | brother
+ | les parents | parents
+ | l'enfant | child
+ | la mère | mother
+}}
+
+{{French/Exercise list
+ | title = Translation
+ | instructions = Translate from English to French.
+ | daughter | la fille
+ | wife | la femme
+ | children | les enfants
+ | sister | la sœur
+ | father | le père
+ | husband | le mari
+ | brother | le frère
+ | parents | les parents
+ | mother | la mère
+ | my family | ma famille
+ | son | le fils
+ | child | l'enfant
+}}
+
+{{French/Exercise list
+ | title = Fill in the blank using ''avoir''
+ | instructions = Fill in each blank with the correct form of ''avoir''.
+ | nous ______ | nous '''avons'''
+ | elle ______ | elle '''a'''
+ | tu ______ | tu '''as'''
+ | il ______ | il '''a'''
+ | elles ______ | elles '''ont'''
+ | vous ______ | vous '''avez'''
+ | je (j&lt;nowiki&gt;'&lt;/nowiki&gt;) ______ | j&lt;nowiki&gt;'&lt;/nowiki&gt;'''ai'''
+ | ils ______ | ils '''ont'''
+ | nous ______ | nous '''avons'''
+ | tu ______ | tu '''as'''
+ | on ______ | on '''a'''
+ | ils ______ | ils '''ont'''
+ | nous ______ | nous '''avons'''
+ | je (j&lt;nowiki&gt;'&lt;/nowiki&gt;) ______ | j&lt;nowiki&gt;'&lt;/nowiki&gt;'''ai'''
+ | vous ______ | vous '''avez'''
+ | on ______ | on '''a'''
+ | elles ______ | elles '''ont'''
+ | vous ______ | vous '''avez'''
+}}
+{{sectstub}}
+
+== {{French/Section|Exercises|supplementary-id=french-exercises}} ==
+&lt;div id='french-exercises'&gt;
+{{French/Exercise list
+ | title = Translation
+ | instructions = Translate from French to English.
+ | la nièce | niece
+ | le grand-père | grandfather
+ | les petits-enfants | grandchildren
+ | la tante | aunt
+ | le petit-fils | grandson
+ | le cousin | cousin
+ | la petite-fille | granddaughter
+ | l'oncle | uncle
+ | ma famille éloignée | my extended family
+ | les grand-parents | grandparents
+ | le neveu | nephew
+ | la grand-mère | grandmother
+}}
+
+{{French/Exercise list
+ | title = Translation
+ | instructions = Translate from English to French.
+ | grandchildren | les petits-enfants
+ | cousin | le cousin
+ | grandmother | la grand-mère
+ | aunt | la tante
+ | my extended family | ma famille éloignée
+ | grandson | le petit-fils
+ | uncle | l'oncle
+ | granddaughter | la petite-fille
+ | nephew | le neveu
+ | grandparents | les grand-parents
+ | niece | la nièce
+ | grandfather | le grand-père
+}}
+
+{{French/Exercise list
+ | title = Definitions
+ | instructions = State each word described.
+ | fille du frère ou de la sœur | une nièce
+ | fils ou fille de l’oncle ou de la tante d’une personne | un cousin
+ | sœur du père ou de la mère, ou femme de l’oncle | une tante
+ | père du père ou de la mère d’une personne | un grand-père
+ | fils du fils ou de la fille d'une personne | un petit-fils
+ | mère du père ou de la mère d’une personne | une grand-mère
+ | fille de l’enfant d’une personne | une petite-fille
+ | frère ou beau-frère du père ou de la mère | un oncle
+ | fils du frère ou de la sœur d’une personne | un neveu
+ | l’un des deux grands-pères ou l’une des deux grands-mères d’une personne | un grand-parent
+ | l’enfant de son fils ou de sa fille | un petit-enfant
+}}
+
+{{French/Exercise list
+ | title = Fill in the blank
+ | instructions = : Fill in each blank with ''son'', ''sa'', or ''ses''.
+ | ''la grand-mère de Julie'' → ''___ grand-mère'' | ''la grand-mère de Julie'' → '''''sa''' grand-mère''
+ | ''l'oncle de Denise'' → ''___ oncle'' | ''l'oncle de Denise'' → '''''son''' oncle''
+ | ''les petits-enfants de Michel'' → ''___ petits-enfants'' | ''les petits-enfants de Michel'' → '''''ses''' petits-enfants''
+ | ''la nièce de Jacques'' → ''___ nièce'' | ''la nièce de Jacques'' → '''''sa''' nièce''
+ | ''le grand-père de Zoé'' → ''___ grand-père'' | ''le grand-père de Zoé'' → '''''son''' grand-père''
+ | ''les neveux de Victor'' → ''___ neveux'' | ''les neveux de Victor'' → '''''ses''' neveux''
+ | ''la tante de Caroline'' → ''___ tante'' | ''la tante de Caroline'' → '''''sa''' tante''
+ | ''le frère de William'' → ''___ frère'' | ''le frère de William'' → '''''son''' frère''
+ | ''l'enfant de Robert'' → ''___ enfant'' | ''l'enfant de Robert'' → '''''son''' enfant''
+}}&lt;/div&gt; &lt;!-- /french-exercises --&gt;
+
+
+&lt;noinclude&gt;{{French/Lessons/Level one|Description|Recreation}}&lt;/noinclude&gt;</text>
+      <sha1>n3jrhu1jcz8cg9b4cf6ia5d6bhpzhao</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Lessons/Shopping</title>
+    <ns>0</ns>
+    <id>1552</id>
+    <revision>
+      <id>2587448</id>
+      <parentid>2587447</parentid>
+      <timestamp>2013-12-04T17:36:02Z</timestamp>
+      <contributor>
+        <username>JackPotte</username>
+        <id>99248</id>
+      </contributor>
+      <comment>/* Formation */</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{French/Lessons/Level two/Header||Faire des courses}}&lt;/noinclude&gt;
+== {{French/Section|Grammar|Object pronouns}} ==
+&lt;div id='french-object-pronouns'&gt;
+=== Direct objects ===
+While the subject of a sentence initiates an action (the verb), the direct object is the one that is affected by the action. A direct object pronoun is used to refer to the direct object of a previous sentence: 
+
+{| {{French/Translations table}}
+| Pierre voit '''le cambrioleur'''. ||  || Pierre sees '''the burglar'''.
+|-
+| Pierre '''le''' voit. ||  || Pierre sees '''him'''.
+|}
+
+The following table shows the various types of direct object pronouns:
+
+{| {{French/Table|columns=8}}
+! French
+| me, m'||te, t'||le, l'||la, l'||nous||vous||les
+|-
+! English
+| me&lt;sup&gt;1&lt;/sup&gt;||you&lt;sup&gt;1&lt;/sup&gt;||him, it||her, it||us&lt;sup&gt;1&lt;/sup&gt;||you&lt;sup&gt;1&lt;/sup&gt;||them
+|}
+
+Notes:
+* &lt;sup&gt;1&lt;/sup&gt; ''me, te, nous'', and ''vous'' are also used as indirect objects to mean ''to me, to you, to us'', and ''to you'' respectively.
+* The pronoun form with an apostrophe is used before a vowel. 
+* The direct object pronoun for ''nous'' and ''vous'' is the same as the subject.
+* When the direct object comes before a verb in a perfect tense, a tense that uses a past participle, the direct object must agree in gender and plurality with the past participle. For example, in the phrase ''Je les ai eus'', or ''I had them'', the past participle would be spelled ''eus'' if the direct object, ''les'', was referring to a masculine object, and ''eues'' if ''les'' is referring to a feminine object.
+
+=== Indirect objects ===
+An indirect object is an object that would be asked for with ''To whom...?'' or ''From whom...?''. It is called indirect because it occurs usually together with a direct object which is affected directly by the action: 
+
+{| {{French/Translations table}}
+| Il donne du pain '''à Pierre'''. ||  || He gives some bread '''to Pierre'''.
+|-
+| Il '''lui''' donne du pain. ||  || He gives bread '''to him'''.
+|}
+
+The following table shows the various types of indirect object pronouns:
+
+{| {{French/Table|columns=7}}
+! French
+| me, m'||te, t'||lui||nous||vous||leur
+|-
+! English
+| to me&lt;sup&gt;1&lt;/sup&gt;||to you&lt;sup&gt;1&lt;/sup&gt;||to him, to her||to us&lt;sup&gt;1&lt;/sup&gt;||to you&lt;sup&gt;1&lt;/sup&gt;||to them
+|}
+
+Notes:
+*&lt;sup&gt;1&lt;/sup&gt; ''me, te, nous'', and ''vous'' are also used as direct objects to mean ''me, you, us'', and ''you'' respectively.
+* The pronoun form with an apostrophe is used before a vowel. 
+* The indirect object pronoun for nous and vous is the same as the subject.
+* The indirect object pronouns do '''not''' agree with the past participle like the direct object pronouns do. When ''me, te, nous'', and ''vous'' are used in a perfect tense, the writer must decide whether they are used as direct or indirect object pronouns. This is done by looking at the verb and seeing what type of action is being performed.
+
+The bread ''is given'' by the man (direct). Pierre ''gets the given'' bread (indirect).
+&lt;/div&gt; &lt;!-- /french-object-pronouns --&gt;
+
+== {{French/Section|Dialogue|At the bakery|À la boulangerie}} ==
+
+{{French/Dialogue list
+ | a = Bernard {{French/Section|(le boulanger)}}
+ | b = Camille {{French/Section|(la cliente)}} 
+ | Bonjour madame. | good morning miss.
+ | Bonjour monsieur. | good morning sir.
+ | Que voulez-vous ? or Que désirez-vous ?| What would you like?
+ | Je voudrais acheter une baguette, s'il vous plaît. | I would like to buy a baguette, please.
+ | C'est tout ? or Est-ce que c'est tout ? | (Is) that all?
+ | Non, je voudrais deux croissants aussi. | No, I would like two croissants also.
+ | Très bien - ça fait deux euros, s'il vous plaît. | Very well - that makes two euros, please.
+ | Merci beaucoup. | Thanks a lot.
+ | audio = French/Dialogue/At the bakery.ogg
+}}
+
+=== {{French/Section|Vocabulary}} ===
+
+{| {{French/Translations table}}
+| Que voulez-vous ?, Que désirez-vous ? ||  || What would you like?
+|-
+| Je voudrais… ||  || I would like…
+|-
+| C'est tout ? or Est-ce que c'est tout ? ||  || (Is) that all?
+|-
+| Ça fait deux euros. ||  || That will be two euros.
+|-
+| acheter ||  || to buy
+|}
+
+== {{French/Section|Vocabulary|Going shopping}} ==
+{| {{French/Translations table|audio=French/Vocabulary/Going shopping.ogg}}
+| faire des courses&lt;br /&gt;faire du shopping ||  || to go shopping ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| faire le marché ||  || to go grocery shopping ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| faire du lèche-vitrine ||  || to go window shopping ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| porter || {{audio|Fr-porter.ogg}} || to wear, to carry ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| demander || {{audio|Fr-demander.ogg|/dǝ.mɑ̃.de/}} || to ask {{French/Section|(for)}} ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| demander le prix ||  || to ask for the price ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| payer || {{audio|Fr-payer.ogg|/pe.je/}} || to pay ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| vendre || {{audio|Fr-vendre.ogg|/vɑ̃dʁ(ə)/}} || to sell ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| acheter || {{audio|/aʃte/|approx=ahsh-tay}} || to buy ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| acheté || {{audio|Fr-acheter.ogg|approx=ah-shuh-tay|/aʃəte/}} || have bought ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+! colspan=6 | Buying goods
+|-
+| le{{French/Section|(la)}} vendeur{{French/Section|(euse)}} || {{audio|Fr-vendeur.ogg}}&lt;br /&gt;{{audio|Fr-vendeuse.ogg}} || salesperson ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| {{French/Section|(plus/moins)}} cher{{French/Section|(ère)}} || {{audio|Fr-cher.ogg|/ʃɛʁ/}} || {{French/Section|(more/less)}} expensive ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| la vitrine || {{audio|Fr-vitrine.ogg|/vit.ʁin/}} || display window ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| le prix || {{audio|Fr-prix.ogg|/pʁi/}} || price ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| la caisse || {{audio|Fr-caisse.ogg|/kɛs/}} || cash register&lt;br /&gt;checkout counter ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| coûter || {{audio|Fr-coûter.ogg|/ku.te/}} || to cost ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| C’est combien ?&lt;br /&gt;Combien ça coûte ? ||  || How much is it? || lit: It's how much?&lt;br /&gt;lit:How much it/that costs? || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| Combien coûte [''nom''] ? ||  || How much does [''noun''] cost? || lit: How much costs [''noun'']? || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|}
+
+== {{French/Section|Grammar|''-e…er'' verbs}} ==
+''-e…er'' are regular ''-er'' verbs, but also are stem changing. The stem change applies to all forms except ''nous'' and ''vous''. The stem change involves adding a grave accent ( ` ) over the ''e'' in the stem.
+
+=== Formation ===
+{| class=wikitable
+!'''acheter {{fr/IPA|/aʃte/ ''ahsh-tay''|audio=Fr-acheter.ogg}} !! to buy'''
+|-
+|j'achète {{fr/IPA|/a.ʃɛt/ (''ah-sheht'')}} || I buy
+|-
+|tu achètes {{fr/IPA|/a.ʃɛt/ (''ah-sheht'')}} || you buy
+|-
+|il achète {{fr/IPA|/a.ʃɛt/ (''ah-sheht'')}} || he buys
+|-
+|nous achetons {{fr/IPA|/a.ʃ(.ə)tɔ̃/ (''ahsh-toh&lt;sup&gt;(n)&lt;/sup&gt;'')}} || we buy
+|-
+|vous achetez {{fr/IPA|/a.ʃ(.ə)te/ (''ahsh-tay'')}} || you buy
+|-
+|ils achètent {{fr/IPA|/a.ʃɛt/ (''ah-sheht'')}} || they buy
+|-
+|acheté {{fr/IPA|/aʃ(.ə).te/ ''ah-shuh-tay''|Fr-acheter.ogg}} || bought
+|}
+
+
+=== {{French/Section|Vocabulary|Other ''-e…er'' verbs|supplementary-id=french-other-e-er-verbs}} ===
+&lt;div id='french-other-e-er-verbs'&gt;
+{| {{French/Translations table|audio=French/Grammar/-e…er verbs.ogg}}
+| peser || {{audio|Fr-peser.ogg|/pǝ.ze/}} || to weigh ||  || Je pèse 80 kilos. || I weigh 80 kilos.
+|-
+| mener || {{audio|Fr-mener.ogg|&lt;!-- IPA here--&gt;}} || to lead, to take charge ||  || Le bus va nous mener au château. || The bus will lead us to the castle.
+|-
+| emmener || {{audio|Fr-emmener.ogg|/ɑ̃məne/}} || to take off, take away or out ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| amener || {{audio|Fr-amener.ogg|&lt;!-- IPA here--&gt;}} || to bring {{French/Section|(a person)}} ||  || Elle m'a amené en voiture à la gare.  || She gave me a lift to the station.
+|-
+| ramener || {{audio|Fr-ramener.ogg|/ʁamne/}} || to take back, bring back, restore ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| lever || {{audio|Fr-lever.ogg|&lt;!-- IPA here--&gt;}} || to raise, to lift ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| soulever || {{audio|Fr-soulever.ogg|/sul(ə)ve/}} || to raise ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|}&lt;/div&gt; &lt;!-- /french-other-e-er-verbs --&gt;
+
+=== {{French/Section|Examples|supplementary-id=french-examples-with-e-er-verbs}} ===
+&lt;div id='french-examples-with-e-er-verbs'&gt;
+{{sectstub}}
+
+{| {{French/Translations table|audio=French/Grammar/Examples with -e…er verbs.ogg}}
+| Il faut peser les abricots. ||  || You must weigh the apricots.
+|-
+| Louis va mener ce cours. ||  || Louis will lead this lesson.
+|-
+| L'équipe bleue mène 2 à 0. ||  || The blue team is leading 2-0.
+|}&lt;/div&gt; &lt;!-- /french-examples-with-e-er-verbs --&gt;
+
+== {{French/Section|Dialogue|At the market|Au marché}} ==
+
+{{French/Dialogue list
+ | a = Marie {{French/Section|(la cliente)}}
+ | b = Clément {{French/Section|(le marchand)}}
+ | Bonjour monsieur. | good morning sir.
+ | Bonjour madame. | good morning
+[[File:Bellu une beast 2|50px|thumbnail|default|1]]
+ miss.
+ | Qu'est-ce que vous avez à vendre ? | What do you have to sell?
+ | J'ai un grand choix de fruits et légumes. | I have a large range of fruits and vegetables.
+ | Très bien. Est-ce que vous avez des cerises ? | Very well. Do you have cherries?
+ | Oui… elles coûtent deux euros le kilo. | Yes… they cost two euros per kilo.
+ | Bon, je voudrais trois kilos, s'il vous plaît. | Good, I would like three kilos, please.
+ | Très bien, madame. Alors, pour trois kilos il faut payer six euros, s'il vous plaît. | Very well, miss. Then, for three kilos you need to pay six euros, please.
+ | audio = French/Dialogue/At the market.ogg
+}}
+
+=== {{French/Section|Vocabulary}} ===
+
+{| {{French/Translations table}}
+| Qu'est-ce que vous avez... ? ||  || What do you have?
+|-
+| Un grand choix ||  || A large range
+|-
+| Des cerises ||  || Some cherries
+|-
+| Elles coûtent deux euros le kilo ||  || They {{French/Section|(feminine)}} cost two euros per kilo
+|-
+| Il faut ||  || It is necessary to, one must, you need to
+|-
+| vendre || {{audio|Fr-vendre.ogg|/vɑ̃dʁ(ə)/}} || to sell
+|-
+| payer || {{audio|Fr-payer.ogg|/pe.je/}} || to pay
+|}
+
+== {{French/Section|Vocabulary|Stores|Les magasins}} ==
+
+{| {{French/Translations table|audio=French/Vocabulary/Stores.ogg}}
+| le magasin || {{audio|Fr-magasin.ogg|/ma.ɡa.zɛ̃/}} || shop, store ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| le centre commercial ||  || mall, shopping centre ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| le grand magasin ||  || department store ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| le rayon || {{audio|Fr-rayon.ogg|/ʁɛ.jɔ̃/}} || department ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| la boutique || {{audio|Fr-boutique.ogg|/butik/}} || small store ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| la pharmacie || {{audio|Fr-pharmacie.ogg|/faʁ.ma.si/}} || pharmacy, chemist ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| le marché || {{audio|Fr-marché.ogg|/maʁ.ʃe/}} || outdoor market ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+! colspan=6 | Foods stores
+|-
+| le supermarché ||  || supermarket ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| l'hypermarché {{French/Section|(m)}} ||  || hypermarket, big supermarket ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| la boucherie || {{audio|Fr-boucherie.ogg}} || butcher shop &lt;sup&gt;1&lt;/sup&gt; ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| la boulangerie&lt;br /&gt;le dépôt de pain || {{audio|Fr-boulangerie.ogg|/bu.lɑ̃ʒ.ʁi/}} || bakery&lt;br /&gt;a place that sells bread &lt;sup&gt;2&lt;/sup&gt; ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| la charcuterie || {{audio|/ʃaʁkytəˈʁi/}} || delicatessen&lt;sup&gt;3&lt;/sup&gt; ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| la crémerie ||  || dairy store ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| la pâtisserie || {{audio|Fr-pâtisserie.ogg}} ||  pastry shop, pâtisserie ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| la poissonnerie || {{audio|/pwa.sɔn.ʁi/}} || seafood store, fishmonger ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| l'épicerie {{French/Section|(f)}} ||  || grocery&lt;sup&gt;4&lt;/sup&gt; ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|}
+
+# French butchers do not sell pork, pork products, nor horsemeat. For these products, go to a '''''charcuterie'''''. However, a lot of ''boucheries'' are also ''charcuteries'', and are called ''boucherie-charcuterie''
+# In France, bakeries only sell fresh bread; e.g. the bread is baked on site. Places where they sell bread that is not fresh are called '''''dépôt de pain'''''.
+# ''''''Charcuteries'''''' sell things besides pork products, including pâté, salami, cold meats, salads, quiches and pizzas.
+# An alternative to an ''''''épicerie'''''' is an '''''alimentation générale''''' (a general foodstore).
+
+== {{French/Section|Grammar|''-yer'' verbs}} ==
+''-yer'' verbs are irregular ''-er'' verbs. When ''y'' is part of the last syllable, it changes to ''i'' in order to keep the ''ay'' sound. In the present indicative of ''-yer'' verbs, this affects all forms except ''nous'' and ''vous''. Some ''-yer'' verbs, such as ''payer'', may optionally retain the ''y''.
+
+=== Formation ===
+In the present indicative, {{French/Word|payer|en=to pay}} is ''conjugated'' as follows:
+
+{| class=wikitable
+!'''payer {{fr/IPA|/pe.je/|audio=Fr-payer.ogg}} !! to pay'''
+|-
+|je paye {{French/Section|(ou paie)}} {{fr/IPA|/pɛj/|audio=Fr-paye.ogg}} || I pay
+|-
+|tu payes {{French/Section|(ou paies)}} {{fr/IPA|/pɛj/|audio=Fr-payes.ogg}} || you pay
+|-
+|il paye {{French/Section|(ou paie)}} {{fr/IPA|/pɛj/|audio=Fr-paye.ogg}} || he pays
+|-
+|nous payons {{fr/IPA|/pe.jɔ̃/|audio=Fr-payons.ogg}} || we pay
+|-
+|vous payez {{fr/IPA|/pe.je/|audio=Fr-payez.ogg}} || you pay
+|-
+|ils payent {{French/Section|(ou paient)}} {{fr/IPA|/pɛj/|audio=Fr-payent.ogg}} || they pay
+|-
+|payé {{fr/IPA|/pe.je/|audio=Fr-payé.ogg}} || paid
+|}
+
+=== {{French/Section|Vocabulary|Other ''-yer'' verbs|supplementary-id=french-other-yer-verbs}} ===
+&lt;div id='french-other-yer-verbs'&gt;
+{| {{French/Translations table|audio=French/Grammar/-yer verbs.ogg}}
+| appuyer || {{audio|Fr-appuyer.ogg|/a.pɥi.je/}} || to press, to push, to rest {{French/Section|(on)}} ||  || &lt;!-- sample French sentence here --&gt; || &lt;!-- English sentence --&gt;
+|-
+| employer || {{audio|Fr-employer.ogg|&lt;!-- IPA here--&gt;}} || to employ ||  || &lt;!-- sample French sentence here --&gt; || &lt;!-- English sentence --&gt;
+|-
+| ennuyer || {{audio|Fr-ennuyer.ogg}} || to bore ||  || &lt;!-- sample French sentence here --&gt; || &lt;!-- English sentence --&gt;
+|-
+| essayer de || {{audio|Fr-essayer.ogg|/e.se.je/}} || to try ||  || J'ai essayé d'apprendre les mots. || I tried to learn the words.
+|-
+| essuyer || {{audio|Fr-essuyer.ogg|[esɥi'je]}} || to wipe ||  || &lt;!-- sample French sentence here --&gt; || &lt;!-- English sentence --&gt;
+|-
+| nettoyer || {{audio|Fr-nettoyer.ogg|/ne.twa.je/}} || to clean ||  || &lt;!-- sample French sentence here --&gt; || &lt;!-- English sentence --&gt;
+|-
+| noyer || {{audio|Fr-noyer.ogg}} || to drown, to water down ||  || J'ai noyé mon chien dans le fleuve. || I drowned my dog in the river.
+|-
+| tutoyer || {{audio|Fr-tutoyer.ogg|/ty.twa.je/}} || to address using ''tu'' ||  || &lt;!-- sample French sentence here --&gt; || &lt;!-- English sentence --&gt;
+|}&lt;/div&gt; &lt;!-- /french-other-yer-verbs --&gt;
+
+=== {{French/Section|Examples|supplementary-id=french-examples-with-yer-verbs}} ===
+&lt;div id='french-examples-with-yer-verbs'&gt;
+{{sectstub}}
+
+{| {{French/Translations table|audio=French/Grammar/Examples with -yer verbs.ogg}}
+| Il va me payer 3 euros. ||  || He is going to pay me 3 euros.
+|-
+| Payez la cassière. ||  || Pay the cashier.
+|-
+| J'ai payé une amende. ||  || I paid a fine.
+|-
+| Il faut noyer le vin avec de l'eau. ||  || You must water down the wine.
+|}&lt;/div&gt; &lt;!-- /french-examples-with-yer-verbs --&gt;
+
+== {{French/Section|Grammar|Irregular past participles|&lt;!-- French here --&gt;}} ==
+Many of the verbs you have learned so far have irregular past participles.
+* ''avoir'': {{French/Word|eu|en=had|IPA=/y/}}
+* ''croire'': {{French/Word|cru|en=believed|IPA=/kʁy/|audio=Fr-cru.ogg}}
+* ''être'': {{French/Word|été|en=been|IPA=/e.te/|audio=Fr-été-fr CA.ogg}}
+* ''faire'': {{French/Word|fait|en=done|IPA=/fɛ/|audio=Fr-fait.ogg}}
+* ''prendre'': {{French/Word|pris|en=taken|IPA=/pʁi/|audio=Fr-Paris--pris.ogg}}
+* ''voir'': {{French/Word|vu|en=seen|IPA=/vy/}}
+
+=== Examples ===
+{{sectstub}} &lt;!-- sample sentences with the above past participles --&gt;
+
+{| {{French/Translations table|audio=French/Grammar/Examples with irregular past participles.ogg}}
+| J’ai vu ce film. ||  || I’ve seen this film.
+|-
+| Il a été blessé dans l'accident. ||  || He was injured in the accident.
+|-
+| Elle a fait du shopping ce matin. ||  || She went shopping this morning.
+|-
+| Ils ont pris une photo de la maison. ||  || They have taken a photo of the house.
+|}
+
+== {{French/Section|Vocabulary|Clothing|Les vêtements|supplementary-id=french-clothing}} ==
+&lt;div id='french-clothing'&gt;
+{| {{French/Translations table|audio=French/Vocabulary/Clothing.ogg}}
+! colspan=6 | les vêtements habillés {{French/Section|(dress clothes)}}
+|-
+| la chemise || {{audio|Fr-chemise.ogg|/ʃǝ.miz/}} || button down shirt ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| la cravate || {{audio|Fr-cravate.ogg|/kʁa.vat/}} || tie ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| le pantalon || {{audio|Fr-pantalon.ogg|/pɑ̃.ta.lɔ̃/}} || pants ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| le costume&lt;br /&gt;le complet || {{audio|Fr-costume.ogg}}&lt;br /&gt;{{audio|Fr-complet.ogg|/kɔ̃.plɛ/}} || suit ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| le manteau || {{audio|Fr-Manteau-fr-Paris.ogg|/mɑ̃to/}} || coat ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| le tailleur || {{audio|Fr-tailleur.ogg|/ta.jœʁ/}} || woman's suit ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| la robe || {{audio|Fr-robe.ogg|/ʁɔb/}} || dress ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| le chemisier ||  || blouse ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+| la jupe || {{audio|Fr-jupe.ogg|/ʒyp/}} || skirt ||  || &lt;!-- sample French sentence --&gt; || &lt;!-- English sentence --&gt;
+|-
+! colspan=6 | les vêtements sport {{French/Section|(casual clothes)}}
+|-
+| la casquette || {{audio|Fr-casquette.ogg|/kas.kɛt/}} || cap ||  || &lt;!-- sample French sentence here --&gt; || &lt;!-- English sentence here --&gt;
+|-
+| le tee-shirt || {{audio|Fr-tee-shirt.ogg}} || t-shirt ||  || &lt;!-- sample French sentence here --&gt; || &lt;!-- English sentence here --&gt;
+|-
+| le pull{{French/Section|(-over)}} || {{audio|Fr-pull.ogg|/pyl/}} || a pullover, a sweater ||  || Il fait froid; je vais mettre mon pull. || It's cold; I'm going to wear my sweater.
+|-
+| le sweat-shirt || {{audio|Fr-sweat-shirt.ogg}} || sweatshirt ||  || &lt;!-- sample French sentence here --&gt; || &lt;!-- English sentence here --&gt;
+|-
+| le blouson || {{audio|Fr-blouson.ogg}} || jacket ||  || &lt;!-- sample French sentence here --&gt; || &lt;!-- English sentence here --&gt;
+|-
+| le jean ||  || jeans ||  || &lt;!-- sample French sentence here --&gt; || &lt;!-- English sentence here --&gt;
+|-
+| les chaussettes&lt;br /&gt;les bas&lt;br /&gt;les bas-culottes&lt;br /&gt;les bas-culottes diaphanes || {{audio|Fr-chaussette.ogg|/ʃɔ.sɛt/}}&lt;br /&gt;{{audio|Fr-bas.ogg|/bɑ/}}&lt;br /&gt;&lt;br /&gt;  || socks&lt;br /&gt;stockings&lt;br /&gt;pantyhose&lt;br /&gt;sheer pantyhose ||  || &lt;!-- sample French sentence here --&gt; || &lt;!-- English sentence here --&gt;
+|-
+! colspan=6 | les chaussures
+|-
+| les chaussures || {{audio|Fr-chaussure.ogg|/ʃɔ.syʁ/}} || shoes ||  || &lt;!-- sample French sentence here --&gt; || &lt;!-- English sentence here --&gt;
+|-
+| la paire de chaussures ||  || pair of shoes ||  || &lt;!-- sample French sentence here --&gt; || &lt;!-- English sentence here --&gt;
+|-
+| les baskets || {{audio|/bas.kɛt/}} || basketball shoes, trainers ||  || &lt;!-- sample French sentence here --&gt; || &lt;!-- English sentence here --&gt;
+|-
+| les sandales || {{audio|Fr-sandale.ogg|/sɑ̃dal/}} || sandals ||  || &lt;!-- sample French sentence here --&gt; || &lt;!-- English sentence here --&gt;
+|}&lt;/div&gt; &lt;!-- /french-clothing --&gt;
+
+== {{French/Section|Text|&lt;!-- title here --&gt;}} ==
+{{sectstub}} &lt;!-- See [[French/Lessons/Science]] for an example --&gt;
+
+== {{French/Section|Exercises}} ==
+{{sectstub}} &lt;!-- See [[Template:French/Exercise]] for examples --&gt;
+&lt;noinclude&gt;{{French/Lessons/Level two|Culture|Going out}}&lt;/noinclude&gt;</text>
+      <sha1>ti97yvjqbh75cd0pa3nh3qtj1a03yfa</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Lessons/School</title>
+    <ns>0</ns>
+    <id>1553</id>
+    <revision>
+      <id>2690361</id>
+      <parentid>2587455</parentid>
+      <timestamp>2014-08-10T22:06:28Z</timestamp>
+      <contributor>
+        <username>Yoseph16</username>
+        <id>995363</id>
+      </contributor>
+      <text xml:space="preserve">&lt;noinclude&gt;{{French/Lessons/Level two/Header||L'école}}&lt;/noinclude&gt;
+== {{French/Section|Dialogue|&lt;!-- title here --&gt;}} ==
+{{sectstub}}
+
+== {{French/Section|Culture|Education in France}} ==
+{{sectstub}} &lt;!-- a one or paragraph introduction to the educational system in France, with emphasis on material useful for foreigners --&gt;
+
+== {{French/Section|Vocabulary|School and students}} ==
+
+{| {{French/Translations table|audio=French/Vocabulary/Schools and students.ogg}}
+| l'école {{French/Section|(f)}} || {{audio|Fr-école.ogg|/ekɔl/}} || school ||  ||  || 
+|-
+| l'élève {{French/Section|(m)}} || {{audio|Fr-élève.ogg|/e.lɛv/}} || pupil ||  ||  || 
+|-
+| l'étudiant {{French/Section|(m)}}&lt;br /&gt;l'étudiante {{French/Section|(f)}} || {{audio|Fr-étudiant.ogg|/etydjɑ̃/}}&lt;br /&gt;{{audio|Fr-étudiante.ogg|/etydjɑ̃t/}} || student ||  ||  || 
+|-
+| le collège {{French/Section|(classes 6-4)}} || {{audio|Fr-collège.ogg|/kɔ.lɛʒ/}} || jr. high school {{French/Section|(grades 6-9)}} ||  ||  || 
+|-
+| le collégien&lt;br /&gt;la collégienne || {{audio|/kɔ.le.ʒjɛ̃/}}&lt;br /&gt;{{audio|/kɔ.le.ʒjɛn/}} || jr. high school student ||  ||  || 
+|-
+| le lycée {{French/Section|(classes 3-terminale)}} || {{audio|Fr-lycée.ogg|/li.se/}} || high school {{French/Section|(grades 10-12)}} ||  ||  || 
+|-
+| le lycéen&lt;br /&gt;la lycéenne || {{audio|/li.se.ɛ̃/}}&lt;br /&gt;{{audio|/li.se.ɛn/}} || high school student ||  ||  || 
+|-
+| l'université {{French/Section|(f)}}&lt;br /&gt;la fac{{French/Section|(ulté)}} || {{audio|Fr-université.ogg|/y.ni.vɛʁ.si.te/}}&lt;br /&gt;{{audio|Fr-Paris--la fac.oga|/fak/}}&lt;br /&gt;{{audio|Fr-faculté.ogg|/fa.kyl.te/}} || university ||  ||  || 
+|-
+| l'enseignement supérieur ||  || higher education&lt;br /&gt;graduate school ||  ||  || 
+|}
+
+== {{French/Section|Grammar|Present perfect with regular verbs}} ==
+
+The {{French/Word|passé composé|en=present perfect}} is a compound tense, and is therefore composed of an auxiliary verb and a past participle. With most verbs, that auxiliary verb is ''avoir''. 
+
+=== Meaning ===
+In English, verbs conjugated in the ''passé composé'' literally mean ''have/has ____ed''. While there is a simple past tense in French, it is almost always only used in formal writing, so verbs conjugated in the ''passé composé'' can also be used to mean the English simple tense. 
+
+For example, the ''passé composé'' forms of {{French/Word|parler|en=to speak}}, ''[''avoir''] parlé'', literally mean ''has/have spoken'', but also means ''spoke''.
+
+=== Basic formation ===
+To conjugate a verb in the ''passé composé'', the helping verb, usually ''avoir'', is conjugated in the present indicative and the past participle is then added.
+
+==== Auxiliary verb - ''avoir'' ====
+Conjugate ''avoir'' in the present indicative.
+
+{| {{French/Table|columns=4}}
+! j'ai
+| I have
+! nous avons
+| we have
+|-
+! tu as
+| you have
+! vous avez
+| you have
+|-
+! il a
+| he has
+! ils ont
+| they have
+|-
+! elle a
+| she has
+! elles ont
+| they have
+|}
+
+==== Past participle ====
+* ''-er'' verbs: replace ''-er'' with ''é''
+* ''-ir'' verbs: replace ''-ir'' with ''i''
+* ''-re'' verbs: replace ''-re'' with ''u''
+* irregular verbs: varied; must be memorized
+
+{| {{French/Table||Formation of the past participle|columns=4}}
+! Verb Group||Infinitive||Stem||Past Participle
+|-
+! ''-er'' verbs
+| jou'''er'''||jou||jou'''é'''
+|-
+! ''-ir'' verbs
+| fin'''ir'''||fin||fin'''i'''
+|-
+! ''-re'' verbs
+| répond'''re'''||répond||répond'''u'''
+|}
+
+==== ''Avoir'' + past participle====
+{| {{French/Table|columns=4}}
+! J'ai joué
+| I have played
+! Nous avons joué
+| We have played
+|-
+! Tu as joué
+| You have played
+! Vous avez joué
+| You have played
+|-
+! Il a joué
+| He has played
+! Ils ont joué
+| They have played
+|-
+! Elle a joué
+| She has played
+! Elles ont joué
+| They have played
+|}
+
+Please also note:
+
+Fem. Subject or Person (Elles, Elle, Nous, On etc.)- Add another e with no aigu or grave to end of word- if a female person is partaking in the group.
+
+Plural Subject (On, Nous, Tu, Vous etc.)- Add another &quot;s&quot; to end of word.
+
+Finally, some verbs  are irregular for the past participle, such as aller (to go), instead of using avoir to form the past participle, they will use être (to be) to form the past participle.
+
+Always check the verb's irregularities before using to form past participle. Some &quot;past participle&quot; irregulars are regular verbs when forming other tenses.
+
+=== Examples ===
+{{sectstub}} &lt;!-- Example sentences with regular verbs --&gt;
+
+== {{French/Section|Vocabulary|At school|À l'école}} ==
+
+{| {{French/Translations table|audio=French/Vocabulary/School.ogg}}
+| le professeur{{ref|prof}}&lt;br /&gt;la prof || {{audio|Fr-professeur.ogg|/pʁɔ.fɛ.sœʁ/}}&lt;br /&gt;{{audio|/pʁɔf/}} || teacher, professor ||  ||  || 
+|-
+| la bourse || {{audio|Fr-bourse.ogg|/buʁs/}} || scholarship ||  ||  || 
+|-
+| le diplôme {{French/Section|(professionnel)}} || {{audio|Fr-diplôme.ogg|/di.plom/}} || diploma ||  ||  || 
+|-
+| le bac{{French/Section|(calauréat)}} || {{audio|Fr-bac.ogg|/bak/}}&lt;br /&gt;{{audio|Fr-baccalauréat.ogg|/bakalɔʀea/}} || high school exit exam ||  ||  || 
+|-
+| la bibliothèque || {{audio|Fr-bibliothèque.ogg|/bi.bli.jɔ.tɛk/}} || library ||  ||  || 
+|-
+| la note || {{audio|Fr-note.ogg|/nɔt/}} || grade, mark {{French/Section|(as on a test)}} ||  ||  || 
+|-
+| les cours || {{audio|Fr-cours.ogg|/kuʁ/}} || classes or courses ||  ||  || 
+|-
+| la classe || {{audio|Fr-classe.ogg|/klas/}} || grade (e.g. 6th Grade) ||  ||  || 
+|-
+| en cours de [...] ||  || in [...] class ||  ||  || 
+|-
+! colspan=6 | Pendant les cours
+|-
+| le tableau || {{audio|Fr-tableau.ogg|/ta.blɔ/}} || chalkboard ||  ||  || 
+|-
+| la craie || {{audio|Fr-craie.ogg|/kʁɛ/}} || chalk ||  ||  || 
+|-
+| le pupitre || {{audio|Fr-pupitre.ogg|/pypitʁ/}} || school desk ||  ||  || 
+|-
+| l'examen {{French/Section|(m)}} || {{audio|Fr-examen.ogg|/ɛɡzamɛ̃/|/eɡzamɛ̃/}} || exam, test ||  ||  || 
+|-
+| les devoirs || {{audio|/dǝ.vwaʁ/}} || homework ||  ||  || 
+|-
+| la classe || {{audio|Fr-classe.ogg|/klas/}} || class ||  ||  || 
+|-
+| la cantine || {{audio|/kɑ̃.tin/}} || cafeteria ||  ||  || 
+|-
+| la récréation&lt;br /&gt;la cour || {{audio|Fr-récréation.ogg|/ʁe.kʁe.a.sjɔ̃/}}&lt;br /&gt;{{audio|Fr-cour.ogg|/kuʁ/}} || recess&lt;br /&gt;courtyard ||  ||  || 
+|-
+! colspan=6 | Describing teachers and students
+|-
+| intelligent{{French/Section|(e)}} || {{audio|Fr-intelligent.ogg|/ɛ̃teliʒɑ̃/}}&lt;br /&gt;{{audio|/ɛ̃teliʒɑ̃t/}} || intelligent ||  ||  || 
+|-
+| strict{{French/Section|(e)}} || {{audio|Fr-strict.ogg|/stʁikt/}} || strict ||  ||  || 
+|}
+
+{{note|prof}} The word ''professeur'' is considered masculine at all times, even if the teacher is female. The only case when &quot;professeur&quot; can be preceded by feminine determinant is either when contracting it in colloquial language &quot;la prof&quot;, or when adding a few words before : &quot;madame/mademoiselle la/le professeur&quot;.
+
+== {{French/Section|Vocabulary|Actions}} ==
+
+{| {{French/Translations table|audio=French/Vocabulary/School-related actions.ogg}}
+| passer un examen ||  || to take a test ||  ||  || 
+|-
+| étudier || {{audio|Fr-étudier.ogg|/e.ty.dje/}} || to study ||  || Il étudie nuit et jour. || He studied night and day.
+|-
+| écrire || {{audio|Fr-écrire.ogg|/e.kʁiʁ/}} || to write ||  ||  || 
+|-
+| lever {{French/Section|(la main)}} ||  || to raise {{French/Section|(your hand)}} ||  ||  || 
+|-
+| poser {{French/Section|(une question)}} ||  || to ask {{French/Section|(a question)}} ||  ||  || 
+|-
+| répondre {{French/Section|(à)}} || {{audio|Fr-répondre.ogg|/re.pɔ̃dʁ/}} || to answer, to reply {{French/Section|(to)}} ||  || Il a répondu à toutes les questions. || He answered all of the questions.
+|-
+| parler || {{audio|Fr-parler.ogg|/paʁle/}} || to speak ||  || Ils ont parlé plusieurs heures avant d'aller se coucher. || They talked for several hours before bedtime.
+|-
+| écouter || {{audio|Fr-écouter.ogg|/ekute/}} || to listen (to) ||  || J’écoute la radio. || I listen to the radio.
+|-
+| entendre || {{audio|Fr-entendre.ogg|/ɑ̃.tɑ̃dʁ/}} || to hear (of) || Elle entend des voix. || She hears voices.
+|-
+| regarder || {{audio|Fr-regarder.ogg|/ʁǝ.ɡaʁ.de/}} || to watch ||  ||  || 
+|-
+| déjeuner || {{audio|Fr-déjeuner.ogg|/de.ʒœ.ne/}} || to {{French/Section|(eat)}} lunch ||  || Déjeunez- vous á onze heure? || You (formal) eat lunch at eleven O'clock?
+|}
+
+In French, you do not &quot;own&quot; body parts. While in English, you would say ''my hand'' or ''your hand'', the definite article is almost always used in French:
+: {{French/Word|la main|en=my hand}}
+: {{French/Word|la jambe|en=my leg}}
+: {{French/Word|le bras|en=my arm}}
+
+''To'' and ''of'' are part of the verbs ''écouter'' and ''entendre'' respectively. It is not necessary to add a preposition to the verb. Other verbs, such as ''répondre (à)'', meaning ''to respond (to)'', are almost always followed by a preposition.
+
+=== {{French/Section|Examples|supplementary-id=french-actions-examples}} ===
+&lt;div id='french-actions-examples'&gt;
+{| {{French/Translations table|audio=French/Vocabulary/Examples with school-related actions.ogg}}
+| C’est un auteur que j’ai peu étudié. ||  || He is an author that I have little studied.
+|-
+| On ne devient pas savant sans étudier. ||  || You do not become learned without studying.
+|-
+| Ce pianiste étudie plusieurs heures par jour. ||  || This pianist exercises several hours a day.
+|-
+| Il étudie l’écriture sainte. ||  || He studies scripture.
+|-
+| Elle parle couramment le français. ||  || She speaks French fluently.
+|-
+| Ne parlez pas si haut. ||  || Do not talk so loud.
+|-
+| Écoutez, j’ai quelque chose à vous dire. ||  || Listen, I have something to say to you.
+|-
+| J'ai entendu plusieurs fois ce chanteur à la Scala. ||  || I heard this singer several times at La Scala.
+|-
+| Tu dois répondre aux questions que je te pose. ||  || You must answer the questions I ask you.
+|-
+| Il répond à toutes les lettres qu’il reçoit. ||  || He responds to all the letters that he receives.
+|}&lt;/div&gt; &lt;!-- /french-actions-examples --&gt;
+
+=== {{French/Section|Usage notes|''Entendre''|supplementary-id=french-entendre-usage-notes}} ===
+{{sectstub}}&lt;div id='french-entendre-usage-notes'&gt;
+
+&lt;/div&gt;
+
+== {{French/Section|Grammar|To write and to read|Écrire et lire}} ==
+
+=== Écrire ===
+
+''Écrire'' is an irregular French verb, meaning ''to write''.  It varies from other ''-re'' verbs in the plural conjugation, by adding a ''v''. Its past particple, ''écrit'', is also irregular.
+
+{| class=wikitable
+!'''écrire {{fr/IPA|/e.kʁiʁ/|audio=Fr-écrire.ogg}} !! to write'''
+|-
+|j'écris {{fr/IPA|/e.kʁi/|audio=Fr-écris.ogg}} || I write
+|-
+|tu écris {{fr/IPA|/e.kʁi/|audio=Fr-écris.ogg}} || you write
+|-
+|il écrit {{fr/IPA|/e.kʁi/|audio=Fr-écrit.ogg}} || he writes
+|-
+|nous écrivons {{fr/IPA|/e.kʁi.vɔ̃/)}} || we write
+|-
+|vous écrivez {{fr/IPA|/e.kʁi.ve/}} || you write
+|-
+|ils écrivent {{fr/IPA|/e.kʁiv/}} || they write
+|-
+|écrit {{fr/IPA|/e.kʁi/|audio=Fr-écrit.ogg}} || written
+|}
+
+The verb {{French/Word|coécrire|en=to co-write|IPA=/ko.e.kʁiʁ/}} is conjugated the same way. The nouns {{French/Word|écriture|gender=f|IPA=/e.kʁi.tyʁ/|audio=Fr-écriture.ogg}}, meaning ''writing'' or ''handwriting'', and {{French/Word|écrivain|gender=m, f|IPA=/e.kʁi.vɛ̃/|audio=Fr-écrivain.ogg}}, meaning ''writer'', are derived from ''écrire''.
+
+=== Lire ===
+
+''Lire'' is an irregular French verb, meaning to read. It's plural conjugation adds an ''s'', and its past participle is ''lu''.
+
+{| class=wikitable
+!'''lire {{fr/IPA|/liʁ/|audio=Fr-lire.ogg}} !! to read'''
+|-
+|je lis {{fr/IPA|/'li/|audio=Fr-lis.ogg}} || I read
+|-
+|tu lis {{fr/IPA|/'li/|audio=Fr-lis.ogg}} || you read
+|-
+|il lit {{fr/IPA|/'li/|audio=Fr-lit.ogg}} || he reads
+|-
+|nous lisons {{fr/IPA|/li.zɔ̃/|audio=Fr-Paris--Lison.ogg)}} || we read
+|-
+|vous lisez {{fr/IPA|/li.ze/}} || you read
+|-
+|ils lisent {{fr/IPA|/liz/}} || they read
+|-
+|lu {{fr/IPA|/ly/}} || read
+|}
+
+The verbs {{French/Word|élire|IPA=/e.liʁ/|en=to elect}} and {{French/Word|relire|IPA=/ʁǝ.liʁ/|audio=Fr-relire.ogg|en=to reread}} are conjugated the same way. The adjective {{French/Word|lisible|IPA=/lizibl/}}, meaning ''readable'' or ''legible'', is derived from ''lire''.
+
+=== Examples ===
+{{sectstub}} &lt;!-- examples with écrire, coécrire, écriture, lire, élire, relire, and lisible --&gt;
+
+{| {{French/Translations table|audio=French/Grammar/Examples with écrire and lire.ogg}}
+| Mon père écrit des poèmes pour ma mère. ||  || My father writes poems for my mother.
+|-
+| As-tu écrit ce slogan sur le mur ? ||  || Have you written that slogan on the wall?
+|-
+| Il a une mauvaise écriture. ||  || He has bad handwriting.
+|-
+| Jean lit très souvent. ||  || John reads very often.
+|-
+| Il faut lire et relire les auteurs de l’antiquité. ||  || You must read and reread the authors of antiquity.
+|-
+| On a relu le projet de loi. ||  || We have reviewed the bill.
+|-
+| Sa écriture n’est pas belle, mais elle est lisible. ||  || His writing is not beautiful, but it is readable.
+|}
+
+== {{French/Section|Vocabulary|School supplies|Les fournitures scolaires|supplementary-id=school-supplies}} ==
+&lt;div id='school-supplies'&gt;
+{| {{French/Translations table|audio=French/Vocabulary/School supplies.ogg}}
+| la craie || {{audio|Fr-craie.ogg|approx=cray|/kʁɛ/}} || chalk ||  || J'ai écrit au tableau avec de la craie. || I wrote on the blackboard with chalk.
+|-
+| le tableau || {{audio|Fr-tableau.ogg|approx=tah-bloh|/ta.blɔ/}} || the board ||  ||  || 
+|-
+| le stylo {{French/Section|(stylo à bille)}} || {{audio|Fr-stylo.ogg|approx=steel-oh ah bee-y&lt;sup&gt;uh&lt;/sup&gt;|/stil.o/}} || {{French/Section|(ballpoint)}} pen ||  ||  || 
+|-
+| le crayon || {{audio|Fr-crayon.ogg|approx=kreh-y&lt;sup&gt;uh&lt;/sup&gt;oh&lt;sup&gt;(n)&lt;/sup&gt;|/kʀɛ.jɔ̃/}} || pencil ||  ||  || 
+|-
+| la calculatrice || {{audio|/kal.ky.la.tʁis/}} || calculator ||  ||  || 
+|-
+| le livre || {{audio|Fr-un livre-fr-ouest.ogg|approx=leevr|/livʁ/}} || book || {{French/Word|une livre|gender=f}} is ''a pound'' ||  || 
+|-
+| le bouquin || {{audio|Fr-bouquin.ogg|/bu.kɛ̃/}} || book || colloquial; also ''rabbit'' || J'ai commencé un nouveau bouquin hier. || I started a new book yesterday.
+|-
+| le cahier || {{audio|Fr-cahier.ogg|approx=kah-y&lt;sup&gt;uh&lt;/sup&gt;ay|/ka.je/}} || notebook ||  ||  || 
+|-
+| le papier&lt;br /&gt;la feuille de papier || {{audio|Fr-papier.ogg|approx=pah-py&lt;sup&gt;uh&lt;/sup&gt;ay|/pa.pje/}} || paper&lt;br /&gt;sheet of paper ||  ||  || 
+|-
+| le bloc-notes || {{audio|/blɔk.nɔt/|approx=blohk-noht}} || notepad ||  ||  || 
+|-
+| le sac à dos || {{audio|/sak.a.dɔ/|approx=sahk-ah-doh}} || backpack ||  ||  || 
+|-
+| la gomme || {{audio|Fr-gomme.ogg|approx=gum}} || eraser ||  ||  || 
+|-
+| la règle || {{audio|Fr-règle.ogg|approx=rehgl|/ʁɛɡl/}} || ruler ||  ||  || 
+|-
+| le feutre || {{audio|/føtʁ/|approx=fewtr}} || marker ||  ||  || 
+|-
+| le cartable ||  || backpack ||  ||  || 
+|}&lt;/div&gt; &lt;!-- /school-supplies --&gt;
+
+== {{French/Section|Vocabulary|School subjects|Les matières d'enseignement|supplementary-id=french-school-subjects}} ==
+&lt;div id='french-school-subjects'&gt;
+{| {{French/Translations table|audio=French/Vocabulary/School subjects.ogg}}
+| l'informatique {{French/Section|(f)}} || {{audio|/ɛ̃.fɔʁ.ma.tik/}} || computer science ||  ||  || 
+|-
+| la littérature || {{audio|Fr-littérature.ogg|/li.te.ʁa.tyʁ/}} || literature ||  ||  || 
+|-
+| la musique || {{audio|Fr-musique.ogg|/myzik/}} || music ||  ||  || 
+|-
+! colspan=6 | les langues
+|-
+| l'anglais || {{audio|Fr-anglais-fr.ogg|/ɑ̃.ɡlɛ/}} || English ||  ||  || 
+|-
+| le français || {{audio|Fr-le français-fr-ouest.ogg|/fʁɑ̃.sɛ/}} || French ||  || Il parle très bien français. || He speaks French very well.
+|-
+| l'espagnol {{French/Section|(m)}} || {{audio|Fr-espagnol.ogg|/ɛs.pa.ɲɔl/}} || Spanish ||  ||  || 
+|-
+| l'allemand {{French/Section|(m)}} || {{audio|fr-allemand-fr FR-Paris.ogg|/al.mɑ̃/}} || German ||  || L’allemand est une langue germanique.&lt;br /&gt;Mon stagiaire parle un allemand impeccable. || German is a Germanic language.&lt;br /&gt;My trainee speaks perfect German.
+|-
+| le russe || {{audio|Fr-russe.ogg|/ʁys/}} || Russian ||  ||  || 
+|-
+| l'italien {{French/Section|(m)}} || {{audio|Fr-italien.ogg|/i.ta.ljɛ̃/}} || Italian ||  ||  || 
+|-
+! colspan=6 | les sciences naturelles
+|-
+| la biologie || {{audio|Fr-biologie.ogg|/bjɔ.lo.ʒi/}} || biology ||  ||  || 
+|-
+| la chimie || {{audio|Fr-chimie.ogg|/ʃi.mi/}} || chemistry ||  ||  || 
+|-
+| la physique || {{audio|Fr-physique.ogg|/fi.zik/}} || physics ||  || Ses matières préférées sont la chimie et la physique. || His preferred subjects are chemistry and physics.
+|-
+! colspan=6 | les mathématiques
+|-
+| l'algèbre {{French/Section|(f)}} || {{audio|Fr-algèbre.ogg|/al.ʒɛbʁ/}} || algebra ||  ||  || 
+|-
+| le calcul || {{audio|Fr-calcul.ogg|/kal.kyl/}} || calculus ||  ||  || 
+|-
+| la géométrie || {{audio|Fr-géométrie.ogg|/ʒe.ɔ.me.tʁi/}} || geometry ||  ||  || 
+|-
+! colspan=6 | les sciences sociales
+|-
+| l'économie {{French/Section|(f)}} || {{audio|Fr-économie.ogg|/e.kɔ.nɔ.mi/}} || economics ||  ||  || 
+|-
+| la géographie || {{audio|Fr-géographie.ogg|/ʒe.ɔ.ɡʁa.fi/}} || geography ||  ||  || 
+|-
+| l'histoire {{French/Section|(f)}} || {{audio|Fr-histoire.ogg|/is.twaʁ/}} || history ||  ||  || 
+|}&lt;/div&gt; &lt;!-- /french-school-subjects --&gt;
+
+== {{French/Section|Vocabulary|Classes/grades|supplementary-id=french-classes}} ==
+&lt;div id='french-classes'&gt;
+The way that grades are numbered in France is opposite the way they are in the US. Whereas American grade numbers increase as you approach your senior year, they descend in France.
+
+{| {{French/Translations table|audio=French/Vocabulary/School grades.ogg}}
+| Classe Terminale ||  || 12th Grade
+|-
+| 1ère {{French/Section|(la première classe)}} ||  || 11th Grade
+|-
+| 2ème {{French/Section|(la deuxième classe)}} ||  || 10th Grade
+|-
+| 3ème {{French/Section|(la troisième classe)}} ||  || 9th Grade
+|-
+| 4ème {{French/Section|(la quatrième classe)}} ||  || 8th Grade
+|-
+| 5ème {{French/Section|(la cinquième classe)}} ||  || 7th Grade
+|-
+| 6ème {{French/Section|(la sixième classe)}} ||  || 6th Grade
+|-
+| CM2 {{French/Section|1=(CM = cours moyen)}} ||  || 5th Grade
+|-
+| CM1 ||  || 4th Grade
+|-
+| CE2 {{French/Section|1=(CE = cours élémentaire)}} ||  || 3rd Grade
+|-
+| CE1 ||  || 2nd Grade
+|-
+| CP1 {{French/Section|1=(CP = cours préparatoire)}} ||  || 1st Grade
+|}&lt;/div&gt; &lt;!-- /french-classes --&gt;
+
+== {{French/Section|Text|&lt;!-- title here --&gt;}} ==
+{{sectstub}}
+
+== {{French/Section|Exercises}} ==
+{{French/Exercise list
+ | title = Present perfect translation
+ | instructions = Translate each phrase.
+ | I finished. {{French/Section|(finir)}} | J&lt;nowiki&gt;'&lt;/nowiki&gt;'''ai fini.'''
+ | I have listened. {{French/Section|(écouter)}} | J&lt;nowiki&gt;'&lt;/nowiki&gt;'''ai écouté.'''
+ | We played. {{French/Section|(jouer)}} | Nous '''avons joué'''.
+ | Jacques has waited. {{French/Section|(attendre)}} | Jacques '''a attendu'''.
+ | We finished. {{French/Section|(finir)}} | Nous '''avons fini'''.
+ | He studied. {{French/Section|(étudier)}} | Il '''a étudié'''.
+ | They watched. {{French/Section|(regarder)}} | Ils '''ont regardé'''.
+ | We studied. {{French/Section|(étudier)}} | Nous '''avons étudié'''.
+ | They listened. {{French/Section|(écouter)}} | Ils '''ont écouté'''.
+}}
+
+{{French/Exercise list
+ | title = Present perfect
+ | instructions = Rewrite each phrase in the present perfect.
+ | Je regarde | J&lt;nowiki&gt;'&lt;/nowiki&gt;'''ai regardé'''
+ | Vous jouez | Vous '''avez joué'''
+ | Elle écoute | Elle '''a écouté'''
+ | Elles finissent | Elles '''ont fini'''
+ | Ils regardent | Ils '''ont regardé'''
+ | Nous entendons | Nous '''avons entendu'''
+ | Elle joue | Elle '''a joué'''
+ | Je finis | J&lt;nowiki&gt;'&lt;/nowiki&gt;'''ai fini'''
+}}
+{{sectstub}}
+&lt;noinclude&gt;{{French/Lessons/Level two||Culture}}&lt;/noinclude&gt;</text>
+      <sha1>phxjdv90vg2hej5yupl43wibv9hyxhh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/Number sequences</title>
+    <ns>1</ns>
+    <id>1554</id>
+    <revision>
+      <id>872736</id>
+      <parentid>360548</parentid>
+      <timestamp>2007-05-20T23:02:29Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles:Number sequences]] moved to [[Talk:Puzzles/Number sequences]]: NC</comment>
+      <text xml:space="preserve">All of these are labeled &quot;easy&quot;, but I suppose somebody has to write the answer.
+
+ 1 2 4 8 ?                  16        s(n) = 2^n
+ 1 2 4 7 ?                  11        s(n) = (n+1)(n+2)/2+1
+ 1 2 6 14 ?                 30        s(0) = 1, s(n) = s(n-1)+n^2
+                            33        Partitions of n objects of 2 colors.
+                                      (Euler transform of b(n) = n+1)
+ 3 2 4 1 ?                  5         s(2n+1) = 2-n, s(2n) = 3+n 
+ 3 2 4 1 ?                  repeat of last (error?)
+ 3 9 27 81 ?                243       s(n) = 3^(n+1)
+ 2 3 5 8 13 21 ?            34        s(-2) = 1, s(-1) = 1, s(n) = s(n-1)+s(n-2)
+                                      s(n) = Fib(n+3)
+ 1 0 1 0 1 0 1 1 0 1 0 1              s(n) = (n+1) mod 2
+             ^^^
+         guessing typo
+:No, this is no typo. Think again ! :-) 
+
+ 2 3 6 7 1 9 4 5 8                    ?????????? something mod 10???
+                                      must be missing something obvious
+
+looks like this is in reverse alphabetical order:
+two
+three
+six
+seven
+one
+nine
+four
+five
+eight
+[[User:ThomasStrohmann|Thomas]] 
+
+[[User:Eric119|Eric119]] 23:32, 12 Oct 2003 (UTC) (edited)
+
+I decided not to try this one... Think there's more than &lt;math&gt;\aleph_0&lt;/math&gt; possible solutions... [[User:Cyp|Cyp]] 14:23, 18 Oct 2003 (UTC)
+
+Hmmm, accidentally glanced at one for too long... Shouldn't 1 0 1 0 1 0 1 1 0 1 0 1 actually be 1 -2 1 0 1 0 1 1 0 1 0 1 most of the time, but occasionally 1 -1 1 0 1 0 1 1 0 1 0 1? [[User:Cyp|Cyp]] 14:45, 18 Oct 2003 (UTC)</text>
+      <sha1>t4rgcozia5iygf0w2783uf6b76f5ijh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:United States Government</title>
+    <ns>1</ns>
+    <id>1555</id>
+    <revision>
+      <id>2255335</id>
+      <parentid>356586</parentid>
+      <timestamp>2012-01-22T07:55:16Z</timestamp>
+      <contributor>
+        <username>Thereen</username>
+        <id>44896</id>
+      </contributor>
+      <comment>/* Merge Proposal */ new section</comment>
+      <text xml:space="preserve">Lord Emsworth, did you use AP guidelines for this book ? If so, we could use that to promote it in a tagline, &quot;written for AP history&quot; or something. --[[User:Karl Wick|Karl Wick]]
+:it has been a few years since i took ap us government in high school, but our class definately covered a good number of high profile supreme court cases (brown v. board of education, engel v. vitale, roe v. wade, etc) that aren't mentioned here. we also wrote essays about topics i've now forgotten. i'm not sure if the burden of explaining how to write the essays should fall to the textbook or to the instructor. perhaps if you're going for some kind of AP certification you could check out AP study guides from the public library or request old tests from the college board (my high school teachers did this). --[[User:Thepedestrian|Thepedestrian]] 21:59, 25 Apr 2004 (UTC)
+
+This needs to be moved to [[U.S. Constitution and Government]]. --[[User:Jiang|Jiang]] 04:12, 4 Dec 2003 (UTC)
+:Or simply [[United States Government]]. (The Constitution is included.) --[[User:Jiang|Jiang]] 04:03, 20 Jan 2004 (UTC)
+
+This should be called &quot;U.S. Federal Government.&quot; 
+- Maurreen, Oct 2004
+
+It's not abundently clear to me exactly what the intended idea behind this text was.  If it is an exposition on the federal system of government in the U.S., I don't quite understand the approach, which appears to focus on the Constitution and its provisions.  If it is intended as a Constitutional History or Constitutional Law text, then it needs to be approached not on a section by section basis, but through recognized themes, like Executive Powers or Federal v. States Rights. [[User:DSYoungEsq|DSYoungEsq]] 22:07, 30 January 2006 (UTC)
+
+Further on this subject:  Part II should be reworked.  If I understand the structure of the book, Part I is the history of why we have our current Constitution, Part II is an explanation of what the Constitution says, Part III is an analysis of how the federal government is set up under the constitution, and Part IV is intended to be a discussion of what issues have arisen under that structure as time has passed.  But Part II has things in it (the first two sections) that really belong in Part III, etc.  [[User:DSYoungEsq|DSYoungEsq]] 17:59, 6 February 2006 (UTC)
+
+== Merge Proposal ==
+
+I've proposed that [[American Government]] be merged into this wikibook. I'm certain the chapter on third party history can be integrated. --[[User:Thereen|Thereen]] ([[User talk:Thereen|discuss]] • [[Special:Contributions/Thereen|contribs]]) 07:55, 22 January 2012 (UTC)</text>
+      <sha1>tdwucrg39725whdlizjfduqnhj4nqfo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Grammar/Moods/Subjunctive</title>
+    <ns>0</ns>
+    <id>1557</id>
+    <revision>
+      <id>1979087</id>
+      <parentid>1922337</parentid>
+      <timestamp>2010-11-24T18:56:36Z</timestamp>
+      <contributor>
+        <username>Recent Runes</username>
+        <id>66908</id>
+      </contributor>
+      <comment>exclude header and footer from print versions</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{FrenchToC}}&lt;/noinclude&gt;
+
+== Usage of the Subjunctive Mood ==
+
+The subjunctive mood is used to express subjectivity, as opposed to objectivity.
+
+
+{| border=&quot;1&quot;
+|-
+!
+Use
+!
+Example
+!
+English
+|-
+|-
+|
+Wills, wishes, or advice
+|
+Il faut que nous parlions.
+|
+It is necessary that we speak.
+|-
+|
+Emotions regarding something
+|
+Nous sommes tristes que vous ne reussissiez &amp;agrave; l'examen.
+|
+We are sad that you did not pass the test.
+|-
+|
+Doubts, opinions, or probabilities
+|
+Il est impossible que je sois incorrect.
+|
+It is impossible that I am wrong.
+|-
+|
+Commands or wishes in the third person
+|
+Que Dieu nous b&amp;eacute;nisse.
+|
+May God bless us.
+|}
+
+The subjunctive usually appears with ''que'', which means ''that''.
+
+
+&lt;noinclude&gt;{{French Tenses}}&lt;/noinclude&gt;
+
+&lt;noinclude&gt;[[es:Francés/Gramática/El verbo/Modos/Le subjonctif]]&lt;/noinclude&gt;</text>
+      <sha1>gbgqgetfmw35t6va9h4eabjx6mu2znt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Grammar/Moods/Conditional</title>
+    <ns>0</ns>
+    <id>1559</id>
+    <revision>
+      <id>1979085</id>
+      <parentid>1647296</parentid>
+      <timestamp>2010-11-24T18:55:35Z</timestamp>
+      <contributor>
+        <username>Recent Runes</username>
+        <id>66908</id>
+      </contributor>
+      <comment>exclude header and footer from print versions</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{FrenchToC}}&lt;/noinclude&gt;
+
+== Usage of the Conditional Mood ==
+
+
+{| border=&quot;1&quot;
+|-
+!
+Use
+!
+Example
+!
+English
+|-
+|
+Events dependant on conditions
+|
+S'elle avait faim, elle mangerait.
+|
+If she were hungry, she would eat.
+|-
+|
+Polite use of ''vouloir''
+|
+Je voudrais aller au mus&amp;eacute;e.
+|
+I would like to go to the museum.
+|}
+
+&lt;noinclude&gt;{{French Tenses}}&lt;/noinclude&gt;
+
+&lt;noinclude&gt;[[es:Francés/Gramática/El verbo/Modos/Le conditionnel]]&lt;/noinclude&gt;</text>
+      <sha1>3st1rk89b1mrkkgl53vgxdhhdgga4co</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Grammar/Moods/Indicative</title>
+    <ns>0</ns>
+    <id>1561</id>
+    <revision>
+      <id>1979083</id>
+      <parentid>1647297</parentid>
+      <timestamp>2010-11-24T18:53:35Z</timestamp>
+      <contributor>
+        <username>Recent Runes</username>
+        <id>66908</id>
+      </contributor>
+      <comment>exclude header and footer from print versions</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{FrenchToC}}&lt;/noinclude&gt;
+
+
+{| border=&quot;1&quot;
+|-
+!
+Use
+!
+Example
+!
+English
+|-
+|
+Actions (see note)
+|
+Il fait du shopping.
+|
+He does the shopping.
+|}
+
+Note: The indicative indicates certainty about an action. The subjunctive indicates a doubt or subjectivity. The conditional indicates that an action will occur or occurred based on the fulfillment of certain conditions.
+
+&lt;noinclude&gt;{{French Tenses}}&lt;/noinclude&gt;
+
+[[es:Francés/Gramática/El verbo/Modos/L'indicatif]]</text>
+      <sha1>i817okyphxaxfhtbpyw3sdz42emumd5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Grammar/Tenses/Future</title>
+    <ns>0</ns>
+    <id>1562</id>
+    <revision>
+      <id>2672555</id>
+      <parentid>2672549</parentid>
+      <timestamp>2014-06-11T21:04:58Z</timestamp>
+      <contributor>
+        <username>JackPotte</username>
+        <id>99248</id>
+      </contributor>
+      <comment>Rejected the last text change (by [[Special:Contributions/69.157.3.25|69.157.3.25]]) and restored revision 2567567 by Glaisher</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{FrenchToC}}&lt;/noinclude&gt;
+
+== Usage of the Future ==
+
+One uses the future tense when referring to an action, certain to occur, in the future. In a time ahead of now.
+
+One may also use ''aller'' in the present tense in conjunction with ''aller'' or another verb in infinitive form, to refer to the future. However it is not the future tense. 
+
+For example, 
+
+''Il va aller à l'école'' 
+
+Or
+
+''Je vais dormir''
+
+Holds generally the same meaning as, 
+
+''Il ira à l'école''
+
+Or
+
+''Je dormirai''
+
+However, the former is not in the future tense.
+Also, the usage of &quot;aller&quot; generally signifies an action to occur in the very near future, where as future tense refers to any time in the future.
+
+== Formation of the Future ==
+
+=== Future Stems ===
+
+* For (regular and irregular) -er or -ir verbs, the infinitive is the future stem.
+* For (regular and irregular) -re verbs, the infinitive minus the final ''e'' is the future stem.
+* Exception: Verbs that are stem-changing in the present are stem-changing in the future also.
+* Exception: Certain irregular verbs have irregular future stems. (Not all irregular verbs have irregular future stems).
+
+'''Stem Changes'''
+
+{| border=&quot;1&quot;
+|-
+!
+Verb
+!
+Change From
+!
+Change To 
+|-
+|
+-ler verbs
+|
+ler
+|
+ller
+|-
+|
+-ter verbs
+|
+ter
+|
+tter
+|-
+|
+-yer verbs
+|
+yer
+|
+ier
+|-
+|
+verbs with an ''e'' in the penultimate syllable
+|
+e in penultimate syllable
+|
+&amp;egrave;
+|-
+|
+verbs with ''&amp;eacute;'' in the penultimate syllable
+|
+&amp;eacute; in penultimate syllable
+|
+&amp;egrave;
+|}
+
+==Exceptions to the Rule==
+
+{| border=&quot;1&quot;
+|-
+!
+verb
+!
+future stem
+|-
+|
+aller
+|
+ir-
+|-
+|
+avoir
+|
+aur-
+|-
+|
+devoir
+|
+devr-
+|-
+|
+envoyer
+|
+enverr-
+|-
+|
+&amp;ecirc;tre
+|
+ser-
+|-
+|
+faire
+|
+fer-
+|-
+|
+pleuvoir
+|
+pleuvr-
+|-
+|
+pouvoir
+|
+pourr-
+|-
+|
+savoir
+|
+saur-
+|-
+|
+venir
+|
+viendr-
+|-
+|
+voir
+|
+verr-
+|-
+|
+vouloir
+|
+voudr-
+|}
+
+=== Future Endings ===
+
+* To conjugate in the future, add the appropriate ending to the future stem.
+
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+je
+|
+-ai
+|-
+|
+tu
+|
+-as
+|-
+|
+il
+|
+-a
+|-
+|
+nous
+|
+-ons
+|-
+|
+vous
+|
+-ez
+|-
+|
+ils
+|
+-ont
+|}
+
+To conjugate a verb in the futur simple, one takes the infinitive and appends the following, as according to the table:
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#CCFFCC&quot;
+|-
+!
+Subject
+!
+Add Ending
+!
+Conjugated Verb
+|-
+|
+Je
+|
+-ai
+|
+réussirai
+|-
+|
+Tu
+|
+-as
+|
+réussiras
+|-
+|
+Il / Elle / On
+|
+-a
+|
+réussira
+|-
+|
+Nous
+|
+-ons
+|
+réussirons
+|-
+|
+Vous
+|
+-ez
+|
+réussirez
+|-
+|
+Ils / Elles
+|
+-ont
+|
+réussiront
+|}
+
+&lt;noinclude&gt;{{French Tenses}}&lt;/noinclude&gt;</text>
+      <sha1>t66hjttqmaqdyzl1lwy9sduqhdt5oct</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Grammar/Tenses/Present conditional</title>
+    <ns>0</ns>
+    <id>1563</id>
+    <revision>
+      <id>2645141</id>
+      <parentid>2395351</parentid>
+      <timestamp>2014-05-03T01:56:41Z</timestamp>
+      <contributor>
+        <ip>174.0.251.124</ip>
+      </contributor>
+      <comment>/* Usage of the Conditional (Present) */</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{FrenchToC}}&lt;/noinclude&gt;
+
+== Usage of the Conditional (Present) ==
+The conditional tense is used when:
+*a hypothetical situation is described.  In which case the structure &quot;Si + l'imparfait, le conditionnel&quot; is used.
+:e.g. If I saw (or If I were to see) her, I would not recognize her. - Si je la voyais, je ne la '''reconnaîtrais''' pas.
+*a polite request needs to be made:
+:e.g. I would like a small salad, please. - Je '''voudrais''' (or J''''aimerais''') une petite salade, s'il vous plaît.
+*an event that had not happened was described:
+:e.g. He said Marie would come. - Il a dit que Marie '''viendrait'''.
+
+== Formation of the Conditional ==
+
+=== Conditional Stems ===
+
+* For (regular and irregular) -er or -ir verbs, the infinitive is the conditional stem.
+* For (regular and irregular) -re verbs, the infinitive minus the final ''e'' is the conditional stem.
+* Exception: Verbs that are stem-changing in the present are stem-changing in the conditional also.
+* Exception: Certain irregular verbs have irregular conditional stems. (Not all irregular verbs have conditional stems).
+* '''Note''': In a word, the conditional stem is the same with the future one. 
+
+'''Stem Changes'''
+
+{| border=&quot;1&quot;
+|-
+!
+Verb
+!
+Change From
+!
+Change To 
+|-
+|
+-ler verbs
+|
+ler
+|
+ller
+|-
+|
+-ter verbs
+|
+ter
+|
+tter
+|-
+|
+-yer verbs
+|
+yer
+|
+ier
+|-
+|
+verbs with an ''e'' in the penultimate syllable
+|
+e in penultimate syllable
+|
+&amp;egrave;
+|-
+|
+verbs with ''&amp;eacute;'' in the penultimate syllable
+|
+&amp;eacute; in penultimate syllable
+|
+&amp;egrave;
+|}
+
+'''Irregular Stems'''
+
+{| border=&quot;1&quot;
+|-
+!
+verb
+!
+future stem
+|-
+|
+aller
+|
+ir-
+|-
+|
+avoir
+|
+aur-
+|-
+|
+devoir
+|
+devr-
+|-
+|
+envoyer
+|
+enverr-
+|-
+|
+être
+|
+ser-
+|-
+|
+faire
+|
+fer-
+|-
+|
+pleuvoir
+|
+pleuvr-
+|-
+|
+pouvoir
+|
+pourr-
+|-
+|
+savoir
+|
+saur-
+|-
+|
+venir
+|
+viendr-
+|-
+|
+voir
+|
+verr-
+|-
+|
+vouloir
+|
+voudr-
+|}
+
+=== Conditional Endings ===
+
+* To conjugate in the conditional, add the appropriate ending to the future stem.
+
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+je
+|
+-ais
+|-
+|
+tu
+|
+-ais
+|-
+|
+il
+|
+-ait
+|-
+|
+nous
+|
+-ions
+|-
+|
+vous
+|
+-iez
+|-
+|
+ils
+|
+-aient
+|}
+
+&lt;noinclude&gt;{{French Tenses}}&lt;/noinclude&gt;
+
+[[es:Francés/Gramática/El verbo/Tiempos/Le conditionnel présent]]</text>
+      <sha1>qodmfvg0d5g5mqveywv6bj2ddlj8eqn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

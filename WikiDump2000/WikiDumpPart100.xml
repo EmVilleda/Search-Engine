@@ -1,0 +1,1136 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Tcl Programming</title>
+    <ns>0</ns>
+    <id>4979</id>
+    <revision>
+      <id>2679201</id>
+      <parentid>2596822</parentid>
+      <timestamp>2014-07-06T22:25:20Z</timestamp>
+      <contributor>
+        <username>JackPotte</username>
+        <id>99248</id>
+      </contributor>
+      <text xml:space="preserve">[[File:Tcl.svg|50px|right|Tcl logo]]
+Tcl (Tool Command Language) is a dynamic programming/scripting language based on concepts of Lisp, C, and Unix shells. It can be used interactively, or by running scripts (programs) which can use a package system for structuring, hence allowing to do much with little code. Tcl is available for Linux, Windows, Mac OS X, as well as other platforms, as open-source software under BSD-like license, or as pre-built binaries.
+
+This book also discusses the GUI toolkit Tk in considerable extent, even though it's not in the title. For most users, Tcl/Tk form a single conceptual entity.
+
+==Chapters==
+{{Print version}}
+{{PDF version|TCLWikibook}}
+:[[/Introduction|Tcl: The Tool Command Language]]
+:[[/Functions|Commands and functions]]
+:[[/expr|expr: The arithmetic &amp; logic unit]]
+:[[/Internationalization|Tcl in internationalization]]
+:[[/regexp|Regular expressions]]
+:[[/Debugging|Interaction and debugging]]
+:[[/Working with files/]]
+:[[/Examples|Tcl examples]]
+:[[/Tk|Tk: The cross-platform GUI toolkit]]
+:[[/Tk examples|Tcl/Tk examples]]
+:[[/TCL and ADP/]]
+:[[/Appendix/]]
+
+{{Subjects|Scripting languages}}
+{{Alphabetical|T}}
+{{status|100%}}
+__NOEDITSECTION__
+
+[[fr:Programmation Tcl]]</text>
+      <sha1>18a4i9y4s7cpa69p4gd53bvfvxyiv2k</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Pork Stomach Filled with Meat and Vegetables (Saumagen)</title>
+    <ns>102</ns>
+    <id>4985</id>
+    <revision>
+      <id>2690119</id>
+      <parentid>1809027</parentid>
+      <timestamp>2014-08-09T14:46:31Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>Austncorp moved page [[Cookbook:Saumagen]] to [[Cookbook:Pork Stomach Filled with Meat and Vegetables (Saumagen)]]: Conformed to recipe naming conventions.</comment>
+      <text xml:space="preserve">{{recipe}}
+
+== Ingredients ==
+* 1 small pork stomach (order at your butcher)
+* 375 g fatless pork belly (German ''Schweinebauch'')
+* 375 g pork meat
+* 375 g ground meat (German ''Bratwurstfüllsel'')
+* 1-2 rolls (put in some milk)
+* 1 kg boiled [[Cookbook:Potato|potatoes]]
+* 2 [[Cookbook:Carrot|carrots]]
+* 3 [[Cookbook:Egg|eggs]]
+* 2 [[Cookbook:Onion|onions]]
+* 1 bunch of [[Cookbook:Parsley|parsley]]
+* 1-2 cloves of [[Cookbook:Garlic|garlic]]
+* [[Cookbook:Salt|salt]], 
+* [[Cookbook:Pepper|pepper]]
+* [[Cookbook:Marjoram|marjoram]]
+* [[Cookbook:Nutmeg|nutmeg]]
+
+==Procedure==
+#Soak the pork stomach overnight and use twine to close two of the three apertures. 
+#Cut the meat and potatoes into small cubes. 
+#Stew the onions, carrots, and parsley in butter. Squeeze the garlic. 
+#Mix everything with the rolls and eggs and spice it well; then put everything into the pork stomach and close the third aperture. 
+#Put the stomach in hot water and cook for 2-3 hours. The water '''must not boil!''' 
+#Cut the stomach in 2 cm thick slices and serve them with mashed potatoes and sauerkraut. Alternatively you can store the cooked stomach in the fridge and fry it when you are ready to eat it.
+
+[[Category:Pork recipes|Saumagen]]
+[[Category:German recipes|{{PAGENAME}}]]
+[[Category:Potato recipes|{{PAGENAME}}]]</text>
+      <sha1>7vb9pgncrpq45enduac78drzbh6c9e5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Pork Stomach Filled with Meat and Vegetables (Saumagen)</title>
+    <ns>103</ns>
+    <id>4986</id>
+    <revision>
+      <id>2690121</id>
+      <parentid>353129</parentid>
+      <timestamp>2014-08-09T14:46:32Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>Austncorp moved page [[Cookbook talk:Saumagen]] to [[Cookbook talk:Pork Stomach Filled with Meat and Vegetables (Saumagen)]]: Conformed to recipe naming conventions.</comment>
+      <text xml:space="preserve">Page history from [[en:Saumagen]]
+
+    * (cur) (last)  . . 10:57, 24 Feb 2004 . . Gentgeen (transwikiing recipe to wikibooks.)
+    * (cur) (last) . . 14:24, 29 Sep 2003 . . Jose Ramos (copyedit)
+    * (cur) (last) . . 18:12, 20 Jul 2003 . . Wik
+    * (cur) (last) . . M 23:40, 22 May 2003 . . Urbanus (corrected the passage about the intestine, apparently the stomach *is* used)
+    * (cur) (last) . . M 12:04, 22 May 2003 . . JohnOwens (de:, start the copyediting)
+    * (cur) (last) . . M 12:04, 22 May 2003 . . Urbanus (corrected the spelling of Mikhail Gorbachev)
+    * (cur) (last) . . M 12:01, 22 May 2003 . . Urbanus (please forgive my bad english ;-))
+
+----</text>
+      <sha1>pd6h2znq2dj1ddu5gqa3tststdtz035</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Rice with Lemon Coconut and Eggplant (Vangibhat)</title>
+    <ns>102</ns>
+    <id>4987</id>
+    <revision>
+      <id>2691936</id>
+      <parentid>2691934</parentid>
+      <timestamp>2014-08-16T13:53:05Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>Austncorp moved page [[Cookbook:Vangibhat]] to [[Cookbook:Rice with Lemon Coconut and Eggplant (Vangibhat)]]: This name is more descriptive of the actual recipe.</comment>
+      <text xml:space="preserve">{{recipe}} | [[Cookbook:Cuisine of India|Cuisine of India]]
+
+==Ingredients==
+*2 cups (480 ml) long-grain [[Cookbook:rice|rice]], cooked 
+*2-1/2 teaspoons [[Cookbook:salt|salt]]
+*1 medium eggplant, peeled and chopped into 1/2-inch (1cm) cubes 
+*vegetable oil 
+*2 Tablespoons whole coriander seeds 
+*2 teaspoons yellow split peas 
+*1/8 teaspoon [[Cookbook:Cayenne Pepper|cayenne pepper]] 
+*1 3/4-inch (4cm) stick of [[Cookbook:Cinnamon|cinnamon]] 
+*3 Tablespoons dried unsweetened [[Cookbook:Coconut|coconut]] 
+*2 Tablespoons [[Cookbook:Lemon Juice|lemon juice]] 
+*1/4 teaspoon [[Cookbook:Turmeric|turmeric]]
+
+==Procedure==
+This great Indian dish should be served at room temperature. 
+# Place the eggplant into a large bowl and sprinkle with 1 teaspoon salt. Mix well and allow to sit for half an hour, then rinse lightly and allow to drain. 
+# Heat 1 tablespoon of oil in a skillet over a medium flame. Add the coriander, seeds, split peas, cumin, and cinnamon. Stir well. When the spices have darkened, remove them and place on a plate lined with a paper towel. 
+# In the same pan, fry the coconut, stirring constantly. When it turns a golden-brown, remove and place on the paper towel. 
+# In another skillet, sauté the eggplant until it is cooked through. It should turn a bruised dark brown. Be careful not to add too much oil in the process. Remove, set aside, and keep warm. 
+# Put the dried spices into a mortar and grind into a fine powder. You'll find that a well-cleaned coffee grinder works well as a substitute. 
+# In a small pot, combine the lemon juice, 1/2 teaspoon salt, turmeric, and 2 tablespoons water. Bring to a boil. Lower the heat and allow to simmer for 3 minutes. 
+# In a skillet, add the cooked rice and the eggplant and saute with very little oil. Mix well. Allow the mixture to cool. Add 2 more tablespoons of vegetable oil; mix well. Add the coconut-spice mixture and the lemon mixture. Mix well and serve.
+
+[[Category:Indian recipes]]
+[[Category:Rice recipes]]
+[[Category:Eggplant recipes]]
+[[Category:Lemon recipes]]
+[[Category:Coconut recipes]]
+[[Category:Side dish recipes]]
+[[Category:Sautéed recipes]] 
+[[Category:Recipes with metric units]]
+[[Category:Vegan recipes]]</text>
+      <sha1>cpe8dqdzoken6qrstbdzbrei60kl9af</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Chickpea Curry (Masaledaar chole)</title>
+    <ns>103</ns>
+    <id>4988</id>
+    <revision>
+      <id>2687631</id>
+      <parentid>353860</parentid>
+      <timestamp>2014-08-02T00:04:41Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>Austncorp moved page [[Cookbook talk:Masaledaar chole]] to [[Cookbook talk:Chickpea Curry (Masaledaar chole)]]: Conformed to recipe naming conventions.</comment>
+      <text xml:space="preserve">Page history from [[en:Masaledaar chole]]
+
+    * (cur) (last)  . . 06:18, 5 Aug 2003 . . 67.85.205.230
+    * (cur) (last) . . 06:17, 5 Aug 2003 . . 67.85.205.230
+    * (cur) (last) . . 06:17, 5 Aug 2003 . . 67.85.205.230
+    * (cur) (last) . . M 07:51, 25 Feb 2002 . . Conversion script (Automated conversion)
+    * (cur) (last) . . 03:56, 18 Dec 2001 . . 193.120.205.xxx
+    * (cur) (last) . . 03:55, 18 Dec 2001 . . 193.120.205.xxx
+
+----</text>
+      <sha1>eidg2e6v1rj26n3slv0m66cbytfwg2j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Chickpea Curry (Masaledaar chole)</title>
+    <ns>102</ns>
+    <id>4989</id>
+    <revision>
+      <id>2687629</id>
+      <parentid>1254534</parentid>
+      <timestamp>2014-08-02T00:04:40Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>Austncorp moved page [[Cookbook:Masaledaar chole]] to [[Cookbook:Chickpea Curry (Masaledaar chole)]]: Conformed to recipe naming conventions.</comment>
+      <text xml:space="preserve">{{recipe}} | [[Cookbook:Cuisine of India|Indian cuisine]]
+
+'''Masaladaar Chole''' (Chickpeas in spicy gravy)
+
+''See also: [[Cookbook:Cholley|Cholley]]''
+
+==Ingredients==
+*1 [[Cookbook:Cup|cup]] [[Cookbook:Chickpea|chickpeas]]
+*2 [[Cookbook:Tablespoon|tbsp]] cooking [[Cookbook:Oil|oil]]
+*1 [[Cookbook:Onion|onion]] (finely chopped)
+*1 [[Cookbook:Tomato|tomato]] (medium chopped)
+*1 [[Cookbook:Teaspoon|teaspoon]] [[Cookbook:Chili Powder|chilli powder]]
+*1.5 teaspoon Madras [[Cookbook:Curry Powder|curry powder]]
+*0.25 teaspoon [[Cookbook:Garam Masala|garam masala]]
+*0.25 teaspoon [[Cookbook:Turmeric|turmeric]] powder
+*1 teaspoon [[Cookbook:Garlic|garlic]] paste
+*1 teaspoon [[Cookbook:Ginger|ginger]] paste
+*[[Cookbook:Salt|Salt]] to taste
+*[[Cookbook:Cilantro|Cilantro]], for garnishing
+
+==Procedure==
+# Soak the chickpeas overnight in water.
+# [[Cookbook:Pressure Cooking|Pressure cook]] the chickpeas till its boiled (3 whistles). 
+# In a cooking vessel pour the cooking oil and heat it.
+# Add the onions and [[Cookbook:Sautéing|sauté]] till its golden brown.
+# Add the turmeric powder, chilli powder, garam masala and Madras curry powder.
+# After this add the tomatoes, ginger and garlic paste and stir for approx 1 min.
+# Now add the boiled chickpeas and some water.
+# Add salt to taste. Cook for approx 10 minutes on a medium flame.
+# Garnish with cilantro and serve with chapattis or paratha.
+
+[[Category:Curry recipes|{{PAGENAME}}]]
+[[Category:Chickpea recipes|{{PAGENAME}}]]
+[[Category:Indian recipes|{{PAGENAME}}]]
+[[Category:Vegan recipes|{{PAGENAME}}]]
+[[Category:Stew recipes|{{PAGENAME}}]]
+[[Category:Gluten-free recipes|{{PAGENAME}}]]
+[[Category:Low-GI recipes|{{PAGENAME}}]]</text>
+      <sha1>sgghle5hu5gezzv77hpmfu29fzj2l6r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Bengal Potatoes</title>
+    <ns>103</ns>
+    <id>4990</id>
+    <revision>
+      <id>353408</id>
+      <parentid>156647</parentid>
+      <timestamp>2006-02-03T03:32:59Z</timestamp>
+      <contributor>
+        <username>Uncle G's major work 'bot</username>
+        <id>10904</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Cookbook:Bengal Potatoes]] moved to [[Cookbook talk:Bengal Potatoes]]: COOKBOT: Renaming talk page to Cookbook talk namespace</comment>
+      <text xml:space="preserve">page history form [[en:Bengal Potatoes]]
+
+    * (cur) (last)  . . M 09:44, 14 Dec 2003 . . Jimfbleak (tweaked a bit)
+    * (cur) (last) . . M 03:39, 11 Jul 2003 . . ²¹²
+    * (cur) (last) . . M 03:37, 11 Jul 2003 . . Jimfbleak (context)
+    * (cur) (last) . . 03:31, 11 Jul 2003 . . Claypipe (Here is the recipe)
+
+----</text>
+      <sha1>6ypcqbxb41zgslu1jrkdx9u1fn5tuc4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Bengal Potatoes</title>
+    <ns>102</ns>
+    <id>4991</id>
+    <revision>
+      <id>2679638</id>
+      <parentid>2468267</parentid>
+      <timestamp>2014-07-08T14:52:17Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>/* Procedure */ Changed 'Side Dish' to 'Side dish' cat per the renaming of that cat.</comment>
+      <text xml:space="preserve">{{recipesummary|Side Dish recipes|4-6|30-60 minutes|2}}
+
+{{recipe}} | [[Cookbook:Vegetarian cuisine|Vegetarian cuisine]] | [[Cookbook:Cuisine of India|Cuisine of India]] | [[Cookbook:Side dishes|Side dishes]]
+
+'''Bengal Potatoes''' is an Indian side dish.
+
+==Ingredients==
+*[[Cookbook:Potato|Potatoes]] - approximately 2 [[Cookbook:Pound|lbs]] (900g)
+*2 [[Cookbook:Teaspoon|teaspoons]] [[Cookbook:Panch Puran|panch puran]]
+*Ground [[Cookbook:Turmeric|turmeric]]
+*[[Cookbook:Chili Powder|chili powder]] (preferably not too hot.  I use Kashmiri chili )
+*[[Cookbook:Oil|oil]] or, preferably, [[Cookbook:Ghee|ghee]]
+
+==Procedure==
+#Put a little oil or ghee into a large heavy-bottomed pan with a good lid and put it onto a medium heat.
+#Add panch puran, and let them cook gently until the seeds start to pop.
+#Wash but do not peel the potatoes and cut into large bite sized chunks. Add to pan, stirring so that the seeds coat the potatoes evenly.
+#Add a little ground turmeric, enough to just color the cut surfaces of all the pieces.
+#Add a little chili powder.  The quantity varies depending on your palate, and the strength of the chili.   
+#Stir well to distribute the spices.
+#Do ''one'' of the following:
+:*Put on the lid, turn down the heat, and allow the potatoes to cook in their own steam until cooked through.  A little extra water can be added if necessary, but as little as possible should be used.  The potatoes should not boil. 
+:*Put the spiced potatoes on a tray in a hot oven until cooked through.
+
+Serve as a snack food with drinks, or as part of an Indian meal.
+
+[[Category:Potato recipes|{{PAGENAME}}]]
+[[Category:Indian recipes|{{PAGENAME}}]]
+[[Category:Vegetarian recipes|{{PAGENAME}}]]
+[[Category:Side dish recipes|{{PAGENAME}}]]
+[[category:Gluten-free recipes|{{PAGENAME}}]]
+[[Category:Recipes with metric units|{{PAGENAME}}]]</text>
+      <sha1>qfgps5mwvk8m3xiegz26d7qvfcsgbgv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Baked Lamb and Yogurt</title>
+    <ns>102</ns>
+    <id>4992</id>
+    <revision>
+      <id>2679994</id>
+      <parentid>1804792</parentid>
+      <timestamp>2014-07-09T20:27:44Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>Added main course, metric cats. Added some metric units. Reduced difficulty level after review of the recipe.</comment>
+      <text xml:space="preserve">{{recipesummary|Albanian recipes|4|2 hours|3}}
+
+{{recipe}} | [[Cookbook:Cuisine of Albania|Cuisine of Albania]] | [[Cookbook:Lamb|Lamb]]
+
+'''Baked lamb and yogurt''', '''Tavë Kosi''', is an Albanian recipe.
+
+==Ingredients==
+*1½ lbs (680 g) [[Cookbook:Lamb|lamb]]
+*4 tablespoons [[Cookbook:Butter|butter]] (½ stick)
+*2 tablespoons [[Cookbook:Rice|rice]]
+*[[Cookbook:Salt|salt]], [[Cookbook:Pepper|pepper]]
+
+;For yogurt sauce:
+*1 tablespoon [[Cookbook:Flour|flour]]
+*4 tablespoons butter (½ stick)
+*2 lbs (900 g) [[Cookbook:Yogurt|yogurt]]
+*5 [[Cookbook:Egg|eggs]]
+*salt, pepper
+
+==Procedure==
+Cut meat in 4 serving pieces, sprinkle each piece with salt and pepper, and [[Cookbook:Baking|bake]] in a moderately-heated oven with half the butter, basting the meat with its gravy now and then. When meat is half-baked, add rice. Remove the baking pan from the oven and leave it aside while you prepare the yogurt sauce.
+
+[[Cookbook:Sautéing|Sauté]] flour in butter until mixed thoroughly. Mix yogurt with salt, pepper and eggs until a uniform mixture is obtained, and finally stir in the flour-butter mix. Put the sauce mixture in the baking pan; stir it with the meat pieces and bake at 375°F (190°C) for about 45 minutes. Serve hot.
+
+Serves 4.
+
+==References==
+''This article contains information from [http://www.frosina.org Frosina.org] and it is used with [[w:en:User:Dori/www.frosina.org permission|permission]].''
+
+[[Category:Albanian recipes|{{PAGENAME}}]]
+[[Category:Lamb recipes|{{PAGENAME}}]]
+[[Category:Yogurt recipes|{{PAGENAME}}]]
+[[Category:Baked recipes|{{PAGENAME}}]]
+[[Category:Main course recipes]]
+[[Category:Recipes with metric units]]</text>
+      <sha1>4hqitufkp8yxgolnu7qqs3kb9lsrv5i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Davodd</title>
+    <ns>3</ns>
+    <id>4993</id>
+    <revision>
+      <id>156650</id>
+      <parentid>69977</parentid>
+      <timestamp>2004-11-21T23:27:56Z</timestamp>
+      <contributor>
+        <ip>172.196.152.134</ip>
+      </contributor>
+      <comment>/* Paleoanthropology */</comment>
+      <text xml:space="preserve">Welcome to wikibooks, from a fellow Silicon Valleyite.  As I sit here in West San Jose I can't help to think it's good to see someone from Mountain View over here.  Thanks for the help moving recipes from en: over here.  I know the process is time consuming, so I'm happy to have some help.  If you have any problems, or any questions, or someone starts jumping down your throat because theire favorite cookie recipe is gone, let me know either here or at [[en:User:Gentgeen]].
+
+Again, welcome. [[User:Gentgeen|Gentgeen]] 20:27, 24 Feb 2004 (UTC)
+
+
+
+Hello there, I thin it's great that you are stasting a book on this subject.  Now, If I may, I would like to make some recomendations, etc. Note that i'm no expert on the are, but an avid reader of anything and everything.  My recomendations might be usefull or they might just be unnecesarry that's for you to decide. 
+
+First, I think that if you are starting by defining Paleoanthropology, you should at least give an intuitive o very simple definition of what it is as your begining sentence.  The same should be sayed about your chapter on anthropology.  You also have many typos (which I propably have too... hehe).
+
+I didn't know if i shoudl take the liberty of changing some of the things, or letting you know so that you could make those changes you thought appropiate, as the father of this creature.
+
+If you would like me to keep reading and make other comments, let me know please.
+
+Take Care, and good luck with this amazing adventure.
+
+[[User:Cjrs 79|Cjrs 79]] 05:07, 18 Sep 2004 (UTC)
+
+== Paleoanthropology ==
+
+Thank you so much for this! It's a great idea for a book, and one that I look forwarding to reading. I've already started doing some editorial proofreading on the earlier chapters, and have left a few comments in Talk for specific sections.--[[User:Bedawyn|Bedawyn]] 02:50, 2 Oct 2004 (UTC)
+
+Just wanted to stand in awe for a moment at your perseverance. It looks like you've been doing a ton of work on this, and I'm tired already just after looking at the first four chapters. It exhausts me just thinking about all the typing and/or scanning you must have done to get these notes into something usable. *boggles*  --[[User:Bedawyn|Bedawyn]] 04:24, 3 Oct 2004 (UTC)
+
+Hey, thanks a lot for the hard work you put into this book. I read through the entire thing ... and the recomended sections as well, as I am begining to develop an interest in mammalian paleontology. The only complain I can lodge is just that it was too short! It is easy to find bits and pieces on the internet, mostly from a certain point of view, but one that puts it all into context like this book does is very nice to read. I hope you will expand your book!</text>
+      <sha1>bt29r61ugaf94h7d91ujt4pgm7j4a1r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:How to Cook Pasta</title>
+    <ns>103</ns>
+    <id>4995</id>
+    <revision>
+      <id>2686727</id>
+      <parentid>1090185</parentid>
+      <timestamp>2014-07-31T19:58:09Z</timestamp>
+      <contributor>
+        <username>Koavf</username>
+        <id>16549</id>
+      </contributor>
+      <minor />
+      <comment>Koavf moved page [[Cookbook talk:How to cook pasta]] to [[Cookbook talk:How to Cook Pasta]]</comment>
+      <text xml:space="preserve">Page history from [[en:How to cook pasta]]
+
+    * (cur) (last)  . . 13:27, 24 Feb 2004 . . Eclecticology (revert; there is no justification for suddenly deleting this page when it has been here for two years.)
+    * (cur) (last) . . 16:24, 23 Feb 2004 . . Davodd (&amp;lt;vfd&amp;gt;)
+    * (cur) (last) . . 23:06, 21 Oct 2003 . . Dgrant (changed basil link)
+    * (cur) (last) . . 23:04, 21 Oct 2003 . . Dgrant (changed basil link)
+    * (cur) (last) . . M 09:08, 2 Mar 2003 . . Docu (Upd. Links)
+    * (cur) (last) . . M 16:54, 3 Nov 2002 . . Antone
+    * (cur) (last) . . 10:49, 29 Aug 2002 . . Zadcat (fresh pasta remarks)
+    * (cur) (last) . . M 07:51, 25 Feb 2002 . . Timo Honkasalo (moved the talk to Talk)
+    * (cur) (last) . . M 18:52, 5 Feb 2002 . . WojPob
+    * (cur) (last) . . M 18:42, 5 Feb 2002 . . WojPob
+    * (cur) (last) . . M 18:41, 5 Feb 2002 . . 203.10.76.xxx
+    * (cur) (last) . . M 18:02, 5 Feb 2002 . . 151.24.146.xxx
+    * (cur) (last) . . 19:25, 28 Jan 2002 . . Dreamyshade
+    * (cur) (last) . . 10:17, 28 Jan 2002 . . 63.192.137.xxx
+    * (cur) (last) . . M 10:08, 28 Jan 2002 . . Dreamyshade (moving reworded content)
+
+Copied discussion from [[en:Talk:How to cook pasta]]
+&lt;i&gt;
+Questions for the Italian cooks: When I cook pasta, I always rinse the pasta with cold water after straining it.  The purpose is to stop the heat so that I can ensure the pasta would not continue to cook itself after removing from the fire.  The outcome is a more predictable consistency each time.  The cold pasta is heated up again just before serving.  Is such practice common in Italian cooking?  It is for Chinese.  Since Chinese and Italian cuisine are both famous for their endless choices of pasta, they both should have their tips and tricks passed down through generations.
+&lt;/i&gt;
+
+:I rinse pasta after it's done cooking too, but I always thought it was to rinse off the extra oil and salt.  My family is Italian in a way (my step-great-grandfather was Italian). I think it's probably a custom that was originated by both cultures. [[user:Dreamyshade|Dreamyshade]]
+
+:Yes, cold water stops cooking, so pasta would not loose any more consistency. But this has to be a very quick operation, or you will eat a cold pasta, and cold pasta is not able to capture sauce (so you practically would eat pasta and sauce separately). Because of this, this operation might be useful if you have to put hot sauces on it; otherwise it is better to have pasta served within 3-4 minutes, or if you need more time to serve it, boiling one minute less than suggested (see box).
+
+:[[User:Paolor|Paolor]] ([[User talk:Paolor|talk]]) 00:08, 21 January 2008 (UTC) '''This is absolutely not common in Italian cooking!'''  The only case where you would rinse the pasta in cold water is if to make a cold pasta salad.  Rinsing not only would cool off the pasta, it would also wash away the starch and the sauce won't stick to the pasta anymore.
+
+----
+''end of copied discussion''
+
+I don't really think this is a recipe, but is a technique.  Perhaps it should be moved to [[Cookbook:Cooking Pasta]] and than find a place for other techniques in the cookbook.  [[User:Gentgeen|Gentgeen]] 21:32, 24 Feb 2004 (UTC)
+
+PS:I got the page history and talk page from en:
+
+==cookwork==
+This should be taken out of recipes and integrated into some sort of default &quot;Pasta&quot; page, say [[Cookbook:Pasta]]. [[User:Kellen|Kellen]] 23:12, 27 July 2005 (UTC)
+:[[Cookbook:Boiled pasta]]? [[User:Pfctdayelise|pfctdayelise]] 13:34, 25 April 2006 (UTC)</text>
+      <sha1>7m92a4nby2zrhqoxlk76app8vvilvxx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Aubergine</title>
+    <ns>102</ns>
+    <id>4997</id>
+    <redirect title="Cookbook:Eggplant" />
+    <revision>
+      <id>156653</id>
+      <parentid>18802</parentid>
+      <timestamp>2004-03-09T00:51:26Z</timestamp>
+      <contributor>
+        <username>WormRunner</username>
+        <id>569</id>
+      </contributor>
+      <minor />
+      <comment>fix double redirect</comment>
+      <text xml:space="preserve">#REDIRECT [[Cookbook:Eggplant]]</text>
+      <sha1>q747d07367qbeal4bht4f00ifcu54sv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Eggplant</title>
+    <ns>102</ns>
+    <id>4998</id>
+    <revision>
+      <id>2539751</id>
+      <parentid>2539670</parentid>
+      <timestamp>2013-06-27T14:13:45Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <comment>external links aren't necessary as this is a self contained book</comment>
+      <text xml:space="preserve">[[Image:Aubergine.jpg|thumb|right|An eggplant]]
+{{vegetable}}
+
+'''Eggplant''' (also known as '''aubergine''') is a shiny bulbous vegetable in the nightshade family that comes in green, white, or, more commonly, purple. The eggplant itself is actually a berry, and its edible watertight skin and disc-like seeds show clearly its similarity to peppers and tomatoes. Unlike its cousins, however, the eggplant has a firm, dense flesh that is too bitter to eat raw.  Eggplants range in size from large purple gourds bigger than a person's hand to tiny marble-sized green Asian eggplants. The smaller varieties are said to be less bitter and to need less preparation. Many people find eggplant to be an acquired taste.  Its versatility leads to eggplant dishes in many different cuisines, from [[Cookbook:Cuisine of Japan|Japan]] to [[Cookbook:Cuisine of India|India]] to [[Cookbook:Cuisine of Italy|Italy]].
+
+Eggplant can be a very bitter vegetable, requiring special preparation to minimise this bitterness (see the section on preparation below). Some modern varieties of eggplant are bred to be free from bitterness, and can be cooked without the preparatory methods. Experimentation may be needed to balance any bitterness with sweeter flavours within the same dish or meal; this is why eggplants and tomatoes work so well together.
+
+==Preparation==
+
+The usual preparation method for reducing the bitter taste of eggplant involves slicing, washing and then rubbing the vegetable with salt. The salt pulls out the bitter juices via osmosis, so when preparing it is often best to put the slices of eggplant on a rack over a sink or on paper towels. Wash the salt off after at least thirty minutes, dry thoroughly and cook the eggplant as desired; keep in mind that often a small amount of salt remains in the flesh, so the amount of salt added during cooking may be less than you might think. When the eggplant has been &quot;purged&quot; in this manner, the flesh becomes much more absorbent and flexible, like a sponge, and is excellent at absorbing other liquids and flavors. Be aware that the eggplant can absorb more oil than any other vegetable. Another cleaning method is to simply soak the pieces in clean cold water or milk for thirty minutes.
+
+Once prepared, eggplant may be stuffed, [[Cookbook:Grilling|grilled]], [[Cookbook:Frying|fried]], [[Cookbook:Baking|baked]], or [[Cookbook:Stir-frying|stir-fried]]. It is an essential ingredient in several savoury dishes, most notably the Greek [[Cookbook:Moussaka|moussaka]].
+
+==Seasonality==
+{{Seasonality|Eggplant|2|2|2|2|2|2|2|2|3|3|3|2}}
+
+In tropical climates, eggplants are grown all year round, with a peak season in the fall. In colder regions, they can only be grown in greenhouses or imported. 
+
+==Eggplant Recipes==
+* [[Cookbook:Baba ganoush|Baba ganoush]]
+* [[Cookbook:Eggplant and Chickpea Skillet|Eggplant and Chickpea Skillet]]
+* [[Cookbook:Grilled Aubergine|Grilled Aubergine]]
+* [[Cookbook:Melanzane Parmigiana|Melanzane parmigiana]]
+* [[Cookbook:Ratatouille|Ratatouille]]
+* [[Cookbook:Undhiyu|Undhiyu]]
+
+
+{{wikipedia|Eggplant}}
+
+[[Category:Basic Foodstuffs|Eggplant]]
+[[Category:Featured ingredients|{{PAGENAME}}]]
+[[Category:Autumn ingredients|Eggplant]]
+
+[[nl:Kookboek/Aubergine]]</text>
+      <sha1>6ragqzpvy2wx0qzkcfhwfynz0icoagw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Avocado</title>
+    <ns>102</ns>
+    <id>4999</id>
+    <revision>
+      <id>1816175</id>
+      <parentid>710335</parentid>
+      <timestamp>2010-06-04T21:46:45Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <text xml:space="preserve">[[Image:Persea americana 2.jpg|right|thumb|Avocado]]
+{{fruit}}
+
+The '''avocado''', also known as the '''avocado pear''' or '''alligator pear''', is a starchy high-fat fruit. Like the [[Cookbook:Tomato|tomato]], it is not sweet and is sometimes considered a vegetable.
+The avocado is very popular in [[Cookbook:Vegetarian cuisine|vegetarian cuisine]], making a good substitute for meats and cheeses in sandwiches because of the high fat content. The fruit is not sweet, but starchy, flavorful, and of smooth, more or less creamy, texture. Avocados have a large smooth pit and a leathery skin, both of which are easy to remove. The flesh is typically greenish yellow to golden yellow if ripe, turning dark soon after exposure to air. Mashed avocados are excellent baby food.
+
+Avocado oil is a [[Cookbook:Oil and fat|monounsaturated fat]]. The purified oil has a very high [[Cookbook:Smoke Point|smoke point]] of about 510°F/265°C, making it suitable for the very hottest types of frying.
+
+Avocado varieties can be classified into two types. The type grown in dry areas has a rough dark skin which may be almost black. This type is the size of a small pear. It is the creamiest and best tasting because of its high fat content. The type grown in wet areas has a bright green skin. It is larger, perhaps 5 inches long and 3.5 in diameter. This type is commonly chosen for the more-attractive skin and for reduced calories, though it is generally inferior for eating.
+
+Avocados ripen a few days after they are picked, but ripen faster if stored with other fruit such as [[Cookbook:Banana|bananas]].
+
+Avocados have a taste reminiscent of [[Cookbook:Century egg|Century eggs]].
+
+==Seasonality==
+{{Seasonality|Avocado|1|2|3|3|3|2|1|1|1|1|1|1}}
+
+The precise season for avocados depends highly on the cultivar, but nearly all varieties reach their peak season around spring. The Hass avocado is the only variety that is available all year. [http://www.avocado.org/about/about_386.php?sd=about]
+
+==Avocado recipes==
+*[[Cookbook:Guacamole|Guacamole]]
+*[[Cookbook:Quesadilla|Quesadilla]]
+*[[Cookbook:Burrito|Burrito]] (as an optional ingredient)
+*[[Cookbook:Sushi|Sushi]] (in the California Roll for example)
+*[[Cookbook:Salad|Salad]]
+*[[Cookbook:San Francisco style Scallop Ceviche|San Francisco style Scallop Ceviche]]
+
+== External Links ==
+{{wikipedia|Avocado}}
+
+* [http://www.crfg.org/pubs/ff/avocado.html California Rare Fruit Growers] Notes on the botany and cultivation of the avocado tree.
+* [http://www.avocado.org/ Avocado.org] Contains detailed information on avocados, including details about various cultivars grown in California.
+
+[[de:Avocado]] [[es:Aguacate]] [[fr:Avocat]]
+
+[[Category:Vegetables|Avocado]]
+[[Category:Basic Foodstuffs|Avocado]]
+[[Category:Spring ingredients|Avocado]]</text>
+      <sha1>lrvy153trvk37ei4h1nreg899kjs25m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Template:BotanyTOC</title>
+    <ns>10</ns>
+    <id>5001</id>
+    <revision>
+      <id>1617894</id>
+      <parentid>763593</parentid>
+      <timestamp>2009-08-28T13:33:49Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>+category</comment>
+      <text xml:space="preserve">{| cellpadding=&quot;2&quot; style=&quot;float:center; border: 1px solid #003366; background: #f7f8ff; padding: 5px; font-size: 95%; margin: 0 15px 0 15px;&quot;
+| style=&quot;background: #CCFFCC; text-align: center;&quot; | '''''Botany Study Guide'' ~ Wiki Contents Table'''&lt;br&gt;&lt;big&gt;Section I&lt;/big&gt;
+
+&lt;small&gt;[[Botany/Introduction_Botany|Chapter 1 - Introduction]] ~ [[Botany/Plant_cells|Chapter 2 - Plant cells]]&lt;br&gt;[[Botany/Plant_tissues|Chapter 3 - Plant Tissues]] ~ 
+[[Botany/Plant_structure|Chapter 4 - Plant Organs]]&lt;br&gt;[[Botany/Plant_reproduction|Chapter 5 - Plant Reproduction]] ~ [[Botany/Plant_morphology|Chapter 6 - Plant Morphology]]&lt;/small&gt;
+|}&lt;noinclude&gt;[[Category:Botany/Templates|TOC]]&lt;/noinclude&gt;</text>
+      <sha1>njcfup2v64ttn2ydy7l9yfrpc7ll6hk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Active Server Pages/Your first page</title>
+    <ns>0</ns>
+    <id>5002</id>
+    <revision>
+      <id>2571928</id>
+      <parentid>2527543</parentid>
+      <timestamp>2013-10-22T10:37:39Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <comment>Rejected the last text change (by [[Special:Contributions/83.110.241.178|83.110.241.178]]) and restored revision 2079830 by Adrignola</comment>
+      <text xml:space="preserve">{{prognav|Active Server Pages|Differences between ASP 3.0 and ASP.NET|Basic ASP Syntax}}
+
+== Objectives ==
+* Embed ASP scripting code into a web page.
+* Upload your ASP page to a server.
+* Test your page by viewing it in a web browser.
+
+== Content ==
+
+ASP is delimited with &quot;&lt;% and %&gt;&quot; &lt;br&gt;
+within these delimiters is your custom code that is executed in the server.
+
+Here is a small fragment of an ASP code (it outputs &quot;My First ASP&quot; on your browser): 
+
+&lt;source lang=&quot;asp&quot;&gt;
+&lt;%
+Response.Write &quot;My First ASP&quot;
+%&gt;
+&lt;/source&gt;
+
+Or you could put the text into a pre-defined variable:
+
+&lt;source lang=&quot;asp&quot;&gt;
+&lt;%
+Dim MyText
+
+MyText = &quot;My First ASP Page&quot;
+Response.Write MyText
+%&gt;
+&lt;/source&gt;
+
+
+Here is a way to separate your code from your page layout.
+
+&lt;source lang=&quot;asp&quot;&gt;
+&lt;%@LANGUAGE=&quot;VBSCRIPT&quot; CODEPAGE=&quot;1252&quot;%&gt;
+&lt;%
+
+Dim MyText
+
+MyText = &quot;My First ASP&quot;
+
+%&gt;
+
+&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot;
+ &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=iso-8859-1&quot;&gt;
+&lt;title&gt;My First ASP&lt;/title&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+&lt;%=(MyText)%&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;/source&gt;
+
+== Summary ==
+== Review Questions ==
+== Exercises ==
+
+{{prognav|Active Server Pages|Differences between ASP 3.0 and ASP.NET|Basic ASP Syntax}}
+
+[[Category:Active Server Pages|Your first page]]</text>
+      <sha1>ee9vb4y8g63033cipr6nj2ryeonsmi2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Japanese/Grammar/Counters</title>
+    <ns>0</ns>
+    <id>5003</id>
+    <revision>
+      <id>2580752</id>
+      <parentid>2555903</parentid>
+      <timestamp>2013-11-11T13:24:04Z</timestamp>
+      <contributor>
+        <username>Whym</username>
+        <id>109931</id>
+      </contributor>
+      <comment>/* Living beings */ butteflies can have 羽 and 匹</comment>
+      <text xml:space="preserve">{{Wikipedia|Japanese counter word}}
+Most Japanese nouns do not have plural forms.  Instead, when indicating a specific number or amount of a noun, the noun is followed by a '''counter''' (助数詞, じょすうし). There is a large number of these counters, each referring to a particular kind of thing to count.
+
+For example when referring to four books: 
+{| class=&quot;wikitable&quot;
+| {{furi|四|よん}} || {{furi|冊|さつ}} || の || {{furi|本|ほん}}
+|-
+| Four || volumes || ''genitive marker'' || book
+|}
+
+Counters can also be used in adverbial or nominal manner. &quot;There are four books there&quot; can be either of the following:
+{| class=&quot;wikitable&quot;
+! Adverbial
+| あそこに本が四冊あります。
+|-
+! Nominal
+| あそこに四冊の本があります。
+|}
+
+{{Japanese related|content|
+* [[Japanese/Numbers]]
+}}
+For the most part, two numbering systems are used: the numbers derived from Chinese (いち, に, さん, etc.) and the native Japanese counting words (ひとつ, ふたつ, みっつ, etc.).
+
+== Common counters ==
+
+Some of the most common &amp; basic counters:
+;人 (にん)
+: For counting people. One person, &quot;一人&quot;, is &quot;ひとり&quot; and two, &quot;二人&quot;, is &quot;ふたり&quot;, using the native Japanese (''kunyomi'') words for counting. From there on, the Chinese derived (''onyomi'') numbers are used, so &quot;三人&quot; is read &quot;さんにん&quot;, &quot;四人&quot; is read &quot;よにん&quot; and so on.
+: There is a related counter, 名 (めい).
+
+;枚 (まい)
+: For counting flat objects (e.g. sheets of paper, plates, clothes).
+: Examples: いちまい、にまい、さんまい、よんまい、...
+
+;本 (ほん)
+: For counting long slender objects, such as bottles or pencils.
+: This counter, like most, uses the Chinese derived numbers straight through. But the 'h' sound (as in ''hon'' mutates into a 'b' or 'p' depending on what is put in front of it.
+: Examples: いっぽん、にほん、さんぼん、よんほん、ごほん、ろっぽん、ななほん、はっぽん、きゅうほん、じゅっぽん etc.
+
+;分 (ふん)
+: For counting minutes.
+: This counter uses Chinese derrived numbers, and with quite a few irregularities a bit similar to &quot;本&quot;.
+: Examples: いっぷん、にふん、さんぷん、よんふん、ごふん、ろっぷん、ななふん、はっぷん、きゅうふん、じゅっぷん
+
+;つ
+: For counting generic things (basically anything that doesn't have a counter).
+: This generic counter uses the Japanese native counters, up until ten, where the ''tsu'' is dropped, and Chinese derived numbers alone are used.
+: Examples:ひとつ、ふたつ、みっつ、よっつ、いつつ、むっつ、ななつ、やっつ、ここのつ、とお.
+
+== Abstract counting ==
+{| class=&quot;wikitable&quot;
+|-
+! Counter
+! Japanese
+! Reading
+! Examples for 1, 2, ..., 10,
+|-
+|Times (occurrences)
+|回
+|かい
+|いっかい、にかい、...、じゅっかい、
+|-
+|Numbers in a series
+|番
+|ばん
+|いちばん、にばん、...、じゅうばん、
+|-
+|Multiples (&quot;X times as much&quot;)
+|倍
+|ばい
+|いちばい、にばい、...、じゅうばい、
+|}
+
+== Living beings ==
+{| class=&quot;wikitable&quot;
+|-
+! Counter
+! Japanese
+! Reading
+! Examples for 1, 2, ..., 10,
+|-
+|People
+|人
+|にん
+|ひとり、ふたり、さんにん(3)、...、じゅうにん、
+|-
+|(Small) Animals
+|匹
+|ひき
+|いっぴき、にひき、...、じゅっぴき、
+|-
+|Large animals
+|頭
+|とう
+|いっとう、にとう、...、じゅっとう、
+|-
+|Birds, rabbits
+|羽
+|わ
+|いちわ、にわ、...、じゅうわ、
+|-
+|(Small) fish and shrimp
+|尾
+|び
+|いちび、にび、...、じゅうび、
+|}
+匹 is often used for animals generally, but in more careful use it is restricted to small animals, such as cats and dogs.
+
+Large animals notably include horses, cattle, elephants, also whales, dolphins.
+
+Some kinds of animals have two or more counters.  For example, &quot;3 butteflies&quot; can be translated into 3羽 or 3匹.
+
+== Objects ==
+{| class=&quot;wikitable&quot;
+|-
+! Counter
+! Japanese
+! Reading
+! Examples for 1, 2, ..., 10,
+|-
+|Objects&lt;!--(maybe spheres or cubes)--&gt;
+|個
+|こ
+|いっこ、にこ、...、じゅっこ、
+|-
+|Sheets (flat things)
+|枚
+|まい
+|いちまい、にまい、...、じゅうまい、
+|-
+|Long objects
+|本
+|ほん
+|いっぽん、にほん、...、じゅっぽん、
+|-
+|Cup-, glass-, bowl-, spoon-fuls
+|杯
+|はい
+|いっぱい、にはい、...、じゅっぱい、
+|-
+|Boxes, boxfuls
+|箱
+|はこ
+|ひとはこ、ふたはこ、...、じゅっぱこ、
+|-
+|Dishes
+|[[w:ja:皿|皿]]
+|さら
+|ひとさら、ふたさら、...、じゅっさら、
+|-
+|Suits of clothing
+|着
+|ちゃく
+|いっちゃく、にちゃく、...、じゅっちゃく、
+|}
+
+== Transportation ==
+{| class=&quot;wikitable&quot;
+|-
+! Counter
+! Japanese
+! Reading
+! Examples for 1, 2, ..., 10,
+|-
+|Machines, cars
+|台
+|だい
+|いちだい、にだい、...、じゅうだい、
+|-
+|Boats
+|艘
+|そう
+|いっそう、にそう、...、じゅっそう
+|-
+|Ships
+|隻
+|せき
+|いっせき、にせき、...、じゅっせき、
+|-
+|Aircraft
+|機
+|き
+|いっき、にき、...、じゅっき、
+|}
+
+== Groups or portions ==
+{| class=&quot;wikitable&quot;
+|-
+! Counter
+! Japanese
+! Reading
+! Examples for 1, 2, ..., 10,
+|-
+|Parts (components)
+|部
+|ぶ
+|いちぶ、にぶ、...、じゅうぶ、
+|-
+|Parts (partitions)
+|分&lt;ref&gt;Note that this conincides with 分 in 1分, 2分, etc in written its forms. See also [[Japanese/Vocabulary/Time]].&lt;/ref&gt;
+|ぶ
+|にぶん、さんぶん、...、
+|-
+|Bundles
+|束
+|たば
+|ひとたば、ふたたば、...、じゅったば、
+|-
+|Sets, pairs
+|組
+|くみ
+|ひとくみ、ふたくみ、...、じゅっくみ、
+|-
+|Pairs
+|対
+|つい
+|いっつい、につい、...、じゅっつい、
+|-
+|Pairs of footwear
+|足
+|そく
+|いっそく、にそく、...、じゅっそく、
+|-
+|Tenths (1/10)
+|[[w:ja:%E5%89%B2|割]]
+|わり
+|いちわり、にわり、...、じゅうわり
+|-
+|Discount (tenths discounted)
+|割引
+|わりびき
+|いちわりびき、にわりびき、...、じゅうわりびき&lt;!--Hey!?--&gt;
+|}
+== See also ==
+* [[Japanese/Vocabulary/Numbers]]
+* [[Japanese/Vocabulary/Dates]]
+* [[Japanese/Vocabulary/Units]]
+== Resources ==
+* [http://www.shurey.com/countdic/ Counter Dictionary]
+== Notes ==
+&lt;references/&gt;
+
+{{BookCat|filing=deep}}</text>
+      <sha1>87ksydpm6hemr6oarp4l9ydgbuz1dxv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Lucid Dreaming/Reality Checks/Nose</title>
+    <ns>1</ns>
+    <id>5013</id>
+    <revision>
+      <id>847121</id>
+      <parentid>156667</parentid>
+      <timestamp>2007-04-28T17:10:54Z</timestamp>
+      <contributor>
+        <username>Ksd5</username>
+        <id>52901</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Lucid Dreaming: Reality Checks: Nose]] moved to [[Talk:Lucid Dreaming/Reality Checks/Nose]]: Naming convention</comment>
+      <text xml:space="preserve">As far as i am concerned this method for reality testing is misleading. I can see no reason that such a test will work other than suggestion and expectation. Why would the dreaming mind have any trouble creating a dream nose with one (dream eye) closed? 
+
+Where is the scientific justification of this technique and what is the source?
+
+: Admittedly, most reality checks have no scientific justification but many people have found them reliable and some have been tested by the Lucidity Institute. Most techniques, reality checks etc. now end up in online forums and therefore it is extremely hard to find the original inventor of any technique. I do not see why the source is relevant.
+
+: It has been found helpful ''but not nessecary'' for you to already believe or be uncertain if your surroundings are a dream. Usually before you do a reality check you are uncertain.
+
+: One possible explanation with, I stress, no ''scientific'' justification, is that your mind cannot simulate the suffocation which would occur if you were to hold your nose indefinately. Heartrate has been found to be linked to the heartrate in dreams (at least it speeds up during dreams and further during nightmares) and I cannot see why breathing can't be linked as well. Breathing does speed up in the REM state. [[User:R3m0t|r3m0t]] [[Special:Contibutions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 12:30, 25 Feb 2004 (UTC)
+
+: I am sorry, I thought you were talking about the breathing reality check. I really wish this naming problem could be solved somehow :(.
+
+: Seeing things in dreams is not quite related to your &quot;dream eyes&quot;. Every experiences third-person vision at some point in their dreams, don't they? Additionally, avid readers of manga/anime comics can sometimes dream in comic style, complete with speechbubbles!
+
+: It is obvious that the logic part of the brain is not as active in a dream, lucid or no, compared to waking. This is a possible explanation. Different reality checks work for different people and some people find that they wear off and become less reliable. I am scared that this may happen with the breathing RC for me because it has failed once for me, luckily just doing the reailty check made me a bit lucid (see the example on [[LD RC Breathing]]). [[User:R3m0t|r3m0t]] [[Special:Contibutions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 12:36, 25 Feb 2004 (UTC)</text>
+      <sha1>2fsaszwehfctpbxx7xp3kiqbz9wprl7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Legumes</title>
+    <ns>102</ns>
+    <id>5020</id>
+    <revision>
+      <id>2604895</id>
+      <parentid>1740333</parentid>
+      <timestamp>2014-01-29T08:20:48Z</timestamp>
+      <contributor>
+        <username>Zelse81</username>
+        <id>101980</id>
+      </contributor>
+      <comment>Added info on bicarbonate of soda's utility in soaking beans</comment>
+      <text xml:space="preserve">{{vegetable}} | [[Cookbook:Basic foodstuffs|Basic foodstuffs]]
+
+[[Image:NCI_EatBeansAndOtherLegumesOften.jpg|right|thumb|Bean salad]]
+The 'Bean' family includes many and varied varieties of legume. ([[Cookbook:Pea|pea]], [[Cookbook:Soybean|soybean]], [[Cookbook:Lentil|lentil]], etc.) The [[Cookbook:Vanilla|vanilla bean]] is unrelated.
+
+Beans are a valuable food for [[Cookbook:Vegetarian cuisine|vegetarians]] because they contain protein. They are also able to be dried and stored for long periods of time without harm, and then reconstituted simply by soaking and cooking. Many varieties of bean are only used in this way. Others are eaten fresh and steamed or boiled before use, needing much less preparation. 
+
+==Soaking==
+
+Dried legumes are almost always improved by soaking. Soaking helps to draw out lectins and phytates in legumes, as well as activating enzymes that break down indigestible starches and sugars. These starches and sugars are responsible for flatulence, as they ferment in your gut to produce gas. Additionally, soaking improves the flavour and nutrition of dried legumes.
+
+Soaking and [[Cookbook:Simmer|simmering]] with repeated water changes is a good method for facilitating the enzyme activation and lectin and phytate extraction. Start by soaking the beans overnight in the refrigerator. Change the water, simmer for an hour, change the water, simmer for another hour, change the water... for a total of 4 to 6 hours.
+
+Alternatively, soaking at room temperature or above (''20-30°C / 68-86°F'') for at least eight hours, or 14 hours for soybeans and red kidney beans, will achieve most of the same results and allow for significantly reduced cooking time. Always discard the soak water, and cook in fresh water. The soak water is full of nutrients, however, making it valuable food for plants.
+
+The problem of flatulence is much more objectionable when beans (causing gas volume) are combined with a sulphur source (causing a strong smell). Sulphur sources include egg yolks and pale dried fruit.
+
+Peas (including black-eye peas and chickpeas) are also members of the legume family, but they do not contain the indigestible sugars and starches that cause flatulence. They still do benefit from soaking, however, as this activates enzymes and improves the flavour and available nutrition of all legumes.
+
+In regions where dried beans are uncommon, available stocks of dried beans will in all likelihood be quite old. These beans are perfectly edible, but may require drastically increased soaking and/or cooking times to become palatable and to acquire a proper texture. In any event, the cooking time of beans may be substantially shortened if one to two teaspoons of baking soda is mixed into the beans' soaking water. The beans should be rinsed afterwards. 
+ 
+==Uses==
+Legumes are used around the world, and are especially popular in [[Cookbook:Cuisine of India|India]] and the [[Cookbook:Middle Eastern cuisines|Middle-East]]. 
+
+They can be used in a wide variety of ways, including
+*Soups, such as mulligatawny and split pea soup
+*Indian [[Cookbook:Dal|dal]]
+*[[Cookbook:Bean salad|Bean salad]]
+*Breads including [[Cookbook:Idli|idli]] and [[Cookbook:Dosa|dosa]]
+*Fermented into products such as soy sauce, miso, [[Cookbook:Tempeh|tempeh]], and [[Cookbook:Natto|natto]]. ''See [[Cookbook:Soy|soy]].''
+*[[Cookbook:Bean Sprout|sprouts]]
+*They are frequently added to [[Cookbook:Rasam|rasam]]
+
+==Varieties of Beans==
+Please see the individual listings for more information about each variety.
+
+* [[Cookbook:Azuki Bean|azuki bean]]
+* [[Cookbook:Bean Sprout|bean sprout]]
+* [[Cookbook:Black Bean|black bean]]
+* [[Cookbook:Black-Eyed Pea|black-eyed pea]]
+* [[Cookbook:Borlotti Bean|borlotti bean]]
+* [[Cookbook:Chickpea|chickpea]] (aka garbanzo bean, ceci bean, chana)
+* [[Cookbook:Fava Bean|fava bean]] (aka ful or broadbean)
+* [[Cookbook:Green Bean|green bean]]
+* [[Cookbook:Kidney Bean|kidney bean]]
+* [[Cookbook:Lentil|lentil]]
+* [[Cookbook:Lablab|lablab]] (aka hyacinth bean)
+* [[Cookbook:Lima Bean|lima bean]] (aka butter bean)
+* [[Cookbook:Mung Bean|mung bean]]
+* [[Cookbook:Navy Bean|navy bean]]
+* [[Cookbook:Pea|pea]]
+* [[Cookbook:Pigeon Pea|Pigeon Pea]]
+* [[Cookbook:Pinto Bean|pinto bean]]
+* [[Cookbook:Runner Bean|runner bean]]
+* [[Cookbook:Soybean|soybean]]
+* [[Cookbook:Urad Bean|urad bean]] (aka black gram, white lentil)
+
+==Recipes featuring legumes==
+* [[Cookbook:Burrito|Burrito]]
+* [[Cookbook:Chili (Vegan)|Chili (Vegan)]]
+* [[Cookbook:English Field Bean Pate|English Field Bean Pate]]
+* [[Cookbook:Succotash|Succotash]]
+* [[Cookbook:Veal with lima beans|Veal with lima beans]]
+* [[Cookbook:Mjeddrah|Mjeddrah]]
+* [[Cookbook:Mung Beans and Brown Rice|Mung Beans and Brown Rice]]
+* [[Cookbook:Lentil soup|Lentil soup]]
+* [[Cookbook:Pasta e Fagioli|Pasta e Fagioli]]
+* [[Cookbook:Vegetable Stew and Dumplings|Vegetable Stew and Dumplings]]
+
+{{Wikipedia|Legume}}</text>
+      <sha1>nt12nxt8dyc750olvwsal90tij0qx3l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Bean</title>
+    <ns>102</ns>
+    <id>5023</id>
+    <redirect title="Cookbook:Legumes" />
+    <revision>
+      <id>156677</id>
+      <timestamp>2004-02-25T11:03:48Z</timestamp>
+      <contributor>
+        <username>Karen Johnson</username>
+        <id>630</id>
+      </contributor>
+      <comment>moved to &quot;Cookbook:Legumes&quot;</comment>
+      <text xml:space="preserve">#REDIRECT [[Cookbook:Legumes]]
+</text>
+      <sha1>clnu3g4yzkuj1y6tx9u91qeywop9ok9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

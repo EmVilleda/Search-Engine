@@ -1,0 +1,1035 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Talk:C++ Programming/Examples/Hello world</title>
+    <ns>1</ns>
+    <id>3263</id>
+    <revision>
+      <id>1612411</id>
+      <parentid>1611577</parentid>
+      <timestamp>2009-08-18T16:36:47Z</timestamp>
+      <contributor>
+        <username>Panic2k4</username>
+        <id>2865</id>
+      </contributor>
+      <minor />
+      <comment>Undo revision 1611577 by [[Special:Contributions/112.200.151.246|112.200.151.246]] ([[User talk:112.200.151.246|Talk]])</comment>
+      <text xml:space="preserve">{{Talk:C++ Programming}}</text>
+      <sha1>9b0pi7atz2szs5g53lgcfe64ymcu1h4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Menchi</title>
+    <ns>3</ns>
+    <id>3264</id>
+    <revision>
+      <id>155214</id>
+      <parentid>9769</parentid>
+      <timestamp>2003-12-14T10:04:00Z</timestamp>
+      <contributor>
+        <username>Menchi</username>
+        <id>48</id>
+      </contributor>
+      <minor />
+      <comment>to Yacht: the Pinyins</comment>
+      <text xml:space="preserve">Oh, I can't tell the differences between ''hanyu pinyin'' and ''tongyong pinyin'', I just thought that name quite &quot;Chinese&quot;. :) So, could you please improve that book, [[Chinese]]? --[[User:Yacht|&lt;font color=green&gt;''yacht''&lt;/font&gt;]] | [[User talk:Yacht|talk]] 08:51, 14 Dec 2003 (UTC)
+
+: Did some bits impromptu. See [[w:en:Tongyong Pinyin]] for a list of differences between the two Pinyins. --[[User:Menchi|Menchi]] 10:04, 14 Dec 2003 (UTC)</text>
+      <sha1>drhy82p9zo26g6sspeopeudn1dghqmo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Chinese (Mandarin)/How To Study Chinese</title>
+    <ns>0</ns>
+    <id>3267</id>
+    <revision>
+      <id>2516035</id>
+      <parentid>2513696</parentid>
+      <timestamp>2013-04-24T21:45:13Z</timestamp>
+      <contributor>
+        <username>Andyhowlett</username>
+        <id>717786</id>
+      </contributor>
+      <comment>/* Speaking and Pronunciation */</comment>
+      <text xml:space="preserve">{{Chinese Intro TOC}}
+{{Chinese (Mandarin)TOC}}
+
+
+==Speaking and Pronunciation==
+* '''Learn pinyin'''. Not only is it used throughout this book to explain proper pronunciation, it is needed to look up words in dictionaries and to type in Chinese.
+* '''Pay attention to the tones.''' Since there are so few syllables in Chinese, there are many homonyms, making attention to tones very important. Learning to write the pinyin with correct tones at the same time as you learn the characters will improve your pronunciation and your listening comprehension.
+* '''Read the text aloud.''' Speaking (and hearing yourself speak) will help reinforce the text in your memory.  Exaggerating the tones can help you remember them. In Chinese, character (something that when writing takes a space unit), word (which may include some characters or a single character), and sentence may be different from English. When speaking Chinese, the pronunciation of each character should be a single unit.
+* '''Find a language partner.''' There may be a Chinese language club in a nearby city or university. There are also free websites on the Internet that can help you set up a language exchange using [http://www.skype.com Skype] or other VoIP programs. Two examples are [http://www.language-exchanges.org The Mixxer] and [http://www.slf.ruhr-uni-bochum.de/etandem/etindex-en.html E-Tandem].
+* '''Use a Text To Speech (TTS) service.''' In other words, have a computer read the text for you. Free examples include [http://translate.google.com Google Translate] and [http://imtranslator.net/translate-and-speak/ imtranslator.net]. Google Translate can not only read the text (the volume icon, not available for large texts) but also give you the pinyin (the A with the umlaut), and, of course, translate.
+* '''Consume Chinese media.''' Immersing yourself in Chinese after learning the basics will make learning easier. To learn pronunciation, make the voices of native speakers your constant companions, and after finishing this book, continue to immerse yourself—you will have learned enough to take on Chinese &quot;in the wild&quot;. A wide variety of multimedia options exist for exposing your ears to native Chinese speakers. Two of the best sites for easy listening materials are [http://popupchinese.com Popup Chinese] and [http://chineseclass101.com ChineseClass101.com]. Advanced learners can listen to broadcasts of [http://www.xinhua.org/ Xinhua], China's official news network, or visit [http://www.youku.com Youku], a Chinese incarnation of YouTube (YouTube is blocked in China, and Facebook as well, for that matter). Download as much audio as you can from these sites to your MP3 player and start listening. You can listen to Chinese whenever you're in the car, commuting, or doing mechanical tasks. Note that, since Internet Explorer 6 is still a popular browser in China, Chinese websites may seem a bit quirky, and video streaming services may not work at all on modern browsers.
+
+==Reading and Writing==
+
+* '''Practice writing—a lot.''' When you study, write a character at least ten times, and more if you have trouble remembering it. You can find special grid paper for writing practice with Chinese characters on the Internet; for example, PDF sheets are available on [http://www.uvm.edu/~chinese/characte.htm UVM's web site], and a practice sheet generator is available at [http://www.chinesetools.eu/tools/chinese-grid/ www.chinesetools.eu] (or [http://www.chine-informations.com/chinois/outils/generateur-grille/ original site], French). The output is set up as a grid, so that a typical printer can print 11 characters with 8 boxes each per page in portrait mode, giving each character one row, or 5 characters with 17 boxes each, and so on. In landscape mode, a printer can print 8 characters with 11 boxes each per page, or 4 characters with 23 boxes each giving each character two lines. Remember to quiz yourself periodically to test your memory and to find which characters you need to practice more. As you write, think of the sound and meaning of the character, or say it out loud. Check out the [[East Asian Calligraphy]] wikibook for more help with Chinese writing. Learn the correct stroke order initially and write carefully, looking at the printed character each time before copying. Actually writing is important to establish a 'motor memory' of each character, which will allow your writing to flow more easily.
+
+* '''Use a flashcard program.''' Many people use flash cards memorize information, but there's often much time wasted reviewing what they already know well, or in relearning what they forgot. The free programs [http://www.ichi2.net/anki/ Anki] and [http://mnemosyne-proj.org/index.php Mnemosyne], can optimize your review schedule using their algorithms. They can also use audio for pronunciation help and 3-sided cards to study reading, writing, and translation separately. You can download [http://mnemosyne-proj.org/taxonomy/term/7 free cardsets], [http://shengci.wojas.nl/mnemosyne export your own], or write them yourself to fully customize your character selection.
+
+[[Image:Radical053.png|l|thumb|80px|A radical highlighted in 3 characters]]
+* '''Look for radicals.''' [[w:Radical (Chinese character)|Radicals]] are components of Chinese characters that you will see repeated over and over again. Learning the meaning of radicals will help you to see the connections between similar categories of words. Many characters are comprised of radical-phonetic pairings, where the radical is the &quot;root&quot; that hints at the meaning of the word, while another part of the character hints at the sound of the word. Learning to spot radicals is also useful since they can be used when looking up words when you don't know the pinyin in Chinese dictionaries.
+
+* '''Buy a dictionary.''' They're useful for looking up new words or just browsing. Beginner's dictionaries have larger fonts, usage examples, and Pinyin pronunciation, all of which are sometimes missing in comprehensive dictionaries. [http://cc-cedict.org CC-CEDICT] is a thorough Chinese-English dictionary available under Creative Commons. [http://itunes.apple.com/us/app/ktdict-c-e-chinese-english/id291179703 KTdict C-E] is a free iOS app that uses CEDICT. A good physical dictionary that provides many example sentences and phrases is ''[http://www.amazon.com/gp/product/0198602588/ref=pd_sim_b_2/002-3287198-3112035?%5Fencoding=UTF8&amp;v=glance&amp;n=283155 The Starter Oxford Chinese Dictionary]'' (Simplified characters only). A good online dictionary would be [http://www.nciku.com/ nciku]. It is searchable by pinyin, characters, and sketches, via a drawing panel. It not only contains definitions, also shows the stroke order of a character, and gives examples of its use.
+
+===Suggested Reading Materials===
+:* Children's story books (the characters are easier, many include pinyin or zhuyin for difficult characters)
+:* [http://www.xinhua.org Xinhua] is the official Chinese news network, but again, it is mostly for advanced learners.
+:* [[Pinyin/Pinyin-English News Summary]]
+
+{{Chinese Intro TOC}}
+{{Chinese (Mandarin)TOC}}
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]
+
+[[es:Chino/Cómo estudiar chino]]
+[[it:Cinese/Come studiare il cinese]]
+[[pl:Chiński/Jak uczyć się chińskiego]]</text>
+      <sha1>mqtcpjmvqze17ap377o8jzntklpn0jy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:German/Lesson 1</title>
+    <ns>1</ns>
+    <id>3268</id>
+    <revision>
+      <id>1867395</id>
+      <parentid>1864645</parentid>
+      <timestamp>2010-06-28T23:26:21Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>replaced: {{WikiProject Languages}} → {{WikiProject Languages|german=yes}}</comment>
+      <text xml:space="preserve">{{WikiProject Languages|german=yes}} 
+
+The sentece &quot;Heinrich und Karl sind Freunde als sie sich auf der Straße begegnen&quot; sounds strange for German ears. --- I have changed that and hope, it won't be in a too strong conflict with the sound sample.
+
+For me, it sounds strange, too, using the word &quot;Geschäftsmänner&quot; when talking about a woman and a man. I'd propose to say &quot;Geschäftsleute&quot;, but I didn't want to change the complete excercise. -- 12-14-2003 Hans.
+: Please, make changes (and comments as above are very helpful). If the changes cause problems with the lesson itself, do not worry, I'll come along and do the fixes as necessary to match your suggestions/word changes - [[User:Marshman|Marsh]] 02:26, 15 Dec 2003 (UTC)
+----
+''&quot;Wie geht es dir?&quot;'' is '''unusual''' to start a conversation in Germany.
+-- [[User:Hansm|Hansm]] 12:56, 6 Jan 2004 (UTC)
+
+:Sorry, I've to correct something there. ''&quot;Wie geht es dir?&quot;'' is '''not''' unusual to start a conversation. So I think it depends on which part of Germany you're talking about. -- [[User:Shekko|Shekko]] 14:28, 6 Jan 2004
+
+::OK, but if you ask that, you expect to get a real answer and not simply a &quot;Sehr gut&quot;. That makes it different to the use of that phrase in many other languages and is a trap for foreigners. Or, where do you think it is a usual small-talk phrase? -- [[User:Hansm|Hansm]] 14:03, 6 Jan 2004 (UTC)
+
+::::It is very consistent (both question and answer) with English - [[User:Marshman|Marsh]] 18:28, 6 Jan 2004 (UTC)
+
+
+
+Any chance we could get some better sound samples?
+
+:Others are working on it, but it is a technically difficult challenge - [[User:Marshman|marsh]] 04:31, 4 November 2005 (UTC)</text>
+      <sha1>bf3puo3wlxfghb0ne5ujoyv4jtnhx2r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:German/Lesson 5B</title>
+    <ns>1</ns>
+    <id>3269</id>
+    <revision>
+      <id>1867403</id>
+      <parentid>1864653</parentid>
+      <timestamp>2010-06-28T23:26:38Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>replaced: {{WikiProject Languages}} → {{WikiProject Languages|german=yes}}</comment>
+      <text xml:space="preserve">{{WikiProject Languages|german=yes}} 
+
+Pretty difficult for (Advanced) Lection #2!
+
+:May be, but by advanced means college level and already familiar with some German. It might help for spmeone to just rewrite and simplify the German, if possibe. - [[User:Marshman|Marsh]] 03:00, 15 Dec 2003 (UTC)
+
+:Now at Lesson 4B (B is advanced beyond A for highly motivated students) - [[User:Marshman|Marsh]] 17:45, 10 Feb 2004 (UTC)
+
+:And now moved to 5B, following the conversation in 5A that is related to this story - [[User:Marshman|Marsh]] 03:16, 27 Feb 2004 (UTC)</text>
+      <sha1>hyk7o1iguda9qgzw28jlfuht4yakvxj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Objective-C Programming/syntax</title>
+    <ns>0</ns>
+    <id>3270</id>
+    <revision>
+      <id>2704806</id>
+      <parentid>2597189</parentid>
+      <timestamp>2014-09-28T04:30:51Z</timestamp>
+      <contributor>
+        <ip>2601:9:1680:A5C:F59F:C0D9:D305:9DA8</ip>
+      </contributor>
+      <comment>&quot;dash&quot; --&gt; &quot;hyphen&quot;</comment>
+      <text xml:space="preserve">Objective-C is an object-oriented programming language, and is a layer over the [[Programming:C|C programming language]]. This means that if you know how to write C, there are only a few syntax changes to learn.
+
+In this section, we will look at how we can implement classes and instantiate objects in Objective-C. If you are unfamiliar with object-oriented programming, see [[Programming:Objective-C concepts|Objective-C concepts]]. 
+
+== Basic syntax ==
+If you have studied C, you can skip this section and proceed to the next section, [[#A word on runtimes|A word on runtimes]].  If not, or if you're a little rusty, read on.
+
+In C, code is contained within a function.  Functions are composed of several statements, each of which are terminated by a semicolon. For example, a simple function in C to add two numbers may look like this:
+
+&lt;source lang=&quot;objc&quot;&gt;
+int add (int a, int b)
+{
+    int c;
+    c = a + b;
+    return c;
+}
+&lt;/source&gt;
+
+This sample has the following lines:
+# The function definition (which returns an int (integer), is named ''add'', and takes two parameters, both of which are integers). // Integers are whole numbers like 6, 66 or 567 and not numbers with decimal places like 5.6.
+# The opening function brace
+# A variable declaration
+# An assignment statement
+# A return statement, which returns the value of c to the calling function/
+# The closing function brace
+
+For control flow, C and Objective-C use:
+# for (&amp;lt;initial&gt;;&amp;lt;condition&gt;;&amp;lt;increment&gt;) 
+# while (&amp;lt;condition&gt;)
+# do ... while (&amp;lt;condition&gt;)
+# switch (&amp;lt;condition&gt;)
+# if (&lt;condition&gt;) then {&lt;statements&gt;} [else &lt;statements&gt;]
+The for, while, and do statements will continue execution of a loop until the condition is false. The switch and if statements jump to different statements depending on the condition.
+
+Objective-C does not implement or import any functions by default.  Instead, they need to be imported by using the &lt;code&gt;#import&lt;/code&gt; preprocessor directive. (#include works too  but generally it is not used in Objective-C because #import works better because it won't import the same thing twice like #include can try to do)
+
+== A word on runtimes ==
+Objective-C requires what is known as a ''runtime system'' to provide you with Objective-C features. The runtime takes care of the creation, management, and destruction of objects.
+
+If you have the &lt;tt&gt;gcc&lt;/tt&gt; compiler, you should have the Objective-C runtime already installed. Otherwise, you may have to install the runtime separately. Note that [[GNU Compiler Collection|gcc]] is a compiler collection; the full install contains not only the C compiler, but also C++, Java, Objective-C and even Fortran-95 and Ada 2005 compilers. However, &lt;em&gt;it is possible to install gcc only partially&lt;/em&gt;, for example only the C compiler. Therefore, the Objective-C runtime may or may not be installed with gcc. Check your distribution. 
+
+Two main systems are used to run Objective-C programs:
+* the GNU runtime, which is provided as a part of gcc on Unix and Unix-like operating systems;
+* the NeXT runtime, which is provided on NeXTSTEP, OPENSTEP, and Mac OS X operating systems.
+
+This text assumes you are using the GNU runtime, but the two runtime systems are almost identical.
+
+This text does not cover the OPENSTEP, Cocoa, or GNUstep frameworks, but the skills learned here will be helpful when developing with those systems.
+
+== Writing classes in Objective-C ==
+Writing an Objective-C class requires a few design decisions before we start writing any code. Say we are writing a class to represent a point called &lt;tt&gt;Point&lt;/tt&gt; in a two-dimensional plane.
+
+We need to ask ourselves two questions:
+# What data do we need to store and use? This relates to the ''instance variables'' we need to declare. 
+# What operations do we need to perform? This relates to the ''methods'' we need to define.
+
+
+
+For this example, we'll use &lt;tt&gt;double&lt;/tt&gt; variables for the ''x'' and ''y'' coordinates. We'll define a method to get both coordinates, and we'll define a method to get their distance from the origin.
+
+== The interface ==
+&lt;source lang=&quot;objc&quot;&gt;
+#import &lt;objc/Object.h&gt;
+
+@interface Point : Object
+{
+@private
+   double x;
+   double y;
+}
+
+- (id) x: (double) x_value;
+- (double) x;
+- (id) y: (double) y_value;
+- (double) y;
+- (double) magnitude;
+@end
+&lt;/source&gt;
+
+Let's examine what each element of this interface means.
+
+&lt;source lang=&quot;objc&quot;&gt;
+#import &lt;objc/Object.h&gt;
+ 
+@interface Point : Object
+&lt;/source&gt;
+The &lt;tt&gt;@interface&lt;/tt&gt; line says that we begin the declaration of the &lt;tt&gt;Point&lt;/tt&gt; interface. We inherit from another class called &lt;tt&gt;Object&lt;/tt&gt;. Objective-C provides you with a generic class, called &lt;tt&gt;Object&lt;/tt&gt;. The &lt;tt&gt;Object&lt;/tt&gt; class is a ''root class'' -- it does not inherit from another class. The &lt;tt&gt;Object&lt;/tt&gt; class provides a set of methods that provide key functionality for an object to be used and recognized by the Objective-C runtime. As in C, we need to include &lt;tt&gt;Object&lt;/tt&gt;'s header file, &lt;tt&gt;Object.h&lt;/tt&gt;, before we can use the set of methods declared in the header.
+
+If you don't explicitly inherit from some class, your class becomes a root class. (In Objective-C, there can be many root classes.) That's probably not what you want to do, because creating a root class is a very tricky and advanced topic that is only useful in very specific situations. In most cases, you will want to inherit from &lt;tt&gt;Object&lt;/tt&gt; or some class that inherits from &lt;tt&gt;Object&lt;/tt&gt;, etc. If you develop in NeXTStep / GNUstep / Cocoa, you will mostly be using another root class called &lt;tt&gt;NSObject&lt;/tt&gt;, which provides different basic methods than &lt;tt&gt;Object&lt;/tt&gt;.
+
+The word &lt;tt&gt;import&lt;/tt&gt; means that we only include the file ''once''. This solves problems like recursive includes.
+
+&lt;source lang=&quot;objc&quot;&gt;
+{
+@private
+   double x;
+   double y;
+}
+&lt;/source&gt;
+Anything between the braces in an interface declaration specifies the instance variables that the class has. 
+
+The &lt;tt&gt;@private&lt;/tt&gt; line is a visibility modifier: it says that the instance variables after it are ''private'', i.e. they are accessible only from the class that declares them. It is good practice to mark all your instance variables private: they contain the state of an object and they should never be changed except by the object itself.
+
+&lt;source lang=&quot;objc&quot;&gt;
+- (id) x: (double) x_value;
+&lt;/source&gt;
+The declarations for the methods come after the instance variables. This is a declaration for the method to set the x value. It's common Objective-C style to name the setter method with the same name as the variable it's setting.
+
+The hyphen specifies an instance method (we'll look at these later). Then comes the name for the method (this method is called &lt;tt&gt;x:&lt;/tt&gt; - note the colon), and the colon signifies an argument, called &lt;tt&gt;x_value&lt;/tt&gt;, and is of type &lt;tt&gt;double&lt;/tt&gt;.
+
+The cast on the &lt;tt&gt;x_value&lt;/tt&gt; argument is necessary, because unlike C, the default type is &lt;tt&gt;id&lt;/tt&gt;, and not &lt;tt&gt;int&lt;/tt&gt;. The type &lt;tt&gt;id&lt;/tt&gt; is very special—it is a type that can hold ''any'' object whatsoever. The first cast is not strictly necessary, but should be used for clarity. The first cast tells us that the method &lt;tt&gt;x&lt;/tt&gt; returns an object back.
+
+&lt;source lang=&quot;objc&quot;&gt;
+- (double) x;
+&lt;/source&gt;
+This is another method named &lt;tt&gt;x&lt;/tt&gt; (no colon), but it returns a &lt;tt&gt;double&lt;/tt&gt;. This is the specification for the method that gets the value of the x variable. There is no conflict with the previous method because the types are different, and the previous method takes one argument whilst this takes none. 
+
+&lt;source lang=&quot;objc&quot;&gt;
+@end
+&lt;/source&gt;
+After all the methods and instance variables are specified, this symbol marks the end of the declaration.
+
+The interface specification goes in a &lt;tt&gt;.h&lt;/tt&gt; file—a header file. It's customary to call the file after the class, so we would create a file called &lt;tt&gt;Point.h&lt;/tt&gt;.
+
+== The implementation ==
+&lt;source lang=&quot;objc&quot;&gt;
+#import &quot;Point.h&quot;
+#import &lt;math.h&gt;
+
+@implementation Point
+
+- (id) x: (double) x_value
+{
+   x = x_value;
+   return self;
+}
+
+- (double) x
+{
+   return x;
+}
+
+- (id) y: (double) y_value
+{
+   y = y_value;
+   return self;
+}
+
+- (double) y
+{
+   return y;
+}
+
+- (double) magnitude
+{
+   return sqrt(x*x+y*y);
+}
+
+@end
+&lt;/source&gt;
+
+This is the implementation for the &lt;tt&gt;Point&lt;/tt&gt; class. We implement the methods in the interface defined above. Let's have a look at each element of the implementation in turn.
+
+&lt;source lang=&quot;objc&quot;&gt;
+#import &quot;Point.h&quot;
+&lt;/source&gt;
+Again, we import &lt;tt&gt;Point&lt;/tt&gt;'s interface, just as we do in C.
+
+&lt;source lang=&quot;objc&quot;&gt;
+@implementation Point
+&lt;/source&gt;
+This is a marker that identifies the beginning of the implementation.
+
+&lt;source lang=&quot;objc&quot;&gt;
+- (id) x: (double) x_value
+{
+   x = x_value;
+   return self;
+}
+&lt;/source&gt;
+This is a typical method implementation. We can use the &lt;tt&gt;x&lt;/tt&gt; variable directly without having to declare it since it is already declared in the interface, and is accessible only to the methods of this class. The behaviour, in general, is like an ordinary C function. Here we assign the value of the argument &lt;tt&gt;x_value&lt;/tt&gt; to the instance variable &lt;tt&gt;x&lt;/tt&gt;.
+
+The function then, returns the entire, current object as modified. The keyword &lt;tt&gt;self&lt;/tt&gt; represents the current object.
+
+&lt;source lang=&quot;objc&quot;&gt;
+- (double) x
+{
+   return x;
+}
+&lt;/source&gt;
+Here is the simple method to get the value of the &lt;tt&gt;x&lt;/tt&gt; variable. We simply return it.
+
+
+
+The behaviour for the other methods should be similar to those above. The &lt;tt&gt;@end&lt;/tt&gt; keyword ends the implementation.
+
+The implementation specification goes in a &lt;tt&gt;.m&lt;/tt&gt; file. It's customary to call the file after the class, so we would create a file called &lt;tt&gt;Point.m&lt;/tt&gt;.
+
+== Using the objects ==
+Since Objective-C comes from C, we write a &lt;tt&gt;main&lt;/tt&gt; function to make use of the class that we just created. Here's one typical main function.
+
+&lt;source lang=&quot;objc&quot;&gt;
+#import &quot;Point.h&quot;
+#import &lt;math.h&gt;
+#import &lt;stdio.h&gt;
+
+int main(void)
+{
+   Point *point = [Point new];
+   [point x:10.0];
+   [point y:12.0];
+   printf(&quot;The distance from the point (%g, %g) to the origin is %g.\n&quot;,
+      [point x], [point y], [point magnitude]);
+    
+   return 0;
+}
+&lt;/source&gt;
+Let's examine what happens here.
+
+&lt;source lang=&quot;objc&quot;&gt;
+#import &quot;Point.h&quot;
+#import &lt;stdio.h&gt;
+&lt;/source&gt;
+We import the interface to &lt;tt&gt;Point&lt;/tt&gt; so we can use it. We import &lt;tt&gt;stdio.h&lt;/tt&gt; so we can use &lt;tt&gt;printf&lt;/tt&gt;.
+&lt;source lang=&quot;objc&quot;&gt;
+    Point *point = [Point new];
+&lt;/source&gt;
+This is a typical Objective-C method call:
+* &lt;tt&gt;Point *point&lt;/tt&gt; declares, technically, a pointer to an instance of type &lt;tt&gt;Point&lt;/tt&gt;. Actually, it may be best to think of this merely as a variable holding a &lt;tt&gt;Point&lt;/tt&gt; object, but keep the pointer idea in mind.
+* &lt;tt&gt;[Point new]&lt;/tt&gt; calls a method called &lt;tt&gt;new&lt;/tt&gt;. The first half before the space represents the object we call the method on. The second half is the method name and arguments. The &lt;tt&gt;new&lt;/tt&gt; method is called a ''class method'', because it doesn't do something with respect to an instance of a class, it does something with respect to the class itself. The &lt;tt&gt;new&lt;/tt&gt; method allocates memory and initializes the object, making it ready for use.  There is no need to explicitly delete an object, as Objective C keeps track of the number of references to a given object, and deallocates them as necessary.
+*: NOTE: The &lt;tt&gt;new&lt;/tt&gt; method is shorthand for &lt;tt&gt;alloc&lt;/tt&gt; and &lt;tt&gt;init&lt;/tt&gt; and may not always be available. If it is not, the object can be initialized and made ready for use in the following fashion: &lt;tt&gt;[[Point alloc] init]&lt;/tt&gt;
+&lt;source lang=&quot;objc&quot;&gt;
+    [point x:10.0];
+    [point y:12.0];
+&lt;/source&gt;
+These are some typical instance method calls. We call &lt;tt&gt;point&lt;/tt&gt;'s method &lt;tt&gt;x:&lt;/tt&gt; and &lt;tt&gt;y:&lt;/tt&gt;. In Objective-C terminology, we say that we send &lt;tt&gt;point&lt;/tt&gt; a message to apply to the method &lt;tt&gt;x:&lt;/tt&gt;.
+
+These messages assign &lt;tt&gt;point&lt;/tt&gt;'s &lt;tt&gt;x&lt;/tt&gt; and &lt;tt&gt;y&lt;/tt&gt; variables. Recall that the &lt;tt&gt;x:&lt;/tt&gt; and &lt;tt&gt;y:&lt;/tt&gt; methods had in them &lt;tt&gt;return self;&lt;/tt&gt;. This means that we can chain the two messages together, as follows:
+ [[point x:10.0] y:12.0];
+
+The message &lt;tt&gt;[point x:10.0]&lt;/tt&gt; returns an object, &lt;tt&gt;point&lt;/tt&gt;, with its &lt;tt&gt;x&lt;/tt&gt; variable set. Then ''on that object'', the outer message assigns its &lt;tt&gt;y&lt;/tt&gt; variable.
+
+&lt;source lang=&quot;objc&quot;&gt;
+    printf(&quot;The distance from the point (%g, %g) to the origin is %g.\n&quot;,
+       [point x], [point y], [point magnitude]);
+&lt;/source&gt;
+The &lt;tt&gt;printf&lt;/tt&gt; statement has in it the method calls &lt;tt&gt;[point x]&lt;/tt&gt;, which returns the value of the &lt;tt&gt;x&lt;/tt&gt; variable for printing, &lt;tt&gt;[point y]&lt;/tt&gt;, which does the same for the &lt;tt&gt;y&lt;/tt&gt; variable for printing, and &lt;tt&gt;[point magnitude]&lt;/tt&gt; which calculates the distance and returns that value.
+
+
+{{Objective-C}}</text>
+      <sha1>ndgws9lfen9hkdao4gdep92b8987vx7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Dersonlwd</title>
+    <ns>2</ns>
+    <id>3271</id>
+    <revision>
+      <id>616161</id>
+      <parentid>155219</parentid>
+      <timestamp>2006-10-18T04:26:29Z</timestamp>
+      <contributor>
+        <username>Guanabot</username>
+        <id>5478</id>
+      </contributor>
+      <minor />
+      <comment>User-controlled Bot: table syntax updated</comment>
+      <text xml:space="preserve">__NOTOC__
+http://zh.wikipedia.org/wiki/User:Dersonlwd
+----
+
+{| border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;100%&quot; style=&quot;border-width: 1px; border-color: #D9BC3A; border-style: solid&quot;
+|-
+| align=&quot;left&quot; valign=&quot;top&quot; style=&quot;background: #fafdd8; padding: 8px&quot; |
+欢迎来到'''维基教科书'''，这里包括'''无版权的'''中文教学的课本。我们现在总共有（所有语文）'''{{NUMBEROFARTICLES}}'''文章。&lt;br&gt;&lt;br&gt;
+另外请参看[http://zh.wikipedia.org 中文维基百科]。
+| align=&quot;left&quot; valign=&quot;top&quot; style=&quot;background: #fafdd8; padding: 8px&quot; |
+歡迎來到'''維基教科書'''，這裡包括'''無版權的'''中文教學的課本。我們現在總共有（所有語文）'''{{NUMBEROFARTICLES}}'''文章。&lt;br&gt;&lt;br&gt;
+另外請參看[http://zh.wikipedia.org 中文維基百科]。
+|}
+
+
+{| border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;border: 1px solid #9866FF&quot;
+|-
+| align=&quot;center&quot; valign=&quot;middle&quot; style=&quot;background-color: #ddddff; background-repeat: repeat; background-attachment: scroll; border-bottom: 1px solid #C9AFFF; padding: 2px; background-position: 0% 50%&quot; height=&quot;18&quot; | &lt;font size=&quot;+1&quot;&gt;'''维基教科书条目分类'''&lt;/font&gt;
+| align=&quot;center&quot; valign=&quot;middle&quot; style=&quot;background-color: #ddddff; background-repeat: repeat; background-attachment: scroll; border-bottom: 1px solid #C9AFFF; padding: 2px; background-position: 0% 50%&quot; height=&quot;18&quot; | &lt;font size=+1&gt;'''維基資教科書目分類'''&lt;/font&gt;
+|-
+| align=&quot;left&quot; valign=&quot;top&quot; style=&quot;background-color: #f3f3ff; background-repeat: repeat; background-attachment: scroll; padding: 8px; background-position: 0%&quot; | &lt;br&gt;
+&lt;font size=&quot;+1&quot; color=&quot;orange&quot;&gt;&amp;#8226;&lt;/font&gt;'''中文文学'''&lt;br&gt;
+
+[[正气歌]]&lt;br&gt;
+
+&lt;font size=&quot;+1&quot; color=&quot;orange&quot;&gt;&amp;#8226;&lt;/font&gt;'''英文'''&lt;br&gt;
+
+[[英文数字]]&lt;br&gt;
+
+&lt;font size=&quot;+1&quot; color=&quot;orange&quot;&gt;&amp;#8226;&lt;/font&gt;'''语言'''&lt;br&gt;
+
+[[西班牙语]] - [[英语]] - [[世界语]] - [[日语]]&lt;br&gt;
+
+&lt;font size=&quot;+1&quot; color=&quot;orange&quot;&gt;&amp;#8226;&lt;/font&gt;'''自然科学'''&lt;br&gt;
+
+[[元素照片]]
+
+&lt;br&gt;
+&lt;font size=&quot;+1&quot; color=&quot;green&quot;&gt;&amp;#8226;&lt;/font&gt;'''相关协作计划'''&lt;br&gt;
+[http://wikimediafoundation.org/ Wikimedia基金会]-   
+[http://meta.wikipedia.org/wiki/%E9%A6%96%E9%A1%B5 Meta-Wikipedia]-    
+
+[http://wiktionary.org/ 维基多语字典]-     
+[http://sep11.wikipedia.org/ 九一一纪念]-    
+[http://sources.wikipedia.org 维基资源]-   
+[http://quote.wikipedia.org/ 维基语录] 
+| align=&quot;left&quot; valign=&quot;top&quot; style=&quot;background-color: #f3f3ff; background-repeat: repeat; background-attachment: scroll; padding: 8px; background-position: 0%&quot; | &lt;br&gt;
+&lt;font size=&quot;+1&quot; color=&quot;orange&quot;&gt;&amp;#8226;&lt;/font&gt;'''中文文學'''&lt;br&gt;
+
+[[正氣歌]]&lt;br&gt;
+
+&lt;font size=&quot;+1&quot; color=&quot;orange&quot;&gt;&amp;#8226;&lt;/font&gt;'''英文'''&lt;br&gt;
+
+[[英文數字]]&lt;br&gt;
+
+&lt;font size=&quot;+1&quot; color=&quot;orange&quot;&gt;&amp;#8226;&lt;/font&gt;'''语言'''&lt;br&gt;
+
+[[西班牙語]] - [[英語]] - [[世界語]] - [[日語]]&lt;br&gt;
+&lt;br&gt;
+&lt;font size=&quot;+1&quot; color=&quot;green&quot;&gt;&amp;#8226;&lt;/font&gt;'''相關協作計劃'''&lt;br&gt;
+[http://wikimediafoundation.org/ Wikimedia基金會]-   
+[http://meta.wikipedia.org/wiki/%E9%A6%96%E9%A1%B5 Meta-Wikipedia]-    
+
+[http://wiktionary.org/ 維基多語字典]-     
+[http://sep11.wikipedia.org/ 九一一纪念]-    
+[http://sources.wikipedia.org 維基資源]-   
+[http://quote.wikipedia.org/ 維基語錄] 
+|}</text>
+      <sha1>k07oog3g6x5qpw57j2xfrirfykh9zqm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:CongruentTriangles.png</title>
+    <ns>6</ns>
+    <id>3272</id>
+    <revision>
+      <id>746593</id>
+      <parentid>707319</parentid>
+      <timestamp>2007-02-07T13:39:49Z</timestamp>
+      <contributor>
+        <username>Webaware</username>
+        <id>27565</id>
+      </contributor>
+      <comment>{{GFDL-presumed}}</comment>
+      <text xml:space="preserve">A diagram of three congruent triangles.
+
+Created by Adam Ernst, username cosmicsoft, 12/14/03. No copyright, etc.
+
+==Licensing==
+{{GFDL-presumed|Webaware}}</text>
+      <sha1>1dvvho6q4jj0z1odhtbx1jk3ms48arn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Similar1.png</title>
+    <ns>6</ns>
+    <id>3278</id>
+    <revision>
+      <id>746594</id>
+      <parentid>155226</parentid>
+      <timestamp>2007-02-07T13:40:15Z</timestamp>
+      <contributor>
+        <username>Webaware</username>
+        <id>27565</id>
+      </contributor>
+      <comment>{{GFDL-presumed}}</comment>
+      <text xml:space="preserve">A diagram showing two similar triangles.
+
+==Licensing==
+{{GFDL-presumed|Webaware}}</text>
+      <sha1>nn59swpbf3kqvj6k1ge3afmll3unrw5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Apple Cobbler</title>
+    <ns>102</ns>
+    <id>3283</id>
+    <revision>
+      <id>2678170</id>
+      <parentid>1694391</parentid>
+      <timestamp>2014-07-03T00:12:29Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>Adjusted abbreviations slightly.  Added cats for baking and metrics. Suppressed TOC.</comment>
+      <text xml:space="preserve">{{recipesummary|Dessert recipes|8|prep: 15 minutes&lt;br/&gt;baking: 20 minutes|2}}
+
+{{recipe}} | [[Cookbook:Cuisine of the United States|United States]] | [[Cookbook:Dessert|Dessert]]
+__NOTOC__
+'''Apple Cobbler''' is a [[Cookbook:Dessert|dessert]] made up of a baked apple filling and a simple topping. It is similar to [[Cookbook:Apple Crisp|Apple Crisp]], which has a crunchy topping made with oatmeal.
+
+==Ingredients==
+=== Filling ===
+*6 cups sliced, peeled and cored baking [[Cookbook:Apple|apples]]
+*2/3 cup [[cookbook:sugar|sugar]]
+*6 Tbs [[cookbook:water|water]] (divided into 4 and 2)
+*1 Tbs [[Cookbook:Cornstarch|cornstarch]]
+
+=== Topping ===
+*1 cup all-purpose [[Cookbook:Flour|flour]]
+*2 Tbs [[Cookbook:Sugar|sugar]]
+*1 1/2 tsp [[Cookbook:Baking Powder|baking powder]]
+*1/4 cup [[Cookbook:Butter|butter]]
+*1 [[Cookbook:Egg|egg]]
+*1/4 cup [[Cookbook:Milk|milk]]
+
+==Procedure==
+=== Filling ===
+#Stir together apples, 2/3 cup sugar and 4 Tbs water in a large sauce-pan. Simmer, covered for 5 minutes or until fruit is tender.
+#Add 2 Tbs water and 1 Tbs cornstarch. Cook and stir until thick and bubbly. 
+
+=== Topping ===
+#In a medium bowl stir together flour, 2 Tbs sugar, and baking powder.
+#Cut in butter until mixture resembles large crumbs. Set aside.
+#In a small bowl stir together the egg and milk. Add to flour mixture, just to moisten.
+
+=== Assembly ===
+#Transfer filling to 2-quart square baking dish.
+#Using a large spoon, drop topping into small mounds on top of the filling.
+#Bake for 20-25 minutes in a 400 °F oven (205 °C).
+
+==Notes, tips, and variations==
+*Cobblers can be made with peaches, pears, nectarines, apricots, and various types of berries.
+
+
+[[Category:American recipes|{{PAGENAME}}]]
+[[Category:Dessert recipes|{{PAGENAME}}]]
+[[Category:Apple recipes|{{PAGENAME}}]]
+[[Category:Cobbler recipes|{{PAGENAME}}]]
+[[Category:Baking recipes]]
+[[Category:Recipes with metric units]]</text>
+      <sha1>f9f5zfhw147scymq3pndx49vt8jt60t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Barbecued Spare Ribs</title>
+    <ns>102</ns>
+    <id>3284</id>
+    <revision>
+      <id>2680014</id>
+      <parentid>2678850</parentid>
+      <timestamp>2014-07-09T21:28:30Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>/* Notes, tips, and variations */ Added main course car.</comment>
+      <text xml:space="preserve">{{recipesummary|Pork recipes|4|prep: overnight &lt;br/&gt;cooking: 60 minutes|3|[[File:Spare ribs with Chinese barbecue sauce cropped.jpg|300px]]}}
+
+{{recipe}} | [[Cookbook:Barbecue|Barbecue]] | [[Cookbook:Meat|Meat]]
+
+'''Barbecued Spare Ribs''' are a classic [[Cookbook:Cuisine of the United States|American]] barbecue meal, made from pork.  This version is cooked in the oven, not on a barbecue, and uses a [[Cookbook:Barbecue Sauce|barbecue sauce]] with a distinct [[Cookbook:East Asian cuisines|Asian]] flavor, featuring soy sauce, rice vinegar, and garlic.
+
+==Ingredients==
+*2 pounds [[Cookbook:Pork|pork]] spare ribs
+*1/4 cup [[Cookbook:Soy Sauce|soy sauce]] 
+*2 tablespoons [[Cookbook:Honey|honey]] 
+*2 tablespoons [[Cookbook:Hoisin Sauce|hoisin sauce]] 
+*2 tablespoons white [[Cookbook:Vinegar|vinegar]]
+*1 tablespoon [[Cookbook:Sake|sake]] 
+*2 cloves [[Cookbook:Garlic|garlic]], minced 
+*1 teaspoon [[Cookbook:Sugar|sugar]] 
+*1/4 teaspoon of freshly ground white [[Cookbook:Pepper|pepper]]
+*2 tablespoons [[Cookbook:Stock|pork stock]] 
+* freshly ground [[Cookbook:Black Pepper|black pepper]] and [[Cookbook:Salt|salt]] to taste
+
+==Procedure==
+#Place spare ribs in a large baking dish in one layer. In a small bowl, combine the remaining ingredients. Pour over spare ribs and coat on both sides. [[Cookbook:Marinating|Marinate]] overnight, [[Cookbook:Basting|basting]] occasionally.
+#Preheat the oven to [[Cookbook:Oven Temperatures|375 °F]]. Place a large, shallow roasting pan on the oven bottom. Fill with 1/2 inch water. Place spare ribs on a roasting rack. 
+#Roast ribs for 45 minutes. 
+#Raise oven temperature to [[Cookbook:Oven Temperatures|450 °F]], and roast for 15 more minutes. 
+#Serve hot or cold.
+
+==Notes, tips, and variations==
+*Alternatively, Bake at [[Cookbook:Oven Temperatures|375 °F]] for 20 mins then lower the temp to [[Cookbook:Oven Temperatures|325 °F]] for 1 hour; this renders most of the fat and produces very tender meat.
+*To actually barbecue the ribs on a grill, get grill temperature to 225 degrees and cook for 5-6 hours.
+
+[[Category:American recipes|{{PAGENAME}}]]
+[[Category:Asian recipes]]
+[[Category:Pork recipes|{{PAGENAME}}]]
+[[Category:Barbecue recipes|{{PAGENAME}}]]
+[[Category:Baked recipes]]
+[[Category:Main course recipes]]
+[[Category:Gluten-free recipes|{{PAGENAME}}]]</text>
+      <sha1>difwftsqtq77oiqshnezwb1ghhz9k5m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Chocolate Chip Cookies</title>
+    <ns>102</ns>
+    <id>3285</id>
+    <revision>
+      <id>2713842</id>
+      <parentid>2713841</parentid>
+      <timestamp>2014-10-15T11:36:39Z</timestamp>
+      <contributor>
+        <ip>112.210.194.174</ip>
+      </contributor>
+      <comment>/* Ingredients */</comment>
+      <text xml:space="preserve">{{cookwork|Recipes should be split into multiple subpages and a disambiguation page created.}}
+{{recipe}} | [[Cookbook:Cuisine of the United States|Cuisine of the United States]] | [[Cookbook:Dessert|Dessert]]
+
+{{recipesummary|
+| Category    = Dessert recipes
+| Servings    = 
+| Time        = 
+| Rating      = 2
+| Energy      =
+| Image       = [[Image:Chocolate chip cookies.jpg|300px]]
+}}
+
+__FORCETOC__
+
+==Ingredients==
+
+*2 sticks (½ [[Cookbook:Pound|lb]] / 225 [[Cookbook:Gram|grams]] / 1 [[Cookbook:Cup|cup]]) [[Cookbook:Butter|butter]] (and only butter), softened
+*¾ cup (180[[Cookbook:Milliliter|ml]]) granulated white [[Cookbook:Sugar|sugar]]
+*¾ cup (180ml) packed [[Cookbook:Brown_Sugar|brown sugar]]
+*¼ [[Cookbook:Teaspoon|teaspoon]] [[Cookbook:Vanilla_Extract|vanilla extract]]
+*2 large [[Cookbook:Egg|eggs]]
+*2 ¼ cups (600ml) (290g) [[Cookbook:Flour|all-purpose flour]] 
+*1 teaspoon [[Cookbook:Baking_Soda|baking soda]]
+*1 teaspoon [[Cookbook:Salt|salt]]
+*1 teaspoon dry ground [[Cookbook:Lemon|lemon]] or [[Cookbook:Orange|orange]] peel (optional)
+*2 cups (480ml) (12-[[Cookbook:Ounce|ounce]] package) [[Cookbook:Chocolate_chip|semi-sweet chocolate morsels / chips]]
+*5 oz. (150g) chopped nuts, such as groundnuts (optional)
+
+==Procedure==
+
+#Preheat oven to {{#invoke:temperature|f|375}}, or {{#invoke:temperature|f|350}} if you want chewy cookies.
+#Cream butter (or margarine), granulated sugar, and brown sugar in a large mixer bowl.
+#Add eggs one at a time, beating until fully incorporated.
+#Add vanilla extract and beat in.
+#In a small bowl, sift together the dry ingredients (except chocolate &amp; nuts).  Add to the wet mixture in two parts and fold until combined. (If you beat this too long, you may get some [[Cookbook:Gluten|gluten]] formation which will change the cookie texture).
+#Stir in chocolate morsels (chips), and nuts if using. Please be considerate of people with nut allergies by mentioning the nuts if you use them.
+#Drop by rounded tablespoons onto ungreased baking sheets.  There should be enough fat in the cookie dough to prevent sticking, but using parchment paper or non-stick pans may help if you find this not to be the case.
+#Bake in the preheated oven for 10 to 12 minutes or until golden brown (cooking times may vary). Let stand for about 1 minute and remove from hot baking sheet to cool on a wire rack.
+Serves 10
+
+==Notes, Tips, and Variations==
+*The quality of the flavoring ingredients makes a great difference in the outcome.  Using top-quality butter,  chocolate, and vanilla will produce a superior cookie.
+** Note that using &quot;dark&quot; chocolate (&gt;65% cacoa) will result in a significantly different taste than the &quot;traditional&quot; recipe. In general, if you find the raw chocolate to be too bitter or not enjoyable to eat, you may not like them in the cookies (no matter the quality).
+*If you want to use regular flour, as well as butter, the trick is to increase the amount of flour to 3+ cups, which should result in a fairly stiff dough, that will not spread out very much. This trick even works with whole wheat flour.
+*Use cake flour instead of all-purpose, replace granulated sugar with brown sugar and use butter instead of margarine. Using cake flour and brown sugar allows you to use butter without fear of your cookies becoming puddles (which is the only reason to use margarine in the first place).
+* Use some vegetable shortening in place of butter/margarine to reduce &quot;spread&quot; (cookies will be thicker).
+** Or add some vegetable oil (no more than 1/5 of total fat) in place of butter/margarine to increase spread, resulting in thinner cookies.
+*Some people also recommend chilling dough before baking, though this is usually not necessary. 
+** Chilling dough may help to reduce spread, resulting in thicker cookies.
+* Use an ungreased, non-stick baking sheet instead of a greased sheet to help reduce spread, for thicker cookies. 
+** Conversely, grease your sheet if you like thinner (crispier) cookies.
+*If vanilla extract is not readily available, substitute two teaspoons of vanilla sugar for granulated sugar.
+*Using chopped bar chocolate instead of pre-formed chips will result in a more rustic texture -- just make sure the pieces are small enough to eat comfortably.
+*The proportion of granulated to brown sugar may be adjusted to suit taste.
+** More brown sugar will result in chewier cookies.
+** More white sugar will result in crisper cookies.
+*Do not stack hot cookies otherwise they will bend out of shape and not cool as quickly..
+* Add a small amount of oatmeal to give cookies more flavor &amp; mouth-feel.
+* For a stronger nut flavor, toast the nuts. Spread them evenly on a baking pan and set them in the 350 degree oven for ten minutes. Take them out and let them cool before adding them to the dough.
+
+
+
+Makes 56 cookies.
+
+====Ingredients====
+*2 sticks (1 cup) [[Cookbook:Butter|butter]], softened 
+*1 cup (240ml) granulated white [[Cookbook:Sugar|sugar]]
+*1 cup (240ml) packed [[Cookbook:Brown Sugar|brown sugar]]
+*2 extra large [[Cookbook:Egg|eggs]] 
+*1 teaspoon [[Cookbook:Vanilla Extract|vanilla extract]] 
+*2 cups (480ml) [[Cookbook:Flour|all-purpose flour]]
+*2 cups (480ml) [[Cookbook:Oat flour|oat flour]] 
+*½ teaspoon [[Cookbook:Salt|salt]] 
+*1 teaspoon [[Cookbook:Baking Soda|baking soda]]
+*1 teaspoon [[Cookbook:Baking Powder|baking powder]]
+*2 cups (480ml) (12-ounce package) Semi-sweet chocolate morsels / [[Cookbook:Chocolate chip|chocolate chips]]
+*4 oz (120g) grated milk chocolate (1/2 a bar)
+*3 cups (720ml) your favorite chopped [[Cookbook:Nut|nuts]] (optional)
+
+====Procedure====
+#Preheat oven to 375° F (around 200c).
+#Cream butter and both sugars in a large mixer bowl.  
+#Beat in eggs and vanilla extract.
+#Sift together the flour, salt, oat flour, baking powder and baking soda.  
+#Stir in chocolate morsels, grated chocolate bar and nuts.
+#Roll into balls and place two inches apart on a cookie sheet.  Instead of a cookie sheet, I use a pizza stone.
+#Bake for 10 minutes or until golden brown (cooking times may vary). Remove and let stand for about 1 minute before moving cookies to a plate or cooling sheet.
+
+==See also==
+* [[Cookbook:Chocolate Chip Cookies (Gluten-Free)|Chocolate chip cookies (Gluten-free)]]
+
+[[Category:Dessert recipes|Chocolate Chip Cookies]]
+[[Category:Chocolate recipes|Chocolate Chip Cookies]]
+[[Category:Cookie recipes|Chocolate Chip Cookies]]
+[[Category:American recipes|Chocolate Chip Cookies]]
+[[Category:Baking recipes]]
+[[Category:Recipes_with_metric_units|{{PAGENAME}}]]</text>
+      <sha1>mjlpu7pq9ls3tfwhbzgs39fo5edbqyy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Gentgeen</title>
+    <ns>2</ns>
+    <id>3297</id>
+    <revision>
+      <id>1704445</id>
+      <parentid>514615</parentid>
+      <timestamp>2010-01-24T16:25:00Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>-admin</comment>
+      <text xml:space="preserve">&lt;div float:right&gt;
+{{babel-5|en|es-1|ru-1|css-2}}
+&lt;/div&gt;
+&lt;div float:left&gt;
+{|border=0 style=&quot;margin:2em; padding:0;&quot;
+| style=&quot;padding:1em .5em 1em 1em;&quot;|
+{{featured recipe}}
+|style=&quot;padding:1em 1em 1em .5em;&quot;|
+{{featured ingredient}}
+|}
+&lt;/div&gt;
+{{-}}
+John's a major contributer to the [[Cookbook]], but don't be suprised to see him at the Chemistry or Biology shelves, either.
+
+I've got an [http://bugzilla.wikimedia.org/5914 open feature request] to include Cookbook namespace modules in the count of total modules in the project. If you'd like to support it, please go and vote for it.
+
+He also messes around at [[w:Main Page|Wikipedia]] as [[w:User:Gentgeen]] (where he's also an admin), and just started using [[Commons:Main Page|Wikimedia Commons]] as [[commons:User:Gentgeen]] 
+
+:My [[/monobook.css|style sheet]] and [[/monobook.js|JavaScript]]
+:My [[/Sandbox|personal sandbox]]
+:Some [[/images|images]] that I like
+
+{{userpage}}</text>
+      <sha1>391m8r2gyk1pt1ajjwnt8fftynl2849</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 7</title>
+    <ns>0</ns>
+    <id>3300</id>
+    <revision>
+      <id>491288</id>
+      <parentid>381491</parentid>
+      <timestamp>2006-06-18T07:40:36Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">What is the maximum power that an appliance should have if it connect to a 230V supply by a 5A cable ?
+
+*[[GCSE Science/Electricity multiple choice practice question 7 Answer 1|46W]]
+*[[GCSE Science/Electricity multiple choice practice question 7 Answer 2|1.15kW]]
+*[[GCSE Science/Electricity multiple choice practice question 7 Answer 3|115W]]
+*[[GCSE Science/Electricity multiple choice practice question 7 Answer 4|4600W]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>0fa069hz728z83o4negcistxmi3dmwu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 7 Answer 2</title>
+    <ns>0</ns>
+    <id>3301</id>
+    <revision>
+      <id>491290</id>
+      <parentid>381495</parentid>
+      <timestamp>2006-06-18T07:41:12Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">Well done this is the correct answer.
+
+
+[[GCSE Science/Electricity multiple choice practice question 8|On to the next question&gt;&gt;]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>pazt6h371a4p7wyqu8jxuica3u9jkwl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 7 Answer 1</title>
+    <ns>0</ns>
+    <id>3302</id>
+    <revision>
+      <id>491289</id>
+      <parentid>381493</parentid>
+      <timestamp>2006-06-18T07:41:11Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">Sorry this is an incorrect answer. Remember that to find the power you need to ''multiply'' the current and the voltage.
+
+[[GCSE Science/Electricity multiple choice practice question 7 |&lt;&lt;Go back and try again]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>qtihvge6ik7n0eobwm3ow80006px2nt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 7 Answer 3</title>
+    <ns>0</ns>
+    <id>3303</id>
+    <revision>
+      <id>491291</id>
+      <parentid>381497</parentid>
+      <timestamp>2006-06-18T07:41:14Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">Sorry  but this isn't the correct answer. Be careful about powers of ten when you when you do a calculation, especially when using a calculator.
+
+
+[[GCSE Science/Electricity multiple choice practice question 7 |&lt;&lt;Go back and try again]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>l9x97vvnn7w9lkmnkbp8ji1loa5zmd2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 7 Answer 4</title>
+    <ns>0</ns>
+    <id>3304</id>
+    <revision>
+      <id>2066299</id>
+      <parentid>491292</parentid>
+      <timestamp>2011-03-06T04:54:13Z</timestamp>
+      <contributor>
+        <username>Avicennasis</username>
+        <id>314063</id>
+      </contributor>
+      <minor />
+      <comment>[[WP:AWB/T|Typo fixing]], typos fixed: Remeber → Remember using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">Sorry but this is the wrong answer. Remember you need to ''multiply'' the voltage and the current together to get the power.
+
+
+[[GCSE Science/Electricity multiple choice practice question 7 |&lt;&lt;Go back and try again]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>jklw5tgue1xt0135uv7mt4js594dd19</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:General Chemistry/Shells and Orbitals</title>
+    <ns>1</ns>
+    <id>3305</id>
+    <revision>
+      <id>2578391</id>
+      <parentid>2578390</parentid>
+      <timestamp>2013-11-04T08:20:35Z</timestamp>
+      <contributor>
+        <ip>71.174.126.2</ip>
+      </contributor>
+      <comment>/* Errrata */</comment>
+      <text xml:space="preserve">''Longer wavelengths have less energy; the s orbital has the longest wavelength allowed for an electron orbiting a nucleus and the penis
+ ''
+
+I don't think this is actually true. The difference between the s,p,d,and,f, is the angular momentum not the wavelength., isn't it ?
+
+:Yes. The distinguishing feature is the angular momentum quantum number, ''l''. Also, it's not always true that the s orbital has the lowest energy, since the energy is most strongly dependent on the energy level quantum number, ''n''. So the 4s shell is higher in energy than the 2p, for instance. [[User:DrBob|DrBob]] 21:07, 15 Dec 2003 (UTC)
+It is true however that the s orbital has the lowest energy ''within'' any given shell. I've attempted to get rid of all the errors on the page. i would apprieciate someonel looking the page over to spot any errors I may have made. [[User:Theresa knott|Theresa knott]] 09:56, 16 Dec 2003 (UTC)
+
+== utterly incomprehensible ==
+
+The explaination of the wave on a guitar string is not comprehendable unless the reader has some kind of pre-requisite knowledge...I dont know what that pre-requisite knowledge is, I just know that I for one dont have it.  I rather expect the example is one that only makes sense if one has knowledge from a more advanced field than general chemistry (physics perhaps)...in other words exactly the kind of knowledge one can assume 99.999999% of prospective readers of a text of this kind (people who dont yet know even about basic general chemistry) would have....
+
+== What?! ==
+
+I give up even trying to comprehend this text, I suspect that the author/s are so familiar with advanced concepts that they have failed to realise that comprehending the text requires knowledge far more advanced than anyone who needs a introductory general chemistry text would possess...
+
+== huh? ==
+
+I'm pretty good at chemistry, but this module makes almost no sense to me. It needs a ''major'' rewrite. [[User:Hoogli|Hoogli]] 16:05, 14 May 2007 (UTC)
+
+== QUESTION ==
+
+DOES ORBITALS EXTENDED FROM S P D F???? I MEAN G H???
+
+== Possible Error ==
+I believe a mistake is in the text of the &quot;Electron Shells&quot; section.
+In this statement &quot;In a one-electron atom (e.g. H, He+, Li+, etc.) the energy ...&quot;,  Li+ is not a single electron atom; but Li++ (or Li 2+) would be.
+[[Special:Contributions/71.174.126.2|71.174.126.2]] ([[User talk:71.174.126.2|discuss]]) 08:17, 4 November 2013 (UTC)</text>
+      <sha1>fw324q5ftfop66mnumgqb0n6hv5r2xm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 8</title>
+    <ns>0</ns>
+    <id>3307</id>
+    <revision>
+      <id>491293</id>
+      <parentid>381483</parentid>
+      <timestamp>2006-06-18T07:41:21Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">[[Image:VC wire.png]]
+
+
+The graph above shows how the potential difference across a conductor varied with the current flowing through it. Which of the following statements is true ?
+
+
+*[[GCSE Science/Electricity multiple choice practice question 8 answer 1|The resistance of the conductor increases as the current increases]]
+*[[GCSE Science/Electricity multiple choice practice question 8 answer 2|The resistance of the conductor decreases as the current increases]]
+*[[GCSE Science/Electricity multiple choice practice question 8 answer 3|The resistance of the conductor stays constant as the current increases]]
+*[[GCSE Science/Electricity multiple choice practice question 8 answer 4|It is not possible to say anything about the resistance of the conductor based on the information given]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>og3x2vhr4zcybxczajctosr1v0ku8vx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,3684 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>File:Introductory Physics fig 1.17.png</title>
+    <ns>6</ns>
+    <id>103</id>
+    <revision>
+      <id>2699305</id>
+      <parentid>904348</parentid>
+      <timestamp>2014-09-10T18:33:02Z</timestamp>
+      <contributor>
+        <username>JackBot</username>
+        <id>396820</id>
+      </contributor>
+      <minor />
+      <comment>File is now available on [[:commons:File:Introductory Physics fig 1.17.png|Wikimedia Commons]].</comment>
+      <text xml:space="preserve">Introductory Physics, figure 1.17 Copyright 1998, 2000, 2001, 2003 David J. Raymond, under GNU FDL
+
+==Licensing==
+{{GFDL}}{{Now Commons|1=Introductory Physics fig 1.17.png}}</text>
+      <sha1>hi4f3c5xlvuel2moz98w1cd0vyirwsj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Introductory Physics fig 1.18.png</title>
+    <ns>6</ns>
+    <id>104</id>
+    <revision>
+      <id>2699306</id>
+      <parentid>904349</parentid>
+      <timestamp>2014-09-10T18:33:04Z</timestamp>
+      <contributor>
+        <username>JackBot</username>
+        <id>396820</id>
+      </contributor>
+      <minor />
+      <comment>File is now available on [[:commons:File:Introductory Physics fig 1.18.png|Wikimedia Commons]].</comment>
+      <text xml:space="preserve">Introductory Physics, figure 1.18 Copyright 1998, 2000, 2001, 2003 David J. Raymond, under GNU FDL
+
+==Licensing==
+{{GFDL}}{{Now Commons|1=Introductory Physics fig 1.18.png}}</text>
+      <sha1>45kqsxv1hjw76nyowpa69zx9yd8g45v</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Introductory Physics fig 1.19.png</title>
+    <ns>6</ns>
+    <id>105</id>
+    <revision>
+      <id>2699307</id>
+      <parentid>904351</parentid>
+      <timestamp>2014-09-10T18:33:06Z</timestamp>
+      <contributor>
+        <username>JackBot</username>
+        <id>396820</id>
+      </contributor>
+      <minor />
+      <comment>File is now available on [[:commons:File:Introductory Physics fig 1.19.png|Wikimedia Commons]].</comment>
+      <text xml:space="preserve">Introductory Physics, figure 1.19 Copyright 1998, 2000, 2001, 2003 David J. Raymond, under GNU FDL
+
+==Licensing==
+{{GFDL}}{{Now Commons|1=Introductory Physics fig 1.19.png}}</text>
+      <sha1>38fhrlbmqr1t8cjg88anqixd2j84nni</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Introductory Physics fig 1.20.png</title>
+    <ns>6</ns>
+    <id>106</id>
+    <revision>
+      <id>2699308</id>
+      <parentid>904353</parentid>
+      <timestamp>2014-09-10T18:33:10Z</timestamp>
+      <contributor>
+        <username>JackBot</username>
+        <id>396820</id>
+      </contributor>
+      <minor />
+      <comment>File is now available on [[:commons:File:Introductory Physics fig 1.20.png|Wikimedia Commons]].</comment>
+      <text xml:space="preserve">Introductory Physics, figure 1.20 Copyright 1998, 2000, 2001, 2003 David J. Raymond, under GNU FDL
+
+==Licensing==
+{{GFDL}}{{Now Commons|1=Introductory Physics fig 1.20.png}}</text>
+      <sha1>mj5qhzjijino34orsegua5f0lu0fmy4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Geoffrey</title>
+    <ns>2</ns>
+    <id>109</id>
+    <revision>
+      <id>152300</id>
+      <parentid>6547</parentid>
+      <timestamp>2003-11-03T19:52:00Z</timestamp>
+      <contributor>
+        <username>Geoffrey</username>
+        <id>21</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">:[[en:User:Geoffrey]] | [[en:User talk:Geoffrey]]
+
+Something I may not have mentioned at en: and is relevant here: I am a high school student. And I don't like the textbooks there.
+
+I am open to relicensing my own contributions here and on en:.</text>
+      <sha1>fo437aswlx31f7q5ftfh3i3it3kk428</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Jimregan/C Primer chapter 1</title>
+    <ns>2</ns>
+    <id>110</id>
+    <revision>
+      <id>152301</id>
+      <timestamp>2003-07-18T00:56:22Z</timestamp>
+      <contributor>
+        <username>Jimregan</username>
+        <id>20</id>
+      </contributor>
+      <comment>Pasted &amp; wikified, somewhat</comment>
+      <text xml:space="preserve">== Introduction to C; Functions; Control Constructs ==
+
+The C programming language is sometimes referred to as a &quot;middle-level&quot; language. It provides low-level programming capability at the expense of some user-friendliness. Some cynics claim that &quot;C combines the flexibility and power of assembly language with the user-friendliness of assembly language.&quot;
+
+The original implementations of C were defined as described in the classic reference, ''The C Programming Language'', by Brian Kernighan and Dennis Ritchie. This definition left a few things to be desired, and the American National Standards Institute (ANSI) formed a group in the 1980s to tighten up the spec. The result was &quot;ANSI C&quot;, which is the focus of this document. 
+
+=== An Introductory C Program ===
+
+Here's a simple C program to calculate the volume of a sphere:
+
+   /* sphere.c */
+
+   #include &lt;stdio.h&gt;                /* Include header file for printf. */
+   #define PI 3.141592654            /* Define a constant. */
+
+   float sphere( int rad );          /* Function prototype. */
+
+   void main()                       /* Main program. */
+   {
+     float vol;                      /* Declare variable. */
+     int radius = 3;                 /* Declare and initialize variable. */
+     vol = sphere( radius );         /* Call function, get result, print it. */
+     printf( &quot;Volume: %f\n&quot;, vol );
+   }
+
+   float sphere( int rad )           /* Function. */
+   { 
+     float result;                   /* Local variable declaration. */
+     result = rad * rad * rad;
+     result = 4 * PI * result / 3;
+     return( result );               /* Result returned to main program. */
+   }
+
+The first thing you'll figure out about this program are that comments are enclosed by &quot;/*&quot; and &quot;*/&quot;. Comments can go almost anywhere, since the compiler ignores them. You'll also notice that most lines of statements in the program end with a &quot;;&quot; and that some do not. Either forgetting a &quot;;&quot; or adding one where it isn't needed is a common C programming bugs. Lines of code are grouped by using curly brackets (&quot;{&quot; and &quot;}&quot;).
+
+C is case-sensitive. All C keywords are in lower-case. You can declare program variable and function names in whatever case you want, but by convention they should be in lower case. Constants, more on this momentarily, are upper case by convention.
+
+* Not all the lines in a C program are executable statements. Some of the statements shown above are &quot;preprocessor directives&quot;.
+
+C compilation is a multi-pass process. To create a program, a C compiler system performs the following steps:
+
+* It runs the source file text through a &quot;C preprocessor&quot;. All this does is perform various text manipulations on the source file, such as macro expansion, constant expansion, file inclusion, and conditional compilation
+* more on all these things later. The output of the preprocessor is a second-level source file for actual compilation. You can think of the C preprocessor as a sort of specialized &quot;text editor&quot;.
+
+* Next, it runs the second-level source file through the compiler proper, which actually converts the source code statements into their binary equivalents. That is, it creates an &quot;object file&quot; from the source file.
+
+The object file still cannot be executed, however. If it makes use of C library functions, such as &quot;printf()&quot; in the example above, the binary code for the library functions has to be merged, or &quot;linked&quot;, with the program object file. Furthermore, some addressing information needs to be linked to the object file so it can actually be loaded and run on the target system.
+
+      These linking tasks are performed by a &quot;linker&quot;, which takes one or more object files and links them to binary library files to create an &quot;executable&quot; file that can actually be run. Note that you can create programs from a set of multiple object files using the linker.
+
+      C has a large number of libraries and library functions. C by itself has few statements, so much of its functionality is implemented as library calls. 
+
+Commands intended for the C preprocessor, rather than for the C compiler itself, start with a &quot;#&quot; and are known as &quot;preprocessor directives&quot; or &quot;metacommands&quot;. The example program above has two such metacommands:
+
+  #include &lt;stdio.h&gt;
+  #define PI 3.14
+
+The first statement, &quot;#include &lt;stdio.h&gt;&quot;, simply merges the contents of the file &quot;stdio.h&quot; to the contents of the current program file before compilation. The &quot;stdio.h&quot; file contains declarations required for use of the standard-I/O library, which provides the &quot;printf()&quot; function.
+
+Incidentally, the &quot;stdio.h&quot; file, or &quot;header file&quot;, only contains declarations. The actual code for the library is contained in separate library files that are added at link time. You can create your own header files with your own declarations if you like, and include them as follows:
+
+   #include &quot;mydefs.h&quot;
+
+Angle brackets are only used to define default header files that the C preprocessor can find in default directories.
+
+ A C program is built up of one or more functions. The program above contains two user-defined functions, &quot;main()&quot; and &quot;sphere()&quot;, as well as the &quot;printf()&quot; library function.
+
+The &quot;main()&quot; function is mandatory when writing a self-contained program. It defines the function that is automatically executed when the program is run. All other functions will be directly or indirectly called by &quot;main()&quot;.
+
+You call a C function simply by specifying its name, with any arguments enclosed in following parentheses, with commas separating the arguments. In the program above, the &quot;printf()&quot; function is called as follows:
+
+   printf( &quot;Volume: %f\n&quot;, volume );
+
+This invocation provides two arguments. The first -- &quot;Volume: %f\n&quot; -- supplies text and some formatting information. The second, &quot;volume&quot;, supplies a numeric value.
+
+A function may or may not return a value. The &quot;sphere()&quot; function does, and so is invoked as follows:
+
+   volume = sphere( radius );
+
+A function uses the &quot;return&quot; keyword to return a value. In the case of &quot;sphere&quot;, it returns the volume of the sphere with the statement:
+
+   return( result );
+
+ All variables in a C program must be &quot;declared&quot; by specifying their name and type. The example program declares two variables for the &quot;main&quot; routine:
+
+   float volume;
+   int radius = 3;
+
+-- and one in the &quot;sphere&quot; routine:
+
+   float result;
+
+The declarations of &quot;volume&quot; and &quot;result&quot; specify a floating-point, or real, variable. The declaration of &quot;radius&quot; specifies an integer variable. The declaration allows variables to be initialized when declared if need be, in this case declaring &quot;radius&quot; and assigning it a value of &quot;3&quot;.
+
+All three of these declarations define &quot;local&quot; variables. Local variables exist only within the functions that declare them. You could declare variables of the same name in different functions, and they would still remain distinct variables. You can also declare &quot;global&quot; variables that can be shared by all functions by declaring them outside the program's functions and then using the &quot;extern&quot; keyword within the functions to allow access to it.
+
+   /* global.c */
+
+   #include &lt;stdio.h&gt;
+
+   void somefunc( void );
+   int globalvar;
+
+   void main()
+   {
+     extern int globalvar;
+     globalvar = 42;
+     somefunc();
+     printf( &quot;%d\n&quot;, globalvar );
+   }
+
+   void somefunc( void )
+   {
+     extern int globalvar;
+     printf( &quot;%d\n&quot;, globalvar );
+     globalvar = 13;
+   }
+
+ You'll notice that besides the variable declarations, there is also a function declaration, or &quot;function prototype&quot;, that allows the C compiler to check that any calls to the function are correct:
+
+   float sphere( int rad );
+
+The function prototypes declare the type of value the function returns (the type will be &quot;void&quot; if it does not return a value), and the arguments that are to be provided with the function.
+
+Finally, the &quot;printf()&quot; library function provides text output capabilities for the program. You can use &quot;printf()&quot; to print a simple message as follows:
+
+   printf( &quot;Hello, world!&quot; );
+
+-- displays the text:
+
+   Hello, world!
+
+Remember that &quot;printf()&quot; doesn't automatically add a &quot;newline&quot; to allow following &quot;printf()&quot;s to print on the next display line. If you execute:
+
+   printf( &quot;Twas bryllig &quot; );
+   printf( &quot;and the slithy toves&quot; );
+
+-- you get the text:
+
+   Twas bryllig and the slithy toves
+
+You must add a newline character (&quot;\n&quot;) to force a newline. For example:
+
+   printf( &quot;Hello,\nworld!&quot; );
+
+-- gives:
+
+   Hello,
+   world!
+
+These examples only print a predefined text constant. You can also include &quot;format codes&quot; in the string and then follow the string with one or more variables to print the values they contain:
+
+   printf( &quot; Result = %f\n&quot;, result );
+
+This would print something like:
+
+   Result = 0.5
+
+The &quot;%f&quot; is the format code that tells &quot;printf&quot; to print a floating-point number. For another example, consider:
+
+   printf( &quot;%d times %d = %d\n&quot;, a, b, a * b );
+
+-- which would print something like:
+
+   4 * 10 = 40
+
+The &quot;%d&quot; prints an integer quantity. Math or string expressions and functions can be included in the argument list.
+
+If you simply want to print a string of text, you can use a simpler function, &quot;puts()&quot;, that displays the specified text and automatically appends a newline:
+
+   puts( &quot;Hello, world!&quot; );
+
+Just for fun, let's take a look at what our example program would be like in the earlier versions of C:
+
+   /* oldspher.c */
+
+   #include &lt;stdio.h&gt;
+   #define PI 3.141592654
+
+   float sphere();        /* Parameters not defined in function prototype. */
+
+   main()
+   {
+     float volume;
+     int radius = 3;
+
+     volume = sphere( radius );
+     printf( &quot;Volume: %f\n&quot;, volume );
+   }
+
+   float sphere( rad )
+   int rad;          /* Parameter type not specified in function header. */
+   { 
+     float result;
+
+     result = rad * rad * rad;
+     result = 4 * PI * result / 3;
+     return result;
+   }
+
+The following sections elaborate on the principles outlined in this section. They may repeat information presented above for the sake of completeness.
+
+=== C Functions in Detail ===
+
+As noted previously, any C program must have a &quot;main()&quot; function to contain the code executed by default when the program is run.
+
+There can be as many functions as you like in the program, and all functions are &quot;visible&quot; to all other functions. For example, if you have:
+
+   /* fdomain.c */
+
+   #include &lt;stdio.h&gt;
+
+   void func1( void );
+   void func2( void );
+   
+   void main()
+   {
+     puts( &quot;MAIN&quot; );
+     func1();
+     func2();
+   }
+
+   void func1( void )
+   {
+     puts( &quot;FUNC1&quot; );
+   }
+
+   void func2( void )
+   {
+     puts( &quot;FUNC2&quot; );
+     func1();
+   }
+
+-- then &quot;main()&quot; can call &quot;func1()&quot; and &quot;func2()&quot;; &quot;func1()&quot; could call &quot;func2()&quot;; and &quot;func2()&quot; can call &quot;func1()&quot;. In principle, even &quot;main()&quot; could be called by other functions, but there's no intelligent reason to do so. Although &quot;main()&quot; is the first function in the listing above, there's no particular requirement that it be so, but by convention it always is.
+
+Functions can call themselves recursively. For example, &quot;func1()&quot; can call &quot;func1()&quot; indefinitely, or at least until a stack overflow occurs. You cannot declare functions inside other functions.
+
+Functions are defined as follows:
+
+   float sphere( int rad )
+   { 
+      ...
+   }
+
+They begin with a function header that starts with a return value type declaration (&quot;float&quot; in this case), then the function name (&quot;sphere&quot;), and finally the arguments required (&quot;int rad&quot;).
+
+ANSI C dictates that function prototypes be provided to allow the compiler to perform better checking on function calls:
+
+   float sphere( int rad );
+
+For an example, consider a simple program that &quot;fires&quot; a weapon (simply by printing &quot;BANG!&quot;):
+
+   /* bango.c */
+
+   #include &lt;stdio.h&gt;
+
+   void fire( void );
+
+   void main()
+   {
+     printf( &quot;Firing!\n&quot; );
+     fire();
+     printf( &quot;Fired!\n&quot; );
+   }
+
+   void fire( void )
+   {
+     printf( &quot;BANG!\n&quot; );
+   }
+
+Since &quot;fire()&quot; does not return a value and does not accept any arguments, both the return value and the argument are declared as &quot;void&quot;; &quot;fire()&quot; also does not use a &quot;return&quot; statement and simply returns automatically when completed.
+
+Let's modify this example to allow &quot;fire()&quot; to accept an argument that defines a number of shots. This gives the program:
+
+   /* fire.c */
+
+   #include &lt;stdio.h&gt;
+
+   void fire( int n );
+
+   void main()
+   {
+     printf( &quot;Firing!\n&quot; );
+     fire( 5 );
+     printf( &quot;Fired!\n&quot; );
+   }
+
+   void fire( int n )
+   {
+     int i;
+     for ( i = 1; i &lt;= n ; ++i )
+     {
+       printf( &quot;BANG!\n&quot; );
+     }
+   }
+
+This program passes a single parameter, an integer, to the &quot;fire()&quot; function. The function uses a &quot;for&quot; loop to execute a &quot;BANG!&quot; the specified number of times (more on &quot;for&quot; later).
+
+If a function requires multiple arguments, they can be separated by commas:
+
+   printf( &quot;%d times %d = %d\n&quot;, a, b, a * b );
+
+The word &quot;parameter&quot; is sometimes used in place of &quot;argument&quot;. There is actually a fine distinction between these two terms: the calling routine specifies &quot;arguments&quot; to the called function, while the called function receives the &quot;parameters&quot; from the calling routine.
+
+When you list a parameter in the function header, it becomes a local variable to that function. It is initialized to the value provided as an argument by the calling routine. If a variable is used as an argument, there is no need for it to have the same name as the parameter specified in the function header.
+
+For example:
+
+  fire( shots );
+  ...
+  void fire( int n )
+  ... 
+
+The integer variable passed to &quot;fire()&quot; has the name &quot;shots&quot;, but &quot;fire()&quot; accepts the value of &quot;shots&quot; in a local variable named &quot;n&quot;. The argument and the parameter could also have the same name, but even then they would remain distinct variables.
+
+Parameters are matched with arguments in the order in which they are sent:
+
+   /* pmmatch.c */
+
+   #include &lt;stdio.h&gt;
+
+   void showme( int a, int b );
+
+   void main()
+   {
+     int x = 1, y = 100;
+     showme( x, y );
+   }
+
+   void showme( int a, int b )
+   {
+     printf( &quot;a=%d  b=%d\n&quot;, a, b );
+   }
+
+This prints:
+
+   a=1  b=100
+
+You can also modify this program to show that the arguments are not affected by any operations the function performs on the parameters, as follows:
+
+   /* noside.c */
+
+   #include &lt;stdio.h&gt;
+
+   void showmore( int a, int b );
+
+   void main()
+   {
+      int x = 1, y = 100;
+      showmore( x, y );
+      printf( &quot;x=%d  y=%d\n&quot;, x, y );
+   }
+
+   void showmore( int a, int b )
+   {
+      printf( &quot;a=%d  b=%d\n&quot;, a, b );
+      a = 42;
+      b = 666;
+      printf( &quot;a=%d  b=%d\n&quot;, a, b );
+   }
+
+This prints:
+
+   a=1  b=100
+   a=42  b=666
+   x=1  y=100
+
+You can send arrays to functions as if they were any other type of variable:
+
+   /* fnarray.c */
+
+   #include &lt;stdio.h&gt;
+   #define SIZE 10
+   
+   void testfunc( int a[] );
+   
+   void main()
+   {
+     int ctr, a[SIZE];
+     for( ctr = 0; ctr &lt; SIZE; ++ctr )
+     {
+       a[ctr] = ctr * ctr;
+     }
+     testfunc( a );
+   }
+   
+   void testfunc( int a[] )
+   {
+     int n;
+     for( n = 0; n &lt; SIZE; ++ n )
+     {
+       printf( &quot;%d\n&quot;, a[n] );
+     }
+   }
+
+Although a novice programmer would not want to deal with such complications, it is possible to define functions with a variable number of parameters. In fact, &quot;printf()&quot; is such a function. We won't worry about this issue further in this document.
+
+The normal way to get a value out of a function is simply to provide it as a return value. This neatly encapsulates the function and isolates it from the calling routine. In the example in the first section, the function &quot;sphere()&quot; returned a &quot;float&quot; value with the statement:
+
+   return( result );
+
+The calling routine accepted the return value as follows:
+
+   volume = sphere( radius );
+
+The return value can be used directly as a parameter to other functions:
+
+   printf( &quot;Volume: %f\n&quot;, sphere( radius ) );
+
+The return value does not have to be used; &quot;printf()&quot;, for example, returns the number of characters it prints, but few programs bother to check.
+
+A function can contain more than one &quot;return&quot; statement:
+
+   if( error == 0 )
+   {
+     return( 0 );
+   }
+   else
+   {
+     return( 1 );
+   }
+
+You can place &quot;return&quot; anywhere in a function, and it does not have to return a value. Without a value, &quot;return&quot; simply causes the function to return control to the calling routine. This of course implies that the data type of the function be declared as &quot;void&quot;:
+
+   void ftest( int somevar )
+   {
+      ...
+      if( error == 0 )
+      {
+        return();
+      }
+      ...
+   }
+
+If there's no &quot;return&quot; in a function, the function returns after it executes its last statement. Again, this means the function type must be declared &quot;void&quot;.
+
+The &quot;return&quot; statement can only return a single value, but this value can be a &quot;pointer&quot; to an array or a data structure. Pointers are a complicated subject and will be discussed in detail later. They can also be used to return values through an argument list. 
+
+=== C Control Constructs ===
+
+C contains a number of looping constructs, such as the &quot;while&quot; loop:
+
+   /* while.c */
+
+   #include &lt;stdio.h&gt;
+
+   void main()
+   {
+     int test = 10;
+     while( test &gt; 0 )
+     {
+       printf( &quot;test = %d\n&quot;, test );
+       test = test - 2;
+     }
+   }
+
+This loop may not execute at all, if &quot;test&quot; starts with an initial value less than or equal to 0. There is a variant, &quot;do&quot;, that will always execute at least once:
+
+   /* do.c */
+
+   #include &lt;stdio.h&gt;
+
+   void main()
+   {
+     int test = 10;
+     do 
+     {
+       printf( &quot;test = %d\n&quot;, test );
+       test = test - 2;
+     }
+     while( test &gt; 0 );
+   } 
+
+The most common looping construct, however, is the &quot;for&quot; loop, which creates a loop much like the &quot;while&quot; loop but in a more compact form:
+
+   /* for.c */
+
+   #include &lt;stdio.h&gt;
+   
+   void main()
+   {
+     int test;
+     for( test = 10; test &gt; 0; test = test - 2 )
+     {
+       printf( &quot;test = %d\n&quot;, test );
+     }
+
+   }
+
+Notice that with all these loops, the initial loop statement does not end with a &quot;;&quot;. If you did this with the &quot;for&quot; loop above, the &quot;for&quot; statement would execute to completion, but not run any of the statements in the body of the loop.
+
+The &quot;for&quot; loop has the syntax:
+
+   for( &lt;initialization&gt;; &lt;operating test&gt;; &lt;modifying expression&gt; )
+
+All the elements in parentheses are optional. You could actually run a &quot;for&quot; loop indefinitely with:
+
+   for( ; ; )
+   {
+     ...
+   }
+
+-- although using an indefinite &quot;while&quot; is cleaner:
+
+   while( 1 )
+   {
+     ...
+   }
+
+You can use multiple expressions in either the initialization or the modifying expression with the &quot;,&quot; operator:
+
+   /* formax.c */
+
+   #include &lt;stdio.h&gt;
+
+   void main()
+   {
+     int a, b;
+     for ( a = 256, b = 1; b &lt; 512 ; a = a / 2, b = b * 2 )
+     {
+       printf( &quot;a = %d  b = %d\n&quot;, a, b );
+     }
+   }
+
+The conditional tests available to C are as follows:
+
+   a == b:   equals                       
+   a != b:   not equals
+   a &lt; b:    less than                    
+   a &gt; b:    greater than
+   a &lt;= b:   less than or equals          
+   a &gt;= b:   greater than or equals
+
+The fact that &quot;==&quot; is used to perform the &quot;equals&quot; test, while &quot;=&quot; is used as the assignment operator, often causes confusion and is a common bug in C programming:
+
+   a == b:   Is &quot;a&quot; equal to &quot;b&quot;?
+   a = b:    Assign value of &quot;b&quot; to &quot;a&quot;.
+
+C also contains decision-making statements, such as &quot;if&quot;:
+
+   /* if.c */
+
+   #include &lt;stdio.h&gt;
+   #define MISSILE 1
+
+   void fire( int weapon )
+
+   void main()
+   {
+     fire( MISSILE );
+   }
+
+   void fire( int weapon )
+   {
+     if( weapon == MISSILE )
+     {
+       printf( &quot;Fired missile!\n&quot; );
+     }
+     if( weapon != MISSILE )
+     {
+       printf( &quot;Unknown weapon!\n&quot;);
+     }
+   }
+
+This example can be more easily implemented using an &quot;else&quot; clause:
+
+   /* ifelse.c */
+
+   void fire( int weapon )
+   {
+     if( weapon == MISSILE )
+     {
+       printf( &quot;Fired missile!\n&quot; );
+     }
+     else
+     {
+       printf( &quot;Unknown weapon!\n&quot;);
+     }
+   }
+
+Since there is only one statement in each clause, the curly brackets aren't really necessary. This would work just as well:
+
+   void fire( int weapon )
+   {
+     if( weapon == MISSILE )
+       printf( &quot;Fired missile!\n&quot; );
+     else
+       printf( &quot;Unknown weapon!\n&quot; );
+   }
+
+However, the brackets make the structure more obvious; prevent errors if you add statements to the conditional clauses; and the compiler doesn't care one way or another, it generates the same code.
+
+There is no &quot;elseif&quot; keyword, but you can nest &quot;if&quot; statements:
+
+   /* nestif.c */
+
+   #include &lt;stdio.h&gt;
+   #define MISSILE 1
+   #define LASER 2
+
+   void fire( int weapon )
+
+   void main()
+   {
+     fire( LASER );
+   }
+
+   void fire( int weapon )
+   {
+     if( weapon == MISSILE )
+     {
+       printf( &quot;Fired missile!\n&quot; );
+     }
+     else
+     {
+       if( weapon == LASER )
+       {
+         printf( &quot;Fired laser!\n&quot; );
+       }
+       else
+       {
+         printf( &quot;Unknown weapon!\n&quot;);
+       }
+     }
+   }
+
+This is somewhat clumsy, however, and the &quot;switch&quot; statement does a cleaner job:
+
+   /* switch.c */
+
+   void fire( int weapon )
+   {
+     switch( weapon )
+     {
+     case MISSILE:
+       printf( &quot;Fired missile!\n&quot; );
+       break;
+     case LASER:
+       printf( &quot;Fired laser!\n&quot; );
+       break;
+     default:
+       printf( &quot;Unknown weapon!\n&quot;);
+       break;
+     }
+   }
+
+The &quot;switch&quot; statement tests the value of a single variable, which means that if you are testing multiple variables, or are testing for anything but equality to one of a list of values, you'll still have to use the &quot;if&quot; statement. The optional &quot;default&quot; clause is used to handle conditions not covered by the other cases.
+
+Each clause ends in a &quot;break&quot;, which causes execution to break out of the &quot;switch&quot;. Leaving out a &quot;break&quot; can be another subtle error in a C program, since if it isn' there, execution flows right through to the next clause. However, this can be used to advantage. Suppose in our example the routine can also be asked to fire a ROCKET, which is the same as a MISSILE:
+
+   void fire( int weapon )
+   {
+     switch( weapon )
+     {
+     case ROCKET:
+     case MISSILE:
+       printf( &quot;Fired missile!\n&quot; );
+       break;
+     case LASER:
+       printf( &quot;Fired laser!\n&quot; );
+       break;
+     default:
+       printf( &quot;Unknown weapon!\n&quot;);
+       break;
+     }
+   }
+
+The &quot;break&quot; statement is not specific to &quot;switch&quot; statements. It can be used to break out of other control structures, though good program design tends to avoid such improvisations:
+
+   /* break.c */
+
+   #include &lt;stdio.h&gt;
+
+   void main()
+   {
+     int n;
+     for( n = 0; n &lt; 10; n = n + 1 )
+     {
+       if( n == 5 )
+       {
+         break;  /* Punch out of loop at value 5. */
+       }
+       else
+       {
+         printf( &quot;%d\n&quot;, n );
+       }
+     }
+   }
+
+If the &quot;for&quot; loop were nested inside a &quot;while&quot; loop, a &quot;break&quot; out of the &quot;for&quot; loop would still leave you stuck in the &quot;while&quot; loop. The &quot;break&quot; keyword only applies to the control construct that executes it.
+
+There is also a &quot;continue&quot; statement that allows you to skip to the end of the loop body and continue with the next iteration of the loop. For example:
+
+   /* continue.c */
+
+   #include &lt;stdio.h&gt;
+
+   void main()
+   {
+     int n;
+     for( n = 0; n &lt; 10; n = n + 1 )
+     {
+       if( n == 5 )
+       {
+         continue;
+       }
+       else
+       {
+         printf( &quot;%d\n&quot;, n );
+       }
+     }
+   }
+
+Finally, there is a &quot;goto&quot; statement:
+
+   goto punchout;
+   ...
+   punchout:
+
+-- that allows you to jump to an arbitrary tag within a function, but the use of this statement is generally discouraged.
+
+While these are the lot of C's true control structures, there is also a special &quot;conditional operator&quot; that allows you to perform simple conditional assigment of the form:
+
+   if( a == 5) 
+   {
+     b = -10;
+   }
+   else
+   {
+     b = 255;
+   }
+
+-- using a much tidier, if more cryptic, format:
+
+   b = ( a == 5 ) ? -10 : 255 ;
+
+[http://www.vectorsite.net/tscpp1.html v2.0.7 / 1 of 7 / 01 feb 02 / greg goebel / public domain]</text>
+      <sha1>63ps9c7n5y6bjumh8amgmzkiwepxrab</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Jimregan/C Primer chapter 2</title>
+    <ns>2</ns>
+    <id>111</id>
+    <revision>
+      <id>152302</id>
+      <timestamp>2003-07-18T01:04:01Z</timestamp>
+      <contributor>
+        <username>Jimregan</username>
+        <id>20</id>
+      </contributor>
+      <comment>wikified</comment>
+      <text xml:space="preserve">== C Variables, Operators, &amp; Preprocessor Directives == 
+
+C supports a flexible set of variable types and structures, as well as common arithmetic and math functions along with a few interesting operators that are unique to C. This chapter explains them in detail, and ends with a short discussion of preprocessor commands.
+
+=== C Variables, Declarations, and Constants ===
+
+C includes the following fundamental data types:
+
+   ____________________________________________________________________
+
+   type            use          size         range
+   ____________________________________________________________________
+
+   char            character     8 bits   -128 to 127
+   unsigned char   character     8 bits   0 to 255
+   short           integer      16 bits   -32,768 to 32,767
+   unsigned short  integer      16 bits   0 to 65,535
+   int             integer      32 bits   -32,768 to 32,767
+   unsigned int    integer      32 bits   0 to 65,535
+   long            integer      32 bits   -2,147,483,648 to 2,147,483,647
+   unsigned long   integer      32 bits   0 to 4,294,967,295
+   float           real         32 bits   1.2E-38 to 3.4E+38
+   double          real         64 bits   2.2E-308 to 1.8E+308
+   long double     real        128 bits   3.4E-4932 to 1.2E+4932
+   ____________________________________________________________________
+
+These are representative values. The definitions tend to vary from system to system. For example, in some systems an &quot;int&quot; is 16 bits, and a &quot;long double&quot; could be 64 bits. The only thing that is guaranteed is the precedence:
+
+   short &lt;= int &lt;= long
+   float &lt;= double &lt;= long double
+
+One peculiarity of C that can lead to maddening problems is that while there is an &quot;unsigned char&quot; data type, for some reason many functions that deal with individual characters require variables to be declared &quot;int&quot; or &quot;unsigned int&quot;.
+
+Declarations are of the form:
+
+   int myval, tmp1, tmp2;
+   unsigned int marker1 = 1, marker2 = 10;
+   float magnitude, phase;
+
+Variable names can be at least 31 characters long, though modern compilers will invariably support longer. Variables names can be made up of letters, digits, and the &quot;_&quot; (underscore) character; the first character must be a letter. While you can use uppercase letters in variable names, conventional C usage reserves uppercase for constant names. A leading &quot;_&quot; is also legal, but is generally reserved for marking internal library names.
+
+C allows several variables to be declared in the same statement, with commas separating the declarations. The variables can be initialized when declared. Constant values for declarations can be declared in various formats:
+
+   128:       decimal int
+   256u:      decimal unsigned int
+   512l:      decimal long int
+   0xAF:      hex int
+   0173:      octal int
+   0.243:     float
+   0.1732f:   float
+   15.75E2:   float
+   'a':       character
+   &quot;giday&quot;:   string
+
+There are a number of special characters defined in C:
+
+   '\a':    alarm (beep) character
+   '\\p':    backspace
+   '\f':    formfeed
+   '\n':    newline
+   '\r':    carriage return
+   '
+
+'\v': vertical tab '\': backslash '\?': question mark '\'': single quote '&quot;\': double quote '\0NN': character code in octal '\xNN': character code in hex '\0': NULL character You can specify &quot;symbolic constants&quot; using the &quot;define&quot; C preprocessor declaration:
+
+   #define PI 3.141592654
+
+There is also a &quot;const&quot; declaration that defines a read-only variable, such as a memory location in ROM:
+
+   const int a;
+
+Arrays can be declared and initialized:
+
+   int myarray[10];
+   unsigned int list[5] = { 10, 15, 12, 19, 23 };
+   float rdata[128], grid[5][5];
+
+All C arrays have a starting index of 0, so &quot;list&quot; has the indexes 0 through 4. Elements in &quot;rdata&quot; would be accessed as follows:
+
+   for( i = 1; i &lt;= 127; i = i + 1 )
+   {
+      printf ( &quot;\f\n&quot;, rdata[i] );
+   }
+
+C does not perform rigorous bounds checking on array access. You can easily overrun the bounds of the array if you're not careful, and never realize it except for the fact that you are getting some very strange data.
+
+* Of particular importance are arrays of characters, which are used to store strings:
+
+   char s[128];
+   strcpy( s, &quot;This is a test!&quot;);
+
+The string &quot;This is a test!&quot; is used to initialize &quot;s&quot; through the &quot;strcpy()&quot; function, discussed in a later chapter. The stored string will contain a terminating &quot;null&quot; character (the character with ASCII code 0, represented by '\0'). The null is used by C functions that manipulate strings to determine where the end of the string is, and it is important to remember the null is there.
+
+The curious reader may wonder why the &quot;strcpy()&quot; function is needed to initialize the string. It might seem to be easier to do:
+
+   char s[128] = &quot;This is a test!&quot;;
+
+In fact, this is an absurd operation, but to explain why, the concept of &quot;pointers&quot; must be introduced.
+
+C allows you to define pointers that contain the address of a variable or an array. You could, for example, define a pointer named:
+
+   int *ptr;
+
+-- that is the address of a variable, rather than the variable itself. You could, in a convoluted fashion, then put a value into that location with the statement:
+
+   *ptr = 345;
+
+In an inverse fashion, you can use &quot;&amp;&quot; to get the address of a variable:
+
+   int tmp;
+   somefunc( &amp;tmp );
+
+This is confusing, so to sum up:
+
+    * A pointer is declared in the form: &quot;*myptr&quot;.
+
+    * If &quot;myvar&quot; is a variable, then &quot;&amp;myvar&quot; is a pointer to that variable.
+
+    * If &quot;myptr&quot; is a pointer, then &quot;*myptr&quot; gives the variable data for that pointer. 
+
+Pointers are useful because they allow a a function to return a value through a parameter variable. Otherwise, the function will simply get the data the variable contains and have no access to the variable itself.
+
+One peculiar aspect of C is that the name of an array actually specifies a pointer to the first element in the array. For example, if you declare:
+
+   char s[256];
+
+-- then if you perform:
+
+   somefunc( s )
+
+-- you have actually passed the address of the character array to the function, and the function will be able to modify it. However:
+
+   s[12]
+
+-- gives the value in the array value with index 12. Remember that this is the 13th element, since indexes always start at 0.
+
+There are more peculiarities to strings in C. Another interesting point is that a string literal actually evaluates to a pointer to the string it defines. This means that if you perform the following operation:
+
+   char *p;
+   p = &quot;Life, the Universe, &amp; Everything!&quot;;
+
+-- then &quot;p&quot; would be a pointer to the memory in which the C compiler stored the string literal, and &quot;p[0]&quot; would evaluate to &quot;L&quot;. In a similar sense, you could also perform the following operation and get:
+
+   char ch;
+   ch = &quot;Life, the Universe, &amp; Everything!&quot;[0];
+
+-- and get the character &quot;L&quot; into the variable &quot;ch&quot;.
+
+This is very well and good, but why care? The reason to care is because this explains why the operation:
+
+   char s[128] = &quot;This is a test!&quot;;
+
+-- is absurd. This statement tells the C compiler to reserve 128 bytes of memory and set a pointer named &quot;s&quot; to point to them. Then it reserves another block of memory to store &quot;This is a test!&quot; and points &quot;s&quot; to that. This means the block of 128 bytes of memory that were originally allocated are now sitting empty and unusable, and the program is actually accessing the memory that stores &quot;This is a test!&quot;.
+
+This will seem to work for a while, until the program tries to store more bytes into that block than can fit into the 16 bytes reserved for &quot;This is a test!&quot;. Since C is poor about bounds checking, this may cause all kinds of trouble.
+
+This is why &quot;strcpy()&quot; is necessary, unless you simply want to define a string that will not be modified or will not be used to store more data than it is initialized to. In that case, you can perform:
+
+   char *p;
+   p = &quot;Life, the Universe, &amp; Everything!                   &quot;;
+
+This is particularly tricky when passing strings as parameters to functions. The following example shows how to get around the pitfalls:
+
+   /* strparm.c */
+
+   #include &lt;stdio.h&gt;
+   #include &lt;string.h&gt;
+
+   char *strtest( char *a, char *b );
+   
+   main ()
+   {
+     char a[256], 
+          b[256], 
+          c[256]; 
+
+     strcpy( a, &quot;STRING A: ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789&quot; );
+     strcpy( b, &quot;STRING B: ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789&quot; );
+     strcpy( c, &quot;STRING C: ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789&quot; );
+
+     printf( &quot;Initial values of strings:\n&quot; );
+     printf( &quot;\n&quot; );
+     printf( &quot;   a = %s\n&quot;, a );
+     printf( &quot;   b = %s\n&quot;, b );
+     printf( &quot;   c = %s\n&quot;, c );
+     printf( &quot;\n&quot; );
+
+     strcpy( c, strtest( a, b ));
+   
+     printf( &quot;Final values of strings:\n&quot; );
+     printf( &quot;\n&quot; );
+     printf( &quot;   a = %s\n&quot;, a );
+     printf( &quot;   b = %s\n&quot;, b );
+     printf( &quot;   c = %s\n&quot;, c );
+     printf( &quot;\n&quot; );
+     
+   }
+   
+   char *strtest( char *x, char *y )
+   {
+     printf( &quot;Values passed to function:\n&quot; );
+     printf( &quot;\n&quot; );
+     printf( &quot;   x = %s\n&quot;, x );
+     printf( &quot;   y = %s\n&quot;, y );
+     printf( &quot;\n&quot; );
+   
+     strcpy( y, &quot;NEWSTRING B: abcdefghijklmnopqrstuvwxyz0123456789&quot; );
+     return( &quot;NEWSTRING C: abcdefghijklmnopqrstuvwxyz0123456789&quot; );
+   }
+
+You can define &quot;structures&quot; in C, which are collections of different data elements:
+
+   /* struct.c */
+
+   #include &lt;stdio.h&gt;
+   #include &lt;string.h&gt;
+   
+   struct person                              /* Define structure type. */
+   {
+      char name[50];
+      int age;
+      float wage;
+   };
+   
+   void display( struct person );
+   
+   void main()
+   {
+     struct person m;                         /* Declare an instance of it. */
+     strcpy( m.name, &quot;Coyote, Wile E.&quot; );     /* Initialize it. */
+     m.age = 41;
+     m.wage = 25.50f;
+     display( m );
+   }
+   
+   void display( struct person p )
+   {
+     printf( &quot;Name: %s\n&quot;, p.name );
+     printf( &quot;Age:  %d\n&quot;, p.age );
+     printf( &quot;Wage: %4.2f\n&quot;, p.wage );
+   }
+
+This program has a few interesting features:
+
+    * The structure has to be defined by a &quot;struct&quot; declaration before you can declare any structures themselves. In this case we define a struct of type &quot;person&quot;.
+
+    * Instances of the struct (&quot;m&quot;) are then declared as by defining the structure type (&quot;struct person&quot;).
+
+    * Elements of the structure are accessed with a &quot;dot&quot; notation (&quot;m.name&quot;, &quot;m.age&quot;, and &quot;m.wage&quot;). 
+
+You can copy a structure to another structure with a single assignment statement, as long as the structures are of the same type:
+
+   struct person m, n;
+   ...
+   m = n;
+
+You can also declare arrays of structures:
+
+   struct person group[10];
+   ...
+   strcpy( group[5].name, &quot;McQuack, Launchpad&quot; );
+
+-- or even embed structures inside structure declarations:
+
+   struct trip_rec
+   {
+      struct person traveler;
+      char dest[50];
+      int date[3];
+      int duration;
+      float cost;
+   }
+
+-- in which case the nested structure would be accessed as follows:
+
+   struct trip_rec t1;
+   ...
+   strcpy( t1.traveler.name, &quot;Martian, Marvin&quot; );
+
+The name of a structure defines a variable, not an address. If you pass the name of a structure to a function, the function works only on its local copy of the structure. If you want to return values, you have to provide an address:
+
+   setstruct( &amp;mystruct );
+
+There is a shorthand way to get at the elements of a structure if you have the pointer to the structure instead of the structure itself. If &quot;sptr&quot; is a pointer to a structure of type &quot;person&quot;, you could access its fields as follows:
+
+   strcpy( sptr-&gt;name, &quot;Leghorn, Foghorn&quot; );
+   sptr-&gt;age = 50;
+   sptr-&gt;wage = 12.98;
+
+C contains a concept similar to a structure known as a &quot;union&quot;. A union is declared in much the same way as a structure. For example:
+
+   union usample 
+   {
+     char ch;
+     int x;
+   }
+
+The difference is that the union can store either of these values, but not both at the same time. You can store a &quot;char&quot; value or an &quot;int&quot; value in an instance of the union defined above, but you can't store both at the same time. Only enough memory is allocated for the union to store the value of the biggest declared item in it, and that same memory is used to store data for all the declared items. Unions are not often used and will not be mentioned further.
+
+The following example program shows a practical use of structures. It tests a set of functions that perform operations on three-dimensional vectors:
+
+   vadd():     Add two vectors.
+   vsub():     Subtract two vectors.
+   vdot():     Vector dot product.
+   vcross():   Vector cross product.
+   vnorm():    Norm (magnitude) of vector.
+   vangle():   Angle between two vectors.
+   vprint():   Print out vector.
+
+The program follows:
+
+   /* vector.c */
+
+   #include &lt;stdio.h&gt;
+   #include &lt;math.h&gt;
+   
+   #define PI 3.141592654
+   
+   struct v
+   {
+      double i, j, k;
+   };
+   
+   void vadd( struct v, struct v, struct v* );
+   void vprint( struct v );
+   void vsub( struct v, struct v, struct v* );
+   double vnorm( struct v );
+   double vdot( struct v, struct v );
+   double vangle( struct v, struct v );
+   void vcross( struct v, struct v, struct v* );
+   
+   void main()
+   {
+     struct v v1 = { 1, 2, 3 }, v2 = { 30, 50, 100 }, v3;
+     double a;
+   
+     printf( &quot;Sample Vector 1: &quot; );
+     vprint( v1 );
+     printf( &quot;Sample Vector 2: &quot; );
+     vprint( v2 );
+   
+     vadd( v1, v2, &amp;v3 );
+     printf( &quot;Vector Add:      &quot; );
+     vprint( v3 );
+   
+     vsub( v1, v2, &amp;v3 );
+     printf( &quot;Vector Subtract: &quot; );
+     vprint( v3 );
+   
+     vcross( v1, v2, &amp;v3 );
+     printf( &quot;Cross Product:   &quot; );
+     vprint( v3 );
+   
+     printf( &quot;\n&quot; );
+     printf( &quot;Vector 1 Norm:  %f\n&quot;, vnorm( v1 ) );
+     printf( &quot;Vector 2 Norm:  %f\n&quot;, vnorm( v2 ) );
+     printf( &quot;Dot Product:    %f\n&quot;, vdot( v1, v2 ) );
+     a = 180 * vangle( v1, v2) / PI ;
+     printf( &quot;Angle:          %3f degrees.\n&quot;, a );
+   
+   } 
+   
+   void vadd( struct v a, struct v b, struct v *c )  /* Add vectors. */
+   {
+     c-&gt;i = a.i + b.i;
+     c-&gt;j = a.j + b.j;
+     c-&gt;k = a.k + b.k;
+   }
+   
+   double vangle( struct v a, struct v b )  /* Get angle between vectors. */
+   {
+     double c;
+     c = vdot( a, b ) / ( vnorm( a ) * vnorm( b ) );
+     return( atan( sqrt( ( 1 - ( c * c ) ) / ( c * c ) ) ) );
+   }
+   
+   void vcross( struct v a, struct v b, struct v *c )  /* Cross product. */
+   {
+     c-&gt;i = a.j * b.k - a.k * b.j;
+     c-&gt;j = a.k * b.i - a.i * b.k;
+     c-&gt;k = a.i * b.j - a.j * b.i;
+   }
+   
+   double vdot( struct v a, struct v b ) /* Dot product of vectors. */
+   {
+     return( a.i * b.i + a.j * b.j + a.k * b.k );
+   }
+   
+   double vnorm ( struct v a )  /* Norm of vectors. */
+   {
+     return( sqrt( ( a.i * a.i ) + ( a.j * a.j ) + ( a.k * a.k ) ) );
+   }
+   
+   void vprint ( struct v a )  /* Print vector. */
+   {
+     printf( &quot; I = %6.2f   J = %6.2f   K = %6.2f\n&quot;, a.i, a.j, a.k );
+   }
+   
+   void vsub ( struct v a, struct v b, struct v *c )  /* Subtract vectors. */
+   {
+     c-&gt;i = a.i - b.i;
+     c-&gt;j = a.j - b.j;
+     c-&gt;k = a.k - b.k;
+   }
+
+You should be familiar with the concept of local and global variables by now. You can also declare a local variable as &quot;static&quot;, meaning it retains its value from one invocation of the function to the next. For example:
+
+   #include &lt;stdio.h&gt;
+
+   void testfunc( void );
+
+   void main()
+   {
+     int ctr;
+     for( ctr = 1; ctr &lt; 8; ++ctr )
+     {
+       testfunc();
+     }
+   }
+   
+   void testfunc( void )
+   {
+     static int v;
+     printf( &quot;%d\n&quot;, 2*v );
+     ++v;
+   }
+
+This prints:
+
+   0
+   2
+   4
+   6
+   8 
+   10
+   12
+   14
+
+-- since the initial value of a integer is 0 by default. It is not a good idea to rely on a default value!
+
+There are two other variable declarations that you should recognize though you should have little reason to use them: &quot;register&quot;, which declares that a variable should be assigned to a CPU register, and &quot;volatile&quot;, which tells the compiler that the contents of the variable may change spontaneously.
+
+There is more and less than meets the eye to these declarations. The &quot;register&quot; declaration is discretionary: the variable will be loaded into a CPU register if it can, and if not it will be loaded into memory as normal. Since a good optimizing compiler will try to make the best use of CPU registers anyway, this is not in general all that useful a thing to do.
+
+The &quot;volatile&quot; declaration appears ridiculous jat first sight, something like one of those &quot;joke&quot; computer commands like &quot;halt and catch fire&quot;. Actually, it's used to describe a hardware register that can change independently of a program, such as the register for a realtime clock.
+
+C is fairly flexible in conversions between data types. In many cases, the type conversion will happen transparently. If you convert from a &quot;char&quot; to a &quot;short&quot; data type, or from an &quot;int&quot; to a &quot;long&quot; data type, for example, the converted data type can easily accommodate any value in the original data type.
+
+Converting from a bigger to a smaller data type can lead to odd errors. The same is true for conversions between signed and unsigned data types. For this reason, type conversions should be handled carefully, and it is usually preferable to do them explicitly, using a &quot;cast&quot; operation. For example:
+
+   int a;
+   float b;
+   ...
+   b = (float)a;
+
+-- demonstrates a cast conversion from an &quot;int&quot; value to a &quot;float&quot; value.
+
+You can define your own &quot;enumerated&quot; types in C. For example:
+
+  enum day
+  {
+     saturday, sunday, monday, tuesday, wednesday, thursday, friday
+  };
+
+-- defines enumerated type &quot;day&quot; to consist of the values of the days of the week. In practice, the values are merely text constants associated to a set of consecutive integer values. By default, the set begins at 0 and counts up, so here &quot;saturday&quot; has the value 0, &quot;sunday&quot; has the value &quot;1&quot;, and so on.
+
+You can, however, specify your own set of values if you like:
+
+   enum temps
+   {
+     zero = 0, freeze = 32, boil = 220
+   };
+
+Obviously you could do similar things through sets of &quot;#define&quot; directives, but this is a much cleaner solution. Once you define the type, for example, you can declare variables of that type as follows:
+
+   enum day today = wednesday;
+
+The variable &quot;today&quot; will act as an &quot;int&quot; variable and will allow the operations valid for &quot;int&quot; variables. Once more, remember that C doesn't do much in the way of bounds checking, and you should not rely on the C compiler to give you warnings if you are careless.
+
+Finally, you can use the &quot;typedef&quot; declaration to define your own data types:
+
+   typedef str ch[128];
+
+Then you could declare variables of this type as follows:
+
+   str name;
+
+=== C Operators ===
+
+C supports the following arithmetic operators:
+
+   c = a * b;   /* multiplication */
+   c = a / b;   /* division */
+   c = a % b;   /* mod (remainder division) */
+   c = a + b;   /* addition */
+   c = a - b;   /* subtraction */
+
+It also supports the following useful (but cryptic) increment and decrement operators:
+
+   ++a;   /* increment */
+   --a;   /* decrement */
+
+These operators can also be expressed as &quot;a++&quot; and &quot;a--&quot;. If all you want to do is increment or decrement, the distinction between the two forms is irrelevant. However, if you are incrementing or decrementing a variable as a component of some expression, then &quot;++a&quot; means &quot;increment the variable first, then get its value&quot;, while &quot;a++&quot; means &quot;get the value of the variable first, then increment it&quot;. Confusing these things can lead to subtle programming errors.
+
+C supports a set of bitwise operations:
+
+   a = ~a;       /* bit complement */
+   a = b &lt;&lt; c;   /* shift b left by number of bits stored in c */
+   a = b &gt;&gt; c;   /* shift b right by number of bits stored in c */
+   a = b &amp; c;    /* b AND c */
+   a = b ^ c;    /* b XOR c */
+   a = b | c;    /* b OR c */
+
+C allows you to perform all these operations in a shortcut fashion:
+
+   a = a * b;   a *= b;
+   a = a / b;   a /= b;
+   a = a % b;   a %= b;
+   a = a + b;   a += b;
+   a = a - b;   a -= b;
+   a = a &lt;&lt; b;  a &lt;&lt;= b;
+   a = a &gt;&gt; b;  a &gt;&gt;= b;
+   a = a &amp; b;   a &amp;= b;
+   a = a ^ b;   a ^= b;
+   a = a | b;   a |= b;
+
+The C relational operations were discussed in the previous chapter and are repeated here for completeness:
+
+   a == b:   equals
+   a != b:   not equals
+   a &lt; b:    less than
+   a &gt; b:    greater than
+   a &lt;= b:   less than or equals
+   a &gt;= b:   greater than or equals
+
+These are actually math operations that yield &quot;1&quot; if true and &quot;0&quot; if false. You could, for example, have an operation as follows:
+
+   a = b * ( b &lt; 2 ) + 10 * ( b &gt;= 2 );
+
+This would give &quot;a&quot; the value &quot;b&quot; if &quot;b&quot; is less than 2, and the value &quot;10&quot; otherwise. This is cute, but not recommended. It's cryptic; may impair portability to other languages; and in this case at least can be done much more effectively with the conditional operator discussed in the previous chapter:
+
+   a = ( b &lt; 2 ) ? b : 10; 
+
+This conditional operator is also known as the &quot;triadic&quot; operator.
+
+There are similar logical operators:
+
+   !:    logical NOT
+   &amp;&amp;:   logical AND
+   ||:   logical OR
+
+Remember that these are logical operations, not bitwise operations -- don't confuse &quot;&amp;&amp;&quot; and &quot;||&quot; with &quot;&amp;&quot; and &quot;|&quot;. The distinction is that while the bitwise operators perform the operations on a bit-by-bit basis, the logical operations simply assess the values of their operands to be either &quot;0&quot; or &quot;1&quot; (any nonzero operand value evaluates to &quot;1&quot; in such comparisons) and return either a &quot;0&quot; or a &quot;1&quot;:
+
+   if(( A == 5 ) &amp;&amp; ( B == 10 ))
+   {
+      ...
+   }
+
+Finally, there is a &quot;sizeof&quot; operand that returns the size of a particular operand in bytes:
+
+   int tvar;
+   ...
+   printf ( &quot;Size = %d\n&quot;, sizeof( int ) );
+
+This comes in handy for some mass storage operations. You can provide &quot;sizeof()&quot; with a data type name or the name of a variable, and the variable can be an array, in which case &quot;sizeof&quot; gives the size of the entire array.
+
+The precedence of these operators in math functions -- that is, which ones are evaluated before others -- are defined as follows, reading from the highest precedence to the lowest:
+
+   ()     []     -&gt;     .
+   !      ~      ++     --     (cast)*       &amp;      sizeof   - (minus prefix)
+   *      /      %
+   +      -
+   &lt;&lt;     &gt;&gt;
+   &lt;      &lt;=     &gt;      &gt;=
+   ==     !=
+   &amp;
+   ^
+   |
+   &amp;&amp;
+   ||
+   ?:
+   =      +=     -=     *=     /=     %=     &gt;&gt;=     &lt;&lt;=     &amp;=
+   ^=     |=
+   , 
+
+Of course, parentheses can be used to control precedence. If you have any doubts about the order of evaluation of an expression, add more parentheses. They won't cause you any trouble, and might save you some.
+
+Advanced math operations are available as library functions. These will be discussed in a later chapter. 
+
+=== C Preprocessor Directives ===
+
+We've already seen the &quot;#include&quot; and &quot;#define&quot; preprocessor directives. The C preprocessor supports several other directives as well. All such directives start with a &quot;#&quot; to allow them to be distinguished from C language commands.
+
+As explained in the first chapter, the &quot;#include&quot; directive allows you to insert the contents of other files in your C source code:
+
+   #include &lt;stdio.h&gt;
+
+Observe that the standard header file &quot;stdio.h&quot; is specified in angle brackets. This tells the C preprocessor that the file can be found in the standard directories designated by the C compiler for header files. If you want to include a file from a nonstandard directory, you use double quotes:
+
+   #include &quot;\home\mydefs.h&quot;
+
+Include files can be nested. They can call other include files.
+
+Also as explained in the first chapter, the &quot;#define&quot; directive can be used to specify symbols to be substituted for specific strings of text:
+
+   #define PI 3.141592654
+   ...
+   a = PI * b;
+
+In this case, the preprocessor does a simple text substitution on PI throughout the source listing. The C compiler proper not only does not know what PI is, it never even sees it.
+
+The &quot;#define&quot; directive can be used to create function-like macros that allow parameter substitution. For example:
+
+   #define ABS(value)  ( (value) &gt;=0 ? (value) : -(value) )
+
+This macro could then be used in an expression as follows:
+
+   printf( &quot;Absolute value of x = %d\n&quot;, ABS(x) );
+
+Beware that such function-like macros don't behave exactly like true functions. For example, suppose you used &quot;x++&quot; as an argument for the macro above:
+
+   val = ABS(x++);
+
+This would result in &quot;x&quot; being incremented three times because &quot;x++&quot; is substituted in the expression three times:
+
+   val = ( (x++) &gt;=0 ? (x++) : -(x++) )
+
+Along with the &quot;#define&quot; directive, there is also an &quot;#undef&quot; directive that allows you to undefine a constant that has been previously defined:
+
+   #undef PI
+
+Another feature supported by the C preprocessor is conditional compilation, using the following directives:
+
+   #if
+   #else
+   #elif
+   #endif
+
+These directives can test the values of defined constants to define which blocks of code are passed on to the C compiler proper:
+
+   #if WIN == 1
+     #include &quot;WIN.H&quot;
+   #elif MAC == 1
+     #include &quot;MAC.H&quot;
+   #else
+     #include &quot;LINUX.H&quot;
+   #endif
+
+You can nest these directives if needed. The &quot;#if&quot; and &quot;#elif&quot; can also test to see if a constant has been defined at all, using the &quot;defined&quot; operator:
+
+   #if defined( DEBUG )
+      printf( &quot;Debug mode!\n);
+   #endif
+
+-- or test to see if a constant has not been defined:
+
+   #if !defined( DEBUG )
+      printf( &quot;Not debug mode!\n);
+   #endif
+
+Finally, there is a &quot;#pragma&quot; directive, which by definition is a catch-all used to implement machine-unique commands that are not part of the C language. Such &quot;pragmas&quot; vary from compiler to compiler, as they are by definition nonstandard.
+
+[http://www.vectorsite.net/tscpp2.html v2.0.7 / 2 of 7 / 01 feb 02 / greg goebel / public domain]</text>
+      <sha1>mogc84erwztie4xt35dmiuf61bqyl51</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Jimregan/C Primer chapter 3</title>
+    <ns>2</ns>
+    <id>112</id>
+    <revision>
+      <id>152303</id>
+      <timestamp>2003-07-18T01:09:27Z</timestamp>
+      <contributor>
+        <username>Jimregan</username>
+        <id>20</id>
+      </contributor>
+      <comment>wikified</comment>
+      <text xml:space="preserve">== C Input &amp; Output ==
+
+This chapter covers console (keyboard/display) and file I/O. You've already seen one console-I/O function, &quot;printf()&quot;, and there are several others, C has two separate approaches toward file I/O, one based on library functions that resembles console I/O, and a second that uses &quot;system calls&quot;. These topics are discussed in detail below.
+
+=== C Console I/O ===
+
+Console I/O in general means communications with the computer's keyboard and display. However, in most modern operating systems the keyboard and display are simply the default input and output devices, and user can easily redirect input from, say, a file or other program and redirect output to, say, a serial I/O port:
+
+   type infile &gt; myprog &gt; com
+
+The program itself, &quot;myprog&quot;, doesn't know the difference. The program uses console I/O to simply read its &quot;standard input (stdin)&quot; -- which might be the keyboard, a file dump, or the output of some other program -- and print to its &quot;standard output (stdout)&quot; -- which might be the display or printer or another program or a file. The program itself neither knows nor cares.
+
+Console I/O requires the declaration:
+
+   #include &lt;stdio.h&gt;
+
+Useful functions are:
+
+   printf():     Print a formatted string to stdout.
+   scanf():      Read formatted data from stdin.
+   putchar():    Print a single character to stdout.
+   getchar():    Read a single character from stdin.
+   puts():       Print a string to stdout.
+   gets():       Read a line from stdin.
+
+PC-based compilers also have an alternative library of console I/O functions that you will see on occasion. These functions require the declaration:
+
+   #include &lt;conio.h&gt;
+
+The three most useful PC console I/O functions are:
+
+    * getch():
+
+      Get a character from the keyboard (no need to press Enter).
+
+    * getche():
+
+      Get a character from the keyboard and echo it.
+
+    * kbhit():
+
+      Check to see if a key has been pressed. 
+
+The &quot;printf()&quot; function, as you remember, prints a string that may include formatted data:
+
+   printf( &quot;This is a test!\n&quot; );
+
+-- which can include the contents of variables:
+
+   printf( &quot;Value1:  %d   Value2:  %f\n&quot;, intval, floatval );
+
+The available format codes are:
+
+   %d:   decimal integer
+   %ld:  long decimal integer
+   %c:   character
+   %s:   string
+   %e:   floating-point number in exponential notation
+   %f:   floating-point number in decimal notation
+   %g:   use %e and %f, whichever is shorter
+   %u:   unsigned decimal integer
+   %o:   unsigned octal integer
+   %x:   unsigned hex integer
+
+Using the wrong format code for a particular data type can lead to bizarre output.
+
+You can obtain further control by using modifiers. For example, you can add a numeric prefix to specify the minimum field width:
+
+   %10d
+
+This specifies a minimum field width of ten characters. If the field width is too small, a wider field will be used. Adding a minus sign:
+
+   %-10d
+
+-- causes the text to be left-justified. You can also add a numeric precision:
+
+   %6.3f
+
+This specifies three digits of precision in a field six characters wide. You can specify a precision for strings as well, in which case it indicates the maximum number of characters to be printed. For example:
+
+   /* prtint.c */
+
+   #include &lt;stdio.h&gt;
+
+   void main()
+   {
+     printf( &quot;&lt;%d&gt;\n&quot;, 336 );
+     printf( &quot;&lt;%2d&gt;\n&quot;, 336 );
+     printf( &quot;&lt;%10d&gt;\n&quot;, 336 );
+     printf( &quot;&lt;%-10d&gt;\n&quot;, 336 );
+   }
+
+This prints:
+
+   &lt;336&gt;
+   &lt;336&gt;
+   &lt;       336&gt;
+   &lt;336       &gt;
+
+Similarly:
+
+   /* prfloat.c */
+
+   #include &lt;stdio.h&gt;
+
+   void main()
+   {
+     printf( &quot;&lt;%f&gt;\n&quot;, 1234.56 );
+     printf( &quot;&lt;%e&gt;\n&quot;, 1234.56 );
+     printf( &quot;&lt;%4.2f&gt;\n&quot;, 1234.56 );
+     printf( &quot;&lt;%3.1f&gt;\n&quot;, 1234.56 );
+     printf( &quot;&lt;%10.3f&gt;\n&quot;, 1234.56 );
+     printf( &quot;&lt;%10.3e&gt;\n&quot;, 1234.56 );
+   }
+
+-- prints:
+
+   &lt;1234.560000&gt;
+   &lt;1.234560e+03&gt;
+   &lt;1234.56&gt;
+   &lt;1234.6&gt;
+   &lt;  1234.560&gt;
+   &lt; 1.234e+03&gt;
+
+And finally:
+
+   /* prtstr.c */
+
+   #include &lt;stdio.h&gt;
+
+   void main()
+   {
+     printf( &quot;&lt;%2s&gt;\n&quot;, &quot;Barney must die!&quot; );
+     printf( &quot;&lt;%22s&gt;\n&quot;, &quot;Barney must die!&quot; );
+     printf( &quot;&lt;%22.5s&gt;\n&quot;, &quot;Barney must die!&quot; );
+     printf( &quot;&lt;%-22.5s&gt;\n&quot;, &quot;Barney must die!&quot; );
+   }
+
+-- prints:
+
+   &lt;Barney must die!&gt;
+   &lt;      Barney must die!&gt;
+   &lt;                 Barne&gt;
+   &lt;Barne                 &gt;
+
+Just for convenience, the table of special characters listed in chapter 2 is repeated here. These characters can be embedded in &quot;printf&quot; strings:
+
+   '\a':    alarm (beep) character
+   '\\p':    backspace
+   '\f':    formfeed
+   '\n':    newline
+   '\r':    carriage return
+   '
+
+'\v': vertical tab '\': backslash '\?': question mark '\'': single quote '&quot;\': double quote '\0NN': character code in octal '\xNN': character code in hex '\0': NULL character The &quot;scanf()&quot; function reads formatted data using a syntax similar to that of &quot;printf&quot;, except that it requires pointers as parameters, since it has to return values. For example:
+
+   /* cscanf.c */
+
+   #include &lt;stdio.h&gt;
+
+   void main()
+   {
+     int val;
+     char name[256];
+   
+     printf( &quot;Enter your age and name.\n&quot; );
+     scanf( &quot;%d %s&quot;, &amp;val, name ); 
+     printf( &quot;Your name is: %s -- and your age is: %d\n&quot;, name, val );
+   }
+
+There is no &quot;&amp;&quot; in front of &quot;name&quot; since the name of a string is already a pointer. Input fields are separated by whitespace (space, tab, or newline), though you can use a count (&quot;%10d&quot;) to define a specific field width. Formatting codes are the same as for &quot;printf()&quot;, except:
+
+    * There is no &quot;%g&quot; format code.
+
+    * The &quot;%f&quot; and &quot;%e&quot; format codes work the same.
+
+    * There is a &quot;%h&quot; format code for reading short integers. 
+
+If you include characters in the format code, &quot;scanf()&quot; will read in that character and discard it. For example, if the example above were modified as follows:
+
+   scanf( &quot;%d,%s&quot;, &amp;val, name );
+
+-- then &quot;scanf()&quot; will assume that the two input values are comma-separated and swallow the comma when it is encountered.
+
+If you precede a format code with an asterisk, the data will be read and discarded. For example, if the example were changed to:
+
+   scanf( &quot;%d%*c%s&quot;, &amp;val, name );
+
+-- then if the two fields were separated by a &quot;:&quot;, that character would be read in and discarded.
+
+The &quot;scanf()&quot; function will return the value EOF (an &quot;int&quot;), defined in &quot;stdio.h&quot;, when its input is terminated.
+
+The &quot;putchar()&quot; and &quot;getchar()&quot; functions handle single character I/O. For example, the following program accepts characters from standard input one at a time:
+
+   /* inout.c */
+
+   #include &lt;stdio.h&gt;
+
+   void main ()
+   {
+     unsigned int ch; 
+   
+     while ((ch = getchar()) != EOF)
+     {
+       putchar( ch ); 
+     }
+   }
+
+The &quot;getchar&quot; function returns an &quot;int&quot; and also terminates with an EOF. Notice the neat way C allows you to get a value and then test it in the same expression, a particularly useful feature for handling loops.
+
+One word of warning on single-character I/O: if you are entering characters from the keyboard, most operating systems won't send the characters to the program until you press the Enter key, meaning that you can't really do single-character keyboard I/O this way.
+
+The little program above is the essential core of a character-mode text &quot;filter&quot;, a program that can perform some transformation between standard input and standard output. Such a filter can be used as an element to construct more sophisticated applications:
+
+   type file.txt &gt; filter1 | filter2 &gt; outfile.txt
+
+The following filter capitalizes the first character in each word in the input. The program operates as a &quot;state machine&quot;, using a variable that can be set to different values, or &quot;states&quot;, to control its operating mode. It has two states: SEEK, in which it is looking for the first character, and REPLACE, in which it is looking for the end of a word.
+
+In SEEK state, it scans through whitespace (space, tab, or newline), e echoing characters. If it finds a printing character, it converts it to uppercase and goes to REPLACE state. In REPLACE state, it converts characters to lowercase until it hits whitespace, and then goes back to SEEK state.
+
+The program uses the &quot;tolower()&quot; and &quot;toupper()&quot; functions to make case conversions. These two functions will be discussed in the next chapter.
+
+   /* caps.c */
+
+   #include &lt;stdio.h&gt;
+   #include &lt;ctype.h&gt;
+
+   #define SEEK 0
+   #define REPLACE 1
+
+   void main()
+   {
+     int ch, state = SEEK;
+     while(( ch = getchar() ) != EOF )
+     {
+       switch( state )
+       {
+       case REPLACE:
+         switch( ch )
+         {
+         case ' ':
+         case '
+
+case '\n': state = SEEK; break; default: ch = tolower( ch ); break; } break; case SEEK: switch( ch ) { case ' ': case '\n': break; default: ch = toupper( ch ); state = REPLACE; break; } } putchar( ch ); } } * The &quot;puts()&quot; function is like a simplified version of &quot;printf()&quot; without format codes. It allows you to print a string that is automatically terminated with a newline:
+
+   puts( &quot;Hello world!&quot; );
+
+The &quot;gets()&quot; function is particularly useful: it allows you to read a line of text (terminated by a newline. The &quot;gets()&quot; function doesn't read the newline into the string into the program, making it much less finicky about its inputs than &quot;scanf()&quot;:
+
+   /* cgets.c */
+
+   #include &lt;stdio.h&gt;
+   #include &lt;string.h&gt;
+   #include &lt;stdlib.h&gt;
+
+   void main()
+   {
+     char word[256], 
+          *guess = &quot;blue&quot;;
+     integer i, n = 0;
+
+     puts( &quot;Guess a color (use lower case please):&quot; );
+     while( gets( word ) != NULL )
+     {
+       if( strcmp( word, guess ) == 0 )
+       {
+          puts( &quot;You win!&quot; );
+          exit( 0 );
+       }
+       else
+       {
+          puts( &quot;No, try again.&quot; );
+       }
+     }
+   }
+
+This program includes the &quot;strcmp&quot; function, which performs string comparisons and returns 0 on a match. This function is described in more detail in the next chapter.
+
+You can use these functions to implement filters that operate on lines of text, rather than characters. A core program for such filters follows:
+
+   /* lfilter.c */
+
+   #include &lt;stdio.h&gt;
+
+   void main ()
+   {
+     char b[256];
+     while (( gets( b ) ) != NULL )
+     {
+       puts( b ); 
+     }
+   }
+
+The &quot;gets()&quot; function returns a NULL, defined in &quot;stdio.h&quot;, on input termination or error.
+
+The PC-based console-I/O functions &quot;getch()&quot; and &quot;getche()&quot; operate much as &quot;getchar()&quot; does, except that &quot;getche()&quot; echoes the character automatically.
+
+The &quot;kbhit()&quot; function is very different in that it only indicates if a key has been pressed or not. It returns a nonzero value if a key has been pressed, and zero if it hasn't. This allows a program to poll the keyboard for input rather than hanging on keyboard input, and waiting for something to happen. These functions require the &quot;conio.h&quot; header file, not the &quot;stdio.h&quot; header file. 
+
+=== C File-I/O Through Library Functions ===
+
+The file-I/O library functions are much like the console-I/O functions. In fact, most of the console-I/O functions can be thought of as special cases of the file-I/O functions. The library functions include:
+
+   fopen():     Create or open a file for reading or writing.
+   fclose():    Close a file after reading or writing it.
+
+   fseek():     Seek to a certain location in a file.
+   rewind():    Rewind a file back to its beginning and leave it open.
+   rename():    Rename a file.
+   remove():    Delete a file.
+
+   fprintf():   Formatted write.
+   fscanf():    Formatted read.
+   fwrite():    Unformatted write.
+   fread():     Unformatted read.
+   putc():      Write a single byte to a file.
+   getc():      Read a single byte from a file.
+   fputs():     Write a string to a file.
+   fgets():     Read a string from a file.
+
+All these library functions depend on definitions made in the &quot;stdio.h&quot; header file, and so require the declaration:
+
+   #include &lt;stdio.h&gt;
+
+C documentation normally refers to these functions as performing &quot;stream I/O&quot;, not &quot;file I/O&quot;. The distinction is that they could just as well handle data being transferred through a modem as a file, and so the more general term &quot;data stream&quot; is used rather than &quot;file&quot;. However, we'll stay with the &quot;file&quot; terminology in this discussion for the sake of simplicity.
+
+* The &quot;fopen()&quot; function opens and, if need be, creates a file. Its syntax is:
+
+   &lt;file pointer&gt; = fopen( &lt;filename&gt;, &lt;access mode&gt; );
+
+The &quot;fopen()&quot; function returns a &quot;file pointer&quot;, declared as follows:
+
+   FILE *&lt;file pointer&gt;;
+
+The file pointer will be returned with the value &quot;NULL&quot;, defined in &quot;stdio.h&quot;, if there is an error. The &quot;access modes&quot; are defined as follows:
+
+   r:    Open for reading.
+   w:    Open and wipe (or create) for writing.
+   a:    Append -- open (or create) to write to end of file.
+   r+:   Open a file for reading and writing.
+   w+:   Open and wipe (or create) for reading and writing.
+   a+:   Open a file for reading and appending.
+
+The &quot;filename&quot; is simply a string of characters.
+
+It is often useful to use the same statements to communicate either with files or with standard I/O. For this reason, the &quot;stdio.h&quot; header file includes predefined file pointers with the names &quot;stdin&quot; and &quot;stdout&quot;. You don't need to do an &quot;fopen()&quot; on them, you can just assign them to a file pointer:
+
+   fpin = stdin;
+   fpout = stdout;
+
+-- and following file-I/O functions won't know the difference.
+
+The &quot;fclose()&quot; function simply closes the file given by its file pointer parameter. It has the syntax:
+
+   fclose( fp );
+
+The &quot;fseek()&quot; function call allows you to select any byte location in a file for reading or writing. It has the syntax:
+
+   fseek( &lt;file_pointer&gt;, &lt;offset&gt;, &lt;origin&gt; );
+
+The offset is a &quot;long&quot; and specifies the offset into the file, in bytes. The &quot;origin&quot; is an &quot;int&quot; and is one of three standard values, defined in &quot;stdio.h&quot;:
+
+   SEEK_SET:   Start of file.
+   SEEK_CUR:   Current location.
+   SEEK_END:   End of file.
+
+The &quot;fseek()&quot; function returns 0 on success and non-zero on failure.
+
+The &quot;rewind()&quot;, &quot;rename()&quot;, and &quot;remove()&quot; functions are straightforward. The &quot;rewind()&quot; function resets an open file back to its beginning. It has the syntax:
+
+   rewind( &lt;file_pointer&gt; );
+
+The &quot;rename()&quot; function changes the name of a file:
+
+   rename( &lt;old_file_name_string&gt;, &lt;new_file_name_string&gt; );
+
+The &quot;remove()&quot; function deletes a file:
+
+   remove( &lt;file_name_string&gt; )
+
+The &quot;fprintf()&quot; function allows formatted ASCII data output to a file, and has the syntax:
+
+   fprintf( &lt;file pointer&gt;, &lt;string&gt;, &lt;variable list&gt; );
+
+The &quot;fprintf()&quot; function is identical in syntax to &quot;printf()&quot;, except for the addition of a file pointer parameter. For example, the following &quot;fprintf()&quot; call:
+
+   /* fprpi.c */
+
+   #include &lt;stdio.h&gt;
+
+   void main()
+   {
+     int n1 = 16;
+     float n2 = 3.141592654f;
+     FILE *fp;
+
+     fp = fopen( &quot;data&quot;, &quot;w&quot; );
+     fprintf( fp, &quot;  %d   %f&quot;, n1, n2 ); 
+     fclose( fp );
+   }
+
+-- stores the following ASCII data:
+
+    16   3.14159
+
+The formatting codes are exactly the same as for &quot;printf()&quot;:
+
+   %d:   decimal integer
+   %ld:  long decimal integer
+   %c:   character
+   %s:   string
+   %e:   floating-point number in exponential notation
+   %f:   floating-point number in decimal notation
+   %g:   use %e and %f, whichever is shorter
+   %u:   unsigned decimal integer
+   %o:   unsigned octal integer
+   %x:   unsigned hex integer
+
+Field-width specifiers can be used as well. The &quot;fprintf()&quot; function returns the number of characters it dumps to the file, or a negative number if it terminates with an error.
+
+The &quot;fscanf()&quot; function is to &quot;fprintf()&quot; what &quot;scanf()&quot; is to &quot;printf()&quot;: it reads ASCII-formatted data into a list of variables. It has the syntax:
+
+   fscanf( &lt;file pointer&gt;, &lt;string&gt;, &lt;variable list&gt; );
+
+However, the &quot;string&quot; contains only format codes, no text, and the &quot;variable list&quot; contains the addresses of the variables, not the variables themselves. For example, the program below reads back the two numbers that were stored with &quot;fprintf()&quot; in the last example:
+
+   /* frdata.c */
+
+   #include &lt;stdio.h&gt;
+
+   void main()
+   {
+     int n1;
+     float n2;
+     FILE *fp;
+
+     fp = fopen( &quot;data&quot;, &quot;r&quot; );
+     fscanf( fp, &quot;%d %f&quot;, &amp;n1, &amp;n2 );
+     printf( &quot;%d %f&quot;, n1, n2 );
+     fclose( fp );
+   }
+
+The &quot;fscanf()&quot; function uses the same format codes as &quot;fprintf()&quot;, with the familiar exceptions:
+
+    * There is no &quot;%g&quot; format code.
+
+    * The &quot;%f&quot; and &quot;%e&quot; format codes work the same.
+
+    * There is a &quot;%h&quot; format code for reading short integers. 
+
+Numeric modifiers can be used, of course. The &quot;fscanf()&quot; function returns the number of items that it successfully read, or the EOF code, an &quot;int&quot;, if it encounters the end of the file or an error.
+
+The following program demonstrates the use of &quot;fprintf()&quot; and &quot;fscanf()&quot;:
+
+   /* fprsc.c */
+
+   #include &lt;stdio.h&gt;
+
+   void main()
+   {
+     int ctr, i[3], n1 = 16, n2 = 256;
+     float f[4], n3 = 3.141592654f;
+     FILE *fp;
+
+     fp = fopen( &quot;data&quot;, &quot;w+&quot; );
+
+     /* Write data in:   decimal integer formats
+                         decimal, octal, hex integer formats
+                         floating-point formats  */
+
+     fprintf( fp, &quot;%d %10d %-10d \n&quot;, n1, n1, n1 );   
+     fprintf( fp, &quot;%d %o %x \n&quot;, n2, n2, n2 );
+     fprintf( fp, &quot;%f %10.10f %e %5.4e \n&quot;, n3, n3, n3, n3 );
+
+     /* Rewind file. */
+
+     rewind( fp );
+
+     /* Read back data. */
+
+     puts( &quot;&quot; );
+     fscanf( fp, &quot;%d %d %d&quot;, &amp;i[0], &amp;i[1], &amp;i[2] );
+     printf( &quot;   %d\t%d\t%d
+
+fscanf( fp, &quot;%d %o %x&quot;, &amp;i[0], &amp;i[1], &amp;i[2] ); fscanf( fp, &quot;%f %f %f %f&quot;, &amp;f[0], &amp;f[1], &amp;f[2], &amp;f[3] );
+
+fclose( fp ); } The program generates the output:
+
+   16         16         16
+   256        256        256
+   3.141593   3.141593   3.141593   3.141600
+
+The &quot;fwrite()&quot; and &quot;fread()&quot; functions are used for binary file I/O. The syntax of &quot;fwrite()&quot; is as follows:
+
+   fwrite( &lt;array_pointer&gt;, &lt;element_size&gt;, &lt;count&gt;, &lt;file_pointer&gt; );
+
+The array pointer is of type &quot;void&quot;, and so the array can be of any type. The element size and count, which give the number of bytes in each array element and the number of elements in the array, are of type &quot;size_t&quot;, which are equivalent to &quot;unsigned int&quot;.
+
+The &quot;fread()&quot; function similarly has the syntax:
+
+   fread( &lt;array_pointer&gt;, &lt;element_size&gt;, &lt;count&gt;, &lt;file_pointer&gt; );
+
+The &quot;fread()&quot; function returns the number of items it actually read.
+
+The following program stores an array of data to a file and then reads it back using &quot;fwrite()&quot; and &quot;fread()&quot;:
+
+ 
+   /* fwrrd.c */
+
+   #include &lt;stdio.h&gt;
+   #include &lt;math.h&gt;
+   
+   #define SIZE 20
+   
+   void main()
+   {
+     int n;
+     float d[SIZE];
+     FILE *fp;
+   
+     for( n = 0; n &lt; SIZE; ++n )                 /* Fill array with roots. */
+     {
+       d[n] = (float)sqrt( (double)n );
+     }
+     fp = fopen( &quot;data&quot;, &quot;w+&quot; );                 /* Open file. */
+     fwrite( d, sizeof( float ), SIZE, fp );     /* Write it to file. */
+     rewind( fp );                               /* Rewind file. */
+     fread( d, sizeof( float ), SIZE, fp );      /* Read back data. */
+     for( n = 0; n &lt; SIZE; ++n )                 /* Print array. */
+     {
+       printf( &quot;%d: %7.3f\n&quot;, n, d[n] );
+     }
+     fclose( fp );                               /* Close file. */
+   }
+
+The &quot;putc()&quot; function is used to write a single character to an open file. It has the syntax:
+
+   putc( &lt;character&gt;, &lt;file pointer&gt; );
+
+The &quot;getc()&quot; function similarly gets a single character from an open file. It has the syntax:
+
+   &lt;character variable&gt; = getc( &lt;file pointer&gt; );
+
+The &quot;getc()&quot; function also returns &quot;EOF&quot; on error. The console I/O functions &quot;putchar()&quot; and &quot;getchar()&quot; are really only special cases of &quot;putc()&quot; and &quot;getc()&quot; that use standard output and input.
+
+* The &quot;fputs()&quot; function writes a string to a file. It has the syntax:
+
+   fputs( &lt;string / character array&gt;, &lt;file pointer&gt; );
+
+The &quot;fputs()&quot; function will return an EOF value on error. For example:
+
+   fputs( &quot;This is a test&quot;, fptr );
+
+The &quot;fgets()&quot; function reads a string of characters from a file. It has the syntax:
+
+   fgets( &lt;string&gt;, &lt;max_string_length&gt;, &lt;file_pointer&gt; );
+
+The &quot;fgets&quot; function reads a string from a file until if finds a newline or grabs &lt;string_length-1&gt; characters. It will return the value NULL on an error.
+
+The following example program simply opens a file and copies it to another file, using &quot;fgets()&quot; and &quot;fputs()&quot;:
+
+   /* fcopy.c */
+
+   #include &lt;stdio.h&gt;
+   
+   #define MAX 256
+   
+   void main()
+   {
+     FILE *src, *dst;
+     char b[MAX];
+   
+     /* Try to open source and destination files. */
+   
+     if ( ( src = fopen( &quot;infile.txt&quot;, &quot;r&quot; )) == NULL )
+     {
+        puts( &quot;Can't open input file.&quot; );
+        exit();
+     }
+     if ( (dst = fopen( &quot;outfile.txt&quot;, &quot;w&quot; )) == NULL )
+     {
+        puts( &quot;Can't open output file.&quot; );
+        fclose( src );
+        exit();
+     }
+   
+     /* Copy one file to the next. */
+   
+     while( ( fgets( b, MAX, src ) ) != NULL )
+     {
+        fputs( b, dst );
+     }
+   
+     /* All done, close up shop. */
+   
+     fclose( src );
+     fclose( dst );
+   }
+
+=== C File-I/O Through System Calls ===
+
+File-I/O through system calls is simpler and operates at a lower level than making calls to the C file-I/O library. There are seven fundamental file-I/O system calls:
+
+   creat():    Create a file for reading or writing.
+   open():     Open a file for reading or writing.
+   close():    Close a file after reading or writing.
+   unlink():   Delete a file.
+
+   write():    Write bytes to file.
+   read():     Read bytes from file.
+
+These calls were devised for the UN*X operating system and are not part of the ANSI C spec.
+
+Use of these system calls requires a header file named &quot;fcntl.h&quot;:
+
+   #include &lt;fcntl.h&gt;
+
+The &quot;creat()&quot; system call, of course, creates a file. It has the syntax:
+
+   &lt;file descriptor variable&gt; = creat( &lt;filename&gt;, &lt;protection bits&gt; );
+
+This system call returns an integer, called a &quot;file descriptor&quot;, which is a number that identifies the file generated by &quot;creat()&quot;. This number is used by other system calls in the program to access the file. Should the &quot;creat()&quot; call encounter an error, it will return a file descriptor value of -1.
+
+The &quot;filename&quot; parameter gives the desired filename for the new file. The &quot;permission bits&quot; give the &quot;access rights&quot; to the file. A file has three &quot;permissions&quot; associated with it:
+
+    * Write permission:
+
+      Allows data to be written to the file.
+
+    * Read permission:
+
+      Allows data to be read from the file.
+
+    * Execute permission:
+
+      Designates that the file is a program that can be run. 
+
+These permissions can be set for three different levels:
+
+    * User level:
+
+      Permissions apply to individual user.
+
+    * Group level:
+
+      Permissions apply to members of user's defined &quot;group&quot;.
+
+    * System level:
+
+      Permissions apply to everyone on the system. 
+
+For the &quot;creat()&quot; system call, the permissions are expressed in octal, with an octal digit giving the three permission bits for each level of permissions. In octal, the permission settings:
+
+   0644
+
+-- grant read and write permissions for the user, but only read permissions for group and system. The following octal number gives all permissions to everyone:
+
+   0777
+
+Should you attempt to &quot;creat()&quot; an existing file (for which you have write permission), &quot;creat()&quot; will not return an error. It will instead wipe the contents of the file and return a file descriptor for it.
+
+For example, to create a file named &quot;data&quot; with read and write permission for everyone on the system, you would write:
+
+   #define RD_WR 0666
+   ...
+   int fd;                               /* Define file descriptor. */
+   fd = creat( &quot;data&quot;, RD_WR );
+
+The &quot;open()&quot; system call opens an existing file for reading or writing. It has the syntax:
+
+   &lt;file descriptor variable&gt; = open( &lt;filename&gt;, &lt;access mode&gt; );
+
+The &quot;open()&quot; call is similar to the &quot;creat()&quot; call in that it returns a file descriptor for the given file, and returns a file descriptor of -1 if it encounters an error. However, the second parameter is an &quot;access mode&quot;, not a permission code. There are three modes (defined in the &quot;fcntl.h&quot; header file):
+
+   O_RDONLY:   Open for reading only.
+   O_WRONLY:   Open for writing only.
+   O_RDWR:     Open for reading and writing.
+
+For example, to open &quot;data&quot; for writing, assuming that the file had been created by another program, you would write:
+
+   int fd;
+   fd = open( &quot;data&quot;, O_WRONLY );
+
+A few additional comments before proceeding:
+
+    * A &quot;creat()&quot; call implies an &quot;open()&quot;. There is no need to &quot;creat()&quot; a file and then &quot;open()&quot; it.
+
+    * There is an operating-system-dependent limit on the number of files that a program can have open at any one time.
+
+    * The file descriptor is no more than an arbitrary number that a program uses to distinguish one open file for another. When a file is closed, re-opening it again will probably not give it the same file descriptor. 
+
+The &quot;close()&quot; system call is very simple. All it does is &quot;close()&quot; an open file when there is no further need to access it. The &quot;close()&quot; system call has the syntax:
+
+   close( &lt;file descriptor&gt; );
+
+The &quot;close()&quot; call returns a value of 0 if it succeeds, and returns -1 if it encounters an error.
+
+The &quot;unlink()&quot; system call deletes a file. It has the syntax:
+
+   unlink( &lt;file_name_string&gt; );
+
+It returns 0 on success and -1 on failure.
+
+The &quot;write()&quot; system call writes data from a open file. It has the syntax:
+
+   write( &lt;file descriptor&gt;, &lt;buffer&gt;, &lt;buffer length&gt; );
+
+The file descriptor is returned by a &quot;creat()&quot; or &quot;open()&quot; system call. The &quot;buffer&quot; is a pointer to a variable or an array that contains the data; and the &quot;buffer length&quot; gives the number of bytes to be written into the file.
+
+While different data types may have different byte lengths on different systems, the &quot;sizeof()&quot; statement can be used to provide the proper buffer length in bytes. A &quot;write()&quot; call could be specified as follows:
+
+   float array[10];
+   ...
+   write( fd, array, sizeof( array ) );
+
+The &quot;write()&quot; function returns the number of bytes it actually writes. It will return -1 on an error.
+
+The &quot;read()&quot; system call reads data from a open file. Its syntax is exactly the same as that of the &quot;write()&quot; call:
+
+   read( &lt;file descriptor&gt;, &lt;buffer&gt;, &lt;buffer length&gt; );
+
+The &quot;read()&quot; function returns the number of bytes it actually returns. At the end of file it returns 0, or returns -1 on error.
+
+[http://www.vectorsite.net/tscpp3.html v2.0.7 / 3 of 7 / 01 feb 02 / greg goebel / public domain]</text>
+      <sha1>qaujpx7el55n2v8o3rcofm3v2vzhaje</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Jimregan/C Primer chapter 4</title>
+    <ns>2</ns>
+    <id>113</id>
+    <revision>
+      <id>152304</id>
+      <timestamp>2003-07-18T01:19:08Z</timestamp>
+      <contributor>
+        <username>Jimregan</username>
+        <id>20</id>
+      </contributor>
+      <comment>wikified</comment>
+      <text xml:space="preserve">== C Library Functions &amp; Other Comments ==
+
+This chapter discusses some useful standard C libraries:
+
+   Math library
+   Standard utility library
+   The &quot;sprintf()&quot; function
+   String function library
+   Character class test library
+
+-- and the following minor topics:
+
+   Command-line arguments
+   Dynamic memory allocation
+   Pointers to functions
+   PC memory model and other declarations
+   Troubleshooting hints
+
+=== C Math Library ===
+
+To use the math library, you need the declaration:
+
+   #include &lt;math.h&gt;
+
+The math functions consist of:
+
+   sin( x ):      Sine of x.
+   cos( x ):      Cosine of x.
+   tan( x ):      Tangent of x.
+   asin( x ):     Inverse sine of x.
+   acos( x ):     Inverse cosine of x.
+   atan( x ):     Inverse tangent of x.
+   sinh( x ):     Hyperbolic sine of x.
+   cosh( x ):     Hyperbolic cosine of x.
+   tanh( x ):     Hyperbolic tangent of x.
+   exp( x ):      Exponential function -- e^x.
+   log( x ):      Natural log of x.
+   log10( x ):    Base 10 log of x.
+   pow( x, y ):   Power function -- x^y.
+   sqrt( x ):     Square root of x.
+   ceil( x ):     Smallest integer not less than x, returned as double.
+   floor( x ):    Greatest integer not greater than x, returned as double.
+   fabs( x ):     Absolute value of x.
+
+All values are &quot;doubles&quot;, and trig values are expressed in radians.
+
+=== C Standard Utility Library &amp; Time Library ===
+
+* The utility functions library features a grab-bag of functions. It requires the declaration:
+
+   #include &lt;stdlib.h&gt;
+
+Useful functions include:
+
+   atof( &lt;string&gt; ):    Convert numeric string to double value.
+   atoi( &lt;string&gt; ):    Convert numeric string to int value.
+   atol( &lt;string&gt; ):    Convert numeric string to long value.
+   rand():              Generates pseudorandom integer.
+   srand( &lt;seed&gt; ):     Seed random-number generator -- &quot;seed&quot; is an &quot;int&quot;.
+   exit( &lt;status&gt; ):    Exits program -- &quot;status&quot; is an &quot;int&quot;.
+   system( &lt;string&gt; ):  Tells system to execute program given by the seed.
+   abs( n ):            Absolute value of &quot;int&quot; argument.
+   labs( n ):           Absolute value of long-int argument.
+
+The functions &quot;atof()&quot;, &quot;atoi()&quot;, and &quot;atol()&quot; will return 0 if they can't convert the string given them into a value.
+
+The time and date library includes a wide variety of functions, some of them obscure and nonstandard. To use this library you need the declaration:
+
+   #include &lt;time.h&gt;
+
+The most essential function is &quot;time()&quot;, which returns the number of seconds since some long-ago date. It returns a value as &quot;time_t&quot; (a &quot;long&quot;) as defined in the header file.
+
+The following function uses &quot;time()&quot; to implement a program delay with resolution in seconds:
+
+   /* delay.c */
+
+   #include &lt;stdio.h&gt;
+   #include &lt;time.h&gt;
+
+   void sleep( time_t delay );
+
+   void main()
+   {
+     puts( &quot;Delaying for 3 seconds.&quot; );
+     sleep( 3 );
+     puts( &quot;Done!&quot; );
+   }
+
+   void sleep( time_t delay )
+   {
+     time_t t0, t1;
+     time( &amp;t0 );
+     do
+     {
+       time( &amp;t1 );
+     }
+     while (( t1 - t0 ) &lt; delay );
+   }
+
+The &quot;ctime()&quot; function converts the time value returned by &quot;time()&quot; into a time-and-date string. The following little program prints the current time and date:
+
+   /* time.c */
+
+   #include &lt;stdio.h&gt;
+   #include &lt;time.h&gt;
+
+   void main()
+   {
+     time_t *t;
+     time( t );
+     puts( ctime( t ));
+   }
+
+This program prints a string of the form:
+
+   Tue Dec 27 15:18:16 1994
+
+=== The C &quot;sprintf()&quot; Function ===
+
+The &quot;sprintf&quot; function allows you to create strings with formatted data. Technically speaking, this is part of the standard-I/O library, and requires the declaration:
+
+   #include &lt;stdio.h&gt;
+
+However, it is really a string function and needs to be discussed along with the other string functions.
+
+The syntax of &quot;sprintf()&quot; is exactly the same as it is for &quot;printf()&quot;, with the notable exception that the first parameter is a pointer to a string. For example:
+
+   /* csprntf.c */
+
+   #include &lt;stdio.h&gt;
+
+   void main()
+   {
+      char b[100];
+      int i = 42;
+      float f = 1.1234f;
+      sprintf( b, &quot;Formatted data:  %d / %f&quot;, i, f );
+      puts( b );
+   }
+
+-- prints the string:
+
+   Formatted data:  42 / 1.1234
+
+There is also an &quot;sscanf()&quot; function that similarly mirrors &quot;scanf()&quot; functionality.
+
+=== C String Function Library ===
+
+The string-function library requires the declaration:
+
+   #include &lt;string.h&gt;
+
+The most important string functions are as follows:
+
+   strlen():   Get length of a string.
+   strcpy():   Copy one string to another.
+   strcat():   Link together (concatenate) two strings.
+   strcmp():   Compare two strings.
+   strchr():   Find character in string.
+   strstr():   Find string in string.
+   strlwr():   Convert string to lowercase.
+   strupr():   Convert string to uppercase.
+
+The &quot;strlen()&quot; function gives the length of a string, not including the null character at the end:
+
+   /* strlen.c */
+
+   #include &lt;stdio.h&gt;
+   #include &lt;string.h&gt;
+
+   void main()
+   {
+     char *t = &quot;XXX&quot;;
+     printf( &quot;Length of &lt;%s&gt; is %d.\n&quot;, t, strlen( t ));
+   }
+
+This prints:
+
+   Length of &lt;XXX&gt; is 3.
+
+The &quot;strcpy&quot; function copies one string from another. For example:
+
+   /* strcpy.c */
+
+   #include &lt;stdio.h&gt;
+   #include &lt;string.h&gt;
+
+   void main()
+   {
+     char s1[100],
+          s2[100];
+     strcpy( s1, &quot;string 2&quot; );
+     strcpy( s2, &quot;string 1&quot; );
+
+     puts( &quot;Original strings: &quot; );
+     puts( &quot;&quot; );
+     puts( s1 );
+     puts( s2 );
+     puts( &quot;&quot; );
+
+     strcpy( s2, s1 );
+
+     puts( &quot;New strings: &quot; );
+     puts( &quot;&quot; );
+     puts( s1 );
+     puts( s2 );
+   }
+
+This will print out:
+
+   Original strings:
+
+   string 1
+   string 2
+
+   New strings:
+
+   string 1
+   string 1
+
+Please be aware of two features of this program:
+
+    * This program assumes that &quot;s1&quot; has enough space to store the final string. The &quot;strcat()&quot; function won't bother to check, and will give you erroneous results if that is not the case.
+
+    *A string constant can be used as the source string instead of a string variable. Using one for the destination, of course, makes no sense. 
+
+These comments are applicable to most of the other string functions.
+
+There is a variant form of &quot;strcpy&quot; named &quot;strncpy&quot; that will copy &quot;n&quot; characters of the source string to the destination string, presuming there are that many characters available in the source string. For example, if you make the following change in the example program:
+
+   strncpy( s2, s1, 5 );
+
+-- then the results change to:
+
+   New strings:
+
+   string 1
+   string
+
+Notice that the parameter &quot;n&quot; is declared &quot;size_t&quot;, which is defined in &quot;string.h&quot;.
+
+The &quot;strcat()&quot; function joins two strings:
+
+   /* strcat.c */
+
+   #include &lt;stdio.h&gt;
+   #include &lt;string.h&gt;
+
+   void main()
+   {
+     char s1[50],
+          s2[50];
+     strcpy( s1, &quot;Tweedledee &quot; );
+     strcpy( s2, &quot;Tweedledum&quot; );
+     strcat( s1, s2 );
+     puts( s1 );
+   }
+
+This prints:
+
+   Tweedledee Tweedledum
+
+There is a variant version of &quot;strcat()&quot; named &quot;strncat()&quot; that will append &quot;n&quot; characters of the source string to the destination string. If you used &quot;strncat()&quot; in the example above with a length of 7:
+
+   strncat( s1, s2, 7 );
+
+-- the result would be:
+
+   Tweedledee Tweedle
+
+Again, the length parameter is of type &quot;size_t&quot;.
+
+The &quot;strcmp()&quot; function compares two strings:
+
+   /* strcmp.c */
+
+   #include &lt;stdio.h&gt;
+   #include &lt;string.h&gt;
+
+   #define ANSWER &quot;blue&quot;
+
+   void main()
+   {
+     char t[100];
+     puts( &quot;What is the secret color?&quot; );
+     gets( t );
+     while ( strcmp( t, ANSWER ) != 0 )
+     {
+       puts( &quot;Wrong, try again.&quot; );
+       gets( t );
+     }
+     puts( &quot;Right!&quot; );
+   }
+
+The &quot;strcmp()&quot; function returns a &quot;0&quot; for a successful comparison, and nonzero otherwise. The comparison is case-sensitive, so answering &quot;BLUE&quot; or &quot;Blue&quot; won't work.
+
+There are three alternate forms for &quot;strcmp()&quot;:
+
+    * A &quot;strncmp()&quot; function which, as you might guess, compares &quot;n&quot; characters in the source string with the destination string: &quot;strncmp( s1, s2, 6 )&quot;.
+
+    * A &quot;stricmp()&quot; function that ignores case in comparisons.
+
+    * Finally, a case-insensitive version of &quot;strncmp&quot; called &quot;strnicmp&quot;. 
+
+* The &quot;strchr&quot; function finds the first occurrence of a character in a string. It returns a pointer to the character if it finds it, and NULL if not. For example:
+
+   /* strchr.c */
+
+   #include &lt;stdio.h&gt;
+   #include &lt;string.h&gt;
+
+   void main()
+   {
+     char *t = &quot;MEAS:VOLT:DC?&quot;;
+     char *p;
+     p = t;
+     puts( p );
+     while(( p = strchr( p, ':' )) != NULL )
+     {
+       puts( ++p );
+     }
+   }
+
+This prints:
+
+   MEAS:VOLT:DC?
+   VOLT:DC?
+   DC?
+
+The character is defined as a character constant, which C regards as an &quot;int&quot;. Notice how the example program increments the pointer before using it (&quot;++p&quot;) so that it doesn't point to the &quot;:&quot; but to the character following it.
+
+The &quot;strrchr()&quot; function is almost the same as &quot;strchr()&quot;, except that it searches for the last occurrence of the character in the string.
+
+* The &quot;strstr()&quot; function is similar to &quot;strchr()&quot; except that it searches for a string, rather than a character. It also returns a pointer:
+
+  char *s = &quot;Black White Brown Blue Green&quot;;
+  ...
+  puts( strstr( s, &quot;Blue&quot; ) );
+
+* The &quot;strlwr()&quot; and &quot;strupr()&quot; functions simply perform lowercase or uppercase conversion on the source string. For example:
+
+   /* casecvt.c */
+
+   #include &lt;stdio.h&gt;
+   #include &lt;string.h&gt;
+
+   void main()
+   {
+     char *t = &quot;Die Barney die!&quot;;
+     puts( strlwr( t ) );
+     puts( strupr( t ) );
+   }
+
+-- prints:
+
+   die barney die!
+   DIE BARNEY DIE!
+
+These two functions only implemented in some compilers and are not part of ANSI C.
+
+=== C Character Class Test Library ===
+
+These functions perform various tests on characters. They require the declaration:
+
+   #include &lt;ctype.h&gt;
+
+The character is represented as an &quot;int&quot; and the functions return an &quot;int&quot;. They return 0 if the test is false, and non-0 if the test is true:
+
+   isalnum( c ):    Character is alpha or digit.
+   isalpha( c ):    Character is alpha.
+   iscntrl( c ):    Character is control character.
+   isdigit( c ):    Character is decimal digit.
+   isgraph( c ):    Character is printing character (except space).
+   islower( c ):    Character is lower-case.
+   isprint( c ):    Character is printing character (including space).
+   ispunct( c ):    Character is printing character but not space/alnum.
+   isspace( c ):    Character is space, FF, LF, CR, HT, VT.
+   isupper( c ):    Character is upper-case.
+   isxdigit( c ):   Character is hex digit.
+
+The library also contains two conversion functions that also accept and return &quot;int&quot;:
+
+   tolower( c ):   Convert to lower case.
+   toupper( c ):   Convert to upper case.
+
+BACK_TO_TOP
+
+=== C Command Line Arguments ===
+
+C allows you to obtain the command line arguments provided when your executable is called, using two optional parameters of &quot;main()&quot; named &quot;argc&quot; (&quot;argument count&quot;) and &quot;argv&quot; (&quot;argument vector&quot;).
+
+The &quot;argc&quot; variable gives the count of the number of command-line parameters provided to the program. This count includes the name of the program itself, so it will always have a value of at least one. The &quot;argv&quot; variable is a pointer to an array of strings, with each element containing one of the command-line arguments.
+
+The following example program demonstrates:
+
+   /* cmdline.c */
+
+   #include &lt;stdio.h&gt;
+
+   void main( int argc, char *argv[] )
+   {
+     int ctr;
+     for( ctr=0; ctr &lt; argc; ctr++ )
+     {
+       puts( argv[ctr] );
+     }
+   }
+
+If you run this program from the command line as follows:
+
+   stooges moe larry curley 
+
+-- you'll get the output:
+
+   stooges
+   moe
+   larry
+   curley
+
+In practice, the command line will probably take a number of arguments, some of which will indicate options or switches, designated by a leading &quot;-&quot; or &quot;/&quot;. Some of the switches may be specified separately or together, and some may accept an associated parameter. Other arguments will be text strings, giving numbers, file names, or other data.
+
+The following example program demonstrates parsing the command-line arguments for an arbitrary program. It assumes that the legal option characters are &quot;A&quot;, &quot;B&quot;, &quot;C&quot;, and &quot;S&quot;, in either upper- or lower-case. The &quot;S&quot; option must be followed by some string representing a parameter.
+
+   /* cparse.c */
+   
+   #include &lt;stdio.h&gt;
+   #include &lt;stdlib.h&gt;
+   #include &lt;string.h&gt;
+   
+   main( int argc, char *argv[] )
+   {
+     int m, n,                              /* Loop counters. */
+         l,                                 /* String length. */
+         x,                                 /* Exit code. */
+         ch;                                /* Character buffer. */
+     char s[256];                           /* String buffer. */
+   
+     for( n = 1; n &lt; argc; n++ )            /* Scan through args. */
+     {
+       switch( (int)argv[n][0] )            /* Check for option character. */
+       {
+       case '-':
+       case '/': x = 0;                   /* Bail out if 1. */
+                 l = strlen( argv[n] );
+                 for( m = 1; m &lt; l; ++m ) /* Scan through options. */
+                 {
+                   ch = (int)argv[n][m];
+                   switch( ch )
+                   {
+                   case 'a':              /* Legal options. */
+                   case 'A':
+                   case 'b':
+                   case 'B':
+                   case 'C':
+                   case 'd':
+                   case 'D': printf( &quot;Option code = %c\n&quot;, ch );
+                             break;
+                   case 's':              /* String parameter. */
+                   case 'S': if( m + 1 &gt;= l )
+                             {
+                               puts( &quot;Illegal syntax -- no string!&quot; );
+                               exit( 1 );
+                             }
+                             else
+                             {
+                               strcpy( s, &amp;argv[n][m+1] );
+                               printf( &quot;String = %s\n&quot;, s );
+                             }
+                             x = 1;
+                             break;
+                   default:  printf( &quot;Illegal option code = %c\n&quot;, ch );
+                             x = 1;      /* Not legal option. */
+                             exit( 1 );
+                             break;
+                   }
+                   if( x == 1 )
+                   {
+                     break;
+                   }
+                 }
+                 break;
+       default:  printf( &quot;Text = %s\n&quot;, argv[n] ); /* Not option -- text. */
+                 break;
+       }
+     }
+     puts( &quot;DONE!&quot; );
+   }
+
+For a more practical example, here is a simple program, based on an example from the previous chapter, that attempts to read the names of an input and output file from the command line. If no files are present, it uses standard input and standard output instead. If one file is present, it is assumed to be the input file and opens up standard output. This is a useful template for simple file-processing programs.
+
+   /* cpfile.c */
+
+   #include &lt;stdio.h&gt;
+   #include &lt;stdlib.h&gt;
+   #define MAX 256
+
+   void main( unsigned int argc, unsigned char *argv[] )
+   {
+   
+     FILE *src, *dst;
+     char b[MAX];
+   
+     /* Try to open source and destination files. */
+   
+     switch (argc)
+     {
+     case 1:          /* No parameters, use stdin-stdout. */
+       src = stdin;
+       dst = stdout;
+       break;
+
+     case 2:          /* One parameter -- use input file &amp; stdout. */
+       if ( ( src = fopen( argv[1], &quot;r&quot; )) == NULL )
+       {
+          puts( &quot;Can't open input file.\n&quot; );
+          exit( 0 );
+       }
+       dst = stdout;
+       break;
+
+     case 3:         /* Two parameters -- use input and output files. */
+       if ( ( src = fopen( argv[1], &quot;r&quot; )) == NULL )
+       {
+          puts( &quot;Can't open input file.\n&quot; );
+          exit( 0 );
+       }
+       if ( ( dst = fopen( argv[2], &quot;w&quot; )) == NULL )
+       {
+          puts( &quot;Can't open output file.\n&quot; );
+          exit( 0 );
+       }
+       break;
+
+     default:        /* Too many parameters. */
+       puts( &quot;Wrong parameters.\n&quot; );
+       exit( 0 );
+
+     }
+   
+     /* Copy one file to the next. */
+   
+     while( ( fgets( b, MAX, src ) ) != NULL )
+     {
+        fputs( b, dst );
+     }
+   
+     /* All done, close up shop. */
+   
+     fclose( src );
+     fclose( dst );
+   }
+
+=== Pointers to C Functions ===
+
+You know by now that you can declare pointers to variables, arrays, and structures in C. You can also define pointers to functions. This feature allows you to pass functions as arguments to other functions. This is useful if you want to, say, build a function that determines solutions to a range of math functions.
+
+The syntax for declaring pointers to functions is obscure, and so let's start with an idiot example: declaring a pointer to the standard library function &quot;printf()&quot;:
+
+   /* ptrprt.c */
+
+   #include &lt;stdio.h&gt;
+
+   void main()
+   {
+     int (*func_ptr) ();                  /* Declare the pointer. */
+     func_ptr = printf;                   /* Assign it a function. */
+     (*func_ptr) ( &quot;Printf is here!\n&quot; ); /* Execute the function. */
+   }
+
+The function pointer has to be declared as the same type (&quot;int&quot; in this case) as the function it represents.
+
+Next, let's pass function pointers to another function. This function will assume the functions passed to it are math functions that accept double and return double values:
+
+   /* ptrroot.c */
+
+   #include &lt;stdio.h&gt;
+   #include &lt;math.h&gt;
+   
+   void testfunc ( char *name, double (*func_ptr) () );
+   
+   void main()
+   {
+     testfunc( &quot;square root&quot;, sqrt );
+   }
+   
+   void testfunc ( char *name, double (*func_ptr) () )
+   {
+     double x, xinc;
+     int c;
+   
+     printf( &quot;Testing function %s:\n\n&quot;, name );
+     for( c=0; c &lt; 20; ++c )
+     {
+       printf( &quot;%d: %f\n&quot;, c,(*func_ptr)( (double)c ));
+     }
+   }
+
+You obviously cannot pass any arbitrary function to &quot;testfunc()&quot;, since it must agree with the expected number and type of parameters, as well as with the value returned.
+
+=== C Dynamic Memory Allocation &amp; Deallocation ===
+
+For simple programs, it is OK to just declare an array of a given size:
+
+  char buffer[1024]
+
+In more sophisticated programs, this leads to trouble. You may not know how big an array needs to be for the specific task the program is performing, and so allocating an array in a fixed size will either result in wasted memory or in not having enough to do the job.
+
+The answer to this problem is to have the program allocate the memory at runtime, and that's what the &quot;malloc()&quot; library function does. For example, let's use &quot;malloc()&quot; to allocate an array of &quot;char&quot;:
+
+   /* malloc.c */
+
+   #include &lt;malloc.h&gt;
+   #include &lt;stdio.h&gt;
+   #include &lt;stdlib.h&gt;                    /* For &quot;exit&quot; function. */
+
+   void main()
+   {
+     char *p;                             /* Pointer to array. */
+     unsigned count;                      /* Size of array. */
+   
+     puts( &quot;Size of array?&quot; );
+     scanf( &quot;%d&quot;, count );                /* Get size in bytes. */
+     p = (char *)malloc( (size_t)count ); /* Allocate array. */
+     if( p == NULL )                      /* Check for failure. */
+     {
+       puts( &quot;Can't allocate memory!&quot; );
+       exit( 0 );
+     }
+     puts( &quot;Allocated array!&quot; );
+     free( p );                           /* Release memory. */
+   }
+
+The header file &quot;malloc.h&quot; must be included, and a pointer to the memory block to be allocated must be declared. The &quot;malloc()&quot; function sets the pointer to the allocated memory block with:
+
+   p = (char *)malloc( (size_t)count );
+
+The count is in bytes and it is &quot;cast&quot; to the type of &quot;size_t&quot;, which is defined in &quot;malloc.h&quot;. The pointer returned by &quot;malloc()&quot; is &quot;cast&quot; to type &quot;char *&quot;, that is, a pointer to type &quot;char&quot;. By default, in ANSI C, &quot;malloc()&quot; returns a point of type &quot;void&quot;, which allows the pointer to be cast to any other type.
+
+If the &quot;malloc()&quot; fails because it can't allocate the memory, it returns the value NULL (as defined in &quot;stdio.h&quot;).
+
+It is simple to allocate other data types by changing the &quot;cast&quot; operations:
+
+   int *buf;
+   ...
+   buf = (int *)malloc( (size_t)sizeof( int ) * count );
+
+The &quot;sizeof()&quot; function is used to determine the number of bytes in the &quot;int&quot; data type.
+
+When you have finished using the memory block, you get rid of it using the &quot;free&quot; function:
+
+   free( p );
+
+C also contains two other memory-allocation functions closely related to &quot;malloc()&quot;: the &quot;calloc()&quot; function, which performs the same function as &quot;malloc()&quot; but allows you to specify the block allocated in terms of number of elements:
+
+   void *calloc( size_t &lt;number_elements&gt;, size_t &lt;sizeof_element_type&gt; );
+
+-- and the &quot;realloc()&quot; function, which allows you to reallocate the size of an array that's already been allocated:
+
+   void *realloc( void *&lt;block_pointer&gt;, size_t &lt;size_in_bytes&gt; );
+
+=== Common Programming Problems in C ===
+
+There are a number of common programming pitfalls in C that even trap experienced programmers:
+
+#Confusing &quot;=&quot; (assignment operator) with &quot;==&quot; (equality operator). For example:
+
+   if ( x = 1 )
+   {
+   }
+
+-- is bogus, and so is:
+
+   for ( x == 1; ...
+
+#Confusing precedence of operations in expressions. When in doubt, use parentheses to enforce precedence.
+
+#Confusing structure-member operators. If &quot;struct_val&quot; is a structure and &quot;struct_ptr&quot; is a pointer to a structure, then:
+
+   struct_val-&gt;myname
+
+-- is wrong and so is:
+
+   struct_ptr.myname
+
+#Using incorrect formatting codes for &quot;printf()&quot; and &quot;scanf()&quot;. Using a &quot;%f&quot; to print an &quot;int&quot;, for example, can lead to bizarre outputs.
+
+#Remember that the actual base index of an array is 0, and the final index is 1 less than the declared size:
+
+   int data[20];
+   ...
+   for ( x = 1; x &lt;= 20; ++x )
+   {
+     printf( &quot;%d\n&quot;, data[x] );
+   }
+
+-- will give you invalid results when &quot;x&quot; is 20. Since C does not do bounds checking, this one might be hard to catch.
+
+#Muddling syntax for multidimensional arrays. If:
+
+   data[10][10]
+
+-- is a two-dimensional array, then:
+
+   data[2][7]
+
+-- will select an element in that array. However:
+
+   data[ 2, 7 ]
+
+-- will give invalid results but not be flagged as an error by C.
+
+#Confusing strings and character constants. The following is a string:
+
+   &quot;Y&quot;
+
+-- as opposed to the character constant:
+
+   'Y'
+
+This can cause troubles in comparisons of strings against character constants.
+
+#Forgetting that strings end in a null character ('\0'). This means that a string will always be one character bigger than the text it stores. It can also cause you trouble if you are manipulating strings on a character-by-character basis and forget to tack the null character onto the end of it.
+
+#Failing to allocate enough memory for a string -- or, if you declare pointers, to allocate any memory for it at all.
+
+#Declaring a string with a fixed size and then assigning it to a string literal:
+
+   char a[256] = &quot;This doesn't work!&quot;;
+
+#Failing to check return values from library functions. Most library functions return an error code; while it may not be desireable to check every invocation of &quot;printf()&quot;, you should take care not to ignore error codes in critical operations.
+
+Of course, forgetting to store the value returned by a function when that's the only way to get the value out of it is a bonehead move, but people do things like that every now and then.
+
+#Having duplicate library-function names. The compiler will not always catch such bugs.
+
+#Forgetting to specify header files for library functions.
+
+#Specifying variables as parameters to functions when you need to specify pointers, and the reverse. If the function returns a value through a parameter, that means it must be specified as a pointer:
+
+   myfunc( &amp;myvar );
+
+The following will not do the job:
+
+   myfunc( myvar );
+
+Remember that a function may require a pointer as a parameter even if it doesn't return a value, though as a rule this is not a good programming practice.
+
+#Getting mixed up when using nested &quot;if&quot; and &quot;else&quot; statements. The best way to avoid problems with this is to always use brackets. Avoiding complicated &quot;if&quot; constructs is also a good idea; use &quot;switch&quot; if you have any choice in the matter. Using &quot;switch&quot; is also useful even if you have simple &quot;if&quot; statements, since it makes it easier to expand the construct if that is necessary.
+
+#Forgetting semicolons, though the compiler usually catches that, or adding one where it isn't supposed to be, which it usually doesn't. For example:
+
+   for( x = 1; x &lt; 10; ++x );
+   {
+      printf( &quot;%d\n&quot;, x )
+   }
+
+-- never prints anything.
+
+#Forgetting &quot;break&quot; statements in &quot;switch&quot; constructs. As commented earlier, doing so will simply cause execution to flow from one clause of the &quot;switch&quot; to the next.
+
+#Careless mixing and misuse of signed and unsigned values, or of different data types. This can lead to some insanely subtle bugs. One particular problem to watch out for is declaring single character variables as &quot;unsigned char&quot;. Many I/O functions will expect values of &quot;unsigned int&quot; and fail to properly flag EOF.
+
+You should usually cast function arguments to the proper type even if it appears that type conversion will take care of it on its own.
+
+#Confusion of variable names. It is recommended that such identifiers be unique in the first 6 characters to ensure portability of code.
+
+#In general, excessively tricky and clever code. Programs are nasty beasts and even if you get one to work, remember that you will have to modify it and even port it to different languages. Maintain a clean structure and do the simple straightforward thing, unless it imposes an unacceptable penalty.
+
+[http://www.vectorsite.net/tscpp4.html v2.0.7 / 4 of 7 / 01 feb 02 / greg goebel / public domain]</text>
+      <sha1>1fr8t4jvs2b16krsm58cyqom1tqsyzh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Jimregan/C Primer chapter 5</title>
+    <ns>2</ns>
+    <id>114</id>
+    <revision>
+      <id>152305</id>
+      <parentid>78449</parentid>
+      <timestamp>2004-12-19T00:46:16Z</timestamp>
+      <contributor>
+        <username>PRASHPSG</username>
+        <id>3697</id>
+      </contributor>
+      <minor />
+      <comment>months[months-1] previously mentioned excludes december in g++ compiler and must remind users that iostream.h is outdated for g++ 3.x and up on most systems</comment>
+      <text xml:space="preserve">== Programming In C++: Elementary Features ==
+
+The C++ language is an &quot;object-oriented&quot; extension to C that supports fundamental C syntax but adds many new elements. This chapter provides an overview of its differences from C, while the next chapter discusses its central concept, classes.
+
+=== C++ Fundamentals ===
+
+A C++ program may at first look a great deal like a C program, and in fact most ANSI C programs can be compiled just fine under C++, but there are some differences.
+
+The first and most obvious is that comments have a simplified form. While in C you would state:
+
+   /* This is a comment.
+      This is a second comment.
+      This is the last comment here. */
+
+-- in C++ you would say:
+
+   // This is a comment.
+   // This is a second comment.
+   // This is the last comment here.
+
+The second thing you notice in C++ is that simple I/O is performed differently than in C. C++ defines three standard I/O files:
+
+   cin:      Console input.
+   cout:     Console output.
+   cerr:     Console error output device.
+
+-- and input and output operators (&quot;&lt;&lt;&quot; and &quot;&gt;&gt;&quot;) to go along with them. For example, the following program adds two numbers:
+
+   // getxy.cpp
+
+   #include &lt;iostream.h&gt;
+
+   void main()
+   {
+      double x, y;
+
+      cout &lt;&lt; &quot;Please enter X and Y.\n&quot;;
+      cin &gt;&gt; x;
+      cin &gt;&gt; y;
+      cout &lt;&lt; &quot;The sum of X and Y is &quot; &lt;&lt; x + y &lt;&lt; &quot;.\n&quot;;
+   }
+
+This form of C++ I/O is not fussy about data types, and data formatting can be performed. For example, you can print data in different number formats:
+
+   // prbase.cpp
+
+   #include &lt;iostream.h&gt;
+
+   void main()
+   {
+      int n = 666;
+      cout &lt;&lt; dec &lt;&lt; n &lt;&lt; ' ' &lt;&lt; oct &lt;&lt; n &lt;&lt; ' ' &lt;&lt; hex &lt;&lt; n &lt;&lt; '\n';
+   }
+
+This prints the value as follows:
+
+   666 1232 29a
+
+There is much more that can be said about C++ &quot;stream I/O&quot;, but it will have to wait for a later section.
+
+While C++ supports the ANSI C function definition style:
+
+   int example( int x, int y );
+
+-- it also has some enhancements. Default parameter values can be specified:
+
+   int example( int = 0, int = 100 );
+
+This means that if you call &quot;example&quot; as follows:
+
+   example();
+
+-- then the default parameter values 0 and &quot;100&quot; will be specified. If you call it as:
+
+   example( -100 );
+
+-- the parameter values will be -100 and 100. If you specify both parameters:
+
+   example( 1, 1000 );
+
+-- then the values are &quot;1&quot; and &quot;1000&quot;. You cannot specify only the second parameter:
+
+   example( ,1000 );
+
+There are some other enhancements in function handling that will be discussed in a later section.
+
+C++ incorporates the following additional keywords:
+
+   class          
+   delete
+   friend
+   inline
+   new
+   operator
+   private
+   protected
+   public
+   this
+   virtual
+
+These new keywords will be discussed in detail later in this document.
+
+=== C++ Extensions to C ===
+
+* One unusual difference of C++ relative to C is that it allows function prototyping within the &quot;main&quot; program. C++ is not picky about placement of declarations, although a function has to be prototyped before it is used.
+
+Similarly, C++ is not fussy about the placement of variable declarations, and they can be declared within a block if need be. For example, the following is perfectly legal in C++:
+
+   // vardec.cpp
+
+   #include &lt;iostream.h&gt;
+
+   void main()
+   {
+      for( int l = 0; l &lt; 5; l++ )  // Notice declaration of &quot;l&quot;.
+      {
+         cout &lt;&lt; l &lt;&lt; '\n';
+      }
+   }
+
+There are some peculiarities in this declaration with respect to scope, however. The scope of the variable &quot;l&quot; is the current block, but only the portions of the current block after the declaration. Statements before the declaration cannot refer to that variable.
+
+Another new feature of C++ is that you can refer to a global variable and a local variable that have the same name by using the &quot;scope resolution operator&quot;, or &quot;::&quot;. For example:
+
+   // prglob.cpp
+
+   #include &lt;iostream.h&gt;
+
+   int n = 42;                          // Global variable.
+
+   void main()
+   {
+     int n = 666;                       // Local variable.
+     cout &lt;&lt; ::n &lt;&lt; ' ' &lt;&lt; n &lt;&lt; '\n';   // Print global, then local variable.
+   }
+
+This displays:
+
+   42 666
+
+C++ has a new mechanism to replace the function macros of C, which you may recall can have unpredictable behavior. In C++ you can define &quot;inline functions&quot; with the syntax:
+
+   inline ifunc( int x )
+   {
+     ...
+   }
+
+The code for this function is inserted in the program wherever the function is invoked, allowing for faster execution at the expense of memory usage.
+
+C++ also features some improvements in the &quot;const&quot; keyword. In C the &quot;#define&quot; preprocessor metacommand is used to define constants:
+
+   #define PI 3.141592654
+
+In C++, the &quot;const&quot; keyword is preferred:
+
+   const double PI 3.141592654;
+
+If you don't specify the data type, C++ will assume &quot;int&quot;. The advantage of the &quot;const&quot; keyword is that it allows constant declarations to be made inside functions, resulting in constant values that are &quot;local&quot; to that function. (Of course, they can be used to define global constants as well.)
+
+Another (minor) difference is in C++ handling of enumerated types. If you declare an enumerated type:
+
+   enum Color { Red, White, Blue, Green, Cyan, Magenta, Yellow, Black };
+
+-- and then you declare a variable of that type, you don't have to specify it as an enum type:
+
+   Color cvar;
+
+You can still use standard C libraries in C++, but you must provide a &quot;linkage specification&quot; to tell the C++ compiler that it is using functions compiled for C. For example, if you want to use a function from the C standard library in a C++ program, you would have to write:
+
+   // prnrnd.cpp
+
+   #include &lt;iostream.h&gt;
+
+   extern &quot;C&quot;
+   {
+     #include &lt;stdlib.h&gt;
+   }
+
+   void main()
+   {
+     cout &lt;&lt; rand();
+   }
+
+=== C++ Memory Allocation -- Free &amp; Delete ===
+
+C++ has two new keywords, &quot;new&quot; and &quot;delete&quot;, to perform variable memory allocation, in place of the C &quot;malloc&quot; and &quot;free&quot; routines. The &quot;new&quot; operator returns a pointer to memory allocated for a specified variable type from the &quot;free store&quot; reserved for the program, and the &quot;delete&quot; operator returns that memory to free store:
+
+   // alloc.cpp
+
+   #include &lt;iostream.h&gt;
+
+   struct Date
+   {
+     int month;
+     int day;
+     int year;
+   };
+
+   void main()
+   {
+     Date *event = new Date;   // Allocate memory for variable of type Date.
+     event-&gt;month = 7;
+     event-&gt;day = 4;
+     event-&gt;year = 1863;
+     cout &lt;&lt; &quot;What happened on &quot; &lt;&lt; event-&gt;day &lt;&lt; '/' 
+                                 &lt;&lt; event-&gt;month &lt;&lt; '/'
+			         &lt;&lt; event-&gt;year &lt;&lt; &quot;?\n&quot;;
+     delete event;             // Deallocate memory.
+   } 
+
+You don't have to specify &quot;struct Date&quot;, as you would in C. The &quot;new&quot; and &quot;delete&quot; operators provide a much cleaner interface than &quot;malloc&quot; and &quot;free&quot;.
+
+For another example, consider the dynamic allocation of arrays:
+
+   // dynaloc.cpp
+
+   #include &lt;iostream.h&gt;
+   #include &lt;stdlib.h&gt;
+
+   void main()
+   {
+      cout &lt;&lt; &quot;Array size: &quot;;
+      int size;
+      cin &gt;&gt; size;                      // Get array size.
+      int *array = new int[size];       // Allocate an array.
+      for( int i = 0; i &lt; size; i++ )   // Load it with random numbers.
+      {
+        array[i] = rand();
+      }
+      for( i = 0; i &lt; size; i++ )
+      {
+        cout &lt;&lt; array[i] &lt;&lt; '\n';
+      }
+      delete array;                     // Return array to free store.
+   }
+
+Of course, if you dynamically allocate memory, there is a good chance that your program may run out of free store at some time, and so you need to be able to handle that circumstance. C++ includes a function named &quot;set_new_handler&quot; that allows you to specify a handler that will be invoked when the free store is exhausted:
+
+   // newhand.cpp
+
+   #include &lt;iostream.h&gt;
+   #include &lt;stdlib.h&gt;
+   #include &lt;new.h&gt;
+
+   static void memhandler()
+   {
+     cerr &lt;&lt; &quot;Out of memory!\n&quot;;
+     exit(1);
+   }
+
+   void main()
+   {
+     set_new_handler( memhandler );
+     long sum = 0;
+     while (1)
+     {
+       char *cp = new char[10000];
+       sum += 10000;
+       cout &lt;&lt; &quot;Memory allocated: &quot; &lt;&lt; sum &lt;&lt; '\n';
+     }
+   }
+
+=== C++ Function Overloading ===
+
+A particular innovation in C++ relative to C is the use of &quot;function overloading&quot;. In standard C, if you defined a function named &quot;cube&quot; that used &quot;int&quot; values, then you would have to define a function with a different name that handled &quot;double&quot; values. C++ allows you to have multiple functions of the same name in the same program by using the &quot;overload&quot; keyword:
+
+   // cubes.cpp
+
+   #include &lt;iostream.h&gt;
+
+   long cube( long l )
+   {
+     return l * l * l;
+   }
+
+   double cube( double d )
+   {
+     return d * d * d;
+   }
+
+   void main()
+   {
+     long n1 = 3;
+     double n2 = 5.0;
+
+     cout &lt;&lt; cube( n1 ) &lt;&lt; &quot;\n&quot; &lt;&lt; cube( n2 ) &lt;&lt; &quot;\n&quot;;
+   }
+
+This program defines a pair of overloaded functions. The type of parameter will determine which function will be called.
+
+=== C++ Structures ===
+
+C++ extends the concepts of data structures defined in C.
+
+The first and simplest difference is that in C++ defining a structure creates a new data type. The only obvious consequence of this (as shown earlier) is that while in C every instance of a defined structure must be declared as a &quot;struct&quot;:
+
+   struct Date { int month, day, year };
+   ...
+   struct Date today;       /* C structure instance declaration. */
+
+-- in C++ the &quot;struct&quot; keyword is not required in the instance declaration. For an example of C++ structure declaration:
+
+   // cpstruct.cpp
+
+   #include &lt;iostream.h&gt;
+
+   struct Date
+   {
+     int month;
+     int day;
+     int year;
+   };
+
+   static void display( Date );     // Function proto with &quot;Date&quot; parameter.
+
+   void main()
+   {
+     Date bday = { 2, 16, 1953 };
+     cout &lt;&lt; &quot;My birthday is: &quot; &lt;&lt; '\n';
+     display( bday );
+   }
+
+   static void display( Date d )
+   {
+     static char *months[] = { &quot;January&quot;, &quot;February&quot;, &quot;March&quot;, &quot;April&quot;, 
+                               &quot;May&quot;, &quot;June&quot;, &quot;July&quot;, &quot;August&quot;, &quot;September&quot;,
+			       &quot;October&quot;, &quot;November&quot;, &quot;December&quot; };
+     cout &lt;&lt; months[d.month-1] &lt;&lt; ' ' &lt;&lt; d.day &lt;&lt; &quot;, &quot; &lt;&lt; d.year;
+   }
+
+You can also declare arrays of structures:
+
+   Date days[20];
+
+-- or pointers to them.
+
+The first really significant difference in structure definition under C++ compared to C is that you can specify functions as elements of structures.
+
+This is a big step toward the concept of object-oriented programming. Now, instead of having a data structure that simply stores data items, you can have functions to work with the data &quot;encapsulated&quot; in the structure.
+
+The following example modifies the previous one to illustrate such encapsulation:
+
+   // encaps.cpp
+
+   #include &lt;iostream.h&gt;
+
+   struct Date
+   {
+     int month, day, year;
+     void display();                // Function bound to &quot;Date&quot; struct.
+   };
+
+   void Date::display( )
+   {
+     static char *months[] = { &quot;January&quot;, &quot;February&quot;, &quot;March&quot;, &quot;April&quot;, 
+                               &quot;May&quot;, &quot;June&quot;, &quot;July&quot;, &quot;August&quot;, &quot;September&quot;,
+			       &quot;October&quot;, &quot;November&quot;, &quot;December&quot; };
+     cout &lt;&lt; months[month-1] &lt;&lt; ' ' &lt;&lt; day &lt;&lt; &quot;, &quot; &lt;&lt; year;
+   }
+
+   void main()
+   {
+     Date bday = { 2, 16, 1953 };
+     cout &lt;&lt; &quot;My birthday is: &quot; &lt;&lt; '\n';
+     bday.display();
+   }
+
+There are some interesting things about this program. First, the encapsulated function is defined with:
+
+   void Date::display( )
+
+-- to indicate that &quot;display()&quot; is associated with the struct &quot;Date&quot;. Note that a parameter of type &quot;Date&quot; is no longer defined, since the function is implicitly associated with a parameter of that form.
+
+Similarly, the data fields are also directly accessible in the function:
+
+   cout &lt;&lt; months[month-1] &lt;&lt; ' ' &lt;&lt; day &lt;&lt; &quot;, &quot; &lt;&lt; year;
+
+It is not necessary to use the notation &quot;d.months&quot;, &quot;d.day&quot;, &quot;d.year&quot;.
+
+However, the function, being an element of that type of structure, is invoked using that notation:
+
+   bday.display();
+
+Structures also allow function overloading. Different structures can have a function of the same name. For example:
+
+   // stover.cpp
+
+   #include &lt;iostream.h&gt;
+   #include &lt;stdio.h&gt;
+   #include &lt;time.h&gt;
+
+   // *********************************************************************
+
+   struct Date  // Date structure with a function named &quot;display()&quot;.
+   {
+     int month, day, year;
+     void display();
+   };
+
+   void Date::display()
+   {
+     static char *months[] = { &quot;January&quot;, &quot;February&quot;, &quot;March&quot;, &quot;April&quot;, 
+                               &quot;May&quot;, &quot;June&quot;, &quot;July&quot;, &quot;August&quot;, &quot;September&quot;,
+			       &quot;October&quot;, &quot;November&quot;, &quot;December&quot; };
+     cout &lt;&lt; months[month] &lt;&lt; ' ' &lt;&lt; day &lt;&lt; &quot;, &quot; &lt;&lt; year;
+   }
+
+   // *********************************************************************
+
+   struct Time  // Time structure with a function named &quot;display()&quot;.
+   {
+     int hour, minute, second;
+     void display();
+   };
+
+   void Time::display()
+   {
+     char t[15];
+     sprintf( t, &quot;%d:%2d:%2d %s&quot;,
+       ( hour &gt; 12 ? hour - 12 : (hour == 0 ? 12 : hour )),
+       minute, second, ( hour &lt; 12? &quot;am&quot; : &quot;pm&quot; ));
+     cout &lt;&lt; t;
+   }
+
+   // *********************************************************************
+   
+   void main()
+   {
+     time_t ctime = time(0);             // Get current time.
+     struct tm current = *localtime( &amp;ctime );
+
+     Time now;                           // Instances of defined structures.
+     Date today;
+
+     now.hour = current.tm_hour;         // Initialize Time structure.
+     now.minute = current.tm_min;
+     now.second = current.tm_sec;
+
+     today.month = current.tm_mon;       // Initialize Date structure.
+     today.day = current.tm_mday;
+     today.year = current.tm_year + 1900;
+
+     cout &lt;&lt; &quot;At the tone it will be &quot;;  // Display time and date.
+     now.display();
+     cout &lt;&lt; &quot; on &quot;;
+     today.display();
+     cout &lt;&lt; &quot;.\n&quot;;
+   }
+
+When invoked, this program produces an output of the form:
+
+   At the tone it will be 6:20:33 on March 17, 1995.
+
+BACK_TO_TOP
+
+[5.6] C++ REFERENCES
+
+* Along with the traditional means of passing parameters to functions as values:
+
+   int testfunc( int x );
+
+-- or as pointers:
+
+   \Bint testfunc( int *x );
+
+-- C++ provides an additional calling scheme, using &quot;reference variables&quot;. This scheme is equivalent to using pointers, in that the function can change the value in the variable and return it to the calling program without having the overhead of passing all the data to the function. However, it doesn't require the use of pointer dereferencing operations in the target function, making it easier to pass structures and arrays to functions.
+
+Reference variables are a slightly fuzzy concept, so please bear with the discussion. It will become clearer as elements are introduced.
+
+A reference variable is defined as an &quot;alias&quot;, or synonym, for a variable. It is defined using the &quot;&amp;&quot; operator:
+
+   int some_int;
+   int&amp; ref_to_int = some_int;
+
+This use of &quot;&amp;&quot; is distinct from its use as the &quot;address of&quot; operator:
+
+   &amp;some_int
+
+-- which gives the address of a variable. The reference is initialized when it is declared -- naturally, since it doesn't have any independent existence.
+
+The following example illustrates the behavior of reference variables:
+
+   // reftest.cpp
+
+   #include &lt;iostream.h&gt;
+
+   void main()
+   {
+     int some_int = 42;
+     int&amp; ref_to_int = some_int;
+
+     cout &lt;&lt; some_int &lt;&lt; ' ' &lt;&lt; ref_to_int &lt;&lt; '\n';   // Print values.
+     ref_to_int++;                                    // Increment reference.
+     cout &lt;&lt; some_int &lt;&lt; ' ' &lt;&lt; ref_to_int &lt;&lt; '\n';   // Print values.
+     some_int++;                                      // Increment variable.
+     cout &lt;&lt; some_int &lt;&lt; ' ' &lt;&lt; ref_to_int &lt;&lt; '\n';   // Print values.
+     cout &lt;&lt; &amp;some_int &lt;&lt; ' ' &lt;&lt; &amp;ref_to_int &lt;&lt; '\n'; // Print addresses.
+   }
+
+This prints:
+
+   42 42
+   43 43
+   44 44
+   0x6555fffc 0x6555fffc
+
+A reference, as this example shows, is not a copy of nor a pointer to the variable it aliases. It is simply another name for it.
+
+* References are generally used in conjunction with arrays, structures, and class objects, to be discussed in the next chapter. There's not really much reason to define references for simple &quot;int&quot; or &quot;float&quot; variables.
+
+The reason for having references is to simplify parameter passing to functions, as noted earlier in this section. They eliminate the overhead of passing large data structures to functions, eliminate the need for pointer dereferencing operations, and allow a function to modify the data from the source program.
+
+For example:
+
+   // ptrdemo.cpp
+
+   #include &lt;iostream.h&gt;
+
+   struct big     // A big structure that doesn't do much of anything.
+   {
+     int sn;
+     char text[1024];
+   } b = { 42, &quot;Life, the Universe, and Everything!&quot; };
+
+   void fslow( big b1 );   // Function to call the big structure by value.
+   void ffast( big&amp; b2 );  // Function to call the big structure by reference.
+
+   void main()
+   {
+     fslow( b );           // Slow, because data must be put on stack.
+     ffast( b );           // Fast, because data is directly accessed.
+   }
+
+   void fslow( big b1 )
+   {
+     cout &lt;&lt; b1.sn &lt;&lt; '\n' &lt;&lt; b1.text &lt;&lt; '\n';
+   }
+
+   void ffast( big&amp; b2 )
+   {
+     cout &lt;&lt; b2.sn &lt;&lt; '\n' &lt;&lt; b2.text &lt;&lt; '\n';
+   }
+
+A second example illustrates how references accomplish the same thing as pointers but don't require the clumsy pointer dereferencing syntax:
+
+   // refdemo.cpp
+
+   #include &lt;iostream.h&gt;
+
+   struct big     // Same big struct as before.
+   {
+     int sn;
+     char text[1024];
+   } b = { 42, &quot;Life, the Universe, and Everything!&quot; };
+
+   void fptr( big *b1 );    // Function to use pointers.
+   void fref( big&amp; b2 );    // Function to use references.
+
+   void main()
+   {
+     fptr( &amp;b ); 
+     fref( b );
+   }
+
+   void fptr( big *b1 )
+   { 
+     cout &lt;&lt; b1-&gt;sn &lt;&lt; '\n' &lt;&lt; b1-&gt;text &lt;&lt; '\n';  // Pointer deference.
+   }
+
+   void fref( big&amp; b2 )
+   {
+     cout &lt;&lt; b2.sn &lt;&lt; '\n' &lt;&lt; b2.text &lt;&lt; '\n';    // As before.
+   }
+
+A function can, as noted, change the value of the referenced variable in the calling program. If this is not desired, in the case where you simply want fast and economical parameter passing, you can declare a reference as a constant:
+
+   void func( const somestr&amp; d );  // Parameter &quot;d&quot; can't be changed.
+
+References can also be returned by functions to calling programs:
+
+   &amp;getref( int i );          // Prototype for function to return reference.
+   ...
+   somestr&amp; r = getref( 3 );  // Return reference value to calling routine.
+
+Remember that a reference is an alias. You cannot really perform any operation on a reference but initialize it, since any other operation you perform on the reference is simply performed on the variable referenced. You also cannot define arrays of references.
+
+[http://www.vectorsite.net/tscpp5.html v2.0.7 / 6 of 7 / 01 feb 02 / greg goebel / public domain]</text>
+      <sha1>hraxn8pglr35iwcys1rcxyr0bbr1bue</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

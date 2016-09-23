@@ -1,0 +1,490 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>MediaWiki:Matchtotals</title>
+    <ns>8</ns>
+    <id>2690</id>
+    <revision>
+      <id>154703</id>
+      <parentid>33282</parentid>
+      <timestamp>2004-05-27T18:17:26Z</timestamp>
+      <contributor>
+        <username>Maveric149</username>
+        <id>7</id>
+      </contributor>
+      <comment>page</comment>
+      <text xml:space="preserve">The query &quot;$1&quot; matched $2 page titles
+and the text of $3 pages.</text>
+      <sha1>4uudnh7oxas1cnfq1uco6znoks3jdrc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Notitlematches</title>
+    <ns>8</ns>
+    <id>2693</id>
+    <revision>
+      <id>154706</id>
+      <parentid>33287</parentid>
+      <timestamp>2004-05-27T18:20:31Z</timestamp>
+      <contributor>
+        <username>Maveric149</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve">No title matches</text>
+      <sha1>o277f2329h7rembmza8i5g3tb5qo06p</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Notextmatches</title>
+    <ns>8</ns>
+    <id>2695</id>
+    <revision>
+      <id>154708</id>
+      <parentid>33285</parentid>
+      <timestamp>2004-05-27T18:20:02Z</timestamp>
+      <contributor>
+        <username>Maveric149</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve">No text matches</text>
+      <sha1>fv37sj68e7inne7da6q23hqsu0bac0j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefslogintext</title>
+    <ns>8</ns>
+    <id>2709</id>
+    <revision>
+      <id>232294</id>
+      <parentid>154722</parentid>
+      <timestamp>2005-09-11T09:09:46Z</timestamp>
+      <contributor>
+        <username>Robert Horning</username>
+        <id>1227</id>
+      </contributor>
+      <comment>Changing to pages on Meta instead of having to maintain them on Wikibooks</comment>
+      <text xml:space="preserve">You are logged in as &quot;$1&quot;.
+Your internal ID number is $2.
+
+See [[Meta:Help:Preferences]] for help deciphering the options.</text>
+      <sha1>36g92m8mvcmacml79vzearis2yt2o9j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Math</title>
+    <ns>8</ns>
+    <id>2714</id>
+    <revision>
+      <id>698506</id>
+      <parentid>181652</parentid>
+      <timestamp>2006-12-28T19:25:59Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">Maths</text>
+      <sha1>61hu2zek57av2mz0ddagk9tur134hwx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Uploadtext</title>
+    <ns>8</ns>
+    <id>2772</id>
+    <revision>
+      <id>1989084</id>
+      <parentid>1989080</parentid>
+      <timestamp>2010-12-03T14:37:18Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <comment>rm permission line; non-free works don't have permission by definition; formatting</comment>
+      <text xml:space="preserve">{| cellpadding=&quot;6px&quot; cellspacing=&quot;0px&quot; style=&quot;width:100%; border:1px solid #abd5d5; background:#f1f5fc; font-size:95%;&quot;
+! style=&quot;width:50%; background:#d7e1f2;&quot; | [[Wikibooks:Templates/Files|Describing your uploads]]
+! style=&quot;width:50%; background:#d7e1f2;&quot; | [[WB:MEDIA|All files uploaded to Wikibooks must]]:
+|-
+| style=&quot;vertical-align:top;&quot; |Please fill out {{tl|information}} in the &quot;summary&quot; form below in order to include required information about the work:
+
+&lt;pre style=&quot;margin:0.5em auto; border:none; background:transparent;&quot;&gt;&lt;nowiki&gt;
+&amp;#123;&amp;#123;information
+|description    =
+|source         =
+|date           =
+|author         =
+&amp;#125;&amp;#125;&lt;/nowiki&gt;&lt;/pre&gt;
+
+* '''description''' of the content; What do you see here? Please also use a descriptive and concise destination filename without special characters (e.g. ''How&amp;nbsp;to&amp;nbsp;build&amp;nbsp;a&amp;nbsp;bird&amp;nbsp;house&amp;nbsp;step2.gif'').
+* '''source''' like a web link, catalog number, book source or any other kind of reference.
+* '''author'''(s) of the file or the name of the institution, organization or company which released it.
+* '''date''' of creation, or if the former is unknown the date of release or publication, preferably in [[w:ISO 8601|ISO 8601]] format, such as &quot;2006-01-15&quot; for 15 January 2006.
+| style=&quot;vertical-align:top; background-color:#f8fcff;&quot; | Be used in related pages or books under fair use or fair dealing terms and include for every usage a non-free use rationale:
+
+&lt;pre style=&quot;margin:0.5em auto; border:none; background:transparent;&quot;&gt;&lt;nowiki&gt;
+&amp;#123;&amp;#123;non-free use rationale
+|module      = 
+|copyrights  = 
+|source      = 
+|not free    = 
+|rationale   = 
+&amp;#125;&amp;#125;&lt;/nowiki&gt;&lt;/pre&gt;
+
+* '''module''' where this work is used
+* '''copyrights''' covering this media and who owns them (with years if known)
+* '''source''' of the media (provide a Web address if possible)
+* '''not free''' reason why a freely-licensed or public domain alternative cannot be used or created
+* '''rationale''' explanation for why a page needs to use this work
+|-
+| style=&quot;text-align:center;&quot; | '''Also select an option for the type of media in the drop-down menu below.'''
+| style=&quot;background-color:#f8fcff; text-align:center;&quot; | '''''[[Commons:Commons:Upload|Upload free works to Wikimedia Commons]]''' so they can be used from any Wikimedia project, including Wikibooks.''
+|}
+{| style=&quot;border:2px solid red; background:#FFE4E1; color:black; width:100%; margin-top:2px;&quot; cellpadding=&quot;2px&quot;
+| style=&quot;text-align:center; width:40px;&quot; | [[File:NotCommons-emblem-copyrighted.svg|30px|link=]]
+| ''Uploaded files which do not meet Wikibooks' [[WB:MEDIA|requirements for inclusion]] &lt;span style=&quot;color: red; font-weight: bold&quot;&gt;will be deleted&lt;/span&gt;. Users who repeatedly upload excluded files or files without required information may be blocked.''
+|}</text>
+      <sha1>6jaaghhfju03p4trqpb0hnh525x3f1x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Copyrightpage</title>
+    <ns>8</ns>
+    <id>2781</id>
+    <revision>
+      <id>232286</id>
+      <parentid>154793</parentid>
+      <timestamp>2005-09-11T08:58:05Z</timestamp>
+      <contributor>
+        <username>Robert Horning</username>
+        <id>1227</id>
+      </contributor>
+      <comment>Changing visible text for where copyright information can be found.</comment>
+      <text xml:space="preserve">Wikibooks:Copyrights</text>
+      <sha1>eyyddfh9iw3v3nc07qzjrd9vrt6szgm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Copyrightpagename</title>
+    <ns>8</ns>
+    <id>2782</id>
+    <revision>
+      <id>154794</id>
+      <parentid>33738</parentid>
+      <timestamp>2004-05-29T21:38:10Z</timestamp>
+      <contributor>
+        <username>Maveric149</username>
+        <id>7</id>
+      </contributor>
+      <comment>{{SITENAME}}</comment>
+      <text xml:space="preserve">{{SITENAME}} copyright</text>
+      <sha1>dlxm106uwsim19jhmqv2e4s8xor1mi2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Fileuploaded</title>
+    <ns>8</ns>
+    <id>2791</id>
+    <revision>
+      <id>1078350</id>
+      <parentid>279530</parentid>
+      <timestamp>2008-01-10T18:44:27Z</timestamp>
+      <contributor>
+        <username>Mike.lifeguard</username>
+        <id>55262</id>
+      </contributor>
+      <minor />
+      <comment>link to meta instead</comment>
+      <text xml:space="preserve">File &quot;$1&quot; uploaded successfully!
+Please follow this link: $2 to the description page and fill
+in information about the file, such as where it came from, when it was
+created and by whom, and anything else you may know about it.
+
+Also, choose an [[Wikibooks:Image copyright tags|image copyright tag]] and add it to the description page if you did not do so in the upload summary. If this is not done, and the copyright status of the file cannot otherwise be determined, it will be eventually be '''deleted'''.
+
+To make your uploaded file appear in an article, you need to insert it: edit the article and add the syntax &lt;nowiki&gt;[[Image:&lt;/nowiki&gt;$1&lt;nowiki&gt;|thumb|Caption]]&lt;/nowiki&gt; where you want the file to appear.  See [[m:Help:Images]] or [[w:Wikipedia:Extended image syntax]] for further instructions.</text>
+      <sha1>ce0f7zfgbe0i9rth1gkqmbjt6qrus05</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Sitestatstext</title>
+    <ns>8</ns>
+    <id>2818</id>
+    <revision>
+      <id>1993192</id>
+      <parentid>955392</parentid>
+      <timestamp>2010-12-07T20:39:00Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>fixed link</comment>
+      <text xml:space="preserve">Since {{SITENAME}} was setup on [[Wikibooks:Welcome|10 July 2003]], there has been '''$4''' page edits to '''$1''' [[Special:Allpages|pages]] in the {{SITENAME}} database. That comes to an average of '''$5''' edits per page. This include &quot;discussion&quot; pages, pages about {{SITENAME}}, minimal &quot;stub&quot; pages, redirects and others that probably don't qualify as book modules. Excluding those, there are probably '''$2''' legitimate book modules in a multitude of textbooks.
+
+'''$8''' media files have been uploaded to {{SITENAME}}.
+
+There are '''$7''' current jobs in the [[m:Help:Job queue|job queue]].</text>
+      <sha1>77xyc8ge3d5vpbmhgcwgjh4g6mwdina</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Disambiguationstext</title>
+    <ns>8</ns>
+    <id>2825</id>
+    <revision>
+      <id>154837</id>
+      <parentid>33277</parentid>
+      <timestamp>2004-05-27T18:12:35Z</timestamp>
+      <contributor>
+        <username>Maveric149</username>
+        <id>7</id>
+      </contributor>
+      <comment>modules</comment>
+      <text xml:space="preserve">The following modules link to a &lt;i&gt;disambiguation page&lt;/i&gt;. They should link to the appropriate topic instead.&lt;br /&gt;A page is treated as dismbiguation if it is linked from $1.&lt;br /&gt;Links from other namespaces are &lt;i&gt;not&lt;/i&gt; listed here.</text>
+      <sha1>d49bn9up857kw8k3shrhlhqgee8lj9v</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Doubleredirectstext</title>
+    <ns>8</ns>
+    <id>2827</id>
+    <revision>
+      <id>1539140</id>
+      <parentid>154839</parentid>
+      <timestamp>2009-06-19T14:41:51Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>Fixed typo.</comment>
+      <text xml:space="preserve">&lt;b&gt;Attention:&lt;/b&gt; This list may contain false positives. That usually means there is additional text with links below the first #REDIRECT.&lt;br /&gt;
+Each row contains links to the first and second redirect, as well as the first line of the second redirect text, usually giving the &quot;real&quot; target page, which the first redirect should point to.</text>
+      <sha1>plrkfo11c85uiwkdavp4ovj1nxfcsaz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Missinglanguagelinkstext</title>
+    <ns>8</ns>
+    <id>2837</id>
+    <revision>
+      <id>154849</id>
+      <parentid>33283</parentid>
+      <timestamp>2004-05-27T18:18:14Z</timestamp>
+      <contributor>
+        <username>Maveric149</username>
+        <id>7</id>
+      </contributor>
+      <comment>pages</comment>
+      <text xml:space="preserve">These pages do &lt;i&gt;not&lt;/i&gt; link to their counterpart in $1. Redirects and subpages are &lt;i&gt;not&lt;/i&gt; shown.</text>
+      <sha1>s683qpj9wco1ivud1rvgfr8fsr2u655</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Booksourcetext</title>
+    <ns>8</ns>
+    <id>2865</id>
+    <revision>
+      <id>154877</id>
+      <parentid>33739</parentid>
+      <timestamp>2004-05-29T21:38:29Z</timestamp>
+      <contributor>
+        <username>Maveric149</username>
+        <id>7</id>
+      </contributor>
+      <comment>{{SITENAME}}</comment>
+      <text xml:space="preserve">Below is a list of links to other sites that
+sell new and used books, and may also have further information
+about books you are looking for. {{SITENAME}} is not affiliated with any of these businesses, and
+this list should not be construed as an endorsement.</text>
+      <sha1>a8jlmf74l324cle0jqgrigfnjt033s0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Addedwatchtext</title>
+    <ns>8</ns>
+    <id>2887</id>
+    <revision>
+      <id>2054257</id>
+      <parentid>1462555</parentid>
+      <timestamp>2011-02-22T16:46:36Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <comment>wording</comment>
+      <text xml:space="preserve">The page &quot;'''&lt;nowiki&gt;$1&lt;/nowiki&gt;'''&quot; has been added to your [[{{ns:Special}}:Watchlist|watchlist]], which will list edits to this page and its associated {{#ifeq:{{NAMESPACE}}|{{TALKSPACE}}|content|discussion}} page. The page title will also appear in '''bold type''' in the [[{{ns:Special}}:RecentChanges|list of recent changes]].</text>
+      <sha1>jmapji7mkfc6dusdds07v7oj9ar85at</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Alreadyrolled</title>
+    <ns>8</ns>
+    <id>2928</id>
+    <revision>
+      <id>2019171</id>
+      <parentid>154940</parentid>
+      <timestamp>2011-01-18T17:03:50Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <comment>talk -&gt; discuss</comment>
+      <text xml:space="preserve">Cannot roll back last edit of [[$1]]
+by [[User:$2|$2]] ([[User talk:$2|discuss]]); someone else has edited or rolled back the page already. 
+
+Last edit was by [[User:$3|$3]] ([[User talk:$3|discuss]]).</text>
+      <sha1>gvtnzd7vo8z2qd2k67fvvktix3ymmm0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Undeletearticle</title>
+    <ns>8</ns>
+    <id>2938</id>
+    <revision>
+      <id>154950</id>
+      <parentid>33296</parentid>
+      <timestamp>2004-05-27T18:26:42Z</timestamp>
+      <contributor>
+        <username>Maveric149</username>
+        <id>7</id>
+      </contributor>
+      <comment>page</comment>
+      <text xml:space="preserve">Restore deleted page</text>
+      <sha1>mva7uoa18ai08ryft1d48kkstbx2c0t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Undeletedtext</title>
+    <ns>8</ns>
+    <id>2944</id>
+    <revision>
+      <id>232306</id>
+      <parentid>154956</parentid>
+      <timestamp>2005-09-11T09:38:58Z</timestamp>
+      <contributor>
+        <username>Robert Horning</username>
+        <id>1227</id>
+      </contributor>
+      <comment>Updating to correct special page, rather than out of date page that is largely historical and can be found in the log anyway.</comment>
+      <text xml:space="preserve">[[$1]] has been successfully restored.
+See [[Special:Log/delete]] for a record of recent deletions and restorations.</text>
+      <sha1>cv4hdti4hpwnj0ycbj7qu9coyr0d3c7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Blockiptext</title>
+    <ns>8</ns>
+    <id>2959</id>
+    <revision>
+      <id>2054474</id>
+      <parentid>2054237</parentid>
+      <timestamp>2011-02-22T20:19:42Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>no need for hr</comment>
+      <text xml:space="preserve">{| id=&quot;GovernmentIps&quot; class=&quot;infobox plainlinks&quot; style=&quot;font-size:90%;&quot; cellpadding=&quot;2px&quot;
+! colspan=&quot;2&quot; | Sensitive IP addresses ([http://www.subnet-calculator.com/cidr.php range calculator])
+|-
+| colspan=&quot;2&quot; | &lt;hr /&gt;
+|-
+| 143.228.0.0/16&lt;br /&gt;143.231.0.0/16
+| style=&quot;text-align:right;&quot; | [[w:United States House of Representatives|U.S. House of Representatives]]
+|-
+| 82.148.96.68, 82.148.97.69
+| style=&quot;text-align:right;&quot; | [[w:Qatar|Qatar]]
+|-
+| 156.33.0.0/16
+| style=&quot;text-align:right;&quot; | [[w:United States Senate|U.S. Senate]]
+|-
+| 192.197.77.0&amp;ndash;192.197.86.255
+| style=&quot;text-align:right;&quot; | [[w:Government of Canada|Government of Canada]]
+|-
+| 194.60.0.0&amp;ndash;194.60.63.255
+| style=&quot;text-align:right;&quot; | [[w:Parliament of the United Kingdom|U.K. Parliament]]
+|-
+| 208.80.152.0&amp;ndash;208.80.155.255
+| style=&quot;text-align:right;&quot; | [[w:Wikimedia Foundation|Wikimedia services]]
+|}
+&lt;div id=&quot;blockiptext&quot; class=&quot;blockiptext&quot;&gt;
+You can use this form to block editing access and account creation from individual accounts or IPs in accordance with the [[Wikibooks:Blocking policy|blocking policy]].
+
+'''Please remember to include an informative reason for blocking.''' When using the pull-down menu, please also elaborate on the following line whenever helpful (citing relevant policy pages, [[Wikibooks:Sockpuppets|sock puppet]] accounts, the nature of the [[Wikibooks:Vandalism|disruption]], etc.). Use civil, appropriate, and professional diction. Keep in mind that the block message will be very visible when volunteers try to edit Wikibooks.
+
+'''Blocks of governmental IP ranges:''' If you block ''any'' IP in the ranges listed on the right under &quot;Sensitive IP addresses&quot;, you ''must'' notify the [[meta:Communications committee|Wikimedia Foundation Communications Committee]] immediately (see contact instructions there or use [[meta:Communications committee/Notifications|the notifications page]]). These ranges are allocated to major governmental organizations; blocks of these organizations have political and public relations implications of which the Foundation's press relations team must be aware. Avoid long blocks of these addresses, and ''be especially careful in formulating your block messages'' because your block message will probably be seen and commented on by the press.
+
+&lt;i&gt;Related pages: 
+[[Special:Log/block|Block log]], 
+[[Special:Blocklist|List of active blocks and rangeblocks]], 
+&lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:Special:BlockList|action=unblock}} Unblock form]&lt;/span&gt;, 
+[[tools:~chm/blockcalc.php|Rangeblock helper]], [[tools:~nakon/autoblockfinder.php|Autoblock check]], [[tools:~overlordq/scripts/checktor.fcgi|Tor check]], [[Wikibooks:Templates/User notices#Blocks|List of block message templates]].&lt;/i&gt;&lt;br style=&quot;clear:right;&quot; /&gt;
+__NOTOC____NOEDITSECTION__
+&lt;/div&gt;</text>
+      <sha1>it9j26f09plglj4c85rcmg8jzytfpwy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Blockipsuccesstext</title>
+    <ns>8</ns>
+    <id>2966</id>
+    <revision>
+      <id>2618540</id>
+      <parentid>2019170</parentid>
+      <timestamp>2014-03-19T10:53:47Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <comment>Use Wikipedia version - more comprehensive.</comment>
+      <text xml:space="preserve">&lt;div id=&quot;mw-blockipsuccesstext&quot; class=&quot;plainlinks&quot;&gt;&quot;'''[[User:$1|$1]]'''&quot; has been blocked {{toolbar|[[User_talk:$1|talk]]|[{{fullurl:User talk:$1|action=edit}} edit talk]|[{{fullurl:User talk:$1|action=edit&amp;section=new}} message]|[[Special:Contributions/$1|contribs]]|[{{fullurl:Special:AbuseLog|wpSearchUser={{urlencode:$1}}}} abuse filter log]|[{{fullurl:Special:Log|type=block&amp;user=&amp;page=User:{{urlencode:$1}}}} block log]|[{{fullurl:Special:BlockIP/$1}} change block settings]|[{{fullurl:User:$1|action=watch}} watch]|[[meta:Special:CentralAuth/$1|centralauth]]}}.
+
+* See also:
+** [[Special:Ipblocklist|List of active blocks]]
+** [[Special:Log/block|Block log]]
+** [[Special:BlockIP|Add another block]]
+** [[Special:Log/newusers|User creation log]]
+&lt;/div&gt;</text>
+      <sha1>8fu54q1xyh2ikfsrvh1jtvxag8rbb7z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,1195 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Vietnamese/History</title>
+    <ns>0</ns>
+    <id>4073</id>
+    <revision>
+      <id>2408657</id>
+      <parentid>2408656</parentid>
+      <timestamp>2012-09-18T19:41:27Z</timestamp>
+      <contributor>
+        <ip>71.87.31.18</ip>
+      </contributor>
+      <text xml:space="preserve">It seems likely that in the distant past Vietnamese shared more characteristics common to other languages in the Austroasiatic family, such as an inflectional [[morphology (linguistics)|morphology]] and a richer set of [[consonant clusters]], which have subsequently disappeared from the language. However, Vietnamese appears to have been heavily influenced by its location in the [[East Asian language|Southeast Asian sprachbund]]&amp;mdash;with the result that it has acquired or converged toward characteristics such as isolating morphology and [[tonogenesis]]. These characteristics, which may or may not have been part of [[Proto-Austroasiatic Language|proto-Austroasiatic]], nonetheless have become part of many of the philologically unrelated languages of Southeast Asia&amp;mdash;for example, [[Thai language|Thai]] (one of the [[Tai-Kadai languages]]), [[Tsat language|Tsat]] (a member of the [[Malayo-Polynesian languages|Malayo-Polynesian]] group within Austronesian), and Vietnamese each developed [[tonal language|tones]] as a phonemic feature, although their respective ancestral languages were not originally tonal. 
+
+The Vietnamese language has similarities with [[Cantonese (linguistics)|Cantonese]] in regard to the specific intonations and unreleased plosive consonant endings, a legacy of archaic Chinese that can also be found in [[Korean language|Korean]].
+
+The ancestor of the Vietnamese language was originally based in the area of the Red River in what is now northern Vietnam, and during the subsequent expansion of the Vietnamese language and people into what is now central and southern Vietnam (through conquest of the ancient nation of [[Champa]] and the [[Khmer people]] of the [[Mekong river|Mekong]] delta in the vicinity of present-day [[Ho Chi Minh City]]), Vietnamese was linguistically influenced primarily by Indic and Malayo-Polynesian languages at first, until Chinese came to predominate politically toward the middle of the first millennium AD.
+
+With the rise of Chinese political dominance came radical importation of Chinese vocabulary and grammatical influence. As [[Chinese language|Chinese]] was, for a prolonged period, the only medium of literature and government, as well as the primary language of the ruling class in Vietnam, much of the Vietnamese lexicon in all realms consists of '''''Hán Việt''''' (Sino-Vietnamese) words. In fact, as the vernacular language of Vietnam gradually grew in prestige toward the beginning of the second millennium, the Vietnamese language was written using [[Chinese character]]s (see [[Chữ nôm]]) adapted to write Vietnamese, in a similar pattern as used in Japan (see [[kanji]]), Korea and other countries in the Chinese cultural sphere. The '''''Nôm''''' writing reached its zenith in the 18th century when many Vietnamese writers and poets composed their works in '''''Chữ Nôm''''', most notably [[Nguyễn Du]] and [[Hồ Xuân Hương]] (dubbed &quot;the Queen of Nôm poetry&quot;).
+
+As contact with the West grew, the [[Vietnamese alphabet|'''''Quốc Ngữ''''']] system of Romanized writing was developed in the 17th century by Portuguese and other Europeans involved in proselytizing and trade in Vietnam. When France invaded Vietnam in the late 19th century, [[French language|French]] gradually replaced Chinese as the official language in education and government. Vietnamese adopted many French terms, such as '''''đầm''''' (dame, from ''madame''), '''''ga''''' (train station, from ''gare''), and '''''va-li''''' (valise). In addition, many Sino-Vietnamese terms were devised for Western ideas imported through the French. However, the Romanized script did not come to predominate until the beginning of the 20th century, when education became widespread and a simpler writing system was found more expedient for teaching and communication with the general population.
+
+===Further reading===
+*[http://www.cjvlang.com/Writing/writsys/writviet.html Vietnamese Writing System]
+*[http://en.wikipedia.org/wiki/Vietnamese_language Vietnamese Language on Wikipedia]
+
+[[Category:Vietnamese]]</text>
+      <sha1>a2uqhxizwoml7od1jlfws6f1fks28vi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cryptography/Introduction</title>
+    <ns>0</ns>
+    <id>4075</id>
+    <revision>
+      <id>2064428</id>
+      <parentid>1943323</parentid>
+      <timestamp>2011-03-04T19:52:08Z</timestamp>
+      <contributor>
+        <username>Avicennasis</username>
+        <id>314063</id>
+      </contributor>
+      <minor />
+      <comment>[[WP:AWB/T|Typo fixing]], typos fixed: eg, → e.g., (2) using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">'''Cryptography''' is the study of information hiding and verification. It includes the protocols, algorithms and strategies to securely and consistently prevent or delay unauthorized access to sensitive information and enable verifiability of every component in a communication.
+
+Cryptography is derived from the Greek words: kryptós, &quot;hidden&quot;, and gráphein, &quot;to write&quot; - or &quot;hidden writing&quot;. People who study and develop cryptography are called '''cryptographers'''. The study of how to ''circumvent'' the use of cryptography for unintended recipients is called '''cryptanalysis''', or codebreaking. Cryptography and cryptanalysis are sometimes grouped together under the '''umbrella''' term cryptology, encompassing the entire subject. In practice, &quot;cryptography&quot; is also often used to refer to the field as a whole, especially as an applied science.
+
+Cryptography is an interdisciplinary subject, drawing from several fields. Before the time of computers, it was closely related to linguistics. Nowadays the emphasis has shifted, and cryptography makes extensive use of technical areas of mathematics, especially those areas collectively known as discrete mathematics. This includes topics from number theory, information theory, computational complexity, statistics and combinatorics. It is also a branch of engineering, but an unusual one as it must deal with active, intelligent and malevolent opposition.
+
+An example of the sub-fields of cryptography is '''steganography''' — the study of hiding the very ''existence'' of a message, and not necessarily the ''contents'' of the message itself (for example, microdots, or invisible ink) — and '''traffic analysis''', which is the analysis of patterns of communication in order to learn secret information.
+
+When information is transformed from a ''useful form'' of understanding to an ''opaque form'' of understanding, this is called '''encryption'''. When the information is reverted back into a useful form, it is called '''decryption'''. Intended recipients or authorized use of the information is determined by whether the user has a certain piece of secret knowledge. ''Only'' users with the secret knowledge can transform the opaque information back into its useful form. The secret knowledge is commonly called the '''key''', though the secret knowledge may include the ''entire process'' or algorithm that is used in the encryption/decryption. The information in its useful form is called '''plaintext''' (or cleartext); in its encrypted form it is called '''ciphertext'''. The algorithm used for encryption and decryption is called a '''cipher''' (or cypher).
+
+== Common goals in cryptography ==
+In essence, cryptography concerns four main goals. They are:
+
+# message '''confidentiality''' (or privacy): Only an authorized recipient should be able to extract the contents of the message from its encrypted form. Resulting from steps to hide, stop or delay free access to the encrypted information.
+# message '''integrity''': The recipient should be able to determine if the message has been altered.
+# sender '''authentication''': The recipient should be able to verify from the message, the identity of the sender, the origin or the path it traveled (or combinations) so to validate claims from emitter or to validated the recipient  expectations.
+# sender '''non-repudiation''': The emitter should not be able to deny sending the message.
+
+Not all cryptographic systems achieve all of the above goals. Some applications of cryptography have ''different'' goals; for example some situations require '''repudiation''' where a participant
+can plausibly deny that they are a sender or receiver of a message, or extend this goals to include variations like:
+
+# message '''access control''': Who are the valid recipients of the message.
+# message '''availability''': By providing means to limit the validity of the message, channel, emitter or recipient in time or space.
+
+== Common forms of cryptography ==
+Cryptography involves all legitimate users of information having the keys required to access that information.
+*If the sender and recipient must have the same key in order to encode or decode the protected information, then the cipher is a '''symmetric key''' cipher since everyone uses the same key for the same message. The main problem is that the secret key must somehow be given to both the sender and recipient privately. For this reason, symmetric key ciphers are also called '''private key''' (or secret key) ciphers.
+*If the sender and recipient have different keys respective to the communication roles they play, then the cipher is an '''asymmetric key''' cipher as different keys exist for encoding and decoding the same message. It is also called '''public key''' encryption as the user publicly distributes one of the keys without a care for secrecy. In the case of confidential messages to the user, they distribute the encryption key. Asymmetric encryption relies on the fact that possession of the encryption key will not reveal the decryption key.
+*Digital Signatures are a form of authentication with some parallels to public-key encryption. The two keys are the public verification key and the secret signature key. As in public-key encryption, the verification key can be distributed to other people, with the same caveat that the distribution process should in some way authenticate the owner of the secret key. Security relies on the fact that possession of the verification key will not reveal the signature key.
+*Hash Functions are '''unkeyed''' message digests with special properties.
+
+Other:
+
+Poorly designed, or poorly implemented, crypto systems achieve them only by accident or bluff or lack of interest on the part of the opposition. Users can, and regularly do, find weaknesses in even well-designed cryptographic schemes from those of high reputation.  
+
+Even with well designed, well implemented, and properly used crypto systems, some goals aren't practical (or desirable) in some contexts.  For example, the sender of the message may wish to be anonymous, and would therefore deliberately choose not to bother with non-repudiation.  Alternatively, the system may be intended for an environment with limited computing resources, or message confidentiality might not be an issue.
+
+In classical cryptography, messages are typically enciphered and transmitted from one person or group to some other person or group.  In modern cryptography, there are many possible options for &quot;sender&quot; or &quot;recipient&quot;.  Some examples, for real crypto systems in the modern world, include:
+
+# a computer program running on a local computer,
+# a computer program running on a 'nearby' computer which 'provides security services' for users on other nearby systems,
+# a human being (usually understood as 'at the keyboard').  However, even in this example, the presumed human is not generally taken to actually encrypt or sign or decrypt or authenticate anything. Rather, he or she instructs a computer program to perform these actions.  This 'blurred separation' of human action from actions which are presumed (without much consideration) to have 'been done by a human' is a source of problems in crypto system design, implementation, and use.  Such problems are often quite subtle and correspondingly obscure; indeed, generally so, even to practicing cryptographers with knowledge, skill, and good engineering sense.
+
+When confusion on these points is present (e.g., at the design stage, during implementation, by a user after installation, or ...), failures in reaching each of the stated goals can occur quite easily -- often without notice to any human involved, and even given a perfect cryptosystem.  Such failures are most often due to extra-cryptographic issues; each such failure demonstrates that good algorithms, good protocols, good system design, and good implementation do not alone, nor even in combination, provide 'security'.  Instead, careful thought is required regarding the entire crypto system design and its use in actual production by real people on actual equipment running 'production' system software (e.g., operating systems) -- too often, this is absent or insufficient in practice with real-world crypto systems.
+
+Although cryptography has a long and complex history, it wasn't until the 19th century that it developed anything more than ad hoc approaches to either encryption or cryptanalysis (the science of finding weaknesses in crypto systems).  Examples of the latter include Charles Babbage's Crimean War era work on mathematical cryptanalysis of polyalphabetic ciphers, repeated publicly rather later by the Prussian Kasiski.  During this time, there was little theoretical foundation for cryptography; rather, understanding of cryptography generally consisted of hard-won fragments of knowledge and rules of thumb; see, for example, Auguste Kerckhoffs' crypto writings in the latter 19th century.  An increasingly mathematical trend accelerated up to World War II (notably in William F. Friedman's application of statistical techniques to cryptography and in Marian Rejewski's initial break into the German Army's version of the Enigma system).  Both cryptography and cryptanalysis have become far more mathematical since WWII.  Even then, it has taken the wide availability of computers, and the Internet as a communications medium, to bring effective cryptography into common use by anyone other than national governments or similarly large enterprise.
+[[it:Crittografia/Introduzione alla crittografia]]
+
+'''External Links'''
+
+*[http://blog.eukhost.com/2006/10/19/importance-of-cryptography-in-degital-world/ Importance of Cryptography]
+*[http://blog.webhosting.uk.com/2006/11/03/symmetric-cryptography/ Symmetric Cryptography]
+
+[[Category:Cryptography]]</text>
+      <sha1>2y8ikq3fxn099ipo0znp0pwv4xiujy8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cryptography/History</title>
+    <ns>0</ns>
+    <id>4076</id>
+    <revision>
+      <id>2064427</id>
+      <parentid>1734010</parentid>
+      <timestamp>2011-03-04T19:52:04Z</timestamp>
+      <contributor>
+        <username>Avicennasis</username>
+        <id>314063</id>
+      </contributor>
+      <minor />
+      <comment>[[WP:AWB/T|Typo fixing]], typos fixed: ie, → i.e., (3), eg, → e.g., (3) using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">== Classical Cryptography ==
+The earliest known use of cryptography is found in non-standard hieroglyphs carved into monuments from Egypt's Old Kingdom (ca 4500 years ago).  These are not thought to be serious attempts at secret communications, however, but rather to have been attempts at mystery, intrigue, or even amusement for literate onlookers.  These are examples of still another use of cryptography, or of something that looks (impressively if misleadingly) like it.  Later, Hebrew scholars made use of simple Substitution ciphers (such as the Atbash cipher) beginning perhaps around 500 to 600 BCE.  Cryptography has a long tradition in religious writing likely to offend the dominant culture or political authorities.  Perhaps the most famous is the 'Number of the Beast' from the book of Revelations in the Christian New Testament. '666' is almost certainly a cryptographic (i.e., encrypted) way of concealing a dangerous reference; many scholars believe it's a concealed reference to the Roman Empire, or the Emperor Nero, (and so to Roman policies of persecution of Christians) that would have been understood by the initiated (who 'had the codebook'), and yet be safe (or at least somewhat deniable and so less dangerous) if it came to the attention of the authorities.  At least for orthodox Christian writing, the need for such concealment ended with Constantine's conversion and the adoption of Christianity as the official religion of the Empire. 
+
+The Greeks of Classical times are said to have known of ciphers (e.g., the scytale transposition cypher claimed to have been used by the Spartan military).  Herodutus tells us of secret messages physically concealed beneath wax on wooden tablets or as a tattoo on a slave's head concealed by regrown hair (these are not properly examples of cryptography per se; see secret writing).  The Romans certainly did (e.g., the Caesar cipher and its variations).  There is ancient mention of a book about Roman military cryptography (especially Julius Caesar's); it has been, unfortunately, lost. 
+
+In India, cryptography was apparently well known.  It is recommended in the Kama Sutra as a technique by which lovers can communicate without being discovered.  This may imply that cryptanalytic techniques were less than well developed in India ca 500 CE.
+
+Cryptography became (secretly) important still later as a consequence of political competition and religious analysis. For instance, in Europe during and after the Renaissance, citizens of the various Italian states, including the Papacy, were responsible for substantial improvements in cryptographic practice (e.g., polyalphabetic ciphers invented by Leon Alberti ca 1465). And in the Arab world, religiously motivated textual analysis of the Koran led to the invention of the frequency analysis technique for breaking monoalphabetic substitution cyphers sometime around 1000 CE.
+
+Cryptography, cryptanalysis, and secret agent betrayal featured in the Babington plot during the reign of Queen Elizabeth I which led to the execution of Mary, Queen of Scots.  And an encrypted message from the time of the Man in the Iron Mask (decrypted around 1900 by Étienne Bazeries) has shed some, regrettably non-definitive, light on the identity of that legendary, and unfortunate, prisoner.  Cryptography, and its misuse, was involved in the plotting which led to the execution of Mata Hari and even more reprehensibly, if possible, in the travesty which led to Dreyfus' conviction and imprisonment, both in the early 20th century.  Fortunately, cryptographers were also involved in setting Dreyfus free; Mata Hari, in contrast, was shot.
+
+Mathematical cryptography leapt ahead (also secretly) after World War I.  Marian Rejewski, in Poland, attacked and 'broke' the early German Army Enigma system (an electromechanical rotor cypher machine) using theoretical mathematics in 1932.  The break continued up to '39, when changes in the way the German Army's Enigma machines were used required more resources than the Poles could deploy.  His work was extended by Alan Turing, Gordon Welchman, and others at Bletchley Park beginning in 1939, leading to sustained breaks into several other of the Enigma variants and the assorted networks for which they were used.  
+US Navy cryptographers (with cooperation from British and Dutch cryptographers after 1940) broke into several Japanese Navy crypto systems. The break into one of them famously led to the US victory in the Battle of Midway.  A US Army group, the SIS, managed to break the highest security Japanese diplomatic cipher system (an electromechanical 'stepping switch' machine called Purple by the Americans) even before WWII began.  The Americans referred to the intelligence resulting from cryptanalysis, perhaps especially that from the Purple machine, as 'Magic'.  The British eventually settled on 'Ultra' for intelligence resulting from cryptanalysis, particularly that from message traffic enciphered by the various Enigmas.  An earlier British term for Ultra had been 'Boniface'.
+
+== World War II Cryptography ==
+By World War II mechanical and electromechanical cryptographic cipher machines were in wide use, but they were impractical manual systems.  Great advances were made in both practical and mathematical cryptography in this period, all in secrecy. Information about this period has begun to be declassified in recent years as the official 50-year (British) secrecy period has come to an end, as the relevant US archives have slowly opened, and as assorted memoirs and articles have been published. 
+
+The Germans made heavy use (in several variants) of an electromechanical rotor based cypher system known as Enigma. The German military also deployed several mechanical attempts at a one-time pad. Bletchley Park called them the Fish cyphers, and Max Newman and colleagues designed and deployed the world's first programmable digital electronic computer, the Colossus, to help with their cryptanalysis. The German Foreign Office began to use the one-time pad in 1919; some of this traffic was read in WWII partly as the result of recovery of some key material in South America that was insufficiently carefully discarded by a German courier.
+
+The Japanese Foreign Office used a locally developed electrical stepping switch based system (called Purple by the US), and also used several similar machines for attaches in some Japanese embassies. One of these was called the 'M-machine' by the US, another was referred to as 'Red'. All were broken, to one degree or another by the Allies. 
+
+Other cipher machines used in WWII included the British Typex and the American SIGABA; both were electromechanical rotor designs similar in spirit to the Enigma.
+
+== Modern Cryptography ==
+The era of modern cryptography really begins with Claude Shannon, arguably the father of mathematical cryptography. In 1949 he published the paper [http://www3.edgenet.net/dcowley/docs.html Communication Theory of Secrecy Systems] in the Bell System Technical Journal, and a little later the book ''Mathematical Theory of Communication'' with Warren Weaver. These, in addition to his other works on information and communication theory established a solid theoretical basis for cryptography and for cryptanalysis. And with that, cryptography more or less disappeared into secret government communications organizations such as the NSA.  Very little work was again made public until the mid '70s, when everything changed.
+
+1969 saw two major public (i.e., non-secret) advances.  First was the DES (Data Encryption Standard) submitted by IBM, at the invitation of the National Bureau of Standards (now NIST), in an effort to develop secure electronic communication facilities for businesses such as banks and other large financial organizations.  After 'advice' and modification by the NSA, it was adopted and published as a FIPS Publication (Federal Information Processing Standard) in 1977 (currently at FIPS 46-3).  It has been made effectively obsolete by the adoption in 2001 of the Advanced Encryption Standard, also a NIST competition, as FIPS 197. 
+DES was the first publicly accessible cypher algorithm to be 'blessed' by a national crypto agency such as NSA.  The release of its design details by NBS stimulated an explosion of public and academic interest in cryptography.  DES, and more secure variants of it (such as 3DES or TDES; see FIPS 46-3), are still used today, although DES was officially supplanted by AES (Advanced Encryption Standard) in 2001 when NIST announced the selection of Rijndael, by two Belgian cryptographers. DES remains in wide use nonetheless, having been incorporated into many national and organizational standards. However, its 56-bit key-size has been shown to be insufficient to guard against brute-force attacks (one such attack, undertaken by cyber civil-rights group The Electronic Frontier Foundation, succeeded in 56 hours -- the story is in ''Cracking DES'', published by O'Reilly and Associates). As a result, use of straight DES encryption is now without doubt insecure for use in new crypto system designs, and messages protected by older crypto systems using DES should also be regarded as insecure. The DES key size (56-bits) was thought to be too small by some even in 1976, perhaps most publicly Whitfield Diffie. There was suspicion that government organizations even then had sufficient computing power to break DES messages and that there may be a back door due to the lack of randomness in the 'S' boxes.
+
+Second was the publication of the paper [http://citeseer.nj.nec.com/340126.html New Directions in Cryptography] by Whitfield Diffie and Martin Hellman.  This paper introduced a radically new method of distributing cryptographic keys, which went far toward solving one of the fundamental problems of cryptography, key distribution.  It has become known as Diffie-Hellman key exchange.  The article also stimulated the almost immediate public development of a new class of enciphering algorithms, the asymmetric key algorithms.
+
+Prior to that time, all useful modern encryption algorithms had been symmetric key algorithms, in which the same cryptographic key is used with the underlying algorithm by both the sender and the recipient who must both keep it secret. All of the electromechanical machines used in WWII were of this logical class, as were the Caesar and Atbash cyphers and essentially all cypher and code systems throughout history. The 'key' for a code is, of course, the codebook, which must likewise be distributed and kept secret. 
+
+Of necessity, the key in every such system had to be exchanged between the communicating parties in some secure way prior to any use of the system (the term usually used is 'via a secure channel') such as a trustworthy courier with a briefcase handcuffed to a wrist, or face-to-face contact, or a loyal carrier pigeon. This requirement rapidly becomes unmanageable when the number of participants increases beyond some (very!) small number, or when (really) secure channels aren't available for key exchange, or when, as is sensible crypto practice keys are changed frequently. In particular, a separate key is required for each communicating pair if no third party is to be able to decrypt their messages. A system of this kind is also known as a private key, secret key, or conventional key cryptosystem. D-H key exchange (and succeeding improvements) made operation of these systems much easier, and more secure, than had ever been possible before.
+
+In contrast, with asymmetric key encryption, there is a pair of mathematically related keys for the algorithm, one of which is used for encryption and the other for decryption. Some, but not all, of these algorithms have the additional property that one of the keys may be made public since the other cannot be (by any currently known method) deduced from the 'public' key. The other key in these systems is kept secret and is usually called, somewhat confusingly, the 'private' key. An algorithm of this kind is known as a public key / private key algorithm, although the term [[asymmetric key cryptography]] is preferred by those who wish to avoid the ambiguity of using that term for all such algorithms, and to stress that there are two distinct keys with different secrecy requirements.
+
+As a result, for those using such algorithms, only one key pair is now needed per recipient (regardless of the number of senders) as possession of a recipient's public key (by anyone whomsoever) does not compromise the 'security' of messages so long as the corresponding private key is not known to any attacker (effectively, this means not known to anyone except the recipient). This unanticipated, and quite surprising, property of some of these algorithms made possible, and made practical, widespread deployment of high quality crypto systems which could be used by anyone at all. Which in turn gave government crypto organizations worldwide a severe case of heartburn; for the first time ever, those outside that ''fraternity'' had access to cryptography that wasn't readily breakable by the 'snooper' side of those organizations. Considerable controversy, and conflict, began immediately. It has not yet subsided. In the US, for example, exporting ''strong'' cryptography remains illegal; cryptographic methods and techniques are classified as munitions. Until 2001 'strong' crypto was defined as anything using keys longer than 40 bits -- the definition was relaxed thereafter.  (See S Levy's ''Crypto'' for a journalistic account of the policy controversy in the US).
+
+Note, however, that it has NOT been proven impossible, for any of the good public/private asymmetric key algorithms, that a private key (regardless of length) can be deduced from a public key (or vice versa). Informed observers believe it to be currently impossible (and perhaps forever impossible) for the 'good' asymmetric algorithms; no workable 'companion key deduction' techniques have been publicly shown for any of them. Note also that some asymmetric key algorithms have been quite thoroughly broken, just as many symmetric key algorithms have. There is '''no''' special magic attached to using algorithms which require two keys. 
+
+In fact, some of the well respected, and most widely used, public key / private key algorithms '''can''' be broken by one or another cryptanalytic attack and so, like other encryption algorithms, the protocols within which they are used must be chosen and implemented carefully to block such attacks.  Indeed, ''all'' can be broken if the key length used is short enough to permit practical brute force key search; this is inherently true of all encryption algorithms using keys, including both symmetric and asymmetric algorithms. 
+
+This is an example of the most fundamental problem for those who wish to keep their communications secure; they must choose a crypto system (algorithms + protocols + operation) that resists all attack from any attacker.  There being no way to know who those attackers might be, nor what resources they might be able to deploy, nor what advances in cryptanalysis (or its associated mathematics) might in future occur, users may ONLY do the best they know how, and then hope.  In practice, for well designed / implemented / used crypto systems, this is believed by informed observers to be enough, and possibly even enough for all(?) future attackers.  Distinguishing between well designed / implemented / used crypto systems and crypto trash is another, quite difficult, problem for those who are not themselves expert cryptographers.  It is even quite difficult for those who are.
+
+=== Revision of modern history ===
+In recent years public disclosure of secret documents held by the UK government has shown that asymmetric key cryptography, D-H key exchange, and the best known of the public key / private key algorithms (i.e., what is usually called the RSA algorithm), all seem to have been developed at a UK intelligence agency before the public announcement by Diffie and Hellman in '76. GCHQ has released documents claiming that they had developed public key cryptography before the publication of Diffie and Hellman's paper. Various classified papers were written at GCHQ during the 1960s and 1970s which eventually led to schemes essentially identical to RSA encryption and to Diffie-Hellman key exchange in 1973 and 1974. Some of these have now been published, and the inventors (James Ellis, Clifford Cocks, and Malcolm Williamson) have made public (some of) their work and stuff.
+
+[[Category:Cryptography]]</text>
+      <sha1>t1leyssrqq1v03phx3850wynpvdtw0s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cryptography/Further reading</title>
+    <ns>0</ns>
+    <id>4077</id>
+    <revision>
+      <id>2644449</id>
+      <parentid>2513745</parentid>
+      <timestamp>2014-05-01T18:11:45Z</timestamp>
+      <contributor>
+        <username>DavidCary</username>
+        <id>973</id>
+      </contributor>
+      <comment>yet another educational resource</comment>
+      <text xml:space="preserve">* Anderson, Ross — ''Security Engineering'', Wiley, advanced coverage of computer security issues, including cryptography, by one of its foremost practitioners, and most likely its best writer. Covers much more than merely cryptography. Brief on most topics due to the breadth of coverage. Exceptionally clearly written.
+* Bamford, James  — ''The Puzzle Palace : A Report on America's Most Secret Agency'' ISBN 0140067485, and the more recent ''Body of Secrets''. The best of a quite small group of books about the US Government's NSA. Most are inadequate, and untrustworthy, for various reasons, including an active reluctance to permit accurate information to be released in any form.
+* Ferguson, Niels and Bruce Schneier — ''Practical Cryptography'', Wiley, 2003, ISBN 0471223573.  Up to date cryptography reference. Covers both algorithms and protocols. This is an in depth consideration of one cryptographic problem, including paths not taken and some reasons why. Most of the material is not otherwise available in a single source. Some is not otherwise available. In a sense, a follow-up to 'Applied Cryptography'. 
+* Kahn, David — ''The Codebreakers'' ISBN 0684831309 The best available single volume source for cryptographic history, at least for events up to the mid '60s (i.e., to just before DES and the public release of asymmetric key cryptography). The added chapter on more recent developments (in the most recent edition) is regrettably far too thin. See also his other publications on cryptography, and cryptographic history, which have been uniformly excellent.
+* Katz, Jonathan and Yehuda Lindell - ''Introduction to Modern Cryptography'', CRC Press, 2007. A textbook introduction to modern cryptography, aimed at undergraduate computer science/mathematics majors as well as the technically educated public.
+* A. J. Menezes, P. C. van Oorschot and S. A. Vanstone — ''Handbook of Applied Cryptography'' ISBN 0849385237 ([http://cacr.math.uwaterloo.ca/hac/ online version]). Equivalent to Applied Cryptography in many ways, but seriously mathematical. For the technically inclined. Covers few meta-cryptographic topics, such as crypto system design.
+* Paar, Christof and Pelz, Jan — ''[http://www.cryptography-textbook.com Understanding Cryptography, A Textbook for Students and Practitioners]'' Springer, 2009. Very accessible introduction to practical cryptography, focus on being a textbook, i.e., it has pedagocical approach, problem sets, further reading sections etc.
+* Piper, Fred and Sean Murphy — ''Cryptography : A Very Short Introduction'' ISBN 0192803158 This book quickly sketches out the major goals, uses, methods, and developments in cryptography.
+* Schneier, Bruce — ''Applied Cryptography'', 2 ed, Wiley, ISBN 0471117099. The best single volume available covering modern cryptographic practice and possibilities. About as comprehensive as a single volume could have been. Well written, not overly mathematical, and so accessible — mostly — to the non-technical.
+* Schneier, Bruce — ''Secrets and Lies'', Wiley, ISBN 0471253111, a discussion of the context within which cryptography and cryptosystems work. Meta-cryptography, if you will. Required reading for would-be cryptographers, and nearly so for all cryptography users.
+* Singh, Simon — ''The Code Book'' ISBN 1857028899. An anecdotal introduction to the history of cryptography, but much better than such an approach might be expected to produce. Covers more recent material than does Kahn's The Codebreakers. Well written. Sadly, the included cryptanalytic contest has been won and the prize awarded; the cyphers are still worth having a go at, however.
+* Sweigart, Al — ''[http://inventwithpython.com/hacking Hacking Secret Ciphers with Python]'' ISBN 978-1482614374. A complete beginners guide to programming and classic cryptography ciphers. This free book presents several programs that attack various ciphers and explains how their source code works.
+* University of Cambridge. NRICH. [http://nrich.maths.org/public/leg.php?code=-461 &quot;Codes and cryptography&quot;]. Some of these resources are suitable even for very young students of cryptography.
+
+* Wikipedia: [http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Cryptography Wikipedia:WikiProject Cryptography], [http://en.wikipedia.org/wiki/Wikipedia:WikiReader/Cryptography Wikipedia:WikiReader/Cryptography], [http://en.wikipedia.org/wiki/Book:Cryptography Wikipedia Book:Cryptography]
+
+[[Category:Cryptography]]</text>
+      <sha1>7godx4533fjli2yefqrws1el1anu0p1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cryptography/Transposition ciphers</title>
+    <ns>0</ns>
+    <id>4078</id>
+    <revision>
+      <id>2617949</id>
+      <parentid>2617947</parentid>
+      <timestamp>2014-03-18T10:44:56Z</timestamp>
+      <contributor>
+        <ip>210.245.118.154</ip>
+      </contributor>
+      <comment>/* Grille */</comment>
+      <text xml:space="preserve">A '''transposition cipher''' encodes a message by reordering the plaintext in some definite way. Mathematically, it can be described as applying some sort of bijective function. The receiver decodes the message using the reordering in the opposite way, setting the ordering right again. Mathematically this means using the inverse function of the original encoding function.
+
+For example, to encrypt the sentence &quot;A simple kind of transposition cipher writes the message into a rectangle by rows and reads it out by columns,&quot; we could use the following rectangle:
+
+ Asimplekin
+ doftranspo
+ sitionciph
+ erwritesth
+ emessagein
+ toarectang
+ lebyrowsan
+ dreadsitou
+ tbycolumns
+
+Then the encrypted text would be &quot;Adsee tldts oirmo erbif tweab eymti rsrya cproi serdo lanta cosle ncegt wiuks iseas tmipp tinao nnohh ngnus.&quot;
+
+This cipher is often complicated by permuting the rows and columns, as in columnar transposition.
+
+== Columnar transposition ==
+The standard columnar transposition consists of writing the key out as column headers, then writing the message out in successive rows beneath these headers (filling in any spare spaces with nulls), finally, the message is read off in columns, in alphabetical order of the headers. For example suppose we have a key of 'ZEBRAS' and a message of 'WE ARE DISCOVERED. FLEE AT ONCE'. We start with:
+
+{|
+|-
+| '''Z''' || '''E''' || '''B''' || '''R''' || '''A'''
+| '''S'''
+|-
+| W || E || A || R || E || D
+|-
+| I || S || C || O || V || E
+|-
+| R || E || D || F || L || E
+|-
+| E || A || T || O || N || C
+|-
+| E || Q || K || J || E || U
+|}
+Then read it off as:
+ EVLNE ACDTK ESEAQ ROFOJ DEECU WIREE
+To decipher it, the recipient has to work out the column lengths by dividing the message length by the key length. Then he can write the message out in columns again, then re-order the columns by reforming the key word.
+== Double transposition ==
+A single columnar transpostion could be attacked by guessing possible column lengths, writing the message out in its columns (but in the wrong order, as the key is not yet known), and then looking for possible anagrams. Thus to make it stronger, a double transposition was often used. This is simply a columnar transposition applied twice, with two different keys of different (preferably relatively prime) length. Double transposition was generally regarded as the most complicated cipher that an agent could operate reliably under difficult field conditions. It was in actual use at least as late as World War II (e.g.  poem code).
+
+== Grille ==
+Another type of transpositional cipher uses a grille. This is a square piece of cardboard with holes in it such that each cell in the square appears in no more than one position when the grille is rotated to each of its four positions.  Only grilles with an even number of character positions in the square can satisfy this requirement.  As much message as will fit in the grille is written, then it is turned to another position and more message is written.  Removing the cardboard reveals the cyphertext.
+
+The following diagram shows the message &quot;JIM ATTACKS AT DAWN&quot; encoded using a 4x4 grille.
+
+[[Image:Grille_transposition_cipher.png]]
+
+The top row shows the cardboard grille and the bottom row shows the paper underneath the grille at five stages of encoding:
+
+# blank grille on the paper.
+# first four letters written in the blanks.
+# grille rotated one position, second set of letters written.
+# grille rotated two positions, third set of letters written.
+# grille rotated three positions, fourth set of letters written.
+
+After the letters in the message have all been written out, the ciphertext can be read from the paper: &quot;JKDT STAA AIWM NCAT&quot;.
+
+The sender and receiver must agree on the initial orientation of the grille, the direction to rotate the grille, the order in which to use the spaces on the grille, and the order in which to read the ciphertext characters from the paper.
+
+[[Category:Cryptography]]</text>
+      <sha1>a2phr41h8zrrydkuq5t27gze8jmnwn0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cryptography/Caesar cipher</title>
+    <ns>0</ns>
+    <id>4079</id>
+    <revision>
+      <id>784943</id>
+      <parentid>547480</parentid>
+      <timestamp>2007-03-13T21:12:21Z</timestamp>
+      <contributor>
+        <username>Lonjers</username>
+        <id>48912</id>
+      </contributor>
+      <minor />
+      <comment>shift and caesar cipher's are equivlant.</comment>
+      <text xml:space="preserve">A '''Caesar cipher''' (also known as a shift cipher) is a substitution cipher in which the cipher alphabet is merely the plain alphabet rotated left or right by some number of positions. For instance, here is a Caesar cipher using a right rotation of three places:
+
+ Plain:  ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ Cipher: XYZABCDEFGHIJKLMNOPQRSTUVW
+
+To encipher a message, simply look up each letter of the message in the &quot;plain&quot; line and write down the corresponding letter in the &quot;cipher&quot; line. To decipher, do the reverse. Because this cipher is a group, multiple encryptions and decryptions provide NO additional security against any attack, including brute-force.
+
+The Caesar cipher is named for Julius Caesar, who allegedly used it to protect messages of military significance. It was secure at the time because Caesar's enemies could often not even read plaintext, let alone ciphertext. But since it can be very easily broken even by hand, it has not been adequate for secure communication for at least a thousand years since the Arabs discovered frequency analysis and so made all simple substitution cyphers almost trivially breakable. An ancient book on cryptography, now lost, is said to have discussed the use of such cyphers at considerable length. Our knowledge is due to side comments by other writers, such as Suetonius.
+
+Indeed, the Caesar cypher is much weaker than the (competently done) random substitution ciphers used in newspaper cryptogram puzzles. The most common places Caesar ciphers are found today are in children's toys such as secret decoder rings and in the ROT13 cipher on Usenet (which, of course, is meant to be trivial to decrypt)...
+
+[[Category:Cryptography]]</text>
+      <sha1>8uu8pfkpq9g43ipo0rnavsu2qtueqkg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cryptography/Frequency analysis</title>
+    <ns>0</ns>
+    <id>4080</id>
+    <revision>
+      <id>2645124</id>
+      <parentid>2162155</parentid>
+      <timestamp>2014-05-03T01:31:13Z</timestamp>
+      <contributor>
+        <ip>70.177.113.174</ip>
+      </contributor>
+      <comment>add references, etc.</comment>
+      <text xml:space="preserve">In the field of cryptanalysis, '''frequency analysis''' is a methodology for &quot;breaking&quot; simple substitution ciphers, not just the Caesar cipher but all monoalphabetic substitution ciphers. These ciphers replace one letter of the plaintext with '''another''' to produce the cyphertext, and any particular letter in the plaintext will always, in the simplest and most easily breakable of these cyphers, turn into the same letter in the cypher. For instance, all E's will turn into X's.
+[[Image:Letter_frequency.PNG|thumb|400px| Graph of the relative frequency of letters in the English language]]
+Frequency analysis is based on the fact that certain letters, and combinations of letters, appear with characteristic frequency in essentially all texts in a particular language. For instance, in the English language E is very common, while X is not. Likewise, ST, NG, TH, and QU are common combinations, while XT, NZ, and QJ are exceedingly uncommon, or &quot;impossible&quot;. Given our example of all E's turning into X's, a cyphertext message containing lots of X's already seems to suggest one pair in the substitution mapping.
+
+In practice the use of frequency analysis consists of first counting the frequency of cypher text letters and then assigning &quot;guessed&quot; plaintext letters to them. Many letters will occur with roughly the same frequency, so a cypher with X's may indeed map X onto R, but could also map X onto G or M. But some letters in every language using letters will occur more frequently; if there are more X's in the cyphertext than anything else, it's a good guess for English plaintext that X stands for E. But T and A are also very common in English text, so X might be either of them. It's very unlikely to be a Z or Q which aren't common in English. Thus the cryptanalyst may need to try several combinations of mappings between cyphertext and plaintext letters. Once the common letters are 'solved', the technique typically moves on to pairs and other patterns. These often have the advantage of linking less commonly used letters in many cases, filling in the gaps in the candidate mapping table being built. For instance, Q and U nearly always travel together in that order in English, but Q is rare.
+
+Frequency analysis is extremely effective against the simpler substitution cyphers and will break astonishingly short ciphertexts with ease. This fact was the basis of Edgar Allan Poe's claim, in his famous newspaper cryptanalysis demonstrations in the middle 1800's, that no cypher devised by man could defeat him. Poe was overconfident in his proclamation, however, for polyalphabetic substitution cyphers (invented by Alberti around 1467) defy simple frequency analysis attacks. The electro-mechanical cypher machines of the first half of the 20th century (e.g., the Hebern? machine, the Enigma, the Japanese Purple machine, the SIGABA, the Typex, ...) were, if properly used, essentially immune to straightforward frequency analysis attack, being fundamentally polyalphabetic cyphers. They were broken using other attacks.
+
+Frequency analysis was first discovered in the Arab world, and is known to have been in use by about 1000 CE. It is thought that close textual study of the Koran first brought to light that Arabic has a characteristic letter frequency which can be used in cryptoanalysis. Its use spread, and was so widely used by European states by the Renaissance that several schemes were invented by cryptographers to defeat it. These included use of several alternatives to the most common letters in otherwise monoalphabetic substitution cyphers (i.e., for English, both X and Y cyphertext might mean plaintext E), use of several alphabets -- chosen in assorted, more or less, devious ways (Leon Alberti seems to have been the first to propose this), culminating in such schemes as using only pairs or triplets of plaintext letters as the 'mapping index' to cyphertext letters (e.g., the Playfair cipher invented by Charles Wheatstone in the mid 1800s). The disadvantage of all these attempts to defeat frequency counting attacks is that it increases complication of both encyphering and decyphering, leading to mistakes. Famously, a British Foreign Secretary is said to have rejected the Playfair cipher because, even if school boys could learn it as Wheatstone and Playfair had shown, 'our attaches could never learn it!'.
+
+Frequency analysis requires a basic understanding of the language of the plaintext, as well as tenacity, some problem solving skills, and considerable tolerance for extensive letter bookkeeping. Neat handwriting also helps. During WWII, both the British and Americans recruited codebreakers by placing crossword puzzles in major newspapers and running contests for who could solve them the fastest. Several of the cyphers used by the Axis were breakable using frequency analysis (e.g., the 'consular' cyphers used by the Japanese). Mechanical methods of letter counting and statistical analysis (generally IBM card machinery) were first used in WWII. Today, the hard work of letter counting and analysis has been replaced by the tireless speed of the computer, which can carry out this analysis in seconds. No mere substitution cypher can be thought credibly safe in modern times.
+
+The frequency analysis method is neither necessary nor sufficient to solve ciphers.
+Historically, cryptanalysts solved substitution ciphers using a variety of other analysis methods long before and after the frequency analysis method became well known.
+Some people even question why the frequency analysis method was considered useful for such a long time.&lt;ref&gt;
+Bernard Ycart.
+[http://arxiv.org/ftp/arxiv/papers/1211/1211.6847.pdf &quot;Letter counting: a stem cell for Cryptology, Quantitative Linguistics, and Statistics&quot;].
+p. 8.
+&lt;/ref&gt;
+However, modern cyphers are not simple substitution cyphers in any guise. They are much more complex than WWII cyphers, and are immune to simple frequency analysis, and even to advanced statistical methods. The best of them must be attacked using fundamental mathematical methods not based on the peculiarities of the underlying plaintext language. See [[Cryptography/Differential cryptanalysis]] or [[Cryptography/Linear cryptanalysis]] as examples of such techniques.
+
+[[Image:Letter_frequency.PNG]]
+[[it:Crittografia/Analisi della frequenza]]
+
+[[Category:Cryptography]]</text>
+      <sha1>hxhmyvpl0en3t4m4o0orn0uquqhgjp0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Bourne Shell Scripting/Running Commands</title>
+    <ns>0</ns>
+    <id>4081</id>
+    <revision>
+      <id>2632209</id>
+      <parentid>1852372</parentid>
+      <timestamp>2014-04-21T20:02:59Z</timestamp>
+      <contributor>
+        <ip>83.228.231.5</ip>
+      </contributor>
+      <comment>/* Running a shell script the other way */ shebang and distributions</comment>
+      <text xml:space="preserve">Before we can start any kind of examination of the abilities of the Bourne Shell and how you can tap into its power, we have to cover some basic ground first: we have to discuss how to enter commands into the shell for execution by that shell.
+
+==The easy way: the interactive session==
+
+=== Taking another look at what you've probably already seen ===
+
+If you have access to a Unix-based machine (or an emulator on another operating system), you've probably been using the Bourne Shell -- or one of its descendants -- already, possibly without realising. Surprise: you've been doing shell scripting for a while already!
+
+In your Unix environment, go to a terminal; either a textual logon terminal, or a terminal-in-a-window if you're using the X Window System (look for something called ''xterm'' or ''rxvt'' or just ''terminal'', if you have actually not ever done this yet). You'll probably end up looking at a screen looking something like this:
+
+ Ben_Tels:Local_Machine:~&gt;_
+
+or
+ 
+ The admin says: everybody, STOP TRYING TO CRASH THE SYSTEM
+ Have a lot of fun!
+ bzt:Another_Machine:~&gt;_
+
+or even something as simple as
+
+ $_
+
+That's it. That's your shell: your direct access to everything the system has to offer.
+
+===Using the shell in interactive mode===
+
+Specifically, the program you accessed a moment ago is your shell, running in ''interactive mode'': the shell is running in such a way that it displays a prompt and a cursor (the little, blinking line) and is waiting for you to enter a command for it to execute. You execute commands in interactive mode by typing them in, followed by a press of the '''Enter''' key. The shell then translates your command to something the operating system understands and passes off control to the operating system so that it can actually carry out the task you have sent it.  You'll notice that your cursor will disappear momentarily while the command is being carried out, and you cannot type anymore  (at this point, the Bourne Shell program is no longer in control of your terminal -- the other program that you started  by executing your command is). At some point the operating system will be finished working on your command and the shell will bring up a new prompt and the cursor as well and will then start waiting again for you to enter another command. Give it a try: type the command
+
+:&lt;tt&gt;ls ''enter''&lt;/tt&gt;
+
+After a short time, you'll see a list of files in the working directory (the directory that your shell considers the &quot;current&quot; directory), a new prompt and the cursor.
+
+This is the simplest way of executing shell commands: typing them in one at a time and waiting for each to complete in order. The shell is used in this way very often, both to execute commands that belong to the Bourne Shell programming language and simply to start running other programs (like the ls program from the example above).
+
+===A useful tidbit===
+
+Before we move on, we'll mention two useful key combinations when using the shell: the command to interrupt running programs and shell commands and the command to quit the shell (although, why you would ever want to ''stop'' using the shell is beyond me....).
+
+To interrupt a running program or shell command, hit the Control and C keys at the same time. We'll get back to what this does exactly in a later chapter, but for now just remember this is the way to interrupt things.
+
+To quit the shell session, hit Control+d. This key combination produces the Unix end-of-file character -- we'll talk more later about why this also terminates your shell session. Some modern shells have disabled the use of Control+d in favor of the &quot;exit&quot; command (shame on them). If you're using such a shell, just type the word &quot;exit&quot; (like with any other command) and press Enter (from here on in, I'll leave the &quot;Enter&quot; out of examples).
+
+==The only slightly less easy way: the script==
+
+As we saw in the last section, you can very easily execute shell commands for all purposes by starting an interactive shell session and typing your commands in at the prompt. However, sometimes you have a set of commands that you have to repeat regularly, even at different times and in different shell sessions. Of course, in the programming-centric environment of a Unix system, you can write a program to get the same result (in the C language for instance). But wouldn't it be a lot easier to have the convenience of the shell for this same task? Wouldn't it be more convenient to have a way to replay a set of commands? And to be able to compose that set as easily as you can write the single commands that you type into the shell's interactive sessions?
+
+===The shell script===
+
+Fortunately, there ''is'' such a way: the Bourne Shell's ''non-interactive'' mode. In this mode, the shell doesn't have a prompt or wait for your commands. Instead, the shell reads commands from a text file (which tells the shell what to do, kind of like an actor gets commands from a script -- hence, shell script). This file contains a sequence of commands, just as you would enter them into the interactive session at the prompt. The file is read by the shell from top to bottom and commands are executed in that order.
+
+A shell script is very easy to write; you can use any text-editor you like (or even any wordprocessor or other editor, as long as you remember to save your script in plain text format). You write commands just as you would in the interactive shell. And you can run your script the moment you have saved it; no need to compile it or anything.
+
+===Running a shell script===
+
+To run a shell script (to have the shell read it and execute all the commands in the script), you enter a command at an interactive shell prompt as you would when doing anything else (if you're using a graphical user interface, you can probably also execute your scripts with a click of the mouse). In this case, the program you want to start is the shell program itself. For instance, to run a script called ''MyScript'', you'd enter this command in the interactive shell (assuming the script is in your working directory):
+
+{{code:Basic|Running a script|&lt;source lang=&quot;bash&quot;&gt;sh MyScript&lt;/source&gt;}}
+
+Starting the shell program from inside the shell program may sound weird at first,  but it makes perfect sense if you think about it. After all, you're typing commands in an ''interactive mode'' shell session. To run a script, you want to start a shell in ''non-interactive mode''. That's what's happening in the above command. You'll note that the Bourne Shell executable  takes a single parameter in the example above: the name of the script to execute.
+
+If you happen to be using a POSIX 1003.1-compliant shell, you can also execute a single command in this new, non-interactive session. You have to use the -c command-line switch to tell the shell you're passing in a command instead of the name of a script:
+
+{{code:Basic|Running a command in a new shell|&lt;source lang=&quot;bash&quot;&gt;sh -c ls&lt;/source&gt;}}
+
+We'll get to why you would want to do this (rather than simply enter your command directly into the interactive shell) a little further down.
+
+There is also another way to run a script from the interactive shell: you type the execute command (a single period) followed  by the name of the script:
+
+{{code:Basic|Sourcing a script|&lt;source lang=&quot;bash&quot;&gt;. MyScript&lt;/source&gt;}}
+
+The difference between that and using the ''sh'' command is that the ''sh'' command starts a new process and the execute command does not. We'll look into this (and its importance) in the next section. By the way, this notation with the period is commonly referred to as ''sourcing'' a script.
+
+===Running a shell script the other way===
+
+There is also another way to execute a shell script, by making more direct use of a feature of the Unix operating system: the executable mode.
+
+In Unix, each and every file has three different permissions (read, write and execute) that can be set for three different entities: the user who owns the file, the group that the file belongs to and &quot;the world&quot; (everybody else). Give the command
+
+{{bcode:Example|ls -l}}
+
+in the interactive shell to see the permissions for all files in the working directory (the column with up to nine letters, r, w and x for read write and execute, the first three for the user, the middle ones for the group, the right ones for the world). Whenever one of those entities has the &quot;execute&quot; permission, that entity can simply run the file as a program. To make your scripts executable by everybody, use the command
+
+{{bcode:Example|'''chmod +x''' ''scriptname''}}
+
+as in 
+
+{{code:Basic|Making MyScript executable|&lt;source lang=&quot;bash&quot;&gt;chmod +x MyScript&lt;/source&gt;}}
+
+You can then execute the script with a simple command like so (assuming it is in a directory that is in your PATH, the directories that the shell looks in for programs when you don't tell it exactly where to find the program):
+
+{{code:Basic|Running a command in a new shell|&lt;source lang=&quot;bash&quot;&gt;MyScript&lt;/source&gt;}}
+
+If this fails then the current directory is probably not in your PATH.  You
+can force the execution of the script using
+
+{{code:Basic|Making the shell look for your script in the current directory|&lt;source lang=&quot;bash&quot;&gt;./MyScript&lt;/source&gt;}}
+
+At this command, the operating system examines the file, places it in memory and allows it to run like any other program. Of course, not every file makes ''sense'' as a program; a binary file is not necessarily a set of commands that the computer will recognize and a text file cannot be read by a computer at all. So to make our scripts run like this, we have to do something extra.
+
+As we mentioned before, the Unix operating system starts by examining the program. If the program is a text file rather than a binary one (and cannot simply be executed), the operating system expects the first line of the file to name the interpreter that the operating system should start to interpret the rest of the file. The line the Unix operating system expects to find looks like this:
+
+{{bcode:Example|#!''full path and name of interpreter''}}
+
+In our case, the following line should work pretty much everywhere:
+
+{{bcode:Example|#!/bin/sh}}
+
+The Bourne Shell executable, to be found in the bin directory, which is right under the top of the filesystem tree. For example:
+
+{{code:Output|Bourne shell script with an explicit interpreter
+|&lt;source lang=&quot;bash&quot;&gt;#!/bin/sh
+echo Hello World!
+&lt;/source&gt;
+|Hello World!|}}
+
+Executing shell scripts like this has several advantages. First it's less cumbersome than the other notations (it requires less typing). Second, it's an extra safety if you're going to pass your scripts around to others. Instead of relying on them to have the right shell, you can simply specify which shell they should use. If Bourne Shell is enough, that's what you ask for. If you absolutely need ''ksh'' or ''bash'', you specify that instead (mind you, it's not foolproof &amp;mdash; other people can ignore your interpreter specification by running your script with one of the other commands that we discussed above, even if the script probably won't work if they do that).
+
+Just as a sidenote, Unix doesn't limit this trick to shell scripts. Any script interpreter that expects its scripts to be plain-text can be specified in this way. You can use this same trick to make directly executable Perl scripts or Python, Ruby, etc. scripts as well as Bourne Shell scripts.
+
+Note also that with the distributions using bash as their defaut shell, you can use the #!/bin/sh shebang and have typical bash syntax in your script. It will work. But for the same script to work with a distribution using dash as its default shell (as example Debian), you will have to modify the script or to change its shebang to #!/bin/bash.
+
+==A little bit about Unix and multiprocessing==
+
+===Why you want to know about multiprocessing===
+
+While this is not directly a book about Unix, there are some aspects of the Unix operating system that we must cover to fully understand why the Bourne Shell works the way it does from time to time.
+
+One of the most important aspects of the Unix operating system &amp;ndash; in fact, the main aspect that sets it apart from all other main-stream operating systems &amp;ndash; is that the Unix Operating System is and always has been a multi-user, multi-processing operating system (this in contrast with other operating systems like MacOS and Microsoft's DOS/Windows operating systems). The Unix OS was always meant to run machines that would be used simultaneously by several users, who would all want to run at least one but possibly several programs at the same time. The ability of an operating system to divide the time of a machine's processor among several programs so that it seems to the user that they are all running at the same time is called ''multiprocessing''. The Unix Operating System was designed from the core up with this possibility in mind and it has an effect on the way your shell sessions behave.
+
+Whenever you start a new process (by running a program, for instance) on your Unix machine, the operating system provides that process with its very own operating environment. That environment includes some memory for the process to play in and it can also include certain predefined settings for all processes. Whenever you run the shell program, it is running in its own environment.
+
+Whenever you start a new process from another process (for instance by issuing a command to your shell program in interactive mode), the new process becomes what is called a ''child process'' of the first process (the ls program runs as a child process of your shell, for instance). This is where it becomes important to know about multiprocessing and process interaction: a child process always starts with a ''copy'' of the environment of the parent process. This means two things:
+
+# a child process can ''never'' make changes to the operating environment of its parent -- it only has access to a copy of that environment
+# if you actually do ''want'' to make changes in the environment of your shell (or specifically want to avoid it), you have to know when a command runs as a child process and when it runs within your current shell; you might otherwise pick a variant that has the opposite effect of that which you want
+
+===What does what===
+
+We have seen several ways of running a shell command or script. With respect to multiprocessing, they run in the following way:
+
+{| class=&quot;wikitable&quot; align=&quot;center&quot; border=&quot;1&quot;
+|-
+! Way of running
+! Runs as
+|-
+| Interactive mode command ||
+* current environment for a shell command {{ref|Remark_0}})
+* child process for a new program
+|-
+| Shell non-interactive mode || child process
+|-
+| Dot-notation run command (''. MyScript'')
+| current environment
+|-
+| Through Unix executable permission with interpreter selection
+| child process
+|}
+
+===A useful thing to know: background processes===
+
+With the above, it may seem like multiprocessing is just a pain when doing shell scripting. But if that were so, we wouldn't ''have'' multiprocessing -- Unix doesn't tend to keep things that aren't useful. Multiprocessing is a valuable tool in interacting with the rest of the system and one that you can use to work more efficiently. There are many books available on the benefits of multiprocessing in program development, but from the point of view of the Bourne Shell user and scripter the main one is the ability to hand off control of a process to the operating system ''and still keep on working while that child process is running''. The way to do this is to run your process as a ''background process''.
+
+Running a process as a background process means telling the operating system that you want to start a process, but that it should not attach itself to any of the interactive devices (keyboard, screen, etc.) that its parent process is using. And more than that, it also tells the operating system that the request to start this child process should return immediately and that the parent process should then be allowed to continue working without having to wait for its child process to end.
+
+This sounds complicated, but you have to keep in mind that this ability is completely ingrained in the Unix operating system and that the Bourne Shell was intended as an easy interface to the power of Unix. In other words: the Bourne Shell includes the ability to start a child process as a simple command of its own. Let's demonstrate how to do this and how useful the ability is at the same time, with an example. Give the following (rather pointless but still time consuming) command at the prompt:
+
+:&lt;tt&gt;N=0 &amp;&amp; while [ $N -lt 10000 ]; do date &gt;&gt; scriptout; N=`expr $N + 1`; done&lt;/tt&gt;
+
+We'll get into what this says in later chapters; for now, it's enough to know that this command asks the system for the date and time and writes the result to a file named &quot;scriptout&quot;. Since it then repeats this process 10000 times, it may take a little time to complete.
+
+Now give the following command:
+
+:&lt;tt&gt;N=0 &amp;&amp; while [ $N -lt 10000 ]; do date &gt;&gt; scriptout; N=`expr $N + 1`; done&amp;&lt;/tt&gt;
+
+You'll notice that you can immediately resume using the shell (if you don't see this happening, hit Control+C and check that you have the extra ampersand at the end). After a while the background process will be finished and the scriptout file will contain another 10000 time reads.
+
+The way to start a background process in Bourne Shell is to append an ampersand (&amp;amp;) to your command.
+
+----
+====Remarks====
+{{note|Remark_0}}Actually, you can force a child process here as well -- we'll see how when we talk about command grouping
+
+&lt;noinclude&gt;
+{{auto navigation|Environment|Comparing Shells}}
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]
+&lt;/noinclude&gt;</text>
+      <sha1>dyzkjfxxgebb20in66vw97eadlmnk6w</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Bicycles/Maintenance and Repair/Tools and Supplies/Truing Jig</title>
+    <ns>0</ns>
+    <id>4088</id>
+    <revision>
+      <id>1641415</id>
+      <parentid>1498681</parentid>
+      <timestamp>2009-10-12T03:51:05Z</timestamp>
+      <contributor>
+        <username>Keithonearth</username>
+        <id>86632</id>
+      </contributor>
+      <comment>aka, changing to standard terminology</comment>
+      <text xml:space="preserve">A '''truing jig''', aka a wheel truing stand, facilitates the precise [[../../Wheels and Tires/Truing a bicycle wheel|truing]] or building of a wheel. It consists of fork, similar to a bicycle's front fork, and callipers which allow precise measurement of the position of the rim.
+
+It is possible to make your own truing jib. Start by getting an old bicycle fork and finding a way of supporting it. The easiest way is to find a sturdy box, and drilling a hole big enough to accommodate the fork column. The hole should be tight enough to firmly hold the fork and the wheel which will be supported. The fork is now upside down. It is possible to fashion some kind of true indicator or caliper using a nail or pencil attached on one leg of the fork. A metal strap that can be attached with a screw as a pencil or nail holder works best. I try to avoid using tape, string or rubber band since they have a tendency to move which could affect an accurate reading of the wheel's straightness. Straight wheels tend to turn smoothly without deviation when viewed from the front. I start by bringing the nail as closely as possible to the wheel rim. Turning the wheel by hand, warped wheels will occasionally touch the rim or show a large gap. Wheel spokes work by providing enough pull or release on both sides of the rim so that the rim remains straight. By loosening one spoke, the tension is strengthened on the other side and vice-versa. Ideally the spokes on both sides should be even to maintain optimum rim straightness. A sequence of tightening and loosening both sides of the spokes where necessary is the key to rim straightness.
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>5035xvju1f6b5edmaoziw7aq2p98hn8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cryptography/Brute force attack</title>
+    <ns>0</ns>
+    <id>4089</id>
+    <revision>
+      <id>2450086</id>
+      <parentid>2429356</parentid>
+      <timestamp>2012-11-28T04:23:53Z</timestamp>
+      <contributor>
+        <username>Mr prows</username>
+        <id>817934</id>
+      </contributor>
+      <comment>added discussion of common mitigation.</comment>
+      <text xml:space="preserve">A '''brute force attack''' against a cipher consists of breaking a cipher by trying all possible keys. Statistically, if the keys were originally chosen randomly, the plaintext will become available after about half of the possible keys are tried. The underlying assumption is, of course, that the cipher is known. Since A. Kerckoffs first published it, a fundamental maxim of cryptography has been that security must reside only in the key. As Claude E. Shannon said a few decades later, 'the enemy knows the system'. In practice, it has been excellent advice.
+
+As of the year 2002, symmetric ciphers with keys 64 bits or fewer are vulnerable to brute force attacks. DES, a well respected symmetric algorithm which uses 56-bit keys, was broken by an EFF project in the late 1990s. They even wrote a book about their exploit -- Cracking DES, O'Reilly and Assoc. The EFF is a non-profit cyberspace civil rights group; many people feel that well-funded organisations like the NSA can successfully attack a symmetric key cipher with a 64-bit key using brute force. This is surely true, as it has been done publicly. Many observers suggest a minimum key length for symmetric key algorithms of 128 bits, and even then it is important to select a secure algorithm. For instance, many algorithms can be reduced in effective keylength until it is computationally feasible to launch a brute force attack. AES is recommended for use until at least 2010.
+
+The situation with regard to asymmetric algorithms is much more complicated and depends on the individual algorithm. Thus the currently breakable key length for the RSA algorithm is at least 512 bits (has been done publicly), but for most elliptic curve asymmetric algorithms, the largest currently breakable key length is believed to be rather shorter, perhaps as little as 128 bits or so. A message encrypted with a 109 bit key by an elliptic curve encryption algorithm was publicly broken by brute force key search in early 2003. At the time of writing, 128 bit key lengths seem reasonable for elliptic curve algorithms, and 1024 bits for such other asymmetric key algorithms as RSA (asymmetric key algorithms that rely on complex mathematical problems for their security always will need much larger keyspaces as there are short-cuts to cracking them, as opposed to direct brute-force).
+
+== Common Brute Force Attacks ==
+The term &quot;brute force attacks&quot; is really an umbrella term for all attacks that exhaustively search through all possible (or likely) combinations, or any derivative thereof.
+
+=== Dictionary Attack ===
+A dictionary attack is a common password cracking technique, relying largely on the weak passwords selected by average computer users. For instance, if an attacker had somehow accessed the hashed password files through various malicious database manipulations and educated searching on an online store, he would then write a program to hash one at a time all words in a dictionary (of, for example any or all languages and common derivative passwords), and compare these hashes to the real password hashes he had obtained. If the hashes match, he has obtained a password. 
+
+==== Pre-Computation Dictionary Attack ====
+The simple dictionary attack method quickly becomes far too time-consuming with any large number of password hashes, such as an online database would yield. Thus, attackers developed the method of pre-computation. In this attack, the attacker has already hashed his entire suite of dictionaries, and all he need do is compare the hashes. Additionally, his task is made easier by the fact that many users will select the same passwords. To prevent this attack, a database administrator must attach unique 32-bit salts to the users passwords before hashing, thus rendering precompution useless.
+
+==Responses to Brute Force Attacks==
+There are a number of ways to mitigate brute force attacks. For example:
+* Changing a key frequently in response to an attempt to try all possible keys would require an attacker to start over assuming he knew the key was changed or finish attempting all possible keys before starting the attack again from the beginning.
+* A system could rely on a time out or lock out of the system after so many attempts at guessing the key.  Systems that time out can simply block further access, lock a user account, contact the account owner, or even destroy the clear text information.
+* 2 step verification is a method of requiring a second key to enter the system.   This complicates a brute force attack since the attacker must not only guess one key but then guess a second possibly equally complex key.  The most common implementation of this is to ask for further authentication &quot;What's your first dogs name?&quot;.  There is a new trend on the horizon for systems to utilize two step verification through a time based key that is emailed or texted and having access to an account or particular electronic device serves as a secondary key.
+
+[[Category:Cryptography]]</text>
+      <sha1>hzoy2qhf91v1mznenhce2tqplyeoba2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cryptography/DES</title>
+    <ns>0</ns>
+    <id>4090</id>
+    <revision>
+      <id>1614076</id>
+      <parentid>1613787</parentid>
+      <timestamp>2009-08-21T23:03:02Z</timestamp>
+      <contributor>
+        <ip>93.125.204.147</ip>
+      </contributor>
+      <text xml:space="preserve">The '''Data Encryption Standard''' (DES) was a widely-used algorithm for encrypting data. It was developed by IBM under the name Lucifer, and was submitted to NBS in response to a 1973 solicitation for better cryptosystems. The US National Institute of Standards and Technology with help from the National Security Agency took IBM's design and made some changes; DES was adopted as a standard in January of 1977.
+
+DES is a product block encryption algorithm (a cipher) in which 16 iterations, or rounds, of the substitution and transposition (permutation) process are cascaded. The block size is 64 bits, so that a 64-bit block of data (plaintext) can be encrypted into a 64-bit ciphertext. The key, which controls the transformation, also consists of 64 bits. Only 56 of these, however, are at the user's disposal; the remaining eight bits are employed for checking parity. The actual key length is therefore 56 bits.
+
+Subsets of the key bits are designated K1, K2, etc., with the subscript indicating the number of the round. The cipher function (substitution and transposition) that is used with the key bits in each round is labeled f. At each intermediate stage of the transformation process, the cipher output from the preceding stage is partitioned into the 32 leftmost bits, Li, and the 32 rightmost bits, Ri. Ri is transposed to become the left-hand part of the next higher intermediate cipher, Li+1. The right-hand half of the next cipher, Ri+1, however, is a complex function of the key and of the entire preceding intermediate cipher. The essential feature to the security of the DES is that f involves a very special nonlinear substitution--i.e., f(A) + f(B) does not equal f(A + B)--specified by the Bureau of Standards? in tabulated functions known as S-boxes. This operation results in a 32-bit number, which is logically added to Ri to produce the left-hand half of the new intermediate cipher. This process is repeated, 16 times in all. To decrypt a cipher, the process is carried out in reverse order, with the 16th round being first. The DES algorithm lends itself to integrated-chip implementation. By 1984 the Bureau of Standards had certified over 35 LSI- and VLSI-chip implementations of the DES, most on single 40-pin chips, some of which operate at speeds of several million bits per second.
+
+When the cipher was first released, the design criteria for the S-boxes was not released. With the National Security Agency's involvement in the design of the S-boxes, most security researchers were wary of DES, and there was the widespread fear that the modifications of the NSA were intended to weaken the cipher. 
+
+In 1990 with the independent discovery and open publication by Biham and Shamir of differential cryptanalysis, it turned out that at least some of the wariness was uncalled for. After the publication of this paper, the IBM personnel involved in the designed publically stated that the main factor in the design was to strengthen them against differential cryptanalysis. The secrecy behind the design criteria at the time appears to have been due to the fact that the technique was not known to the public at the time. 
+
+Notably, DES is theoretically vulnerable to a technique discovered later by Matsui, linear cryptanalysis. It is unknown whether the NSA was aware of linear cryptanalysis at the time DES was finalized, but most knowledgeable observers think not. Don Coppersmith, one of DES's designers at IBM, has stated that IBM itself was not aware of linear cryptanalysis at that time.
+
+Because the key length is only 56 bits, DES can be, and has been, broken by the brute force attack method of running through all possible keys. It is believed that one of the reasons this reduced key length was chosen was that NSA in the mid-'70s possessed enough computer power to brute force break keys of this length. In the years since, computer hardware progress has been such that most anyone now can have sufficient computational capacity. The EFF, a cyberspace civil rights group (with neither much funding nor personnel), did it in a little more than 2 days' search at about the same time at least one attorney from the US Justice Department was publicly announcing that DES was and would remain unbreakable. 
+
+The most obvious way of improving the security of DES is to encrypt the data multiple times with different keys.  Double encrypting data with DES does not add much security as it is vulnerable to meet in the middle attacks.  Going one step about this, many former DES users now use Triple DES (3DES) which was described and analyzed by one of DES's patentees (see FIPS 46-3); it involves DES encryption of each data block three times with different keys. 3DES is widely regarded as adequately secure for now, though it is quite slow. Note, however, that there are several ways to use DES three times; only one of those is Tuchman's 3DES.
+
+After another, long delayed competition, (NIST) has selected a new cipher, the Advanced Encryption Standard (AES) to replace DES (fall -'01). AES was submitted by its designers under the name Rijndael.
+[[it:Crittografia/DES]]
+
+[[Category:Cryptography]]
+
+
+
+
+'''Implementations:'''
+
+http://www.codeproject.com/KB/cs/NET_Encrypt_Decrypt.aspx (C#, Xinwen Cheng) &lt;br&gt;
+http://frank.anemaet.nl/crypto/DES/ (Java implementation, Frank Anemaet) &lt;br&gt;
+http://www.tero.co.uk/des/ (Javascript implementation, Paul Tero)</text>
+      <sha1>j6b91q3iaq9xkac68s0j4dg399eigq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Infection0</title>
+    <ns>3</ns>
+    <id>4096</id>
+    <revision>
+      <id>155903</id>
+      <timestamp>2004-01-25T22:47:39Z</timestamp>
+      <contributor>
+        <username>R3m0t</username>
+        <id>327</id>
+      </contributor>
+      <text xml:space="preserve">I see you added this:
+
+: Use the VILD technique to return into the dream; visualize it in a similar fashion as your previous dream, and before long you will find yourself in it. Be sure to maintain the fact that you are dreaming, or you may lose your lucidity while trying to fall asleep. Stimulate your senses as early as possible.
+
+&quot;you may lose your lucidity while trying to fall asleep&quot; - how is this possible? If you aren't dreaming, you can't be lucid.
+
+&quot;Stimulate your senses as early as possible&quot; - are you referring to spinning, hand rubbing etc? Remember that the reader probably reads the book full through once and then refers to it later occasionally. It needs to make sense in order!
+
+Reply by clicking on &quot;(talk)&quot;, choosing &quot;Edit this page&quot; and adding your reply to the bottom. Sign it with &lt;nowiki&gt;~~~~&lt;/nowiki&gt; - this puts your nickname at the end of the message, along with the date and time. Like this: [[User:R3m0t|r3m0t]] [http://wikibooks.org/w/wiki.phtml?title=Special:Contributions&amp;target=R3m0t (cont)] [[User talk:r3m0t|(talk)]] 14:47, 25 Jan 2004 (PST)</text>
+      <sha1>j5solwphfn6u8xkcod6o2gcopurqt4m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Grilled Cheese Sandwich</title>
+    <ns>102</ns>
+    <id>4097</id>
+    <revision>
+      <id>2683817</id>
+      <parentid>2538973</parentid>
+      <timestamp>2014-07-23T00:28:54Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>Added pan fried and broiled cats.</comment>
+      <text xml:space="preserve">{{recipesummary|Sandwich recipes|1 or more|5 minutes|1|Image=[[Image:Grilled Cheese with hoisin.jpg|300px]]}}
+{{recipe}} | [[Cookbook:Sandwiches|Sandwiches]] | [[Cookbook:Cuisine of the United States|US Cuisine]]
+
+A '''grilled cheese sandwich''' is a simple dish consisting of two slices of bread with [[Cookbook:Cheese|cheese]] between them, [[Cookbook:Grilling|grilled]], optionally with [[#Variations|other ingredients]].
+
+== Ingredients ==
+For 1 sandwich:
+*1–3 slices of cheese, or shredded to taste
+*:Any smoothly melting cheese; typically [[Cookbook:Cheddar Cheese|cheddar]], gouda, Limberger or [[Cookbook:American Cheese|American]].
+* 2 slices of [[Cookbook:Bread|bread]]
+*:Any bread that toasts well: generally white bread (including sourdough).
+* [[Cookbook:Butter|butter]]
+*:[[Cookbook:Margarine|margarine]] can be used, but is not recommended, as direct heating tends to negatively affect the taste of margarine
+* [[#Variations|other ingredients]] as necessary (see below).
+
+The key variable is the ratio of cheese to bread; this depends on the thickness and density of the bread, and the amount of cheese used, and varies according to taste; generally more cheese is preferred, so that the bread doesn't overwhelm the cheese.
+
+== Preparation ==
+With presliced bread and cheese, there is very little preparation.
+
+=== Grating cheese ===
+If using grated cheese, which some recommend for more even melting, then one needs to grate the cheese. Especially if mixing the grated cheese with chop onions or other ingredients, it is easiest to grate into a bowl, mix with other ingredients, and then spoon onto sandwiches, otherwise it can be messy.
+
+=== Buttering bread ===
+Buttering the bread makes the outside of the bread brown, rather than dry and burn, and is widely recommended.
+
+Butter the slices of bread, then place butter-side down (the butter is on the ''outside'' of the bread), in the pan or on other cooking surface. Follow this by placing the grated cheese or sliced cheese on top, then the other slice of bread, butter-up. Do not place the butter side down on a prep surface, as it will come off and make a mess.
+
+Alternatively, one may melt butter in a pan, and then place the bread on it; when flipping, one should add more butter, then flip the bread.
+
+== Cooking ==
+There are many methods of grilling a sandwich; the main variants are grilling on a stove-top, most common in US, and toasting in an oven, most common in the UK and Australia. There also specialized sandwich toasters or sandwich grills.
+
+Ovens are useful if making multiple sandwiches, rather than grilling one at a time; they also allow one to make open-faced sandwiches.
+
+The goal is to get a nicely browned [[Cookbook:Sandwiches|sandwich]] with melted cheese in the middle.
+
+=== Difficulties ===
+The main difficulties are:
+* Unmelted or unevenly melted cheese
+* Burnt bread
+* Soggy bread
+
+To get evenly melted cheese, and avoid burnt bread, cook at low heat (which is a general rule in roasting) – this gives the cheese time to warm up and melt, rather than scorching the bread before the cheese warms up.
+
+If one desires soggy bread, one should melt the butter in a pan, and grill or roast in that. If one desires crisp bread, spread butter on the bread (not on the pan), and toast on a grate or cook in a ridged indoor grill, so the fat runs away.
+
+=== Stove-top ===
+Simply heat up a [[Cookbook:Skillet|skillet]], [[Cookbook:Frying Pan|frying pan]] or [[Cookbook:Griddle|griddle]] (it is best on most stoves to heat on medium), spread the [[Cookbook:Butter|butter]] on the [[Cookbook:Bread|bread]], and place both pieces of bread, butter side down, in the skillet. When the butter sides of both have browned (check periodically), flip one over and place 1-3 slices (this depends on the size of the slices) of cheese on top, and place the other slice of bread on top of the cheese (again, butter side down). At this point, it is advised to compress the sandwich, for example by pressing on it with a spatula. Once the bottom side of the sandwich is browned sufficiently, flip the sandwich over. When both sides are browned, take off heat, cut, and serve.
+
+=== Toaster ===
+If you lack a stove, you can prepare a fast and easy version of this sandwich simply with a toaster. This method is good for younger or otherwise inexperienced cooks because it does not require a stove. Take two slices of bread and butter them on both sides (or spread margarine or a similar substitute). Place the double-buttered slices into the toaster and toast until the bread is browned. Remove the two hot, crispy slices of toast from the toaster and place a slice of cheese between them. The cheese melts quickly. Cut and serve immediately. If desired, place the entire sandwich back into one slot of the toaster to melt the cheese even further.
+
+=== Oven ===
+To toast in an oven, heat oven to 150° Celsius (or 300° Fahrenheit), then place pan with sandwiches in, toast for 10–15 minutes, flip, and toast another 5–10 minutes, to taste.
+
+One can also make open-faced sandwiches; in these, the exposed cheese tends to puff and bubble. If one only heats from above (via radiant heat), one melts the cheese and leaves the bread untoasted or lightly toasted, which may be desired, but generally one should have heat from both sides.
+
+=== Sandwich toaster or grill ===
+There are a variety of specialized Sandwich toaster and general-purpose indoor grills (aka, sandwich press, panini press).
+
+These have the advantages of:
+* not needing to flip 
+* sealing in sandwich / no drips (in specialized toasters)
+* attractive browning marks
+
+=== Quotes ===
+:“Butter the bread rather than the skillet, grate the cheese, and cook over low heat for sandwiches with a lacy-crisp exterior and a tender, oozing interior.” (Cooks, 1998)
+
+== Variations ==
+There are three main classes of variations:
+* spreads, added to inside of bread
+* fillings, large sandwich ingredients forming a layer
+* mix-ins, mixed into (shredded) cheese
+
+=== Spreads ===
+Spread on inside of one or (better) both slices of bread before adding the fillings:
+* [[Cookbook:Mayonnaise|mayonnaise]]
+** mayonnaise and a little mustard (mix in a cup)
+** mayonnaise and BBQ sauce.
+* a garlic-flavored spread
+
+=== Fillings ===
+One can layer other ingredients; this works particularly well with slices of cheese.
+* Place 1 or 2 slices of [[Cookbook:Ham|ham]] or seeded fresh [[Cookbook:Tomato|tomato]] inside the sandwich.
+* Use slices of cheddar cheese and some shredded pork rib meat.
+* For a [[Cookbook:Pizza|pizza]]-like variant, spread [[Cookbook:Ketchup|ketchup]] on both pieces of bread, add cheese and some slices of [[Cookbook:Salami|salami]].
+
+=== Mixed with cheese ===
+It is easiest to mix ingredients into the cheese if it is shredded, rather than in slices. Common mix-ins include:
+* diced raw onion, or other vegetables of the allium]genus, such as garlic, leeks, or shallots
+* few sweet pickles
+* crumbled bacon
+
+One can also mix in or sprinkle spices, such as:
+* pepper
+* cumin
+* thyme
+
+== Examples ==
+* [http://www.kappacasein.com/ Kappacasein] of Borough Market uses cheddar cheese, sourdough bread, and mixes in onions, leek, and garlic. Bread is sliced ~6~8 mm, and cooked in a flat sandwich press, until entire surface is crisp.
+* It is common practice at the Ma-Ka-Ja-Wan Scout Reservation in Pearson, WI to substitute a garlic-flavored spread for the butter.
+
+== Accompaniments ==
+It is often served with [[Cookbook:Tomato Soup|tomato soup]].
+
+== See also ==
+*[[Cookbook:Toasted Cheese Sandwich|Toasted Cheese Sandwich]]
+*[[Cookbook:Cheese on Toast|Cheese on Toast]]
+*[[Cookbook:Jaffle|Jaffle]]
+*[[Cookbook:Toast|Toast]]
+*[[Cookbook:Monte Cristo Sandwich|Monte Cristo Sandwich]]
+
+{{wikipedia|Grilled cheese sandwich}}
+
+== External links ==
+* [http://www.epicurious.com/recipes/food/views/Grilled-Cheese-Sandwich-40040 Grilled Cheese Sandwich], Epicurious, September 1996, by Marion Cunningham, The Fannie Farmer Cookbook
+* [http://www.cooks.com/rec/search/0,1-0,grilled_cheese_sandwich,FF.html Recipes at Cooks.com]
+* [http://www.cooksillustrated.com/recipes/detail.asp?docid=5465 Classic Grilled Cheese Sandwiches], 1998
+* [http://www.cooksillustrated.com/recipes/detail.asp?docid=7071  Oven Grilled Cheese for a Crowd], 2005
+
+[[Category:Sandwich recipes]]
+[[Category:Cheese recipes]]
+[[Category:Pan fried recipes]]
+[[Category:Broiled recipes]]
+[[Category:American recipes]]</text>
+      <sha1>fewxo34y1op3l06du0zpdp2200uu4l0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Grilled Cheese Sandwich</title>
+    <ns>103</ns>
+    <id>4098</id>
+    <revision>
+      <id>353731</id>
+      <parentid>155905</parentid>
+      <timestamp>2006-02-03T04:23:11Z</timestamp>
+      <contributor>
+        <username>Uncle G's major work 'bot</username>
+        <id>10904</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Cookbook:Grilled Cheese Sandwich]] moved to [[Cookbook talk:Grilled Cheese Sandwich]]: COOKBOT: Renaming talk page to Cookbook talk namespace</comment>
+      <text xml:space="preserve">Page history from [[en:Grilled cheese sandwich]]
+
+View (previous 50) (next 50) (20 | 50 | 100 | 250 | 500).
+
+Legend: (cur) = difference with current version, (last) = difference with preceding version, M = minor edit
+
+    * (cur) (last) . . 00:43, 31 Oct 2003 . . Dgrant (remove &quot;if you can afford it&quot;. and &quot;on top of that&quot;)
+    * (cur) (last) . . 00:42, 31 Oct 2003 . . Dgrant (rm flattened. It doesn't have to be &quot;flattened&quot;)
+    * (cur) (last) . . 00:42, 31 Oct 2003 . . Dgrant (pressing down on it with a spatula is unecessary... )
+    * (cur) (last) . . 22:32, 30 Oct 2003 . . Gleep
+    * (cur) (last) . . 01:14, 7 Oct 2003 . . Dgrant (added some variations)
+    * (cur) (last) . . 01:10, 7 Oct 2003 . . Dgrant (Replaced American cheese with Cheddar chesse. American cheese has no article, and I think cheddar is perhaps more universal? Removed step about pressing down with spatula (not necessary))
+    * (cur) (last) . . 22:09, 21 Aug 2003 . . Someone else (Monte Cristo)
+    * (cur) (last) . . 21:57, 21 Aug 2003 . . GRAHAMUK (+ wikis)
+    * (cur) (last) . . 21:47, 21 Aug 2003 . . Someone else (actually, I suppose Margarine as opposed to Butter is the Politically Correct version....)
+    * (cur) (last) . . 21:45, 21 Aug 2003 . . Someone else
+    * (cur) (last) . . 21:44, 21 Aug 2003 . . Someone else (sp. oops)
+    * (cur) (last) . . 21:44, 21 Aug 2003 . . Someone else (spelling,links)
+    * (cur) (last) . . 21:41, 21 Aug 2003 . . Oliver Pereira (Hmm...)
+    * (cur) (last) . . 21:34, 21 Aug 2003 . . Gleep
+
+----
+Copied talk page from [[en:Talk:Grilled cheese sandwich]]
+
+I removed the part about pressing down with a spatula.  I've never done this before in my life, and I even make grilled cheese sandwiches using frozen bread.  It is not necessary to press down.  Just flip it carefully using your free hand to hold the top piece of bread.  The instruction about the spatula just complicated the recipe unecessarily.  [[User:Dgrant|dave]] 09:13, 7 Oct 2003 (UTC)</text>
+      <sha1>r0lfp2re2c1uqw88q7rmmszm5p12wx3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Grilled Peanut Butter Sandwiches</title>
+    <ns>102</ns>
+    <id>4101</id>
+    <revision>
+      <id>2684171</id>
+      <parentid>1599858</parentid>
+      <timestamp>2014-07-23T23:06:08Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>Added pan fried cat.</comment>
+      <text xml:space="preserve">{{recipesummary|Sandwich recipes|1|10 minutes|1}}
+
+{{recipe}} | [[Cookbook:Cuisine of the United States|US Cuisine]] | [[Cookbook:Sandwiches|Sandwiches]]
+
+Here, &quot;[[Cookbook:Grilling|grilling]]&quot; means [[Cookbook:Frying|frying]], as it does for the [[Cookbook:Grilled Cheese Sandwich|Grilled Cheese Sandwich]].
+
+==Ingredients==
+*2 [[Cookbook:Tablespoon|tablespoons]] [[Cookbook:Peanut Butter|peanut butter]]
+*2 slices white [[Cookbook:Bread|bread]]
+*[[Cookbook:Butter|butter]] or [[Cookbook:Margarine|margarine]]
+
+Makes 1 sandwich
+
+==Procedure==
+#Spread peanut butter between two slices of white bread (other kinds of bread can of course be substituted).
+#Spread outsides of bread with softened or melted butter or margarine.
+#Cook in a non-stick [[Cookbook:Skillet|skillet]] on medium heat, turning a few times, until bread is golden brown and peanut butter is melted.
+#Serve with plenty of [[Cookbook:Milk|milk]].
+
+==Tips, tricks, and variations==
+
+*Make a standard peanut butter and [[Cookbook:Jelly|jelly]] sandwich and cook it in the same manner; these are ''very'' good.
+*Make a standard peanut butter and Marshmallow Fluff sandwich and cook it in the same manner.  These are very good, but can be a bit messy.
+
+Elvis was famous for consuming these with sliced [[Cookbook:Banana|bananas]] and &quot;burnt&quot; [[Cookbook:Bacon|bacon]]
+
+[[Category:Sandwich recipes|{{PAGENAME}}]]
+[[Category:American recipes|{{PAGENAME}}]]
+[[Category:Peanut Butter recipes|{{PAGENAME}}]]
+[[Category:Pan fried recipes]]</text>
+      <sha1>jb9that9jessc1l6q85jhfi83q20jkc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Grilled Peanut Butter Sandwiches</title>
+    <ns>103</ns>
+    <id>4102</id>
+    <revision>
+      <id>353733</id>
+      <parentid>155909</parentid>
+      <timestamp>2006-02-03T04:23:29Z</timestamp>
+      <contributor>
+        <username>Uncle G's major work 'bot</username>
+        <id>10904</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Cookbook:Grilled Peanut Butter Sandwiches]] moved to [[Cookbook talk:Grilled Peanut Butter Sandwiches]]: COOKBOT: Renaming talk page to Cookbook talk namespace</comment>
+      <text xml:space="preserve">Or, better, feed it to the birds.   Peanut butter is listed as a significant human carcinogen in my book on toxicology, but the birds wouldn't be stupid enough to eat it repeatedly so they are okay - LLM
+
+:All common processed peanut butters meet FDA standards for carcinogens, it's the organic ones and the &quot;grind your own peanut butter in the store&quot; stuff that's worrysome.  [[User:Dbeardsl|Dbeardsl]] 21:36, 16 May 2005 (UTC)
+
+::There too, you're starting from FDA-approved peanuts. The worrisome thing is that the FDA standard may be more lax than you'd like. In a world where 40% of the population is smoking and lots of people get killed early from other causes, you can't expect the FDA standard to be tuned for people who expect to have long and healthy lives. There's also the question of political action from the peanut farmers, who are well-known for disproportionate influence in the USA. [[User:AlbertCahalan|AlbertCahalan]] 22:35, 16 May 2005 (UTC)
+
+I removed the warnings about jelly and honey, the person who wrote them had obviously never had a grilled PBJ, ''way'' better than straight grilled peanut butter.  [[User:Dbeardsl|Dbeardsl]] 21:36, 16 May 2005 (UTC)</text>
+      <sha1>exaswh1axtsu84lzg3z8kxk0c2vqunl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Mincemeat Tart</title>
+    <ns>102</ns>
+    <id>4107</id>
+    <revision>
+      <id>836317</id>
+      <parentid>691092</parentid>
+      <timestamp>2007-04-18T23:56:41Z</timestamp>
+      <contributor>
+        <username>Webaware</username>
+        <id>27565</id>
+      </contributor>
+      <minor />
+      <comment>rm cookwork notice, as has been done</comment>
+      <text xml:space="preserve">{{recipe}} | [[Cookbook:Cuisine of the United Kingdom|United Kingdom]]
+
+'''Mincemeat''' is a spiced fruit preserve that does not in fact contain meat, although it may contain animal suet. The name is a throwback to Middle English from when &quot;meat&quot; was a word for all food, or to Victorian and earlier recipes that did combine minced lamb or beef with the spiced, preserved fruits.
+
+Mincemeat Tarts are large (8 inch (20cm) diameter or more) open pastry tarts, sometimes with a lattice pastry top, and occasionally also containing baked or stewed apple. The smaller pastry topped tarts traditionally served at Christmas are known as Mince Pies.
+
+==Ingredients for Mincemeat ==
+
+*1 [[Cookbook:Pound|lb]] (500 [[Cookbook:gram|g]]) seeded [[Cookbook:Raisin|raisins]]
+*1 lb (500 g) [[Cookbook:Currant|currants]]
+*½ lb (250 g) finely ground beef [[Cookbook:Suet|suet]]. Suet is pure beef fat and can be obtained from the butcher at the market. (They will grind it on request.) Vegetarians can substitute a solid vegetable fat such as Pura Vegetable Suet.
+*Rind of 2 [[Cookbook:Lemon|lemons]]
+*½ lb (250 g) candied [[Cookbook:Orange|orange]] peel
+*½ lb (250 g) candied [[Cookbook:Citron|citron]]
+*12 [[Cookbook:Ounce|oz]] (375 g) [[Cookbook:Sugar|sugar]]
+*2 lbs (1 [[Cookbook:kg|kg]]) green [[Cookbook:Apple|apples]], peeled
+*½ [[Cookbook:Teaspoon|tsp]] (3 [[Cookbook:mL|mL]]) [[Cookbook:Nutmeg|nutmeg]]
+*½ tsp (3 mL) [[Cookbook:Cinnamon|cinnamon]]
+*½ [[Cookbook:Cup|cup]] (120 mL) [[Cookbook:Brandy|brandy]] or [[Cookbook:Rum|rum]]
+*1 [[Cookbook:Tablespoon|Tbsp]] (15 mL) [[Cookbook:Salt|salt]]
+
+==Procedure==
+
+Wash currents and dry. Set aside. Put remaining ingredients--citron, orange peel, lemon rind, raisins, apples and suet--through a meat grinder using the course grinder blade. Add currents, brandy, spices and mix together.
+
+Store in a tightly covered plastic container in the refrigerator (do not freeze.) for up to one year. Makes 4½ [[Cookbook:Pint|pints]] (2.25 [[Cookbook:Liter|liters]]).
+
+Note: Candied orange peel and citron can be found in most markets around Thanksgiving.
+
+==Pastry for Tarts==
+
+Traditional British Mince Pies are made using a good [[Cookbook:Shortcrust Pastry|Shortcrust Pastry]], although Wheat Flour would be used in place of the given Potato flour in the recipe linked.
+Pillsbury Pie Crusts, found in the dairy section of most grocery stores in the USA, work very well. 
+
+Let the slices warm slightly to almost room temperature. Unwrap and place on a floured cutting board. For best results, roll the dough slightly thinner. Use a doughnut cutter with the center removed or a 2½ inch round cookie cutter to cut the tart shells Gently press into 1½ inch (4 cm) tart pans. Fill with mincemeat and top with a 1 inch (2.5 cm) round piece of pastry cut with the doughnut hole cutter. For added decoration, cut or press a design into the 1 inch pastry round before placing in the center of the filled tart. For a glazed top, lightly brush the pastry lids with milk, or a mixture of milk and beaten egg.
+
+Bake at [[Cookbook:Oven temperatures|425 °F (220 °C)]] for approx. 20 mins or until pastry is lightly browned at the edges. Allow to cool on a wire rack, and dust with icing sugar. People wanting a more alcoholic kick to their Mince Pie may also want to inject them with a little extra Brandy.
+
+[[Category:Dessert recipes|{{PAGENAME}}]]
+[[Category:English recipes|{{PAGENAME}}]]
+[[Category:Tart recipes|{{PAGENAME}}]]
+[[Category:Recipes_with_metric_units|{{PAGENAME}}]]</text>
+      <sha1>2q5mgh4634h56qtqro5q9yd37dkvin1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Molasses Taffy</title>
+    <ns>102</ns>
+    <id>4109</id>
+    <revision>
+      <id>1714912</id>
+      <parentid>852464</parentid>
+      <timestamp>2010-02-07T16:32:10Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <text xml:space="preserve">{{recipe}} | [[Cookbook:Confections|Confections]]
+
+'''Crosby's Molasses Taffy'''
+
+==Ingredients==
+*1/2 cup fancy [[Cookbook:Molasses|molasses]]
+*1 1/2 cups granulated [[Cookbook:Sugar|sugar]]
+*1 1/2 Tbsp. [[Cookbook:Vinegar|vinegar]]
+*1/2 cup [[Cookbook:Water|water]]
+*1/4 tsp. [[Cookbook:Cream of Tartar|cream of tartar]] 
+*4 Tbsp. [[Cookbook:Butter|butter]]
+*1/8 tsp. [[Cookbook:Baking Soda|baking soda]]
+
+==Procedure==
+
+#Place molasses, sugar, vinegar and water in a heavy saucepan and cook until a small amount tried in [[Cookbook:Cold Water Candy Test|cold water is brittle]] (300-310°F or 150°C). 
+#Remove from heat and add butter, cream of tartar and baking soda. 
+#Pour into buttered pan or onto marble surface. 
+#When cool enough to handle, pull until light in color. Butter the hands before pulling. Twist. 
+#Cut into one-inch pieces; wrap in squares of waxed paper.
+
+[[Category:Molasses recipes|Molasses Taffy]]
+[[Category:Confection recipes|Molasses Taffy]]</text>
+      <sha1>e6bxqoidfw161q04q586krropba9ada</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:One-Hour Thanksgiving Dinner</title>
+    <ns>103</ns>
+    <id>4114</id>
+    <revision>
+      <id>1370998</id>
+      <parentid>700351</parentid>
+      <timestamp>2009-01-02T19:03:05Z</timestamp>
+      <contributor>
+        <username>Darklama</username>
+        <id>7662</id>
+      </contributor>
+      <minor />
+      <comment>fix links</comment>
+      <text xml:space="preserve">Page history from [[w:One-Hour Thanksgiving Dinner]]
+
+Legend: (cur) = difference with current version, (last) = difference with preceding version, M = minor edit
+
+    * (cur) (last) . . 15:52, 21 Dec 2003 . . Smack (rm pages needing attention notice)
+    * (cur) (last) . . 16:20, 17 Dec 2003 . . Smack (whoops - link to Wikibooks)
+    * (cur) (last) . . 16:16, 17 Dec 2003 . . Smack (transwiki to wikibooks)
+    * (cur) (last) . . 00:22, 2 Dec 2003 . . 218.116.36.75
+    * (cur) (last) . . 00:20, 2 Dec 2003 . . 218.116.36.75
+    * (cur) (last) . . 00:16, 2 Dec 2003 . . 218.116.36.75
+    * (cur) (last) . . 23:14, 28 Nov 2003 . . 171.75.192.206 (restructured partially rewritten)
+    * (cur) (last) . . 07:44, 27 Nov 2003 . . Lexor (Fmting, copyedits, fixed spelling &quot;convince? foods&quot; -&gt; &quot;convenience foods&quot;. Use wikilist.)
+    * (cur) (last) . . 23:04, 26 Nov 2003 . . 171.75.192.172 (Name brands removed)
+    * (cur) (last) . . 22:33, 26 Nov 2003 . . RickK (''This page has been listed on [[Wikipedia:Pages needing attention]]''.)
+    * (cur) (last) . . 22:27, 26 Nov 2003 . . 171.75.192.172 (grammer clean up)
+    * (cur) (last) . . 22:07, 26 Nov 2003 . . 171.75.192.172 (fixed lists)
+    * (cur) (last) . . 22:06, 26 Nov 2003 . . 171.75.192.172
+    * (cur) (last) . . 22:05, 26 Nov 2003 . . 171.75.192.172
+
+Discussion from [[w:Talk:One-Hour Thanksgiving Dinner]]
+
+I '''''really''''' dislike the use of brand names for all of these ingredients.  Is this copied from the back of a package?
+
+''Place the vegetables on the stove under low heat.'' - '''''under''''' the heat? [[User:RickK|RickK]] 06:11, 27 Nov 2003 (UTC)
+
+
+:Not copied from any package.  The brands dont match anyhow and compete against one another.  
+
+The mention of Pillsburry instant frozen biscuits was intentional as they have a flufier and better consitincey than other brands and do not burn in the time frame.  
+
+The HoneySuckle White turkey breast is the only precooked cook and serve breast consitently available across stores. Stove Top Stuffing is specifically mentioned becuase it is a quick cooking instant range stuffing that is available across supermarkets.  
+
+Stove Top works in this case where as other brands would not becuase it is specifically designed for the range and &quot;quick cooking instant range stuffing&quot; will confuse people.
+
+:Fixed the grammer a bit
+
+::And perhaps the spelling... what exactly is a ''convince food''?  Is it something you convince your family to eat? ;-) --[[User:Lexor|Lexor]] 15:48, 27 Nov 2003 (UTC)
+
+This is very parochial - if it's purpose is to educate readers how to cook a turkey dinner within one hour, then so be it, however, as it stands it's merely a list of processed food items available in the USA only. The use of the word biscuit is very confusing! --[[User:Markb|Markb]]
+
+
+I did some research on it.  These products should be availble in Brazil, Canada, and the US (Although not at US prices except in the US).  The Turkey most certainly is.   Canada Thanksgiving is celebrated more like Erntedankfest, Certainly celebrated in the US in areas with very high levels of German imigration such as the Missouri Rhineland and St. Louis and in in certain other states, along with Oktoberfest (Celebrated throughout the US often times state-wide as is the case with Missouri) and Halloween (All Harvest end festivals).  
+
+It is dubios practice to link American (US, Brazil, Argentina- all observed on the same day) Thanksgiving to the Harvest festivals, except Canada's, since; 
+
+1.) It is celebrated in Dec-Nov in all countries except Canada and at first in the US only in New England, where the harvest actually ends by October, 
+
+2.) In Brazil(since 1949) and Argentina (Since 1997) it is the end of spring. 
+
+3.) Also not noted is that the 2'nd American Thanksgiving, in 1641, was also called &quot;Scalp Day&quot; and it was held becuase the colonist were thankfull for finding suitable Native Americans to sell into slavery and one of the festivities was kicking decaptated heads around.  These &quot;Thanksgivings&quot; were often held by each community after each time they defeated the indiginous population.  It was Washington who decided that all these &quot;Celebrations&quot; should be held on one day &quot;Thanksgiving&quot;.  Even when Lincoln established &quot;Thanksgiving&quot; as an official holiday he sent the army against the Sioux.
+
+----
+Cookbook section moved to Wikibooks.  May currently be found [http://wikibooks.org/wiki/Transwiki:One-Hour_Thanksgiving_Dinner here]. -[[User:Smack|Smack]] 00:16, 18 Dec 2003 (UTC)
+
+----
+Ergh... I can't remotely imagine anyone ever being desperate enough to want to make this, or to eat it! Still, I guess it's a big world out there. I hope somebody can give us instructions for a REAL thanksgiving dinner to go along with this fake. (I wouldn't worry about brand names in this instance because it's more a curiosity than a recipe.) [[User:Karen Johnson|KJ]] 07:21, 16 Apr 2004 (UTC)
+
+:I wouldn't eat it either, but based on the wikipedia article it came from, this is targeted at college students who can't get home for thanksgiving.  I suppose we should put together traditional menus for the various holidays, linked to the recipes for those dishes. However, what is traditional is different based on where you are.  For example, Californians will often include crab in thanksgiving dinner as the dungeness crab season starts in mid November here, so crab is cheap at that time, but its inclusion in Thanksgiving dinner in Iowa would be unheard of. hrmmm, sounds like a project to consider. [[User:Gentgeen|Gentgeen]] 07:50, 16 Apr 2004 (UTC)
+
+As changed, this is totally useless! It's not a recipe or even a compilation of recipes 'take two cans of chosen vegetables'? What sort of instruction is that?!  You might as well delete the timeline.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+I believe that this dinner needs something else.  How about a fruit salad?  I suggest the following:  Drain and then combine a can of pineapple chunks with a can of mandarin oranges.  Add some crushed walnuts and flake coconut.  Slice in a fresh banana.  This is an easy salad that would add some variety and some color.</text>
+      <sha1>ekmsy9nws34004xjj1bc6p97py20e7f</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Turkey Biscuit</title>
+    <ns>102</ns>
+    <id>4115</id>
+    <revision>
+      <id>2691869</id>
+      <parentid>2691867</parentid>
+      <timestamp>2014-08-16T11:25:16Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>Added dairy cat.</comment>
+      <text xml:space="preserve">{{recipe}} | [[Cookbook:Meat|Meat]]
+
+This recipe is designed for using the leftover [[Cookbook:Turkey|turkey]] after a holiday meal, such as Thanksgiving or Christmas dinner.
+
+==Ingredients==
+
+*4 cups cooked turkey meat, chopped
+*1 large [[Cookbook:Onion|onion]], chopped
+*1 can cream of chicken soup
+*2 tablespoons ranch dressing
+*1/2 cup [[Cookbook:Milk|milk]]
+*3/4 cup shredded [[Cookbook:Cheddar cheese|cheddar cheese]]
+*1 package frozen biscuits
+
+==Procedure==
+
+#[[Cookbook:Sautéing|Sauté]] the onion until tender.
+#Combine in a small bowl the all the other ingredients except the cheese and biscuits.
+#Stir this mixture, then place it into a baking dish and bake for 15 minutes at 350F, and at least until it is quite warm throughout.  
+#Remove the baked mixture from the oven and sprinkle the shredded cheese on it. 
+#Add a layer of frozen biscuits on top of this. Bake for about 20-30 minutes longer.
+#Serve
+
+[[Category:American recipes|Turkey Biscuit]]
+[[Category:Pot Pie recipes|Turkey Biscuit]]
+[[Category:Turkey recipes|Turkey Biscuit]]
+[[Category:Dairy recipes]]
+[[Category:Baked recipes]]
+[[Category:Main course recipes]]
+[[Category:Christmas recipes]]
+[[Category:Thanksgiving recipes]]</text>
+      <sha1>n8dn2m4oabtsbhd4ps066cagh1bnvj4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

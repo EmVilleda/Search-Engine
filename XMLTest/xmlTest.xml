@@ -1,0 +1,20 @@
+<page>
+    <title>User:Toby Bartels</title>
+    <ns>2</ns>
+    <id>3</id>
+    <revision>
+      <id>2010226</id>
+      <parentid>1312964</parentid>
+      <timestamp>2010-12-30T23:13:58Z</timestamp>
+      <contributor>
+        <username>Toby Bartels</username>
+        <id>4</id>
+      </contributor>
+      <minor />
+      <comment>Fix URI.</comment>
+      <text xml:space="preserve">I'm [http://tobybartels.name/ Toby Bartels].</text>
+      <sha1>0gkpggijneqw3uo8wpegsp3syggw049</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

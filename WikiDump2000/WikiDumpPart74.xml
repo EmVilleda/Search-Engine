@@ -1,0 +1,2445 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Physics Study Guide/Topics</title>
+    <ns>0</ns>
+    <id>3514</id>
+    <revision>
+      <id>1950849</id>
+      <parentid>654192</parentid>
+      <timestamp>2010-10-18T14:29:19Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>fixed links/category</comment>
+      <text xml:space="preserve">#[[Physics Study Guide/Linear motion|Displacement, velocity, and acceleration]]
+#*[[Physics Study Guide/Vectors and scalars|Vectors and scalars]]
+#[[Physics Study Guide/Force|Force]]
+#[[Physics Study Guide/Ropes and tension|Ropes and tension]]
+#[[Physics Study Guide/Gravity|Gravity]]
+#[[Physics Study Guide/Momentum and collision force|Momentum and collision force]]
+#[[Physics Study Guide/Energy|Energy]]
+#*[[Physics Study Guide/Kinetic energy|Kinetic energy]]
+#[[Physics Study Guide/Friction|Friction]]
+#[[Physics Study Guide/Periodic Motion|Periodic Motion]]
+#[[Physics Study Guide/Torque|Torque]]
+#[[Physics Study Guide/Circular Motion|Circular Motion]]
+#*[[Physics Study Guide/Inertia and moment of inertia|Inertia and moment of inertia]]
+#[[Physics Study Guide/Strengths of materials: Stress and strain|Strengths of materials: Stress and strain]]
+#[[Physics Study Guide/Thermodynamics|Thermodynamics]]
+#*[[Physics Study Guide/Power|Power]]
+#[[Physics Study Guide/Gases|Gases]]
+#*[[Physics Study Guide/Ideal gases|Ideal gases]]
+#*[[Physics Study Guide/Pressure and partial pressure|Pressure and partial pressure]]
+#[[Physics Study Guide/Fluids|Fluids]]
+#[[Physics Study Guide/Density|Density]]
+#[[Physics Study Guide/Laminar flow in ideal fluids|Laminar flow in ideal fluids]]
+#[[Physics Study Guide/Energy density|Energy density]]
+#[[Physics Study Guide/Real liquids|Real liquids]]
+#[[Physics Study Guide/Sheer thickening and thinning fluids|Sheer thickening and thinning fluids]]
+
+{{BookCat}}</text>
+      <sha1>2p0hlb4zewr5bgu6qv9khlszb5mh34u</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Korean</title>
+    <ns>0</ns>
+    <id>3515</id>
+    <revision>
+      <id>2685761</id>
+      <parentid>2680928</parentid>
+      <timestamp>2014-07-29T23:21:36Z</timestamp>
+      <contributor>
+        <username>Mahir256</username>
+        <id>412320</id>
+      </contributor>
+      <comment>Undid revision 2613535 by [[Special:Contributions/Spharms|Spharms]] ([[User talk:Spharms|discuss]]) awkward</comment>
+      <text xml:space="preserve">{{status|75%}}
+{{:Korean/Navigation panel}}
+{{Category 3}}
+{{Wikipedia|Korean Language}}
+{{Wiktionary|Category:Korean language}}
+
+
+Welcome to the '''Korean''' Wikibook, a free textbook for learning Korean.
+
+&lt;font color=&quot;#cc0000&quot;&gt;'''''Note:'''''&lt;/font&gt; To use this book, your web browser must first be configured to display Korean ([[w:Hangul|''Hangeul'']]) characters. Check the two boxes below:
+{| border=&quot;1&quot; cellspacing=&quot;0&quot; cellpadding=&quot;6&quot; align=&quot;center&quot;
+| style=&quot;background-color:#eeeeee;&quot; | ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅎ
+| style=&quot;background-color:#eeeeee;&quot; | 안녕하세요
+
+|}
+The boxes show [[w:Hangul|''Hangeul'']] characters and [[w:Hangul#Jamo|''jamo'']]. If symbols appear as blank boxes, garbage, or question marks (?), your computer or web browser needs to be [[w:Korean language and computers|configured for the Korean language]].
+
+==Introduction==
+
+'''Korean''' is the official [[language]] of both the [[w:North Korea|Democratic People's Republic of Korea]] (North Korea) and the [[w:South Korea|Republic of Korea]] (South Korea). It is also one of the two official languages in the [[w:Yanbian Korean Autonomous Prefecture|Yanbian Korean Autonomous Prefecture]].  Worldwide, there are about 80 million Korean speakers, most of which (outside Korea) live in China, Japan or the United States, but they also represent sizable minorities in Russia (esp. Far East and Sakhalinsk), New Zealand, Kazakhstan, Canada, Uzbekistan and Australia.
+
+In the Republic of Korea, the language is most often called [[wikt:한국말|한국말]] (''Han-gung-mal''), or more formally, [[wikt:한국어|한국어]] (''Han-gug-eo'') or [[wikt:국어|국어]] (''Gug-eo''; literally &quot;national language&quot;).  In North Korea and Yanbian, the language is most often called [[wikt:조선말|조선말]] (''Chosŏnmal''), or more formally, [[wikt:조선어|조선어]] (''Chosŏnŏ'').
+
+Experts are still not completely sure of the origins of the Korean language, although it is generally believed to come from the [[w:Altaic languages|Altaic language tree]].  It is an [[w:Agglutinative language|agglutinative language]], so it has some certain special characteristics that are unlike English.  A student of Chinese languages will quickly notice that Korean shares much of their vocabulary, while a Japanese student will also notice similarities in grammar and vocabulary.
+
+Feel free to use [[wikt:Category:Korean language|English Wiktionary's '''Korean language''' Category]] as a reference for these courses.  New students to this type of language may initially progress slowly, but as study progresses, previously unfamiliar aspects of Korean will begin to make sense and new concepts will be more easily learned.  Korean grammar is complex but surprisingly also very simple, and always very fun to learn.
+
+==Reading and writing==
+*[[Korean/Alphabet|Alphabet Introduction]]
+*[[Korean/RWP|Learn to read, write and pronounce Korean (course)]]
+*[[/Principles of Orthography/]]
+*[[/Essential Pronunciation Rules/]]
+*[[/Advanced Pronunciation Rules/]]
+*[[/Mini-tutorial Lesson/]]
+*[[/Getting started on Hanjas/]]
+
+==Grammar==
+{|
+|- valign=&quot;top&quot;
+|
+*[[Korean/Grammar Introduction|Introduction to Korean Grammar]]
+*[[Korean/Personal pronouns|Personal pronouns]]
+*[[Korean/Demonstrative pronouns|Demonstrative pronouns]]
+*[[Korean/Adjectives|Adjectives]]
+*[[Korean/Verbs|Verbs]]
+*[[Korean/Articles and qualifiers|Articles &amp; qualifiers]]
+|
+*[[Korean/Conjunctions|Conjunctions]]
+*[[Korean/Particles|Particles]]
+*[[Korean/Sentence word order|Sentence word order]]
+*[[Korean/Comparatives and superlatives|Comparatives &amp; superlatives]]
+*[[Korean/Questions|Forming questions]]
+*[[Korean/Commands|Forming commands]]
+*[[Korean/Dates and times|Forming dates &amp; times]]
+|}
+
+==Vocabulary==
+*[[Korean/Expert Hanja|Expert Hanja]] Hanja Terms for Expert Level Learners
+*[[Korean/Expert|Expert]] Terms for Expert Level Learners
+
+==Conversation==
+{|
+|- valign=&quot;top&quot;
+|
+===1단계 (LEVEL I): Beginner===
+
+*[[Korean/Lesson I1|1. Greeting]]
+*: 안녕 (informal)
+*: 안녕하세요? (general)
+*: 안녕하십니까? (formal)
+*[[Korean/Lesson I2|2. Forming sentences]]
+*: 저는 대학생입니다.
+*[[Korean/Lesson I3|3. Connective Particles and Forms]]
+*: -고, -거나, -지만
+*[[Korean/Lesson I4|4. Colors / Shopping]]
+*: 파랑, 빨강, 노랑
+*[[Korean/Lesson I5|5. In a taxi / Distance and Time]] 
+*: 택시 / 거리와 시간
+*[[Korean/Lesson I6|6. Family]]
+*: 가족
+*[[Korean/Lesson I7|7. Around the house]]
+*: 집안
+*[[Korean/Lesson I8|8. The workplace / Using the telephone]]
+*: 직장
+*[[Korean/Lesson I9|9. School]]
+*: 학교
+*[[Korean/Lesson I10|10. Onomatopoeia]]
+*: 의성어
+|
+
+===2단계 (LEVEL II): High beginner===
+
+*[[Korean/Lesson II1|1. Sports]]
+*: 운동
+*[[Korean/Lesson II2|2. Jobs]]
+*: 직업
+*[[Korean/Lesson II3|3. Downtown]]
+*: 도심
+*[[Korean/Lesson II4|4. Public transportation]]
+*: 대중교통
+*[[Korean/Lesson II5|5. At the hotel]]
+*: 호텔에서
+*[[Korean/Lesson II6|6. At the library]]
+*: 도서관에서
+*[[Korean/Lesson II7|7. At the farm]]
+*: 시골에서
+*[[Korean/Lesson II8|8. Medical care]]
+*: 병원에서
+*[[Korean/Lesson II9|9. The Weather]]
+*: 날씨
+*[[Korean/Lesson II10|10. At the Theater]]
+*: 영화관에서
+
+|- valign=&quot;top&quot;
+|
+
+===3단계 (LEVEL III): Low intermediate===
+
+*[[Korean/Lesson III1|1. The human body]]
+*: 인간의 몸
+*[[Korean/Lesson III2|2. Religion]]
+*: 종교
+*[[Korean/Lesson III3|3. Nature]]
+*: 자연
+*[[Korean/Lesson III4|4. The universe]]
+*: 우주
+*[[Korean/Lesson III5|5. Reading a book]]
+*: 책 읽기
+*[[Korean/Lesson III6|6. How much do you love me?]]
+*: 날 얼마나 사랑해?
+*[[Korean/Lesson III7|7. Using computers]]
+*: 컴퓨터 사용하기
+*[[Korean/Lesson III8|제8과]]
+*[[Korean/Lesson III9|제9과]]
+*[[Korean/Lesson III10|제10과]]
+|
+
+===4단계 (LEVEL IV): High intermediate===
+*[[Korean/Lesson IV1|제1과]]
+*[[Korean/Lesson IV2|제2과]]
+*[[Korean/Lesson IV3|제3과]]
+*[[Korean/Lesson IV4|제4과]]
+*[[Korean/Lesson IV5|제5과]]
+*[[Korean/Lesson IV6|제6과]]
+*[[Korean/Lesson IV7|제7과]]
+*[[Korean/Lesson IV8|제8과]]
+*[[Korean/Lesson IV9|제9과]]
+*[[Korean/Lesson IV10|제10과]]
+
+|-valign=&quot;top&quot;
+|
+
+===5단계 (LEVEL V): Low advanced===
+*[[Korean/Lesson V1|제1과]]
+*[[Korean/Lesson V2|제2과]]
+*[[Korean/Lesson V3|제3과]]
+*[[Korean/Lesson V4|제4과]]
+*[[Korean/Lesson V5|제5과]]
+*[[Korean/Lesson V6|제6과]]
+*[[Korean/Lesson V7|제7과]]
+*[[Korean/Lesson V8|제8과]]
+*[[Korean/Lesson V9|제9과]]
+*[[Korean/Lesson V10|제10과]]
+|
+===6단계 (LEVEL VI): Advanced===
+*[[Korean/Lesson VI1|제1과: 마침 제 친구가 전화했기에 망정이지 그렇지 않았으면 비행기를 놓칠 뻔했어요.]]
+*[[Korean/Lesson VI2|제2과]]
+*[[Korean/Lesson VI3|제3과]]
+*[[Korean/Lesson VI4|제4과]]
+*[[Korean/Lesson VI5|제5과]]
+*[[Korean/Lesson VI6|제6과]]
+*[[Korean/Lesson VI7|제7과]]
+*[[Korean/Lesson VI8|제8과]]
+*[[Korean/Lesson VI9|제9과]]
+*[[Korean/Lesson VI10|제10과]]
+|}
+
+==External Links==
+
+{{dynamic navigation
+|title=External links
+|body=
+*[http://ryanestradadotcom.tumblr.com/post/20461267965 Learn Korean in 15 minutes comic]
+*[http://language.snu.ac.kr/site/en/klec/click-korean/index.jsp Basic Online Korean course]
+*[[:ko:한국어 입문|Learning Korean in Korean (Wikibooks)]]
+*[http://www.koreanclass101.com/ Free Korean Language Podcast]
+*[http://www.bridgeport.edu/Indexhtml/Centers/Disted/crsmaterials/korn101/ Korean Language Institute]
+*[http://learnkorean.elanguageschool.net Learn Korean with Free Lessons]
+*[http://www.101language.com/freelessons-korean.html#free Overview of courses on the internet]
+*[http://fsi-language-courses.com/Korean.aspx FSI-Korean online]
+*[http://www.linguanaut.com/english_korean Korean phrases online]
+*[http://korean.sogang.ac.kr/ Sogang University Online Korean Course]
+*[http://www.korean-course.com/ Korean Course (free)]
+*[http://www.cours-coreen.fr/ Cours de Coreen]
+*[http://www.coree.fr.cr/ Course and korean dictionnary]
+}}
+
+==About this Book==
+
+===About the Authors===
+
+*[[Korean/Authors|Authors]]
+
+{{:Korean/Navigation panel}}
+
+{{Subjects|Korean language}}
+{{alphabetical|K}}
+[[de:Koreanisch]]
+[[fr:Coréen]]
+[[ko:한국어 입문]]
+[[ja:朝鮮語]]
+[[pl:Koreański]]
+[[th:ภาษาเกาหลี]]
+[[zh:韩语]]</text>
+      <sha1>k1scw3mf6jp0qtso2qixbx1mhrfzvzu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:How to Write an Essay/Free Response</title>
+    <ns>1</ns>
+    <id>3517</id>
+    <revision>
+      <id>1624514</id>
+      <parentid>755701</parentid>
+      <timestamp>2009-09-04T18:20:58Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>moved [[Talk:How to write an essay/Free Response]] to [[Talk:How to Write an Essay/Free Response]]: Title casing.</comment>
+      <text xml:space="preserve">Dear Pingvo,
+
+Here are some of my perspectives on Free Response.
+
+I'm not American, but many things of this type are done all over the world.
+
+When you had the question/cue: &quot;A person's identity is shaped at birth&quot;,
+
+a usual and useful point to the breakdown is looking at the key words.
+
+This would be &quot;identity&quot; (the thing belonging to the person. Identity can be things that are similar to other people, as well as the things that make us different, individual or unique)
+&quot;shaped&quot; (the concept that is being created or changed, or sometimes destroyed)
+and &quot;birth&quot; (literally, the time when we are all brought into earth, sometimes it can have connotations of a 'spiritual' or 'emotional' birth, particularly when we are looking at literary texts).
+
+It's good to do this kind of discursive analysis. It alone can suggest many directions for the burgeoning essay, though often this is not enough. You have to look at the essay question/cue as a whole thing, that it COMMUNICATES as a question, and is ASKING you something vitally important. It then allows you to COMMUNICATE and EXPRESS many things.
+
+A good philosophical way to go about it is &quot;What if [it were true/not true] that a person's identity [or other thing that stands in its stead] is shaped [what else happens if it's shaped 'the wrong way', or not at all] at birth?&quot; That means essentially reversing the propsition, or subverting it, or considering other possibilities. It's a free response after all! You can do that!
+
+Also free responses are written in certain genres (types of written work that has certain conventions of form and content). Where I study there is a unit of English known as a &quot;Writing Folio&quot;. This basically contains all our non-text work. Another important part of our non-text work is where we look critically at things in the media and that's usually called Issues. It's on a current media text.
+
+A free response can be any of these:
+* A document suited to the workplace like a letter, memorandum, letter or e-mail, or a report
+* A fictional narrative or other extended personal/imaginative piece
+* A non-fictional piece intended to convey complex or technical information
+* A report of an investigation, presented in journalistic style
+* A biographical/autobiographical account
+* A poem/short fictional piece (like a short story)
+* A reflection on an issue dealt with in one or more texts
+(Which sounds very much like what you've been doing)
+* and a piece intended to present a point of view persuasively.
+
+Some of these have VERY DEFINITE how-tos, some of them have great flexibility and others are free for all. Generally the free-for-alls are NOT recommended by teachers. We are told, for example, that poetry loses us marks because it's hard to do.
+
+I notice that in your piece you use several openers and closers, and you put it into four pretty standard paragraphs: an introduction, two paragraphs of argument or discourse and a conclusion. You seem to be commenting about what it means for the plot, the character and the theme; as well as what it means for us out there in the wider world. Nearly all texts comment on something, and it's important for students to show an understanding of this, particularly as they get into more advanced grade/year levels.
+
+The structure of writing is very important as it makes it easier to tell someone what you're going to say. Academic writing has a very strong structure, which is indicated by words and phrases and where they are. If you know these words and phrases, and how to use them appropriately and fluently, then you're halfway there to good academic writing. Ideas, of course, are the other half. They indicate the levels of a text.
+
+Also it's very important to have the sense of authorship, and readership. You must know your audience, purpose and form. In an examination, or in an assessment task for class, you write for a mature and educated readership. Most texts are written for that readership, but the people who assess your exams are a small part of that readership in real life. So focus on them only to the extent that promotes good scholarship and academic truth and freedom. This neccestates original ideas, and thatyou can respond to a situation. So many many examiners complain of trite and regurgitated ideas and structure. This can be corrected by many references to the author and his/her intentions (many text questions do ask about these, directly or indirectly), and how the reader feels/responds/thinks. Many times this reader will be a 'general' or 'ideal' reader, and when or if you encounter post-modernist ideas, there is the idea of many readers and meanings and texts. In post-modernism, we create the text ourselves from the raw material and information we are given, so there's no general or ideal reader as such. Or if there is, it's one who actively engages with the text.
+
+Perhaps most important in a &quot;Free Response&quot;, after you have conformed thus to the requirements, is the ability to 'freestyle' or 'improvise'. Of course you must give your reader some idea of where they are heading. I can't very well go into your head and see any freestyling or improvising, but they mark the top students and the top writers. Top writers aren't always top students, as I'm sure you can appreciate! But they can be, they can be!
+
+----
+Ah, thanks for the post. I should probably do some more looking around at other websites talking about AP writing. BTW, I'm not very far into the AP program, having only taken it for a couple of months before I read this essay.
+
+I should probably start with the stricter types of essays (DBQ, etc.). Also, it would be great if a better writer sent in an essay to use. It looks like this will be quite a project, as well as very interesting. ;-) - [[User:Pingveno|Pingveno]] 23:34, 15 Feb 2004 (UTC)</text>
+      <sha1>3f3p4fvantt5x0cisz842dacfrfz7am</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:161.148.96.161</title>
+    <ns>3</ns>
+    <id>3527</id>
+    <revision>
+      <id>155425</id>
+      <timestamp>2004-01-02T18:01:10Z</timestamp>
+      <contributor>
+        <username>Karl Wick</username>
+        <id>6</id>
+      </contributor>
+      <comment>keep up the nice work and contact me for questions</comment>
+      <text xml:space="preserve">Hello, some nice work you are doing there. Just want to make sure that you yourself wrote the material, or it is releasable under a copyleft license like this site uses .. Thanks, --[[User:Karl Wick|Karl Wick]]</text>
+      <sha1>quec2updu33x151jw3tbazs2yz35qpv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Interlingua/Basic Interlingua English Dictionary</title>
+    <ns>0</ns>
+    <id>3533</id>
+    <revision>
+      <id>2609446</id>
+      <parentid>2609443</parentid>
+      <timestamp>2014-02-16T06:12:06Z</timestamp>
+      <contributor>
+        <username>Jondel</username>
+        <id>3216</id>
+      </contributor>
+      <comment>/* S */</comment>
+      <text xml:space="preserve">(Books on [[Interlingua]])
+
+{{TOCright}}
+
+== A ==
+
+* '''a''' to; at; in
+* '''ab''' from, since
+* '''[ad]''' to; at (= '''a''')
+* '''accender''' to light
+* '''adjutar''' to help
+* '''ager''' to act, do
+* '''al''' contraction of '''a''' + '''le'''
+* '''[alco]''' anything, something (= '''alique''')
+* '''[alcun]''' any, some (= '''alicun''')
+* '''alicubi''' '''(-ícubi)''' anywhere, somewhere
+* '''alicun''' any, some
+* '''alique''' '''(ál-)''' anything, something
+* '''[alora]''' then (= '''tunc''')
+* '''[alsi]''' '''(-í)''' also, too (= '''etiam''')
+* '''alte''' high
+* '''altere''' '''(ál-)''' other
+* '''amar''' to like, love
+* '''ambe''' both
+* '''amico''' friend
+* '''[an]''' used to introduce a question; if, whether
+* '''[ancora]''' still, yet
+* '''anglese''' English
+* '''anniversario''' anniversary, birthday
+* '''anno''' year
+* '''[anque]''' '''(ánke)''' also, as well, too (= '''etiam''')
+* '''ante''' before (prep.)
+* '''[antea]''' previously (= '''ante''')
+* '''aperir''' to open
+* '''apparer '''to appear
+* '''appellar''' to call
+* '''appertiner''' to belong
+* '''apportar''' to bring
+* '''apprender''' to learn
+* '''apud''' '''(á-)''' by, near
+* '''arbore''' '''(ár-)''' tree
+* '''arder''' to burn
+* '''argento''' silver
+* '''ascoltar''' to listen to
+* '''assatis''' '''(-sá-)''' rather
+* '''assecurar''' to assure, insure
+* '''[assi]''' '''(-sí)''' so, thus (= '''si''')
+* '''attacar''' attack
+* '''attender''' to wait for
+* '''attinger''' to attain, reach
+* '''attraher''' to attract
+* '''audir''' to hear
+* '''augmentar''' to increase
+* '''aure''' ear
+* '''auro''' gold
+* '''avante''' before
+* '''ave''' bird
+* '''avion''' aeroplane
+
+== B ==
+
+* '''basse''' low
+* '''bastante''' enough; quite
+* '''batter''' to beat, hit
+* '''belle''' beautiful
+* '''ben''' well
+** '''ben que''' although
+* '''besonio''' need
+* '''biber''' to drink
+* '''billet''' ticket
+* '''bira''' beer
+* '''bon''' good
+* '''boteca''' shop
+* '''brachio''' arm
+* '''bracio''' arm; brace
+* '''breve''' short
+* '''bucca''' mouth
+* '''bureau''' office
+
+== C ==
+
+* '''caciar''' to hunt
+* '''cader''' to fall
+* '''calide''' '''(cá-)''' hot
+* '''cambiar''' to change
+* '''camera''' '''(cá-)''' room
+* '''campo''' field
+* '''capace''' able, capable
+* '''caper''' o '''sasir''' grasp or hold
+* '''capillos''' hair
+* '''capite''' '''(cá-)''' head
+* '''car''' dear; expensive
+* '''casa''' house
+* '''caso''' case
+* '''cata''' each, every
+** '''cata uno''' each (one)
+* '''causa''' cause
+** '''a causa de''' because of
+* '''celar''' to hide
+* '''celo''' sky, heaven
+* '''cento''' hundred
+* '''cercar''' to look for
+* '''certe''' certain
+* '''cessar''' to stop
+* '''[ci]''' here (= '''hic''')
+* '''cinque''' five
+* '''circa''' about
+* '''[circum]''' about (= '''circa''')
+* '''citate''' city, town
+* '''clauder''' to close
+* '''cognoscer '''to know
+* '''colliger''' gather
+* '''collo''' neck
+* '''comenciar''' to begin
+* '''como''' as; how; like
+* '''comprar''' to buy
+* '''comprender''' to understand
+* '''con''' with
+* '''contar''' count
+* '''continer''' to contain
+* '''convenir''' to suit
+* '''coperir''' to cover
+* '''corde''' heart
+* '''corpore''' ('''cór-''') body
+* '''cosa''' thing
+* '''costar''' cost
+* '''creder''' to believe
+* '''crescer''' to grow
+* '''[cuje]''' whose
+* '''currer''' to run
+* '''curte''' short
+* '''cute''' skin
+
+== D ==
+
+* '''dar''' to give
+* '''de''' from; of
+* '''deber '''to have to, must, ought; duty
+* '''debile''' '''(dé-)''' weak
+* '''dece''' ten
+* '''del''' contraction of '''de''' + '''le'''
+* '''deman''' tomorrow
+* '''demandar''' to ask
+* '''dente''' tooth
+* '''depost''' afterwards, since
+* '''derecto''' right
+* '''[desde]''' afterwards, since
+* '''[detra]''' behind
+* '''devenir''' to become
+* '''dextere''' '''(déks-)''' right
+* '''dicer''' to say, tell
+* '''die''' day
+* '''difficile''' '''(-fí-)''' difficult
+* '''digito''' '''(dí-)''' finger
+* '''dimension''' size
+* '''disparer''' to disappear
+* '''dolor''' pain
+* '''dono''' gift
+* '''dormir''' to sleep
+* '''dubita''' '''(dú-)''' doubt
+* '''ducer''' to lead
+* '''dum''' while
+* '''[dunque]''' therefore
+* '''duo''' two
+* '''dur''' hard
+* '''durante''' during
+** '''durante que''' while
+
+== E ==
+
+* '''e''' and
+* '''ecce''' here is (are), behold
+* '''effortiar se''' to make an effort
+* '''emer''' to buy
+* '''[era]''' was, were, used to be (= '''esseva''')
+* '''era''' era
+* '''es''' am, is, are
+* '''[esque]''' '''(éske)''' used to introduce a question
+* '''esser''' to be
+* '''esseva''' was, were, used to be
+* '''estate''' summer
+* '''estranie''' strange
+* '''estranier '''foreign
+* '''etate''' age
+* '''etiam''' '''(é-)''' also, as well, too
+* '''evenir''' to happen
+* '''ex''' from, out of
+* '''exactemente''' exactly
+* '''exopere''' strike,hunger strike(='''exopero de fame''') , worker strike(='''exopero de empleos''')
+* '''expensive''' expensive
+* '''exprimer (se)''' to express (oneself)
+* '''extra''' besides, outside
+
+== F ==
+
+* '''facer''' to do, make
+* '''facie''' face
+* '''facile''' '''(fá-)''' easy
+* '''facto''' deed, fact
+* '''familia''' family
+* '''fatigate''' tired
+* '''favor''' favor
+** '''per favor''' please
+* '''felice''' happy
+* '''femina''' '''(fé-)''' woman
+* '''ferir''' hit, wound
+* '''filia''' daughter
+* '''filio''' son
+* '''fin '''end
+** '''a fin de''' in order to
+** '''a fin que''' in order that
+** '''in fin''' in short
+* '''finir''' to finish
+* '''foco''' fire
+* '''folio''' leaf
+* '''foras''' outside
+* '''foris''' outside
+* '''forsan''' '''(fór-)''' perhaps
+* '''forte''' strong
+* '''fortiar''' to force
+* '''fratre''' brother
+* '''frigide''' '''(frí-)''' cold
+* '''fundar''' to found
+* '''fundo''' bottom 
+
+== G ==
+
+* '''gamba''' leg
+* '''gambon''' ham
+* '''ganiar''' to gain, win
+* '''gauder''' to be glad
+* '''gaudio''' joy, happiness
+* '''gelato''' ice cream
+* '''german''' German (adj.)
+* '''gorga''' throat
+* '''grande''' big, great, large
+* '''grate''' grateful
+* '''gratias''' thank you
+
+== H ==
+
+* '''ha''' has, have
+* '''haber''' to have
+* '''hastar''' to hurry
+* '''heri''' yesterday
+* '''hiberno''' winter
+* '''hic''' here
+* '''hodie''' today
+* '''homine''' '''(hó-)''' man
+* '''hora''' hour; o'clock
+* '''humero''' '''(hú-)''' shoulder 
+
+== I ==
+
+* '''ibi''' there
+* '''il''' it; there
+** '''il ha''' there is, are
+* '''illa''' she, her
+* '''illac''' there
+* '''illas''' they, them (fem.)
+* '''ille''' he, him
+* '''illes''' they, them (masc.)
+* '''illo''' it; that
+* '''illos''' they, them (neutr.)
+* '''impedir''' to hinder
+* '''imprimer''' to print
+* '''in''' in, into
+* '''incontrar''' to meet
+* '''infante''' child
+* '''infra''' below
+* '''inseniar''' to teach
+* '''insimul''' '''(-sí-)''' together
+* '''integre''' '''(ín-)''' whole
+* '''inter''' among, between
+* '''interim''' meanwhile
+* '''intertanto''' meanwhile
+* '''intra''' within
+* '''inviar''' to send
+* '''ipse''' -self
+* '''iste''' this, these (adj.)
+* '''isto''' this (pron.) 
+
+== J ==
+
+* '''[ja]''' already, at once (= '''jam''')
+* '''jacer''' to lie
+* '''jam''' = already, at once
+* '''jammais''' ever
+* '''jectar''' to throw
+* '''jentaculo''' '''(-tá-)''' breakfast
+* '''jocar''' to play
+* '''junger''' to join
+* '''juvene''' '''(jú-)''' young
+* '''juxta '''next to 
+
+== L ==
+
+* '''la''' her, it
+* '''[la]''' there (= '''illac''')
+* '''labio''' lip
+* '''lacrima''' '''(lá-)''' tear
+* '''large''' broad, wide
+* '''las''' them (fem.)
+* '''lassar''' to leave, let
+* '''latere''' '''(lá-)''' side
+* '''lavar''' to wash
+* '''le''' the; him, it
+* '''leger''' to read
+* '''legier''' '''(-jér)''' light (adj.)
+* '''lente''' slow
+* '''les''' them (masc.)
+* '''levar''' to lift
+* '''leve''' left (adj.)
+* '''libere''' '''(lí-)''' free
+* '''libro''' book
+* '''lingua''' tongue; language
+* '''littera''' '''(lí-)''' letter
+* '''lo''' it
+** '''lo que''' what, which
+* '''loco''' place
+* '''longe''' long
+* '''[lontan] distant
+* '''lor''' their
+* '''los''' them (neut.)
+* '''lumine''' '''(lú-)''' light 
+
+== M ==
+
+* '''[ma]''' but (= '''mais''')
+* '''mais''' but
+* '''major '''greater
+* '''mal''' bad; badly
+* '''malgrado''' in spite of
+* '''mancar''' to lack, be missing
+* '''mangiar''' '''(-jár)''' to eat
+* '''maniera''' manner
+** '''de maniera que''' so that
+* '''mano''' hand
+* '''mar''' sea
+* '''marita''' wife
+* '''marito''' husband
+* '''matino''' morning
+* '''matre''' mother
+* '''me''' me
+* '''medie''' half
+* '''mediedie''' '''(-díe)''' midday
+* '''melio''' better (adv.)
+* '''melior''' better (adj.)
+* '''mense '''month
+* '''mente''' mind
+* '''mentionar''' to mention
+* '''mesme''' same; -self
+* '''mesmo''' even
+* '''mi''' my
+* '''micre''' tiny
+* '''minor''' smaller
+* '''minus''' '''(mí-)''' less, minus
+** '''a minus que''' unless
+** '''al minus''' at least
+* '''mitter''' to put
+* '''molle''' soft
+* '''moneta''' coin, money
+* '''monstrar''' to show
+* '''morir''' to die
+* '''mover''' to move
+* '''multe''' many, much
+* '''multo''' very; very much
+* '''mundo''' world 
+
+== N ==
+
+* '''nam''' because
+* '''nascer''' to be born
+* '''naso''' nose
+* '''natar''' swim, float
+* '''[necun]''' no, none, not any (= '''nulle''')
+* '''[necuno]''' nobody (= '''nemo''')
+* '''nemo''' nobody
+* '''nette''' clean
+* '''ni''' neither, nor
+* '''nihil''' nothing
+* '''nimie''' too many, too much
+* '''no''' no
+* '''nocte''' night
+* '''nomine''' '''(nó-)''' name
+* '''non''' not
+** '''il non importa que/tan''' no matter what/how
+* '''nondum''' '''(nón-)''' not yet
+* '''nonne?''' is it (not)?
+* '''nonobstante''' nevertheless
+* '''nos''' we, us
+* '''nostre''' our
+* '''nove''' new; nine
+** '''de nove''' again
+* '''novem''' '''(nó-)''' nine
+* '''nulle''' no, none
+* '''nunc''' now
+* '''nunquam''' '''(nún-)''' never
+
+== O ==
+
+* '''o''' either, or
+* '''oblidar''' to forget
+* '''obra''' work
+* '''obtener''' to obtain, to get
+* '''occurrer''' to happen
+* '''octo''' eight
+* '''oculo''' '''(ó-)''' eye
+* '''omne''' all, every
+* '''[on]''' one, you, they, people (= '''uno''')
+* '''[ora]''' now (= '''nunc''')
+* '''osso''' bone
+
+== P ==
+
+* '''pagar''' to pay
+* '''pan''' bread
+* '''pais''' '''(-ís)''' country
+* '''parer''' to appear, seem
+* '''parlar''' to speak
+* '''parola''' word
+* '''partir''' to leave
+* '''parve''' small
+* '''passato''' past (noun)
+* '''patata''' potato
+* '''patre''' father
+* '''pauc '''few
+* '''pauco''' a little
+* '''paupere''' '''(páu-)''' poor
+* '''pausa''' guideline
+* '''pecia''' piece
+* '''pectore''' '''(péc-)''' breast
+* '''pede '''foot
+* '''pejo''' worse (adv.)
+* '''pejor''' worse (adj.)
+* '''pena''' difficulty
+** '''a pena''' hardly, scarcely
+* '''pensar''' to think
+* '''per''' by, through
+* '''perder''' to lose
+* '''periculo''' '''(-rí-)''' danger
+* '''perque''' '''(perké)''' because; why
+* '''pertiner''' to belong
+* '''pesante''' heavy
+* '''peter''' to ask
+* '''petra''' stone
+* '''placer''' to please; pleasure
+* '''plen''' full
+* '''plure''' several
+* '''plus''' more; plus
+** '''al plus''' at the most
+** '''de plus''' besides, moreover
+** '''in plus''' furthermore
+* '''poc''' = '''pauc'''
+* '''poco''' = '''pauco'''
+* '''pois''' afterwards; for
+** '''pois que''' since, because
+* '''poner''' to put
+* '''populo''' '''(pó-)''' people
+* '''porta''' door
+* '''portar '''to carry
+* '''post''' after, behind
+* '''postea''' afterwards
+* '''postmeridie''' afternoon
+* '''poter''' to be able, can; power
+* '''povre''' poor
+* '''precio''' price; prize
+* '''prender''' to take, hold of, catch or seize
+* '''presso''' near (adv.)
+** '''presso a''' near (prep.)
+* '''preste''' quick, ready
+* '''presto''' immediately; quickly
+* '''preter''' '''(pré-)''' beyond, besides
+* '''prime''' first
+* '''pro''' for; in order to
+* '''probar''' to prove, test
+* '''prohibir''' forbid
+* '''promitter''' to promise
+* '''proponer''' to suggest
+* '''proprie''' own
+* '''proque''' '''(proké)''' because; why
+* '''protruder''' to protrude:'''(protrusion)''' protrusion
+* '''proxime''' '''(pró-)''' next
+* '''puera''' '''(pú-)''' girl
+* '''puero''' '''(pú-)''' boy
+* '''pulsar''' to push
+
+== Q ==
+
+* '''[qua]''' like, as
+* '''qual''' what, which
+* '''qualque''' '''(quálke)''' some
+* '''quando '''when
+* '''quante '''how many, how much
+* '''quanto''' as much as; how much
+** '''quanto a''' as for
+* '''quasi''' almost
+* '''quatro''' four
+* '''que''' that; what; than; whom
+* '''qui''' who
+* '''quo''' where (to...)
+
+== R ==
+
+* '''rapide''' '''(rá-)''' quick
+* '''ration''' reason
+* '''[re]''' about
+* '''recercar''' search
+* '''reciper''' to receive
+* '''rege''' king
+* '''regina''' queen
+* '''regno''' kingdom
+* '''regratiar '''to thank
+* '''regrettar''' to regret
+* '''reguardar''' to look at
+* '''remaner''' to remain, stay
+* '''repasto''' meal
+* '''repeter''' to repeat
+* '''responder''' to answer
+* '''restaurante''' restaurant
+* '''restar''' to remain, stay
+* '''retornar''' to come back
+* '''retro''' back; ago
+* '''revenir''' to come back
+* '''ric''' rich
+* '''rota''' wheel 
+
+== S ==
+
+* '''salutar''' to say hello to
+* '''salvo''' but for
+* '''san''' healthy
+* '''sanguine''' '''(sán-)''' blood
+* '''saper''' to know
+** '''a saper''' namely
+* '''sasir''' o '''caper''' grasp or hold
+* '''satis''' '''(sá-)''' enough; fairly, quite
+* '''scriber''' to write
+* '''se''' her-, him-, it-, oneself, themselves
+* '''seculo''' '''(sé-)''' century
+* '''secundo''' along; according to
+* '''secur''' secure; sure
+* '''sed''' but
+* '''seder''' to sit
+* '''seliger''' choose
+* '''semper''' always
+* '''[sempre]''' always (= '''semper''')
+* '''senior''' Mr., sir
+* '''seniora''' Mrs., lady
+* '''senioretta''' Miss
+* '''sentir''' to feel
+* '''septe''' seven
+* '''septimana''' week
+* '''sequer''' to follow
+* '''[sera]''' '''(-rá)''' will be (= '''essera''')
+* '''servitor''' waiter, servant
+* '''sex''' six
+* '''si''' yes; if; as; so
+* '''sia''' be; whether, or
+* '''simile''' '''(sí-)''' similar
+* '''sin '''without
+* '''sinistre''' left
+* '''sino''' bosom
+* '''sol''' alone, single, sole; sun
+* '''solmente''' only
+* '''solo''' only; solo; soil, floor
+* '''[son]''' are (= '''es''')
+* '''soror''' sister
+* '''sortar''' sort  (= kind, class); 
+** '''de sorta que''' so that
+* '''sortir''' to go out, to come out
+* '''[sovente]''' often (= '''subinde''')
+* '''speculo''' '''(spé-)''' mirror
+* '''sperar''' to hope
+* '''stadio''' stadium; stage (of development)
+* '''star''' to stand
+* '''stomacho''' '''(stó-)''' stomach
+* '''stoppar''' to stop
+* '''strata''' street
+* '''su''' her, his, its, one's
+* '''sub''' under
+* '''subite''' '''(sú-)''' sudden
+* '''sud''' south
+* '''suggerer''' suggest
+* '''super''' '''(sú-)''' above, on, over
+* '''suppa''' soup
+* '''supponer''' to suppose
+* '''supra''' above
+* '''[sur]''' above, on, over (= '''super''')
+
+== T ==
+
+* '''tabula''' '''(tá-)''' table
+* '''tacer''' to be silent
+* '''tal''' such
+* '''[tamen]''' '''(tá-)''' however, yet (= '''totevia''')
+* '''tante''' so many, so much
+* '''tanto '''as; so; so much
+** '''in tanto que''' inasmuch as
+* '''tarde''' late
+* '''tassa''' cup
+* '''te''' you (obj.)
+* '''tempore''' '''(tém-)''' time; weather
+* '''terra''' earth
+* '''testa''' head
+* '''tener''' to hold, keep
+* '''timer''' to be afraid of
+* '''tirar '''to pull, to shoot
+* '''toccar''' to touch
+* '''tornar''' to turn
+* '''tosto''' early, soon
+** '''plus tosto''' rather
+* '''tote''' all, every
+* '''totevia''' '''(-ía)''' nevertheless
+* '''toto''' all, everything
+** '''non del toto''' not at all
+* '''tractar''' to deal with
+* '''traducer '''to translate
+* '''traher''' to drag, draw
+* '''tranquille''' calm, quiet
+* '''traino''' train
+* '''trans''' across, beyond
+* '''travaliar '''to work
+* '''tres''' three
+* '''[troppo]''' too, too much
+* '''trovar '''to find
+* '''tu''' you; your
+* '''[tum]''' then
+* '''tunc''' then
+
+== U ==
+
+* '''ubi''' where
+* '''ubique''' everywhere
+* '''ulle''' any, some
+* '''ultime''' '''(úl-)''' last
+* '''ultra''' beyond; besides
+* '''un''' a, an; one
+* '''unquam''' '''(ún-)''' ever
+* '''urbe''' town
+* '''usar''' to use
+* '''usque''' as far as, until
+* '''utile''' '''(ú-)''' useful
+
+== V ==
+
+* '''va''' go(es), am/is/are going
+* '''vacue''' empty
+* '''vader''' to go
+* '''varie''' various
+* '''vender''' to sell
+* '''ventre''' stomach
+* '''venir''' to come
+* '''ver''' true
+* '''verso''' towards
+* '''vespere''' '''(vés-)''' evening
+* '''vetere''' '''(vé-)''' old
+* '''vetule''' '''(vé-)''' old
+* '''via''' away; road, way
+* '''viagiar''' '''(-jár)''' to travel
+* '''vice''' time; turn
+** '''a vices''' at times
+** '''in vice de''' instead of
+* '''vider''' to see
+* '''vino'''  wine
+* '''visage''' '''(-áje)''' face
+* '''visitar''' to visit
+* '''vista''' sight, view
+* '''viste''' considering
+* '''vita''' life
+* '''vitro''' glass
+* '''viver''' to live
+* '''voce''' voice
+* '''volar''' to fly
+* '''voler''' to want, wish
+* '''vos''' you
+* '''vostre''' your
+
+== W ==
+
+* '''west''' west
+
+== Y ==
+
+* '''[ya]''' already, at once (= '''ja''', '''jam''')
+
+[[Category:Interlingua]]
+[[pl:Interlingua:Słownik]]</text>
+      <sha1>pid07q0bepj8ix0ah8x0n05s0drfvwr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Maveric149/Sandbox</title>
+    <ns>2</ns>
+    <id>3538</id>
+    <revision>
+      <id>155430</id>
+      <parentid>16449</parentid>
+      <timestamp>2004-02-24T10:24:13Z</timestamp>
+      <contributor>
+        <username>Maveric149</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve">[[Template:GeneralChemTOC]]</text>
+      <sha1>59lzgoxc8jjjpc1q88fzh40j7aom0vk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Jason Michael Smithson</title>
+    <ns>2</ns>
+    <id>3539</id>
+    <revision>
+      <id>155431</id>
+      <parentid>10986</parentid>
+      <timestamp>2004-01-03T08:39:10Z</timestamp>
+      <contributor>
+        <username>Jason Michael Smithson</username>
+        <id>408</id>
+      </contributor>
+      <text xml:space="preserve">One more thing to work on:&lt;br&gt;
+[[Environmental Awareness in the 21st Century]]&lt;br&gt;
+
+Good example of forward, up, and back:&lt;br&gt;
+[[US_Constitution_and_Government]]&lt;br&gt;</text>
+      <sha1>l9yzswvkwgbawv9meuuqa1tos2dqt9y</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Spanish/Ser</title>
+    <ns>0</ns>
+    <id>3545</id>
+    <revision>
+      <id>939977</id>
+      <parentid>939800</parentid>
+      <timestamp>2007-08-10T04:55:41Z</timestamp>
+      <contributor>
+        <username>Webaware</username>
+        <id>27565</id>
+      </contributor>
+      <minor />
+      <comment>Revert to revision 532454 dated 2006-07-22 07:46:32 by Jguk using [[:en:Wikipedia:Tools/Navigation_popups|popups]]</comment>
+      <text xml:space="preserve">__NOTOC__
+[[../Verbs/]]
+
+=Ser=
+
+&quot;Ser&quot; is an [[../Irregular Verbs|irregular verb]] that means ''' &quot;to be&quot;.'''
+
+:[[../Infinitive|Infinitive]]: '''ser'''
+:[[../Present Participle|Present participle]]: ''' siendo''' 
+:[[../Past Participle|Past participle]]: '''sido'''
+
+==Indicative==
+===[[../Present|Present]] ===
+
+:Yo '''soy'''  ''I am''&lt;br&gt;
+:tú '''eres''' ''You (informal) are''&lt;br&gt;
+:él/ella/usted '''es'''  ''He/she is, you (respectful) are''&lt;br&gt;
+:nosotros '''somos''' ''We are''&lt;br&gt;
+:(vosotros '''sois''') ''You (plural, informal) are''&lt;br&gt;
+:ellos/ustedes '''son''' They / you (plural, formal) are''
+
+&lt;small&gt;(Don't know what '''Yo, tú, él,''' and so on mean ? They are '''[[../Pronouns|pronouns]].''')&lt;/small&gt;
+
+===[[../Imperfect/]]===
+
+:Yo '''era ''' ''I was'' &lt;br&gt;
+:tú '''eras ''' &lt;br&gt;
+:él/ella/usted '''era ''' &lt;br&gt;
+:nosotros '''éramos ''' &lt;br&gt;
+:(vosotros '''erais ''') &lt;br&gt;
+:ellos/ustedes '''eran ''' 
+
+===[[../Preterite/]]===
+
+:Yo '''fui ''' ''I was'' &lt;br&gt;
+:tú '''fuiste ''' &lt;br&gt;
+:él/ella/usted '''fue ''' &lt;br&gt;
+:nosotros '''fuimos ''' &lt;br&gt;
+:(vosotros '''fuisteis ''') &lt;br&gt;
+:ellos/ustedes '''fueron ''' 
+
+===[[../Future/]]===
+
+:Yo '''seré ''' ''I will be'' &lt;br&gt;
+:tú '''serás ''' &lt;br&gt;
+:él/ella/usted '''será ''' &lt;br&gt;
+:nosotros '''seremos ''' &lt;br&gt;
+:(vosotros '''seréis ''') &lt;br&gt;
+:ellos/ustedes '''serán ''' 
+
+— ''or'' —
+
+:Yo '''voy a ser ''' ''I'm going to be'' &lt;br&gt;
+:tú '''vas a ser ''' &lt;br&gt;
+:él/ella/usted '''va a ser ''' &lt;br&gt;
+:nosotros '''vamos a ser ''' &lt;br&gt;
+:(vosotros '''vais a ser ''') &lt;br&gt;
+:ellos/ustedes '''van a ser '''
+
+==Subjunctive==
+===[[../Subjunctive/]]===
+
+:Yo '''sea '''  ''I may be'' or ''(if) I be'' &lt;br&gt;
+:tú '''seas ''' &lt;br&gt;
+:él/ella/usted '''sea ''' &lt;br&gt;
+:nosotros '''seamos ''' &lt;br&gt;
+:(vosotros '''seáis ''') &lt;br&gt;
+:ellos/ustedes '''sean '''
+
+===[[../Imperfect Subjunctive/]] ===
+
+:Yo '''fuera ''' ''I might be'' or ''(if) I were'' &lt;br&gt;
+:tú '''fueras ''' &lt;br&gt;
+:él/ella/usted '''fuera ''' &lt;br&gt;
+:nosotros '''fuéramos ''' &lt;br&gt;
+:(vosotros '''fuerais ''') &lt;br&gt;
+:ellos/ustedes '''fueran ''' 
+
+— ''or'' —
+
+:Yo '''fuese ''' ''I might be'' or ''(if) I were'' &lt;br&gt;
+:tú '''fueses ''' &lt;br&gt;
+:él/ella/usted '''fuese ''' &lt;br&gt;
+:nosotros '''fuésemos ''' &lt;br&gt;
+:(vosotros '''fueseis ''') &lt;br&gt;
+:ellos/ustedes '''fuesen ''' 
+
+===[[../Present Perfect Subjunctive/|Present perfect subjunctive]] ===
+
+:Yo '''haya sido '''  '' I may have been'' or ''had I been'' &lt;br&gt;
+:tú '''hayas sido ''' &lt;br&gt;
+:él/ella/usted '''haya sido ''' &lt;br&gt;
+:nosotros '''hayamos sido ''' &lt;br&gt;
+:(vosotros '''hayáis sido ''') &lt;br&gt;
+:ellos/ustedes '''hayan sido ''' 
+
+===[[../Pluperfect Subjunctive/|Pluperfect subjunctive]] ===
+
+:Yo '''hubiera sido ''' ''(if only) I had been'' or ''I might have been'' &lt;br&gt;
+:tú '''hubieras sido ''' &lt;br&gt;
+:él/ella/usted '''hubiera sido ''' &lt;br&gt;
+:nosotros '''hubiéramos sido ''' &lt;br&gt;
+:(vosotros '''hubierais sido ''') &lt;br&gt;
+:ellos/ustedes '''hubieran sido ''' 
+
+— ''or'' —
+
+:Yo '''hubiese sido ''' ''(if only) I had been'' or ''I might have been'' &lt;br&gt;
+:tú '''hubieses sido ''' &lt;br&gt;
+:él/ella/usted '''hubiese sido ''' &lt;br&gt;
+:nosotros '''hubiésemos sido ''' &lt;br&gt;
+:(vosotros '''hubieseis sido ''') &lt;br&gt;
+:ellos/ustedes '''hubiesen sido ''' 
+
+==Conditional==
+===[[../Conditional/]]===
+
+:Yo '''sería ''' '' I would be'' &lt;br&gt;
+:tú '''serías ''' &lt;br&gt;
+:él/ella/usted '''sería ''' &lt;br&gt;
+:nosotros '''seríamos ''' &lt;br&gt;
+:(vosotros '''seríais ''') &lt;br&gt;
+:ellos/ustedes '''serían '''
+
+==Imperative==
+===[[../Imperative/]]===
+
+:Yo --- &lt;br&gt;
+:tú '''sé; no seas ''' ''Be; don't be'' &lt;br&gt;
+:él/ella/usted '''sea ''' &lt;br&gt;
+:nosotros '''seamos ''' &lt;br&gt;
+:(vosotros '''sed; no seáis ''') &lt;br&gt;
+:ellos/ustedes '''sean '''
+
+==Compound tenses==
+
+These tenses are combinations of the above tenses.
+
+===Indicative===
+====[[../Present Progressive/]]====
+
+:Yo '''estoy siendo ''' ''I am being'' &lt;br&gt;
+:tú '''estás siendo ''' &lt;br&gt;
+:él/ella/usted '''está siendo ''' &lt;br&gt;
+:nosotros '''estamos siendo ''' &lt;br&gt;
+:(vosotros '''estáis siendo ''') &lt;br&gt;
+:ellos/ustedes '''están siendo ''' 
+
+====[[../Imperfect Progressive/]]====
+
+:Yo '''estaba siendo ''' ''I was being'' &lt;br&gt;
+:tú '''estabas siendo ''' &lt;br&gt;
+:él/ella/usted '''estaba siendo ''' &lt;br&gt;
+:nosotros '''estábamos siendo ''' &lt;br&gt;
+:(vosotros '''estabáis siendo''') &lt;br&gt;
+:ellos/ustedes '''estaban siendo ''' 
+
+====[[../Preterite Progressive/]]====
+
+:Yo '''estuve siendo ''' '' I was being'' &lt;br&gt;
+:tú '''estuviste siendo ''' &lt;br&gt;
+:él/ella/usted '''estuvo siendo ''' &lt;br&gt;
+:nosotros '''estuvimos siendo ''' &lt;br&gt;
+:(vosotros '''estuvisteis siendo ''') &lt;br&gt;
+:ellos/ustedes '''estuvieron siendo ''' 
+
+====[[../Present Perfect/]]====
+
+:Yo '''he sido ''' '' I have been'' &lt;br&gt;
+:tú '''has sido ''' &lt;br&gt;
+:él/ella/usted '''ha sido ''' &lt;br&gt;
+:nosotros '''hemos sido ''' &lt;br&gt;
+:(vosotros '''habéis sido ''') &lt;br&gt;
+:ellos/ustedes '''han sido ''' 
+
+====[[../Present Perfect Progressive/]]====
+
+:Yo '''he estado siendo ''' ''I have been being'' &lt;br&gt;
+:tú '''has estado siendo ''' &lt;br&gt;
+:él/ella/usted '''ha estado siendo ''' &lt;br&gt;
+:nosotros '''hemos estado siendo ''' &lt;br&gt;
+:(vosotros '''habéis estado siendo ''') &lt;br&gt;
+:ellos/ustedes ''' han estado siendo ''' 
+
+====[[../Pluperfect/]]====
+
+:Yo '''había sido ''' ''I had been being'' &lt;br&gt;
+:tú '''habías sido ''' &lt;br&gt;
+:él/ella/usted '''había sido ''' &lt;br&gt;
+:nosotros '''habíamos sido ''' &lt;br&gt;
+:(vosotros '''habíais sido ''') &lt;br&gt;
+:ellos/ustedes '''habían sido ''' 
+
+====[[../Preterite Perfect/]] ====
+
+:Yo '''hube sido ''' ''I had been being'' &lt;br&gt;
+:tú '''hubiste sido ''' &lt;br&gt;
+:él/ella/usted '''hubo sido ''' &lt;br&gt;
+:nosotros '''hubimos sido ''' &lt;br&gt;
+:(vosotros '''hubisteis sido ''') &lt;br&gt;
+:ellos/ustedes '''hubieron sido '''
+
+====[[../Future Perfect/]]====
+
+:Yo '''habré sido '''  '' I will have been'' &lt;br&gt;
+:tú '''habrás sido ''' &lt;br&gt;
+:él/ella/usted '''habrá sido ''' &lt;br&gt;
+:nosotros '''habremos sido ''' &lt;br&gt;
+:(vosotros '''habréis sido ''') &lt;br&gt;
+:ellos/ustedes '''habrán sido ''' 
+
+===Conditional===
+====[[../Perfect Conditional/]]====
+
+:Yo '''habría sido ''' ''I would have been'' &lt;br&gt;
+:tú '''habrías sido ''' &lt;br&gt;
+:él/ella/usted '''habría sido ''' &lt;br&gt;
+:nosotros '''habríamos sido ''' &lt;br&gt;
+:(vosotros '''habríais sido ''') &lt;br&gt;
+:ellos/ustedes '''habrían sido '''
+
+[[Category:Spanish]]</text>
+      <sha1>39mu5ptalzvv7022xupatobvffb9gx4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Pumpkin Pie</title>
+    <ns>102</ns>
+    <id>3548</id>
+    <revision>
+      <id>2677572</id>
+      <parentid>2581165</parentid>
+      <timestamp>2014-06-30T12:19:38Z</timestamp>
+      <contributor>
+        <username>Dagwood-Bumsead</username>
+        <id>854355</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">{{recipesummary|Dessert recipes|8|60 minutes + cooling|2|Image=[[File:Pumpkin Pie.jpg|300px]]}}
+
+{{recipe}} | [[Cookbook:Dessert|Dessert]] | [[Cookbook:Cuisine of the United States|American cuisine]] | [[Cookbook:Holiday Recipes|Holiday]]
+
+'''Pumpkin pie''' is a traditional American and Canadian, holiday dessert. It consists of a pumpkin-based custard baked in a single pie shell. The pie is traditionally served with whipped cream.
+
+==Ingredients==
+*2 cups (480ml) [[Cookbook:Milk|milk]], scalded
+*2 cups (450g) [[Cookbook:Pumpkin|pumpkin]], cooked and strained (or plain canned pumpkin)
+*1 cup (240ml) [[Cookbook:Maple Syrup|maple syrup]]
+*1/8 cup (30g) [[Cookbook:Sugar|sugar]]
+*1 Tbsp. [[Cookbook:Flour|flour]]
+*&amp;frac12; tsp. [[Cookbook:Salt|salt]]
+*1 tsp. [[Cookbook:Ginger|ginger]]
+*1 tsp. [[Cookbook:Cinnamon|cinnamon]]
+*1/4 tsp. [[Cookbook:Nutmeg|nutmeg]] (optional)
+*2 large [[Cookbook:Egg|eggs]], beaten
+*1 unbaked nine-inch [[Cookbook:Pie Crust|pie shell]]
+
+==Procedure==
+#Preheat oven to 350 °F (180 °C).
+#Blend all ingredients, except the pie shell, together.  
+#Pour into the unbaked pie shell.  
+#Bake at 350 °F (180 °C) for 45 minutes.  
+#Let cool and serve.
+
+==Notes, tips, and variations==
+*This recipe replaces much of the [[Cookbook:Sugar|sugar]] normally found in a [[Cookbook:Pumpkin|pumpkin]] [[Cookbook:Pie|pie]] recipe with [[Cookbook:Maple Syrup|maple syrup]].  Use only real 100 percent maple syrup, not maple-flavored pancake syrup, as their sugar content is different. You can also use brown sugar instead of maple syrup.
+*:''Note [[#Substitutions|substitutions]], below.''
+*Prepare the raw pumpkin by skinning and cutting into 1&quot; cubes. Bake at 350 °F (180 °C) for an hour and then turn off the heat. Leave the pumpkin in the oven for another hour or two, this will reduce the moisture content. The pumpkin may also be steamed but may end up with too much moisture, resulting in a runny pie. A 10&quot; (25cm)-diameter pumpkin will make 4 to 6 pies. The pumpkin may also be baked whole and skinned afterwards.
+*Pumpkin pie has no top crust, which makes most forms of decoration impossible, but for a more aesthetically-pleasing pie, put dollops of real [[Cookbooks:Whipped cream|whipped cream]] on each slice, or add a decorative rim to the side crust with artfully layered dough cut-outs, in the shape of fall leaves, squash or pumpkins.
+*Variant: Chocolate-covered pumpkin pie
+**After the pie has cooled, melt 2 oz. (55g) of sweetened [[Cookbook:Chocolate|chocolate]] (milk or dark) and pour over the top of the pie.  Be sure to completely cover the pumpkin.  Refrigerate to set the chocolate.
+*Variant: Pumpkin Pasties
+**Roll pie crust pastry thin and cut into circles approx 4&quot; in diameter.
+Put a spoonful of the cool pumpkin mixture towards one side of the center of the circle.
+Fold over the crust into a half-circle and firmly crimp the edges closed.
+Slice three small slits in the top for venting.
+Place on a greased cookie sheet.
+Bake only until crust is a light golden-brown, approx 10 minutes.
+===Substitutions===
+* 14 oz. (1 can) sweetened condensed milk can replace the scalded milk and maple syrup.
+* 2 cups of plain canned pumpkin can replace the cooked and strained pumpkin.
+*: Do not use &quot;pumpkin pie filling&quot;, which has added spices.
+*: For a discussion on the use of canned pumpkin and the recipes attached, please see [[Cookbook Talk:Pumpkin Pie|the talk page]].
+
+{{DEFAULTSORT:{{PAGENAME}}}}
+[[Category:American recipes|Pumpkin Pie]]
+[[Category:Pie recipes|Pumpkin Pie]]
+[[Category:Pumpkin recipes|Pumpkin Pie]]
+[[Category:Maple Syrup recipes]]
+[[Category:Thanksgiving recipes|Pumpkin Pie]]
+[[Category:Vegetarian recipes|Pumpkin Pie]]
+[[Category:Dessert recipes|{{PAGENAME}}]]
+[[Category:Featured recipes|{{PAGENAME}}]]
+[[Category:Recipes_with_metric_units|{{PAGENAME}}]]
+
+[[de:Kochbuch/ Kürbiskuchen]]</text>
+      <sha1>i5y70n3lcxxdf8ihx1t2ep3dekjyx2b</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Spanish/Present</title>
+    <ns>0</ns>
+    <id>3549</id>
+    <revision>
+      <id>1888427</id>
+      <parentid>1888426</parentid>
+      <timestamp>2010-07-14T10:26:49Z</timestamp>
+      <contributor>
+        <ip>91.213.109.13</ip>
+      </contributor>
+      <comment>/* -ar verbs */</comment>
+      <text xml:space="preserve">__NOTOC__
+[[../Verbs/]]
+----
+No bones about it. The present tense is EASY. Just memorize the endings for the different verbs and a couple of oddball exceptions and you will be able to talk about any momentary thing that is on your mind. Who needs to plan for the future, dwell on the past, or delve into abstraction anyway ?
+
+There are three verb types in Spanish. They are called '''-AR, -ER,''' and '''-IR verbs.''' Each of these refers to the last two letters of the [[../Infinitive|infinitive]] form of the verb. Examples: ''' -AR: bailar''', ''to dance''; '''-ER: aprender,''' ''to learn;'' and '''-IR: escribir,''' '' to write.''
+
+When you '''conjugate''' a verb you take the generic, infinitive form and change the ending to match the person(s) or thing(s) doing whatever action the verb describes. In Spanish, the last two letters come off and another ending goes on in their place. Each verb tense has its own set of six endings for each verb type. Don't worry though, there are patterns there and much of the endings overlap so it is easier to remember them.
+
+The present tense verb endings are as follows:
+
+===-ar verbs===
+
+:Yo (I): '''-o''' 
+:Tú (you, informal): '''-as''' 
+:El, ella, or usted (he, she, or you, formal): ''' -a'''
+:Nosotros (we): '''-amos'''
+:Vosotros (you, plural): '''-áis'''
+:Ellos, ustedes (they, or you, plural formal): '''-an'''
+
+That is:
+
+:'''-o'''
+:'''-as''' 
+:'''-a'''
+:'''-amos'''
+:'''-áis'''
+:'''-an'''
+
+Sometimes the vowel in the ending is accented.
+
+Here is an example conjugation:
+
+'''Bailar'''
+
+:'''Yo bailo. ''' ''I dance.''
+:'''Tú bailas. ''' ''You dance.''
+:'''Usted, Él, Ella baila. ''' ''You (respectful) dance, he or she dances''
+:'''Nosotros bailamos. ''' ''We dance.''
+:'''Vosotros bailáis. ''' ''You dance.''
+:'''Ustedes, Ellos, Ellas bailan. ''' ''They dance.''
+
+Of course, most of the above statements can be restated without any loss of meaning with no pronoun: '''Bailo''' -- ''I dance''; '''bailas''', ''you dance''. In Spanish, the verbs change to reflect the person(s) doing the action on them and it is OK to leave off the pronouns, especially when context makes the subject clear.
+
+===-er/-ir verbs===
+-ER and -IR verbs are almost identical, so they are often listed together. The only differences in the present tense are in '''Nosotros''' and '''Vosotros'''.
+
+For -ER verbs:
+:Yo (I): '''-o''' 
+:Tú (you, informal): '''-es''' 
+:El, ella, or usted (he, she, or you, formal): ''' -e'''
+:Nosotros (we): '''-emos'''
+:Vosotros (you, plural): '''-éis'''
+:Ellos, ustedes (they, or you, plural formal): '''-en'''
+
+For -IR verbs:
+:Yo (I): '''-o''' 
+:Tú (you, informal): '''-es''' 
+:El, ella, or usted (he, she, or you, formal): ''' -e'''
+:Nosotros (we): '''-imos'''
+:Vosotros (you, plural): '''-ís'''
+:Ellos, ustedes (they, or you, plural formal): '''-en'''
+
+That is:
+:'''-o'''
+:'''-es'''
+:'''-e'''
+:'''-emos''' (for -ER) or :'''-imos''' (for -IR)
+:'''-éis''' (for -ER) or :'''-ís''' (for -IR)
+:'''-en'''
+
+Here is an example conjugation of an -ER verb:
+
+'''Aprender'''
+
+:'''Yo aprendo. ''' ''I learn.''
+:'''Tú aprendes. ''' ''You learn.''
+:'''Usted aprende. ''' ''You (respectful) learn.''
+:'''Nosotros aprendemos. ''' ''We learn.''
+:'''Vosotros aprendéis. ''' ''You learn.''
+:'''Ellos aprenden. ''' ''They learn.''
+
+Here's an example conjugation of an -IR verb:
+
+'''Escribir'''
+
+:'''Yo escribo. ''' ''I write.''
+:'''Tú escribes. ''' ''You write.''
+:'''Usted escribe. ''' ''You (respectful) write.''
+:'''Nosotros escribimos. ''' ''We write.''
+:'''Vosotros escribís. ''' ''You write.''
+:'''Ellos escriben. ''' ''They write.''
+
+==Irregular verbs==
+===Ser===
+
+:'''Yo soy.''' ''I am.''
+:'''Tú eres. ''' ''You are.''
+:'''El/Ella/Ud. es. ''' ''He/She/You(formal) is.''
+:'''Nosotros/Nosotras somos. ''' ''We are.''
+:'''Vosotros sois. ''' ''You are (plural).''
+:'''Ellos/Ellas son.  ''They are.''
+
+===Ir===
+
+:'''Yo voy. ''' ''I go.''
+:'''Tú vas. ''' ''You go.'' (A statement, not technically a command)
+:'''Ella va. ''' ''She goes.''
+:'''Nosotros vamos. ''' ''We go.''
+:'''Ustedes van. ''' ''Y'all go.''
+
+===Tener===
+:tengo
+:tienes
+:tiene
+:tenemos
+:tienen
+
+Note that the first &quot;e&quot; turns to &quot;ie&quot; in all of the conjugations except the &quot;nosotros&quot; form. That is a pattern that you will see repeated.
+
+[[Category:Spanish]]</text>
+      <sha1>43inimfijd6x0vuc58vsfypg7jrct4v</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Pumpkin Pie</title>
+    <ns>103</ns>
+    <id>3550</id>
+    <revision>
+      <id>2015712</id>
+      <parentid>2015705</parentid>
+      <timestamp>2011-01-11T20:21:11Z</timestamp>
+      <contributor>
+        <username>Tempodivalse</username>
+        <id>141944</id>
+      </contributor>
+      <minor />
+      <comment>Reverted edits by [[Special:Contributions/216.185.69.65|216.185.69.65]] ([[User talk:216.185.69.65|talk]]) to last revision by [[User:QuiteUnusual|QuiteUnusual]]</comment>
+      <text xml:space="preserve">originaly from [[w:Main Page|Wikipedia]] article [[w:Pumpkin pie|Pumpkin pie]].
+
+Page history from Wikipedia
+
+*	(cur) (last) . . 17:44, 3 Jan 2004 . . Gentgeen (transwiking recipe to wikibooks)
+*	(cur) (last) . . 09:59, 15 Nov 2003 . . Guaka (degr C)
+*	(cur) (last) . . M 09:58, 15 Nov 2003 . . Guaka (spelling, wikilink)
+*	(cur) (last) . . M 15:22, 13 Nov 2003 . . Rmhermen
+*	(cur) (last) . . 15:20, 13 Nov 2003 . . Gentgeen (gave reason for not using pancake syrup)
+*	(cur) (last) . . 17:08, 7 Nov 2003 . . Gentgeen (wikified, rewording)
+*	(cur) (last) . . 17:21, 6 Nov 2003 . . 206.65.37.136
+*	(cur) (last) . . M 12:51, 6 Nov 2003 . . Jengod
+*	(cur) (last) . . 02:45, 6 Nov 2003 . . Gentgeen (format)
+*	(cur) (last) . . 02:44, 6 Nov 2003 . . Gentgeen
+
+== What do you do if you do not have an oven to cook your pumpkin pies in? ==
+
+Every year in October, I enjoy spending my time cooking pumpkin pies. I've always loved having the soothing smell of a freshly baked pumpkin pie emanate through my place. I also enjoy sharing my pies with the people around me. I have even cooked pies for the cashiers that ring up my ingredients. 
+This year, I am living in an apartment that does not have an oven. What ever shall I do now? I dont want to give up my pie baking tradition. Is there some alternative to an oven? Could I cook my pie on the stove? Can I roast it over an open fire? How do military people living in the wild cook their pumpkin pies?
+Any options that you can give me would be well appreciated. I am a desperate man. The Worst kind of desperate man. I am man who is need of home cooked pumpkin pie.
+
+===Microwave?===
+
+A microwave will do strange things to home-made pastry, but if you are using a bought crust then about 15 min on a slightly-less-than-high power should set the filling. If you want to get really into microwave pies, a browning dish is a good investment. It distributes the heat better than standard dishes and allows things to cook more like they do in the oven.
+
+[[User:Christinelaura|Christinelaura]] 07:22, 29 July 2007 (UTC)
+
+== Why not use a can of pumpkin ==
+
+This was snipped from the recipe page.
+
+I'm not sure why the above recipe would be better than picking up a can of pumpkin in the store, and then buying the ingredients they specify in the recipe on the back. I'm not saying the above recipe isn't better, just that I have no way of judging, and nobody even claimed that it is. So, I'm going to all this trouble to point it out because I usually follow the in-store prodedure I outlined here, and two years ago I actually tested 3 of them and discovered big differences. 
+
+Libby's brand won to my taste, followed by One-Pie brand, followed by some Whole Food's organic label. My taste runs toward sweeter, very moist (shiny!), not too &quot;nutmeg-y&quot; pumpkin pie, served good and cold. I'm not a shill for Libby's; in fact, I wanted One-Pie to win since that's what I'd always used before, and I like the look of the label better. Also, I have no idea if there are differences in the pumpkin itself, of just in the recipes, and I didn't test the different combinations. But there were significant differences so it's worth figuring out which one you like.
+
+=== because! ===
+
+The obvious benefit of the recipe is that you can adjust the spices to suit your tastes. No guesswork as to which brand of filling tastes better.
+
+You should also consider that the stuff sold as &quot;pumpkin pie filling&quot; is sometimes actually hubbard squash. It essentially tastes the same and yields a pie of the same texture, but I think it has a better shelf life or something, so it's sold as pumpkin pie filling.
+
+Also keep in mind that you can use a pumpkin for more than just pie. Bread, muffins, cake, soup, and so on. You can make a couple pies, a loaf of bread, and some muffins all from a single decent-sized pumpkin.
+
+It's healthier to eat things that you prepare yourself than stuff from a can. [[User:Messedrocker|Messedrocker]] 03:25, 16 Jun 2005 (UTC)
+
+=== because!! ===
+
+# If you grow pumpkins in your own garden you need this recipe.
+# If you make a bunch of pies, this recipe is much less expensive than buying canned pumpkin.
+--[[User:Duk|Duk]] 03:48, 17 October 2005 (UTC)
+
+:I've added in an optional substitution of canned pumpkin for puree made from a fresh pumpkin. I agree that using fresh ingredients is optimal, but if that were the only way to make pumpkin pie, well damn, nobody in their right mind would ever make pumpkin pie. Canned will work fine; it has the same texture, flavor, and moisture content as the recipe expects. [[User:Jessicapierce|Jessicapierce]] 19:25, 3 May 2007 (UTC)
+
+== Different recipies ==
+
+What's the procedure on different recipes. Say another recipe for canned pumpkin, and another more standard recipe (-maple syrup (very expensive), +condensed milk). Do we just name the article [[Pumpkin Pie (2)]] ? --[[User:Duk|Duk]] 04:01, 17 October 2005 (UTC)
+
+: Often what is done is if there are going to be several of the same kind of dish, like [[Cookbook:Brownie | Brownies]], the plainly named one becomes the index, a new recipe page is made with the original recipe giving it a descriptor, like, minty, deep-dish, cherry, or whatever and the new one is made similarly with a descriptor.  If one is the core, original recipe, or very close to it, that one takes up the base name or the name of Plain X, Original X, Simple X, that kinda deal.   So you can end up with Maple Pumpkin Pie, Spiced Pumpkin Pie, Simple Pumpkin Pie and Orgasmic Pumpkin Pie if there are enough recipes that are sufficiently different. [[User:65.95.228.247|65.95.228.247]] 04:32, 17 October 2005 (UTC)
+
+::We could make this a disambiguation page, and find unique names for the recipes.  This one could become &quot;Pumpkin-Maple Pie&quot;, while one with canned pie filling could be &quot;Easy Pumpkin Pie&quot;, or something similar.  Another option, as seen at [[Cookbook:Guacamole]], is to simply add another recipe (or 5) to the page. [[User:Gentgeen|Gentgeen]] 05:08, 17 October 2005 (UTC)  PS: Don't you love edit conflicts? :) [[User:Gentgeen|Gentgeen]]
+
+==Amount of Filling==
+Deep dish nine inch pie shells (from the frozen section of the supermarket) hold four cups of filling. This recipe adds up to about six cups of filling. Is this recipe for a larger pie dish (traditional pyrex or ceramic type)? --[[User:Duk|Duk]] 03:59, 17 October 2005 (UTC)
+
+:I've never had a problem making this fit a 4 cup shell.  Maybe the whole adds up to less volume than its parts. [[User:Gentgeen|Gentgeen]] 05:08, 17 October 2005 (UTC)
+
+
+== Why is scalding the milk listed in this recipe ==
+Scalding is traditionally called for to destroy the enzymes that would thicken the milk during the cooking process, but pasteurization accomplishes this, and you would be hard pressed to find unpasteurized milk in most countries. Therefore, I find it rather needless and redundant to be listed. 01:05, 15 October 2006 (GMT)</text>
+      <sha1>l7eums17go2kbc5l38kwlznko2mwc00</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Dessert</title>
+    <ns>102</ns>
+    <id>3554</id>
+    <revision>
+      <id>2669816</id>
+      <parentid>2596620</parentid>
+      <timestamp>2014-06-05T00:23:43Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>Added clearer link to category</comment>
+      <text xml:space="preserve">{{cooknav}}
+
+Typically, a '''dessert''' is a food that comes at the end of a meal. Its taste is usually sweet, but sometimes strong, as with many cheeses. The word comes from the Old French ''desservir'', meaning &quot;to clear the table.&quot; Common desserts include cakes, cookies, fruits, pastries, pies, ice cream, and candies.
+
+For a complete, automatically generated, list of recipes which have been categorized, on their individual pages, as being Dessert recipes see [[:Category:Dessert recipes]].
+
+Below is a manually curated list of dessert recipes contributors have manually added to this page.
+
+
+== Brownies, Bars and Squares ==
+[[Image:Brownies-wikibook-cookbook.jpg|thumb|right|Brownies]]
+*[[Cookbook:Blondies|Blondies]]
+*[[Cookbook:Blonde Almond Toffee Brownies|Blonde Almond Toffee Brownies]]
+*[[Cookbook:Brownie|Brownies]]
+*[[Cookbook:Oatmeal Stout Brownies|Oatmeal Stout Brownies]]
+*[[Cookbook:Chocolate Pear Bake|Chocolate Pear Bake]]
+*[[Cookbook:Date Bar|Date Bar]] (bar with date filling)
+*[[Cookbook:Date nut bar|Date Nut Bar]] (cakey bar with nuts, dates, and a lemon glaze)
+*[[Cookbook:Hermits|Hermits]]
+*[[Cookbook:Quick Marshmallow Rice Squares|Quick Marshmallow Rice Squares]] (US)
+*[[Cookbook:Basic Flapjacks|Basic Flapjacks]] (UK)
+
+== Cakes, Cupcakes ==
+[[File:New york cheesecake with strawberries.jpg|thumb|New York Cheesecake]]
+*[[Cookbook:1-2-3-4 Cake|1-2-3-4 Cake]] (US)
+*[[Cookbook:1-2 Chocolate Cake|1-2 Chocolate Cake]]
+*[[Cookbook:Æbleskiver|Æbleskiver]] (Denmark)
+*[[Cookbook:Apple_and_Almond_Cake|Apple and Almond Cake]]
+*[[Cookbook:Apple Bundt Cake|Apple Bundt Cake]]
+*[[Cookbook:Atomic Fudge Cake|Atomic Fudge Cake]]
+*[[Cookbook:Black Forest Cake|Black Forest Cake]] (Germany)
+*[[Cookbook:Black Forest Torte|Black Forest Torte]] (Germany)
+*[[Cookbook:Bløtkake|Bløtkake]] (Norway)
+*[[Cookbook:Christmas cake|Christmas cake]] (UK)
+*[[Cookbook:Chocolate Cake|Chocolate Cake]]
+*[[Cookbook:Cola Cake|Cola Cake]]
+*[[Cookbook:Double Chocolate Cheesecake|Double Chocolate Cheesecake]]
+*[[Cookbook:Fairy Cakes|Fairy Cakes]] (UK)
+*[[Cookbook:Gingerbread|Gingerbread]] (UK)
+*[[Cookbook:Hot milk cake|Hot Milk Cake]] with [[Cookbook:Mocha icing|Mocha Icing]] (US)
+*[[Cookbook:Madeira Honey Cake|Madeira Honey Cake]] (Portugal)
+*[[Cookbook:Mandarin Orange Cake|Mandarin Orange Cake]] (US)
+*[[Cookbook:Mazurek Cake|Mazurek Cake]] (Poland)
+*[[Cookbook:New York Cheesecake|New York Cheesecake]] (US)
+*[[Cookbook:Pound Cake|Pound Cake]] (UK)
+*[[Cookbook:Rhubarb Cake|Rhubarb Cake]] (US)
+*[[Cookbook:Sachertorte|Sachertorte]] (Austria)
+*[[Cookbook:Schwarzwälder Kirschtorte|Schwarzwälder Kirschtorte]] (Germany)
+*[[Cookbook:Spelt Yellow Cake|Spelt Yellow Cake]]
+*[[Cookbook:Strawberry Cream Cake|Strawberry Cream Cake]]
+*[[Cookbook:Strawberry Shortcut Cake|Strawberry Shortcut Cake]]
+*[[Cookbook:Sunshine Cake|Sunshine Cake]] (US)
+*[[Cookbook:Sweet Cornbread|Sweet Cornbread]] (Canada)
+*[[Cookbook:Victoria Sandwich|Victoria Sandwich]] (UK)
+*[[Cookbook:White Chocolate Cheesecake|White Chocolate Cheesecake]]
+* [[Cookbook:Vancouver Cheesecake|Vancouver Cheesecake]]
+
+== Cookies ==
+[[Image:ChewyGingerCookies.jpg|thumb|Chewy Ginger Cookies]]
+* [[Cookbook:Alfajores|Alfajores Cookies]]
+* [[Cookbook:Anzac Biscuits|Anzac Biscuits]]
+* [[Cookbook:Celeste Oatmeal Chocolate Chip Cookies| Celeste Oatmeal Chocolate Chip Cookies]] 
+* [[Cookbook:Cheese Cookies|Cheese Cookies]] 
+* [[Cookbook:Chewy Ginger Cookies|Chewy Ginger Cookies]] 
+* [[Cookbook:Chocolate Chip Cookies|Chocolate Chip Cookies]]
+* [[Cookbook:Chocolate Chip Pumpkin Cookies | Chocolate Chip Pumpkin Cookies]] 
+* [[Cookbook:Chocolate Macaroons|Chocolate Macaroons]]
+* [[Cookbook:Crispy Gingerbread Cookies|Crispy Gingerbread Cookies]] 
+* [[Cookbook:Ginger Snap|Ginger Snap Cookies]] 
+* [[Cookbook:Ginny's Toll House Cookies|Ginny's Toll House Cookies]] 
+* [[Cookbook:Grannie Gilbert's Sugar Cookies | Grannie Gilbert's Sugar Cookies]]
+* [[Cookbook:Honey Gingerbread | Honey Gingerbread]]
+* [[Cookbook:Molasses Cookies|Molasses Cookies]]
+* [[Cookbook:Oatmeal Cookies|Oatmeal Cookies]]
+* [[Cookbook:Oatmeal Chocolate Chip Cookies | Oatmeal Chocolate Chip Cookies]] 
+* [[Cookbook:Oatmeal Raisin Cookies | Oatmeal Raisin Cookies]]
+* [[Cookbook:Peanut Butter Cookies | Peanut Butter Cookies]]
+* [[Cookbook:Rum balls | Rum Balls]]
+* [[Cookbook:Saucepan Fudge Crackle Cookies | Saucepan Fudge Crackle Cookies]] 
+* [[Cookbook:Snickerdoodles|Snickerdoodles]]
+* [[Cookbook:Space Cake | Space Cake]]
+* [[Cookbook:Spritzgeback|Spritzgeback]]
+* [[Cookbook:Thumbprint Jam Cookies|Thumbprint Jam Cookies]]
+* [[Cookbook:Vanilla Crisps|Vanilla Crisps]]
+* [[Cookbook:Very Simple Cookies|Very Simple Cookies]]
+
+== Crisps, Cobblers ==
+*[[Cookbook:Apple Cobbler|Apple Cobbler]]
+*[[Cookbook:Apple Crisp|Apple Crisp]] (US)
+*[[Cookbook:Basic Cobbler|Basic Cobbler]]
+*[[Cookbook:Cherry Cobbler in a Crock Pot|Cherry Cobbler in a Crock Pot]]
+*[[Cookbook:Peach Cobbler|Peach Cobbler]] (US)
+*[[Cookbook:Picante Peach Cobbler|Picante Peach Cobbler]]
+
+== Fruit Desserts, Compotes ==
+*[[Cookbook:Ambrosia Fruit Salad|Ambrosia Fruit Salad]] (US)
+*[[Cookbook:Eton mess|Eton mess]] (UK)
+*[[Cookbook:Fruit Whip|Fruit Whip]] (US)
+*[[Cookbook:Eve's Apple|Eve's Apple]] (US)
+
+== Frozen Desserts ==
+*[[Cookbook:Vanilla Ice Cream|Vanilla Ice Cream]]
+*[[Cookbook:Milkshake|Milkshake]]
+*[[Cookbook:Orange Sherbet Smoothie|Orange Sherbet Smoothie]]
+*[[Cookbook:Orange Julius|Orange Julius]]
+*[[Cookbook:Banana Split|Banana Split]]
+
+==Icings and Frostings==
+*[[Cookbook:Brown Sugar Icing|Brown Sugar Icing]]
+*[[Cookbook:Chocolate Icing|Chocolate Icing]]
+*[[Cookbook:Chocolate Sour-Cream Icing|Chocolate Sour-Cream Icing]]
+*[[Cookbook:Fudge Frosting|Fudge Frosting]]
+*[[Cookbook:Lemon Icing|Lemon Icing]]
+*[[Cookbook:Mocha icing|Mocha Icing]]
+*[[Cookbook:Royal Icing|Royal Icing]]
+*[[Cookbook:Seven Minute Icing|Seven Minute Icing]]
+*[[Cookbook:Simple Buttercream|Simple Buttercream]]
+
+== Pies, Tarts ==
+[[Image:GinnysPumpkinPie.jpg|thumb|Pumpkin Pie]] 
+
+*[[Cookbook:Pie|Pie]]
+*[[Cookbook:Pie Crust|Pie Crust]]
+*[[Cookbook:Apple Pie I|Apple Pie I]]
+*[[Cookbook:Apple Pie II|Apple Pie II]]
+*[[Cookbook:Banana Cream Pie|Banana Cream Pie]] (US)
+*[[Cookbook:British Lemon Meringue Pie|British Lemon Meringue Pie]] (UK)
+*[[Cookbook:Butter tart|Butter Tart]] (Canada)
+*[[Cookbook:Chess Pie|Chess Pie]]
+*[[Cookbook:Cinnamon Bun|Cinnamon Bun]]
+*[[Cookbook:Lemon Meringue Pie|Lemon Meringue Pie]] (US)
+*[[Cookbook:Key Lime Pie|Key Lime Pie]] (US)
+*[[Cookbook:No-Bake Chocolate Chip Cookie Pie|No-Bake Chocolate Chip Cookie Pie]] (US)
+*[[Cookbook:No-Bake Chocolate Pie|No-Bake Chocolate Pie]] (NL)
+*[[Cookbook:Pear Pie|Pear Pie]]
+*[[Cookbook:Pecan Pie|Pecan Pie]]
+*[[Cookbook:Pineapple Tarts|Pineapple Tarts]]
+*[[Cookbook:Pumpkin Pie|Pumpkin Pie]] (US)
+*[[Cookbook:Rhubarb Pie|Rhubarb Pie]]
+*[[Cookbook:Strawberry Rhubarb Pie|Strawberry Rhubarb Pie]]
+*[[Cookbook:Sunglow Motel-Cafe Pickle Pie|Sunglow Motel-Cafe Pickle Pie]] (US)
+*[[Cookbook:Bumbleberry Souffle|Bumbleberry Souffle]]
+
+== Pudding, Custard ==
+[[Image:Galaktoboureko.jpg|thumb|[[Cookbook:Galaktoboureko|Galaktoboureko]] (Greek dessert)]]
+
+*[[Cookbook:Atkins-friendly Chocolate Mousse|Atkins-friendly Chocolate Mousse]]
+*[[Cookbook:Banana Chocolate Bread Pudding|Banana Chocolate Bread Pudding]]
+*[[Cookbook:Chocolate Mousse|Chocolate Mousse]]
+*[[Cookbook:Christmas Pudding|Christmas Pudding]] (UK)
+*[[Cookbook:Crème Brûlée|Crème Brûlée]]
+*[[Cookbook:Dirt Pudding|Dirt Pudding]]
+*[[Cookbook:Dr. Kitchener's pudding|Dr. Kitchener's Pudding]]
+*[[Cookbook:Galaktoboureko|Galaktoboureko]] (Greek semolina dessert)
+*[[Cookbook:Haupia|Haupia]]
+*[[Cookbook:Lemon Curd|Lemon Curd]]
+*[[Cookbook:Microwave Chocolate Pudding|Microwave Chocolate Pudding]]
+*[[Cookbook:Queen of puddings|Queen of puddings]]
+*[[Cookbook:Coffee Chocolate Mousse|Coffee Chocolate Mousse]]
+*[[Cookbook:Rice Pudding|Rice Pudding]]
+*[[Cookbook:Spanish Flan|Spanish Flan]]
+*[[Cookbook:Trifle_Pudding|Trifle]]
+*[[Cookbook:Watergate salad|Watergate salad]]
+
+== Sauces ==
+*[[Cookbook:Black Pepper Syrup|Black Pepper Syrup]]
+*[[Cookbook:Crème Anglaise|Creme Anglaise]]
+*[[Cookbook:Hot Fudge|Hot Fudge]]
+
+== Misc ==
+*[[Cookbook:Baklava|Baklava]] (TR)
+*[[Cookbook:Chocolate Noodles with Vanilla sauce|Chocolate Noodles with Vanilla sauce]]
+*[[Cookbook:Churros|Churros]] (Spain)
+*[[Cookbook:Crêpe|Crêpe]] (France)
+*[[Cookbook:Denver Crunch|Denver Crunch]] (US)
+*[[Cookbook:English banana caramel dessert|English banana caramel dessert]] (UK)
+*[[Cookbook:Jalebi|Jalebi]] (Indian)
+*[[Cookbook:Kal kals|Kal Kals]] (India)
+*[[Cookbook:Loukoumas|Loukoumas]] (Greece)
+*[[Cookbook:Mille Crêpe|Mille Crêpe]] (France, Japan)
+*[[Cookbook:Modak|Modak]] (India)
+*[[Cookbook:Nut Roll| Nut Roll]] (Eastern European)
+*[[Cookbook:Orange Bread|Orange Bread]]  (United States - heartland)
+*[[Cookbook:Pavlova|Pavlova]] (NZ, AUS)
+*[[Cookbook:Sheer khurma|Sheer Khurma]] (India)
+*[[Cookbook:S'more|S'more]] (US)
+*[[Cookbook:Sweet pongal|Sweet Pongal]] (India)
+*[[Cookbook:Tiramisù|Tiramisù]]
+**[[Cookbook:Atkins-friendly Tira Misu|Atkins-friendly]]
+*[[Cookbook:Om Ali|Om Ali]] (Egypt)
+*[[Cookbook:Burple Nurples|Burple Nurples]]
+
+[[Category:Dessert recipes|*]]
+[[fr:Cuisine:Desserts]]
+[[he:ספר מתכונים/קינוחים]]
+[[hy:Եփութուխ:Աղանդեր]]</text>
+      <sha1>az11rl8qc3hzd1dw8ci2v0hwo5he5hl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Crème Brûlée</title>
+    <ns>102</ns>
+    <id>3557</id>
+    <revision>
+      <id>2704538</id>
+      <parentid>2704380</parentid>
+      <timestamp>2014-09-27T12:37:59Z</timestamp>
+      <contributor>
+        <username>Auric</username>
+        <id>164600</id>
+      </contributor>
+      <text xml:space="preserve">{{recipe}} | [[Cookbook:Dessert|Dessert]]
+
+'''Crème brûlée'''
+
+''See also: [[Cookbook:Crème Brûlée 2|Recipe #2]]''
+
+These instructions should provide a crackly crust over a cold [[Cookbook:Custard|custard]], balanced in sweetness, [[Cookbook:Egg|egg]] and [[Cookbook:Cream|cream]] content.  Few can resist its light, silky texture.  The procedure is due to Dawn Yanagihara.&lt;ref&gt;''Perfecting Crème Brûlée'' (Cook's Illustrated, Nov &amp; Dec 2001) p.22&lt;/ref&gt;
+
+==Ingredients==
+Serves 12.
+
+
+{| align=&quot;center&quot;
+|-
+! width=&quot;80px&quot; | US
+! width=&quot;80px&quot; | GB
+! width=&quot;100px&quot; | Elsewhere
+!
+|-
+| • 6 cups || • 2 1/2 pints || • 1.4 liters
+| chilled [[Cookbook:Heavy Cream|Heavy cream]]
+|-
+| • 1 cup || • 9 oz. || • 240 ml
+| granulated [[Cookbook:Sugar|Sugar]]
+|-
+| • 2 || • 2 || • 2 || [[Cookbook:Vanilla|Vanilla]] pods
+|-
+| • 18 || • 18 || • 18
+| large [[Cookbook:Egg yolk|Egg yolks]]
+|-
+| • 12 tsp || • 12 tsp || • 60 ml
+| Demerara or Turbinado sugar (or regular granulated sugar)
+|}
+
+==Procedure==
+[[Image:Crem brule closeup.jpg|thumb]]
+
+With the oven rack adjusted to its lower middle position, preheat the oven to 300° F (150°C).  Fold a kitchen towel to cover the bottom of a large roasting pan and arrange 12 five-ounce (150 ml) ramekins on the towel.  The ramekins should not touch each other, or the side of the roasting pan.  If the roasting pan is not large enough, scale down the recipe.
+
+Combine 3 cups of the cream and sugar in a medium saucepan.  With a paring knife, halve the vanilla beans lengthwise and scrape the seeds into the saucepan.  Submerge the pods in the cream.  Bring the mixture to a boil over medium heat, stirring occasionally to dissolve the sugar.  Remove the saucepan from the heat and steep the mixture for 20 minutes to infuse the flavor.
+
+Meanwhile, separate the eggs, placing the yolks in a large bowl and storing the whites for another use.  Bring a kettle of water to a boil.  After the cream has steeped remove the pods and stir in the remaining 3 cups of cream to cool the mixture.
+
+Whisk the egg yolks until they are evenly combined.  Add a cup of the cream mixture to the yolks and whisk until combined.  Continue adding cups of cream and whisking until evenly colored.  Pour the mixture through a fine mesh strainer into a second bowl.  Ladle the mixture into the 12 ramekins.
+
+Place the roasting pan onto the oven rack and pour in boiling water until it reaches 2/3 the height of the ramekins. Do not splash water into the ramekins.  Bake until an instant-read thermometer registers 170 to 175°F (77 to 79° C) or until the edges of the custard are set, with a spot in the center about the size of a quarter remaining wiggly.  The baking time depends upon the height of the ramekins.  If shallow, start checking at 30 minutes.  Higher ramekins can take up to an hour to bake.
+
+Remove ramekins from roasting pan and cool to room temperature on a wire rack.  Place on a shallow tray, cover with plastic wrap, and chill in the refrigerator for at least 4 hours.  Before serving, uncover the ramekins and soak up any condensation with paper toweling.  Spread 1 teaspoon turbinado (Demarara) sugar on each, tilting and tapping to spread the sugar evenly.  Spread sugar only on the number of ramekins that will be served.  The others can be stored for several days in the refrigerator for later use.
+
+Ignite a propane blowtorch and caramelize the sugar on each ramekin.  Take care to direct the flame away from any ignitable material.  Avoid the miniature butane torch since its flame is not adequate for uniform caramelization in a reasonable amount of time, and the finished dish may taste of butane.  Re-chill the ramekins for not more than 45 minutes.  A longer time leads to softening of the caramelized crust.
+
+Serve and enjoy!
+
+==Notes, tips and variations==
+Without a torch the sugar may also be caramelized in these ways:
+** After spreading the sugar over the ramekins, place them as close as you can under a very hot broiler. Watch them closely because this method tends to be uneven and burn.  Too long under the broiler can also result in the custard turning into a sort of chunky soup which is not a very appealing texture. Works best with fine granulated sugar.
+** Heat the sugar in a saucepan over medium heat without stirring until it starts to melt, then stir with a wooden spoon  until caramelization occurs (this is easier to tell with white sugar than Turbinado) and spoon over the ramekins, tilting and rotating them to cover with an even layer.
+** Alternately, combine the sugar with half as much water by volume, bring to a simmer over medium-high heat, and cook without stirring 3 to 5 minutes, tilting the pan as required to ensure even caramelization. If the caramel hardens due to cooling, warm over low heat until it is again pourable.
+** Regular granulated sugar may also be used for the caramelization process in place of the brown sugar.
+**A towel may also be placed into the roasting pan prior to adding the water to help distribute the heat across the bottom of the ramekins evenly as well as insulate the bottoms from the heat coming through the bottom of the pan.
+** Make sure that before adding the cream to the egg yolks, the cream has cooled down. If one adds hot cream, the yolks will start to clot, ruining the final product.
+
+== References ==
+{{reflist}}
+[1] ''Delia Smith's Complete Cookery Course'' by Delia Smith (BBC 1997) ISBN 0-563-36249-9 p.482
+[3] ''History of the Sweet Tooth'' (Taylor Piercefield, Taste of Home, 2005)
+
+{{wikipedia|Crème Brûlée}}
+
+[[Category:Dessert recipes|{{PAGENAME}}]]
+[[Category:Pudding and Custard recipes|{{PAGENAME}}]]
+[[category:Gluten-free recipes|{{PAGENAME}}]]
+[[Category:Recipes with metric units|{{PAGENAME}}]]
+[[bxr:Cookbook:Crème Brûlée]]
+[[bpy:%E0%A6%A5%E0%A6%96%E0%A7%A5%E0%A6%B2:%E0%A6%AA%E0%A6%96%E0%A7%A0%E0%A6%A0%E0%A6%A0]]
+[[ss:Crème Brûlée]]</text>
+      <sha1>i3fr68520xp06nyjrf2x2g5ksvcz155</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Crème Brûlée</title>
+    <ns>103</ns>
+    <id>3558</id>
+    <revision>
+      <id>1727253</id>
+      <parentid>1266052</parentid>
+      <timestamp>2010-02-26T23:28:56Z</timestamp>
+      <contributor>
+        <ip>92.74.231.65</ip>
+      </contributor>
+      <comment>/* Alternative Language Links */ new section</comment>
+      <text xml:space="preserve">Page history from [http://en.wikipedia.org Wikipedia] article [[en:Crème brûlée]].   
+
+    * (cur) (last) . . 00:13, 4 Jan 2004 . . Gentgeen (transwiking recipe to wikibooks)
+    * (cur) (last) . . 19:04, 14 Oct 2003 . . 66.32.186.103 ([[Turbinado]])
+    * (cur) (last) . . M 04:41, 21 Mar 2003 . . Looxix (accidentaly -&gt; accidentally )
+    * (cur) (last) . . M 17:49, 10 Feb 2003 . . Mintguy (Britian &gt; Britain)
+    * (cur) (last) . . 10:20, 4 Feb 2003 . . Mintguy (origin)
+    * (cur) (last) . . 16:24, 24 Jan 2003 . . The Anome (get.. it.. right!)
+    * (cur) (last) . . 22:22, 22 Jan 2003 . . Maveric149 (#REDIRECT [[Crème brulée]])
+    * (cur) (last) . . 22:14, 22 Jan 2003 . . JSF
+
+In Great Britian we do not measure sugar in fluid ounces but we weigh it. Should the 9 fluid ounces read just ounces? I'll change it and see if it is left.
+
+== Alternative Language Links ==
+
+... seems all broken as of today 2010-02-27 --eckes</text>
+      <sha1>32qs8oi1eycv682d08ybsfl60v2e4sx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Pasta Recipes</title>
+    <ns>102</ns>
+    <id>3559</id>
+    <revision>
+      <id>2688515</id>
+      <parentid>2688513</parentid>
+      <timestamp>2014-08-04T08:11:46Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <text xml:space="preserve">{{cookwork|This should be a category only}}
+
+{{cooknav}}
+
+[[Image:Pasta.jpg|thumb|Spaghetti, a type of pasta]]
+
+'''Pasta''' is a type of food made from flour, water, and sometimes eggs, which is mixed, kneaded and formed into various shapes, and boiled prior to consumption. While the name comes from Italy, pasta is very popular all over the world. The English word pasta generally refers to noodles and other food products made from a flour and water paste, often including egg and salt.
+
+*[[Cookbook:Carbonara, American Version|Carbonara, American Version]]
+*[[Cookbook:Easy pasta sauce|Easy pasta sauce]] (Vegetarian)
+*[[Cookbook:Egg_noodles|Egg Noodles]] (Ovo-vegetarian)
+*[[Cookbook:Eggplant_Pasta|Eggplant Pasta]] (Vegan)
+*[[Cookbook:Fiddlehead-Portobello_Linguine|Fiddlehead-Portobello Linguine]] (Vegetarian)
+*[[Cookbook:Fresh Pasta with Mozzarella, Tomato and Basil|Fresh Pasta with Mozzarella, Tomato and Basil]]
+*[[Cookbook:Garlic Parmesan Pasta|Garlic Parmesan Pasta]]
+*[[Cookbook:Hamburger Skillet Dinner|Hamburger Skillet Dinner]]
+*[[Cookbook:Lasagne|Lasagne]]
+*[[Cookbook:Lasagne with bean sauce|Lasagne with Bean Sauce]] (Vegetarian)
+*[[Cookbook:Lemon Chicken Pasta|Lemon Chicken Pasta]]
+*[[Cookbook:Alfredo Sauce|Linguini Alfredo]]
+*[[Cookbook:Macaroni &amp; Cheese (Baked)|Macaroni &amp; Cheese (Baked)]] (Vegetarian)
+*[[Cookbook:Mostaccioli|Mostaccioli]]
+*[[Cookbook:Pancetta Fusilli with Herb Shallot Cream|Pancetta Fusilli with Herb Shallot Cream]]
+*[[Cookbook:Pasta e Fagioli|Pasta e Fagioli]] (Vegan)
+*[[Cookbook:Pasta with Hot Dogs|Pasta with Hot Dogs]]
+*[[Cookbook:Pesto|Pesto]]
+*[[Cookbook:Ricotta Lasagne|Ricotta Lasagne]]
+*[[Cookbook:Rigatoni pasta with Ricotta in Tomato Cream Sauce|Rigatoni with Ricotta in Tomato Cream Sauce]] (Vegetarian)
+*[[Cookbook:Sausage and Tortellini Soup|Sausage and Tortellini Soup]]
+*[[Cookbook:Simple Italian Sausage Spaghetti Dinner|Simple Italian Sausage Spaghetti Dinner]]
+*[[Cookbook:Egg Noodles|Egg Noodles]] (Ovo-vegetarian)
+*[[Cookbook:Southwest Pasta|Southwest Pasta]] (Vegan)
+*[[Cookbook:Spaghetti alla  Carbonara|Spaghetti alla carbonara]]
+*[[Cookbook:Spaghetti alle Vongole|Spaghetti alle vongole]]
+*[[Cookbook:Spaghetti alla Puttanesca |Spaghetti Alla Puttanesca]]
+*[[Cookbook:Spaghetti and Meatballs|Spaghetti and meatballs]]
+*[[Cookbook:Spaghetti Bake|Spaghetti Bake]]
+*[[Cookbook:Spinach Pesto Linguine|Spinach Pesto Linguine]]
+*[[Cookbook:Sweet Italian Sausage Skillet|Sweet Italian Sausage Skillet]]
+*[[Cookbook:Tomato_Pasta|Tomato Pasta]]
+*[[Cookbook:Traditional Tuna Casserole|Traditional Tuna Casserole]]
+*[[Cookbook:Zucchini Pasta Bake|Zucchini Pasta Bake]]
+
+[[Category:Pasta recipes|*]]
+[[Category:Cookbook pages with recipe lists]]
+[[fr:Livre de cuisine/Recettes de pâtes]]
+[[ro:Carte_de_bucate:Re%C5%A3ete_cu_paste]]</text>
+      <sha1>13ic6i8k4gykvmnyvcvnjkjx7pmj35r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Petros</title>
+    <ns>2</ns>
+    <id>3561</id>
+    <revision>
+      <id>155452</id>
+      <parentid>11134</parentid>
+      <timestamp>2004-01-04T23:19:42Z</timestamp>
+      <contributor>
+        <username>Petros</username>
+        <id>411</id>
+      </contributor>
+      <text xml:space="preserve">----
+'''Petros''' is a [[en:Web_design|Web Designer]] in [[en:Canberra|Canberra]], [[en:Australia|Australia]]. Married with two young children.
+
+Interests:
+
+* [[en:Acting|Acting]]
+* [[en:Model Railways|Model Railways]]
+* [[en:Painting|Painting]] with [[en:Pastel|Pastels]]
+* [[en:Wargaming|Wargaming]]
+* [[en:Cooking|Cooking]]
+* [[en:Cinema|Cinema]]</text>
+      <sha1>hj948n4q50iojgcxz375vbtaf6wrlb9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Kzhr</title>
+    <ns>2</ns>
+    <id>3564</id>
+    <revision>
+      <id>155454</id>
+      <parentid>22414</parentid>
+      <timestamp>2004-03-28T13:38:17Z</timestamp>
+      <contributor>
+        <username>Kzhr</username>
+        <id>352</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">[[ja:&amp;#21033;&amp;#29992;&amp;#32773;:Kzhr]]
+
+I'm a Japanese User on Japanese Wikipedia.</text>
+      <sha1>clrn0eocl4wn5qjrgdsxxvlv1l31o2s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Bicycles/Maintenance and Repair</title>
+    <ns>0</ns>
+    <id>3566</id>
+    <revision>
+      <id>2676118</id>
+      <parentid>2676117</parentid>
+      <timestamp>2014-06-23T20:00:33Z</timestamp>
+      <contributor>
+        <username>Xania</username>
+        <id>40302</id>
+      </contributor>
+      <minor />
+      <comment>/* Contents */ fix link</comment>
+      <text xml:space="preserve">{{bicycles}}
+[[File:Bicycle diagram-en.svg|thumb|centre|700px|A diagram listing parts of a bicycle]]
+
+[[w:Bicycles|Bicycles]] throughout the world are made with standardized, interchangeable parts. Unlike many modern products, the technology used in bicycles is simple enough to allow many riders to repair their own vehicles with a minimum of effort. 
+
+For any cyclist, bicycle maintenance is a particularly useful skillset to acquire. Every skill learned in this area---no matter how simple or complex---can aid in keeping your bike in good working order, save you money, and make the difference between pushing your bike home or riding it. 
+
+==Contents==
+[[image:Group of bicycles.JPG|800px|thumb|right|More bike stands please...]]
+*'''[[Bicycles/Maintenance and Repair/Appendix|Appendix]]'''
+*'''[[Bicycles/Maintenance and Repair/Chains|Chains]]'''
+**[[Bicycles/Maintenance and Repair/Chains/Setting chain length|Setting chain length]]
+**[[Bicycles/Maintenance and Repair/Chains/Chain sizes|Chain sizes]]
+**[[Bicycles/Maintenance and Repair/Chains/Chain clean and lube|Chain cleaning and lubrication]]
+**[[Bicycles/Maintenance and Repair/Chains/Checking chain wear|Checking a chain for wear]]
+**[[Bicycles/Maintenance and Repair/Chains/Removing a Bicycle Chain|Removing a bicycle chain]]
+**[[Bicycles/Maintenance and Repair/Chains/Mending a broken chain|Mending a broken chain]]
+**[[Bicycles/Maintenance and Repair/Chains/Installing a new chain|Installing a new chain]]
+**[[Bicycles/Maintenance and Repair/Chain Rings|Chain rings]]
+*'''[[Bicycles/Maintenance and Repair/Bottom Brackets|Bottom brackets]]'''
+**[[Bicycles/Maintenance and Repair/Bottom Brackets/Bottom bracket overhaul|Bottom bracket overhaul]]
+*'''[[Bicycles/Maintenance and Repair/Brakes|Brakes]]'''
+**[[Bicycles/Maintenance and Repair/Brakes/Adjusting brakes|Adjusting Rim Brakes]]
+**[[Bicycles/Maintenance and Repair/Brakes/Coaster Brakes|Coaster brakes]]
+*'''[[Bicycles/Maintenance and Repair/Cables and Housings|Cables and Housings]]'''
+*'''[[Bicycles/Maintenance and Repair/Cleaning parts|Cleaning parts]]'''
+*'''[[Bicycles/Maintenance and Repair/Cranks|Cranks]]'''
+*'''[[Bicycles/Maintenance and Repair/Derailleurs/Derailleur_Adjustment|Derailleurs]]'''
+**[[Bicycles/Maintenance and Repair/Derailleurs/Front_Derailleur_Adjustment|Front-derailleur adjustment]]
+**[[Bicycles/Maintenance and Repair/Derailleurs/Rear_Derailleur_Adjustment|Rear-derailleur adjustment]]
+*'''[[Bicycles/Maintenance and Repair/Frames|Frames]]'''
+*'''[[Bicycles/Maintenance and Repair/Freewheels and Cassettes|Freewheels &amp; cassettes]]'''
+*'''[[Bicycles/Maintenance and Repair/Gear-changing Dimensions|Gear-changing Dimensions]]''':Tables with gear shifting data.
+*'''[[Bicycles/Maintenance and Repair/Glossary|Glossary]]'''
+*'''[[Bicycles/Maintenance and Repair/Handlebars and Stems|Handlebars &amp; stems]]'''
+*'''[[Bicycles/Maintenance and Repair/Headsets|Headsets]]'''
+**[[Bicycles/Maintenance and Repair/Headsets/Headset Overhaul|Headset overhaul]]
+*'''[[Bicycles/Maintenance and Repair/Hubs|Hubs]]'''
+**[[Bicycles/Maintenance and Repair/Hubs/Cleaning and repacking a hub|Cleaning and repacking a hub]]
+*'''[[Bicycles/Maintenance and Repair/Maintenance Schedules|Maintenance schedules]]'''
+*'''[[Bicycles/Maintenance and Repair/Pedals|Pedals]]'''
+**[[Bicycles/Maintenance and Repair/Pedals/Removing pedals|Removing pedals]]
+*'''[[Bicycles/Maintenance and Repair/Saddles and Seatposts|Saddles &amp; seatposts]]'''
+*'''[[Bicycles/Maintenance and Repair/Shifters|Shifters]]'''
+**[[Bicycles/Maintenance and Repair/Shifters/Rapidfire Shifter Lubrication|Rapidfire shifter lubrication]] - (i.e. Shimano A20)
+**[[Bicycles/Maintenance and Repair/Shifters/SRAM Gripshift 3.0 'comp' Cable Replacement|SRAM Gripshift 3.0 'comp' Cable Replacement]]
+*'''[[Bicycles/Maintenance and Repair/Suspension|Suspension]]'''
+**[[Bicycles/Maintenance and Repair/Suspension/Front suspension lubrication|Front suspension lubrication]]
+*'''[[Bicycles/Maintenance and Repair/Tools and Supplies|Tools &amp; supplies]]'''
+*'''[[Bicycles/Maintenance and Repair/Wheels and Tires|Wheels &amp; Tires]]'''
+**[[Bicycles/Maintenance and Repair/Wheels and Tires/Fixing a flat|Fixing a flat]] (AKA a puncture)
+**[[Bicycles/Maintenance and Repair/Wheels and Tires/Inflating Tires|Inflating Tires]]
+**[[Bicycles/Maintenance and Repair/Wheels and Tires/Truing a bicycle wheel|Truing a wheel]] (adjusting rims so that they don't appear to wobble as the wheels spin)
+[[es:Manual de la bicicleta]]
+[[fr:Mécanique vélo]]
+[[it:Riparazione della bicicletta]]
+[[fi:Polkupyörän_huolto_ja_korjaus]]
+
+{{BookCat}}</text>
+      <sha1>0c8h2t2htrfkgjpmolmdnx77o5kq4ji</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Bicycles/Maintenance and Repair/Wheels and Tires/Fixing a flat</title>
+    <ns>0</ns>
+    <id>3567</id>
+    <revision>
+      <id>2679913</id>
+      <parentid>2679912</parentid>
+      <timestamp>2014-07-09T13:02:51Z</timestamp>
+      <contributor>
+        <ip>98.169.85.187</ip>
+      </contributor>
+      <comment>/* Valve Problems */</comment>
+      <text xml:space="preserve">{{bicycles}}
+{| border=0 align=left style=&quot;margin:0 15px 0 0&quot;
+| width=180px|__TOC__
+|}&lt;h2&gt;Introduction&lt;/h2&gt;
+'''This page explains how to repair punctures in bicycle inner tubes, and gives some advice as to the most likely causes.   In addition, there are notes peculiar to the use of tube sealants.'''
+
+
+&lt;h2  style=&quot;padding-top:0px;&quot;&gt;Terminology&lt;/h2&gt;[[image:SchraderValve.jpg|thumb|right|300px|'''The Schrader valve'''; all of these have removable cores.]]
+[[image:Valve presta.jpg|300px|thumb|right|'''The Presta valve'''; This valve's core cannot be removed but Schwalbe and Bontrager valves have removable ones.]]
+The basic parts of interest are these:  
+
+*'''Tires are the rubber outer parts''' that contact the road's surface.  The rubber part is called ''cladding'', and it covers the internal structure of the tire.   The cladding has a  ''tread'', smooth or patterned, depending on its use.   The edges that fit into the wheel rims have wires within the cladding called ''beading'' or ''beads'', and various fibres run between the beads to give strength within the cladding.   Although tubeless bicycle tires exist, they are still quite rare on pushbikes, so this page deals only with tires having inner-tubes.  
+*'''Inner-tubes are the inflatable parts''' between the tire and the metal parts of the wheel.  They are invisible apart from their valves that protrude through the wheel-rims.  There are three  valve types in use; [[w:Schrader valve|Schrader valves]], [[w:Presta valve|Presta valves]], and the lesser used Dunlop valves.   Refer to the adjacent image for examples.  
+*'''Rim-linings protect the ''bottom'' of the inner-tube'''.   The ends of the spokes enter the rims, and this lining in the rim-well covers them so that the tube is not damaged.
+*'''Anti-puncture linings protect the ''top'' of the inner-tube'''.  Some high-end tires have protection built-in, but most tires have none.   As accessories, they can be easily added between the tire and the inner-tube. They prevent most punctures from thorns, glass, flints, and other sharp objects that contact the running surface of the tire, though they can rub on the tubes and be the cause of punctures in their own right. 
+*'''Self-sealing tubes'''.  These are tubes with a clotting fluid inside, (''Slime'').   They automatically seal punctures as and when they develop.   They can be bought with the fluid in them or for tubes with Shrader valves the fluid can be added separately.  
+
+
+&lt;h2&gt;The Causes of Flats&lt;/h2&gt;A ''flat tire'' or ''puncture'' is most often caused by glass, thorns, flints or nails when they cut through the outer rubber tread of the tire and damage the inner tube.   These deflations are usually quick, at least when the object is removed. Although this is the most obvious way to get a flat tire there are other ways too.   Consider these: 
+
+&lt;ul&gt;&lt;li&gt;'''Internal abrasion on metal parts'''.   If the spoke ends are not covered by the rim-tape properly, then this might happen. Other possibilities include a rubbing valve stem, or a bare edge wire in the rubber parts.   Inspect the inside of the tire for these and for ''old'' inclusions that are sometimes missed.   Also, make sure that the valve stem is straight in the rim opening. 
+&lt;li&gt;'''Rough edges from tube liners or worn internal surfaces in tires.'''   Tube liners have been reported to ''cause'' punctures, and this author has experienced a slow puncture at the free end of a liner in a two month old tube.   When a tire's cladding is frayed or holed, it can rub on the tube and cause damage.   Tires can sometimes be made good with an internal patch or ''boot''; this is a specially made patch or one improvised by adding a loosely fitted section of old inner tube over the inflated one at the site of the repeated abrasion.  
+&lt;li&gt;'''Recurrent movement of the tube'''.   This happens mostly when tires are soft.   The tires flatten or ''bottom-out'' on encountering bumps and form ''double'' faults or ''snake-bites'' in the tire.   Tires inflated to near their maximum have fewest of these. 
+&lt;li&gt; '''Incorrect seating of the tube'''.   If the tube is not seated well before inflating the tire, it is exposed to unusual stresses that lead to ''single'' faults called ''pinches''.   When inflating tires, first add a little air to the tube then press both sides of the tire around the whole perimeter to check that no tube rubber will be trapped. 
+&lt;li&gt;'''Rough handling of the tube'''.   Some outer tires leak fluid when they are punctured, as do tubes with built-in puncture repair fluids.   These cause the tube to become glued to the inside of the tire.   If the user does not know this and pulls the tube too hard when removing it, a crescent shaped weakness in the rubber results.   These areas usually become punctures, often after only a few days.   Expect binding of ''slimed'' tubes when removing them and prise any sticky sections apart carefully. 
+&lt;li&gt;'''Manufacturing faults'''.   These happen sometimes though it is difficult to tell these from other punctures.   If such a fault is obvious then return it for a replacement at the store where it was bought.   Commonly available tubes have a thickness of about 0.9mm though racing tubes are thinner; some ''downhill'' tubes are are made up to 2mm thick.   The thicker tubes are slower to produce pinches and snakebites though they have a greater rotational mass, (heavy pedalling), and in any case are rarely stocked by bike shops.&lt;/ul&gt;   
+&lt;li&gt;'''A series of recurrent punctures''', where there seems to one every other day suggests that either the user is at fault in not properly clearing the ''cause'' of punctures, or that a long series of ''pinches'' and ''snakebites'' are just starting to break through.   Replace the tube, check the state of the inside tire, or perhaps install a tube sealant.
+&lt;li&gt;'''Valve leakage''':  Some valve cores can develop slow leaks when the fibres of tube sealants settle within them, and not all valve cores can be removed for cleaning.   If a valve is not positioned squarely where it protrudes from the rim of the wheel, then the rubber will be stressed at that point and a puncture is likely to develop.&lt;/ul&gt;
+
+==Replace or Repair?==
+It is undoubtedly easier to change a tube for a new one than it is to find the puncture in the original.   For this reason many riders carry both puncture repair materials ''and'' a new tube when they travel for any great distance.
+
+When on the road it is sometimes difficult to find the point on an inner tube that is punctured.   If it is a ''slow'' puncture it might be possible to pump some air into the tube, perhaps more than once, enough to reach home or a more convenient place to do the work.   If is it a ''quick'' deflation, then a repair or replacement becomes necessary.   When an object penetrates a tire it is best not to remove it immediately if it is the only thing that keeps air in the system. Instead, use the remaining air to get the bike home before removing it.
+
+If the tires are fitted with self-sealing fluids it might be that the puncture will have been fixed already and that the tire just needs to be inflated.   A puncturing object should be removed from such a tire only when the part with the inclusion has been rotated to the ''six-o'clock'' position; this  allows the internal sealant to fully reach the puncture.   A different method is needed for slow-to-seal sidewall ''pinches''; allow the fluid to pond at the bottom of the tire then tilt the wheel, slowly rotating it, so that the fluid can reach the internal sidewalls.
+
+If the tire is not self-sealing, and ''must'' be repaired rather than replaced, then the remainder of this page will explain how.
+
+==The Basic Tools== 
+This section lists the basic requirements for tube repair.  The primary items are these:
+
+*'''A pump that fits your valves'''. ''Adaptors too for some pumps''.
+*'''Puncture patches'''.   ''The kind that need glue or the ones that are pre-glued''.
+*'''Rubber vulcanising solution'''. This is the glue that sticks rubber together.  It is not needed for some kinds of patches.   ''You also need a pin to puncture the top of the tube.'' 
+*'''A small piece of ''fine'' oil paper or sandpaper'''.
+*'''A pen '''that can make marks on rubber, like a black Sharpie(TM), or a wax crayon. ''Users please comment on what is best''. '''I have found that a pen with 'metallic silver' ink works very well for marking inner tubes.'''
+*'''Tire levers''' You need at least two of these; plastic or metal. Some repair kits include these.
+*'''A talcum block''' This is included in some puncture kits with a scraper.
+
+
+Also useful are these:
+*'''Wrenches''' . If the bike has nutted axles instead of quick-release skewers, you'll need some tools to remove the nuts so you can take the wheel off, e.g. [http://www.diydata.com/tool/spanner/spanner.htm &quot;ring spanner&quot;] or some other type of wrench.  Some bicycles require two wrenches.  Try out your tools before riding to be sure that they are the right ones to carry.
+*'''Hex wrenches''' You might need to release the brakes to get the wheel off.
+*'''Valve core removal tools'''.   These are needed only for tubes with removable valve cores, but are useful when self-sealing fluids have clogged the valves, or the cores have become loose.  Removable Presta valve cores such as those of Schwalbe and Bontrager have flats on them that can be turned with pliers.
+*'''A spare new inner-tube'''; in case all else fails.
+
+==The Repair Procedure==
+Examine the flat tire carefully to find any sharp item that may be responsible.  If a nail, thorn, shard of glass, or a flint is found in the outer tire then mark the rubber of the outer tire with a wax crayon or suitable pen so that the location is easily found.   Continue to check the tire in case there are more.
+
+Some punctures of inner-tubes also cause damage to the fabric of the outer tire, so look for any potential problems such as a bulge, that suggests a torn carcass, or for exposed carcass cord.   If such damage is excessive then it may cause repeated punctures to inner tubes.   At this time the method to correct such damage involves the surfacing of the inside of the tire with a so-called ''boot''; a pre-glued patch that keeps the fibres clear of the tube.   A piece of an old inner tube can also be used as a temporary fix, if loosely wrapped around the tube in the location of the damage.  This latter fix suggests that it might be a good idea to carry an old piece of inner tube in your repair kit.    At this time there is no rubber-based filler for cuts in ''outer'' tire cladding, so water ingress is likely.
+
+If there is no clear cause of the puncture and the location remains obscure, or if it is a ''slow'' puncture, then the wheel will need to be removed to get proper access to the inner tube.   Methods are given below that include both wheel removal and repair with the wheel in place.
+
+
+Bike tire sticks on Rim - solution ....
+It won't always happen but you can't get enough purchase on the edge to push the tire over the inner rim ... So what do you do ? 
+After several attempts to lever off with the tire lever ....
+The tire and tube were 100% empty of air .....
+I put one foot on VERY FIRMLY on the tire ( soft sole) and the applied 1 tire lever to push the bead over the rim and it came over the rim relatively easily .
+
+I was then able to access the tube.
+
+Inserting my spare tube, ** and making sure it was tucked snugly inside the tire ( again completely empty of air ),  I again had difficulty coaxing the tire bead over the last couple of inches of the wheel rim.  ( sounds familiar ).
+
+** by the way leaving the tire on the wheel rim I flipped it inside out and had a good look inside to try (and out ) to try and make sue there were no spikes, pins or thorns on either side that might puncture the new tube. 
+
+I had applied all due pressure with both tire levers bring the tire levers closer together but the last few inches was eluding me.
+
+What did I do ? You've guessed it. ...
+I removed one tire lever and once again I applied my trusty foot to on edge / rim of the tire , and then brought the remaining tire lever along the edge ( both hands now available ) until I got the tire bead to flip completely over the wheel rim.  
+
+Eureka !  
+
+Not to be recommended but any port in a storm!
+
+
+
+===Remove the wheel?===
+====Wheel in place==== 
+Most punctures need the wheel removed, but if you are sure that you know ''where'' the hole is, you can do the repair with the wheel still on the bike.  This method is popular on bikes that need wrenches to remove the wheels, and for rear wheels, even when they are of the quick-release type.   However, if the ''front'' wheel is of the quick-release type, you will usually find it more comfortable to remove it anyway.   The sequence for an on-the-bike repair is just:   
+*Prop up the bike in a stable position against a wall, fence, or use the bike stand. 
+*Move the punctured part of the wheel to a convenient angle where it is easiest to work.
+*Deflate the tire.
+*Remove ''one'' bead of the tire from the rim using tire levers as necessary, then ''gently'' pull out the section of tube with the puncture.
+*Correct the problem, then re-inflate the tire.   The methods for doing so are described in the sections below, though readers should ignore the parts that do not apply to their situations.
+
+====Wheel Removed==== 
+*Set the bike in an upright position against a wall or fence, and because the bike will become unstable when the wheels are removed, the frame might need to be secured.   Some risk scuffing the paintwork and turn the bike upside down for wheel removal.
+*Remove the wheel from the frame.  On some bikes, you need to spread or detach the brakes to do this, though deflation of the tire first will usually make it possible.
+*If your bike has [[w:Quick release wheels|Quick release wheels]], remove the wheel by loosening and unscrewing the quick-release bolts (skewers).
+*If your wheel is attached to the frame by ordinary nuts, undo them with a ring spanner (wrench).
+*If you have to take off the back wheel, it is usually a bit more complicated, because you need to get the wheel past the chain. If your bike has multiple gears [[w:Dérailleur gears|Derailleur gears]], change into the very top (smallest) rear and front gears to slacken the chain as much as possible.   This makes it easier to get the wheel off.
+
+===Remove the Inner Tube=== 
+[[image:Changing an inner tube - Removing the tire.jpg|250px|thumb|right|Using a tire lever to free the bead of the tire.]]  
+[[image:Changing an inner tube - Removing the tire (3).jpg|250px|thumb|right|Progressive use of two tire levers with one locked onto a spoke.]]  
+
+*If the tire is not fully deflated, open the valve and let the rest of the air out, as any residual air will make it difficult to get the tire off and the tube out.  If you have Schrader valves then remove the plastic cap and press the center-pin in the middle of the valve.   If you have Presta valves, remove the plastic cap, undo the metal locking screw all the way to its end, then press the end of the valve to release the air.   Later, during patching, the Presta valve can be prevented from refilling again, if necessary, by re-tightening the metal locking screw;  no such procedure is needed for the Schrader since it has an internal spring.
+*With the tire deflated, insert the smooth end of a tire lever under the bead of the tire at a position far from the valve.   While doing this be certain that the inner tube is not trapped by the tire lever.   The tire lever is used with the bent end facing inward so that it can be hooked onto the spoke to keep it positioned.   With it so positioned, insert another tire lever about four inches or so from the first, in the same way.   Continue moving and inserting the tire levers until one bead of the tire is free of the rim.    In the case of wide tires this task is fairly easy but for slim tires another tire lever may be useful.  
+*Remove the inner tube very gently, whether it is just a local section or the whole tube.   Always anticipate that the tube is sticking to the inside of the tire, and that wrenching it will cause a stretch-weakness.   If the tube seems stuck, then use extra care in separating it from the tire, perhaps softening any glued-up tube sealant with some water before easing the two apart. 
+Be careful too, with the valve when it is removed from its rim, and remember to first remove the locking screw on the rim if the valve is of the Presta type.
+
+===Find the Puncture=== 
+*If you intend repairing the tube without removing the wheel, the location of the puncture will be already known, but otherwise the puncture still needs found.
+*Remove any penetrating objects, and carefully inspect the inside of the tire, visually and by hand contact to make sure that there are no remaining causes of punctures.
+*A fast leak in the tube can be found by inflating the tube and listening for the escaping air.  Another method is to dampen a hand, then detect the cooling effect of the leak by feeling around the tube.   Sometimes a small hole is visible, especially near a stretch mark on the tube, or in a place that was sticking to the inside of the tire.   Another likely place is at the free end of a  tire liner.   If the leak is still not found then submerge the inflated tube in a basin or a sink to look for air bubbles.   During this process, it helps if the tube is folded and compressed with the hands to aggravate the leak.   Use a ball point pen, felt marker, or the chalk supplied with your puncture repair kit to mark an X on the location of the puncture. Make the X somewhat wider than the patch diameter. This will enable you to centre the patch over the hole.    
+
+===Repair the Tube===
+[[Image:Patch_glue_sand.png|thumb|200px|right|The relative sizes of the patch, glue and sanded areas.]]
+*In the area of the puncture, lightly roughen the surface of the tube with the sandpaper to expose clean rubber for the bonding process. Rubber-to-rubber patches make continuous bonds that extend though the glue layer.   Although the stresses on tube patches are fairly low, there are nonetheless optimal conditions for success:
+**'''Surfaces must be clean, dry, flat, and oil-free'''.   ''This assures a good connection.''
+**'''The glue layer must be thin'''.   ''Thin layers are strong and airtight and bonding is fast''.
+**'''The bonding must be undisturbed'''.  ''Escaping air or movement will weaken it.''
+**'''The best patches are pressed while they set'''.   ''Press the parts together''. 
+
+*Make sure that the tube is completely deflated before applying a patch as escaping air might spoil the effort; Presta valves can be locked if need be, to prevent their re-filling. There are different kinds of patches in use, and each kind is accompanied by instructions of its own.   A few of these are mentioned below.
+**Pre-glued rubber patches with foil backings usually require that a ''thin'' film of glue be applied to the tube, slightly larger than the intended patch, and left until ''tacky''. Then the backing is removed and the patch is stuck firmly onto the puncture.   To avoid handling the glued surface, expose one corner of the patch first and apply it to the tube, then withdraw the remainder of the backing while completing the connection.  Some have a handling film that can be left in place.   If too much glue has been used, be sure to press the parts together for an extended period before use; ''hours'' rather than minutes. 
+**Recently, thin clear-film patches have been made available. These do not need a priming layer of glue, and are pre-glued. After surface preparation, these are transferred to the tube directly, using the progressive removal of the backing as described above. Like other methods, they depend on a clean, dry, oil-free, flat surface for the greatest success.   They are perhaps the easiest to use, and do not need a separate glue supply.
+**Conventional rubber patches need a thin priming layer for the tube and also for the patch, then when tacky, the patch is made.  
+*After making the patch scrape some of the talcum block onto any visible glue to prevent sticking.
+*The bond of the patch strengthens with time.   Although a ''perfect'' patch can be used almost immediately, if there is no real hurry, leave the patch to set as long as possible before inflation.
+*The most difficult patch to make is one located near a ridge in the rubber; the ridge spoils the airtight connection, and ridges are hard to remove or make flat enough, even with sandpaper.   Sealant-filled tubes can repair such punctures without difficulty.
+
+===Refit the Tube=== 
+*Before the replacement of the inner tube, make sure that the causes of the puncture have been removed.   In addition, run fingers around the inside of the tire to find any rough spots that could cause damage to the tube; if found, they can be fitted with a ''boot'', a durable seal that goes over the rough bits of the inner tire, or a loose piece of old inner tube around that section of the tube itself.   Check that the rim tape, (liner), covers the spoke ends and clean any leaked  sealant from the inner tire with a damp cloth.
+*Some tires have arrows on the sidewalls to indicate which way round the tire tread is to be aligned; make sure that this is right.   When all is well, add a little air to the tube to give it some shape, and fit it into the tire. Take care in feeding the valve stem through the rim cutout.  
+*Starting at the section with the valve, work around the wheel, pushing one bead of the tire onto the rim, using your hands only. If you use a tyre lever it is difficult to avoid trapping the tube between the rim and the tyre.      Make sure also that the valve is straight at the end of this stage, and if it is not then gently straighten it by shifting the tube's position on the rim; not by pulling on the valve.
+*Repeat the process to set the second bead of the tire onto the rim following the same procedure as for the first.   Re-check the straightness of the valve stem and make any corrections before proceeding beyond this stage.
+*Work around the tire, pressing both sides toward the centre of the rim.   If this is easily done then it is clear that the tube is not trapped at any point.
+*Inflate the tire and install it on the bike, paying attention to the inflation limits marked on the tire's sidewall.
+
+==Valve Problems==
+[[image:Fietband lek zoeken.jpg|thumb|300px|'''Finding a slow leak:''' ''squeeze the tire in water to find the leak.  This image shows a Dunlop valve.'']]
+Any inner tube can be checked for leaks by first inflating it, and submerging it in water.   Telltale air bubbles will seen emerging from the site of the leak.   This process can be made more effective by forcing sections of the tire between the hands to increase the leakage.   
+
+A slow leak can sometimes be caused by the valve itself.  Sometimes a leak can be seen in a valve by wetting its various parts with a soapy solution and looking for bubbles.
+
+To try to fix a leaking '''Schrader valve''', deflate the tire, unscrew the valve body with a keyed valve cap or valve tool, and examine the seat or rubber sealing ring for cuts or nicks, dust, lint, or fibers that prevent the valve from closing fully.  Likewise check the valve seat and the bore of the valve stem.  Clean if necessary. The valve body may be replaced.  If no spares exist, an emergency fix can be had by inflating the tire with the valve sealed with silicon rubber, caulk, or cured epoxy resin.  Obviously the tube must be discarded after such a process.   
+
+If the '''Presta valves''' cannot be disassembled, then tubes with leaking valves must be replaced.   Some Presta valves, for example, those made by Schwalbe and those of Bontrager have removable cores, but most do not.   Such valves can be recognised since they have flat sections on them to allow slackening and tightening of the cores with a valve removal tool.
+
+Internal tube sealants can block both valve stems and cores.   However, stems are easily cleared with a thin object after the cores are removed, and sealant can be removed from the cores by washing them in water.
+
+==Self Sealing Tires==
+[[image:slimed_wheel_with_labels.jpg|250px|thumb|Sealed Tire Positioning: When the bike is parked or during tire inflation, rotate the valve to the five or seven-o'clock positions.  Remove penetrating objects only when they are at the six-o'clock position.]]
+Sealants will seal most small punctures in tires up to about one eighth of an inch in size.   The product (''Slime''), is already in some tubes bought from bike shops, but can be poured into existing tubes, provided that they have removable valve cores.  There are a few points peculiar to the use of tires with internal sealants.
+*'''New tires with sealant:'''   When a tube with sealant is first installed, rotate the wheel quickly several times, occasionally operating the brake, to fully spread the product.
+*'''Parking position for the wheels:'''   Because valves might become clogged with sealant when the bike is stationary for any length of time, the wheels should be routinely set to a position that allows the solution to drain from the valve.   The position that does this best is either the five o'clock or seven o'clock positions.   See the adjacent diagram.
+*'''Inflating sealed tires:'''   When the tires are being inflated there is a significant airflow.   To avoid any unnecessary clotting of the sealant, position the valves as for parking, in the five o'clock or seven o'clock positions.   
+*'''Clogged valves:'''   Despite best efforts, and sometimes at the point of purchase, the valve core or the valve stem will be blocked.   For this reason it is ''always best to use tubes with removable cores''; these can be rinsed in water to clean them, or the stems can be unblocked with a thin object.   A valve removal tool is useful. 
+*'''Removing puncturing objects:'''   Before removing a penetrating object from a sealed tire, first rotate the wheel to the six-o'clock position to give maximum exposure to the sealant pool.   This will minimise the air loss before the puncture is sealed.
+*'''Slow puncture repair:'''   Sidewall punctures, snakebites and pinches are sometimes slow to heal.   This is because the airflow is low and the conventional rotation speed might be excessive.   To make sure that slow punctures are fixed, first allow the sealant to pool at the bottom of the tire, then tilt the wheel and ''slowly'' rotate it so that the sidewall has full access to the sealant.   Repeat for the other sidewall.          
+*'''Patching a sealed tube:'''  Sealant leaked into a tire can be removed with a wet cloth. Punctures too big for the sealant to handle can be patched in the usual way, but the patch will fail unless all traces of sealant are first removed from the surface.   During the sealing of punctures, a small amount of sealant can cause sticking of the tube to the inside of the tire.   When such tubes are being removed, try to anticipate this so that the tube is not weakened by the inevitable stretching.   Rather than tugging the tube, consider using water to soften the gluing effect.
+
+==See Also==
+*[[Bicycles/Maintenance_and_Repair/Wheels_and_Tires/Inflating_Tires|Inflating tires]]
+{{BookCat}}</text>
+      <sha1>kz2qn2coo02epkt88e4p1ze7e67n441</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Bicycles/Maintenance and Repair/Wheels and Tires/Truing a bicycle wheel</title>
+    <ns>0</ns>
+    <id>3569</id>
+    <revision>
+      <id>2063351</id>
+      <parentid>2012134</parentid>
+      <timestamp>2011-03-04T17:47:27Z</timestamp>
+      <contributor>
+        <username>Avicennasis</username>
+        <id>314063</id>
+      </contributor>
+      <minor />
+      <comment>[[WP:AWB/T|Typo fixing]], typos fixed: availible → available, seperate → separate, indispensible → indispensable using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">{{bicycles}}
+==Overview==
+
+A [[w:bicycle|bicycle]] [[w:wheel|wheel]] consists of a central [[w:hub|hub]] and a round rim, joined by a number of [[w:spoke|spokes]]. Spokes radiate from the hub to the rim, where they are anchored in a screw-thread attachment called a [[w:spoke nipple|nipple]]. By tightening and loosening the nipples, it is possible to bring the wheel back into round (vertical true) or remove a side to side wobble (lateral true).
+
+Spokes may be arranged in a variety of patterns, of which three-cross, four-cross and radial are the most common.  The pattern affects the strength, weight and characteristics of the wheel but is not particularly relevant to the process of truing.
+
+==Tools Needed==
+
+To build or to maintain a spoked wheel, a [[w:spoke wrench|spoke wrench]] is necessary. The flat-to-flat dimensions of a typical spoke nipple are too small to fit any commonly-available open-end wrench. Any good bicycle shop will, however, stock a selection of spoke wrenches, with price and quality being proportional.
+
+A spoke 'twiddler', or nipple driver, is a tool that may be useful in the course of assembling a new wheel from its component parts - hub, spokes, and rim. It isn't necessary - especially if you aren't building a wheel - but it can save some time. Similar to a screwdriver, but with an off-set blade that rotates freely in the handle, it is used on the slotted outer face of the nipple - which resembles a slotted screw. A spoke 'twiddler' allows for rapid assembly of the wheel - or installation of a nipple on a single spoke - and is designed to self-limit the extent to which a nipple can be threaded onto a spoke.
+
+A spoke wrench is used to bring tension to the spokes, and is applied to the square part of the nipple that protrudes inward at the rim. Unlike the 'twiddler', the spoke wrench is designed to turn the nipple when the spoke is under tension. This difference is what makes the spoke wrench essential.
+
+A truing stand is a purpose-built stand into which a wheel (rim, spokes, and hub, with axle) is installed during wheel-building, wheel repair, or wheel maintenance. A truing stand is very useful - possibly essential - for making hand-built wheels. Effectively, it is a rugged, precision-made jig for holding the axle of the wheel solidly in place. By extension, the rim thus has a steady reference in the axle in the hub held in the truing stand. The rim is, therefore, also found in relation to a caliper, or set of calipers, built into the truing stand, and against which checks are made for radial and lateral true (read 'perfection') during the course of building or adjusting a wheel. For extreme accuracy in measuring true, an optional dial indicator may be fitted to the truing stand, and a separate tensiometer may be kept to hand to test for proper tension on all the spokes (tension-balancing). Instructions for creating an inexpensive, but very accurate, truing stand are [http://www.chc-3.com/pub/wheel_stand.htm here].
+
+A dishing tool is used to measure the extent to which the axle juts out past the rim. Since a true wheel has the plane of the rim centered laterally between the points on the axle at which the axle is fixed to the frame, the offset of the rim from that anchor point on one side of the wheel should be identical to the corresponding offset on the other side. A dishing tool is used as a comparator: the offset on one side is measured using the tool, that setting is 'stored' in the tool, and the tool is applied to the other side of the wheel for purposes of comparison; the deviation of the second side's offset from that of the first's indicates the direction in which, and the extent to which, the rim needs to be moved to make the wheel true. However, a dishing tool is not strictly necessary if you have a good truing stand: if it's understood that a true wheel (abstracting from the particularities of the hub and the spokes) is symmetrical (i.e. the rim itself is, in some sense, 'centered' on the axle) then you can use the truing stand's caliper (or calipers). and an occasional flipping of the wheel in the stand, to serve the same function as a dishing tool.
+
+==Tools, Punting==
+
+In most cases, especially when truing as maintenance on a wheel that has already been built, checking the tension on the spokes by ensuring that they all make the same tone when &quot;pinged&quot; with a fingernail will work fine. Checking the dish is also unnecessary on minor repairs, as most good truing stands will be able to give an accurate idea of how close the wheel is to centered, though it is probably a good idea to take the wheel out and re-settle it in the stand to double check. It's necessary to measure the distance if you are truing a wheel that is meant to have an offset, but this is very rare.
+
+In a situation where a stand is not available, the brake calipers on a bicycle can be used to measure true while the wheel is still attached, but this is less than ideal. Also, if no other option is available, a small adjustable wrench can be used instead of a spoke wrench or key, but extra care should be taken not to strip the nipples. A glass cutter made by Richards has one opening small enough that it can be enlarged slightly to make a passable 0 spoke wrench - or a 1 or 2, if that's what you need. 
+
+If a rim has been 'pringled', or 'potato-chipped', into a saddle shape, by a lateral blow, it will be difficult to straighten by spoke tensioning alone - in fact, it is probably impossible to overcome severe rim warping this way. Often, however, it is possible to restore the wheel to a nearly-true state, even if it seems hopelessly warped. The procedure that follows should be applied as soon as possible after the trauma; leaving the wheel in it warped state for more than a few days will likely cause the wheel to cold-set - meaning it will retain the new shape in which it is left, and probably will have to be replaced.
+
+In order to effect the following quickie repair, you must have a properly inflated tube and tire still on the rim, and the rim itself should only be generally out of shape, with no damage to the rim wall itself. To wit: standing with your feet shoulder-width apart, with both hands, grip the wheel firmly by the rim and rubber at the point directly opposite the point on the circumference that is most obviously bent away from the principle plane of the wheel; bend slightly at the waist and position the point of the tire opposite on the ground in front of you, with the wheel at an angle of 45 degrees to the ground (possibly greater, depending on the denomination of the tire), and the bent part heading earthward; raise that point off the ground a few inches and let it fall again, ensuring that in the next step, only the tire - and no part of the rim - is going to strike the ground; without straightening at the waist, or bending over further, raise the wheel off the ground to about head or chest height, then forcibly bring the wheel down in such a way as to strike the ground sharply with the inflated tube and tire at the point opposite your grip; the rim should pop back to very nearly true. You can't undo damage done by striking the rim on the ground, so plan carefully, and rehearse mentally before committing to this repair.
+
+If the quickie fix above has improved matters, it's usually possible to improve the situation further with the usual techniques required of truing or maintaining a wheel.
+
+In the event that the above procedure doesn't bring the rim back to at least a rideable state, it may be necessary to replace the rim or the entire wheel. Note, though, that a rim can often be straightened, at least to some extent, by placing the rim (with appropriately loosened spokes) between two rigid objects (e.g. a pair of closely-spaced pipes, or between a door and its cross-wise bar-like handle) and, using a prying action, creeping up on the desired degree of 'flat'. Don't bend the rim more than necessary, work iteratively, check frequently on your progress, and be aware that you may need to overshoot your target slightly to allow for the tendency of metals to spring back from bending.
+
+It should be noted that repairing local rim damage with pliers or even a hammer and anvil is never advised - because less dramatic, more effective, methods are available which will not cause even superficial damage to the rim wall - the all-important braking surface in most cases. Instead of pliers neat, repair a flairing of the rim by sandwiching the rim between two thin, very flat pieces of metal (e.g. two cone wrenches) and placing this in the jaws of channel-lock pliers. An alternative method for repairing rim flairing is to use blocks of wood as both anvil - below the rim - and hammer - above the rim. If it seems necessary to use a hammer, don't strike the rim directly with the hammer's face; lay a strip of aluminum or brass over the area of the rim to be repaired, and strike there. Aluminum cans - ubiquitous and easily cut with scissors or even a pocket knife - are indispensable in bicycle repair.
+
+==Truing the Wheel==
+
+First, remove the wheel from the bike and remove the tire and tube before placing it in the truing stand. Adjust the arm and caliper on the stand so that the caliper is just shy of touching both sides of the wheel. Now, spin the wheel and slowly close the stand's calipers until they scrape against a spot on the wheel.
+
+Once you've found a spot where you are out of lateral true, tighten the spoke or spokes on the side opposite the bump, and loosen the ones that are pulling it out of true. Be patient while doing this - you shouldn't be going more than a quarter turn at a time while truing like this. If the spokes are giving resistance, try over turning slightly, and turning back to where you intended.
+
+After you've gone through several passes like this, you should check the vertical true of the wheel to make sure that you haven't put it out of round. Re-adjust the arm and caliper of the stand so that the calipers are together and just underneath the rim. Spin the wheel, and this time adjust the arm until the wheel begins to scrape. 
+
+While adjusting for vertical true, you should tighten the spoke at the center of the hump, and tighten the spokes to the sides one half as much each. Because these spokes will be on opposite sides of the wheel, this will ensure that you don't put the wheel very much out of lateral true. If the hump is between two spokes, tighten them equally. Adjusting the spokes in one place will affect another section of the wheel, somewhat like squeezing a balloon.
+
+After this is done, you should check for lateral true and even tension, retruing for both lateral and vertical true if the wheel is out.
+
+If the wheel is properly trued and tensioned, you should stress test the wheel by placing it on one side and pressing down on it fairly firmly. You should repeat this going around the wheel, in order to be sure that the spokes settle into position with the spokes that they cross now and not while the wheel is being ridden. This can also put the wheel out of true again, and this should be checked.
+
+A full, comprehensive discussion of bicycle wheel building and truing is found in Jobst Brandt's book ''The Bicycle Wheel'' (ISBN 0960723668).
+
+==External links==
+*[http://sheldonbrown.com/wheels/index.html] - Sheldon Brown's page on bicycle wheels, wheel building and truing
+
+
+
+[[Category:Bicycles]]
+
+[[it:Riparazione della bicicletta/Centratura di una ruota]]</text>
+      <sha1>edbntme7yyip8ktcoh1yi1oneddtdfo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

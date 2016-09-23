@@ -1,0 +1,1998 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Bicycles/Maintenance and Repair/Brakes/Adjusting Rim Brakes</title>
+    <ns>0</ns>
+    <id>3570</id>
+    <revision>
+      <id>2564905</id>
+      <parentid>2542701</parentid>
+      <timestamp>2013-10-10T19:47:08Z</timestamp>
+      <contributor>
+        <ip>173.161.33.155</ip>
+      </contributor>
+      <comment>/* Preliminaries */</comment>
+      <text xml:space="preserve">{{bicycles}}
+&lt;div style=&quot;text-align:justify;&quot;&gt;&lt;table style=&quot;float:left;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;padding:10px;&quot;&gt;__TOC__&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;table style=&quot;float:right;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;padding:10px;&quot;&gt;[[Image:Labeled brake set mono 2.jpg|thumb|center|400px|Fig 1. Typical Brake Details&lt;br&gt;A. Cable Housing.&amp;nbsp;&amp;nbsp;B.  Housing End Ferrule.&amp;nbsp;&amp;nbsp;C.  Cable Guide.&amp;nbsp;&amp;nbsp;D.  Housing Detent.&lt;br&gt;E.  Rubber Noodle.&amp;nbsp;&amp;nbsp;F.  Cable Clamp.&amp;nbsp;&amp;nbsp;G.  Cable Tail.&amp;nbsp;&amp;nbsp;H.  Cable Cap.&lt;br&gt;I.  Brake Arm&amp;nbsp;&amp;nbsp;J.  Brake Block (Pad).&amp;nbsp;&amp;nbsp;K.  Block Setting Screw.&amp;nbsp;&amp;nbsp;L.  Arm Mounting Bolt.]]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;h2&gt; ADJUSTING RIM BRAKES &lt;/h2&gt;
+'''Rim brakes on bicycles are simple to adjust''', and the term ''rim'' is used to distinguish them from ''hub brakes''.   Rim brakes include all brake designs that depend on using brake pads to close on the rims of a bicycle's wheels.   The brake parts for the most common configuration are  identified in Figures 1 and 2. 
+
+Although brakes are usually mandatory on bicycles, the laws and rules for brake performance vary, and some countries, while making law for ''new'' bicycles, ('at the point of sale'), have few specifications for the operation of bicycles ''after'' that point.   Bike riders are advised to use the sources of law that apply in their ''own'' countries, but where the rules there are incomplete or unclear, they are advised to use any ''point of sale'' specifications that are available.   Because the matter might then still be unclear in some countries, a table below repeats the braking distances of British Standard BS6102/1 for '''new'''  bicycles.    
+
+Bike shops can perform any number of tasks for the bicycle owner, but the basic brake adjustments are easy to do for yourself.   At the simplest level they consist of screw adjustments on the handlebars, while knowing what gaps you intend to produce.   At other times, (rarely), the cable length needs to be changed, but this too can be done by anybody with a practical leaning.   It is perhaps when the conventional adjustments fail to solve the problem that most people resort to such pages to learn more.   This page includes a selection of the most common confusions for brake adjustment and explains how to correct them.        
+
+Bear in mind that the best way to learn the adjustment of brakes is to be shown by somebody while it is being done; in this way much of the mystery vanishes.   The next best way is to follow a fairly stolid description of the sort below, and although it lacks interaction, should at least leave the reader better informed than when he started.
+&lt;br clear=left&gt;
+=== Preliminaries ===
+----
+[[image:Labeled Brake Lever Mono 2.jpg|thumb|right|400px|Fig 2. Typical Brake Lever Details&lt;br&gt;A.   Brake Cable Housing.&amp;nbsp;&amp;nbsp;B.   Brake Barrel Adjuster.&amp;nbsp;&amp;nbsp;C.   Adjuster Locking Ring.&lt;br&gt;D.   Brake Lever.   ]]
+Consider these few things before carrying out brake adjustments.   Doing so might save time in the long run:
+
+::*'''Is a full adjustment really needed?''' Before doing any elaborate brake adjustments it is a good idea to decide whether or not a simple barrel adjustment might fix it.  If you just need a slight gap adjustment or to balance the brake arms refer to  [http://en.wikibooks.org/wiki/Bicycles/Maintenance_and_Repair/Brakes/Adjusting_brakes#Fine_Adjustments  '''Fine Adjustments''']   below.   
+
+::*'''Make sure that the wheels are correctly set'''.   The wheels should be fully engaged in the dropouts and centered in the wheel arches if brake balancing is to work.  If they are not centered, then this might be your problem as opposed to the brakes themselves; so correct the matter first.
+
+::*'''Inflate the tires first.''' Before adjusting the brakes, make sure that the tires are properly inflated, since flat tires will affect the results. Metal rims can move as tire pressures change.
+
+::*'''Preset the barrel adjusters'''. Before starting any cable length adjustments, first set the brake levers' barrel adjusters so that they are ''out by two full turns'', instead of being tightened all the way in.   This allows some fine adjustment in ''both'' directions at any stage, and will allow the cable to be slackened enough to release the wheel from the brake blocks when necessary.
+
+::*'''Check that the rims are clean'''. Remove any dirt and oil from the rims, and if necessary clean them with detergent and wire wool, being careful to avoid the rubber of the tires.
+
+::*'''Check the brake blocks for wear'''.   Make sure that the brake block contact areas have not been badly reduced.   If the surface grooves on the blocks have been removed by wear, then replacing them will improve braking greatly.   When replacing them be sure to replace both at the same time.
+
+
+&lt;h3 style=&quot;margin:0px;line-height:1em;padding:0px;&quot;&gt;The Full Procedure&lt;/h3&gt;
+----
+The full adjustment procedure is summarized below but it should be emphasized that slight adjustments might solve the problem.   In any case, it is quite usual to repeat balancing at various stages throughout the adjustment. 
+
+::*'''Position each brake block''' so that it presses ''cleanly'' onto its wheel rim.   
+
+::*'''Set the brake cable length''' to ''roughly'' establish the brake blocks' clearance.
+
+::*'''Adjust the brake-arm balance screws''' so that both blocks close onto the rims ''together''.
+
+::*'''Fine-adjust the handlebar barrel-adjuster''' for the required brake performance. 
+
+::*'''Test the brakes''' both off and on the road.
+
+These above points are all described in some detail in the text that follows.
+
+=== Brake Block Alignment ===
+----
+[[Image:Block Alignment Drawing 4.jpg|frame|Fig 3. Block Alignment.   Note the direction of ''''toeing-in''''.]]'''The brake blocks need to be aligned with the metal rims'''.   Refer to Figs 1 and  3.   The leading edge of each block should be slightly closer to the rim than its trailing edge.  This prevents brake squealing and is called &quot;toeing-in&quot;.  Use a coin, a credit card, or any other thin material under the back end of the block while adjusting it.   Some suggest tying an elastic band temporarily to the trailing end of the block to allow more freedom while working.
+
+To make the adjustment, slacken the screw that holds the block.   Usually a 5mm hex wrench is used.   Swing the brake arm in so that the block is pressed squarely against the metal rim, and then re-tighten it while holding the block hard with your &quot;toeing-in&quot; device in place.   Avoid the rubber of the wheel; the block should contact only the rim.   The block should be parallel to the rim, noting that some blocks are curved to fit its shape.   Do one block at a time, and just let each arm relax after the block is set.   If there is insufficient clearance to work or if you intend adjusting the cable length later in any case, then unhook the cable bridge (Figure 1, D) or undo the cable clamp (Figure 1, F) before carrying out the work.
+
+=== Block Clearance ===
+----
+'''Decide whether or not the block clearance is correct by trying the feel of the brake lever'''. (Figure 2, D).  The brake should feel responsive without too much handbrake slack prior to the start of braking.   Some mountain bike V-brakes might need only a 1mm gap, while many other brakes need about 2mm.   If in doubt, refer to your bicycle handbook.   If a ''significant'' adjustment is needed, resetting the cable length should do it.   If a ''small'' change will do then use the brake lever barrel-adjusters on the handlebars, as described in the  [http://en.wikibooks.org/wiki/Bicycles/Maintenance_and_Repair/Brakes/Adjusting_brakes#Fine_Adjustments  '''Fine Adjustments''']   below.
+
+==== Rough Adjustment ====
+:*'''To reset the cable length slacken the brake cable clamp''' (Figure 1, F),  usually with a 5mm hex wrench, and let the brake side arms relax.     Move both of the side arms toward the rims until the blocks are about the right distance away; although you can do this in any way that you like, it is easiest to hold one arm against its rim and adjust the other's gap so that it is about ''double'' the intended block clearance.   Pull up any cable slack and re-tighten the cable clamp.  This may take a couple of tries to get the blocks close to, but not touching, the rim.   In any case, fine adjustments can be made with the barrel adjusters (Figure 2, B), provided not too much range is expected of them.
+
+:*'''In the absence of documentation about the brakes''', aim for the combined clearance of the two blocks on v-brakes to be about 2mm; this will give 1mm gaps after balancing.   For less demanding brakes, assume about double this figure.   Some manufacturers provide internet sites with technical information of this kind.   A good example of a manufacturer's brake manual can be found in pdf format [http://techdocs.shimano.com/media/techdocs/content/cycle/SI/Capreo/BR-F700/SI-8CU0A_EN_v1_m56577569830604449.PDF '''here'''], and its parts list  [http://techdocs.shimano.com/media/techdocs/content/cycle/EV/bikecomponents/BR/EV-BR-M420-1901_v1_m56577569830609070.pdf '''here'''].
+
+==== Fine Adjustment ====
+:'''Fine adjustments are made with the handbrakes' barrel-adjusters.''' (Figure 2, B).   If not on the handlebars they may be near the brake blocks.   If the brakes just need a ''small'' adjustment, this may be all that you need.   
+
+:*'''Barrel adjustment''';  after undoing the barrel-adjuster's locknut (Figure 2, C) the brake blocks can be moved by turning the barrel screw (Figure 2, B).   To move both brake blocks ''inward'', simply ''unscrew'' the barrel (counter clockwise).  Conversely, to move both brake blocks ''outward'', turn the barrel ''inward'', (clockwise).   This feature gives a much finer adjustment of cable length than setting the cable clamp.   Check the feeling of the brake frequently while getting the adjustment right, and tighten the locknut again when it is done.  Lastly, decide whether or not to re-balance the brake arms.  
+
+:*'''Notes on barrel range''':   There are differences of opinion as to the ideal amount of thread to leave on the adjusters when the brake adjustments are complete.   The main ideas are these: 
+:**'''For maximum barrel range'''; screw the barrel adjusters all the way in ''before'' making any brake adjustments to allow the widest range of ''inward'' adjustment of the blocks.   This might be the case where compensating for block wear is the main consideration.
+:**'''To unhook the brakes;''' for a wide wheel removal, you might wish that you left more play in the cable.   That is to say, provided that the barrel has always about two turns of thread showing, then tightening it all the way in will allow the cable nipple, (the end of the cable guide), to be unhooked from the housing detent without touching the cable clamp.  Some find this method useful. Decide which is best for your routine.
+
+=== Brake Block Balance ===
+----
+''''The brake arms should be adjusted so that both blocks apply pressure to the rim at the same time'''.   As a result, at balance, there is no sideways displacement of the wheel during braking.   Although slight imbalance is not ''always'' critical, displacement of the wheel by even a small amount can cause damage when small-clearance devices such as distance counters are installed on the spokes.  Balancing the spring tensions keeps the wheel centered even during braking.
+
+For brakes like V-brakes, there is a small screw near the bottom of each brake arm to adjust the spring tension.( Fig 5).   It is often  a  posidrive screw, (M4x6mm) , with a tightening insert.   Turning this screw ''clockwise'' will cause the brake block to move ''outward'' slightly, and turning it ''anticlockwise'' will cause the block to move ''inward''.   As one block moves, so does the other, to maintain the distance between them.   Adjust these until the clearances are about equal.   In this way, operating the brake causes the blocks to reach the rim at about the same time.
+
+Be careful not to withdraw the screws too far since they may not be captive.   At the other extreme, if a screw is too far in, the brake arm will bind; if a brake arm seems inactive, or unresponsive, this might be the case, or the spring may just have popped out of its slot.   Try to avoid the limits and to reach a balance with the screws near their mid-range.   This is easier than it sounds since making an identical adjustment on both screws will leave the balance unchanged.   Brakes usually can be balanced unless the wheel is not centered in the wheel-arch.   (See Common Brake Problems on this page for more on this).
+
+=== Final Check ===  
+----
+
+&lt;!--Fig 4 Table Wiki Code--&gt;
+{|border=&quot;1&quot; cellpadding=5px align=&quot;right&quot; valign=&quot;center&quot; style=&quot;background:papayawhip;margin:10px; color:black&quot; 
+|+ '''Fig 4.   Maximum Braking Distances for Adult-Sized Bicycles.'''   ''These figures can be found in CTC Standard for the Safety of Hired and Used Cycles, ( 5/3/99 ).''
+!  style=&quot;background:LightYellow; color:black&quot; width=&quot;140&quot; style=&quot;height:50px&quot;|Maximum Braking Distance (metres)
+! style=&quot;background:LightYellow; color:black&quot; width=&quot;55&quot;|Dry Flat Surface
+! style=&quot;background:LightYellow; color:black&quot; width=&quot;55&quot;|Wet Flat Surface
+! style=&quot;background:LightYellow; color:black&quot; width=&quot;60&quot; |Remarks
+|- align=&quot;center&quot; style=&quot;height:50px&quot; 
+| style=&quot;background:LightYellow; color:black&quot;|Speed 24 kmph (15 mph) using both brakes
+| 5.5 m
+| n/a
+| Only if safe
+|- align=&quot;center&quot; style=&quot;height:50px&quot; 
+| style=&quot;background:LightYellow; color:black&quot;| Speed 24 kmph (15 mph) rear brake only
+| 14 m
+| n/a
+| Only if safe
+|-  style=&quot;background:white; color:black&quot; align=&quot;center&quot;
+|  style=&quot;height:50px&quot; |Speed 16 kmph (10 mph) using both brakes
+| 2.5 m
+| 7.5 m
+| '''Safest to Test'''
+|- align=&quot;center&quot; style=&quot;height:50px&quot; 
+| style=&quot;background:LightYellow; color:black&quot;|Speed 16 kmph (10 mph) rear brake only
+| 7.5 m
+| 19 m
+| Only if safe
+|}Rotate the wheel to check brake clearance.   Make sure that there are no repetitive noises coming from the brakes.    
+
+Test the brakes on the spinning wheels before riding.   If these work well enough then test the brakes again by riding the bicycle in a quiet place.   The brakes should stop the bicycle decisively in a fairly short distance.   Some v-brakes in particular have a short stopping distance; on these you should not need a deep pull on the brake lever for a good braking effect since this is a sign that the blocks are set too far from the rims.   In any case be sure to refer to the manual if there is doubt.
+
+Figure 4 is an extract of maximum braking distances as given by the CTC Hire Standard, that is itself related to the content of British Standard BS6102/1 for '''new'''  bikes.   The CTC standard is an attempt to consider '''used'''  bikes, as opposed to bikes at the point of first sale.   In any case, these stopping distances are useful until such time as the European standards properly address the issue.
+
+The most common reason for long braking distances, apart from maladjusted brakes, is the degradation of the brake block surface area.   Be sure if replacing these to replace both together.
+
+===Common Brake Problems===
+----
+
+====Balance Problems====
+[[Image:Brake Drawing 3.jpg|frame|Fig 5. Typical Brake Layout.   Note the location of the balance screws.]] 
+Sometimes, despite best efforts, the brake arms will not balance.   The spring balance screws are designed to have limited range since they are only expected to handle the ''difference'' between the arm tensions to achieve balance.   So, faults that only slightly bind any part of the braking system can cause trouble with balancing.   Possible faults include:   The lack of general lubrication, the binding of brake arms, the slipping of faulty adjustment screws, unseated brake-arm springs, unseated housing ferrules or nipples, or a quick-release wheel that needs re-clamped closer to the  centre of the wheel arch.   See these points below.[[Image:Brake Block Parts.jpg|frame|Fig 6. Typical Brake Block Assembly.   Note the washer padding for a persistent balance problem.   The wide and narrow concave washers are sometimes interchanged to accommodate available block designs.]]
+:'''Lubrication'''
+:Small changes in brake arm resistance are often corrected by lubrication alone.   As a last resort, to identify the source of binding, undo the cables at the brake levers, and at the cable clamp; this can isolate the three parts of the system.   In this way, each section could be studied without being affected by the other parts.   Any roughness in operation could  then be observed.   Many problems of this kind however, are solved by routine cable lubrication.    
+
+:The moving parts of brake assemblies, ''with the exception of blocks and rims'', should be oiled.   Use a light machine oil of the type sold as 'bicycle oil'.   Brake lever assemblies, cables, and the brake arms should all be lubricated.   A cable is oiled by dropping oil onto the cable with the brake lever operated to expose it.   A single drop of oil at the point where a cable enters a housing will travel the length of the cable by capillary action. Rub some oil also onto any other visible steel cables.   When the brake arms are removed, do not forget to clean and grease the  mounting pins before reassembly.   The rotating parts at the back of the brake arm's pivot-assembly should not be disassembled, though a drop of bike oil is useful when they seem a bit gritty in operation.
+
+:'''Balance Screws'''
+:The balance screws work by pushing and releasing the coiled ends of the springs, so increasing and decreasing their strength.  However, things sometimes go wrong.
+
+:In some brakes the brake arm binds up when the screw is all the way in.    In others, the screw slips off the end of its spring because of bent parts or poor design.   When either of these things happens it will be difficult or impossible to balance the brakes. 
+
+:If the balance screws seem to lack range of adjustment. then look for these problems on the underside of the brake arms.   In the case of binding screws it is simple to release the screw a bit and reattempt the balance.  Bear in mind that carrying out an identical adjustment on ''both'' balance screws should leave the balance unchanged, so unless there is some other problem, it will usually be possible to correct binding in this way. A better fix for a ''binding screw'' is to add a washer under the ''balance screw'' head to avoid binding in the future.   This limit should be set to avoid the worst case; found usually with the block against the rim. If the screws are ever replaced, avoid using screws that are longer, unless the extra is padded out as mentioned above.   This will avoid brake binding.   Balance screws are usually fitted with nylon inserts to make sure that they are fairly tight, though a drop of thread tightening fluid might also help avoid their getting lost on the road.     
+
+:Sometimes the spring on a brake arm slips out of its groove, and this is seen as one side of the brakes doing nothing at all.   This happens at times when the bridge has been undone.   Fix it by moving the spring back behind the arm into its groove.   At other times, the springs of cheaper brakes can slip off the balance screws, but this is largely a fabrication problem; consider a new set of brakes if this happens, since these springs are not easily reworked.  
+
+:Brake arms have location pins to fix them to the flats on the bike frame.   The frame often has three holes to choose from but some frame mountings have only one.   The hole chosen decides the spring strength and the work needed to pull the brake lever.   If the pins of each brake arm in a set are located in different positions, then the resulting tensions cannot be balanced.   If there is an obvious imbalance in the brake arms and the arms were recently reinstalled, then consider this possibility.   Although some frames are provided with three holes for the location pins, some brakes only work on one particular position, so take note during any disassembly as to which holes were used. 
+
+:'''Obstructed Cables and Housings'''
+:It has been noted that accessories such as straps, lock cables, and bungee cords are easily forgotten, and can bear upon brake cables in such a way as to make the balance seem impossible.   The same condition is possible when the parts at the ends of cable housings (ferrules), become unseated during brake work; the entire brake balance suffers.   Baggage on the front handlebars can kink cable housings, and a similar binding can be found in folding bicycles; in the latter case, when the bike is unfolded, make sure that any tight loops near the hinge points are straightened before making off.  If the change is fairly sudden, and in particular after parking the bike or unhooking the cable bridge, then look for these simple solutions.    
+
+:'''Wheel not Centered'''
+:Many brake balance problems are associated with wheel positioning.   There are at least three situations to consider:
+:*When a quick-release wheel is positioned within the wheel arch it can happen that it is not fully engaged in the dropouts.   This happens when a wheel is installed with the bike in a stand or otherwise above ground.   A gap is often visible.   This problem causes the brake blocks to close on the rubber of the wheels instead of the rims, so it is not subtle.   Reset the wheel. 
+:*Brakes are adjusted for the quick release lever positioned on the ''left'' of the bike.   When a ''front'' wheel is wrongly installed with the clamp on the ''right'', the ''existing'' brake balance will be upset.   Reinstall the wheel with the lever on the left.
+:*When a wheel's skewer-clamp is tightened it is important to hold the wheel in a correctly centered position during the process. Bad centering can also cause the bike to run poorly, might feel a bit heavy, and can make shifts a bit less certain. The two springs, one on each end of the skewer, (both with their pointed ends inwards) are there to help the skewer start off in the center.   The springs are not strictly necessary for the skewer to work, and as such they might be missing.  In any case a wheel can be centered by adjusting ''both'' the lever and the locknut. One way to do this is to slacken both ends until the exposed screw threads look about equal, then tighten both the locknut and the lever a little bit at a time.   Make final adjustments in the same way until resistance is first noted when the closing of the lever approaches the horizontal.   Some tires have a center ridge that is  useful for checking that the wheel is centered.   When this problem is corrected the brake balancing adjustments will come into range, and the bike might even run better.
+
+:'''Brake Arm Washers'''
+:Each brake arm has a brake block and on its screw thread there are various washers.   One of these washers is wider than the other, and they are interchanged by some users, depending on the kind of brake pull that they want.   If the brake blocks (pads) were recently changed or removed, check that there is symmetry in the positions of their wider washers.   If one pad has the wide washer near to the pad and the other has it nearest to the  nut then the distance of each brake block to the rim will be different and they will not balance.
+
+:'''Badly Worn Brake Blocks'''
+:If one brake block has been worn down much more than the other then that might affect whether or not the brakes balance, especially if it is combined with some other trivial factor.   Inspect the blocks and if changing them be sure to change both at the same time.    Generally speaking, if a brake block has been worn down so that any part of any of any of its grooves is no longer clear then they both need replaced.       
+
+:'''All Else Fails'''
+:If the brakes balance, but at opposite screw extremes, then further adjustments are prevented.  First consider all of the '''above''' solutions; i.e., is the tighter of the two binding, etc.?   If you are stuck with unmatched springs in the brake arms, (rare, since the set that came with the bike are matched in manufacture), it may be possible to get the screws back into mid-range with a washer or two.    Add thin 6mm washers, as shown in Figure 6, to the brake block assembly that habitually has the '''wider''' of the two gaps.   Adjust the number of washers until the balance is achieved closer to the balance screws' midpoints.   When all else has failed, and a fix of this kind is being considered, do not forget to consider the buying of a new set of brakes, and getting the bike shop to first take a look.
+
+====Soft Brakes====
+If brakes are softer than intended, even after adjustment, then it might be that the toeing-in is excessive.  Also, if wheel wobble causes rubbing on the brake blocks, widening the gaps will necessarily soften the brakes.   See the comments below.      
+
+:'''Excessive Toeing-in'''
+:It is impossible to set firm brakes if the blocks cannot be set close to the rims.   For brakes needing ''narrow''' clearances, e.g. 1mm to 1.5mm, the toeing-in needs also to be narrower than usual.   If the toeing-in were set to the usual 1mm more than the front of the block, then for the above example, the average clearance for each block would be 1.5mm to 2mm, and the brake would feel soft.   Thus, the toeing-in needs to be ''minimal'' if a firm or hard brake is required.   In fact some brake manufacturers recommend no toeing-in for their products.   Brakes that use ''wider'' settings by design, are affected  less by toeing-in.    
+
+:'''Wheel Wobble'''
+:Wheel wobble causes repetitive brake noise but most brake noises are unimportant.   The most common cause is debris from the road.   Also, new tires have rubber tails on them that rub on brake blocks, but these can be trimmed.   Badly centered wheels can  also cause some rubbing of the brakes.   It is as well to check this if the problem follows recent wheel work.   These noises are not serious.  
+
+:If there is even a slight wheel wobble then brake block clearances will need to be widened to avoid the repetitive rubbing noise.   Although some wheel wobble is inevitable, when it is ''excessive'' then repairs may be required.   In that case see:  [[Bicycles/Maintenance_and_Repair/Wheels_and_Tires/Truing_a_bicycle_wheel|'''Truing a bicycle wheel''']] , in an attempt to handle it yourself, or consider getting some advice from your bike shop. 
+
+:For brakes that need ''narrow'' clearances, say 1mm, the issue of wheel balance is more critical.   Widening the block clearances to 2mm, to accommodate a slight wobble makes softer brakes, but in most cases these will still be safe.   However, if the wobble worsens, then continuing to widen the clearances will lead to ineffective brakes long before the wheel itself becomes unusable.   Brakes designed for ''wider'' clearances will accommodate more wobble before the brakes suffer.
+
+===[[Bicycles/Maintenance_and_Repair/Cables_and_Housings|Cables and Housings]]===
+----
+The subject has been given a separate page at [[Bicycles/Maintenance_and_Repair/Cables_and_Housings|Cables and Housings]].
+
+
+==See Also==
+::*[http://en.wikipedia.org/wiki/Bicycle_brake_systems '''Bicycle Brake Systems''']   :   A main Wikipedia article on bike brakes  
+::*[http://en.wikipedia.org/wiki/Bicycles '''The Bicycle'''&amp;nbsp;]   :   A main Wikipedia article on the bicycle 
+::*[[Coaster Brakes]]   :   WikiBooks entry.
+::*[[Bicycles/Maintenance_and_Repair/Cables_and_Housings|Cables and Housings]]
+
+==External Links==
+::*[http://www.ctc.org.uk/resources/About_the_Bike/CTC_Hire_Standard.pdf '''CTC Hire Standard (57kb pdf)''']   :   Bicycle standards for other than the point of sale.
+::*[http://techdocs.shimano.com/media/techdocs/content/cycle/SI/Capreo/BR-F700/SI-8CU0A_EN_v1_m56577569830604449.PDF '''Shimano BR F700 Brake Adjustment (181kb pdf)''']   :   A better than average how-to file 
+::*[http://techdocs.shimano.com/media/techdocs/content/cycle/EV/bikecomponents/BR/EV-BR-M420-1901_v1_m56577569830609070.pdf '''Shimano BR F700 Brake Parts List (83kb pdf)''']   :   A better than average parts list 
+::*[http://www.sheldonbrown.com/ '''Sheldon Brown's Bicycle Technical Info'''&amp;nbsp;]  : A thorough site about all things to do with bikes - has lots on maintenance and brakes
+::*[http://www.parktool.com/repair/byregion.asp?catid=53&amp;imageField2.x=14&amp;imageField2.y=12 '''Park Tool's Bike Repair Site'''&amp;nbsp;]   :   A reliable and well known bike repair site
+[[Category:Bicycles]]
+&lt;/div&gt;</text>
+      <sha1>9wx5icggr23u6gm6c81u0nn73qcrbm0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Bicycles/Maintenance and Repair/Chains/Mending a broken chain</title>
+    <ns>0</ns>
+    <id>3572</id>
+    <revision>
+      <id>2012146</id>
+      <parentid>488989</parentid>
+      <timestamp>2011-01-05T01:59:48Z</timestamp>
+      <contributor>
+        <username>Thereen</username>
+        <id>44896</id>
+      </contributor>
+      <minor />
+      <comment>adding nav</comment>
+      <text xml:space="preserve">{{bicycles}}
+==Mending a broken chain==
+
+Newer, narrower chains and wider chains for single speed or three speed bicycles often have special links for removing the chain, but the chain tool is still needed to remove excess links when replacing chains.
+
+A chain tool can be used to push out the rivet which joins the plates of the chain together.  Many chain tools have two positions the chain will fit- make sure the plate furthest from the extractor pin is supported by the tool. Once this is done the chain can be replaced or re-assembled as a shorter chain. Most chains will have enough slack to allow removal of a few links without making the chain too short.
+
+Avoid pushing the rivet all the way out, it should remain lodged in one of the outer plates.  A small portion of the rivet left protruding on the inside of the plate can hold the chain together during reinstallation.  Use the same position in the chain tool, with the chain plate furthest from the chain tool's pin supported, and push the rivet back into place.  After reinstallation, the link will usually be too stiff- leading to chain skip unless loosened. The other position in two-position chain tools, with the closer plate supported by the tool, is used for loosening tight links. Force the side of the rivet that protrudes more into the link to loosen the link.  Alternatively, grasping the chain on both sides of the tight link and flexing the chain in and out will loosen the link.
+
+==Note==
+
+Although they're made of metal, chains seem to &quot;stretch&quot; as the links wear.  This will cause them to not engage on the gears properly (they will hook on to the middle or top of the tooth, instead of the bottom of the groove).  This will also cause the gear teeth to wear down.  
+
+To test for excessive wear on a chain, open a link and remove the chain.  Then try to flex the chain sideways, in the direction it is not supposed to bend.  If you can make anything more than a 1/8 arc (for example, if you can make a half circle or if you can touch the ends), then your chain is worn and should be replaced.  Alternatively, measure a straight section of chain under slight tension.  Standard links of chain measure one inch when new-  if 11 links of chain measure 11 1/8&quot; (283 mm) or more the chain should be replaced.
+
+If you only replace the chain and not the gears, the chain may skip.  For this reason, it is best to replace both at the same time (the front gears are not as affected by this because they are bigger and the chain doesn't pass over each tooth as many times).  Replacing the chain more often, when 11 links measure 11 1/16&quot; (281 mm), will allow the gears to be reused .
+
+==Avoiding Chain Wear==
+
+To prevent such wear, avoid using gear combinations that stretch the chain diagonally.
+
+Also change gears only when you are turning the pedals.  Remember to gear down when coming to a stop.
+
+[[Category:Bicycles]]</text>
+      <sha1>i7hhrwn5lqz7nzihav4ei9acmls3p6c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Bicycles/Maintenance and Repair/Maintenance Schedules</title>
+    <ns>0</ns>
+    <id>3573</id>
+    <revision>
+      <id>2356357</id>
+      <parentid>2356356</parentid>
+      <timestamp>2012-05-28T00:35:48Z</timestamp>
+      <contributor>
+        <ip>174.55.237.250</ip>
+      </contributor>
+      <comment>/* Regular bicycle maintenance */</comment>
+      <text xml:space="preserve">{{bicycles}}
+==Regular bicycle maintenance==
+
+Performing regular maintenance on a [[w:bicycle|bicycle]] will improve its performance and longevity, and reduce the risk of breakdowns. The exact schedule for a particular bicycle will depend on how it is used: its weekly mileage, the weather conditions, road (or off road) surface conditions and so on. Most parts will need attention and possible replacement every year or two; if this is done, however, a bicycle can be maintained in good working order for decades. 
+
+The schedule given here is a starting point for an average bike, assuming daily or weekly use; you will soon adjust this based on your own experience. 
+
+'''Every ride:'''
+*Check that the tires are inflated (a quick pinch to ensure they are hard generally suffices)
+*Check both wheels will rotate without sticking
+*Squeeze both brakes to make sure they engage properly ''(this is especially important if you have been working on the bike and may have disconnected the brake cables)''
+*Check for obvious loose parts; if you have panniers or removable child seats make sure they're properly attached 
+*Check you have working lights, a lock and a key if you will need them before you return
+*After the ride, if the moving parts have got muddy or picked up road salt, give the bike a quick hose down. It's much easier doing it now than after it has dried! 
+(washing with a bike cleaner helps get rid of dried on and hard to get off grime.)
+
+'''Once a week:'''
+*Lubricate the chain
+*Re-inflate the tires to the correct pressure.
+*Rotate wheels to check that they are in [[Bicycle Repair/Truing a bicycle wheel|true]]. Replace any broken spokes - other spokes will break and the wheel will be permanently bent if ridden in this condition. 
+
+'''Quarterly:'''
+*Check the [[Bicycles/Maintenance and Repair/Brakes/Adjusting brakes|brakes]] to ensure they are correctly adjusted, and that the pads are not worn.
+*Check derailleur adjustment.
+*Check screws or bolts holding attachments such as mudguards, racks, bottles etc. are tight.
+*Check brake and gear cables for fraying or rusting, and lubricate. 
+*Grease seat post. It may not technically be a moving part, but it is not desirable for it to become permanently stuck.
+*Adjust the saddle height and position if necessary. (when crank arm is in-line with seat tube and ball of foot is inline with pedal axle, knee should be slightly bent, then place heel on pedal, leg should then be completely straight. Hips should not wobble when riding bike, Lower seat if this occurs)
+*Check tires for signs of wear, bulges or splitting. (replace immediately)
+*Check handlebars are aligned properly with front wheel.
+*Check reflectors (if required) are still attached
+*Check the chain for [[Bicycles/Maintenance_and_Repair/Chains/Checking_chain_wear|wear]]
+
+'''At least every two years:'''
+*Replace the chain and front or rear sprockets
+*Complete dis-assembly, [[Bicycles/Maintenance and Repair/General Information/Cleaning parts|cleaning]], and lubricate all moving parts.
+*Check bottom bracket and wheel hubs for excessive play and replace if worn.
+*Check derailleur jockey wheels for wear, replace them if worn. '''*TIP*''' If the &quot;teeth&quot; of the jockey wheels or front or rear sprockets look sharp and pointy, Replace. (if rear cassette is worn, you will need to replace chain at the same time)
+*Grease metal-to-metal contact points.
+*Check saddle for splitting, and handlebar grips or tape for perishing or fraying
+*Check headset; tighten or replace bearings as necessary
+
+
+[[es:Manual de la bicicleta/Mantenimiento de la bicicleta]]
+
+{{BookCat}}</text>
+      <sha1>fcez88fvmx2ja3enbrvpmkrj9ruc83k</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Bicycles/Maintenance and Repair</title>
+    <ns>1</ns>
+    <id>3574</id>
+    <revision>
+      <id>1868579</id>
+      <parentid>1739100</parentid>
+      <timestamp>2010-06-29T14:34:03Z</timestamp>
+      <contributor>
+        <username>Mindfrieze</username>
+        <id>9484</id>
+      </contributor>
+      <comment>/* Company Specific Manuals */</comment>
+      <text xml:space="preserve">Revision history
+
+Legend: (cur) = difference with current version, (last) = difference with preceding version, M = minor edit
+
+    * (cur) (last) . . 23:11, 4 Jan 2004 . . Egil (Moved to Wikibooks)
+    * (cur) (last) . . 12:11, 4 Jan 2004 . . Egil (Move to Wikibooks?)
+    * (cur) (last) . . 16:15, 20 Dec 2003 . . Dhodges (changed tires to rims in wheel truing. The tires are *off* when truing)
+    * (cur) (last) . . 04:17, 20 Dec 2003 . . Morven (another renaming)
+    * (cur) (last) . . 04:14, 20 Dec 2003 . . Morven (yearly maintenance page renamed; fixing link to fit)
+    * (cur) (last) . . M 06:08, 14 Dec 2003 . . Infrogmation
+    * (cur) (last) . . 06:00, 14 Dec 2003 . . Jwpurple (Most parts on bicycles are not interchangeable. e.g. 700c tires vs 27&quot;, US vs metric threads, etc.)
+    * (cur) (last) . . 05:48, 14 Dec 2003 . . Dhodges
+    * (cur) (last) . . 05:46, 14 Dec 2003 . . Dhodges (ft #Tire Levers#Pump)
+    * (cur) (last) . . M 13:05, 12 Mar 2003 . . Stephen Gilbert
+    * (cur) (last) . . M 12:35, 12 Mar 2003 . . G (the --&gt; they)
+    * (cur) (last) . . 12:26, 12 Mar 2003 . . 217.158.229.141 (removed line)
+    * (cur) (last) . . 12:24, 12 Mar 2003 . . 217.158.229.141 (simple enough for many bicycle user to make simple repairs to their own vehicles.)
+    * (cur) (last) . . 12:22, 12 Mar 2003 . . 217.158.229.141 (')
+    * (cur) (last) . . 12:22, 12 Mar 2003 . . 217.158.229.141 (This article describes '''bicycle repair'' techniques.)
+    * (cur) (last) . . 12:03, 12 Mar 2003 . . Egil (Finally a lexicon that tells how to actually repair a bike)
+    * (cur) (last) . . 00:31, 11 Mar 2003 . . Statkit1 (more repairs added)
+    * (cur) (last) . . 20:56, 10 Mar 2003 . . Statkit1
+    * (cur) (last) . . 20:55, 10 Mar 2003 . . Statkit1
+
+== Accessories ==
+I'm of two minds about including a section on accessories (someone else put it on the main page). There are a few pieces of advice that can be offered. Still, with the great variety of accessories out there I'm most inclined to say [[w:RTFM|RTFM]].[[User:Dhodges|Dhodges]] 00:33, 13 Jan 2004 (UTC)
+
+== Organization ==
+I'd like to propose a reorg of this into:
+
+* Tools
+* Supplies
+* Basic Tasks (where things like removing pedals go)
+* Repairs
+* Maintenance tasks
+
+with a distinction that a Repair gets you back on the road, a Maintenance task improves something that's degraded, and a Basic task is a component of either of the above.
+
+:Nice to see someone else taking an interest. I'm more concerned with getting actual repairs written up, but hey go for it. [[User:Dhodges|Dhodges]] 22:27, 10 Mar 2004 (UTC)
+
+==Commuting bike==
+It's perhaps outside the scope of this book but I'd like to put together some advice for selecting a commuting bike. The content would go well alongside advice for fitting mudguards, fitting rear racks and other commuting essentials. Would you like to add a section for me to get started? --[[User:DavidBoden|DavidBoden]] 19:12, 12 August 2005 (UTC)
+
+==Illustrations==
+Text only is a bit hard to follow, we could do with some more pictures (like on the [[spoke wrench]]). I've some tools at home, so I could do a few pictures, but only of the basic stuff. [[User:MWF|MWF]] 09:20, 12 Aug 2004 (UTC)
+
+==Diagram(s) with labels needed.==
+Thanks great start.  I repaired my friend's bike like most of us do.  Found very brocken sprocket in rear derailer (one of the two where the chain does the S bend, where the slack is taken up), removed it, with it in hand asked for a replacement at a bike shop, and was told I had to buy the whole rear derailer unit!!  Until owner came out and pulled out recycled replacements.  Inoperable bike totally fixed.  Cost me $2.  I didn't RTFM.  Under most circumstances I like to have a diagram and name of the part so I appear to know what I am talking about, or can show I have made an attempt to research.  Looking and sounding like a newbie can be very expensive.  I hope someone can put in a diagram of the typical gear change bike with labels of parts to make phone calls easier.
+
+==Organization==
+Wouldn't it be better to organize the book based on the part of the bike being repaired rather than the skill level needed to perform the repair?  Ex: Chapter 1: Wheels, Chapter 2: Brakes, Chapter 3: Drivetrain, etc.  Each repair could also then be given a difficulty rating, such as on a one to ten scale, as well as a list of tools needed for the repair (a master list of tools at the beginning or end would still be helpful).  I believe this is how most repair manuals are written and I almost just did it, but I decided it would be better to discuss it here first.  --[[User:FurciferRNB|FurciferRNB]] 10 October 2005
+:I'm an utter newbie here, but that seems very sensible to me. --[[User:Danny Wilde|Danny Wilde]] 14:38, 16 October 2005 (UTC)
+
+:I think it might be useful to provide both an index by part and the old system that broke tasks up by difficulty and the frequency they need  to be performed. The current system is more useful as a reference when your bike breaks, but the old way is more useful to a beginner who wants to learn or buy tools. --[[User:Dmonego|Dmonego]] 04:47, 11 November 2005 (UTC)
+
+::It seems like we almost need two 'streams' for the maintenance/repair part of the book: a reference manual that can be 'dipped into' at any point, and a learn-about-your-bike sort of book, which reads well cover-to-cover and incrementally introduces bicycle parts and concepts.  A organisation that lets the reader go quickly to the bit they need isn't any good for someone who doesn't know what they need.  Similarly, the more experienced mechanic just wants to look something up doesn't want to trawl through all the 'this is a chainring' introductory material.  --[[User:Samwilson|Samwilson]] 02:32, 13 September 2006 (UTC)
+
+==Reorg==
+Based on input above from [[User:FurciferRNB|FurciferRNB]] and [[User:Danny Wilde|Danny Wilde]] as well as my own consensus, I've reorganized this book to reflect part-groups of a bike rather than difficulty level of the task.  I think that this way users will more easily be able to find the information they're looking for.  I still think difficulty should be reflected though.  I suggest that sections in each chapter should be listed in order of difficulty from easiest to hardest. For example, in the chapter on 'Tires &amp; wheels', 'Fixing a flat' would come before 'Truing a wheel.'  I moved the listing of tools and supplies to its own chapter and I moved the manufacturer links to the Appendix.
+
+Also, I reorganized the Bicyles page, of which this page is (has been) a module.  I see this page, as well as those listed with it on the Bicycles page, as volumes in a library, where each volume should be able to stand on its own as much as possible.
+
+With respect to [[User:DavidBoden|DavidBoden's]] comment about equipment for a commuting bike, I think that information would go well in the volume on 'Equipment &amp; accessories'.  I'd also, personally, like to see more info on this topic, with maybe focus on what type of riding you do (i.e. commuting, touring, MTBing, BMXing, etc.)
+
+Lastly, I've cleaned up this discussion page a bit to make the threads easier to read.  Overall, I'd love to see some feedback and improvements on this book's reorganization. Thanks. [[User:Mindfrieze|Mindfrieze]] 18:12, 6 November 2005 (UTC)
+
+== Company Specific Manuals ==
+
+--[[User:Georgio8|Georgio8]] ([[User talk:Georgio8|talk]]) 15:15, 18 March 2010 (UTC) I notice that the Appendix has a list of links to Company Specific Manuals. 
+
+Some members of the Moulton Bicycle Club ([http://groups.yahoo.com/group/moultonbicycle/ moultonbicycle yahoo list]) would like to use this book itself as a place to hold information that we have collected but haven't yet posted anywhere about the maintenance of the (many) different models of Moulton. So we're wondering whether it would be in the spirit of this book to add a Moulton section to the Appendix.
+
+:Georgio8, I say go for it.  This hasn't been a very active book over the last five years, so drop your info in, and we'll see how it works out.  --[[User:Mindfrieze|Mindfrieze]] ([[User talk:Mindfrieze|talk]]) 14:34, 29 June 2010 (UTC)</text>
+      <sha1>0dzvrcw4m7qhfx4afslv4ajqq9ovtxr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Bicycles/Maintenance and Repair/Wheels and Tires/Fixing a flat</title>
+    <ns>1</ns>
+    <id>3575</id>
+    <revision>
+      <id>1629220</id>
+      <parentid>1101106</parentid>
+      <timestamp>2009-09-13T16:56:52Z</timestamp>
+      <contributor>
+        <username>Armchair</username>
+        <id>77084</id>
+      </contributor>
+      <text xml:space="preserve">Revision history
+
+Legend: (cur) = difference with current version, (last) = difference with preceding version, M = minor edit
+
+    * (cur) (last) . . 23:14, 4 Jan 2004 . . Egil (Moved to Wikibooks)
+    * (cur) (last) . . 12:11, 4 Jan 2004 . . Egil (Move to Wikibooks?)
+    * (cur) (last) . . 23:52, 12 Dec 2003 . . Mrzach (added sandpaper)
+    * (cur) (last) . . 23:46, 12 Dec 2003 . . Mrzach (added step 1 (the easy way))
+    * (cur) (last) . . M 05:38, 27 Nov 2003 . . Dori (dont -&gt; do not)
+    * (cur) (last) . . 01:38, 28 Mar 2003 . . Marj Tiefert (spelling, grammar, commas)
+    * (cur) (last) . . 21:03, 2 Mar 2003 . . G-Man
+
+I believe the word tire has been inadvertantly substituted for tube in many places in the following paragraph which is found at the end of the notes section under Flat Repair. I placed (TUBE) where there appears to be an error.
+
+&quot;Because tire(TUBE) prices have come down dramatically, it is generally suggested to replace the tire(TUBE) after one patch job, especially for high-pressure tires. You should still have a patch kit or spare tube with you on long rides. You can cut the old tire(TUBE) into strips of rubber and use it for a variety of things, including bungee-type straps.&quot;
+
+Unfortunately, I disagree with this comment. While it may be less expensive to an individual to replace a tube after one patch, the cost to the environment is heavy in materials and energy for every tube produced. My experience is that a tube can be patched many times before it's ready to become a bungee cord.
+
+== Ontario fuel stations seem to go above 35 psi ==
+
+Pumps at fuel station only inflate to 35 psi? In [[Wikipedia:Ontario|Ontario]], the pumps at fuel stations seem to inflate quite well and, often better than the mini-pump that I carry with me. [[User:WbZurp|WbZurp]] 14:31, 25 July 2005 (UTC)
+
+It is better to carry a small pump than to look around for a service station pump, unless you don't have a flat. The 35 lb. statement isn't correct. It's easy to (b o o m !) blow out a tyre with a high pressure pump. There is no standard: there may be no air at the service station. If it's there, it may cost or be free and its pressure can indeed be too low. So what's said is essentially correct: it might not be a good idea to count on the gas station.
+
+==Suggested amendment which may alter sentence sense==
+
+I was wondering whether the sentence &quot;the material to repair a tube is tiny compared to the entire tube itself&quot; should be changed to &quot;the cost of the material to repair a tube is tiny compared to the cost of the entire tube itself&quot;...? Or is this is the sense that the author intended. Forgive me for being pedantic but as a writer I know how annoying minor edits can be if they change the sense of your sentence!
+
+Your instincts are correct.  Don't feel shy about making such corrections yourself. 
+[[User:Dmforcier|Dmforcier]] ([[User talk:Dmforcier|talk]]) 21:30, 3 February 2008 (UTC)
+
+== Best structure for this topic? ==
+There are several scenarios in which one might need to fix a flat: in the shop, on the road, with a road bike, with a MTB, using a patches or a whole tube, etc.  The article was originally written for the type of bike with which the author was most familiar, and in a first-person style.  So a couple of questions: 
+#Do we want to keep the first-person style?
+#Covering all options in one set of instructions can be confusing.  Should there be different sets of instructions for each scenario?
+[[User:Dmforcier|Dmforcier]] ([[User talk:Dmforcier|talk]]) 21:30, 3 February 2008 (UTC)
+
+==Working on it==
+Started working on this page.   If there are comments of interest, now is the time.  Does anybody know about an outer tire rubber filler that will bond to the cladding for fixing tears?   It seems like something that would sell!   You can boot the inside but most would be happier fixing the outsides too.   (Reduced water ingress.) .  Thanks all, [[User:Armchair|Armchair]] ([[User talk:Armchair|talk]]) 16:56, 13 September 2009 (UTC)</text>
+      <sha1>pkzv77nwus0eiv2hekeyhgvzhlwixdl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Bicycles/Maintenance and Repair/Wheels and Tires/Truing a bicycle wheel</title>
+    <ns>1</ns>
+    <id>3576</id>
+    <revision>
+      <id>878172</id>
+      <parentid>274579</parentid>
+      <timestamp>2007-05-27T21:22:04Z</timestamp>
+      <contributor>
+        <ip>72.72.41.158</ip>
+      </contributor>
+      <comment>What is lateral true &amp; what is vertical true?</comment>
+      <text xml:space="preserve">Revision history
+
+Legend: (cur) = difference with current version, (last) = difference with preceding version, M = minor edit
+
+    * (cur) (last) . . M 22:45, 4 Jan 2004 . . Egil (This page has been moved to Wikibooks)
+    * (cur) (last) . . 22:44, 4 Jan 2004 . . Egil (This page has been moved to Wikibooks)
+    * (cur) (last) . . 12:12, 4 Jan 2004 . . Egil (Move to Wikibooks?)
+    * (cur) (last) . . 06:26, 14 Dec 2003 . . Jwpurple (Fix a badly bent rim and eccentricity. Patience...)
+    * (cur) (last) . . 06:11, 14 Dec 2003 . . Jwpurple (Folding rule as a trueing alignment tool.)
+    * (cur) (last) . . 13:44, 7 Mar 2003 . . 217.24.129.50 (italic ''The Bicycle Wheel'')
+    * (cur) (last) . . 13:02, 7 Mar 2003 . . 212.24.80.69
+    * (cur) (last) . . 13:00, 7 Mar 2003 . . 212.24.80.69
+    * (cur) (last) . . 12:53, 7 Mar 2003 . . 212.24.80.69
+    * (cur) (last) . . 18:22, 5 Mar 2003 . . 212.24.80.69
+    * (cur) (last) . . 18:20, 5 Mar 2003 . . 212.24.80.69 (How to true a bicycle wheel)
+
+== What is lateral true &amp; what is vertical true? ==
+
+Lateral true &amp; vertical true need to be defined in the article. —[[User:72.72.41.158|72.72.41.158]] 21:22, 27 May 2007 (UTC)</text>
+      <sha1>pp7ezwieyizv18vv2qflw5ikaeaq2bq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Bicycles/Maintenance and Repair/Brakes/Adjusting Rim Brakes</title>
+    <ns>1</ns>
+    <id>3577</id>
+    <revision>
+      <id>2265547</id>
+      <parentid>2244056</parentid>
+      <timestamp>2012-02-14T21:31:48Z</timestamp>
+      <contributor>
+        <ip>212.183.128.112</ip>
+      </contributor>
+      <comment>/* Noodle */ new section</comment>
+      <text xml:space="preserve">Revision history
+
+Legend: (cur) = difference with current version, (last) = difference with preceding version, M = minor edit
+
+    * (cur) (last) . . 22:52, 4 Jan 2004 . . Egil (Moved to Wikibooks)
+    * (cur) (last) . . 12:10, 4 Jan 2004 . . Egil (Move to Wikibooks)
+    * (cur) (last) . . 14:58, 3 Jan 2004 . . Egil (Up for deletion)
+    * (cur) (last) . . 03:56, 3 Jan 2004 . . 68.228.42.110
+    * (cur) (last) . . M 08:19, 22 Dec 2003 . . Angela (bold, link)
+    * (cur) (last) . . M 03:16, 29 Aug 2003 . . Zack
+    * (cur) (last) . . M 16:15, 13 Aug 2003 . . Andrewa (fix link)
+    * (cur) (last) . . 15:58, 13 Aug 2003 . . Andrewa (add details of cables)
+    * (cur) (last) . . 15:52, 10 Mar 2003 . . AndyGates
+
+== Picture of bike showing parts... ==
+
+Hi, I put on january a picture, can you help me to find it
+Thanks...
+--[[User:Gengiskanhg|Gengiskanhg]] 23:42, 14 Apr 2005 (UTC)
+
+::Hi, that image was probably added before the page was moved from WIKIPEDIA.   This history only starts on the beginning of January 2005.    If you know some part of the ''name'' of the image it might be found in [http://tools.wikimedia.de/~tangotango/mayflower/ MAYFLOWER IMAGE SEARCH].   [[User:Armchair|Armchair]] ([[User talk:Armchair|talk]]) 20:00, 5 July 2009 (UTC)
+
+
+==Other brake problem causes==
+
+Please leave a note here if you know of other brake problems that may be of interest for the page.
+
+Alternatively, add a section.
+
+Armchair, 16:20 GMT , 27 September 2009
+
+== Simplicity ==
+
+The page starts with &quot;'''The brakes on bicycles are simple to adjust'''.&quot;, which already made me laugh. Then a couple paragraphs later:
+
+:Bear in mind that the best way to learn the adjustment of brakes is to be shown by somebody while it is being done; in this way much of the mystery vanishes.
+:The next best way is to follow a fairly stolid description of the sort below, which will get the job done with a little perseverance.
+
+I see a certain contradiction in the lead. I would remove the first sentence. --[[User:Chealer|Chealer]] ([[User talk:Chealer|discuss]] • [[Special:Contributions/Chealer|contribs]]) 01:15, 6 October 2011 (UTC)
+
+
+Hi,&lt;br&gt;
+Whereas you say that you ''would'' remove a sentence, I also note that you did not! So pleased that my efforts amuse you - a little more effort and a bit less idle commentary would serve you and the writing community better![[User:Armchair|Armchair]] ([[User talk:Armchair|discuss]] • [[Special:Contributions/Armchair|contribs]]) 08:34, 27 December 2011 (UTC)
+
+== Noodle ==
+
+Super page. The pipe marked &quot;cable guide&quot; is a noodle, and the rubber item marked &quot;noodle&quot; is actually a boot</text>
+      <sha1>t0nceiq57i9vzqufwzjldv4i2dbf1gd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Bicycles/Maintenance and Repair/Chains/Mending a broken chain</title>
+    <ns>1</ns>
+    <id>3579</id>
+    <revision>
+      <id>274609</id>
+      <parentid>247011</parentid>
+      <timestamp>2005-11-06T18:55:45Z</timestamp>
+      <contributor>
+        <username>Mindfrieze</username>
+        <id>9484</id>
+      </contributor>
+      <minor />
+      <comment>Talk:Bicycle Repair/Mending a broken chain moved to Talk:Bicycles/Maintenance and Repair/Chains/Mending a broken chain</comment>
+      <text xml:space="preserve">Revision history
+
+Legend: (cur) = difference with current version, (last) = difference with preceding version, M = minor edit
+
+    * (cur) (last) . . 23:05, 4 Jan 2004 . . Egil
+    * (cur) (last) . . 12:13, 4 Jan 2004 . . Egil (Move to Wikibooks?)
+    * (cur) (last) . . 02:35, 20 Dec 2003 . . Dhodges (mending a chain)</text>
+      <sha1>3kq9mzs6pe4v0aiq3bt56260vomahdf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Bicycles/Maintenance and Repair/Maintenance Schedules</title>
+    <ns>1</ns>
+    <id>3580</id>
+    <revision>
+      <id>274555</id>
+      <parentid>247029</parentid>
+      <timestamp>2005-11-06T17:30:43Z</timestamp>
+      <contributor>
+        <username>Mindfrieze</username>
+        <id>9484</id>
+      </contributor>
+      <minor />
+      <comment>Talk:Bicycle Repair/Yearly bicycle maintenance moved to Talk:Bicycles/Maintenance and Repair/Maintenance Schedules</comment>
+      <text xml:space="preserve">Revision history
+
+Legend: (cur) = difference with current version, (last) = difference with preceding version, M = minor edit
+
+    * (cur) (last) . . M 23:08, 4 Jan 2004 . . Egil (Moved to Wikibooks)
+    * (cur) (last) . . 23:07, 4 Jan 2004 . . Egil (Moved to Wikibooks)
+    * (cur) (last) . . 12:13, 4 Jan 2004 . . Egil (Move to Wikibooks?)
+    * (cur) (last) . . 18:34, 24 Dec 2003 . . Dhodges (added to &quot;every two years&quot; maintenance)
+    * (cur) (last) . . 15:58, 20 Dec 2003 . . Dhodges
+    * (cur) (last) . . M 04:36, 20 Dec 2003 . . Infrogmation
+    * (cur) (last) . . 02:29, 20 Dec 2003 . . Dhodges
+    * (cur) (last) . . 02:26, 20 Dec 2003 . . Dhodges (section on yearly maintenance)</text>
+      <sha1>680hjljbkpgw0vejj75qgmtkmp7dha4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Dutch/Cover</title>
+    <ns>0</ns>
+    <id>3581</id>
+    <revision>
+      <id>1810568</id>
+      <parentid>1553946</parentid>
+      <timestamp>2010-05-31T20:52:50Z</timestamp>
+      <contributor>
+        <username>CommonsDelinker</username>
+        <id>49843</id>
+      </contributor>
+      <minor />
+      <comment>Replacing 800px-Hendrik_Avercamp_001b.jpg with [[File:Dutch_Wikibook_cover_Hendrik_Avercamp.jpg]] (by [[commons:User:DieBuche|DieBuche]] because: File moved).</comment>
+      <text xml:space="preserve">[[File:Dutch_Wikibook_cover_Hendrik_Avercamp.jpg]]
+{| align=center cellpadding=10
+| align=left | [[Image:Flag of Belgium.svg|120px|Flag of Belgium]]
+
+[[Image:Flag of the Netherlands.svg|120px|Flag of the Netherlands]] [[Image:Flag of Suriname.svg|120px|Flag of Suriname]]
+| align=centre | &lt;big&gt;&lt;big&gt;Dutch ~ English&lt;/big&gt;&lt;/big&gt;&lt;br&gt;
+&lt;big&gt;Learning the Dutch Language&lt;/big&gt;&lt;p&gt;
+[[../|&lt;span style=&quot;font-size:1.2em&quot;&gt;'''Continue to the Main Content Page'''&lt;/span&gt;]]''
+|}
+
+&lt;div style=&quot;font-size:larger; border: 2px solid SlateBlue; background: #F7F7FF; padding: .2em; text-align:center&quot;&gt;[[Dutch/Introduction|Begin the Wikibooks Dutch Language Course!]]&lt;/div&gt;
+
+[[Category:Dutch|{{SUBPAGENAME}}]]</text>
+      <sha1>bfw8eefnt4agigloh4485092hie2t5g</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Dutch</title>
+    <ns>0</ns>
+    <id>3583</id>
+    <revision>
+      <id>2626982</id>
+      <parentid>2387341</parentid>
+      <timestamp>2014-04-05T00:13:47Z</timestamp>
+      <contributor>
+        <username>Jcwf</username>
+        <id>95658</id>
+      </contributor>
+      <text xml:space="preserve">__NOTOC__
+{| style=&quot;text-align:center;margin-top:-5px;margin-bottom:3px;&quot; align=&quot;center&quot; cellpadding=&quot;5&quot;
+| [[Image:Flag of the Netherlands.svg|border|45px|Nederland (The Netherlands)]]
+| rowspan=&quot;4&quot; |
+&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&amp;nbsp; Nederlands ~ Engels &amp;nbsp;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;
+
+&lt;big&gt;&lt;big&gt;&lt;big&gt;''Dutch ~ English''&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;big&gt;Inhoud&lt;/big&gt;
+
+&lt;big&gt;''Table of Contents''&lt;/big&gt;
+| [[Image:Flag of South Africa.svg|border|45px|Zuid-Afrika (South Africa)]]
+|-
+| [[Image:Flag of the Netherlands Antilles.svg|border|45px|De Nederlandse Antillen (The Netherlands Antilles)]]
+| [[Image:Flag of Aruba.svg|border|45px|Aruba (Aruba)]]
+|-
+| [[Image:Flag of Belgium.svg|border|45px|België (Belgium)]]
+| [[Image:Flag of  Namibia.svg|border|45px|Namibië (Namibia)]]
+|-
+| [[Image:Flag of Suriname.svg|border|45px|Suriname (Suriname)]]
+| [[Image:Flag of Indonesia.svg|border|45px|Indonesië]]
+|}
+
+[[Image:Brugge_Markt1.jpg|[[Image:Flag of Belgium.svg|15px]] '''Brugge'''|thumb|250px]]
+[[Image:Amsterdam_-_Waag.jpg|[[Image:Flag of the Netherlands.svg|15px]] '''Amsterdam'''|thumb|250px]]
+[[Image:Gildehuizen Antwerpen.jpg|[[Image:Flag of Belgium.svg|15px]] '''Antwerpen'''|thumb|250px]]
+
+* [[/Cover/|Voorkant]] ''The cover, frontpage''
+* [[/Introduction|Voorwoord]] - ''How to use this textbook''
+* [[/Practical|Handig]] - Newspapers in Dutch (&amp; Afrikaans)
+* [[/Vocabulary|Woordenschat]] - Some visual vocabulary for beginners
+
+==''Inleidingslessen'' (Introductions)==
+*[[/Lesson 1|Les 1]]: ''Eenvoudige gesprekken'' ~ Dutch grammar (introduction), conversations, polite and familiar forms, personal pronouns: subject and object.
+**[[/Example 1|Voorbeeld 1]]: Poesje en Hondje
+**[[/Lesson 1A|Les 1A]]: Some more conversations.
+*[[/Lesson 2|Les 2]]: ''Onbekenden en vrienden'' ~ Verbs (introduction), polite and familiar conversations, word order in questions.
+**[[Dutch/Lesson 2A|Les 2A]] Some more inflection.
+*[[/Lesson 3|Les 3]]: ''Getallen'' ~ Numbers 1 to 12, telling time, natural and grammatical gender of animate and inanimate nouns and the reference problem.
+**[[Dutch/Lesson 3A|Les 3A]]: Some more time telling.
+*[[/Lesson 4|Les 4]]: Indefinite articles, more pronouns, plural of nouns. 
+
+*[[/Review 1-4|Herhaling 1-4]] ~ Review Point
+*[[/Toets 1-4|Toets 1-4]] ~ Test
+
+*[[/Lesson 5|Les 5]]: ''De weg vinden'' ~ Asking directions, conjugating regular verbs in the present .
+*[[/Lesson 6|Les 6]]: Numbers 13-100, simple math, colors. Past and perfect tense
+*[[/Lesson 7|Les 7]]: ''Samenstellingen'' - Gluing words together - ''Diminutives'' 
+*[[/Lesson 8|Les 8]]: ''Er'' and the ''pronominal adverbs''. Pronominal replacement. Translating ''its''.
+
+*[[/Review 5-8|Herhaling 5-8]] ~ Review Point
+*[[/Toets 5-8|Toets 5-8]] ~ Test
+
+*[[/Lesson 9|Les 9]]: ''Zullen'', ''kunnen'' and ''laten''. Future and conditional.
+*[[/Lesson 10|Les 10]]: Separable verbs.
+*[[/Lesson 11|Les 11]]: Word order. Conjunctions and subjunctions
+*[[/Lesson 12|Les 12]]: Passive voice.
+
+*[[/Review 9-12|Herhaling 9-12]] ~ Review Point
+*[[/Toets 9-12|Toets 9-12]] ~ Test
+
+*[[/Lesson 13|Les 13]]: Adjectives revisited
+*[[/Lesson 14|Les 14]]: Verbal nouns
+*[[/Lesson 15|Les 15]]: Modal particles, case endings
+*[[/Lesson 16|Les 16]]: Review of ''werkwoorden'' verbs
+
+*[[/Review 13-16|Herhaling 13-16]] ~ Review Point
+*[[/Toets 13-16|Toets 13-16]] ~ Test
+
+*[[/Lesson 17|Les 17]]: Adverbs and Prepositions
+*[[/Lesson 18|Les 18]]: More about word order of separable verbs
+*[[/Lesson 19|Les 19]]: Inseparable verbs
+*[[/Lesson 20|Les 20]]: Exclamations!
+
+*[[/Review 17-20|Herhaling 17-20]] ~ Review Point
+*[[/Toets 17-20|Toets 17-20]] ~ Test
+
+*[[/Lesson 21|Les 21]]: That difficult word order...
+*[[/Eindexamen|Eindexamen]] ~ Final examination
+
+==''Speciale lessen''==
+* [[/Lesson Afrikaans|'''Afrikaans''']] &amp;mdash; Comparison with Afrikaans, the language of South Africa and Namibia, and derived from Dutch. Until 1961 it was seen as the same language as Dutch.
+*: See [[w:Afrikaans]] for more information.
+* [[/Lesson Flemish|'''Vlaams''']] &amp;mdash; Flemish is a special case, not a language and not a dialect. It is commonly spoken in Flanders but has no official status or something comparable.
+*: Read the introduction on [[w:Flemish (linguistics)]] for more information.
+
+==''Lessen voor gevorderden''==
+*[[/Lesson 1A|Les 1A]]: ''Gesprekken'' ~ Polite conversation, word formation. 
+*[[/Lesson 2A|Les 2A]]: ''Richting vragen'' ~ Personal pronouns &lt;!--in the nominative case.--&gt;
+*[[/Lesson 2B|Les 2B]]: ''Geschiedenis van ...'' &lt;!--Geschichte von St. Pölten'' --&gt;
+&lt;!--
+*[[Dutch/Lesson 3A|Les 3A]]: Gender of ordinals, personal pronouns in the accusative case.
+*[[Dutch/Lesson 4A|Les 4A]]: Personal pronouns in the dative case.
+*[[Dutch/Lesson 5A|Les 5A]]: Personal pronouns in the genitive case.
+--&gt;
+
+==''Appendix''==
+{{InterWiki|code=nl|edition=Dutch}}
+{{Category 1}}
+* Een &amp;mdash; [[/Alfabet|Het alfabet]] ~ ''Dutch alphabet and '''Pronunciation Guide'''''
+* Twee &amp;ndash; [[/Appendix 2|Zinnenboek]] ~ ''Common phrases in Dutch (Book of Sentences)''
+* Drie &amp;ndash; ''[[/Appendix 3|Pronouns]]''
+* Vier &amp;ndash; ''[[/Websites|Websites]]''
+* Vijf &amp;ndash; ''[[/What time is it?|Hoe laat is het?]] ~ ''Asking the time''
+* Zes &amp;ndash; ''[[/The numbers|De Cijfers]] ~ ''The Numbers''
+
+{{Subjects|Languages of Europe}}
+{{alphabetical|D}}
+{{status|75%}}
+
+[[af:Nederlands]]
+[[de:Niederländisch]]
+[[fr:Néerlandais]]
+[[is:Hollenska]]
+[[he:הולנדית]]
+[[na:Dorerin Eben Eyong]]
+[[nl:Nederlands]]
+[[pl:Niderlandzki]]
+[[uk:Мова людства/Нідерландська]]</text>
+      <sha1>s8pgz48nsfphlfn0ol7xx8qht1f82qk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Dutch/Introduction</title>
+    <ns>0</ns>
+    <id>3584</id>
+    <revision>
+      <id>2371521</id>
+      <parentid>2065227</parentid>
+      <timestamp>2012-06-30T20:28:56Z</timestamp>
+      <contributor>
+        <username>Velocitas</username>
+        <id>383239</id>
+      </contributor>
+      <minor />
+      <comment>/* Dialects */</comment>
+      <text xml:space="preserve">&lt;center&gt;
+&lt;big&gt;&lt;big&gt;&lt;big&gt;Inleiding ~ Introduction&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;
+
+&lt;big&gt;Hoe Nederlands leren met dit lesboek ~ How to Study Dutch using this Textbook&lt;/big&gt;
+&lt;/center&gt;
+----
+&lt;small&gt;[[Dutch/Lesson 1|Les 1]] &gt;&gt; &lt;/small&gt;
+----
+&lt;big&gt;&lt;big&gt;&lt;/big&gt;&lt;/big&gt;
+==The Dutch Language==
+Dutch (''Nederlands'') is a member of the western group of the Germanic languages. It is spoken primarily in the Netherlands, and in a major part of both Belgium and Surinam. Continue reading about the Dutch language and its history at [[w:Dutch_language|Wikipedia]].
+
+There are many sound files embedded in the course, so make sure your computer can play them. Listening and speaking yourself are an important part of language acquisition.
+
+==Dutch and English==
+If you are an English speaker unfamiliar with Dutch, you may be surprised to learn that English and Dutch are closely related languages and share many words that are very similar. This is particularly true for everyday words in English that are Anglo-Saxon (i.e. [[w:Germanic languages|Germanic]]) in origin.  After 1066 English has absorbed a lot of (Norman) French. Dutch also has been exposed to contact with first vulgar Latin and then French, but the French influence has been less pervasive.
+
+Consider the following list of English words followed by their Dutch counterparts:
+: arm ~ ''arm''
+: book ~ ''boek''
+: cat ~ ''kat''
+: father ~ ''vader''
+: finger ~ ''vinger''
+: house ~ ''huis''
+: hand ~ ''hand''
+: man ~ ''man''
+: mother ~ ''moeder''
+: mouse ~ ''muis''
+: name ~ ''naam''
+: son ~ ''zoon''
+: begin! ~ ''begin!''
+
+Many words of French origin have entered both languages and are quite recognizable:
+
+:communication ~ ''communicatie''
+:proclaim ~ ''proclameren''
+
+But in many cases Dutch retains a Germanic word, sometimes aside the Latin one:
+
+:proclaim ~ ''uitroepen''
+
+English spelling has conserved many now silent consonants, e.g. ''gh'' in ''light''. This may have been an obstacle when learning to write English but when learning Dutch the investment pays off. Dutch has ''licht'' and the ''ch'' is very much still pronounced as a guttural fricative /x/ like in German Bach or Scottish Loch.
+
+Of course, even words whose spelling is no different in English and Dutch may be pronounced quite differently or mean something different (''false friends''):
+
+:'''door''' ~ ''deur''
+:through, by ~ '''''door'''''
+
+:'''worst''' ~ ''ergst, slechtst''
+:sausage ~ '''''worst'''''
+
+Nevertheless, when reading Dutch you will see the kinship between the languages, even in many short words, common or not. For example compare:
+
+:This week, my father is on the wharf with my brother and his daughter.
+:''Deze week is mijn vader op de werf met mijn broer en zijn dochter''.
+
+These sentences consist almost entirely of ''cognates'': words that evolved from the same source. Notice however the position of the verb '''is''' in these two phrases. In Dutch it stands in front of the father. This is because Dutch has retained something that English has lost: the rather complicated word order (syntax) of the West-Germanic languages. Many English speakers who learn Dutch find that one of the most difficult aspects to learn to do correctly, but it hardly ever leads to miscommunication.
+
+==Dialects==
+As a standard language Dutch is relatively young phenomenon. The standard is based on a variety of dialects that are much older and show considerable differences not only in pronunciation but even in grammar and syntax. This holds for many languages, including for English as spoken in the UK. 
+
+By urbanization, suburbanization and the influence of the mass media the standard language has been gaining ground at the cost of the dialects for over a century, so that it is now the mother tongue of most. But even in the way that it is spoken there are many regional differences in pronunciation but even in syntax and grammar. This course aims at teaching Dutch that would be received by most if not all speakers but will point out a number of important differences that a non-native speaker is likely to encounter in his/her interaction with native speakers.
+
+In Bruges (Flanders), Rotterdam (Netherlands) or Paramaribo (Surinam) Dutch will sound as different as English does in Edinburgh, London or Indianapolis.
+
+==A dynamic language==
+Dutch has undergone far more sweeping changes in grammar and syntax in the last century or two than either English or German. It has lost most of its case endings and much of one of the three original genders (feminine). This has led to some interesting shifts in its grammar and syntax. Some of these developments are still taking place today. This means that Dutch grammar is less set in stone than the reader may be familiar with from other grammars. Occasionally we will have to discuss the evolution rather than the creature to explain modern Dutch usage.
+
+==Dutch and German==
+Both Dutch and German are West-Germanic languages and this means that there are many resemblances. However, Dutch is easier to learn for a speaker of English for a number of reasons. First of all, (High-) German underwent a major shift of almost all its consonants in the early Middle Ages. In term of its consonants Dutch has been pretty conservative. Compare:
+{|class=&quot;wikitable&quot;
+!English!! Dutch !!  German 
+|-
+|  wa''t''er ||    wa''t''er ||  Wa'''ss'''er
+|- 
+| ma''k''e! ||    maa''k''! ||  ma'''ch'''e!
+|-
+|  ''p''epper ||   ''p''eper||   P'''f'''e'''ff'''er
+|}
+This makes a major part of Dutch vocabulary easier to memorize. Secondly, German retained its system of case endings in contrast to Dutch and English. It is not easy to master that system if your mother-tongue does not have it.  Compare:
+
+{|class=&quot;wikitable&quot;
+!English!! Dutch !!  German 
+|-
+|  the old man sees the pretty woman ||   de oude man ziet de mooie vrouw || '''der alte''' Mann sieht '''die hübsche''' Frau
+|- 
+| the pretty woman sees the old man ||    de mooie vrouw ziet de oude man ||  '''die hübsche''' Frau sieht '''den alten''' Mann
+|}
+
+Knowledge of German can certainly help in learning Dutch, but it can also be a source of confusion. A good example is the letter combination '''''sch'''''. In German it denotes the same consonant as '''''sh''''' in English (in IPA: [ʃ]), in Dutch this sound is relatively rare. It only occurs in loans from languages like Frisian, English, French etc. 
+
+In Dutch 'sch' can either denote and [s] followed by a velar spirant [x], like in ''schip''. In the ending -isch the 'ch' is mute and it is pronounced as [-is] as in English 'fleece'.
+
+A topic where knowledge of German is a great help is syntax (word order).
+
+==Vocabulary and Grammar==
+In learning to read or speak any new language, two important aspects to be mastered are ''vocabulary'' and ''grammar'' (others are pronunciation and syntax, but they usually do not stop you from being understood). Acquiring vocabulary is a &quot;simple&quot; matter of memorization. 
+
+===Learning by ear===
+
+Children do it all the time, but they are at an advantage: they memorize far easier than grown-ups. Age is a definite disadvantage in language learning. The child's learning process can be &quot;reactivated&quot; to some extent by immersion in a second language: a method of learning a new language by moving to a place where that language is spoken and having to get around and live without use of one's native tongue.
+
+If you do not have the opportunity of residing in a Dutch speaking area an alternative is to listen to recordings and we are in process of adding bits and pieces as .ogg files so that you can learn by ear. Use them as much as you can. More than once. 
+
+These files take different forms
+#Single words. They are useful when you are trying to memorize vocabulary
+#Spoken text of the chapter. They should be used to study the conversations
+#Drills. Here you need to repeat words or utterances in the pauses.
+#Translation drills. Here you are told to say something in Dutch yourself.
+
+Of course there is also a drawback to the by-ear method:  You do not get much immersion into reading Dutch.  You as an internet user, will most likely want to be literate in Dutch.
+
+===Learning by eye===
+
+This is why this course also tries to train your eyes, but this will not work without effort from your side. This is why we often say: '''''Your turn!''''' ('''''Uw beurt!''''')
+
+So what do you need to do? There are a variety of things. We are tackling the problem with a multi-pronged approach. 
+
+Be sure to &quot;learn&quot;&amp;mdash;commit to memory&amp;mdash;all of the vocabulary words in each lesson as they are presented. Early lessons have simple sentences because it is assumed that the student's vocabulary is limited. 
+
+To help you accumulate vocabulary there are a number of additional pages see: [[Dutch/Vocabulary]]. In part they are visual and there are exercises to go with them (still being created).
+
+Throughout the text, more complex discourses (often as photo captions) are included to introduce the student to regular Dutch in use. It may be helpful to translate these using a Dutch-English dictionary (access to one is a must). Other sources of Dutch, such as newspapers, magazines, web sites, etc. can also be useful in building vocabulary and developing a sense of how Dutch words are put together. The [http://nl.wikipedia.org/ Dutch Wikipedia]provides an ever expanding source of Dutch language articles that can be used for this purpose. Further, a Dutch version of the English Wikibooks project&amp;mdash;a library of textbooks in Dutch &amp;mdash; is available at [[:nl:Hoofdpagina|Dutch Language Textbooks]] and there is a growing Dutch version of [[:nl:wikt:Hoofdpagina|wiktionary]] to which a number of words in the text have been linked for direct reference.
+
+===Learning grammar and syntax===
+
+This is where as a grown up you are at an advantage, because you may already know how grammar works from your mother tongue or other languages you are proficient in to some extent.
+
+Dutch grammar is sufficiently similar to English grammar that &quot;reading&quot; Dutch is possible with minimal vocabulary. The student should generally recognize the parts of a sentence. With a good dictionary, a sentence can usually be translated correctly. Of course there are some notable exceptions and ''false friends'', e.g. in the way that the passive voice is formed:
+
+:hij wordt gezien - he '''''is''''' seen
+:hij '''''is''''' gezien - he has been seen.
+
+To speak and write Dutch you do need to learn its grammar and syntax. Particularly the latter (word order) is rather different. We will gradually introduce it. Do not be daunted by it. Learning a language goes bit by bit, word for word, structure by structure. Just keep at it and look at what you have gained not at what you don't understand. Children don't always understand everything either, but they are not ashamed or humiliated by that.
+
+==Pronunciation==
+A guide to pronunciation of Dutch is provided as [[Dutch/Alfabet|Appendix 1]]. You should become familiar with this page early on, and refer to it often. Nothing can replace learning a language from a native speaker, but the text is liberally sprinkled with audio files providing the student with valuable input from hearing spoken Dutch. Analyze the spoken words carefully. The pronunciation guide in Appendix 1 can only closely, not exactly, convey how Dutch words should be pronounced.
+
+==Layout of Lessons==
+This textbook is intended as a beginning course in the Dutch language for English speakers.
+
+Early lessons emphasize conversational subjects and gradually introduce Dutch grammatical concepts and rules. In addition, sound files accompany appropriate parts of each lesson.
+
+The main lessons aim at introducing grammatical topics by means of conversations, interspersed with some exercises. Of course that is not sufficient to actually start speaking the language. Therefore each lesson is accompanied by a parallel lesson 1&amp;rArr;1A that elaborates the material further in conversations, reading material, fill in the blank exercises etc., rather than focussing on grammar. In addition there are pages intended to build up vocabulary. 
+
+Which way the reader wishes to use the book may vary. People who have experience with other languages, grammars etc. might want to follow the order
+Lesson 1 &gt; 2 &gt; 3 &gt; 4 &gt; and on to the end of the basic text&lt;br&gt;
+
+Others that want to start tackling the language in context of a situation and worry about grammar later might want to start with 
+
+Lesson 1A and then check 1 to understand some of the grammatical details
+
+Another strategy is
+
+Lesson 1 &gt; 1A &gt; 2 &gt; 2A &gt; 3 &gt; 3A &gt;, etc.
+&lt;!--
+==Layout within Lessons==
+The following subheadings or categories are offered within each lesson:
+# One or more conversation ('''''Gesprek''''') or stories ('''''Verhaal''''') 
+#:The translation of these textual pieces is given in a drop down box. Words can also be underlined, and the reader can hover the mouse over {{C|such a underlined item|to see the translation}}.
+# One or more grammar ('''''Grammatica''''') lessons covering elements of Dutch grammar, with illustrations drawn from the conversation, story, or study materials.
+#Sections ('''''Uw beurt - Your turn'''') with some exercises pertaining to the material
+# A list of words ('''''Vocabulair''''') and phrases introduced in the lesson, usually in the conversation, story, or study presentations. Words and phrases are arranged alphabetically within groups, and the groups are presented in the folowing order: 1) nouns, 2) phrases, 3) verbs, and 4) all other words. A guide to pronunciation of the words presented is consolidated within [[German:Alphabet|Appendix 1]]. However, in each ''Vokabeln'', nouns stressed on other than the first syllable (the general rule in German) are indicated by bolding of the stressed syllable (e.g., ''Gramma'''tik''''').
+# A list of additional, related words or phrases ('''''Andere Wörter'''''; advanced lessons only) that relate to, but are not included in, the vocabulary presented in the basic and advanced lessons.
+--&gt;
+
+==The Student and the Lesson==
+The text is designed to constitute a course of study in the Dutch language. Each lesson should be read thoroughly and mastered before moving on. Substantial text in Dutch is included and the student should read all of it, not once, but multiple times. Complete translations into English are included only in selected places. Most of the text must be translated by the student using his or her acquired vocabulary and the vocabulary presented at the bottom of each lesson. As the Dutch is read (out loud is better), the student must succeed in gaining an understanding of the meaning of each sentence, and the role each word plays in establishing that meaning. To the beginner, there will seem to be many words in a Dutch sentence that are out of place or even redundant or unnecessary. These add subtleties to the language that will make sense eventually. But it is important to experience these subtleties from the very beginning.
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>3a44xax7lhnb4d851nu5v0ye460u0pn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Dutch/Lesson 1</title>
+    <ns>0</ns>
+    <id>3585</id>
+    <revision>
+      <id>2546027</id>
+      <parentid>2436937</parentid>
+      <timestamp>2013-07-28T20:48:49Z</timestamp>
+      <contributor>
+        <ip>178.42.143.247</ip>
+      </contributor>
+      <comment>/* Personal pronouns */</comment>
+      <text xml:space="preserve">&lt;center&gt; 
+&lt;big&gt;&lt;big&gt;&lt;big&gt;Les 1 ~ Lesson 1&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;
+
+&lt;big&gt;Eenvoudige Gesprekken ~ Simple Conversations&lt;/big&gt;
+&lt;/center&gt;
+{| align=center cellspacing=10 class=PrettyTextBox style=&quot;background-color: rgb(249, 249, 249); -moz-border-radius: 1em; margin-bottom: 1em;&quot;
+| • '''Simple conversations'''
+|-
+| • '''Grammar: Pronouns: I,me etc. '''
+|-
+| • '''Polite and clitic forms'''
+|-
+|}
+----
+&lt;small&gt;&lt;&lt; [[Dutch/Introduction|Voorwoord]] |&lt;/small&gt; '''Les 1''' &lt;small&gt;| [[Dutch/Lesson 2|Les 2]] &gt;&gt;&lt;/small&gt;
+----
+==Grammatica 1-1 ~ Introduction to Dutch grammar==
+Children learn their mother tongue without knowing the parts of speech such as verbs, nouns and phrases. However these are helpful for anyone attempting to learn a second language from a book or a website. Of course the children have it right: the ''best'' way to learn a language is to listen to a mother tongue speaker and simply repeat. But such a speaker may not always be available to you. This book will try to compensate this by addition of audio files, but that is still a cumbersome substitute. We do recommend that you use them as much as you can. Firefox seems to give easier access to them than other browsers.
+
+The main lessons Dutch/Lesson 1, 2 etc. concentrate on introducing points of grammar, although there are exercises, sound files etc. Lessons 1A, 2A etc. concentrate more on practice, pronunciation drills, more conversation etc. As of June 30 2009 they are still in construction.
+
+English speakers will find many strong parallels between their language and Dutch. Where possible we will try to point out the similarities and exploit them.
+
+However, as noted in the [[Dutch/Introduction|introduction]], Dutch grammar is more complex than English grammar, and identifying the meaning of words in a Dutch sentence is difficult without understanding the clues to word function that come from the grammatical rules. The basic lessons of this textbook are set up to first introduce the parts of speech, and then bring in the rules that govern these. Pay particular attention to sentence word order as you progress through the lessons.
+
+===Using Wiktionary===
+Throughout the texts and in the vocabulary lists there are blue links that take you to the Dutch version of [http://nl.wiktionary.org/wiki/Hoofdpagina  our sister project Wiktionary]. Of course the layout is in Dutch and you may not immediately understand everything, but that is not a disaster. If you want to learn a language you also should learn to be a bit of a detective: you often need to get the gist of something with a few pieces of the puzzle missing. Don't let that scare you off! Here are a few useful pieces:
+
+#There usually is an English translation of a word under the heading '''''Vertalingen''''', marked '''Engels''' 
+#There may even be a ''geluidsopname'' (sound recording) or a phonetic description under '''''Uitspraak'''''. If you can: listen to the pronunciation a few times: it will help you remember the word and become an active speaker.
+
+If you are really lost use the interwiki link to the English version (or any other language you know) as back up, but don't give in to it too easily!
+
+;''We strongly encourage you to use the links to expand your vocabulary. First guess what a word means, then click!''
+
+===Hovering===
+
+Some words will be {{C|underlined|this is cribbing of course, but if you don't know a word you may}}. Try to hover your mouse over such words.
+
+==[[Dutch/Gesprek 1-1|Gesprek 1-1]] ~ Vrienden: Jan en Karel==
+
+Read the following conversation. Use the hover method to see an instant translation of a certain word and try to piece together the meaning of the story. Once you have an idea of the gist of the story you can open up the drop down box and read the translation to see if you were right. When learning a new language it is very important to be able to deduce meaning from limited information, because you will often not know all the words used. Picking up their meaning from context is an important skill.
+
+You will also see that Dutch sometimes strings words together a bit differently than English. Dutch word order is quite different and a difficult aspect of the language.
+
+{{C|Jan|John}} {{C|komt|komt tegen: run into}} {{C|Karel|Charles}} {{C|op|on, in}} {{C|straat|street}} tegen. {{C|Ze|They}} {{C|zijn|are}} {{C|vrienden|friends}}.
+:''Jan'': {{C|Hoi|Hi}}, Karel!  {{C|Hoe|how}} {{C|gaat|goes}} {{C|het|it}} {{C|met|with}} {{C|je|you}}?
+:''Karel'': Hoi! {{C|Dank je|Thank you}}, {{C|met|with}} {{C|mij|me}} gaat het {{C|goed|good, well}}. {{C|En|And}} met {{C|jou|you}}?
+:''Jan'': Dank je, met mij gaat het {{C|ook|also}} goed. '''''{{C|Tot ziens|See you later}}'''''.
+:''Karel'': Tot ziens, Jan!
+
+{{Dutch/Translation|Gesprek 1-1|
+
+:::John runs into Charles in the street. They are friends.
+:::''John'': Hello Charles. How are you?
+:::''Charles'': Hi, thank you, I'm fine. And you?
+:::''John'': Thank you, I'm doing fine as well. Goodbye.
+:::''Charles'': Goodbye John!
+}}
+Dutch pronunciation varies with region and speaker, but the following gives a reasonable idea:
+
+[[Image:Dutch_Lesson1_vrienden.OGG|40px|noicon]]
+:{{IPA|'jɑn.kɔmt.'ka.rəl.ɔp.'stra.'te.ɣə(n) zə.zɛɪn.vrin.də(n)}}
+::{{IPA|ɦɔj,'ka.rəl.ɦu.'ɣat.ət.'mɛ.cə}}
+::{{IPA|ɦɔj,dɑŋ.k&lt;sup&gt;j&lt;/sup&gt;ə,mɛt.'mɛɪ.'ɣat.ət.xut.ʔɛn.'mɛ.'cɑʊ}}
+::{{IPA|dɑŋ.k&lt;sup&gt;j&lt;/sup&gt;ə,mɛt.mɛɪ.'ɣat.ət.'ok.xut. tɔ.'tsins}}
+::{{IPA|tɔ.'tsins.jɑn}}
+
+==Grammatica 1-2 ~ Forms==
+===Clitic forms===
+Notice the difference between &quot;Hoe gaat het met ''je''&quot;? and &quot;En met ''jou''?&quot;.  Both translate literally into '''with you''', but there is a difference in emphasis. ''Jou'' carries emphasis, ''je'' does not. In Dutch, there are often two forms of the same pronoun: a strong one and a weak ('clitic') one. The clitic forms cannot have emphasis and the vowel in a clitic is often reduced to a neutral 'schwa' [ə] or omitted entirely. 
+
+In colloquial English the same thing can be heard at times: ''seeya!'' instead of ''see you!''. In Dutch the reduced forms are quite common in the spoken language and some of them have gained acceptance in the written language as well.
+
+===Polite forms===
+The above conversation was between two good friends. It utilizes the '''familiar''' form of the personal pronoun (''je'', ''jou'') where English uses ''you''. However, Dutch also has a '''polite''' or formal form of the personal pronoun for the second person (you), '''[[wikt:u#Dutch|u]]'''. Many languages have this distinction. It is e.g. comparable with [[wikt:Sie|Sie]] in German,  [[wikt:vous|vous]] in French, [[wikt:usted|usted]] in Spanish, [[wikt:Вы|Вы]] in Russian, or [[wikt:anata|anata]] in Japanese. When to use one or the other is not always easy to decide. Someone unknown, particularly if older, is generally ''u'', an old friend typically ''je, jou''. The latter roughly corresponds with the 'first name basis' in English.  Notice the use of ''u'' in the conversation below.
+
+===Regional forms===
+
+In the South of the area where Dutch is spoken (Flanders mostly), people do not distinguish between familiar and polite forms, instead they use yet another pronoun ''gij'' (clitic: ''ge'', object: ''u''). It is used much like ''you'' in English for both singular and plural. In the North ''gij'' is only encountered in archaic phrases like: ''gij zult niet stelen'' - ''thou shalt not steal''. This course is mostly based on northern usage as this is most widely accepted, including in Suriname and the Antilles, but some important differences will be pointed out.
+
+==Gesprek 1-2 ~ De handelaars==
+
+Push the button and listen to the following text. It is recommended to first just listen.
+ 
+*[[Image:Dutch-Lesson1-handelaars.ogg|40px|noicon]]
+
+Please read the following conversation. It is a bit more formal than the one before. If you are not sure of the meaning of a word, hover your mouse over it, if it is underlined. A translation will pop up.
+
+:Meneer Jansen [[wikt:nl:tegenkomen|komt]] [[wikt:nl:mevrouw|mevrouw]] De Vries [[wikt:nl:tegenkomen|tegen]]. Het zijn {{C|handelaars|business people, merchants}}.
+* ''Meneer Jansen'': {{C|Goedendag|good day}}, {{C|mevrouw|mrs}} De Vries!
+* ''Mevrouw De Vries'': Goedendag, {{C|meneer|mr.}} Jansen!
+* ''Meneer Jansen'': {{C|Hoe|how}} {{C|gaat|goes}} {{C|het|it}} {{C|met|with}} {{C|u|you (polite)}}?
+* ''Mevrouw De Vries'': {{C|Zeer|very}} {{C|goed|good, well}}, {{C|dank|thank}} u {{C|wel|well}}. {{C|En|and}} met u?
+* ''Meneer Jansen'': {{C|Ook|also}} goed.
+* ''Mevrouw De Vries'': {{C|Mooi|nice, pretty}}. {{C|Kent|know}} u [[wikt:nl:meneer|meneer]] Standish? {{C|Bent|are}} u {{C|hem|him}} {{C|al|already}} {{C|tegengekomen|encountered}}?
+* ''Meneer Jansen'': {{C|Uit|out of}} Engeland? {{C|Nee|no}}. Is {{C|hij|he}} {{C|op|on, at}} {{C|bezoek|visit}}?
+* ''Mevrouw De Vries'': {{C|Ja|yes}}. Hij {{C|spreekt|speaks}} {{C|Nederlands|Dutch}}. {{C|Tot ziens|See you}}, meneer Jansen!
+* ''Meneer Jansen'': Tot ziens, mevrouw De Vries.
+
+Have you figured out the gist yet? Then open the translation box to see if you were right:
+
+{{Dutch/Translation|Gesprek 1-2|
+
+:::* Mr. Johnson encounters Mrs. De Vries. They are merchants.
+:::*''Mr. Johnson'': Good day, Mrs. de Vries!
+:::*''Mrs. De Vries'' Good day, Mr. Johnson! 
+:::*''Mr. Johnson'': How do you do?
+:::*''Mrs. De Vries'' Very well, thank you. And how are you?
+:::*''Mr. Johnson'': Fine as well.
+:::*''Mrs. De Vries'': Good! Do you know Mr. Standish? Have you met him yet?
+:::*''Mr. Johnson'': From England? No, is he visiting?
+:::*''Mrs. De Vries'' Yes, he is. He speaks Dutch. Goodbye, Mr. Johnson.
+:::*''Mr. Johnson'': Goodbye, Mrs. De Vries.
+}}
+Go back to the pronunciation, close your eyes and see how much you understand now. You may have to repeat the process a few times.
+{{Dutch/Exercise|Waar of niet waar|
+
+:''dit is waar'' - this is true
+:''dit is niet waar'' - this is not true
+
+Answer the following questions with either ''waar'' or ''niet waar''
+
+# Mevrouw De Vries is meneer Standish al tegengekomen.
+# Meneer Jansen en mevrouw De Vries zijn goede vrienden.
+# Meneer Jansen en mevrouw de Vries zeggen (they say) ''je'' en ''jou'' tegen elkaar (to each other)
+# De Engelsman, meneer Standish is op bezoek.
+# Het gaat goed met Karel.
+#
+|
+
+# Mevrouw De Vries is meneer Standish al tegengekomen. - niet waar
+# Meneer Jansen en mevrouw De Vries zijn goede vrienden. - niet waar, zij zijn collega's
+# Meneer Jansen en mevrouw de Vries zeggen (they say) ''je'' en ''jou'' tegen elkaar (to each other) - niet waar, zij zeggen ''u'' tegen elkaar
+# De Engelsman, meneer Standish is op bezoek. - dit is waar
+# Het gaat goed met Karel. - waar
+}}
+
+==Grammatica 1-3 ~ Introduction to pronouns==
+
+
+A '''[[Wikipedia:Pronoun|pronoun]]''' is a short word that takes the place of a noun previously mentioned in the sentence, paragraph, or conversation. 
+
+'''''Recall''''': Kent u ''meneer Standish''? Bent u ''hem'' al tegengekomen?
+
+''Hem'' refers back to ''meneer Standish''. It is a ''pronoun'' that stands ''for'' (pro- !) meneer Standish.
+
+There is a variety of pronouns like personal, possessive, relative and indefinite ones. Let's look at the personal pronouns first.
+
+===Personal pronouns===
+
+Personal pronouns are quite familiar in English: They are words like I,you,he,she,we,you and they. &lt;br&gt;At least this is the case for the subject (nominative '''''case'''''). As object (accusative) some of them are different: ''me'',you,''him'',''us'',you,''them''. Compare:
+
+::&lt;font color=green&gt;I&lt;/font&gt; see you.
+::You see &lt;font color=green&gt;me&lt;/font&gt;.
+
+Notice how '''I''' turns into '''me''' when used as an object. '''You''' remains the same.
+
+Much like in English '''ik''' (subject) turns into '''mij''' as object in Dutch, whereas '''je''' remains the same in both roles:
+
+::&lt;font color=green&gt;Ik&lt;/font&gt; zie je.
+::Je ziet &lt;font color=green&gt;mij&lt;/font&gt;.
+
+The system in Dutch resembles the English one quite a bit, after all the languages are close relatives:
+
+*As in English there are three '''''persons''''' in Dutch grammar: first (I), second (you) and third (he) 
+*As in English there is a distinction in '''''number''''' between singular (I) and plural (we). 
+*As in English there are '''''gender''''' distinctions in the third person singular (he, she, it) 
+*As in English there are '''''case''''' distinctions between subject and object (he, him)
+
+Nevertheless the Dutch system is a little more involved, as we have seen there are:
+
+*familiar and polite forms: ''je'' versus ''u''. 
+*weak (clitics) and strong forms: ''je'' versus ''jou''.
+
+In addition there are
+* regional differences:  (jij/jullie  - u) (North) versus (gij) (South) 
+* a growing rift between how inanimate and animate nouns are treated
+
+In English ''he'' and ''she'' are reserved for ''animate'' nouns -usually persons- and this is increasingly the case in Dutch as well, certainly in Northern usage.
+
+In English all inanimate objects can be referred to as ''it''. However, in Dutch this is only true for ''het''-words (neuter gender) and that leaves two thirds of all nouns uncovered... We will revisit this awkward problem later.
+
+===Subject case (nominative)===
+{|class=&quot;wikitable&quot;
+|- bgcolor=#FFDEAD
+!Person
+!singular
+!clitic
+!plural
+!clitic
+|-
+!1st 
+|{{audio|nl-ik.ogg|ik|help=no}}||('k)||{{audio|nl-wij.ogg|wij|help=no}}||we
+|-
+!2nd (fam.)
+|{{audio|nl-jij.ogg|jij|help=no}}||{{audio|nl-je.ogg|je|help=no}}||{{audio|nl-jullie.ogg|jullie|help=no}}||-
+|-
+!2nd (polite)
+|{{audio|nl-u.ogg|u|help=no}}||-||u||-
+|-
+!2nd (South)
+|{{audio|nl-gij.ogg|gij|help=no}}||ge||gij||ge
+|-
+!3rd
+|{{audio|nl-hij.ogg|''hij''|help=no}}&lt;br&gt; {{audio|nl-zij.ogg|''zij''|help=no}}&lt;br&gt; {{audio|nl-het.ogg|het|help=no}}||(ie)&lt;br&gt; ze&lt;br&gt; ('t)||zij||ze
+|}
+
+===Object case (accusative)===
+{|class=&quot;wikitable&quot;
+|- bgcolor=#FFDEAD
+!person
+!singular
+!clitic
+!plural
+!clitic
+|-
+!1st 
+|{{audio|nl-mij.ogg|mij|help=no}}||me||ons||- 
+|-
+!2nd (fam.)
+|{{audio|nl-jou.ogg|jou|help=no}}||je||jullie||-
+|-
+!2nd (polite)
+|u||-||u||-
+|-
+!2nd (South)
+|u||-||u||-
+|-
+!3rd 
+|''hem''&lt;br&gt; ''haar''&lt;br&gt; het||('m)&lt;br&gt; (d'r)&lt;br&gt; ('t)||''hen'' (''hun''*)||ze
+|}
+
+====Remarks====
+
+# As you see not all pronouns have clitics and some of them (shown in parentheses) are not used in the written language.
+# The pronouns in ''italics'': ''hij'', ''zij'' (sing.), ''hem'', ''haar'', ''hen'' and ''hun'' are increasingly reserved for ''persons'' and ''animate objects''. For ''inanimate objects'' these pronouns usually get replaced either by demonstrative pronouns (see [[Dutch/Lesson_4#Using_demonstrative_pronouns_instead_of_personal_pronouns. |lesson 4]]) or by a special kind of adverb, the pronominal adverb (see [[Dutch/Lesson 8|lesson 8]])  
+# *In speaking, many Dutch speakers use the dative form ''hun'' instead of the accusative ''hen''. This is because the ''hen'' form was artificially created by the grammarians of the past &lt;ref&gt; &quot;Dutch&quot; by Jan G. Kooij in ''The world's major languages'' edt. Bernard Comrie ISBN 0-19-520521-9 Oxford University Press 1987&lt;/ref&gt;  In the spoken language ''hen'' is seldom used and speakers increasingly avoid the issue by opting for the clitic ''ze''.
+
+===Exercises 1-1===
+{{Dutch/Exercise|Ik, jij, wij, jullie, mij pronunciation drill
+|
+[[Image:Nl-Dutch-ch1-pronoun-drill.ogg|40px|noicon]]
+Push the button, repeat in the pauses and say the requested words in Dutch
+|
+}}
+
+{{Dutch/Exercise|pronouns 1: translation exercise|
+
+Translate into Dutch:
+
+# How are you, Mr. Bush?
+# How are you, Jan?
+# Are you merchants?
+# John runs into us.
+# We meet John in the street
+# He is visiting
+# We are from England
+|
+
+# How are you, Mr. Bush?
+#: Hoe gaat het met u, meneer Bos
+# How are you, Jan?
+#: Hoe gaat het met je, Jan
+# Are you merchants?
+#: Zijn jullie handelaars?
+# John runs into us.
+#: Jan komt ons tegen
+# We meet John in the street
+#: Wij komen Jan op straat tegen
+# He is visiting
+#: Hij is op bezoek
+# We are from England
+#: Wij zijn* uit Engeland
+
+:(komen* to come would be better) 
+}}
+{{Dutch/Exercise|pronouns 2: indentification exercise|
+Identify all personal pronouns in the two above conversations by person, case, number polite/familliar form and weak/strong form.
+:Are there any cases where the case is different from what the English translation has? Why?
+|
+Jan komt Karel op straat tegen. '''Ze''' zijn vrienden. 
+:::(3rd person plural nominative weak)
+:''Jan'': Goedendag, Karel.  Hoe gaat het met '''je'''? 
+:::(2nd person singular accusative weak)
+:''Karel'': Goedendag. Dank je, met '''mij''' gaat het goed. En met '''jou'''?
+:::(1st person singular accusative strong / 2nd person singular accusative strong)
+:''Jan'': Dank '''je''', met '''mij''' gaat het goed. Tot ziens.
+:::(2nd person singular accusative weak / 1st person singular accusative strong)
+:''Karel'': Tot ziens, Jan!
+
+In the expression ''hoe gaat het met jou'', ''jou'' is in the object case, because it follows a preposition ''met'' (with). Literally it says ''how goes it with you''. English would say: How are you? In that case ''you'' is subject, not object.
+
+:Meneer Jansen komt mevrouw De Vries tegen. '''Het''' zijn handelaars. 
+:::(3rd person singular nominative neuter) Note that Dutch often uses 'it are' to indicate generality.
+::''Meneer Jansen'': Goedendag, mevrouw De Vries!
+::'Mevrouw De Vries'': Goedendag, meneer Jansen!
+::''Meneer Jansen'': Hoe gaat het met '''u'''? 
+:::(2nd person singular accusative polite)
+::''Mevrouw De Vries'': Zeer goed, bedankt. En met '''u'''? 
+:::(same)
+::''Meneer Jansen'': Ook goed.
+::''Mevrouw De Vries'': Mooi. Bent '''u''' meneer Standish al tegengekomen? 
+:::(2nd person singular nominative polite)
+::''Meneer Jansen'': Uit Engeland? Nee. Is '''hij''' op bezoek?
+:::(3rd person singular nominative)
+::''Mevrouw De Vries'': Ja. Tot ziens, meneer Jansen!
+::''Meneer Jansen'': Tot ziens, mevrouw De Vries
+}}
+
+==Woordenlijst 1==
+You have already encountered quite a few words above. Now make sure you own them! Listen to their pronunciation, sort the table by English and read back to Dutch, check the pronunciation again. Click on the blue link to go to the Dutch wiktionary and try to figure out what you may. If you do not understand, follow the interwiki link to go to the English wiktionary.
+
+In short: there are many ways to use this table and you can try one thing one day and come back another to try something different.
+
+{|class=&quot;wikitable sortable&quot; style=&quot;text-align:left; float:left; clear:right; margin: 0.5em 0 0 0; border-style: solid; border: 1px solid #AAAAAA; border-right-width: 1px; border-bottom-width: 1px; border-collapse: collapse; font-size: 100%;&quot;
+! Dutch word!!audio file!!English translation
+|-
+|de {{Nlwikt|appendix}}    ||{{audio|nl-appendix.ogg|appendix}} ||                appendix, supplement
+|-
+|het {{Nlwikt|bezoek}}     ||{{audio|nl-bezoek.ogg|bezoek}} ||                 visit, attendance
+|-
+|(het) {{Nlwikt|Engeland}}   ||{{audio|nl-Engeland.ogg|Engeland}} ||                 England
+|-
+|het {{Nlwikt|Nederlands}}  ||{{audio|nl-Nederland.ogg|Nederland}} ||                Dutch
+|-
+|de {{Nlwikt|vriend}}, vrienden  ||{{audio|nl-vriend.ogg|vriend}} ||          friend, friends
+|-
+|de {{Nlwikt|handelaars}}    ||{{audio|nl-handelaar.ogg|handelaar}} ||              business people, businessmen, tradesmen, merchants (''pl.'')
+|-
+|het {{Nlwikt|gesprek}}, gesprekken ||{{audio|nl-gesprek.ogg|gesprek}}| ||        conversation, conversations
+|-
+|de {{Nlwikt|grammatica}}  ||{{audio|nl-grammatica.ogg|grammatica}} ||                grammar
+|-
+|de {{Nlwikt|les}}     ||{{audio|nl-les.ogg|les}} ||                    lesson
+|-
+|de {{Nlwikt|straat}}    ||{{audio|nl-straat.ogg|straat}} ||                  street
+|-
+|de {{Nlwikt|woordenlijst}}  ||{{audio|nl-woordenlijst.ogg|woordenlijst}} ||              word list
+|-
+|de {{Nlwikt|woordenschat}}  ||{{audio|nl-woordenschat.ogg|woordenschat}} ||              vocabulary
+|-
+| {{Nlwikt|op}} {{Nlwikt|straat}}   ||{{audio|nl-op.ogg|op}}&lt;br&gt;{{audio|nl-straat.ogg|straat}} ||                on (in) the street
+|-
+| {{Nlwikt|tot}} {{Nlwikt|ziens}}   ||{{audio|nl-tot ziens.ogg|tot ziens}} ||                goodbye (''lit'': see you again)
+|-
+| {{Nlwikt|uit}} Engeland ||{{audio|nl-uit.ogg|uit}} ||               from England
+|-
+| Met mij gaat het goed || ||      I am fine (''lit'': With me goes it well)
+|-
+| {{Nlwikt|goedendag}}! ||{{audio|nl-goedendag.ogg|goedendag}} ||                 Good day (greeting)
+|-
+|(de) {{Nlwikt|dag}}!   ||{{audio|nl-dag.ogg|dag}} ||                     (Good) day! Hi! Hello!
+|-
+| {{Nlwikt|goed}} ||{{audio|nl-goed.ogg|goed}} ||                       good
+|-
+| En met jou? ||{{audio|nl-jou.ogg|jou}} ||                And how are you? (''lit'': And with you?)
+|-
+| Hoe gaat het met jou (u)?|| ||   How are you (''lit'': How goes it with you?)
+|-
+| {{Nlwikt|hoe}}  ||{{audio|nl-hoe.ogg|hoe}} ||                       how
+|-
+| {{Nlwikt|gaan}} ||{{audio|nl-gaan.ogg|gaan}} ||                       to go
+|-
+| {{Nlwikt|het}} {{Nlwikt|gaat}} || ||                   it goes
+|-
+| {{Nlwikt|met}} ||{{audio|nl-met.ogg|met}} ||                        with
+|-
+| is op {{Nlwikt|bezoek}} ||{{audio|nl-bezoek.ogg|bezoek}} ||               is visiting 
+|-
+| {{Nlwikt|tegenkomen}} ||{{audio|nl-tegenkomen.ogg|tegenkomen}} ||                 to meet, come across, encounter, run into
+|-
+| komt ... tegen|| ||              comes across , runs into, meets
+|-
+| {{Nlwikt|bezoeken}} ||{{audio|nl-bezoeken.ogg|bezoeken}} ||                   to visit
+|-
+| {{Nlwikt|maar}} ||{{audio|nl-maar.ogg|maar}} ||                       but, however
+|-
+| {{Nlwikt|ook}} ||{{audio|nl-ook.ogg|ook}} ||                        also, too, as well
+|-
+| {{Nlwikt|dank}} je, dank u.|| ||            thank you;
+|-
+| {{Nlwikt|bedankt}} || ||                    thanks
+|-
+| {{Nlwikt|simpel}} ||{{audio|nl-simpel.ogg|simpel}} ||                     simple
+|-
+| {{Nlwikt|het}} ||{{audio|nl-het.ogg|het}} ||                        it (pronoun)
+|-
+| {{Nlwikt|mevrouw}} ||{{audio|nl-mevrouw.ogg|mevrouw}} ||                    Ms., Miss, or Mrs.
+|-
+| {{Nlwikt|meneer}}  ||{{audio|nl-meneer.ogg|meneer}} ||                    Mr.
+|-
+| {{Nlwikt|mij}}||{{audio|nl-mij.ogg|mij}} ||                         me
+|-
+| {{Nlwikt|nee}} ||{{audio|nl-nee.ogg|nee}} ||                        no
+|-
+| {{Nlwikt|ja}}  ||{{audio|nl-ja.ogg|ja}} ||                        yes
+|-
+| {{Nlwikt|correct}} ||{{audio|nl-correct.ogg|correct}} ||                    correct
+|-
+| {{Nlwikt|al}}  ||{{audio|nl-al.ogg|al}} ||                        already, yet
+|-
+| {{Nlwikt|mooi}} ||{{audio|nl-mooi.ogg|mooi}} ||                       beautiful (in this case, 'nice' or 'fine')
+|-
+| {{Nlwikt|zeer}}||{{audio|nl-zeer.ogg|zeer}} ||                        very
+|-
+| {{Nlwikt|en}}   ||{{audio|nl-en.ogg|en}} ||                       and 
+|}
+&lt;br clear=&quot;all&quot;&gt;
+
+===Your turn! Building vocabulary 1===
+
+When learning a language you need to start building up your vocabulary. There are various ways of doing that. One is to study the above conversations well. Often words are easier to remember when put in context. But there are other ways. Wiki adds a few methods to the range of possibilities. One is the ''hover'' method. Just hover your mouse over {{C|this|as you see we can make things pop up for you}}. We will add vocabulary building exercises to each lesson to make it easier for you to memorize it all.
+
+{{Dutch/Exercise|vocabulary
+|
+Go to [[Dutch/Vocabulary/Personal pronouns/hover test]] to check your knowledge of Dutch personal pronouns.&lt;br&gt;
+Go to [[Dutch/Vocabulary/Lesson 1/hover test]] to check your knowledge of the above vocabulary.
+|
+}}
+{{Dutch/Exercise|Additional vocabulary|
+ 
+Go to the [[Dutch/Vocabulary/Survival kit]] to learn the 63 most important words in the Dutch language. Once you know them all, try to translate the following:
+#Wil jij misschien een vrouw aanraken?
+#Dit is erg slecht, denk ik.
+#Na het leven is er de dood
+#Ik hoor mensen hierbeneden 
+#Er is een tijd en een plaats voor alle dingen
+# Goed en slecht, klein en groot, kort en lang zijn niet dezelfde dingen
+#Zet een klein deel voor, een ander deel achter , iets meer boven en de rest beneden
+|
+
+#Would you like to touch a woman perhaps?
+#That is very bad, I think
+#After life there is death
+#I hear people down here
+#There is a time and a place for all things
+#Good and bad, small and big, short and long are not the same things
+#Put a small part in front, another part behind, a bit more on top and the rest below.
+}}
+
+
+
+You may want to study some example conversations from world literature in [[Dutch/Example 1|Voorbeeld 1]].
+
+:* [[Dutch/Lesson 1A|Les 1A: more conversations and practice]] &gt;&gt;
+&lt;small&gt;&lt;&lt; [[Dutch/Introduction|Lesson Layout Guide]]&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[Dutch/Alfabet|Pronunciation Guide]] &gt;&gt; &lt;/small&gt;
+{{BookCat}}
+&lt;references/&gt;</text>
+      <sha1>33xuotxab10y3imgvuxkxgx51s9n69t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Dutch/Cover</title>
+    <ns>1</ns>
+    <id>3586</id>
+    <revision>
+      <id>1863911</id>
+      <parentid>1426205</parentid>
+      <timestamp>2010-06-28T20:51:52Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>Adding {{WikiProject Languages}}</comment>
+      <text xml:space="preserve">{{WikiProject Languages}} 
+
+Since Dutch is so similar to German I started copying some German articles. Some parts might need some more treatment. For instance, I'm not sure if Dutch grammar is more complex than English. At least, I think it's simpler than German grammar. [[User:Guaka|Guaka]] 23:24, 4 Jan 2004 (UTC)
+
+Whether some grammar is more &quot;complex&quot; than another is a very debatable thing altogether, and the average linguist would be careful about such statements lest the discussion swerve into philosophical matters. [[User:131.215.167.114|131.215.167.114]] 05:13, 11 May 2005 (UTC)
+
+:I agree with 131.. The 'similarity' with German is often more of a hindrance than a help for non-native speakers in learning Dutch.
+
+== Belgium ==
+
+i changed Belgium into Flanders, because Dutch is only spoken in Flanders, the northern part of Belgium. ([[User:Tomakkermans|Tom Akkermans]])
+
+:And i changed it back to Belgium, because (1) Dutch is the official language of the whole of Belgium, not only of Flanders-part. Also, (2) saying &quot;Flanders&quot; excludes other Dutch speaking parts such as Belgium Limburg. (3) There is a nationalist right-wing movement in Flanders with the accompanying explicit POV trying to use 'culture', 'ethnicity' and 'language' as demarcation and dividing lines. Let's stick to the Wikipedia's NPOV here too. [[User:145.97.204.116|145.97.204.116]] 21:25, 19 November 2005 (UTC)
+
+::It would be well advised to read the Wikipedia entry on The Netherlands and Belgium to try and gather some facts about the language. While there are dialects of Dutch, and different names for dialects, there is a lot in common. Just that different dialects pronounce some things differently than others. I think just calling it Dutch and then mentioning the differences later might be the best way to do this book. Leave politics out of it, and focus on the language or at least the written part of the language. Mention the different ways to pronounce it later. Just my sugestion, you don't have to follow it. --[[User:Orion Blastar|Orion Blastar]] 19:34, 24 December 2005 (UTC)
+
+::: Eh, Orion, you ''are'' talking about my mothertongue and my country of origin (NL), OK?  And yes there are considerable differences between dialects that have a much more venerable age than the standard language that is comparatively young. And yes I have seen allophones learn standard Dutch and be totally lost when people slipped into their real mothertongue: their local dialect. In fact some of the dialects of the northeast still cause me trouble and I have lived there for over a decade. [[User:152.1.193.141|152.1.193.141]] 16:35, 23 January 2006 (UTC)
+
+:::: No offense meant. I am trying to learn German and Dutch, but I am too poor to afford college courses or books. My family is from Europe, and my grandfather used to speak German and Dutch. He died before he could teach me at a young age. I have a brother-in-law from Belguim, which it would be interesting to speak with him in his native tongue. I am trying to learn what I can, and I admit I don't know very much. I guess I am trying to say to stay with the basics of Dutch first, and then teach the different dialects later. That if I wanted to learn politics, I'd be reading a Wikibook on Dutch politics, rather than one on the Dutch language. I think it is better to learn the language first and then learn poltics, etc. I could be wrong though. [[User:Orion Blastar|Orion Blastar]] 21:33, 19 April 2006 (UTC)</text>
+      <sha1>rmzgnx271ci7vcoce48c2n0n3isb2e1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:German/Introduction</title>
+    <ns>1</ns>
+    <id>3587</id>
+    <revision>
+      <id>1867394</id>
+      <parentid>1864644</parentid>
+      <timestamp>2010-06-28T23:26:19Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>replaced: {{WikiProject Languages}} → {{WikiProject Languages|german=yes}}</comment>
+      <text xml:space="preserve">{{WikiProject Languages|german=yes}} 
+
+Isn't [[Dutch: Introduction|Dutch]] easier for English speakers? It's definitely closer. The problem with Dutch is however that its speakers tend to speak English quite well - and they like to do it. It can be hard to reach a sufficiently high level to be responded in Dutch, and thus to really learn the language by talking and listening to people. [[User:Guaka|Guaka]] 23:27, 4 Jan 2004 (UTC)
+-----
+
+===Vocabulary===
+
+Our vocabulary is very spread out, based on whatever anyone felt like sticking in the example texts. This is a problem, because if someone wanted to look up a word, they would have to search through every lesson. Of course, we are not a German-English dictionary, but I believe we should definitely group our vocabulary lessons by topic, such as food, sports, furniture, school supplies, school subjects, weather, tasks, or math, either in an appendix or in the lessons and advanced lessons themselves.
+
+We also should make an attempt to teach more than just grammar in the opening lessons. Outside viewers will not want to see only hardcore grammar as they learn German. They also need practical applications for the grammar we give. We could, for example, teach months and days of the week along with the ordinal and cardinal numbers in [[German: Lesson 3|Lesson 3]]. Then, we could include more stuff such as the translations for yesterday, tomorrow, or how to say, &quot;My birthday is...&quot;, &quot;When is...?&quot; and give them numerous examples. This kind of change would do three things for us:
+# Provide some practical applications in conjunction with the example sentences.
+# Allow us to put more useful vocabulary in the right spots and organize it.
+# Beef up our lessons to a satisfactory size. - [[User:SamE|SamE]] 16:11, 29 Feb 2004 (UTC)
+
+: I have attempted to have themes for each lessons, but it has sometimes gone astray as a result of moving stuff around so much; but it is a good idea and can certainly be contributed to much more. I would not change too much more in the first five Basic lessons as they seem pretty full in most cases already (except your idea of adding a few more &quot;practical&quot; example sentences seems like a valuable one). This idea is especially one that can enhance the Advanced lessons (for an example see [[German: Lesson 3A|Grammatik 3-6]] where more details of telling time are intended). Perhaps if, in lessons yet to be developed, a topic vocabulary were develped first&amp;mdash;see [[German: Lesson_7|Lektion 7]], where someone added both higher numbers/math and colors as &quot;vocabulary themes&quot; and I have been editing within those topics). If the vocabulary were worked out first, the rest of the lesson ideas could be adapted arouind the theme.
+:The idea of having (in the conversations and stories) a businessman (Herr Standish), younger student (Karl and Heinrich), and college students (Markus, Helena, and Katrin) was for continuity and to allow themes to develop as you suggest.  For example, the businessman is English and travelling around German-speaking Europe. Thus allowing for developing &quot;travel&quot; or &quot;tourist&quot; themes.
+:As for looking up words; the vocabulary is not intended for that purpose and an appendix would be best suited for that.  I've toyed with the idea of having a dictionary of just the words we use in the lessons within a German-English English-German dictionary as an appendix, but that would be a lot of work?  
+:My idea in the first lessons is to get the very basics of grammar laid out. When I took German many times many years ago, it was painfully obvious to me that my lack of understanding of &lt;u&gt;English grammar&lt;/u&gt; was hurting my ability to learn German.  Later I was placed in a language emersion situation for another language: Gilbertese (I-Kiribati). Again, until I got a good grammar book on that language, I could not learn it despite being daily surrounded by native speakers. While I agree with your sugestions, the heavy grammar stuff in the beginning is really important for English speakers to understand before they can begin to learn German. - [[User:Marshman|Marsh]] 17:43, 29 Feb 2004 (UTC)
+
+Finally, we should make learning vocabulary more than just a list at the end of the page. We should include more than is just in the example sentences, or, better yet, put the vocabulary ''in the middle'' of the lesson. This would give our readers a break from grammar and at the same time make them actually learn it, not just look to it as a reference. People will skip it and think it an afterthought if it's left to the end of a lesson. - [[User:SamE|SamE]] 16:11, 29 Feb 2004 (UTC)
+:We can certainly try to move the vocabulary from the last thing on a page.  I disagree students will think it an afterthought, since most lessons start with a story or conversation that requires the student to constantly refer to the Vokabeln to read. But there is no reason we cannot have more than one Vokabeln per page.  Say one that follows the story or conversation with just those newly introduced words, then another at the end or at least further in to pick up any new words encountered as the student moves through the lesson.
+:Nice to see you are taking some ownership here. We have lots of lessons to go, so there is plenty of opportunity to steer things in the directions you are suggesting. The first 5 Basic lessons, while not &quot;done&quot;, are getting near to completion&amp;mdash;the Advanced lessons for each still need lots of work. Also, when you have time, add something on the [[German: Contributors]] page about yourself.  - [[User:Marshman|Marsh]] 17:43, 29 Feb 2004 (UTC)
+
+I split the Vokabeln in [[German:_Lesson 1|Lektion 1]] as you suggested, and I do like it better that way. The vocabulary is smaller and more accessible to the task that way, rather than having the whole thing at the end - [[User:Marshman|Marsh]] 18:38, 29 Feb 2004 (UTC)
+----
+Some lessons, such as [[German: Lesson 4|Lesson 4-1]] are, in my opinion, ''horrible'' for the opening topic on any page this early. If this is a textbook for beginners, why is the whole introduction and conversation in German? I'm sure students would get frustrated with having to check the vocabulary, but they also need a more basic conversation and a slow, formalized introduction to words, word order, and certain topics.
+:Lesson 4 is still a little rough. For example, the conversation section is yet to be developed. However, I disagree it is &quot;horrible&quot;. It has grammar lessons that are very much related concepts: it introduces adjectives, then covers the possessive adjectives, combining the previous lessons' on case by linking adjectives, possessives (especially possessive pronouns), and the genitive case&amp;mdash;therefore completing the four lessons on case as applied to pronouns and nouns. It includes indefinite articles because these have yet to be introduced (definite articles are introduced in Lesson 3); This grammar lesson then lays the groundwork for ''ein''-word endings (must follow intro. to adjectives). The last lesson on personal pronoun gender could be moved up anywhere (even up to Lesson 1). This is about the right place to introduce adjectives, but the other concepts could be delayed for a few lessons. Anyway, until a &quot;theme&quot; is developed, each of the grammar lessons here can stay or be moved where they appear to fit in logically. The theme here was to be (but need not be) that Markus is selling some personal stuff at a flea market.  But feel free to change that theme. Below you list themes, which are a good idea.  However, I am trying to weave the characters together, so it would be nice to stick with that &quot;theme&quot; as well - [[User:Marshman|Marsh]] 22:28, 1 Mar 2004 (UTC)
+::I did not mean that the whole lesson 4 was bad. I meant that the idea of a flea market, selling items, describing that, etc. introduces too many open ends in our work. We would probably have to introduce a whole bunch of new vocabulary. - [[User:SamE|SamE]] 18:52, 2 Mar 2004 (UTC)
+:::By all means scrap the whole Flea Market idea! It is far to little developed to be worth keeping if you have something better in mind. I was trying to come up with something that would have lots of adjectives (and possessive adjectives) to push that part of the lesson. I'm sure you can do better. Maybe expand on Katrin's refrigerator; was empty, now contains....  - [[User:Marshman|Marsh]] 19:51, 2 Mar 2004 (UTC)
+::::A family intro (or in-depth lesson) could go well there. It would have a lot of possessives (meinem Vater, seine Kusine, etc.) and we could even have the student describe their family members (either physically or their characteristics (freudlich, faul). This would make for an interesting lesson. But I'm not so sure how to introduce it all in a story. - [[User:SamE|SamE]] 14:15, 3 Mar 2004 (UTC)
+:::::I can get it started if you want, then you can move the story along. Give me a day or so. I had to go to Maui today on business, and my car had problems when I got back and left the airport - [[User:Marshman|Marsh]] 05:57, 4 Mar 2004 (UTC) 
+----
+:The introductory conversations and stories are in German to &lt;u&gt;force&lt;/u&gt; the student to face the real world of language learning.  If everything were simultaneously translated for him/her no learning would take place.  Each lesson should contain lots of sentence/word examples with English alongside to satisfy what you are suggesting.  But being forced to read German and &quot;look up&quot; each word that is not understood progresses the student towards reading German on his/her own. I think the lessons do have &quot;a slow, formalized introduction to words, word order, and certain topics.&quot; Not every lesson is perfect or complete in this regard, but what you describe is what is in there. Indeed, if you look carefully, the lessons introduce grammar concepts one at a time and develop these only up to a point.  More detail is provided in the Advanced lesson, and each grammar lesson will likely reappear later for more complex treatment - [[User:Marshman|Marsh]] 22:40, 1 Mar 2004 (UTC)
+::My vision of vocabulary is that it would help the student form &lt;u&gt;their own&lt;/u&gt; sentences. It is '''not''' to force the student to simply look something up, instead for them to make their own observations about the surround. To fully understand something is to apply it correctly in new places. - [[User:SamE|SamE]] 18:52, 2 Mar 2004 (UTC)
+:::That is a good point, and I can see how having a theme could enhance that approach. What about this idea: Within a lesson such as the clothing one (would work anywhere really), have a numbered list of English sentences. Instruct the student to put these into German. Have another &quot;answer&quot; page, where the student can go to compare his sentences with correct ones.  I agree, it is important to have the student do more than translate German to English. Learning to speak (as opposed to read) German is going to require another approach on top of what I presently have; another structural subsection - [[User:Marshman|Marsh]] 19:51, 2 Mar 2004 (UTC)  
+
+Below is somewhat of a sign-up like the one above for the vocabulary and application topics. - [[User:SamE|SamE]] 22:28, 29 Feb 2004 (UTC)
+
+&lt;big&gt;Topics to be discussed&lt;/big&gt;
+
+* 1. Clothing
+* 2. School supplies
+* 3. School subjects
+* 4. Tasks/Jobs
+* 5. Gifts
+* 6. Food (several lessons could cover this)
+* 7. Invitations: Accepting/declining
+* 8. Team Sports
+* 9. Field Events (track)
+* 10. Appropriate &quot;Wie geht's&quot; responses
+* 11. Weather
+* 12. Movies
+* 13. Places to go
+* 14. Making plans
+* 15. Family members
+* 16. Directions, how to get places
+* 17. Furniture
+* 18. 
+* 19. 
+* 20. 
+
+:While I agree that having pages or lessons on themes are nice (the following are already themed: Lesson 1, Lesson 2, Lesson 3, Lesson 5, and Lesson 7) the idea that a student will somehow greatly benefit from having all the words about a particular subject (like shopping) is over-rated.  Themes help build interest, but language learners do not necessarily group new words according to any of our ideas about themes. I think numbers, colors, foods, sports might be naturals, but movies, making plans, gifts are just among interesting things that could be discussed and around which grammar lessons could be developed.  Indeed, for these latter, any lessons could be applied and examples drawn from the story or conversation used to set the theme.
+
+:Your examples below are subjects to be covered, and really not in any special to the themes you list above, with a few exceptions (for example, numbers - see Lessons 3 and 7) - [[User:Marshman|Marsh]] 22:28, 1 Mar 2004 (UTC)
+       
+&lt;big&gt;Grammar topic that would go well with&lt;/big&gt;
+
+* 1. Accusative Case
+* 2. Math topics
+* 3. Zuerst, zuletzt, nun, other adverbs
+* 4. Müssen, Helfen verbs
+* 5. Dative case
+* 6. Essen (obviously), bekommen, other verbs
+* 7. einladen, seperable verbs
+* 8. spielen, could be used near beginning as an intro
+* 9. 
+* 10. Phrases as in [[German: Appendix 2]]
+* 11. Enough to be its own Lesson
+* 12. mögen, paired with next one
+* 13. gehen, einkaufen, wollen, möchten verbs
+* 14. could be paired with #13, #4, or #7
+* 15. Possessives
+* 16. Commandative form
+* 17. Describing things
+* 18. 
+* 19. 
+* 20. 
+
+:I'm totally unclear on how you would handle some of these lessons. Above you suggest things are too complicated (for which I suggest, we could spread the introductory grammar lessons out over more lessons), then you suggest a whole lesson of just certain verb types. Not that what you suggest are at all bad ideas, but No. 4 for example would need to follow after introduction to verbs as a part of speech (now in Lesson 2), and basic verb conjugation (now in Lesson 5).  Math topics (your No. 2; and now in Lesson 7) would have to follow simple counting (now in Lesson 3). Am I missing the point you are making? - [[User:Marshman|Marsh]] 22:48, 1 Mar 2004 (UTC)  
+::OK, first, the lessons I present here are not in order (just making sure). I think the stages of learning grammar '''need''' to be spread out, and very spread out. We should not be teaching the genitive case this early. Even the dative case could wait awhile; we could get the students familiar with phrases such as &quot;mit dem Auto&quot; without actually introducing them to the dative case. I actually think that we should introduce the accusative case in Lesson 3 or 4, which is where I would put the clothing lesson. Lessons on sports, &quot;Wie geht's&quot;, and an easy intro to food could fill the gap. For how I would do this, see [[German:Topical Lesson Layout|the layout]] and my first topical lesson. - [[User:SamE|SamE]] 13:51, 3 Mar 2004 (UTC)
+:::I agree with you. I have been spreading things out more each time I go back in and tweak the lessons. I was already contemplating splitting the dative off to at least one lesson later than the accusative (which has now moved back to lesson 4) and was thinking of moving the genitive well back into the text (certainly after 5).  I do think it is important from the grammar approach to at least mention that these cases exist and must (eventually) be dealt with. But I have no problem with continuing to &quot;spread the difficulty&quot;.  I think I have more to say on this idea somewhere else where you ask about the target audience - [[User:Marshman|Marsh]] 05:57, 4 Mar 2004 (UTC)
+
+&lt;big&gt;What topic in which lesson&lt;/big&gt;
+
+* '''Lesson 1:''' 
+* '''Lesson 2:''' 
+* '''Lesson 3:''' 
+* '''Lesson 4:'''  
+* '''Lesson 5:''' 
+* '''Lesson 6:''' 
+* '''Lesson 7:''' 
+* '''Lesson 8:''' 
+* '''Lesson 9:''' 
+* '''Lesson 10:'''
+* '''[[German:Topical Lesson 1|Topical Lesson 1]]:''' 1
+
+I just started to create [[German:Topical Lesson Layout|topical lessons]], lessons geared at teaching a certain concept in depth and connecting with grammatical concepts. Eventually, these lessons should be incorporated in the original plan. For an example, see my clothing topical page (Topical Lesson 1) - [[User:SamE|SamE]] 03:37, 1 Mar 2004 (UTC)
+
+:My comments are on the discussion page for the &quot;topical&quot; lesson, which I have moved over as [[German: Lesson 9|Lektion 9]]  - [[User:Marshman|Marsh]] 22:28, 1 Mar 2004 (UTC)
+-----
+What is our target age group? Are we aiming to teach adults the language or junior high and high school students? If we are aiming for adults, they wouldn't mind the heavy grammar stuff as much, partly because they would already have a firm grasp on English grammar. We could probably go along with what we have. If we are aiming at grade school kids, we should probably go more of the topical route. I suggest even splitting the whole site up between these two. Could we do that? - [[User:SamE|SamE]] 14:06, 3 Mar 2004 (UTC)
+:I think the target for the basic lesson level is highschool and adults wanting to self teach themselves German.  I think the Advanced level target is college first year. Your idea of developing another track is a real good one.  I was looking at the [[Spanish]] book yersterday and noted that they have two approaches: one more grammar one more conversational; and they ask the user to simply choose the lesson style preferred.  I think that approach can only enhance the usefulness of the book.  Is that what you have in mind as a more &quot;topical&quot; approach? - [[User:Marshman|Marsh]] 06:06, 4 Mar 2004 (UTC)
+::Yes, precisely. However, I don't completely agree with the idea of the advanced lessons targeted at a different age group. In the Vorwort, you have one path that goes 1, 1A, 2, 2A, etc. and don't state that this is for a different age level. But you are getting my point. I think we could and should definitely split it up. But how would we word it? - [[User:SamE|SamE]] 14:06, 5 Mar 2004 (UTC)
+:::Age is not exactly the difference, but more is expected out of a college beginners course than a highschool beginners course. Now you are suggesting a third track&amp;mdash;one that is perhaps closer to highschool or younger beginning German; although again it isd more a matter of ease/difficulty comprehending rather than age.  I assume your idea is to start and develop a more &quot;conversational&quot; approach - [[User:Marshman|Marsh]] 17:03, 5 Mar 2004 (UTC)
+::::I'm not suggesting a third track. We would have two tracks: one younger (high school or younger), &quot;conversational&quot; and longer, slower approach, and a second grammatical, more college and adult-based approach. - [[User:SamE|SamE]] 18:52, 5 Mar 2004 (UTC)
+:::::That is a third track since the grammatical approach has two levels that I would like to preserve.  The younger version really cannot interconnnect in the same way as the Basic and Advanced levels now present are intended to interconnect. For one thing, it would be very difficult to make those interconnections because of the &quot;slower&quot; development of the conversational lessons (the latter could utilize the same appendices, but perhaps that is about all). Why not develop your very first lesson and we can see how it goes. It can be &quot;officially&quot; named and moved into sequence once I get the contents page links figured out. We may want a separate TOC to minimize student confusion. I'm interested in seeing how you plan to layout the complete lesson first. - [[User:Marshman|Marsh]] 19:11, 5 Mar 2004 (UTC)     
+::::::I did not call the &quot;advanced lessons&quot; a seperate track because they cannot stand on their own. You cannot learn through them alone. I do not intend to split that, but rather to create a second 'stand-alone' track. I'm working on my lesson one at [[German:Beginner's Lesson 1]]. - [[User:SamE|SamE]] 04:31, 6 Mar 2004 (UTC)
+:::::You are right about that, but the &quot;two&quot; tracks existing are (Basic) 1-2-3-4-etc. and (Advanced) 1-1A-2-2A-3-3A-etc. - [[User:Marshman|Marsh]] 08:29, 6 Mar 2004 (UTC)
+
+If we were to split it up, this is the order that I would put the topical lessons in:
+
+# Phrases such as &quot;Wie geht's&quot; and hellos/goodbyes along with the nominitive pronouns.
+# A sports and activities lesson, introducing the verb haben and ''gern''.
+# The first food lesson. Introduces the verbs essen, trinken and bekommen.
+# A clothing lesson as in the topical lessson.
+# Another food lesson, this time with für and using the accusative case in the previous chapter.
+# A short family member lesson with possessives.
+# Shopping for school supplies. Introduces kein-words. - [[User:SamE|SamE]] 18:52, 3 Mar 2004 (UTC)
+
+Should we give this new approach another book title (subtitle)? I can probably work up some verbage for the Vorvort that will allow the user to understand that there are differrent levels available (with somewhat different approaches). Should we borrow parts of lessons back and forth between the &quot;books&quot;? - [[User:Marshman|Marsh]] 06:06, 4 Mar 2004 (UTC)
+:Yes, this is exactly what I mean. We would have a adult path, somewhat what we have, and an easier, slower (and therefore longer) junior high and high school student path. We could name it with &quot;Beginner's German&quot; or &quot;Easy German&quot;, but I'm sure you could come up with something better. I don't have any particular ideas on the name. - [[User:SamE|SamE]] 14:06, 5 Mar 2004 (UTC)
+
+----
+
+Can each level have its own Intro? I believe many things are different. Besides, we need to update the Layout section, which is different in all three lessons. - [[User:SamE|SamE]] 22:15, 31 Mar 2004 (UTC)
+
+:I agree, the intro needs work to make sense for all three levels.  For now, I would prefer one such article for all three levels and I do intend to fix the existing one so it makes sense. But having said that, you still could write a &quot;Forward&quot; that is unique for Level I, and we can figure out a way to integrate the Forward and the Introduction in a useful manner. - [[User:Marshman|Marsh]] 17:10, 2 Apr 2004 (UTC)
+
+::I'll start that at [[German:Level I Preface]]. &quot;Forward&quot; sounds like an outsider is commenting on the book; &quot;preface&quot; is typically written by the author(s).
+
+:::Looks good to me. Is distinct for Level I, and gives a good introduction to some unique (for English speakers) things about German.
+
+----
+
+I reverted because this is an introduction to the book, not a lesson. - [[User:Marshman|marsh]] 04:41, 31 May 2005 (UTC)
+-------------------------------------------------------------------------
+You wrote: &gt;&gt;&gt; Hast du Käse? - No one ever says &quot;Have you cheese?&quot; in casual talk &lt;&lt;&lt;
+
+..... By the way, I knew a man who had a redensart=he kept saying often, &quot;Das ist doch Käse!&quot;, meaning that's nonsense. But I suppose not many people say that. [LAUGHS]
+
+QUITTNER, 31 May 2005
+
+&quot;Das ist doch Käse!&quot; means ''That's not good! It isn't worked our very well!'' [[:m:User:Louisana]]
+
+== Ogg-files ==
+
+I don't know if my english pronunciation is that good (can't judge myself) It would be possible to let a native speaker record the englisch words and put them together w/ my german. [[:m:User:Louisana]]
+:My Windows Professional and Windows Media Player do not recognize those files as anything. I will need to track down a &quot;player&quot; program before I can listen to them. I recently reinstalled Windows and lost many such programs I had on the computer.  If your second part is a question, I do not know the answer. Certainly with the right software, what you suggest is possible. - [[User:Marshman|marsh]] 19:02, 15 August 2005 (UTC)
+I know that .ogg files are not the best format and don't run everywhere, but wikimedia likes more ogg files, because they are free - like GNU-FDL. My second sentence wasn't a question, it was a suggestion, they we '''could''' do it, if you think that my english pronunciation is too bad. [[:m:User:Louisana]]
+:Well, when I have a little more tme I can look into doing what you suggest (like add my &quot;English&quot;). Right now I can not even hear the files you created (although a few months ago I had that capability on my computer). So I need to track down the software to play (and then to actually create and mix) ogg files. But I do like the suggestion.  - [[User:Marshman|marsh]] 19:08, 19 August 2005 (UTC)
+I'm able to play with winamp version 2.91 --[[:m:User:Louisana]]
+
+== Reading List ==
+
+It would be very helpful to include a list of books, or magazines that people could read at each level.  Childrens books and first, and building with the language to other more complex novels.  For example, a recommendation about when someone would be well served to attempt to read harry potter, compared to Wirtschaftswoche.  Are there any good German childrens stories already in the public domain, like Grimm etc.?
+
+== Linking to a help manual for playing ogg files ==
+
+I'm not sure is against typical WikiBooks practice or not, but I feel that it would be appropriate to link to or mention how to play ogg files somewhere in the introduction.  I don't feel that it would be out of place because the intro also covers the layout of this WikiBook.  This is such a great resource and I wouldn't want users to get discouraged because they don't have the appropriate codec installed.  While [[Help:Contents]] has a link to an external site, people may not even think to look there.  I'd even be happy to even see &quot;Visit [[Help:Contents]] if you are having trouble playing the sound files&quot; or something to that effect. Thanks and keep up the good work! --[[User:PS2pcGAMER|PS2pcGAMER]] 10:17, 24 February 2006 (UTC)
+
+== Number of Levels? ==
+
+After explaining the difference between '''Level I''' through '''Level V''', the text goes on to state that the section '''German Grammar''' is
+: ''... useful to the student working through any of the three levels''
+Which three levels out of five is that supposed to be ... only the upper three (i.e., not Levels I or II) or is it just an artifact of a time when there were only three levels instead of the present five? -- [[User:Eliyahu|Eliyahu]] ([[User talk:Eliyahu|talk]]) 09:36, 17 March 2008 (UTC)</text>
+      <sha1>rpu830fh81aggpgrgwzdab3lgnnm1bb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Pesto</title>
+    <ns>102</ns>
+    <id>3588</id>
+    <revision>
+      <id>2680577</id>
+      <parentid>2653027</parentid>
+      <timestamp>2014-07-12T00:15:58Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <text xml:space="preserve">{{recipesummary|Sauce recipes||45 minutes|3}}
+__NOTOC__
+{{recipe}} | [[Cookbook:Sauces|Sauces]]
+
+'''Pesto'''  is a [[Cookbook:Sauce|sauce]] that originates in the city of Genoa in the Liguria region of northern Italy (''pesto alla genovese''). It can be used as a sauce for pasta or meat, or can be used as an ingredient in a variety of dishes. One classic use is to spread the pesto onto slices of bread before toasting. The word &quot;pesto&quot; derives from the Italian for pestle, ''pestello''.
+
+This recipe substitutes [[Cookbook:Romano Cheese|Romano cheese]] for the usual [[Cookbook:Parmesan Cheese|Parmesan]].
+
+==Ingredients==
+[[Image:Pesto Ingredients.jpeg|thumb|right|190px]]
+*4 [[Cookbook:Ounce|oz]] (100[[Cookbook:g|g]]) fresh [[Cookbook:Basil|basil]]
+*approx. 8 [[Cookbook:Ounce|oz]] (200[[Cookbook:g|g]]) [[Cookbook:Olive Oil|extra virgin olive oil]]
+*1/3 [[Cookbook:Cup|cup]] freshly grated [[Cookbook:Pecorino Romano Cheese|Pecorino Romano]] or Parmigiano-Reggiano cheese or a 1:1 mixture.
+*1/4 cup [[Cookbook:Pine Nut|pine nuts]] (optional)
+*4 cloves [[Cookbook:Garlic|garlic]]
+*Freshly ground [[Cookbook:Salt|salt]] and [[Cookbook:Pepper|pepper]] (to taste)
+
+==Procedure==
+Preheat the oven to [[Cookbook:Oven_temperatures|425 °F (220 °C)]]. If using, [[Cookbook:Roasting_nuts|Toast]] the pine nuts in an ovenproof pan for 10&amp;ndash;15 minutes, checking every 5 minutes to prevent excessive browning or burning.  In a small frying pan (skillet), heat 2 tbsp of the olive oil on medium heat.  Crush the garlic and [[Cookbook:Sautéing|sauté]] in the oil until soft, about 2&amp;ndash;3 minutes.  Combine the basil, garlic, cheese, pine nuts and oil in a [[Cookbook:Mortar and Pestle|mortar and pestle]] until it forms a smooth paste, or use a [[Cookbook:Food Processor|food processor]] or [[Cookbook:Blender|blender]] and chop finely, slowly adding the oil to reach the paste-like consistency.
+
+The sauce can be used immediately, when covered with a thin layer of olive oil and refrigerated in an airtight container for one week, or when frozen for several months. The cheese can be omitted to allow longer storage, as it is the most likely ingredient to spoil. Grated cheese can then be added before use.
+
+It's possible to store pesto in jars for longer periods, but it's advisable to add a little extra olive oil on top of the filled jar, otherwise the top of your pesto will turn brown as it oxidizes in the air.
+
+==Notes, tips and variations==
+[[Image:Fresh Pesto.jpeg|thumb|right|200px|The finished pesto]]
+* Traditionally, a [[Cookbook:Mortar and Pestle|mortar and pestle]] is used to make the sauce. The crushing action of the mortar and pestle produces a more intense flavor than the chopping action of a food processor. When using a food processor, you can simulate the additional flavor given by the mortar and pestle method by placing the basil leaves in a plastic bag and crushing them with a rubber mallet or rolling pin prior to use.
+* Good quality [[Cookbook:Parmesan Cheese|Parmesan cheese]] may replace the Pecorino for a milder taste. Crumbled feta cheese also works well for a different taste.
+* A common change to the recipe is to replace some or all of the pine nuts with sunflower seeds, [[Cookbook:Walnut|walnuts]], [[Cookbook:Pistachio|pistachios]], or [[Cookbook:Almond|almonds]].  This significantly reduces the cost of the sauce.  Besides being cheaper, it is also necessary for people with nut allergies.
+* For a creamy sauce, take two tablespoons of the pesto in a pan and heat on medium-low. Add one cup light [[Cookbook:Cream|cream]] and bring to a simmer. Use for pasta. Serves two.
+* The pine nuts can be replaced with an equal quantity of sun-dried [[Cookbook:Tomato|tomatoes]].
+* You may change the taste by changing the base of the pesto from basil to other easily obtained herbs/vegetables. Some variations include using [[Cookbook:Cilantro|cilantro]] (coriander, for a more aromatic taste) or [[Cookbook:Spinach|spinach]] (more &quot;bang for your buck&quot;, as spinach is much cheaper than basil, yet still has its own distinct flavor).
+* Try to mix up the standard basil/garlic combo by introducing shallots (sweet onions) into the mix, as they add a slight sweet taste to the paste.
+* Mix fresh chives, marjoram, and thyme with the basil to produce something akin to Valdostano-style pesto.
+* Another variant replaces the basil with equal parts of leaf parsley and spring onions. [[Cookbook:Arugula|Arugula]] may also be substituted for basil with surprising, spicy results.
+* For another variation of a creamy sauce, add [[Cookbook:Cream Cheese|cream cheese]] to the recipe.
+* A vegan variant can be made by mixing walnuts, fresh basil, olive oil and small amounts (such as a table spoon per cup) of white miso paste.
+
+==Links==
+{{wikipedia}}
+
+[[Category:Pasta recipes|{{PAGENAME}}]]
+[[Category:Sauce recipes|{{PAGENAME}}]]
+[[Category:Pasta sauce recipes|{{PAGENAME}}]]
+[[Category:Featured recipes|{{PAGENAME}}]]
+[[Category:Italian recipes|{{PAGENAME}}]]
+[[Category:Basil recipes|{{PAGENAME}}]]
+[[Category:Recipes with images|{{PAGENAME}}]]
+[[Category:Recipes_with_metric_units|{{PAGENAME}}]]
+
+[[fr:Livre de cuisine/Pesto]]</text>
+      <sha1>d72dalg2c20rj1fpxwcrf0b8e125pgp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Pesto</title>
+    <ns>103</ns>
+    <id>3589</id>
+    <revision>
+      <id>2377661</id>
+      <parentid>1258611</parentid>
+      <timestamp>2012-07-14T16:51:48Z</timestamp>
+      <contributor>
+        <username>Jerome Charles Potts</username>
+        <id>114415</id>
+      </contributor>
+      <comment>/* Twice as much oil as basil? */ new section</comment>
+      <text xml:space="preserve">==Article history from [[w:en:Pesto|en.wikipedia.org]]==
+
+Legend: (cur) = difference with current version, (last) = difference with preceding version, M = minor edit
+
+    * (cur) (last) . . 16:14, 4 Jan 2004 . . Gentgeen (Transwiking recipe to wikibooks)
+    * (cur) (last) . . M 17:00, 16 Nov 2003 . . Cabito
+    * (cur) (last) . . M 03:46, 9 Nov 2003 . . Gentgeen (typo)
+    * (cur) (last) . . 03:46, 9 Nov 2003 . . Gentgeen (added warning text, alternatives, some small history stuff)
+    * (cur) (last) . . 04:16, 6 Nov 2003 . . Gentgeen (added recipe)
+    * (cur) (last) . . 23:10, 21 Oct 2003 . . Dgrant (changed basil link)
+    * (cur) (last) . . M 11:01, 18 Sep 2003 . . Ortonmc (Fix link to pine nut)
+    * (cur) (last) . . 16:37, 3 Aug 2003 . . SimonP
+
+== The traditional method should come first ==
+
+I suggest to invert the sequency of methods, to the more logic one:
+a) traditional method using a mortar...... etc
+b) the modern method (I would call it mechanic, and not modern) comes only after, 
+
+Further to this I suggest to better highlight that the traditional (normal) method is preferable to the modern one for many reasons (some of them are already included into the recepy) &lt;small&gt;—The preceding [[w:Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:Luigi.tessiore|Luigi.tessiore]] ([[User talk:Luigi.tessiore|talk]] • [[Special:Contributions/Luigi.tessiore|contribs]]) .&lt;/small&gt;
+
+:Agreed. Also, pignoli are not optional. Toasted pine nuts are ESSENTIAL to pesto. &lt;small&gt;—The preceding [[w:Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:71.60.18.106|71.60.18.106]] ([[User talk:71.60.18.106|talk]] • [[Special:Contributions/71.60.18.106|contribs]]) .&lt;/small&gt;
+
+::Not all pestos contain pignoli, or toasted pine nuts.  For instance, my mother's family is Italian, and they don't use toasted pine nuts in their pesto at all.  It's just basil, garlic, Parmesan cheese, and olive oil.  For creamy pesto, they would add cream cheese. [[User:Marcus2|Marcus2]] ([[User talk:Marcus2|talk]]) 14:58, 28 June 2008 (UTC)
+
+== Twice as much oil as basil? ==
+
+Wow! You're sure that it's not the other way around? -- [[User:Jerome Charles Potts|Jerome Charles Potts]] ([[User talk:Jerome Charles Potts|discuss]] • [[Special:Contributions/Jerome Charles Potts|contribs]]) 16:51, 14 July 2012 (UTC)</text>
+      <sha1>c9weie4eh00f9n3yudeqwz0gni404kb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Mtcv</title>
+    <ns>2</ns>
+    <id>3591</id>
+    <revision>
+      <id>1171150</id>
+      <parentid>155479</parentid>
+      <timestamp>2008-04-22T15:44:40Z</timestamp>
+      <contributor>
+        <username>Mtcv</username>
+        <id>416</id>
+      </contributor>
+      <text xml:space="preserve">Dutch wikipedian: [[:nl:Gebruiker:Mtcv|Mtcv]]</text>
+      <sha1>qmzon2g71d9z9d81c6aagjot6glu39v</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Dutch/Example 1</title>
+    <ns>0</ns>
+    <id>3592</id>
+    <revision>
+      <id>2626956</id>
+      <parentid>2146003</parentid>
+      <timestamp>2014-04-04T23:19:19Z</timestamp>
+      <contributor>
+        <username>Jcwf</username>
+        <id>95658</id>
+      </contributor>
+      <comment>/* Opmerkingen */</comment>
+      <text xml:space="preserve">The following ''voorbeelden'' (examples) accompany [[../Lesson 1|Les 1]].
+
+== Poesje en Hondje ==
+
+The following text was taken from a Mother Goose rhyme and translated to Dutch. The original appears in the [http://www.gutenberg.org Project Gutenberg] text 'Verse and Prose for Beginners in Reading'. In order to get a literal translation, the Dutch text was not made to rhyme.
+
+=== Nederlands ===
+
+  Poesje zit naast het vuur
+    Hoe kan zij braaf zijn?
+  Dan komt het kleine hondje binnen
+    &quot;Poesje, ben je daar?
+  Zo, zo, mejuffrouw Poesje,
+    Zeg me, ''hoe gaat het met je?''&quot;
+  &quot;Dank je, dank je, Hondje,
+    ''Het gaat heel goed'' met me op dit moment.&quot;
+
+=== English ===
+
+  Kittycat sits beside the fire,
+    How can she be fair?
+  In comes the little dog,
+    &quot;Pussy, are you there?
+  So, so, dear miss Kittycat,
+    Pray tell me ''how do you do?''&quot;
+  &quot;Thank you, thank you, little dog,
+    ''I'm very well'' at the moment.&quot;
+
+=== Woordenlijst ===
+{|
+|''en'': || and
+|-
+|''vuur'': || fire
+|-
+| ''met'': || with
+|-
+| ''hoe gaat het met je'': || ''lit.'' 'How goes it with you', how are you?, how do you do?
+|-
+| ''heel'': || very; ''also'' whole
+|}
+
+=== Opmerkingen ===
+
+# ''Poesje'' is pronounced ''puss-yah''. The digraph ''oe'' is pronounced somewhere between 'u' and 'oo'. The English word ''pussy'' is actually a very Dutch-like diminutive of ''puss''. Among some speakers of Dutch, ''pussy'' would be an acceptable pronunciation.
+#In Dutch the word ''poesje'' does ''not'' have the same connotation as in English. It merely means ''pussycat''.
+
+== Poesje Mauw ==
+
+The following is a Dutch ''volksliedje'' (folk song).
+
+=== Nederlands ===
+
+  Poesje Mauw
+  Kom eens gauw
+  Ik heb lekkere melk voor jou
+  En voor mij
+  Rijstebrij
+  O wat heerlijk smullen wij
+
+=== English ===
+
+  Pussy Mou
+  Come quickly
+  I have tasty milk for you
+  And for me
+  Rice porridge
+  Oh how we will enjoy this meal
+
+=== Opmerkingen ===
+
+# The meter in the Dutch version is nearly perfect and should provide hints for pronouncing the words.
+# Lekkere is pronounced as 'le-kre' in this case, to fit the meter (but this is non-standard pronunciation).
+
+=== Woordenlijst ===
+
+* ''brij'': mash
+* ''smullen'': to thoroughly enjoy food
+
+== Crimes and Crimes ==
+
+The following is a fragment of act 1, scene 2, The Cremerie, from the August Strindberg comedy There Are Crimes and Crimes, as translated by Edwin Bjorkman and included in [http://www.gutenberg.net Project Gutenberg].
+
+=== Dutch ===
+
+ADOLPHE. [''Komt eerst binnen; na hem'' HENRIETTA] Hee, daar heb je Maurice. Hoe gaat het met je? Laat me deze dame voorstellen aan mijn oudste en beste vriend. Mademoiselle Henriette--Monsieur Maurice.
+
+MAURICE. [''Stijfjes groetend''] Aangenaam kennis te maken.
+
+HENRIETTA. We hebben elkaar al eerder gezien.
+
+ADOLPHE. Is dat zo? Wanneer, als ik vragen mag?
+
+MAURICE. Zojuist. Hier.
+
+ADOLPHE. O-oh!--Maar nu moet je blijven en wat met ons kletsen.
+
+=== English ===
+
+ADOLPHE. [Comes in first; after him HENRIETTE] Why, there's
+Maurice. How are you? Let me introduce this lady here to my oldest and best friend. Mademoiselle Henriette--Monsieur Maurice.
+
+MAURICE. [Saluting stiffly] Pleased to meet you.
+
+HENRIETTA. We have seen each other before.
+
+ADOLPHE. Is that so? When, if I may ask?
+
+MAURICE. A moment ago. Right here.
+
+ADOLPHE. O-oh!--But now you must stay and have a chat with us.
+
+=== Woordenlijst ===
+
+* ''voorstellen'': to introduce
+* ''aan'': to (addressing)
+* ''aangenaam kennis te maken'': ''lit.'' nice to make your acquaintance; pleased to meet you.
+* ''elkaar'': each other.
+* ''kletsen'', ''babbelen'', ''een praatje maken'': chat (compare 'prate' for the last form, although Dutch ''praten'' lacks the negative connotation)
+
+=== Opmerkingen ===
+
+# The play takes place in Paris, hence the French names and phrases.
+# Past participles in Dutch often end in 'd' or 't', and start with 'ge'. 'Gezien' is an irregular form, as is its English counterpart, 'seen'.
+# Generally, Dutch speakers won't use phrases such as 'how are you' and 'nice to meet you'. It is not wrong to use them, but neither is it considered impolite to leave them out of a conversation. 
+
+Such a conversation could have the following course: 
+
+* Anonieme spreker: ''Hariette van Dorp, mag ik Jan van Galen aan je voorstellen?''
+* Hariette: ''Hariette van Dorp.''
+* Jan: ''Jan van Galen.''
+
+{{BookCat}}</text>
+      <sha1>jsgto97yn4gzuumxyytv8255wubixbn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Rice and Beef Soup</title>
+    <ns>102</ns>
+    <id>3593</id>
+    <revision>
+      <id>2689608</id>
+      <parentid>910625</parentid>
+      <timestamp>2014-08-07T22:50:45Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>Added boiled cats.  Adjusted text slightly.  Added metrics.</comment>
+      <text xml:space="preserve">{{recipe}} | [[Cookbook:Soup|Soup]]
+
+==Ingredients==
+*2 rice cooker cups (12 [[Cookbook:Fluid Ounce|US fl oz]] in total, or 1.5 [[Cookbook:Cup|cup]]s) (360 [[Cookbook:mL|mL]]) long grain [[Cookbook:Rice|rice]].
+*10 [[Cookbook:Cup|cup]]s (1.9 [[Cookbook:L|L]]) water
+*1 [[Cookbook:Tablespoon|Tablespoon]] (15 mL) fresh [[Cookbook:Parsley|parlsey]], chopped
+*1 Tablespoon fresh [[Cookbook:Chive|chive]]s, chopped
+*1 Tablespoon fresh [[Cookbook:Rosemary|rosemary]], chopped
+*[[Cookbook:Salt|salt]] and [[Cookbook:Pepper|pepper]] to taste
+*1/2 [[Cookbook:Teaspoon|teaspoon]] (2.5 mL) [[Cookbook:Cinnamon|cinnamon]], ground
+*2 [[Cookbook:Pound|pound]]s (about 1 kg) [[Cookbook:Beef|beef]], cubed
+
+==Procedure==
+#Add the rice, water, parsley, chives, rosemary, and pepper to a 10 cup or larger [[Cookbook:Rice Cooker|rice cooker]].
+#For a simple rice cooker, turn it on. For a fancy (fuzzy logic) rice cooker, set the rice cooker to the ''quick cook'' setting and start.
+#Cover and allow to come to a [[Cookbook:Simmering|simmer]].
+#Add the beef and cinnamon, cover again, and allow to cook for 60 minutes.
+
+{{1881}}
+
+[[Category:Beef recipes|Rice and Beef Soup]]
+[[Category:American recipes|Rice and Beef Soup]]
+[[Category:Rice recipes|{{PAGENAME}}]]
+[[Category:Soup recipes|{{PAGENAME}}]]
+[[Category:Boiled recipes]]
+[[Category:Recipes with metric units]]</text>
+      <sha1>nnrakj3y5zaunykwjqbzz14kf7nllhi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

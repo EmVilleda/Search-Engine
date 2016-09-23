@@ -1,0 +1,2928 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>User talk:Taoster</title>
+    <ns>3</ns>
+    <id>4380</id>
+    <revision>
+      <id>990659</id>
+      <parentid>274005</parentid>
+      <timestamp>2007-10-04T00:37:31Z</timestamp>
+      <contributor>
+        <username>Mike's bot account</username>
+        <id>67847</id>
+      </contributor>
+      <minor />
+      <comment>substituting templates</comment>
+      <text xml:space="preserve">So, what's on your mind on this mellow eve?
+
+Taoster, 
+
+You said you wanted help with the Wikibook. Well, I want to help.
+
+I'm not fluent, but I've studied two semesters in the States, now I'm starting a third in Taipei with a new textbook, so I have some perspective and idea of what I'd like to see.
+
+I should have a lot of free time this summer, and working on this sounds like fun. I really want to make this a comprehensive introductory course and I have a lot of ideas toward that end. I was just wondering what your ideas were for the direction and what you would do if effort was no object.
+
+Laszlo
+
+
+== Copyright problem with [[:Image:China splash.jpg]] ==
+{{mbox|type=warning|msg=
+Thanks for uploading [[:Image:China splash.jpg]]. The [[w:Wikimedia Foundation|Wikimedia Foundation]] is very careful about what Wikibooks includes because of [[w:United States copyright law|copyright law]], and requires that we maintain a strict [[Wikibooks:Copyright|copyright policy]]. [[:Image:China splash.jpg]] and other files you uploaded may soon be deleted unless we can determine the copyright holder and status. The copyright holder is usually the creator, the creator's employer, or the last person who was transferred ownership rights. Please take the time to read [[Wikibooks:Media]] to learn more about what copyright information is required to satisfy our requirements and remember to include this important information for every file that you upload in the future as well. If you have any questions, feel free to contact me, or ask another Wikibookian at the [[Wikibooks:Study help desk|help desk]].
+
+See {{UserImages}} for a complete list of your uploads which may get deleted soon.&lt;br/&gt;Thank you. {{{2|}}}}}
+ --[[User:Derbeth|Derbeth]] 23:01, 5 November 2005 (UTC)</text>
+      <sha1>4p9w107snkrpuhe8l9hxztq5sa6kxah</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Japanese/Vocabulary/Adjectives</title>
+    <ns>0</ns>
+    <id>4400</id>
+    <revision>
+      <id>2273612</id>
+      <parentid>2174805</parentid>
+      <timestamp>2012-02-24T12:07:56Z</timestamp>
+      <contributor>
+        <username>Whym</username>
+        <id>109931</id>
+      </contributor>
+      <minor />
+      <comment>fixed the wrong column names</comment>
+      <text xml:space="preserve">{{Japanese related|vocabulary|
+* [[Japanese/Vocabulary/Colors]]}}
+
+{{Japanese vocabulary entry|begin}}
+{{Japanese vocabulary entry
+ | english = bright
+ | reading = あかるい
+ | japanese = 明るい
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = sweet
+ | reading = あまい
+ | japanese = 甘い
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = new
+ | reading = あたらしい
+ | japanese = 新しい
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = silly, foolish, stupid
+ | reading = ばか
+ | japanese = 馬鹿
+ | notes = な-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = small
+ | reading = ちいさい
+ | japanese = 小さい
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = near, close by
+ | reading = ちかい
+ | japanese = 近い
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = old
+ | reading = ふるい
+ | japanese = 古い
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = fast, early
+ | reading = はやい
+ | japanese = 早い
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = good, virtuous
+ | reading = いい, よい
+ | japanese = 良い
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = mean, mischievous
+ | reading = いじわる
+ | japanese = 意地悪
+ | notes = な-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = busy, irritated
+ | reading = いそがしい
+ | japanese = 忙しい
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = painful
+ | reading = いたい
+ | japanese = 痛い
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = skillful
+ | reading = じょうず
+ | japanese = 上手
+ | notes = な-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = cute
+ | reading = かわいい
+ | japanese = 可愛い
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = round
+ | reading = まるい
+ | japanese = 円い, 丸い
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = annoying
+ | reading = めいわく
+ | japanese = 迷惑
+ | notes = な-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = ugly
+ | reading = みにくい
+ | japanese = 醜い
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = long
+ | reading = ながい
+ | japanese = 長い
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = delicious, tasty
+ | reading = おいしい
+ | japanese = 美味しい
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = funny
+ | reading = おかしい
+ | japanese = 可笑しい
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = heavy
+ | reading = おもい
+ | japanese = 重い
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = big, great
+ | reading = おおきい
+ | japanese = 大きい
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = slow, late
+ | reading = おそい
+ | japanese = 遅い
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = cold (weather)
+ | reading = さむい
+ | japanese = 寒い
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = heavy, much
+ | reading = ただい
+ | japanese = 多大
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = right (correct)
+ | reading = ただしい
+ | japanese = 正しい
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = boring
+ | reading = たいくつ
+ | japanese = 退屈
+ | notes = な-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = important
+ | reading = たいせつ
+ | japanese = 大切
+ | notes = な-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = tall, high, expensive
+ | reading = たかい
+ | japanese = 高い
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = far
+ | reading = とおい
+ | japanese = 遠い
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = strong
+ | reading = つよい
+ | japanese = 強い
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = beautiful
+ | reading = うつくしい
+ | japanese = 美しい
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = young
+ | reading = わかい
+ | japanese = 若い
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = evil, bad
+ | reading = わるい
+ | japanese = 悪い
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = weak
+ | reading = よわい
+ | japanese = 弱い
+ | notes = い-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = cruel
+ | reading = ざんこく
+ | japanese = 惨酷
+ | notes = な-type adjective
+}}
+{{Japanese vocabulary entry
+ | english = kind
+ | reading = しんせつ
+ | japanese = 親切
+ | notes = な-type adjective
+}}
+{{Japanese vocabulary entry|end}}
+
+[[Category:Japanese vocabulary|{{SUBPAGENAME}}]]
+
+[[fr:Japonais/Vocabulaire/Adjectifs]]
+[[pt:Japonês/Vocabulário/Adjectivos]]</text>
+      <sha1>9u5hg3affjpap61ixaua8fvgqjxbnwb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>XML - Managing Data Exchange/Author guidelines</title>
+    <ns>0</ns>
+    <id>4403</id>
+    <revision>
+      <id>1489459</id>
+      <parentid>1459695</parentid>
+      <timestamp>2009-05-03T18:24:09Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>Fixed category.</comment>
+      <text xml:space="preserve">----
+Grammar links : 
+
+http://grammar.ccc.commnet.edu/grammar/
+
+http://www.dailygrammar.com/
+
+==Chapter Presentation / Revision Schedule==
+
+{|border=1 cellpadding=5 cellspacing=3 align=&quot;center&quot;
+!Presentation Date
+!Author
+!colspan=4|Chapter Revision Dates
+|-
+|&amp;nbsp;
+|&amp;nbsp;
+|Author's&lt;br&gt;revision list
+|Editorial Board&lt;br&gt;recommendations
+|Dr. Watson's&lt;br&gt;final recommendations
+|Due Date
+|-
+|1/23||Viji Kannan &amp; Marc Hunt||1/29||2/2||2/5||2/20
+|-
+|1/30||Dustin Pitts &amp; Christina Serrano||1/29||2/2||2/5||2/20
+|-
+|2/6||Sean Campbell &amp; Chad Borer||1/29||2/2||2/5||2/20
+|-
+|2/13||Benjamin Trice &amp; Kelly Yim||1/29||2/2||2/5||2/20
+|-
+|2/20||Thomas Harris &amp; Billy Timmins||1/29||2/2||2/5||2/20
+|-
+|2/27||Kevin Davis &amp; CTO group|| &amp;nbsp; ||&amp;nbsp;||&amp;nbsp;||&amp;nbsp;
+|-
+|3/6||Kevin Davis &amp; CTO group||2/12||2/14||2/16||3/6
+|-
+|3/20||Andy Sytsma||2/26||2/28||3/2||3/20
+|-
+|3/27||Blake Schernekau &amp; Cathy Hsu||3/5||3/7||3/9||3/27
+|-
+|4/3||Steve Adebayo &amp; Ty Tolbert||3/12||3/14||3/16||4/3
+|-
+|4/10||Moussa Mane &amp; Michael Morgan||3/19||3/21||3/23||4/10
+|-
+|4/17||Karl Strength &amp; Dietz Ellis||3/26||3/28||3/30||4/17
+|-
+|4/24||Toby White||4/2||4/4||4/6||4/24
+|}
+
+
+==Editing Chapters==
+You simply click on the &quot;edit this page&quot; tab at the top of any page you want to edit.  You can also just edit a section or subsection - any place you see a little 'edit' to the far right above a line, click on it to edit that section.  The thoughts behind the editing process of the chapters will be documented in the &quot;discussion&quot; tab of each chapter - go there to record your intentions for your assigned chapter.
+
+If you would like to make any suggestions to the editorial board, we welcome them.  At the top of the XML: Managing Data Exchange contents page is a tab to &quot;discussion&quot; follow that link and edit the page with your comments, be sure to follow the directions for entries.
+
+* '''Use wiki code, not HTML code''' when you edit a page.
+
+* how to make a link :  &lt;nowiki&gt;[[XML: Managing Data Exchange/NameOfThePage(on the page)|NameOfThePage(displayed as the link)]]&lt;/nowiki&gt;
+
+* no plagiarism : please use citations and references to books, articles, and websites that have helped you contribute to the book.
+
+* All figures and graphics should be prefixed with 'xml' to avoid accidentally overwriting another file (e.g., xmldmcity defines the data model for city).
+
+* Where possible use [http://www.libpng.org/pub/png/ Portable Network Graphics (PNG)] for graphics because of its superiority to GIF and JPEG. Also, PNG is Open Source. [http://www.openoffice.org/ OpenOffice.org Draw] can be used to create PNG files.
+
+==Consistency guidelines==
+
+''' - developed to create a consistent look and feel to the book'''
+
+===Layout===
+
+* '''Sponsorship banner''' ''(this will be implemented in a later version of the Wikibook--disregard for now)''
+The top of each chapter should sport a &quot;banner&quot; (in table format) including the Learning Objectives on the left and the sponsor (currently the Terry College of Business) on the right.  To place the banner in your chapter, simply copy from the single entity chapter and paste onto the top of your chapter.
+
+* '''Chapter summary required'''
+The bottom of each chapter should include a chapter summary highlighting the key points of the chapter. Follow the formatting guideline detailed later on this page.
+
+* '''Bold new words'''
+As new concepts and terminology are introduced in each chapter, make sure that they are defined first before using them; so that the reader understands what the words and ideas represent.  '''Bold''' the first occurrence of the word (or preceding the definition).
+
+* '''Use the sentence format for titles'''
+Capitalize the first letter of a title and allow the rest of the letters to be lower case, as in this title.
+
+* '''Avoid the use of underline and all capital words'''
+
+* '''Tables, figures, and code references'''
+For consistency, label all tables, figures (e.g. charts and photos), and code examples as &quot;exhibits.&quot;  Place the label for exhibits at the top of the exhibit, flush left, and enumerate the exhibits, followed by a brief caption. Examples: &quot;Exhibit 1: XML data types&quot; and &quot;Exhibit 2: Schema code example&quot; 
+
+* '''Concept capsules and breathing room'''
+Think of your chapter as a data model or a large steak.  A useful data model is broken down into its smallest attributes that require recording and maintaining for future analysis.  A large steak is best eaten in bite size pieces to prevent choking and promote good digestion.  As you revise your chapter consider the basic elements of your topic; break your topic down and present each element in a section - so that it is easy for the reader to follow and understand each part.  Feel free to use bullets to represent lists.
+
+To continue with the steak analogy, it is also good to eat slowly, taking breaths between each bite.  Allow for spaces between each subsection and greater spaces between each section.  This opens up the text so that it does not appear to dense and compact - and therefore intimidating.
+
+* '''NetBeans (or other XML editor) Examples'''
+Scroll down the contents page to &quot;Appendices&quot;.  You will see a link to the chapter &quot;Using an XML editor&quot;.  When you open this link - go to the edit this page tab and insert a link under the NetBeans heading with the name of your chapter.  This is the format for the link:
+&lt;nowiki&gt;[[XML: Managing Data Exchange/ChapterName(NetBeans)|ChapterName]]&lt;/nowiki&gt;
+After you save your edit, the XML Editor page will contain a link to your new NetBeans page.  It will appear red because no information has been posted to that page yet.  Click on the link and paste all the NetBeans information from your chapter into the edit box.
+In your assigned chapter, at the places where there were NetBeans information (that you just cut and paste into the XML editor page) - put a link to the XML editor - your Chapter page.
+
+* '''[[Help:Wikibooks]]''' &lt;= this link will provide several wiki guidelines - this page is also accessible from the 'help' link in the navigation box on the left bar of every one of these Wikibook pages.  It contains information on inserting pictures, creating tables using wiki language (which is much easier to write and read).
+This help page also has a link to a &quot;sandbox.&quot;  This is a blank page that allows you to experiment with wiki without affecting a real page.
+
+===Code examples===
+* Make all code examples a uniform color (black)—some are all black; some are multicolored.  Please change the ones that are multicolored to all black.
+
+* HTML code is lower case.
+
+* Keep the comments in the code, but put a space above and bellow each comment.
+
+* Include the file name of the code in a comments tag. If you are the author of the code, include your name and the date you authored the code in the comments. See example:
+
+
+&lt;pre&gt;&lt;nowiki&gt;
+    &lt;!--
+         Document   : city.xsd
+         Created on : March 1, 2005
+         Author     : Tim Jones
+    --&gt;
+&lt;/nowiki&gt;&lt;/pre&gt;
+
+
+* Keep all the example codes in the chapter on the same topic—the TOURGUIDE.  If there are examples in your chapter that deviate from this theme, please change them to show examples from TOURGUIDE.
+
+* If your code contains HTML or the XML declaration then you will want to put the tags &lt;nowiki&gt;  &lt;pre&gt; ... &lt;/pre&gt; &lt;/nowiki&gt;
+
+* In order to get those 'pre' tags to show up I had to use the tags &lt;nowiki&gt; &lt;nowiki&gt; ... &lt;/nowiki&gt; &lt;/nowiki&gt;
+
+If you run into trouble while inserting code, one of the two tags mentioned above might be able to get you out.
+
+* You do '''not''' have to create a table around samples of a code example; usually just putting a few spaces in front of each line will create the dashed blue lined box
+
+===Spelling===
+
+* Use the spelling &quot;stylesheet&quot; instead of &quot;style sheet.&quot;
+
+* Use the spelling &quot;opening tag&quot; instead of &quot;opening-tag.&quot;
+
+* '''Check your wiki text with a spellchecker''' (e.g. copy and paste in a text editor that supports spell checking).
+
+===Exercises &amp; Answers===
+
+Create two links at the bottom of your chapter, one to an Exercises page and one to the Answers page already made (you can find this answer page link at the bottom of the contents page).  
+
+In the Exercises page, cut and paste your chapter exercises into a '''new page'''. An easy way to create a new page is simply to go to your main chapter page, type &quot;exercises&quot; at the end of the URL, and hit  enter. If the page does not exist, Wikipedia will ask you to create the page by going to &quot;edit this page.&quot;  
+
+At the top and bottom of the Exercises page, provide a link to the chapter and the Answers page—and vice versa with the Answers page.
+
+===Elements of Style - Principles of Composition===
+'''taken from ''the Elements of Style'' - by William Strunk and E.B. White'''
+
+* '''Make the paragraph the unit of composition''' - The subject will need to be broken down into topics, and topics will need to be broken down into concepts and subconcepts.  Each concept should be explored within its own paragraph.
+
+* '''Put statements in positive form''' - &quot;Make definitive assertions.  Avoid tame, hesitating, noncommittal language.  Use the word 'not' as a means of denial or in antithesis, never as means of evasion.&quot;
+
+* '''Use definite, specific, concrete language''' - &quot;Prefer the specific to the general, the definite to the vague, the concrete to the abstract.&quot;
+
+* '''Omit needless words''' - &quot;A sentence should contain no unnecessary words, a paragraph no unnecessary sentences...Many expressions violate this principle: 'the fact that,' he is a man who ... - he ...&quot;
+
+* '''Avoid a succession of loose sentences'''
+
+* '''Express coordinate ideas in similar form'''
+
+* '''Keep related words together'''
+
+* '''Place the emphatic words of a sentence at the end'''
+
+==Source code==
+For inserting source code (e.g., XML or Java) into the book, use the following format:
+
+
+&lt;pre&gt;&lt;nowiki&gt;
+  &lt;country&gt;
+      &lt;code&gt;au&lt;/code&gt;
+      &lt;country&gt;Australia&lt;/country&gt;
+      &lt;flag&gt;au.gif&lt;/flag&gt;
+  &lt;/country&gt;
+&lt;/nowiki&gt;&lt;/pre&gt;
+
+
+Use the following wiki code:
+
+&lt;pre&gt;
+
+&amp;lt;pre&amp;gt;&amp;lt;nowiki&amp;gt;
+  &lt;country&gt;
+      &lt;code&gt;au&lt;/code&gt;
+      &lt;country&gt;Australia&lt;/country&gt;
+      &lt;flag&gt;au.gif&lt;/flag&gt;
+  &lt;/country&gt;
+&amp;lt;/nowiki&amp;gt;&amp;lt;/pre&amp;gt;
+
+&lt;/pre&gt;
+
+==Section summary==
+Section summaries should appear in the following format:
+
+{| style=&quot;background: linen; border: 1px solid black; padding: 1em; width: 100%;&quot;
+|- 
+| A chapter summary
+|-
+|}
+
+Use the following wiki code:
+
+&lt;pre&gt;
+{| style=&quot;background:linen; border: 1px solid black; padding: 1em; width: 100%;&quot;
+|- 
+| A chapter summary
+|-
+|}
+&lt;/pre&gt;
+
+==Story==
+Stories/case studies should appear in the following format:
+
+{| style=&quot;background: lightyellow; border: 1px solid black; padding: 1em; width: 100%;&quot;
+|- 
+| A story
+|-
+|}
+
+Use the following wiki code:
+
+&lt;pre&gt;
+{| style=&quot;background: lightyellow; border: 1px solid black; padding: 1em; width: 100%;&quot;
+|- 
+| A story
+|-
+|}
+&lt;/pre&gt;
+
+=References=
+* A [http://en.wikipedia.org/wiki/Wikipedia:How_to_edit_a_page  guide to Wiki editing] is online
+* HTML tables can be converted to Wiki format using [http://www.uni-bonn.de/~manfear/html2wiki-tables.php#wiki an online tool].
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>851pn8u4j2x2betxvo3wc4f1hkmk61q</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:SamE</title>
+    <ns>3</ns>
+    <id>4406</id>
+    <revision>
+      <id>1002229</id>
+      <parentid>974868</parentid>
+      <timestamp>2007-10-13T02:46:22Z</timestamp>
+      <contributor>
+        <username>Mike.lifeguard</username>
+        <id>55262</id>
+      </contributor>
+      <minor />
+      <comment>Undo revision 974868 by [[Special:Contributions/Mike.lifeguard|Mike.lifeguard]] ([[User talk:Mike.lifeguard|Talk]])</comment>
+      <text xml:space="preserve">&lt;big&gt;'''SamE's Messages:'''&lt;/big&gt;
+
+I'm hoping to finish up the preface tonight and start to flesh out some topic sentences atleast in chapter I. It's amazing the scale of this project. I took AP European History in 10th grade as well, and I'm currently about to finish 11th. So it has been a while, which is why I have the Work Cited, I'm having to review it all before I write about it to make sure I have some form of accuracy in what I'm writing. Please keep reading it, commenting, and fixing the little problems and I will happily do the same for German. I was going to add more foods to the list but couldn't quite remember the genders. Also most of the things I was going to add were like hackfleisch and erdberren where what was on the list seemed more like prepared foods.--[[User:Alexbl|Alexbl]] 23:26, 29 May 2004 (UTC)
+
+== Hey SamE ==
+
+Hey SamE!
+
+Thank you for this very warm welcome - I hope I didn't mess with the layout too much! Actually I was planning to do just the opposite of your site. I thought about creating a wikibook for my private tuition students explaining to them English grammar. I then thought it might by a good idea to have a look at what other projects have really done. So when I came by your site I found it so great that I simply had to add something to it (real great work). I know wikis are not supposed to work this way but: if the content I produced seems appropriate for you, I would like to join the group of author.
+
+Your User:Page says you’re teaching the beginning student. That’s very interesting. Where is that course (some high school?). How do you do that and what feedback do you get? Private mail welcome (guido.bockamp@gmx.de)!
+
+--Guido
+
+PS.: Before I forget this again: What the hell are &quot;Dieser-forms&quot;. Being a native speaker it's sometimes very strange to learn about the grammar you use every day, but never thought about. Don’t mistake me, it may be perfectly right, I’m just curious!
+
+
+Right, I got it! So you have kind of a “learning by teaching” approach. This always worked great for me. I'll see if I can help you with it, but it's always dangerous to learn from native speakers, because they often take thinks for granted that are difficult and unusual for learners Please tell me, if you don’t see the point in what I write. Regards
+--- Guido
+
+== Thanks ==
+I'm working slowly on Talk:Main, too.  We need to be prepared for a new influx of interest!  [[User:Sj|Sj]] 02:07, 3 Sep 2004 (UTC)
+
+== Final Fantasy move? ==
+
+hi SamE - could I please draw your attention to [[talk:Final Fantasy]] i left a message for you there but you probably don't have it on your watchlist
+
+== German ==
+
+Hey Sam, I am really happy you are taking the time to do this German~~English Textbook. I am really taking my time to use it to its fullest. 
+
+I just wanted to let you know that it is going into good use and I hope you are able to make/edit the lessons before I catch up to you. I do not want to rush you, I just want you to know that your work is appreciated.
+
+Mitchowen
+
+== why tschau? ==
+Why did you switch it to Tschau in http://en.wikibooks.org/wiki/German:Beginner_Lesson_3 .
+
+This word does not exist in colloquial, &quot;normal&quot; German and it would e econfusing to German learners I think... e.g. because they wont find anybody who talks with Tschau...
+
+:The word 'tschau' does not exist on [[German:Beginner Lesson 3]], and it never has. - [[User:SamE|SamE]] 23:07, 31 Oct 2004 (UTC)
+
+hi, ah sorry I misstook it, I meant [[German:Beginner Lesson 2A]] on the likes and dislikes part...[[User:Sma|Sma]] 16:52, 1 Nov 2004 (UTC)
+
+:I changed it back primarily because the way you suggested was inconsistent with the problems (It wasn't a blank). 'Tschau' isn't even the focus of lesson 2, because it's taught in lesson 1. The way I've been taught (in HRW's Komm mit! series), 'tschau' and 'tschüss' are both used in the familiar. I think if they included it, that it is used at least somewhere in Germany. - [[User:SamE|SamE]] 01:21, 2 Nov 2004 (UTC)
+
+well ok, I disagree with you on the fact that it is used in Germany (I am talking about major spreading, there might be some little regions who actually use it, but I dont think this book should teach/focus on regional differences or dialects of several areas), at least I havent heard it in my whole life, living in several federal states, but tschau is ok then with me..
+:The only form I've seen used is &quot;tschüss&quot; this is the German version. &quot;Tschau&quot; is just colloquial and not used widely. You will find &quot;tschüss&quot; in a good dictionary. I have not found &quot;Tschau&quot; in any dictionary (German-English Oxford-Duden Dictionarty and German Duden Dictionary). Wikipedia does the job [http://de.wikipedia.org/wiki/Tsch%C3%BCss link title]
+
+btw. Great job SamE! Love the German wikibook.
+[[User:Emortal|Emortal]] 13:53, 17 Aug 2005 (SAST)
+
+== Question about FF games==
+You're working on a Final Fantasy guide, right? Do you know of any people that could help me construct a Final Fantasy X page (I already created the page, but all in all it's a slow production). My user name is Americanidiot. Could you please contact me on my talk page? Thank you for your time.
+
+== Greetings+ ==
+Hello Sam, from another,
+
+I wonder where you live now!  And if you'd like to come to Wikimania in August... also whether you had favorite wikibooks to suggest for this month's writing contest :)  [[User:Sj|Sj]] 8 July 2005 18:51 (UTC)</text>
+      <sha1>9r8ydmzcdd2mdnj6h6bztog690f9s2d</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Easy Sequence 8/Solution</title>
+    <ns>0</ns>
+    <id>4414</id>
+    <revision>
+      <id>951199</id>
+      <parentid>502305</parentid>
+      <timestamp>2007-08-26T15:40:38Z</timestamp>
+      <contributor>
+        <username>Smjg</username>
+        <id>2808</id>
+      </contributor>
+      <comment>tabulate; alternative wording</comment>
+      <text xml:space="preserve">This series is represented by the months. If the month has 31 days, it gets a one. If not, it gets a zero.
+
+{|
+! Month
+| January || February || March || April || May || June || July || August || September || October || November || December
+|-
+! Length
+| 31 || 28 or 29 || 31 || 30 || 31 || 30 || 31 || 31 || 30 || 31 || 30 || 31
+|-
+! Sequence
+| 1 || 0 || 1 || 0 || 1 || 0 || 1 || 1 || 0 || 1 || 0 || 1
+|}
+
+Alternatively, it can be described as the remainder after dividing by 2 of the length of each month in a common year (as opposed to a leap year).
+
+[[Category:Puzzles]]</text>
+      <sha1>p475frilb5wxa3mjlopfji2isel439t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>High School Mathematics Extensions/Counting and Generating Functions</title>
+    <ns>0</ns>
+    <id>4415</id>
+    <revision>
+      <id>2713293</id>
+      <parentid>2704004</parentid>
+      <timestamp>2014-10-14T07:02:19Z</timestamp>
+      <contributor>
+        <ip>129.16.181.211</ip>
+      </contributor>
+      <comment>/* Exercises */</comment>
+      <text xml:space="preserve">{{High School Mathematics Extensions/TOC}}
+
+'''Before we begin:''' This chapter assumes knowledge of
+# Ordered selection (permutation) and unordered selection (combination) covered in [[../Supplementary/Basic Counting|Basic counting]],
+# [[../Supplementary/Partial Fractions|Method of Partial Fractions]] and,
+# Competence in manipulating [[../Supplementary/Summation Sign|Summation Signs]]
+
+== Some Counting Problems ==
+''..more to come''
+
+==Generating functions==
+''..some motivation to be written''
+&lt;blockquote style=&quot;padding: 1em; border: 2px dotted purple;&quot;&gt;
+
+To understand this section you need to see why this is true:
+
+:&lt;math&gt; \lim_{x \to \infty} \frac{x^2 + x}{x^2} =  1 + \lim_{x \to \infty}\frac{ 1}{x} = 1&lt;/math&gt; 
+
+For a more detailed discussion of the above, head to [[../Set Theory and Infinite Processes|Infinity and infinite processes]].
+
+&lt;/blockquote&gt;
+
+Generating functions, otherwise known as Formal Power Series, are useful for solving problems like:
+:&lt;math&gt;x_1 + x_2 + 2x_3 = m&lt;/math&gt;
+where
+:&lt;math&gt; x_n \ge 0&lt;/math&gt;; n = 1, 2, 3 
+how many unique solutions are there if &lt;math&gt;m = 55&lt;/math&gt;?
+
+Before we tackle that problem, let's consider the infinite polynomial:
+:&lt;math&gt;S = 1 + x + x^2 + x^3 + ... + x^n + x^{n+1}... &lt;/math&gt;
+
+We want to obtain a ''closed form'' of this infinite polynomial. The ''closed form'' is simply a way of expressing the polynomial so that it involves only a finite number of operations.  
+
+To find the ''closed form '' we starting with our function:
+
+&lt;math&gt;S = 1 + x + x^2 + x^3 + ... &lt;/math&gt;
+
+We multiply both sides of the function by x to get:
+&lt;math&gt;
+xS = x + x^2 + x^3 + ...
+&lt;/math&gt;
+
+Next we subtract S-xS to get
+
+S - xS = 1 + x + x^2 + x^3 ... - x - x^2 - x^3 ...
+
+Grouping like terms we get
+
+(1 - x)S = 1 + (x - x) + (x^2 - x^2) + (x^3 - x^3)
+
+Which simplifies to
+
+(1 - x)S = 1
+
+Dividing both sides by &lt;math&gt;\frac{1}{1 - x}&lt;/math&gt; we get
+&lt;math&gt;
+S = \frac{1}{1 - x}
+&lt;/math&gt;
+
+So the closed form of 
+:1 + x + x&lt;sup&gt;2&lt;/sup&gt; + x&lt;sup&gt;3&lt;/sup&gt; + ...
+is
+:&lt;math&gt;
+\frac{1}{1 - x}
+&lt;/math&gt;
+
+For convenience we can write, although this isn't true for any particular value of ''x''.
+:&lt;math&gt;
+1 + x + x^2 + x^3 + ... = \frac{1}{1 - x} \ ; \ -1 &lt; x &lt; 1
+&lt;/math&gt;
+
+==== info - Infinite sums ====
+&lt;blockquote style=&quot;padding: 1em; border: 2px dotted purple;&quot;&gt;
+The two expressions are not ''equal''. It's just that for certain values of ''x'' (-1 &lt; x &lt; 1), we can approximate the right hand side ''as closely as possible'' by adding up a large number of terms on the left hand side. For example, suppose ''x'' = 1/2, RHS = 2; we approximate the LHS using only 5 terms we get LHS equals 1 + 1/2 + 1/4 + 1/8 + 1/16 = 1.9375, which is close to 2, as you can imagine by adding more and more terms, we will get closer and closer to 2. 
+&lt;/blockquote&gt;
+
+Anyway we really only care about its nice algebraic properties, not its numerical value. From now on we will omit the condition for equality to be true when writing out generating functions.
+
+Consider a more general case:
+:&lt;math&gt;
+S = A + ABx + AB^2x^2 + AB^3x^3 + ... 
+&lt;/math&gt;
+where ''A'' and ''B'' are constants.
+
+We can derive the ''closed-form'' as follows:
+:&lt;math&gt;
+\begin{matrix}
+S &amp;=&amp; A + &amp;ABx + AB^2x^2 + AB^3x^3 + ... \\
+BxS &amp;=&amp; &amp;ABx + AB^2x^2 + AB^3x^3 + ... \\
+\\
+(1 - Bx)S &amp;=&amp; A \\
+S &amp;=&amp; \frac{A}{1 - Bx}
+\end{matrix}
+&lt;/math&gt;
+
+The following identity as derived above is worth investing time and effort memorising.
+:&lt;math&gt;
+A + ABx + AB^2x^2 + AB^3x^3 + ...  = \frac{A}{1 - Bx}
+&lt;/math&gt;
+
+===Exercises===
+1. Find the closed-form:
+:(a)&lt;math&gt; 1 - z + z^2 - z^3 + z^4 - z^5 + ...  &lt;/math&gt;
+
+:(b)&lt;math&gt; 1 + 2z + 4z^2 + 8z^3 + 16z^4 + 32z^5 + ...  &lt;/math&gt;
+
+:(c)&lt;math&gt; z + z^2 + z^3 + z^4 + z^5 + ...  &lt;/math&gt;
+
+:(d)&lt;math&gt; 3 - 4z + 4z^2 - 4z^3 + 4z^4 - 4z^5 + ...  &lt;/math&gt;
+
+:(e)&lt;math&gt; 1 - z^2 + z^4 - z^6 + z^8 - z^{10} + ...  &lt;/math&gt;
+
+2. Given the closed-form, find a function f(n) for the coefficients of x&lt;sup&gt;n&lt;/sup&gt;:
+:(a)&lt;math&gt;\frac{1}{1 + z} &lt;/math&gt; (Hint: note the plus sign in the denominator)
+
+:(b)&lt;math&gt;\frac{1}{1 - 2z} &lt;/math&gt; (Hint: substitute A=1 and B=2 into &lt;math&gt;\frac{A}{1 - Bz} &lt;/math&gt;)
+
+:(c)&lt;math&gt;\frac{z}{1 - z} &lt;/math&gt; (Hint: multiply all the terms in &lt;math&gt;\frac{1}{1 - z} &lt;/math&gt; by z)
+
+=== Method of Substitution ===
+We are given that:
+:1 + z + z&lt;sup&gt;2&lt;/sup&gt; + ... = 1/(1 - z)
+and we can obtain many other generating functions by substitution. For example: letting z = x&lt;sup&gt;2&lt;/sup&gt; we have:
+:1 + x&lt;sup&gt;2&lt;/sup&gt; + x&lt;sup&gt;4&lt;/sup&gt; + ... = 1/(1 - x&lt;sup&gt;2&lt;/sup&gt;)
+
+Similarly
+:A + ABx + A(Bx)&lt;sup&gt;2&lt;/sup&gt; + ... = A/(1 - Bx)
+is obtained by letting z = Bx then multiplying the whole expression by A.
+
+==== Exercises ====
+1. What are the coefficients of the powers of x:
+:1/(1 - 2x&lt;sup&gt;3&lt;/sup&gt;)
+
+2. What are the coefficients of the powers of x (Hint: take out a factor of 1/2):
+:1/(2 - x)
+
+=== Linear Recurrence Relations ===
+The Fibonacci series
+:1, 1, 2, 3, 5, 8, 13, 21, 34, 55...
+where each and every number, except the first two, is the sum of the two preceding numbers. We say the numbers are ''related'' if the value a number takes depends on the values that come before it in the sequence. The Fibonacci sequence is an example of a recurrence relation, it is expressed as:
+:&lt;math&gt;
+\begin{matrix}
+x_n &amp;=&amp; x_{n-1} &amp;+&amp; \ x_{n - 2}; \ \mbox{for n} \ge 2\\
+x_0 &amp;=&amp; 1\\
+x_1 &amp;=&amp; 1\\
+\end{matrix}
+&lt;/math&gt;
+where x&lt;sub&gt;n&lt;/sub&gt; is the (''n''+ 1)th number in the sequence. Note that the first number in the sequence is denoted x&lt;sub&gt;0&lt;/sub&gt;. Given this recurrence relation, the question we want to ask is &quot;can we find a formula for the (''n''+1)th number in the sequence?&quot;. The answer is yes, but before we come to that, let's look at some examples.
+
+==== Example 1 ====
+The expressions
+:&lt;math&gt;
+\begin{matrix}
+x_n &amp;=&amp; 2x_{n-1}&amp; + &amp;3x_{n-2}; \ \mbox{for n} \ge 2\\
+x_0 &amp;=&amp; 1\\
+x_1 &amp;=&amp; 1
+\end{matrix}
+&lt;/math&gt;
+define a recurrence relation. The sequence is: 1, 1, 5, 13, 41, 121, 365... Find a formula for the (''n''+1)th number in the sequence.
+
+'''Solution'''
+Let G(z) be generating function of the sequence, meaning the coefficient of each power (in ascending order) is the corresponding number in the sequence. So the generating functions looks like this
+:&lt;math&gt;
+G(z) = 1 + z + 5z^2 + 13z^3 + 41z^4 + 121z^5 + ...
+&lt;/math&gt;
+Now, by a series of algebraic manipulations, we can find the closed form of the generating function and from that the formula for each coefficient
+:&lt;math&gt;
+\begin{matrix}
+&amp; &amp;G(z)    &amp; = &amp;x_0 + &amp;x_1z  + &amp;x_2z^2  &amp;+ &amp;x_3z^3 + x_4z^4 + x_5z^5 + ...\\
+2z&amp;\times &amp;G(z)  &amp; = &amp;      &amp;2x_0z + &amp;2x_1z^2 &amp;+ &amp;...\\
+3z^2&amp;\times &amp;G(z)&amp; = &amp;      &amp;        &amp;3x_0z^2 &amp;+ &amp;...\\
+\end{matrix}
+&lt;/math&gt;
+
+
+:&lt;math&gt;
+\begin{matrix}
+G(z) - 2zG(z) - 3z^2G(z) &amp;=&amp; x_0 + (x_1 - 2x_0)z    &amp; + \\
+                         &amp; &amp; (x_2 - 2x_1 - 3x_0)z^2 &amp; + \\
+                         &amp; &amp; (x_3 - 2x_2 - 3x_1)z^3 &amp; + &amp;...
+\end{matrix}
+&lt;/math&gt;
+by definition x&lt;sub&gt;n&lt;/sub&gt; - 2x&lt;sub&gt;n - 1&lt;/sub&gt; - 3x&lt;sub&gt;n - 2&lt;/sub&gt; = 0
+:&lt;math&gt;
+\begin{matrix}
+(1 - 2z - 3z^2)&amp; \times &amp; G(z)&amp; =&amp; x_0 + (x_1 - 2x_0)z\\
+\\
+               &amp;        &amp; G(z)&amp; =&amp; \frac {1 - z} {1 - 2z - 3z^2}\\
+\\
+               &amp;        &amp; G(z)&amp; =&amp; \frac {1 - z} {(1 - 3z)(1 + z)}
+\end{matrix}
+&lt;/math&gt;
+by the [[HSE Partial Fractions|method of partial fractions]] we get:
+:&lt;math&gt;
+G(z) = \frac {1} {2} \times \frac {1} {1 - 3z} + \frac {1} {2} \times \frac {1} {1 + z}
+&lt;/math&gt;
+each part of the sum is in a recognisable closed-form. We can conclude that:
+:&lt;math&gt;
+x_n = \frac {1} {2} \times 3^n + \frac {1} {2} \times (-1)^n
+&lt;/math&gt;
+the reader can easily check the accuracy of the formula.
+
+==== Example 2 ====
+:&lt;math&gt;
+\begin{matrix}
+x_n &amp;=&amp; x_{n-1} &amp;+&amp; x_{n-2}&amp; -&amp; x_{n-3}; \ \mbox{for n} \ge 3\\
+x_0 &amp;=&amp; 1 \\
+x_1 &amp;=&amp; 1 \\
+x_2 &amp;=&amp; 1 
+\end{matrix}
+&lt;/math&gt;
+Find a non-recurrent formula for x&lt;sub&gt;n&lt;/sub&gt;.
+
+'''Solution'''
+Let G(z) be the generating function of the sequence described above.
+:&lt;math&gt;G(z) = x_0 + x_1z + x_2z^2 + ...&lt;/math&gt;
+
+&lt;br&gt;&lt;/br&gt;
+
+:&lt;math&gt;
+\begin{matrix}
+G(z)(1 - z - z^2 + z^3) &amp;=&amp; x_0 &amp;+&amp; (x_1 - x_0)z + (x_2 - x_1 - x_0)z^2\\
+G(z)(1 - z - z^2 + z^3) &amp;=&amp; 1 - z^2\\
+\\
+\end{matrix}
+&lt;/math&gt;
+
+&lt;br&gt;&lt;/br&gt;
+
+:&lt;math&gt;
+\begin{matrix}
+G(z) &amp;=&amp; \frac{1 - z^2}{1 - z - z^2 + z^3}\\
+\\
+G(z) &amp;=&amp; \frac{1 - z}{1 - 2z + z^2}\\
+\\
+G(z) &amp;=&amp; \frac{1} {1 - z}
+\end{matrix}
+&lt;/math&gt;
+Therefore x&lt;sub&gt;n&lt;/sub&gt; = 1, for all n.
+
+====Example 3====
+A linear recurrence relation is defined by:
+:&lt;math&gt;
+\begin{matrix}
+x_n &amp;=&amp; x_{n-1}&amp; + &amp; 6x_{n-2} + 1; \ \mbox{for n} \ge 2\\
+x_0 &amp;=&amp; 1\\
+x_1 &amp;=&amp; 1\\
+\end{matrix}
+&lt;/math&gt;
+Find the general formula for x&lt;sub&gt;n&lt;/sub&gt;.
+
+'''Solution'''
+Let G(z) be the generating function of the recurrence relation.
+:&lt;math&gt;G(z)(1 - z - 6z^2) = x_0  +  (x_1 - x_0)z + (x_2 - x_1 - 6x_0)z^2  +...&lt;/math&gt;
+:&lt;math&gt;G(z)(1 - z - 6z^2) = 1    +  z^2  + z^3   + z^4 + ...&lt;/math&gt;
+:&lt;math&gt;G(z)(1 - z - 6z^2) = 1    +  z^2(1 + z  +  z^2 + ...)&lt;/math&gt;
+:&lt;math&gt;G(z)(1 - z - 6z^2) = 1    +  \frac{z^2}{1 - z}&lt;/math&gt;
+:&lt;math&gt;G(z)(1 - z - 6z^2) = \frac{1 - z + z^2}{1 - z}&lt;/math&gt;
+&lt;br&gt;&lt;/br&gt;
+:&lt;math&gt;
+\begin{matrix}
+G(z) &amp;=&amp; \frac{1 - z + z^2}{(1 - z)(1 + 2z)(1 - 3z)}\\
+G(z) &amp;=&amp; -\frac{1}{6(1-z)} + \frac{7}{15(1 + 2z)} + \frac{7}{10(1-3z)} 
+\end{matrix}
+&lt;/math&gt;
+
+Therefore
+:&lt;math&gt; x_n = -\frac{1}{6} + \frac{7}{15}(-2)^n + \frac{7}{10}3^n&lt;/math&gt;
+
+==== Exercises ====
+1. Derive the formula for the (''n+1'')th numbers in the sequence defined by the linear recurrence relations:
+:&lt;math&gt;
+\begin{matrix}
+x_n &amp;=&amp; 2x_{n-1}&amp; - &amp;1; \ \mbox{for n} \ge 1\\
+x_0 &amp;=&amp; 1
+\end{matrix}
+&lt;/math&gt;
+
+2. Derive the formula for the (''n+1'')th numbers in the sequence defined by the linear recurrence relations:
+:&lt;math&gt;
+\begin{matrix}
+3x_n &amp;=&amp; -4x_{n-1}&amp; + &amp; x_{n-2}; \ \mbox{for n} \ge 2 \\
+x_0 &amp;=&amp; 1\\
+x_1 &amp;=&amp; 1\\
+\end{matrix}
+&lt;/math&gt;
+
+3. (Optional) Derive the formula for the (''n+1'')th Fibonacci  numbers.
+
+== Further Counting ==
+Consider the equation
+:a + b = n; a, b &amp;ge; 0 are integers 
+For a fixed positive integer n, how many solutions are there? We can count the number of solutions:
+:0 + n = n
+:1 + (n - 1) = n
+:2 + (n - 2) = n
+:...
+:n + 0 = n
+As you can see there are (n + 1) solutions. Another way to solve the problem is to consider the generating function
+:G(z) = 1 + z + z&lt;sup&gt;2&lt;/sup&gt; + ... + z&lt;sup&gt;n&lt;/sup&gt;
+Let H(z) = G(z)G(z), i.e.
+:H(z) = (1 + z + z&lt;sup&gt;2&lt;/sup&gt; + ... + z&lt;sup&gt;n&lt;/sup&gt;)&lt;sup&gt;2&lt;/sup&gt;
+I claim that the coefficient of z&lt;sup&gt;n&lt;/sup&gt; in H(z) is the number of solutions to a + b = n, a, b &gt; 0. The reason why lies in the fact that ''when multiplying like terms, indices add''.
+
+Consider
+:A(z) = 1 + z + z&lt;sup&gt;2&lt;/sup&gt; + z&lt;sup&gt;3&lt;/sup&gt; + ...
+Let
+:B(z) = A&lt;sup&gt;2&lt;/sup&gt;(z)
+it follows
+:B(z) = (1 + z + z&lt;sup&gt;2&lt;/sup&gt; + z&lt;sup&gt;3&lt;/sup&gt; + ...) + z(1 + z + z&lt;sup&gt;2&lt;/sup&gt; + z&lt;sup&gt;3&lt;/sup&gt; + ...) + z&lt;sup&gt;2&lt;/sup&gt;(1 + z + z&lt;sup&gt;2&lt;/sup&gt; + z&lt;sup&gt;3&lt;/sup&gt; + ...) + z&lt;sup&gt;3&lt;/sup&gt;(1 + z + z&lt;sup&gt;2&lt;/sup&gt; + z&lt;sup&gt;3&lt;/sup&gt;) + ...
+:B(z) = 1 + 2z + 3z&lt;sup&gt;2&lt;/sup&gt; + ...
+Now the coefficient of z&lt;sup&gt;n&lt;/sup&gt; (for n &amp;ge; 0) is clearly the number of solutions to a + b = n (a, b &gt; 0).
+
+We are ready now to derive a very important result: let t&lt;sub&gt;k&lt;/sub&gt; be the number solutions to a + b = n (a, b &gt; 0). Then the generating function for the sequence t&lt;sub&gt;k&lt;/sub&gt; is 
+:T(z) = (1 + z + z&lt;sup&gt;2&lt;/sup&gt; + ... + z&lt;sup&gt;n&lt;/sup&gt; + ...)(1 + z + z&lt;sup&gt;2&lt;/sup&gt; + ... + z&lt;sup&gt;n&lt;/sup&gt; + ...)
+:&lt;math&gt;T(z) = \frac{1}{(1 - z)^2}&lt;/math&gt;
+i.e.
+&lt;blockquote style=&quot;padding: 1em; border: 2px dotted purple;&quot;&gt;
+:&lt;math&gt;\frac{1}{(1 - z)^2} = 1 + 2z + 3z^2 + 4z^3 + ... + (n+1)z^n + ...&lt;/math&gt;
+&lt;/blockquote&gt;
+
+=== Counting Solutions to a&lt;sub&gt;1&lt;/sub&gt; + a&lt;sub&gt;2&lt;/sub&gt; + ... + a&lt;sub&gt;m&lt;/sub&gt; = n ===
+Consider the number of solutions to the following equation:
+:a&lt;sub&gt;1&lt;/sub&gt; + a&lt;sub&gt;2&lt;/sub&gt; + ... + a&lt;sub&gt;m&lt;/sub&gt; = n
+where a&lt;sub&gt;i&lt;/sub&gt; &amp;ge; 0; i = 1, 2, ... m. By applying the method discussed previously. If t&lt;sub&gt;k&lt;/sub&gt; is the number of solutions to the above equation when n = k. The generating function for t&lt;sub&gt;k&lt;/sub&gt; is
+:&lt;math&gt;T(z) = \frac{1}{(1-z)^m}&lt;/math&gt;
+but what is t&lt;sub&gt;k&lt;/sub&gt;? Unless you have learnt calculus, it's hard to derive a formula just by looking at the equation of T(z). Without assuming knowledge of calculus, we consider the following counting problem.
+
+&quot;You have three sisters, and you have n (n &amp;ge; 3) lollies. You decide to give each of your sisters at least one lolly. In how many ways can this be done?&quot;
+
+One way to solve the problem is to put all the lollies on the table in a straight line. Since there are ''n'' lollies there are (''n'' - 1) gaps between them (just as you have 5 fingers on each hand and 4 gaps between them). Now get 2 dividers, from the (''n'' - 1) gaps available, ''choose'' 2 and put a divider in each of the gaps you have chosen! There you have it, you have divided the ''n'' lollies into three parts, one for each sister. There are &lt;math&gt; n - 1 \choose 2 &lt;/math&gt; ways to do it! If you have 4 sisters, then there are &lt;math&gt; n - 1 \choose 3 &lt;/math&gt; ways to do it. If you have m sisters there are &lt;math&gt; n - 1 \choose m - 1&lt;/math&gt; ways to do it.
+
+Now consider: &quot;You have three sisters, and you have n lollies. You decide to give each of your sisters some lollies (with no restriction as to how much you give to each sister). In how many ways can this be done?&quot;
+
+Please note that you are just solving:
+:a&lt;sub&gt;1&lt;/sub&gt; + a&lt;sub&gt;2&lt;/sub&gt; + a&lt;sub&gt;3&lt;/sub&gt; = n
+where a&lt;sub&gt;i&lt;/sub&gt; &amp;ge; 0; i = 1, 2, 3.
+
+You can solve the problem by putting n + 3 lollies on the table in a straight line. Get two dividers and ''choose'' 2 gaps from the n + 2 gaps available. Now that you have divided n + 3 lollies into 3 parts, with each part having 1 or more lollies. Now take back 1 lollies from each part, and you have solved the problem! So the number of solutions is &lt;math&gt; n + 2 \choose 2 &lt;/math&gt;. More generally, if you have m sisters and n lollies the number of ways to share the lollies is
+:&lt;math&gt; {{n + m - 1} \choose {m - 1}} = {{n + m - 1} \choose {n}} &lt;/math&gt; .
+
+Now to the important result, as discussed above the number of solutions to 
+:a&lt;sub&gt;1&lt;/sub&gt; + a&lt;sub&gt;2&lt;/sub&gt; + ... + a&lt;sub&gt;m&lt;/sub&gt; = n
+where a&lt;sub&gt;i&lt;/sub&gt; &amp;ge; 0; i = 1, 2, 3 ... m
+is 
+:&lt;math&gt;{{n + m - 1} \choose {n}}&lt;/math&gt;
+i.e.
+&lt;blockquote style=&quot;padding: 1em; border: 2px dotted purple;&quot;&gt;
+:&lt;math&gt;\frac{1}{(1 - z)^m} = \sum_{i=0}^\infty {m + i - 1 \choose i}z^i&lt;/math&gt;
+&lt;/blockquote&gt;
+
+==== Example 1 ====
+The closed form of a generating function T(z) is
+:&lt;math&gt;T(z) = \frac{z}{(1-z)^2}&lt;/math&gt;
+and t&lt;sub&gt;k&lt;/sub&gt; in the coefficient of z&lt;sup&gt;k&lt;/sup&gt; is T(z). Find an explicit formula for t&lt;sub&gt;k&lt;/sub&gt;.
+
+'''Solution'''
+:&lt;math&gt;
+\begin{matrix}
+\frac{1}{(1-z)^2} &amp;=&amp; \sum_{i=0}^\infty (i+1)z^i\\
+\\
+\frac{z}{(1-z)^2} &amp;=&amp; z\sum_{i=0}^\infty (i+1)z^i\\
+\\
+                  &amp;=&amp; \sum_{i=0}^\infty (i+1)z^{i+1}\\
+\end{matrix}
+&lt;/math&gt;
+Therefore t&lt;sub&gt;k&lt;/sub&gt; = k
+
+==== Example 2 ====
+Find the number of solutions to:
+:a + b + c + d = n
+for all positive integers n (including zero) with the restriction a, b, c ,d &amp;ge; 0.
+
+'''Solution'''
+By the formula
+:&lt;math&gt;
+\begin{matrix}
+\frac{1}{(1-z)^4} &amp;=&amp; \sum_{i=0}^\infty  {{n + 3}\choose {3}}z^i\\
+\\
+\end{matrix}
+&lt;/math&gt;
+so
+:the number of solutions is &lt;math&gt;{{n + 3}\choose {3}}&lt;/math&gt;
+
+=== More Counting ===
+We turn to a slightly harder problem of the same kind. Suppose we are to count the number of solutions to:
+:2''a'' + 3''b'' + ''c'' = ''n''
+for some integer &lt;math&gt;n \ge 0&lt;/math&gt;, with ''a'', ''b'', also ''c'' greater than or equal zero. We can write down the closed form straight away, we note the coefficient of ''x''&lt;sup&gt;''n''&lt;/sup&gt; of:
+:&lt;math&gt;(1 + x^2 + x^4 + ...)(1 + x^3 + x^6 + ...)(1 + x + x^2 + ...) = \frac{1}{(1 - x^2)(1 - x^3)(1 - x)}&lt;/math&gt;
+is the required solution. This is due to, again, the fact that when multiplying powers, indices add.
+
+To obtain the number of solutions, we break the expression into recognisable closed-forms by method of partial fraction.
+
+==== Example 1 ====
+Let s&lt;sub&gt;k&lt;/sub&gt; be the number of solutions to the following equation:
+:2a + 2b = n; a, b &amp;ge; 0
+Find the generating function for s&lt;sub&gt;k&lt;/sub&gt;, then find an explicit formula for s&lt;sub&gt;n&lt;/sub&gt; in terms of ''n''.
+
+'''Solution'''
+
+Let T(z) be the generating functions of t&lt;sub&gt;k&lt;/sub&gt;
+:T(z) = (1 + z&lt;sup&gt;2&lt;/sup&gt; + z&lt;sup&gt;4&lt;/sup&gt; + ... + z&lt;sup&gt;2n&lt;/sup&gt; + ...)&lt;sup&gt;2&lt;/sup&gt;
+:&lt;math&gt;T(z) = \frac{1}{(1 - z^2)^2}&lt;/math&gt;
+It's not hard to see that
+:&lt;math&gt;s_n = 0 \ \mbox{if n is odd}&lt;/math&gt;
+
+:&lt;math&gt;s_n = {n/2 + 1\choose n/2} = {n/2 + 1\choose 1} = n/2 + 1 \ \mbox{if n is even}&lt;/math&gt;
+
+==== Example 2 ====
+Let t&lt;sub&gt;k&lt;/sub&gt; be the number of solutions to the following equation:
+:a + 2b = n; a, b &amp;ge; 0
+Find the generating function for t&lt;sub&gt;k&lt;/sub&gt;, then find an explicit formula for t&lt;sub&gt;n&lt;/sub&gt; in terms of ''n''.
+
+'''Solution'''
+
+Let T(z) be the generating functions of t&lt;sub&gt;k&lt;/sub&gt;
+:T(z) = (1 + z + z&lt;sup&gt;2&lt;/sup&gt; + ... + z&lt;sup&gt;n&lt;/sup&gt; + ...)(1 + z&lt;sup&gt;2&lt;/sup&gt; + z&lt;sup&gt;4&lt;/sup&gt; + ... + z&lt;sup&gt;2n&lt;/sup&gt; + ...)
+
+:&lt;math&gt;T(z) = \frac{1}{(1 - z)} \times \frac{1}{1 - z^2}&lt;/math&gt;
+
+:&lt;math&gt;T(z) = \frac{1}{(1 - z)^2} \times \frac{1}{1 + z}&lt;/math&gt;
+
+:&lt;math&gt;T(z) = \frac{Az + B}{(1 - z)^2} + \frac{C}{1 + z}&lt;/math&gt;
+
+:A = -1/4, B = 3/4, C = 1/4
+
+:&lt;math&gt;T(z) = -\frac{1}{4}\sum_{i=0}^\infty (i+1)z^{i+1} + \frac{3}{4}\sum_{i=0}^\infty (i+1)z^i + \frac{1}{4}\sum_{i=0}^\infty (-1)^iz^i&lt;/math&gt;
+
+:&lt;math&gt;t_k = -\frac{1}{4}k + \frac{3}{4}(k + 1) + \frac{1}{4} (-1)^k&lt;/math&gt;
+
+=== Exercises ===
+1. Let 
+:&lt;math&gt;T(z) = \frac{1}{(1 + z)^2} &lt;/math&gt;
+be the generating functions for t&lt;sub&gt;k&lt;/sub&gt; (k = 0, 1, 2 ...). Find an explicit formula for t&lt;sub&gt;k&lt;/sub&gt; in terms of ''k''.
+
+2. How many solutions are there the following equations if ''m'' is a given constant
+:&lt;math&gt;a + b + 2c = m&lt;/math&gt;
+where a, b and c &amp;ge; 0
+
+
+
+== Problem Set ==
+1. A new Company has borrowed $250,000 initial capital. The monthly interest is 3%. The company plans to repay $''x'' before the end of each month. Interest is added to the debt on the last day of the month (compounded monthly).
+
+Let D&lt;sub&gt;n&lt;/sub&gt; be the remaining debt after ''n'' months.
+
+a) Define D&lt;sub&gt;n&lt;/sub&gt; recursively.
+
+b) Find the minimum values of ''x''.
+
+c) Find out the general formula for D&lt;sub&gt;n&lt;/sub&gt;.
+
+d) Hence, determine how many months are need to repay the debt if ''x'' = 12,000.
+
+2. A partion of ''n'' is a sequence of positive integers (&amp;lambda;1,&amp;lambda;1,..,&amp;lambda;r) such that &amp;lambda;1 &amp;ge; &amp;lambda;2 &amp;ge; .. &amp;ge; &amp;lambda;r and &amp;lambda;1 + &amp;lambda;2 + .. + &amp;lambda;r = n. For example, let ''n'' = 5, then (5), (4,1), (3,2), (3,1,1), (2,2,1), (2,1,1,1), (1,1,1,1,1) are all the partions of 5. So we say the number of partions of 5 is 7. Derive a formula for the number of partions of a general ''n''. 
+
+3. A binary tree is a tree where each node can have up to two child nodes. The figure below is an example of a binary tree.
+[[Image:HSE_ch5_binary_tree.png]]
+
+a) Let c&lt;sub&gt;n&lt;/sub&gt; be the number of unique arrangements of a binary tree with totally n nodes. Let C(z) be a generating function of c&lt;sub&gt;n&lt;/sub&gt;.
+
+:(i) Define C(z) using recursion.
+
+:(ii) Hence find the closed form of C(z).
+
+b) Let &lt;math&gt;P(x)=\sqrt{1+ax}=p_0 + p_1 x + p_2 x^2 + p_3 x^3 ...&lt;/math&gt; be a power series.
+
+:(i) By considering the n-th derivative of P(x), find a formula for p&lt;sub&gt;n&lt;/sub&gt;.
+
+:(ii) Using results from a) and b)(i) , or otherwise, derive a formula for c&lt;sub&gt;n&lt;/sub&gt;.
+
+Hint: Instead of doing recursion of finding the change in c&lt;sub&gt;n&lt;/sub&gt; when adding nodes at the buttom, try to think in the opposite way, and direction.(And no, not deleting nodes)
+
+== Project - Exponential generating function ==
+This project assumes knowledge of differentiation.
+
+(Optional)0.
+:(a)
+
+::(i) Differentiate log x by first principle.
+
+::(ii)*** Show that the remaining limit in last part that can't be evaluated indeed converges. Hence finish the differentiation by assigning this number as a constant.
+
+:(b) Hence differentiate &lt;math&gt;a^x&lt;/math&gt;.
+
+1. Consider &lt;math&gt;E(x) = e^x&lt;/math&gt;
+:(a) Find out the n-th derivative of E(x).
+
+:(b) By considering the value of the ''n''-th derivative of E(''x'') at ''x'' = 0, express E(''x'') in power series/infinite polynomial form.
+
+(Optional)2.
+:(a) Find out the condition for the geometric progression(that is the ordinary generating function introduced at the begining of this chapter) to converges. (Hint: Find out the partial sum)
+
+:(b) Hence show that E(x) in the last question converges for all real values of x. (Hint: For any fixed x, the numerator of the general term is exponential, while the denominator of the general term is factorial. Then what?)
+
+3. The function E(x) is the most fundamental and important exponential generating function, it is similar to the ordinary generating function, but with some difference, most obviously having a fractorial fraction attached to each term.
+
+:(a) Similar to ordinary generating function, each term of the polynomial expansion of E(x) can have number attached to it as coefficient. Now consider &lt;math&gt;A(x) = a_1 + a_2 \frac{x}{1!} + a_3 \frac{x^2}{2!} + a_4 \frac{x^3}{3!} + ...&lt;/math&gt;
+
+:Find &lt;math&gt;A'(x)&lt;/math&gt; and compare it with A(x). What do you discover?
+
+:(b) Substitute nz, where n is a real number and z is a free variable, into E(x), i.e. E(nz). What have you found?
+
+4. Apart from A(x) defined in question 2, let &lt;math&gt;B(x) = b_1 + b_2 \frac{x}{1!} + b_3 \frac{x^2}{2!} + b_4 \frac{x^3}{3!} + ...&lt;/math&gt;
+
+:(a) What is A(x) multiplied by B(x)? Compare this with ordinary generating function, what is the difference?
+
+:(b) What if we blindly multiply A(x) with x(or x&lt;sup&gt;n&lt;/sup&gt; in general)? Will it shift coefficient like what happened in ordinary generating function?
+
+
+Notes: Question with *** are difficult questions, although you're not expected to be able to answer those, feel free to try your best.
+
+{{High_School_Mathematics_Extensions/Suggestions}}</text>
+      <sha1>j9xggcen2n5ltmvddtbvsnjzbnn24tg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Dutch/Lesson 4</title>
+    <ns>0</ns>
+    <id>4434</id>
+    <revision>
+      <id>2031734</id>
+      <parentid>2005709</parentid>
+      <timestamp>2011-02-16T21:59:10Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>deprecating prettytable, replaced: prettytable → wikitable</comment>
+      <text xml:space="preserve">&lt;center&gt;
+&lt;big&gt;&lt;big&gt;&lt;big&gt;Les 4 ~ Lesson 4&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;
+&lt;/center&gt;
+----
+&lt;small&gt;&lt;&lt; [[Dutch/Lesson 3|Les 3]] | &lt;/small&gt;'''Les 4'''&lt;small&gt; | [[Dutch/Lesson 5|Les 5]] &gt;&gt;&lt;/small&gt;
+----
+==Gesprek 4-1== 
+:Peter is een student medicijnen. Hij gaat naar de universiteit. Hij wil Elly {{C|uitnodigen|invite}} voor een {{C|etentje|dinner party}}, maar hij heeft {{C|geen|none, not any}} {{C|geld|money}}. Hij kan er niks aan [[wikt:en:doen|doen]]; {{C|studeren|studying}} is {{C|duur|expensive}}.
+
+:Pa, ik heb geld {{C|nodig|needing}}!  
+
+::{{C|Alweer?|Again?}}
+
+:Ja, sorry hoor, maar ik heb echt {{C|stoelen|chairs}} en een tafel nodig!
+
+:: Ja, ja, tafels en stoelen {{C|zeker|sure}}. {{C|Feesten|partying}} zul je {{C|bedoelen|mean}}.
+
+:He Pa, toe nou... Die heb ik echt nodig, hoor.
+
+::Nou, {{C|vooruit|ahead, all right}} dan maar weer...
+
+{{Dutch/Translation|gesprek
+|
+:Peter is een student medicijnen. Hij gaat naar de universiteit. Hij wil Elly uitnodigen voor een etentje, maar hij heeft geen geld. Hij kan er niks aan doen; studeren is duur.
+
+::Peter is a medical student. He goes to college. He wants to invite Elly for a dinner date, but does not have the money. He cannot help it; studying is expensive.
+
+:Pa, ik heb geld nodig!  
+
+::Dad, I need money!
+
+:Alweer?
+
+::Again?
+
+:Ja, sorry hoor, maar ik heb echt stoelen en een tafel nodig!
+
+::Yes, well sorry, but I really need chairs and a table!
+
+:Ja,ja, tafels en stoelen zeker!! Feesten zul je bedoelen.
+
+::Tables and chairs, yeah right. Partying, more likely.
+
+:He Pa, toe nou... Die heb ik echt nodig, hoor.
+
+::Ow, Dad, come on... I really need those, man.
+
+:Nou, vooruit dan maar weer...
+
+::All right, there we go again...
+}}
+{{Dutch/Exercise|waar of niet waar|
+Is dit waar of niet waar:
+# Peter studeert theologie
+# Peter heeft geld nodig voor stoelen en tafels
+# Zijn Pa geeft hem geld
+# Pa nodigt Elly uit voor een etentje
+# Peter studeert aan een universiteit
+|
+# Peter studeert theologie - niet waar: medicijnen
+# Peter heeft geld nodig voor stoelen en tafels - niet waar : hijl Elly uitnodigen voor een etentje
+# Zijn Pa geeft hem geld - waar
+# Pa nodigt Elly uit voor een etentje - niet waar
+# Peter studeert aan een universiteit - waar
+}}
+
+==Grammatica 4-1 ~ The indefinite articles ''een'' en ''geen''==
+:...''chairs and '''a''' table'' ... ''stoelen en '''een''' tafel''
+:...''has '''no''' money''... ''heeft '''geen''' geld''
+
+In the previous lesson you were introduced to the definite articles—'the' in English and '''''het''''' or '''''de''''' in Dutch. Indefinite articles precede nouns in the same way that definite articles do, but convey a general or indefinite sense. These are 'a' or 'an' in English. Thus, 'the book' or ''het boek'' refers to a definite or specific book, whereas 'a book' or ''een boek'' is indefinite about which book is referred to. Dutch indefinite articles only come in one form (''een''), so they don't display gender.
+[[Image:Aalto table.JPG|thumb|200px|tafel]]
+
+The use of definite and indefinite articles is virtually the same as in English. The few deviations are best learned when listening to the language or speaking it.
+[[Image:Aalto chair front.JPG|thumb|100px|stoel]]
+
+{| class=&quot;wikitable&quot;
+|- bgcolor=#FFDEAD
+|-
+|'''''een''''' || ''de'' || masculine/feminine || de tafel - een tafel (the table - a table)
+|-
+|'''''een''''' || ''het'' || neuter || het raam - een raam (the window - a window)
+|}
+
+Please note (see also previous lesson) that the indefinite article has the same form as the numeral one (''één''). One could argue that one is a clitic form of the other. To denote the difference, one could place accents on the numeral. Also, there is a difference in pronunciation. The numeral ''één'' (one) is pronounced /e:n/, the article ''een'' (a) with a much weaker /ən/. Occasionally Dutch has one and English the other:
+
+: op een middag - one afternoon
+
+Notice that ''one'' is used here in the meaning of ''a certain'', not say in contrast to two or three.
+
+There is an inflected form ''ene'' that is used independently:
+
+:Occasionally Dutch has one, English the other.
+:Soms heeft Nederlands het ''ene'', Engels het ''andere''
+
+===Negation===
+In English a negative of an indefinite article is simply formed by adding not:
+
+:this is a car
+:this is ''not'' a car
+
+Alternatively one can drop the article and say:
+
+:this is ''no'' car.
+
+In Dutch there is a special negative of een: '''''[[:nl:wikt:geen|geen]]'''''.
+
+:dit is een auto
+:dit is ''geen'' auto.
+
+The combination '''''niet''''' + '''''een''''' is only used in contrasting things:
+
+:dit is niet een fuut maar een eend.
+:this is not a grebe but a duck.
+
+==Grammatica 4-2 ~ Possessive and demonstrative pronouns==
+Recall the following from Gesprek 3-1:
+
+::''Ja. En daarna breng je me op '''je''' motor naar huis''.
+
+Which translates as:
+::'Yes. And after that take me home on '''your''' motorcycle'. 
+
+The sentence demonstrates one of the '''possessive pronouns'''. These are (singular) 'my', 'your', and 'his/her/its' in English and ''mijn'', ''jouw'' or ''je'', and ''zijn/haar/(zijn)'' in Dutch. 
+
+The pronoun ''je'' is a weak form of ''jouw'' and it is used when the emphasis is on something else, such as the motorcycle in this case.
+
+Dutch does not have a possessive case as English does. In English one could say ''this house of mine'', where mine (and yours, hers, his, ours, yours, theirs) is possessive case. Dutch uses objective case for this: ''dit huis van mij'' as if 'van' (''of'') is a preposition.
+
+See [[Dutch/Appendix 3]] for a table of the possessive pronouns.
+
+In English, '''''this''''' is used as '''demonstrative pronoun''' to indicate something in proximity. ''That'' indicates greater distance. In Dutch a similar distinction exists, but gender plays a role:
+
+:de trein → '''deze''' trein - this train
+:het huis → '''dit''' huis  - this house
+
+So, one replaces 'de' by deze and 'het' by dit.
+
+At a greater distance:
+
+:de trein → '''die''' trein
+:het huis → '''dat''' huis
+
+Notice that often when English has '''''th''''', Dutch will have '''''d''''':
+
+:the - de
+:that - dat
+:think - denk
+
+A third, even more distant pronoun exists (gene, gindse), but it is about as common as its English equivalent ''yon'', ''yonder''.
+
+Again, the two languages betray their kinship. In some words, a '''''g''''' in Dutch corresponds to a '''''y''''' in English.. Compare:
+
+:gisteren - yesterday
+:de gist - the yeast
+:geel - yellow
+
+===Using demonstrative pronouns instead of personal pronouns===
+
+'''''Recall:'''''
+: '''Die''' heb ik echt nodig, hoor!
+
+As we have seen Dutch is on its way to a two-gender system. For inanimate nouns, this makes demonstrative pronouns a more attractive choice to refer things by than personal pronouns. Compare:
+
+{| class=&quot;wikitable&quot;
+!  !! !!close!!far!!def.!! indef.
+|-
+! gender !! personal !!colspan=&quot;2&quot;| demonstrative!! colspan=&quot;2&quot;| article 
+|-
+| bgcolor=&quot;#FFE0FF&quot;| neuter||bgcolor=&quot;#FFE0FF&quot;| het||bgcolor=&quot;#FFE0FF&quot;| dit||bgcolor=&quot;#FFE0FF&quot;| dat||bgcolor=&quot;#FFE0FF&quot;|het||rowspan=&quot;3&quot;|een
+|-
+| bgcolor=&quot;#E3FFFF&quot;| masculine||bgcolor=&quot;#E3FFFF&quot;| hij ||bgcolor=&quot;#FFFFE0&quot; rowspan=&quot;3&quot;|deze ||bgcolor=&quot;#FFFFE0&quot; rowspan=&quot;3&quot;|die ||bgcolor=&quot;#FFFFE0&quot; rowspan=&quot;3&quot;|de
+|-
+| bgcolor=&quot;#E1FFD9&quot;|feminine||bgcolor=&quot;#E1FFD9&quot;|zij 
+|-
+|bgcolor=&quot;#FFFFE0&quot;| (plural)||bgcolor=&quot;#FFFFE0&quot;| zij|| --
+|}
+
+As you see demonstratives do not distinguish whether a word is feminine or masculine and follow the same common-neuter pattern as the articles. Compare:
+
+:Ik zie Jan. '''Hij''' is sterk - I see John. '''He''' is strong.
+:Ik zie zijn auto. '''Die''' is duur. - I see his car. '''It''' is expensive.
+
+Note: because '''''de''' auto'' is not neuter, it is not correct to say: ''Het'' is duur. But saying  ''hij'' is duur or ''zij'' is duur makes the word specifically masculine or feminine. Using '''die''' avoids the issue, because '''die''' follows the ''common gender'' pattern of the definite article.
+
+Increasingly, personal pronouns are reserved for reference to persons (natural gender as in English). To refer to things people resort to substituting the demonstratives.
+
+==Grammatica 4-3 Plural of nouns==
+
+As seen above the plural definite article is always '''de''' (for all genders), there is no indefinite article and the demonstratives are '''deze''' and '''die''' and the personal pronoun is '''zij''' or its weak form '''ze'''. Forming the plural of the noun itself is a bit more complicated. 
+
+Recall: ''...tafel'''s''' en stoel'''en'''...''
+
+With few exceptions like ''ox - oxen'' pretty much all words simply get an -s in English. Dutch however has '''two''' main ways to form a plural: by adding '''-s''' and by adding '''-en'''. The latter is pronounced /-ən/, /-ə/ or even as a syllabic /-n/ depending on the region.
+
+Which plural applies is '''best learned case by case''' as gender is, although we can attempt a general rule:
+{{Definition|
+:''All words of more than one syllable get '''-s''', if they end in: 
+#e+liquid: '''-el''', '''-em''', '''-en''', '''-er''', 
+#vowels: '''-a''', '''-e''', '''-i''', '''-o''', '''-u''' and '''-y''' , 
+
+All others get '''-en'''.''
+}}
+The ones in '''''-a''''', '''''-o''''', '''''-i''''' and '''''-y''''' get an apostrophe before the '''-s'''
+
+:baby - baby's
+
+Unfortunately there are lots of exceptions. Many recent (latinate) loans from English or French and all diminutives get a '''-s'''.
+
+:de tafel  - de tafel'''s'''
+:de familie - de familie'''s'''
+:het meisje - de meisje'''s'''
+
+Words in '''''-te''''' and '''''-laar''''' usually get '''-s''':
+
+:de hoogte - de hoogtes
+:de kandelaar - de kandelaars 
+
+Amongst the many words that get '''''-en''''' are the ones in '''-ing''':
+
+:de helling - de hellingen 
+
+===Vowel changes===
+Most monosyllabic words have '''''-en''''' in the plural:
+
+:de stoel  - de stoel'''en'''
+:het raam  - de ram'''en'''
+
+In the latter case, notice that one of the a's is dropped in the spelling of the plural. This difficulty is related to the fact that most Dutch vowels occur in two varieties, a closed one and an open one. Dutch spelling has a rather ingenious and systematic way of denoting which one is intended. It involves the doubling of either vowels or consonants. Compare:
+
+:het bot /bɔt/  (the bone) has an open vowel /ɔ/ like British pot (or American paw)
+:de boot /bot/ (the boat) sounds much like British boat.
+
+In this case the vowels remain the same in the plural, but notice the doubling:
+
+:het bot - de bot'''t'''en ['bɔtə(n)] (bot-ten) 
+:de bo'''o'''t - de boten ['botə(n)]  (bo-ten)
+
+[[image:Nl-bot-boot.ogg|30px|noicon]]
+
+It is customary to call the first sound  [ɔ] a 'short o' and the second [o] a 'long o', but this terminology can be rather confusing. There are languages like Czech where vowels are indeed distinguished purely on their length. In Dutch, however, the difference in length (''quantity'') is actually pretty negligible, but the difference in vowel sound (''quality'') is not. This presents a problem for speakers of the many languages with a five-vowel system, like Italian, Russian, Arabic or isiXhosa whose ears are not accustomed to this kind of difference. Anglophones usually do quite well.
+
+===The Dutch spelling rule===
+{{Definition|
+The Dutch Spelling Rule is:
+
+:an 'open' syllable that ends in a vowel such as ''bo-'' sounds like boat /o/,
+:a 'closed' one ''bot-'' like pot (/ɔ/).
+
+If the opposite is desired, either the vowel is doubled (→ boot) or the consonant (bo'''t'''ten).
+}}
+For non-native speakers a complication arises in those cases where the actual vowel changes ('lengthens') in the plural, compare:
+
+:dat pad (/pɑt/) - die paden (/'p'''a'''dən/ - '''vowel changes''') (that path - those paths) 
+:die pad (/pɑt/) - die padden (/'pɑdən/ - no vowel change) (that toad - those toads)
+
+[[image:Nl-pad.ogg|30px|noicon]]
+
+The vowel /ɑ/ in pad and padden is approximately as in father. Paden has a vowel /a/ like in broad American 'Oh, my God' (In Dutch the spelling would be: Gaad).  Also, notice  the gender difference of the two words.
+
+Vowel change is systematic in the plural of the past of certain strong verbs (see [[Dutch/Lesson 6|6]]).
+
+:ik zat (/zɑt/) - wij zaten (/zatən/) (I sat - we sat)
+
+A few words show vowel changes other than between the open and closed variety of the same vowel: 
+
+:de stad - de steden (city).
+
+Words ending in '''-heid''' get '''''-heden''''':
+
+:beleefdheid - beleefdheden
+
+There are about a dozen plurals in Dutch that end in '''''-eren''''':
+
+:het kind - de kinderen (child - child'''ren''')
+:het lam  - de lammeren (lamb)
+
+The ending -eren is essentially a double plural. It derives from a plural in -er and in some compounds that is still visible:
+
+:de kinderkamer - the children's room
+:de lammergier - a species of vulture
+
+Some words in '''-ie''' have an '''''-en''''' plural that requires a diaeresis (''trema'' in Dutch). The spelling depends on where the stress falls: 
+
+:de kol'''o'''nie - de kol'''o'''niën
+:de dynast'''ie''' - de dynast'''ie'''ën
+
+A trema is also used after '''-ee''':
+
+:de zee - de zeeën
+:de diatomee - de diatomeeën  
+
+Occasionally a Latin or Greek plural is preserved in Dutch:
+
+:het museum - de musea
+:de chemicus - de chemici
+
+{{Dutch/Exercise|Plurals|
+Try to form the plural of the following word. Indicate if there is any vowel change involved:
+
+#het hoofd -the head
+#het dak - the roof
+#de bak - the container
+#de zak - the bag
+#de zaak - the business
+#het zaakje - the affair
+#de opera - the opera
+#het rad - the wheel
+#het bad - the bath
+#de lepel - the spoon
+#de camera - the camera
+#de robot - the robot
+#het baken - the beacon
+#het schip - the ship
+#het gebod - the commandment
+#de stelling - the thesis, the (military) post
+#het wapen - the weapon
+#de vleugel - the wing
+#de musicus - the musician
+|
+#het hoofd - hoofden
+#het dak - daken  (lengthening)
+#de bak - bakken
+#de zak - zakken
+#de zaak - zaken
+#het zaakje - zaakjes
+#de opera - opera's
+#het rad - raderen (-eren plural + lengthening)
+#het bad - baden (lengthening)
+#de lepel - lepels
+#de camera - camera's
+#de robot - robots (&lt;English)
+#het baken - bakens
+#het schip - schepen (vowel change)
+#het gebod - geboden (lengthening)
+#de stelling - stellingen
+#het wapen - wapens, (also: wapenen)
+#de vleugel - vleugels (poetic: vleugelen)
+#de musicus - musici (&lt;Lat.)
+}}
+
+==Woordenlijst 4==
+{|class=&quot;wikitable sortable&quot; style=&quot;text-align:left; float:left; clear:right; margin: 0.5em 0 0 0; border-style: solid; border: 1px solid #AAAAAA; border-right-width: 1px; border-bottom-width: 1px; border-collapse: collapse; font-size: 100%;&quot;
+!Dutch term !! Audio file !! English translation
+|-
+| de tafel   || {{audio|nl-tafel.ogg|tafel}} ||     table
+|-
+| de stoel   || {{audio|nl-stoel.ogg|stoel}}           ||     chair
+|-
+| het geld   || {{audio|nl-geld.ogg|geld}}           ||     money
+|-
+| de student || {{audio|nl-student.ogg|student}}           ||     student (university)
+|-
+| de universiteit|| {{audio|nl-universiteit.ogg|universiteit}}       ||     university
+|-
+| het medicijn|| {{audio|nl-medicijn.ogg|medicijn}}          ||     the medication, the drug
+|-
+| kan er niks aan doen||    ||    cannot help it
+|-
+| nodig       || {{audio|nl-nodig.ogg|nodig}}           ||    necessary
+|-
+| Ik heb nodig||            ||    I need
+|-
+| bezoeken    || {{audio|nl-bezoeken.ogg|bezoeken}}           ||    attend (as a student)
+|-
+| verkopen    || {{audio|nl-verkopen.ogg|verkopen}}            ||   sell
+|-
+| wat         || {{audio|nl-wat.ogg|wat}}            ||   some
+|-
+| niks        || {{audio|nl-niks.ogg|niks}}            ||   nothing
+|-
+| nog         || {{audio|nl-nog.ogg|nog}}            ||   still
+|-
+| duur        ||  {{audio|nl-duur.ogg|duur}}           ||   expensive
+|-
+| weer       ||  {{audio|nl-weer.ogg|weer}}            ||  again          
+|-
+| vooruit   || {{audio|nl-vooruit.ogg|vooruit}}|| ahead, 'let's go'
+|-
+| te weinig || {{audio|nl-weinig.ogg|weinig}}||too little
+|}
+&lt;br clear=&quot;all&quot;&gt;
+&lt;small&gt;[[Dutch/Alfabet|Pronunciation Guide]]&gt;&gt;&lt;/small&gt;
+
+:* [[Dutch/Lesson 4A|Advanced Lesson 4]]&gt;&gt;
+ 
+{{BookCat}}</text>
+      <sha1>00pbtx9j89h8gk7jg4u0fppmgzdu1j5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Cryptography/Introduction</title>
+    <ns>1</ns>
+    <id>4440</id>
+    <revision>
+      <id>498548</id>
+      <parentid>255203</parentid>
+      <timestamp>2006-06-24T17:49:40Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Cryptography:Introduction]] moved to [[Talk:Cryptography/Introduction]]</comment>
+      <text xml:space="preserve">Ist usage of the word 'Cryptography' occured in 1658 in Sir [[Thomas Browne]]'s '[[The Garden of Cyrus]]. ..quote  ....'WE might abate the strange CRYPTOGRAPHY of Gaffarel in his Starrie Booke of heaven'.
+
+== Cryptanalysis Classes ==
+
+Four classes of '''cryptanalysis''';
+
+A) '''Ciphertext-only'''.  Only the ciphertext is known and the key and/or message must be found from this.
+
+B) '''Known plaintext'''.  The ciphertext and part of the message is known.  The key and/or the rest of the message must be found from this.
+
+C) '''Chosen plaintext'''.  The analysist can chose the plaintext to encrypt.  The key must be found from this.
+
+D) '''Chosen ciphertext'''.  Public key ciphers only, the analysist can chose the ciphertext to decrypt.  The key must be found from this.
+
+== Backup of some prior segments ==
+
+While this could be left to page history, for now I'll leave some bits here so that people can see what major chunks were lifted out and replaced. [[wikipedia:User:PolyGnome]]
+
+
+=== Prior intro, part 1 ===
+'''Cryptography''' is generally understood to be the study of the principles and techniques by which information is converted  into an encrypted version that is difficult (ideally, impossible) for any unauthorized person to convert to the original information, while still allowing the intended reader to do so. In fact, cryptography covers rather more than merely encryption and decryption. It is, in practice, a specialized branch of information theory with substantial additions from other branches of mathematics. And perspective and approaches, because of the inherent conflict between those authorized, and those not, to see the information / interfere in the exchange / pretend to be other than they are / etc, from such sources as Machiavelli, Sun Tzu, and Karl von Clausewitz.
+
+Unsurprisingly, the study of hiding the meaning of messages from others by encrypting them has been accompanied by the study of how to read such messages when one is ''not'' the intended receiver; this area of study is called ''cryptanalysis''.  People involved in such work, and with cryptography in general, are known as cryptographers (or for some of those in the other lexigraphic school, '''cryptologists''').
+
+The original unencrypted information being sent from one person (or organization) to another is usually called the ''plaintext''.  ''Encryption'' is the process of converting the plaintext into some unreadable form (ideally one undistinguisable from random gibberish), and ''decryption'' converts this back to the plaintext.  Encryption includes two major classes of technique:  '''encoding''' (yielding ''codetext'') and '''enciphering''' (yielding ''ciphertext'').  The exact operation of the encryption and decryption, for all schemes with any pretense to security, is controlled by one or more keys.
+----
+
+My intent with the introduction is to try to cover the basic understanding and texture of cryptography without bogging down the reader. Although it will obviously have to be refined after the other modules have been completed. [[wikipedia:User:PolyGnome]]
+
+== Just a note ==
+
+Would it be possible to cite a couple books on cryptography? There are several good ones, and I think it's a good idea to refer to something a little more concrete.
+
+
+== Interesting Typos ==
+
+I discovered some interesting typos, such as &quot;Bprivately&quot; and the like, I don't know why they were there, but it reads better now, I also changed &quot;cypher&quot; in the body to &quot;cipher&quot;, to match the introduction
+
+[[User:Tyler.szabo|Tyler.szabo]] 01:54, 6 October 2005 (UTC)</text>
+      <sha1>89zz09s0twn9u980q5e9z2mfoxftena</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Cryptography/History</title>
+    <ns>1</ns>
+    <id>4441</id>
+    <revision>
+      <id>1943241</id>
+      <parentid>1076394</parentid>
+      <timestamp>2010-10-05T01:18:53Z</timestamp>
+      <contributor>
+        <ip>68.0.124.33</ip>
+      </contributor>
+      <comment>munitions</comment>
+      <text xml:space="preserve">Ist usage of the word 'Cryptography' occured in 1658 in Sir [[Thomas Browne]]'s '[[The Garden of Cyrus]]. ..quote  ....'WE might abate the strange CRYPTOGRAPHY of Gaffarel in his Starrie Booke of heaven'.
+
+== munitions ==
+
+What is the best way to copy-and-paste the paper --
+[http://www.xanthir.com/document/document.php?id=6e54a9d38b4ae29c9edf2f5e8bd8d9963e30c83a0b3706599b6598266067057cb8a862da0b804bc270490848a9e8b2473d7c8d5b5c9585004449a144f73b7664 &quot;Cryptographic techniques as munitions: US export controls and EU approaches&quot;] by TJ Atkins --
+into this [[Cryptography/History]]?
+My understanding is that Atkins has already given us permission to do this by releasing with a &quot;Creative Commons 0 License&quot;.
+--[[Special:Contributions/68.0.124.33|68.0.124.33]] ([[User talk:68.0.124.33|talk]]) 01:18, 5 October 2010 (UTC)</text>
+      <sha1>afsnabc6p35xas466b812kpfss9c1vu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Karl Wick/Main Page</title>
+    <ns>2</ns>
+    <id>4444</id>
+    <revision>
+      <id>1110191</id>
+      <parentid>1110000</parentid>
+      <timestamp>2008-02-11T06:32:58Z</timestamp>
+      <contributor>
+        <username>Neoptolemus</username>
+        <id>77154</id>
+      </contributor>
+      <minor />
+      <comment>fix link</comment>
+      <text xml:space="preserve">__NOTOC__
+
+[[Wikibooks:Welcome, newcomers|Welcome, newcomers!]] '''Wikibooks''' is dedicated to developing and disseminating '''[[en:gratis|free]], [[en:open content| open content]] textbooks''' and other classroom texts.
+
+&lt;div style=&quot;clear: both; border: 2px solid #ffe2e2; margin: 0em; background-color: #fff5f5; padding-bottom: 0.5em;&quot;&gt;
+&lt;div style=&quot;background: #ffe2e2; padding-top: 0.1em; padding-bottom: 0.1em; text-align: center; font-size: larger; width: 100%&quot;&gt;'''Selected textbooks '''&lt;/div&gt;
+&lt;div style=&quot;padding-top: 0.4em; padding-bottom: 0.3em;&quot;&gt;
+{| border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;
+|-
+| valign=&quot;top&quot; align=&quot;right&quot; | ''' Some of the best: ''':&amp;nbsp;
+|
+[[Botany]] -
+[[GCSE Science]] -
+[[German]]
+|}&lt;/div&gt;&lt;/div&gt;
+
+
+{| cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; border=&quot;0&quot;
+|- valign=&quot;top&quot;
+! style=&quot;background-color: #e2e2ff; border: 2px solid #e2e2ff; border-bottom: none; padding-top: 0.3em; padding-bottom: 0.3em; font-size: large;&quot; width=&quot;53%&quot; |
+''' Textbooks '''
+! &amp;nbsp;
+! style=&quot;background-color: #faf9b2; border: 2px solid #faf9b2; border-bottom: none; padding-top: 0.3em; padding-bottom: 0.3em; font-size: large;&quot; |
+''' Community '''
+|- valign=&quot;top&quot;
+| style=&quot;background-color: #f8f8ff; border: 2px solid #e2e2ff; border-top: none; padding: 0.6em; padding-top: none;&quot; |
+&lt;center&gt;'''[[Science bookshelf|Science]]'''&lt;/center&gt;
+
+&lt;br /&gt; [[GCSE Science|GCSE Science for high school students]] [[Image:25%.png|25%]]
+&lt;br /&gt; '''[[Biology]]'''
+&lt;br /&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [[General Biology]] [[Image:50%.png|50%]]
+&lt;br /&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [[Biochemistry]] [[Image:25%.png|25%]]
+&lt;br /&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [[Botany]] [[Image:50%.png|50%]]
+&lt;br /&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [[Cell Biology]] [[Image:50%.png|50%]]
+&lt;br /&gt; '''[[Chemistry]]'''
+&lt;br /&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [[General Chemistry]]
+&lt;br /&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [[Biochemistry]] [[Image:25%.png|25%]]
+&lt;br /&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [[Organic Chemistry]] [[Image:25%.png|25%]]
+&lt;br /&gt; '''[[Physics]]'''
+&lt;br /&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [[Classical mechanics]]
+&lt;br /&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [[General relativity]]
+&lt;br /&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [[Physics Study Guide: Contents|Physics Study Guide]] [[Image:25%.png|25%]]
+&lt;br /&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [[Physics with Calculus]]
+&lt;br /&gt;[[Engineering]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[Engineering Thermodynamics]]
+&lt;br /&gt;&lt;br&gt;
+&lt;center&gt;'''[[Mathematics bookshelf|Mathematics]]'''&lt;/center&gt;
+&lt;br /&gt; [[Algebra]] [[Image:50%.png|50%]]
+&lt;br /&gt; [[Calculus]] [[Image:25%.png|25%]]
+&lt;br /&gt; [[Abstract algebra]] [[Image:25%.png|25%]]
+&lt;br /&gt; [[Discrete Mathematics]] [[Image:50%.png|50%]]
+&lt;br /&gt; [[Geometry]]
+&lt;br /&gt; [[High school extensions|High School Extensions]] [[Image:25%.png|25%]]
+&lt;br /&gt; &lt;br/&gt;
+
+&lt;center&gt;'''Computers'''&lt;/center&gt;
+&lt;br /&gt; [[Computer programming|Computer Programming]] [[Image:25%.png|25%]]
+&lt;br /&gt; [[Cryptography]]
+&lt;br /&gt; [[Internet Technologies]]
+&lt;br /&gt; [[Bourne Shell Scripting]]
+&lt;br /&gt; [[LPI Linux Certification/LPIC1 Exam 101]]
+&lt;br /&gt; &lt;br/&gt;
+
+&lt;center&gt;'''[[Languages bookshelf|Languages]]'''&lt;/center&gt;
+&lt;br /&gt; [[Aragonese]]
+&lt;br /&gt; [[Chinese]] [[Image:25%.png|25%]]
+&lt;br /&gt; [[Danish]]
+&lt;br /&gt; [[Dutch]]
+&lt;br /&gt; [[English]]
+&lt;br /&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [[Systematic Phonics|Phonics]]
+&lt;br /&gt; [[Esperanto/Cover page|Esperanto]]
+&lt;br /&gt; [[Estonian]]
+&lt;br /&gt; [[Finnish]]
+&lt;br /&gt; [[French]] [[Image:50%.png|50%]]
+&lt;br /&gt; [[German]] [[Image:25%.png|25%]]
+&lt;br /&gt; [[Hindi]]
+&lt;br /&gt; [[Indonesian]] [[Image:25%.png|25%]]
+&lt;br /&gt; [[Interlingua]]
+&lt;br /&gt; [[Japanese]] [[Image:25%.png|25%]]
+&lt;br /&gt; [[Korean]]
+&lt;br /&gt; [[Latin]] [[Image:25%.png|25%]]
+&lt;br /&gt; [[Lojban]] [[Image:25%.png|25%]]
+&lt;br /&gt; [[Norwegian]]
+&lt;br /&gt; [[Basic Polish language course|Polish]] [[Image:25%.png|25%]]
+&lt;br /&gt; [[Romanian]] [[Image:25%.png|25%]]
+&lt;br /&gt; [[Russian]]
+&lt;br /&gt; [[Spanish]] [[Image:50%.png|50%]]
+&lt;br /&gt; [[Vietnamese]]
+&lt;br /&gt;&lt;br /&gt;
+
+&lt;center&gt;'''Humanities'''&lt;/center&gt;
+&lt;br /&gt; [[US Constitution and Government]] [[Image:100%.png|100%]]
+&lt;br /&gt; [[Constructivist Theories in Education]]
+&lt;br /&gt; [[Canadian History]]
+&lt;br /&gt; [[History bookshelf|History]]
+&lt;br /&gt; [[Introduction to Philosophy|Philosophy]]
+&lt;br /&gt; [[US History]] [[Image:75%.png|75%]]
+&lt;br /&gt; [[World History|World History]]
+&lt;br /&gt; &lt;br/&gt;
+
+&lt;center&gt;'''[[Annotated works|Annotated Texts]]&lt;br&gt;and [[Study guide bookshelf|Study Guides]]'''&lt;/center&gt;
+&lt;br /&gt; [[Study Guide:Shakespeare|Shakespeare]]
+&lt;br /&gt; [[Adventures of Sherlock Holmes]]
+&lt;br /&gt; [[The Once and Future King]]
+&lt;br/&gt;&lt;br/&gt;
+&lt;center&gt;'''Miscellaneous'''&lt;/center&gt;
+&lt;br /&gt;[[Errata]]
+&lt;br /&gt;[[Bicycle repair]]
+&lt;br /&gt;[[Computer Game Walkthroughs]]
+&lt;br /&gt;[[Cookbook]]
+&lt;br /&gt;[[First Aid]]
+&lt;br /&gt;[[Gardening and Horticulture]]
+&lt;br /&gt;[[Graphic Design]]
+&lt;br /&gt;[http://www.wikipedia.org/wiki/How-to How-tos]
+&lt;br /&gt;[[Lucid dreaming]] [[Image:50%.png|50%]]
+&lt;br /&gt;[[m:MediaWiki User's Guide|MediaWiki User's Guide]] [[Image:50%.png|50%]]
+&lt;br /&gt;[[Puzzles]] [[Image:25%.png|25%]]
+&lt;br /&gt;[[Speeches]]
+&lt;br /&gt;[[How to write an essay]]
+&lt;br /&gt;[[The Voynich Manuscript]]
+&lt;br /&gt;[http://www.wiktionary.org/ Dictionary]
+&lt;br /&gt;[http://www.wikipedia.org/ Encyclopedia]
+&lt;br /&gt;[http://www.wikitravel.org Travel guide]
+&lt;br /&gt;[[Wiki Science]]
+|
+| style=&quot;background: #ffffec; border: 2px solid #faf9b2; border-top: none; padding: 0.6em; padding-top: none;&quot; | 
+
+'''Languages:''' [[Pàgina principal|Català]] ~
+[[Leitseite|Deutsch]] ~ 
+[[Main Page:????????|???????? (Ellenika)]] ~
+'''English''' ~ 
+[[Main Page:Español|Español]] ~
+[[Main Page:Français|Français]] ~ 
+[[Main Page:&amp;#54620;&amp;#44397;&amp;#50612;|&amp;#54620;&amp;#44397;&amp;#50612; (Hangugeo)]] ~
+[[Main Page:Interlingua|Interlingua]] ~
+[[Main Page:Nederlands|Nederlands]] ~
+[[Main Page:&amp;#26085;&amp;#26412;&amp;#35486;|&amp;#26085;&amp;#26412;&amp;#35486; (Nihongo)]] ~ 
+[[Main Page:Româna˘|Româna˘]] ~
+[[Main Page:???????|???????]] ~ 
+[[Main Page:Suomi|Suomi]] ~
+[[Main Page:Ti%E1%BA%BFng Vi%E1%BB%87t|Ti&amp;#7871;ng Vi&amp;#7879;t]] ~ 
+[[Main Page:%E4%B8%AD%E6%96%87|&amp;#20013;&amp;#25991; (Zhongwen)]]&lt;br&gt;
+
+&lt;center&gt;''[[All bookshelves]]'' -- ''[[Wikibooks:Ask the school librarian|Ask the librarians for help]]'' -- ''[[Wikibooks:Requested Wikibooks|Requested Wikibooks]]'' -- ''[[List of all books|All books]]'' &lt;/center&gt;
+
+[[Why use open textbooks?|Why open textbooks?]] - [[Why contribute to the open textbook project|Why contribute?]] - [[Wikibooks: Textbook Standards|Textbook standards]]
+
+== Sister Projects ==
+[http://www.wikipedia.org Wikipedia] - [http://www.wiktionary.org Wiktionary] - [http://quote.wikipedia.org Wikiquote] - [http://www.wikitravel.org/article/Main_Page Wikitravel] - [http://meta.wikipedia.org Meta-Wikipedia] - [http://www.nupedia.org Nupedia] - [http://sep11.wikipedia.org 9/11 Memorial Wiki] - [http://sources.wikipedia.org Wikisource] - [[Wikibooks:Related Projects|Other related projects]]
+
+&lt;small&gt;'' '''Note:''' Small squares represent relative &quot;completeness&quot; of textbooks:
+*[[Image:100%.png|100%]] -- four crimson squares indicate a complete first draft
+*[[Image:Revised.png]] -- a yellow square indicates the application of numerous contextual and stylistic revisions past its initial first draft&lt;/small&gt;
+
+Wikibooks is a [[en:Wikimedia|Wikimedia]] project set up July 10, 2003. Since then, volunteers have written around {{NUMBEROFARTICLES}} book modules in dozens of books.
+
+Play around in the [[Wikibooks:Sandbox|sandbox]], a place where you can do ''anything'' and get a feel for how [[en:Wiki|wiki]] works. See the [[Wikibooks:Mailing lists|mailing list]] or [[textbook planning|planning]] page to discuss current issues, or drop by the [[Wikibooks:Staff lounge|staff lounge]].
+When you are ready to edit or create your first page, the [[Wikibooks:How to edit a page|How to edit a page]] and [[Wikibooks:How to start a page|How to start a page]] pages will get you started. They also serve as handy references for Wiki syntax &amp; markup.
+
+A new project, [[Wikiversity]], is planned as a home for all kinds of educational materials. Wikibooks is visualized as the &quot;books&quot; section of the Wikiversity.
+|}
+
+__NOEDITSECTION__</text>
+      <sha1>pvzdomy4igspmgt0bdbpo6ydmftr6gc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:German/Appendices/Grammar II</title>
+    <ns>1</ns>
+    <id>4447</id>
+    <revision>
+      <id>1867363</id>
+      <parentid>1864613</parentid>
+      <timestamp>2010-06-28T23:25:12Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>replaced: {{WikiProject Languages}} → {{WikiProject Languages|german=yes}}</comment>
+      <text xml:space="preserve">{{WikiProject Languages|german=yes}} 
+
+There is a tendency for contributors to want to rush ahead and give lots of information in tabular form. While I believe there is a place for this, the text of a lesson book should follow a gradual program of introducing simpler concepts first and then building on these.  This page is now a good example. '''Verb conjugation''' needs to be spread out over many lessons, although the information and tables collected here make a good reference for the student to fall back on.  The layout of this book (IMHO) should allow both approaches. Therefore, I am moving this page to an Appendix to serve as a resource for developing future lessons and as a permanent part of the book intact as a reference for the student. Hope I do not step on too many toes; both approaches are valuable, but different - [[User:Marshman|Marsh]] 03:08, 10 Feb 2004 (UTC)~
+
+I agree completely that such a clump of tabular information needs to be saved for an appendix, and the work already done is excellent for an introduction. My only concern is that the tabular format for most conjugations seems incompletely labeled; without labelings for each part of speech, I'm afraid that newcomers to the language may find these tables difficult to decipher.
+
+I'm new wiki formatting, but I hope that the 'sein' conjugation chart I modified gives a sense for what I'm talking about. It's certainly not perfect: perhaps someone with more table skills could edit the other tables to include a better set of top-line identifiers. - Saxo, 12 Feb 2004
+
+:Sorry. I just picked up on your note.  When I move pages around I do not always mark them to be watched! You are right.  I can handle the table formatting, but you did good - [[User:Marshman|Marsh]] 02:59, 22 Feb 2004 (UTC)</text>
+      <sha1>1s1b3yyqokule6un455af5vemh22chn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>German/Lesson 6</title>
+    <ns>0</ns>
+    <id>4448</id>
+    <revision>
+      <id>2653648</id>
+      <parentid>2066162</parentid>
+      <timestamp>2014-05-11T18:01:25Z</timestamp>
+      <contributor>
+        <username>Harrybrowne1986</username>
+        <id>430968</id>
+      </contributor>
+      <minor />
+      <comment>m</comment>
+      <text xml:space="preserve">&lt;small&gt;&lt;&lt; [[German/Lesson_5|Lektion5]] |&lt;/small&gt; '''Lektion 6''' &lt;small&gt;| [[German/Lesson 7|Lektion 7]] &gt;&gt;&lt;/small&gt;
+----
+
+&lt;big&gt;&lt;big&gt;''Die Wohnung'' ~ &lt;/big&gt;The Apartment&lt;/big&gt;
+
+== Gespräch 6-1 ~ Ein Bruder besucht Markus ==
+:&lt;big&gt;Markus studiert Biologie an der Universität. Er besucht die Vorlesungen und dann geht er nach Hause. Er wohnt nicht bei seinen Eltern; er mietet sich eine kleine Wohnung. Sie hat nur drei Zimmer. Gegen Abend zeigt er sie seinem Bruder.&lt;/big&gt;
+:*''Markus'': &lt;big&gt;Karl. Herein! 
+:*''Karl'': &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Tag, Markus! Mutti grüßt dich.&lt;/big&gt;
+:&lt;big&gt;Karl sieht sich um.&lt;/big&gt;
+:*''Karl'':  &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Mir gefällt deine Wohnung.
+:*''Markus'': &lt;big&gt;Danke. Sie hat drei Zimmer. Es gibt eine Küche, ein Wohnzimmer, und ein Schlafzimmer.
+:*''Karl'': &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Ich habe sie gern! 
+:*''Markus'':
+This incomplete story and conversation introduces terms for items around the house (or apartment).
+  
+== Vokabeln 6-1 ==
+ &lt;font color=&quot;blue&quot;&gt;der Bruder&lt;/font&gt;                brother
+ &lt;font color=&quot;red&quot;&gt;die Eltern&lt;/font&gt;                parents
+ &lt;font color=&quot;red&quot;&gt;die Küche&lt;/font&gt;                 kitchen
+ &lt;font color=&quot;green&quot;&gt;das Schlafzimmer&lt;/font&gt;          bedroom
+ &lt;font color=&quot;red&quot;&gt;die Vorlesung&lt;/font&gt;             class, instruction            (at a university)
+ &lt;font color=&quot;red&quot;&gt;die Wohnung&lt;/font&gt;               apartment, flat
+ &lt;font color=&quot;green&quot;&gt;das Wohnzimmer&lt;/font&gt;            living room
+ &lt;font color=&quot;green&quot;&gt;das Zimmer,&lt;/font&gt; die Zimmer    room(s)
+
+ es gibt                   there is
+ gegen Abend               towards evening
+ gern haben                like                          (i.e., &quot;to  gladly have&quot;)
+ Herein!                   Come in!
+ sich umsehen              look around
+
+ zeigen                    show
+ besuchen                  visit, attend                 (classes)
+ grüßen                    greet
+ mieten                    rent
+
+ sein                      his                           (a possessive adjective)
+----
+
+== Grammatik 6.1 ~ Introduction to verb conjugations ==
+In German, every grammatical person has, or potentially has, its own unique verb form. Describing the various verb forms is called '''verb conjugation'''. This variation in verb form is certainly one of the things that makes German grammar somewhat difficult for English speakers to learn. In English, only the 3rd person singular might differ from the verb form used with all of the other '''persons''' (see [[German/Lesson_1|Grammatik 1-3]]) and that difference is made by adding an ending of 's' or 'es'. For example: I/you/we/they 'go', but he/she/it 'goes'. 
+
+Let us have a closer look at German verbs. Usually, the infinitive form of a verb in German ends with '''''-en'''''&amp;mdash;for examples, consider these verbs you have already learned: ''geh'''en''''' ('go'), ''hab'''en''''' ('have'), and ''studier'''en''''' ('study'). In order to &quot;build&quot; the different verb forms (that is, conjugate a verb), first cut off the '-en' ending from the infinitive. Then append a new ending according to the grammatical person. For '''regular verbs''' it works essentially as follows:
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#CCFFCC&quot;
+|-
+! pronoun
+! verb
+| &amp;nbsp;&amp;nbsp;&amp;nbsp;
+| colspan=&quot;2&quot; | &amp;nbsp;&amp;nbsp;in English:
+|-
+| ich ||  geh'''e'''  || ||   I   ||   go      
+|-
+| du ||  geh'''st'''  || ||  you  ||   go      
+|-
+| er/sie/es ||  geh'''t'''  || || he/she/it  ||   go'''es'''      
+|-
+| wir ||  geh'''en'''  || ||   we  ||   go     
+|-
+| ihr ||  geh'''t'''  || ||  you (pl.) ||   go     
+|-
+| sie ||  geh'''en'''  || ||  they ||   go     
+|}
+
+As you see in this example using the verb ''gehen'', the singular 1st person ends with '''''-e''''', the 2nd person with '''''-st''''' and 3rd person (no matter what gender) ends with '''''-t'''''. As for the plural forms, note that 1st and 3rd person in plural '''number''' (see [[German/Lesson_1|Grammatik 1-3]]) are built the same way as the infinitive. Again note that, in English, only the verb form for the 3rd person singular is &quot;unique&quot;. An easy way to remember the regular verb endings is the following mnemonic &quot;'''E'''lephants '''st'''anding '''t'''ogether '''en'''joy '''t'''rumpeting '''en'''dlessly&quot;.
+
+Seems simple enough.  However, realize we are discussing here only the regular verb forms in the '''present tense''' (''Präsens'').
+You will learn quite soon that, unfortunately, there are many exceptions from these simple rules. An important one is the '''irregular verb''' ''sein'' ('to be') which is irregular in English as well (I am, you are, he is...).
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#CCFFCC&quot;
+|-
+! pronoun
+! verb
+| &amp;nbsp;&amp;nbsp;&amp;nbsp;
+| colspan=&quot;2&quot; | &amp;nbsp;&amp;nbsp;in English:
+|-
+| ich ||  '''bin'''  || ||   I   ||   am      
+|-
+| du ||  '''bist'''  || ||  you  ||   are      
+|-
+| er/sie/es ||  '''ist'''  || || he/she/it  ||   is      
+|-
+| wir ||  '''sind'''  || ||   we  ||   are      
+|-
+| ihr ||  '''seid'''  || ||  you (plural) ||   are     
+|-
+| sie ||  '''sind'''  || ||  they ||   are      
+|}
+
+At least 1st and 3rd person plural are the same.
+Another important verb is ''haben'' ('to have'): 
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#CCFFCC&quot;
+|-
+! pronoun
+! verb
+| &amp;nbsp;&amp;nbsp;&amp;nbsp;
+| colspan=&quot;2&quot; | &amp;nbsp;&amp;nbsp;in English:
+|-
+| ich ||  hab'''e'''  || ||   I   ||  have     
+|-
+| du ||  ha'''st'''  || ||  you  ||   have      
+|-
+| er/sie/es ||  ha'''t'''  || || he/she/it  ||   has      
+|-
+| wir ||  hab'''en'''  || ||   we  ||   have      
+|-
+| ihr ||  hab'''t'''  || ||  you (plural) ||   have     
+|-
+| sie ||  hab'''en'''  || ||  they ||   have      
+|}
+
+You see, it's not too irregular&amp;mdash;only the 2nd and 3rd person singular constitute a small exception since the 'b' has vanished.  English is somewhat curious in this respect as well: 'I have', but 'he has'.  Future lessons will introduce you to the many '''irregular''' verbs in German.  But you should now recognize what is happening to the verbs in German sentences. They are reflecting the person and number of their nominative case subjects. Recall these sentences from past lessons (verbs underlined here):
+
+   ''Danke, es &lt;u&gt;geht&lt;/u&gt; mir gut''                 Thanks, it goes well with me (verb is ''gehen'')
+   ''Ich &lt;u&gt;habe&lt;/u&gt; viel Arbeit''                   I have much work (verb is ''haben'')
+   ''&lt;u&gt;Ist&lt;/u&gt; er zu Besuch?''                      Is he visiting? (verb is ''sein'')
+   ''Du &lt;u&gt;bist&lt;/u&gt; ein Schwein!''                   You are a pig! (verb is ''sein'')
+   ''Wie &lt;u&gt;heißen&lt;/u&gt; Sie?''                        What are you called? (verb is ''heißen'', and pronoun is formal)
+   ''Wir &lt;u&gt;spielen&lt;/u&gt; eine Stunde lang!''          We play for one hour! (verb is ''spielen'')
+   ''Sie &lt;u&gt;liegt&lt;/u&gt; am Ausfluss des Zürichsees.''  It lies at the outlet of Lake Zurich (verb is ''liegen'')
+
+== Grammatik 6.2 ~ Case in German nouns ==
+Through our discussions on the personal pronouns, you have learned how  pronouns have '''case'''.  Nouns also have case&amp;mdash;and in German, noun case can be expressed by the definite article (''der''). Recall this table from [[German/Lesson_3|Lektion 3]]:
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#FFFFCC&quot;
+|-
+|
+&amp;nbsp;'''''der'''''&amp;nbsp;
+|
+&amp;nbsp;masculine&amp;nbsp;
+|-
+|
+&amp;nbsp;'''''die'''''
+|
+&amp;nbsp;feminine
+|-
+|
+&amp;nbsp;'''''das'''''
+|
+&amp;nbsp;neuter
+|}
+
+These ''der''-words reflect noun '''gender''' in the nominative case&amp;mdash;appropriate whenever a noun is used as the subject of a sentence. For other cases, the ''der'' words change. Expanding the table to present nominative (NOM.), accusative (ACC.), dative (DAT.), and genitive (GEN.) cases:
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#FFFFCC&quot;
+|-
+! NOM.
+! ACC.
+&lt;th&gt;DAT.
+! GEN.
+|-
+|
+&amp;nbsp;'''''der'''''&amp;nbsp;
+|
+&amp;nbsp;'''''den'''''&amp;nbsp;
+|
+&amp;nbsp;'''''dem'''''&amp;nbsp;
+|
+&amp;nbsp;'''''des'''''&amp;nbsp;
+|
+&amp;nbsp;masculine&amp;nbsp;
+|-
+|
+&amp;nbsp;'''''die'''''
+|
+&amp;nbsp;'''''die'''''
+|
+&amp;nbsp;'''''der'''''
+|
+&amp;nbsp;'''''der'''''
+|
+&amp;nbsp;feminine
+|-
+|
+&amp;nbsp;'''''das'''''
+|
+&amp;nbsp;'''''das'''''
+|
+&amp;nbsp;'''''dem'''''
+|
+&amp;nbsp;'''''des'''''
+|
+&amp;nbsp;neuter
+|-
+|
+&amp;nbsp;'''''die'''''
+|
+&amp;nbsp;'''''die'''''
+|
+&amp;nbsp;'''''den'''''
+|
+&amp;nbsp;'''''der'''''
+!
+&amp;nbsp;plural
+|}
+
+Note, there are also ''der''-word forms to be used for plural nouns. Fortunately, these are the same, no matter what the gender of the singular noun. For future reference, you can find the ''der''-words summarized in [[German/Appendix_3|Anhänge Drei]].
+
+The following examples demonstrate the use of the definitive article in various parts of speech:
+
+   ''Du hast &lt;u&gt;die&lt;/u&gt; Wurst und &lt;u&gt;den&lt;/u&gt; Käse.''          You have &lt;u&gt;the&lt;/u&gt; sausage and &lt;u&gt;the&lt;/u&gt; cheese.
+                                             (accusative case)
+   ''&lt;u&gt;Die&lt;/u&gt; Geschäftsleute verstehen &lt;u&gt;die&lt;/u&gt; Arbeit''  The business associates understand the work.
+                                             (nominative and accusative cases)
+   ''Sie liegt am Ausfluss &lt;u&gt;des&lt;/u&gt; Zürichsees.''    It lies at the outlet of (&lt;u&gt;the&lt;/u&gt;) Lake Zurich.
+                                             (genitive case)
+   ''Zürich ist &lt;u&gt;die&lt;/u&gt; größte Stadt &lt;u&gt;der&lt;/u&gt; Schweiz.'' Zurich is &lt;u&gt;the&lt;/u&gt; largest city in (of &lt;u&gt;the&lt;/u&gt;) Switzerland.
+                                             (nominative and genitive cases)
+
+In the last example, remember that in both English and German, the noun (or pronoun) that follows the verb 'to be' is a predicate noun, for which the correct case is the '''nominative'''. That is why, in English, 'It is I' is grammatically correct and 'It is me' is  incorrect. So consider the following (and note that case of each definite article is the same as in the last example above):
+
+   ''Zürich ist der Kanton der gleichnamigen Stadt.''  Zurich is the canton of the same named city.
+
+== Grammatik 6.3 ~ Commands ==
+   ''Ruf sie an, bitte!''         Call her, please.
+   or ''Ruf sie bitte an!''
+   ''Gehen Sie nach Hause!''      Go home (formal).
+   ''Kommt mit!''                 Come with (plural)!
+   ''Gib es mir!''                Give me it!
+
+Notice that in these sentences there are no subjects (except for #2). In German, as in English, there is a ''commandative form'', a way to demand something using an understood you. In English, there is only one you-form and one command form. In German, since there are three you's, there are three ways to command.
+
+If the subject is singular (''du''), then the verb has no ending. If it is irregular, it takes the du-form, such as in essen (Iss!) or lesen (Lies!). If there is a plural subject (''ihr''), then the verb takes the ihr-form. Nothing else is changed. Most of the time, ihr-commands are used with children, but that is not always the case. In both of these sentences, the du or ihr is omitted.
+
+Formal is normal. The ''Sie'' stays (after the verb) and the verb is in its formal form. Although it is worded like a question, in written or spoken form, it is easy to tell the difference.
+
+&lt;!--
+I would take this out. Almost nobody uses exclamation marks in commands:
+
+All commands in German end in an exclamation point, regardless of the context (and even if it uses ''bitte'').
+
+--&gt;
+
+{{BookCat}}
+&lt;noinclude&gt;{{German/Level II/Footer}}&lt;/noinclude&gt;</text>
+      <sha1>h5x9oolpk37eirsc5j3qocpj3rp16fd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:German/Lesson 6</title>
+    <ns>1</ns>
+    <id>4449</id>
+    <revision>
+      <id>1867404</id>
+      <parentid>1864654</parentid>
+      <timestamp>2010-06-28T23:26:40Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>replaced: {{WikiProject Languages}} → {{WikiProject Languages|german=yes}}</comment>
+      <text xml:space="preserve">{{WikiProject Languages|german=yes}} 
+
+This Lesson 5 is a real conglomeration of pieces contributed by several of the contributors.  Although it may (from the Page History) appear that Marshman did most of the work, this was definitely not the case.  I think this is one of the best lessons to date (February 2004) and is actually mostly the work of Hansm and SamE, with Marshman structuring their contributions. Unfortunately, that structuring (moving stuff aroud) gives me more credit than I'm due. Thanks guys - [[User:Marshman|Marsh]] 04:03, 24 Feb 2004 (UTC)
+
+----
+
+Okay, a minor local one (but a killer), a major local (text) and a major general (vocab):
+
+1. &quot;Gib mich es!&quot; is shocking because it contradicts the rules for word order and indirect object from the previous lesson. Correct: &quot;Gib es mir!&quot;
+
+2. I think we do have a problem with the vocabulary lists. All of them! They are absolutely correct. But only for a very specific context. For exampel: You can translate 'office' with German 'Sitz' - possibly. The banks have their main offices in Zurich and therefore it is their 'Sitz' (site of most important building). Now imagine a student on his fifth lesson in German doing his first free translation. He has to check up the German word for 'office' (in the sense of -white collar workspace-) to form a new sentence and turns to his true and trusted Wikibook vocabulary list. Let's say the sentence is &quot;I will go to the office later today.&quot; -&gt; &quot;Ich werde später zum !Sitz! gehen.&quot; I don't think so. &quot;Na, wie war es im !Sitz! heute?&quot; No! 
+The word he is looking for is 'Büro'. 
+
+:That is the whole point. Each ''Vokabeln'' is NOT a partial German dictionary, but reflects exactly how the word or term is used in that lesson (in the material above the ''Vokabeln'') with minor &quot;the same&quot; meanings. If the word is used later with a different meaning (or a different word is introduced with a similar meaning), then it is repeated in the new ''Vokabeln'' It is worth thinking about to have an appendix that does what you are suggesting. Each word in the lessons given as in a dictionary, wirth some more detail such as you give. - [[User:Marshman|marsh]] 19:10, 22 Dec 2004 (UTC) 
+
+I don't think we should burden expressions with highly specific meanings before their standard interpretations have been established. 
+
+3. I wonder if the introductory text is too difficult. There is a lot of grammar in it that has not been introduced yet (passive, irregular verbs, complex side clauses). And lot of fillers muddy the waters. 
+
+:I do agree to the extent that as much as possible the introductory passages should be simplified or (if to difficult) moved to later in the book.  This is a slow, on-going process and would be a messy one if whole passages were just thrown out.  In the beginning, it is impossible not to have grammar that hass yet to be introduced. To do so would require very preschool, then first grade, then 2nd grade, etc. apperoach to including passages.  The point uis whether the student can understand a passage given the vocabulary presented; not whether he can understand the grammar behind each sentence. Much of the latter is picked up in the review process: sentence grammar in Lesson 1 is suddenly obvious after the stuident returns from having done Lessons 2-4. - [[User:Marshman|marsh]] 19:10, 22 Dec 2004 (UTC) 
+
+I don't know what of these issues has been discussed before and what the consensus is. Help me out there, please!
+
+
+:[[User:Floflei6|Floflei6]]
+
+----
+
+Okay I will try to list some more doubts about the vocabulary 
+
+Take this one, No 5:
+
+  der Ausfluss            outlet, effluence (of a stream, river, or lake) 
+''' minor: only with lakes, with rivers it's 'Mündung' '''
+:I will correct
+
+  
+  das Ende                end ''' now, is it 'to end' or 'an end'?'''
+:It is in the &quot;noun&quot; section so it must be a noun.
+
+  das Haus                house '''verb or noun?'''
+:It is in the the noun section so it has to be a noun
+  
+  der Sitz                office '''see above'''
+  
+
+  nach Hause              to home 
+''' 'to home' is an infinitive for an English verb. The phrase 'nach Hause' is idiomatic: &quot;Wir gehen nach Hause&quot; or &quot;Ich will nach Hause&quot;. The correct English translation would be &quot;We go home&quot; and &quot;I want to go home&quot;. It is not &quot;We go to home&quot; or &quot;Let's go to home&quot; or &quot;Do you fly to home tonight?&quot; and so on. Therefore, word for word translation in the lists is not very feasible. In those cases we need phrases to demonstarte proper usage!''' 
+:This should be done like this: ''nach Hause'' = (to) home
+
+  anrufen                 call, telephone 
+'''Is 'telephone here an equivalent of anrufen or a modifier for 'to call'? Obviously the latter. So, why not &quot;jemanden anrufen      -&gt;     to call someone on the telephone, to call&quot;'''
+
+:it is in the &quot;verb&quot; section, so it must be the verb to telephone.
+:You should read the Introduction to the book as it explains this set-up of the vocabularies.  Also, Lesson 1 emphasizes this again.  - [[User:Marshman|marsh]] 19:21, 22 Dec 2004 (UTC)
+
+  kommen                  come 
+''' 'come' could be commandative form. I think infinitives need to be marked as such.  '''
+
+
+
+  liegen (lag, gelegen)   lie (lay, lain)
+
+
+
+  am (an dem)             at the
+''' How are people to know that prepositions plus articles can be contracted because that's what they need to know to get the point here. '''
+
+
+
+  bei                     in
+''' Nope, 'bei' means 'near' or 'close to'. Then again it can mean a lot of other things, none of them is close to English 'in'. '''
+
+
+  beiden                  two
+''' What happened to 'both'? Can you reverse it? 'Two' does not mean 'beide'. '''
+
+
+  gleichnamigen           same named
+''' I am not an English native-speaker but 'same named' sounds a bit weird. '''
+
+
+
+  klein                   small
+''' I love that case, because we had 'klein' already in an earlier unit and it meant 'short'. What now? '''
+
+
+
+  neben                   besides
+''' Can you realy use 'besides' spatially? Shouldn't it be 'next to'? '''
+
+
+
+  nördlichen              northern
+  schweiz                 Swiss
+''' 'die nördliche Schweiz' '''
+
+
+I think the word for word vocabulary lists don't answer. We need to provide aditional information about function and use of expressions. 
+Infinitives need to be marked as such. Nouns likewise. 
+Words have to stripped of aspect, form and tense (not Dativ/Akkusativ 'beiden' but Nominaitiv 'beide'). 
+If possible, translations should be mutually entailing and reversable - work both ways.
+
+
+I think that's it for the moment.
+
+:Again, most of the problems you indicate come from your not reading the introduction and Lesson 1 examples of how the Vokabeln are set up.  While everything you say is true, it would apply only if the Vokabeln were dictionary entries, which they are not. They were set up to be simple and not confuse the learning stuident with all of the other meanings, exceptions, etc.  As they are now is very straight-forward, simple, and useful for the lesson in which they appear. You are essentially taking them out of context, and then saying: &quot;Look, there is no context here&quot; The context is there.  Irt is just not obvious when you jump into Lesson 4 from having not read all that went before - [[User:Marshman|marsh]] 19:21, 22 Dec 2004 (UTC) 
+
+: [[User:Floflei6|Floflei6]]
+
+
+----
+
+
+&quot;Mutti sagt Hallo.&quot; is nonsens! -&gt; deleted --[[User:217.231.147.46|217.231.147.46]] 17:56, 24 Mar 2005 (UTC)
+:Such actions are not the least bit helpful. You can correct the statement to &quot;good&quot; German, but your calling it &quot;nonsense&quot; is nonsensical - [[User:Marshman|marsh]] 04:28, 25 Mar 2005 (UTC)
+::sorry, but there is realy NO SENSE in this sentence. Do you want to say somthing like: &quot;Ich soll dich von Mutti grüßen.&quot;?--[[User:217.231.132.9|217.231.132.9]] 06:58, 25 Mar 2005 (UTC)
+:::Yes, but is there an easier way to say that (mine was just a direct English formulation, obviously) since at this point in the text modals are complications. - [[User:Marshman|marsh]] 17:26, 25 Mar 2005 (UTC)
+::::OK, what's about: &quot;Mutti grüßt dich.&quot;? I wouldn't say this, but it's correct --[[User:217.231.137.143|217.231.137.143]] 23:25, 25 Mar 2005 (UTC)
+:::::Danke. We can use that until something better comes along - [[User:Marshman|marsh]]</text>
+      <sha1>7qz74iceyhezsrc35vmeku1wqs082m2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Wikibooks/Archive 1</title>
+    <ns>1</ns>
+    <id>4450</id>
+    <revision>
+      <id>327624</id>
+      <parentid>327623</parentid>
+      <timestamp>2006-01-05T16:12:46Z</timestamp>
+      <contributor>
+        <ip>202.177.155.105</ip>
+      </contributor>
+      <text xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Chemistry/Measurement</title>
+    <ns>0</ns>
+    <id>4452</id>
+    <revision>
+      <id>2066249</id>
+      <parentid>616191</parentid>
+      <timestamp>2011-03-06T04:49:30Z</timestamp>
+      <contributor>
+        <username>Avicennasis</username>
+        <id>314063</id>
+      </contributor>
+      <minor />
+      <comment>[[WP:AWB/T|Typo fixing]], typos fixed: fundumental → fundamental using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">{{GeneralChemTOC}}
+==Moles==
+The mole is a unit used to measure the number of particles in a substance (where particles can be atoms, molecules, electrons, ions etc.). One mole of something contains 6.02205 &amp;times; 10&lt;sup&gt;23&lt;/sup&gt; particles. This rather large quantity is a constant called ''Avogadro's Number'', which is abbreviated as ''N&lt;sub&gt;A&lt;/sub&gt;''. It simply refers to the number of particles in one mole.
+
+&lt;math&gt;N_A = 6.02214 \times 10^{23}\hbox{ mol}^{-1}&lt;/math&gt;
+
+For example, one mole of helium gas contains 6.022&amp;times;10&lt;sup&gt;23&lt;/sup&gt; atoms; 2 moles of oxygen gas contains 1.204&amp;times;10&lt;sup&gt;24&lt;/sup&gt; molecules.
+
+===Moles and Mass===
+It would be useful to be able to convert between the number of moles and the mass of a substance. The ''molar mass'' is the mass of one mole of a substance, measured in grams per mole or &lt;math&gt;\hbox{g}\cdot\hbox{mol}^{-1}&lt;/math&gt;. Not by coincidence, the ''molar mass'' is the same as the ''atomic weight'' of a substance (this is how the concept of moles was originally defined).
+
+For example, the molar mass (and atomic weight) of carbon-12 is  12 g&amp;middot;mol&lt;sup&gt;-1&lt;/sup&gt;, so 1 mole of carbon-12 weighs 12 grams. Similarly, chlorine has a molar mass of 35.45 g·mol&lt;sup&gt;-1&lt;/sup&gt;, so one mole of chlorine atoms weighs 35.45 g. There are two chlorine atoms in one molecule of Cl&lt;sub&gt;2&lt;/sub&gt; gas, so one mole of Cl&lt;sub&gt;2&lt;/sub&gt; gas weighs 70.90 g.
+
+==Measurement and Quantities==
+''See the [[Units (General Chemistry)|Units Appendix]] for tables of SI fundamental and derived units.
+
+===Commonly used units in Chemistry===
+
+
+{| WIDTH=&quot;75%&quot; rules=&quot;all&quot; style=&quot;background-color: #FFF7F7; border: solid 1px #ffd6d6; padding: 1em;&quot; valign=&quot;top&quot;
+|-
+| style=&quot;border: inherit&quot; | 
+====Quantity====
+| style=&quot;border: inherit&quot; | 
+====Commonly used units and symbols====
+| style=&quot;border: inherit&quot; | 
+====Conversions (etc)====
+|-
+| style=&quot;border: inherit&quot; | 
+amount of substance
+| style=&quot;border: inherit&quot; | 
+mole, mol
+| style=&quot;border: inherit&quot; | 
+1 mol = 6.022&amp;times;10&lt;sup&gt;23&lt;/sup&gt; particles
+|-
+| style=&quot;border: inherit&quot; | 
+concentration (solutions)
+| style=&quot;border: inherit&quot; | 
+mole per litre, mol L&lt;sup&gt;-1&lt;/sup&gt;
+&lt;br&gt;
+gram per litre, g L&lt;sup&gt;-1&lt;/sup&gt;
+| style=&quot;border: inherit&quot; | 
+(mol L&lt;sup&gt;-1&lt;/sup&gt;)(g mol&lt;sup&gt;-1&lt;/sup&gt;) = g L&lt;sup&gt;-1&lt;/sup&gt; &lt;br&gt;
+(g L&lt;sup&gt;-1&lt;/sup&gt;)/(g mol&lt;sup&gt;-1&lt;/sup&gt;) = mol L&lt;sup&gt;-1&lt;/sup&gt;
+|-
+| style=&quot;border: inherit&quot; | 
+electric charge
+| style=&quot;border: inherit&quot; | 
+coulomb, C
+| style=&quot;border: inherit&quot; | 
+|-
+| style=&quot;border: inherit&quot; | 
+electric current
+| style=&quot;border: inherit&quot; | 
+ampere, A
+| style=&quot;border: inherit&quot; | 
+|-
+| style=&quot;border: inherit&quot; | 
+electromotive force
+| style=&quot;border: inherit&quot; | 
+volt, V
+| style=&quot;border: inherit&quot; | 
+|-
+| style=&quot;border: inherit&quot; | 
+energy
+| style=&quot;border: inherit&quot; | 
+joule, J
+&lt;br&gt;
+kilojoule, kJ
+| style=&quot;border: inherit&quot; | 
+1000 J = 1 kJ
+|-
+| style=&quot;border: inherit&quot; | 
+density
+| style=&quot;border: inherit&quot; | 
+gram per litre, g L&lt;sup&gt;-1&lt;/sup&gt;
+| style=&quot;border: inherit&quot; | 
+|-
+| style=&quot;border: inherit&quot; | 
+mass
+| style=&quot;border: inherit&quot; | 
+gram, g
+&lt;br&gt;
+kilogram, kg
+&lt;br&gt;
+ton
+| style=&quot;border: inherit&quot; | 
+1 tonne = 1000 kg = 1&amp;times;10&lt;sup&gt;6&lt;/sup&gt; g
+|-
+| style=&quot;border: inherit&quot; | 
+molar volume
+| style=&quot;border: inherit&quot; | 
+litre per mole, L mol&lt;sup&gt;-1&lt;/sup&gt;
+| style=&quot;border: inherit&quot; | 
+22.41 L (S.T.P)&lt;br&gt;
+22.47 L (25 °C, 101.325 kPa)
+|-
+| style=&quot;border: inherit&quot; | 
+pressure
+| style=&quot;border: inherit&quot; | 
+kilopascal, kPa
+&lt;br&gt;
+atmosphere, atm
+&lt;br&gt;
+millimetre of mercury, mmHg
+| style=&quot;border: inherit&quot; | 
+1 atm = 101.324 kPa = 760.0 mmHg
+|-
+| style=&quot;border: inherit&quot; | 
+temperature
+| style=&quot;border: inherit&quot; | 
+kelvin, K
+&lt;br&gt;
+degree celsius, &amp;deg;C
+| style=&quot;border: inherit&quot; | 
+''T''&lt;sub&gt;K&lt;/sub&gt; = ''T''&lt;sub&gt;C&lt;/sub&gt; + 273.15
+|-
+| style=&quot;border: inherit&quot; | 
+time
+| style=&quot;border: inherit&quot; | 
+second, s
+&lt;br&gt;
+hour, h
+| style=&quot;border: inherit&quot; | 
+1 h = 3600 s
+|-
+| style=&quot;border: inherit&quot; | 
+volume
+| style=&quot;border: inherit&quot; | 
+litre, L
+&lt;br&gt;
+millilitre, mL
+&lt;br&gt;
+cubic centimetre, cm&lt;sup&gt;3&lt;/sup&gt;
+&lt;br&gt;
+cubic decimetre, dm&lt;sup&gt;3&lt;/sup&gt;
+| style=&quot;border: inherit&quot; | 
+1 L = 1000 mL = 1 dm&lt;sup&gt;3&lt;/sup&gt; = 1000 cm&lt;sup&gt;3&lt;/sup&gt;
+|}
+===Commonly used prefixes===
+
+{| WIDTH=&quot;75%&quot; rules=&quot;all&quot; style=&quot;background-color: #FFF7F7; border: solid 1px #ffd6d6; padding: 1em;&quot; valign=&quot;top&quot;
+|-
+| style=&quot;border: inherit&quot; |
+====Prefix====
+| style=&quot;border: inherit&quot; |
+====Symbol====
+| style=&quot;border: inherit&quot; |
+====Factor====
+|-
+| style=&quot;border: inherit&quot; |
+tera
+| style=&quot;border: inherit&quot; |
+T
+| style=&quot;border: inherit&quot; |
+10&lt;sup&gt;12&lt;/sup&gt;
+|-
+| style=&quot;border: inherit&quot; |
+giga
+| style=&quot;border: inherit&quot; |
+G
+| style=&quot;border: inherit&quot; |
+10&lt;sup&gt;9&lt;/sup&gt;
+|-
+| style=&quot;border: inherit&quot; |
+mega
+| style=&quot;border: inherit&quot; |
+M
+| style=&quot;border: inherit&quot; |
+10&lt;sup&gt;6&lt;/sup&gt;
+|-
+| style=&quot;border: inherit&quot; |
+kilo
+| style=&quot;border: inherit&quot; |
+k
+| style=&quot;border: inherit&quot; |
+10&lt;sup&gt;3&lt;/sup&gt;
+|-
+| style=&quot;border: inherit&quot; |
+milli
+| style=&quot;border: inherit&quot; |
+m
+| style=&quot;border: inherit&quot; |
+10&lt;sup&gt;-3&lt;/sup&gt;
+|-
+| style=&quot;border: inherit&quot; |
+micro
+| style=&quot;border: inherit&quot; |
+&amp;micro;
+| style=&quot;border: inherit&quot; |
+10&lt;sup&gt;-6&lt;/sup&gt;
+|-
+| style=&quot;border: inherit&quot; |
+nano
+| style=&quot;border: inherit&quot; |
+n
+| style=&quot;border: inherit&quot; |
+10&lt;sup&gt;-9&lt;/sup&gt;
+|-
+| style=&quot;border: inherit&quot; |
+pico
+| style=&quot;border: inherit&quot; |
+p
+| style=&quot;border: inherit&quot; |
+10&lt;sup&gt;-12&lt;/sup&gt;
+|}</text>
+      <sha1>hbmiopk6enb9zd37kswmz1vnw7fib8u</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Template:New</title>
+    <ns>10</ns>
+    <id>4459</id>
+    <revision>
+      <id>2504697</id>
+      <parentid>1969018</parentid>
+      <timestamp>2013-03-23T00:00:53Z</timestamp>
+      <contributor>
+        <username>Darklama</username>
+        <id>7662</id>
+      </contributor>
+      <comment>new book uses a different category</comment>
+      <text xml:space="preserve">&lt;div style=&quot;width:95%; margin:0.5em auto;&quot;&gt;
+&lt;div style=&quot;text-align:center; font-size:16px&quot;&gt;'''Newest Books'''&lt;/div&gt;
+&lt;div class=&quot;horizontal plainlinks&quot; style=&quot;margin:0.5em 0em; padding:0.5em 1em; border:1px dotted green;&quot;&gt;&lt;dynamicpagelist&gt;
+  category=Freshly started books
+  namespace=Main
+  suppresserrors=true
+  order=ascending
+  ordermethod=categorysortkey
+&lt;/dynamicpagelist&gt;&lt;/div&gt;
+&lt;div style=&quot;text-align:right; font-size:9px;&quot;&gt;[[Help:How to contribute|start a book]] • [[Wikibooks:Requested books|suggest a book]]&lt;/div&gt;
+&lt;/div&gt;&lt;noinclude&gt;{{documentation}}&lt;/noinclude&gt;</text>
+      <sha1>2va01w3omij3071a3nggw3sz2lxjazj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>LPI Linux Certification/Use Debian Package Management</title>
+    <ns>0</ns>
+    <id>4466</id>
+    <revision>
+      <id>2021102</id>
+      <parentid>2021053</parentid>
+      <timestamp>2011-01-23T22:46:36Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>moved [[LPI Linux Certification/102.4 Use Debian Package Management]] to [[LPI Linux Certification/Use Debian Package Management]]: Numbering should go in link title only to allow reordering later without having to move pages.</comment>
+      <text xml:space="preserve">== Detailed Objective ==
+'''Weight: 3'''
+
+'''Description:''' 
+&lt;br&gt;
+Candidates should be able to perform package management using the Debian package manager. 
+
+*Key knowledge area(s):
+**Install, upgrade and uninstall Debian binary packages.
+**Find packages containing specific files or libraries which may or may not be installed.
+**Obtain package information like version, content, dependencies, package integrity and installation status (whether or not the package is installed).
+
+*The following is a partial list of the used files, terms and utilities: 
+**/etc/apt/sources.list
+**dpkg
+**dpkg-reconfigure
+**apt-get
+**apt-cache
+**aptitude
+
+
+== Package Structure ==
+In order to understand how to use Debian's package management system, it would be useful to first have an understanding of how a Debian package is named. For example, the package ncftp_3.1.3-1_i386.deb has 5 major parts:
+* ncftp - the name of the program/application/library
+* 3.1.3 - the version of the program/application/library assigned by the original (upstream) author(s)
+* 1 - the revision number of the package assigned by the person(s) who packaged the program for a Debian system
+* i386 - the architecture the packaged program is designed to run on 
+* .deb - signifies this is a Debian package
+Note that there is special significance to the use of underscores(_) and hyphens(-); an underscore shall separate the name of the program and its version, a hyphen shall separate a version number and the revision number, and an underscore shall separate the revision number and the architecture.
+
+== dpkg ==
+
+&lt;tt&gt;dpkg&lt;/tt&gt; is the &quot;grandaddy&quot; or &quot;back-end&quot; of the Debian Package Management System. Features present in the more advanced tools are not available to &lt;tt&gt;dpkg&lt;/tt&gt; but it is nevertheless a useful tool. 
+
+Some notes:
+
+*&lt;tt&gt;dpkg&lt;/tt&gt; keeps its record of available packages in /var/lib/dpkg/available.
+
+Some of the more common functions used by administrators by &lt;tt&gt;dpkg&lt;/tt&gt; are:&lt;br&gt;
+
+&lt;tt&gt;'''Adding, Removing, and Configuring Packages'''&lt;/tt&gt;
+*&lt;tt&gt;dpkg {-i|--install} &lt;package-name&gt;&lt;/tt&gt; will install the specified package
+*&lt;tt&gt;dpkg {-r|--remove} &lt;package-name&gt;&lt;/tt&gt; will remove the specified package (but leave the configuration files intact)
+*&lt;tt&gt;dpkg {-P|--purge} &lt;package-name&gt;&lt;/tt&gt; will remove the specified package and the corresponding configuration files
+*&lt;tt&gt;dpkg --root /target -i &lt;package&gt;&lt;/tt&gt; will install a package into a unbootable system by specifying the system root.
+*&lt;tt&gt;dpkg --unpack &lt;package-name&gt;&lt;/tt&gt; will unpack (but do not configure) a Debian archive into the file system of the hard disk
+*&lt;tt&gt;dpkg --configure &lt;package-name&gt;&lt;/tt&gt; will configure a package that already has been unpacked
+
+&lt;tt&gt;'''Querying Package Information'''&lt;/tt&gt;
+*&lt;tt&gt;dpkg --info &lt;package-name&gt;&lt;/tt&gt; will print out the control file (and other information) for a specified package
+*&lt;tt&gt;dpkg {-l|--list}&lt;/tt&gt; this will give you a list of installed packages.
+*&lt;tt&gt;dpkg {-a|--pending}&lt;/tt&gt; is given instead of a package name, then all packages unpacked, but marked to be removed or purged in file /var/lib/dpkg/status, are removed or purged, respectively.
+*&lt;tt&gt;dpkg -s (--status)&lt;/tt&gt; &lt;package-name&gt; will give you a description of installed package
+
+&lt;tt&gt;'''Updating Package Information'''&lt;/tt&gt;
+*&lt;tt&gt;dpkg --update-avail &lt;package-name&gt;&lt;/tt&gt; will replace old information with with new information from package.
+*&lt;tt&gt;dpkg --merge-avail &lt;package-name&gt;&lt;/tt&gt; will combine old information with new information from package.
+
+== dpkg-reconfigure ==
+&lt;tt&gt;dpkg-reconfigure&lt;/tt&gt; reconfigures packages after they have already been installed.
+
+*&lt;tt&gt;dpkg-reconfigure &lt;package-name&gt;&lt;/tt&gt; to reconfigure the initial installation settings
+*&lt;tt&gt;dpkg-reconfigure --priority=medium package [...]&lt;/tt&gt; will set the minimum priority of question that will be displayed
+*&lt;tt&gt;dpkg-reconfigure --all&lt;/tt&gt; will reconfigure all packages
+*&lt;tt&gt;dpkg-reconfigure locales&lt;/tt&gt; will generate any extra locales
+*&lt;tt&gt;dpkg-reconfigure --p=low&lt;/tt&gt; xserver-xfree86 will reconfigure X server
+
+== Dselect ==
+
+The utility that allows you on debian to easely add/remove packages is dselect.
+* Choose the access method to use.
+* Update list of available packages, if possible.
+* Request which packages you want on your system.
+* Install and upgrade wanted packages.
+* Configure any packages that are unconfigured.
+* Remove unwanted software.
+
+There is on dselect an interactive menu that will allow you to install/remove packages.
+Care must be taken with this utility.
+You can damage your system.
+
+Dselect menu example:
+ Debian `dselect' package handling frontend.
+
+ 0. [A]ccess    Choose the access method to use. 
+ 1. [U]pdate    Update list of available packages, if possible. 
+ 2. [S]elect    Request which packages you want on your system.
+ 3. [I]nstall   Install and upgrade wanted packages. 
+ 4. [C]onfig    Configure any packages that are unconfigured. 
+ 5. [R]emove    Remove unwanted software.
+ 6. [Q]uit      Quit dselect.
+
+ $ dselect - list of access methods
+ Abbrev.        Descriptio  cdrom          Install from a CD-ROM.
+ * multi_cd       Install from a CD-ROM set.
+ nfs            Install from an NFS server (not yet mounted).
+ multi_nfs      Install from an NFS server (using the CD-ROM set) (not yet mounted).
+ harddisk       Install from a hard disk partition (not yet mounted).
+ mounted        Install from a filesystem which is already mounted.
+ multi_mount    Install from a mounted partition with changing contents.
+ floppy         Install from a pile of floppy disks.
+ apt            APT Acquisition [file,http,ftp]
+
+== apt-get ==
+If you know the name of a package you want to install, use apt-get. You must configure the sources.list file. This same file is used when you choose the apt access method of dselect.
+The location is &lt;tt&gt;/etc/apt&lt;/tt&gt;.
+
+*&lt;tt&gt;apt-get install &lt;package-name&gt;&lt;/tt&gt; will search its database for the most recent version of this package and will retrieve and install it from the corresponding archive as specified in sources.list. In the event that this package depends on another APT will check the dependencies and install the needed packages.
+**&lt;tt&gt;apt-get install &amp;lt;package-name&amp;gt;=&amp;lt;version&amp;gt;&lt;/tt&gt; will install a package at the version specified
+** &lt;tt&gt;apt-get install &amp;lt;package-name&amp;gt; -o DPkg::options::=&quot;--force-overwrite&quot;&lt;/tt&gt; installs a package ignoring &quot;error processing ..., which is also in package ...&quot; errors.
+*&lt;tt&gt;apt-get remove &lt;package-name&gt;&lt;/tt&gt; will remove the specified package but keep its configuration files.
+*&lt;tt&gt;apt-get --purge remove &lt;package-name&gt;&lt;/tt&gt; will remove the specified package and its configuration files.
+*&lt;tt&gt;apt-get -u install &amp;lt;package-name&amp;gt;&lt;/tt&gt; will upgrade and install a specific package.
+*&lt;tt&gt;apt-get -u upgrade&lt;/tt&gt; will upgrade packages within the same distribution packages except those which have been kept back because of broken dependencies or new dependencies.
+*&lt;tt&gt;apt-get -u dist-upgrade&lt;/tt&gt; will upgrade an entire Debian system at once.
+
+== apt-file ==
+
+*&lt;tt&gt;apt-file search &lt;file-name&gt;&lt;/tt&gt; will search for a package which includes the specified file.
+*&lt;tt&gt;apt-file list &lt;package-name&gt;&lt;/tt&gt; will list the contents of a package matching the pattern. This action is very close to the dpkg -S command except the package does not need to be installed or fetched.
+
+== Apt-cache ==
+
+To find the name of a package that you want to install use apt-cache. apt-cache main options are :
+
+* add - Add a package file to the source cache
+* showpkg - Show some general information for a single package
+* stats - Show some basic statistics
+* search - Search the package list for a regex pattern
+* show - Show a readable record for the package 
+* depends – Show raw dependency information for a package
+
+ user@host:~$ apt-cache search gimp
+ babygimp - An icon editor in Perl-Tk
+ blackbook - GTK+ Address Book Applet
+ cupsys-driver-gimpprint - Gimp-Print printer drivers for CUPS
+ escputil - A maintenance utility for Epson Stylus printers
+ filmgimp - A motion picture editing and retouching tool
+
+== Resources ==
+APT HOWTO&lt;br&gt;
+http://www.debian.org/doc/manuals/apt-howto/index.en.html&lt;br&gt;
+dselect Documentation for Beginners&lt;br&gt;
+http://www.debian.org/doc/manuals/dselect-beginner/&lt;br&gt;
+
+== Exercises ==
+
+* [[LPI Linux Certification/LPIC1 Exam 101/Exercises results|Exercises results]]
+
+# Install a system with Debian.
+# Get familiar with dselect and remove the tcpdump utility.
+# Install back with apt-get the package that contains the tcpdump utility.
+# Try kpackage to install ethereal
+
+&lt;noinclude&gt;{{subject|linux}}&lt;/noinclude&gt;</text>
+      <sha1>d4gfpqv8x6ht2imnl6r3mqqefd00cm0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Trigonometry/Law of Sines</title>
+    <ns>0</ns>
+    <id>4474</id>
+    <revision>
+      <id>2675408</id>
+      <parentid>2675344</parentid>
+      <timestamp>2014-06-21T07:05:57Z</timestamp>
+      <contributor>
+        <username>Jianhui67</username>
+        <id>1013809</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/67.82.219.1|67.82.219.1]] ([[User talk:67.82.219.1|talk]]) to last version by Boehm</comment>
+      <text xml:space="preserve">{{warning|Ooops.  I should probably lose alpha beta and gamma from these diagrams}}
+
+[[Image:Law-of-sines1.svg]]
+
+For any triangle with vertices A, B, and C, corresponding angles A, B, and C, and corresponding opposite side lengths ''a'', ''b'', and ''c'', the Law of Sines states that
+
+:&lt;math&gt;{a \over \sin A} = {b \over \sin B} = {c \over \sin C}.&lt;/math&gt;
+
+
+Each of these expressions is also equal to the diameter of the triangle's [[Trigonometry/Circles and Triangles/The Circumcircle|circumcircle]] (the circle that passes through the points A, B, and C). The law can also be written in terms of the reciprocals:
+
+:&lt;math&gt;{\sin A \over a} = {\sin B \over b} = {\sin C \over c}.&lt;/math&gt;
+
+==Proof==
+
+[[Image:Law-of-sines2.svg]]
+
+Dropping a perpendicular ''OC'' from vertex C to intersect AB (or AB extended) at O splits this triangle into two right-angled triangles AOC and BOC.
+We can calculate  the length ''h'' of the altitude OC in two different ways:
+
+*Using the triangle AOC gives
+:&lt;math&gt;\displaystyle h=b \sin A ;&lt;/math&gt;
+*and using the triangle BOC gives
+:&lt;math&gt;\displaystyle h=a \sin B .&lt;/math&gt;
+*Eliminate h from these two equations:
+:&lt;math&gt;\displaystyle a \sin B =b \sin A .&lt;/math&gt;
+*Rearrange to obtain
+:&lt;math&gt;\displaystyle {a \over \sin A} = {b \over \sin B}.&lt;/math&gt;
+
+By using the other two perpendiculars the full law of sines can be proved. '''QED.'''
+
+== Application ==
+This formula can be used to find the other two sides of a triangle when one side and the three angles are known.  (If two angles are known, the third is easily found since the sum of the angles is 180º.)  See [[Trigonometry/Solving Triangles Given ASA|Solving Triangles Given ASA]].  It can also be used to find an angle when two sides and the angle opposite one side are known.
+
+== Area of a triangle ==
+The area of a triangle may be found in various ways.  If all three sides are known, use Heron's theorem.
+
+If two sides and the included angle are known, consider the second diagram above.  Let the sides ''b'' and ''c'', and the angle between them &amp;alpha; be known.  From triangle ACO, the altitude ''h'' = CO is ''b''sin(&amp;alpha;) so the area is {{frac|1|2}}''cb''sin(&amp;alpha;).
+
+If two angles and the included side are known, again consider the second diagram above.  Let the side ''c'' and the angles &amp;alpha; and &amp;gamma; be known.  Let AO =''x''.  Then
+
+:&lt;math&gt;\displaystyle \frac{x}{h} = \cot(\alpha) \text {; } \frac{c-x}{h} = \cot(\gamma) \text {; adding these, } \frac{c}{h} = \cot(\alpha) + \cot(\gamma)&lt;/math&gt;
+
+Thus
+
+:&lt;math&gt;\displaystyle h = \frac{c}{\cot(\alpha) + \cot(\gamma)} \text { so  area } = \frac{c^2}{2(\cot(\alpha) + \cot(\gamma))}&lt;/math&gt;.
+
+{{Trig/NAV
+|next=Law of Cosines
+|previous=The Unit Circle
+}}
+{{BookCat}}
+
+[[Category:Trigonometry]]
+
+[[pt:Matemática elementar/Trigonometria/Lei dos senos e dos cossenos]]</text>
+      <sha1>r414wgsvgf42d0j9o25dr8vlnzikx31</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Trigonometry/Law of Cosines</title>
+    <ns>0</ns>
+    <id>4475</id>
+    <revision>
+      <id>2482293</id>
+      <parentid>2012075</parentid>
+      <timestamp>2013-01-28T01:51:03Z</timestamp>
+      <contributor>
+        <username>Julien Dethurens</username>
+        <id>761138</id>
+      </contributor>
+      <comment>Added missing notes section.</comment>
+      <text xml:space="preserve">==Law of Cosines==
+
+[[Image:Law-of-cosines1.svg]]
+
+The Pythagorean theorem is a special case of the more general theorem relating the lengths of sides in any triangle, the law of cosines:&lt;ref name=Leff1&gt;
+
+{{cite book |title=''cited work'' |author=Lawrence S. Leff |url=http://books.google.com/?id=y_7yrqrHTb4C&amp;pg=PA326 |page=326 |isbn=0764128922 |publisher=Barron's Educational Series |date=2005-05-01}}
+
+&lt;/ref&gt;
+:: &lt;math&gt;a^2+b^2-2ab\cos{\theta}=c^2, \,&lt;/math&gt;
+where θ is the angle between sides ''a'' and ''b''.
+
+===Does the formula make sense?===
+
+This formula had better agree with the Pythagorean Theorem when &lt;math&gt;\displaystyle \theta=90^\circ&lt;/math&gt;.  
+
+So try it... 
+
+When &lt;math&gt;\displaystyle \theta=90^\circ&lt;/math&gt;, &lt;math&gt;\displaystyle \cos\theta=\cos 90^\circ=0&lt;/math&gt;
+
+The &lt;math&gt;\displaystyle -2ab\cos\theta=0&lt;/math&gt; and the formula reduces to the usual Pythagorean theorem.
+
+==Permutations==
+
+
+For any triangle with angles A, B, and C and corresponding opposite side lengths ''a'', ''b'', and ''c'', the Law of Cosines states that
+
+:&lt;math&gt;a^2=b^2 + c^2 - 2bc \cdot\cos A,&lt;/math&gt;
+
+:&lt;math&gt;b^2=a^2 + c^2 - 2ac \cdot\cos B,&lt;/math&gt;
+
+:&lt;math&gt;c^2=a^2 + b^2 - 2ab \cdot\cos C.&lt;/math&gt;
+
+===Proof===
+
+[[Image:Law-of-cosines2.svg]]
+
+Dropping a perpendicular OC from vertex C to intersect AB (or AB extended) at O splits this triangle into two right-angled triangles AOC and BOC, with altitude ''h'' from side c. 
+
+First we will find the lengths of the other two sides of triangle AOC in terms of known quantities, using triangle BOC.
+
+:''h''=''a'' sin ''B''
+Side c is split into two segments, with total length ''c''.
+:OB has length ''a'' cos ''B''
+:AO has length ''c'' - ''a'' cos ''B''
+
+Now we can use the Pythagorean Theorem to find ''b'', since ''b''&lt;sup&gt;2&lt;/sup&gt; = ''AO''&lt;sup&gt;2&lt;/sup&gt; + ''h''&lt;sup&gt;2&lt;/sup&gt;.
+:&lt;math&gt;\begin{matrix}b^2 &amp; = &amp; (c-a\cos B)^2+a^2\sin^2 B \\
+\ &amp;=&amp; c^2-2ac\cos B +a^2\cos^2 B+a^2\sin^2 B\\
+\ &amp;=&amp; a^2+c^2-2ac\cos B\end{matrix}&lt;/math&gt;
+
+The corresponding expressions for ''a'' and ''c'' can be proved similarly.
+
+The formula can be rearranged:
+
+&lt;math&gt;cos(C) = \frac{a^2+b^2-c^2}{2ab}&lt;/math&gt;
+
+and similarly for cos(A) and cos(B).
+
+== Applications ==
+This formula can be used to find the third side of a triangle if the other two sides and the angle between them are known.  The rearranged formula can be used to find the angles of a triangle if all three sides are known.  See [[Trigonometry/Solving Triangles Given SAS|Solving Triangles Given SAS]].
+
+== Notes ==
+
+&lt;references/&gt;
+
+{{Trig/NAV
+|next=Solving Triangles Given ASA
+|previous=Law of Sines
+}}
+{{BookCat}}
+[[Category:Trigonometry]]</text>
+      <sha1>5wmujbv527pwltx8495su3ihpelwzvo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Chinese (Mandarin)/Lesson 7</title>
+    <ns>1</ns>
+    <id>4476</id>
+    <revision>
+      <id>1926207</id>
+      <parentid>1533470</parentid>
+      <timestamp>2010-09-02T17:33:21Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>Adding {{WikiProject Languages}}</comment>
+      <text xml:space="preserve">{{WikiProject Languages}} 
+
+''England is translated as 英国 or &quot;country of the brave&quot;''? I don't know that! i think it's transliterated from '''England ['ing-]'''. it may be an abbreviation for 英格兰 or 英吉利 or something. --[[User:Yacht|Yacht]] ([[User talk:Yacht|talk]])[[Queer|Q]] 02:28, 11 Feb 2004 (UTC)
+
+:Well, I suppose the transliteration serves both the phonetic and semantic purposes, but you bring up a good point. --[[User:Taoster|Taoster]]
+
+== Vocabulary list and pinyin ==
+
+1. The vocabulary list looks different to lesson 1 and 2, they should the same, i would change it, but we should choose one or the other a standard, please some suggestions.
+My suggestion would be the style of lesson 1 and 2.
+
+2. Pinyin, sometime with numbers for the tones, sometimes with tone marks, i think the tone marks are better. Suggestions are welcome here as well.</text>
+      <sha1>9najcty7w8yc4nkswrd19u1oh6977ou</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

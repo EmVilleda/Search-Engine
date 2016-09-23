@@ -1,0 +1,2232 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>User:Jimregan/C Primer chapter 6</title>
+    <ns>2</ns>
+    <id>115</id>
+    <revision>
+      <id>152306</id>
+      <timestamp>2003-07-18T01:28:34Z</timestamp>
+      <contributor>
+        <username>Jimregan</username>
+        <id>20</id>
+      </contributor>
+      <comment>v1 wikified</comment>
+      <text xml:space="preserve">== Programming In C++: Classes ==
+
+The central core concept of C++ is the class, and this chapter describes its essential features in an introductory fashion. The ramifications of classes are highly complicated, and this chapter does not, could not, explain them in detail. It simply provides a basis for further study.
+
+=== C++ Classes ===
+
+In C, you define variables of various types and create functions to manipulate them. In C++, you define variables and functions and bind them together as a new data type, or &quot;class&quot;.
+
+We've already seen how in C++ structures can encapsulate both data and functions. A C++ class is an extension of the definition of C++ structures that adds several important features.
+
+To start off the discussion, let's define a class to define cubes. This example has a few new features which will be explained in following text:
+
+   // clscube.cpp
+
+   #include &lt;iostream.h&gt;
+
+   class Cube                         // Cube class.
+   {
+     private:
+       int height, width, depth;      // Private data members.
+     public:
+       Cube( int, int, int );         // Constructor function prototype.
+       ~Cube();                       // Destructor function prototype.
+       int volume();                  // Member function prototype.
+   };
+
+   Cube::Cube( int h, int w, int d )  // Constructor function definition.
+   {
+     height = h;
+     width = w;
+     depth = d;
+   };
+
+   Cube::~Cube()                      // Destructor function definition.
+   {
+     // Does nothing.
+   };
+
+   int Cube::volume()                 // A member function (computes volume).
+   {
+     return height * width * depth;
+   };
+
+
+   void main()                        // This program demonstrates the class.
+   {
+     Cube somecube( 3, 3, 3 );        // Allocate a cube.
+     cout &lt;&lt; somecube.volume() &lt;&lt; '\n';
+   }
+
+This example has a few interesting new features. The most important feature is that the class definition is divided into two sections: a &quot;public&quot; section (which, in this case, contains the class's function definitions) and a remaining &quot;private&quot; section (containing variables in this case) which is hidden from view from outside the class.
+
+You could define either functions or variables as either &quot;public&quot; or &quot;private&quot;, but in practice the idea is to hide the variables and only allow access to them through functions, so the division in this example is typical and is the recommended usage.
+
+This is one of the essentials of the class concept: to hide data details from the program, allowing it to manipulate data elements through member functions without any knowledge of the actual data structure. This allows a considerable degree of data independence.
+
+The default is &quot;private&quot;. If you don't specify if class element is &quot;public&quot; or &quot;private&quot;, it is automatically defined as &quot;private&quot;.
+
+You can also use &quot;public&quot; and &quot;private&quot; in structure definitions, but once you do so, you might as well declare a class and be done with it. There are some other keywords related to &quot;public&quot; and &quot;private&quot;, but we'll put off discussion of them to later.
+
+Note the definition of the function &quot;Cube()&quot;:
+
+   Cube::Cube( int h, int w, int d )
+
+This is a special member function, called a &quot;constructor&quot;, that is used to initialize an instance of a class when it is created. The declaration of an instance of a class automatically and transparently invokes the constructor.
+
+In this example, an instance of the class is declared and allocated as follows:
+
+   Cube somecube( 3, 3, 3 );
+
+This declaration invokes the constructor function to initialize the instance.
+
+You can also specify default values if desired in the constructor definition:
+
+   Cube::Cube( int h = 1, int w = 1, int d = 1 )
+
+In this case, if you define an instance of the class without parameters:
+
+   Cube defcube;
+
+-- then its three private variables will all default to a value of 1.
+
+A constructor function doesn't return a value and so it is not declared as a type, not even of type &quot;void&quot;.
+
+There is another curious definition here, for the function &quot;~Cube()&quot;. This is a &quot;destructor&quot; function, and it is automatically and transparently called when the program exits the context in which the class instance was created.
+
+In this case, the destructor doesn't really do anything, it's just there to illustrate the thing exists. A destructor is useful when the constructor allocates memory that must be returned to the free pool after the class has outlived its usefulness. A destructor is also automatically and transparently invoked when the program context in which the class is defined is exited.
+
+Neither constructors nor destructors are required for class definitions.
+
+* Member functions, which actually do the work the class was defined to do, are declared as they are in C++ structures:
+
+   int Cube::volume()
+
+The member function, as with C++ structures, of course has direct access to the structure's variables and so they don't need to be specified as parameters.
+
+The class can contain functions defined either as conventional functions or as inline functions, discussed in the previous chapter. C++ notation allows the inline functions to be incorporated directly into the class definition.
+
+For example, the class definition in the example above could be made much more compact by eliminating the unneeded destructor function and writing the remaining constructor and member function in inline form:
+
+   class Cube
+   {
+       int height, width, depth;   // Implied &quot;private&quot; variables.
+     public:
+       Cube( int h, int w, int d );
+         { height = h; width = w; depth = d; }
+       int volume();
+         { return height * width * depth; }
+   };
+
+This gives the complete class definition. Notice that the inline functions are coded on a single line, which is a common convention that emphasizes their nature as inline functions. It is a good rule of thumb that if an inline function can't be coded on a single line, it shouldn't be an inline function.
+
+It is also possible to have overloaded constructor functions that perform different actions when given different parameters:
+
+   class Cube
+   {
+       int height, width, depth;
+     public:
+       Cube();                                  
+       Cube( int h, int w, int d );
+         { height = h; width = w; depth = d; }
+       int volume();
+         { return height * width * depth; }
+   };
+
+In this class definition, there are two constructor functions, one which has no parameters and doesn't initialize the private variables, and one that had parameters and does.
+
+As a class is a C++ data type, it can imply the use of type conversions. If you assign an &quot;int&quot; value to a &quot;float&quot; variable, C or C++ will automatically perform the appropriate conversion. Of course, this requires a certain amount of smarts on the part of the compiler to recognize the need for the conversion, since the number formats are very different and the bits from the &quot;int&quot; variable need to be rearranged.
+
+Since the C++ compiler doesn't have any more knowledge of a class than you define for it, it can't automatically perform type conversions, so you have to provide functions yourself for your class to do the job. This is a somewhat advanced topic and a detailed discussion of it is beyond the scope of this document, but the following example demonstrates:
+
+   // julie.cpp
+
+   #include &lt;iostream.h&gt;
+
+   class Julian   // Julian (date by number of day in year) date class.
+   {
+       int day, year;
+     public:
+       Julian() {}
+       Julian( int d, int y ) { day = d; year = y; }
+       void display() { cout &lt;&lt; year &lt;&lt; '-' &lt;&lt; day &lt;&lt; &quot;\n&quot;; }
+       int&amp; getday() { return day; }
+   };
+
+   class Date     // Month-day-year class.
+   {
+       int month, day, year;
+     public:
+       Date( int m, int d, int y ) { month = m; day = d; year = y; }
+       operator Julian();  // Conversion function.
+   };
+
+   class Tester   // A class that is initialized to a Julian date.
+   {
+       Julian jd;
+     public:
+       Tester( Julian j ) { jd = j; }
+       void display() { jd.display(); }
+   };
+
+   static int ndays[] = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
+
+   Date::operator Julian()   // Julian &lt;- Date conversion member function.
+   {
+     Julian jd( 0, year );
+     for( int i = 0; i &lt; ( month - 1 ); i++ )
+     {
+       jd.getday() += ndays[i];
+     };
+     jd.getday() += day;
+     return jd;
+   };
+
+   void dispdate( Julian jd )   // A function that expects a Julian date.
+   {
+     jd.display();
+   };
+
+   void main()   // Illustrate the different ways to perform the conversion.
+   {
+     Date dt( 03, 25, 95 );
+     Julian jd;
+     jd = dt;                // Convert Date to Julian by assigment.
+     cout &lt;&lt; &quot;assignment: &quot;;
+     jd.display();
+     jd = (Julian) dt;       // Convert Date to Julian by cast.
+     cout &lt;&lt; &quot;cast: &quot;;
+     jd.display();
+     jd = Julian( dt );      // Convert by calling conversion function.
+     cout &lt;&lt; &quot;function: &quot;;
+     jd.display();
+     cout &lt;&lt; &quot;parameter: &quot;;
+     dispdate( dt );         // Convert by using as function parameter.
+     Tester ts( dt );        // Convert by initialization.
+     cout &lt;&lt; &quot;init: &quot;;
+     ts.display();
+   }
+
+This example creates an &quot;operator&quot; function associated with the &quot;Date&quot; class:
+
+   Date::operator Julian()
+
+-- that takes an instance of the &quot;Date&quot; class and converts it to the &quot;Julian&quot; class. The C++ compiler is smart enough to figure out how to use this function in the appropriate circumstances.
+
+One interesting point about this example is that it illustrates the properties of references. In accordance with the good principles of data hiding, the only access to the &quot;day&quot; member function of class &quot;Julian&quot; is through the &quot;getday()&quot; member function:
+
+   int&amp; getday() { return day; }
+
+This function returns a reference to the &quot;day&quot; member variable. This allows the function to be used on both sides of an equation, a concept quite alien to C:
+
+   jd.getday() += ndays[i];
+
+This is possible because &quot;jd.getday()&quot;, as a reference, is seen by the formula simply as the &quot;day&quot; member variable, so as far as the equation is concerned this is exactly comparable to:
+
+   jd.day += ndays[i];
+
+The example above converts from one class to another. The conversion could be from a to a simpler data type, such as a &quot;long&quot;, if desired.
+
+While date hiding is an essential component of C++'s object-oriented philosophy, like all rules sometimes it is wiser to break it, and C++ actually provides a provision for breaking it in a controlled fashion.
+
+One class can allow another class to access their private member functions by declaring the class as &quot;friend&quot;:
+
+   // cpfriend.cpp
+
+   #include &lt;iostream.h&gt;
+
+   class Date;    // &quot;Prototype&quot; for Date class definition.
+
+   class Julian   // Julian (date by number of day in year) date class.
+   {
+       int day, year;
+     public:
+       Julian() {}
+       Julian( int d, int y ) { day = d; year = y; }
+       void display() { cout &lt;&lt; '\n' &lt;&lt; year &lt;&lt; '-' &lt;&lt; day; }
+       friend Date;   // Date members have access to Julian private members.
+   };
+
+   class Date     // Month-day-year class.
+   {
+       int month, day, year;
+     public:
+       Date( int m, int d, int y ) { month = m; day = d; year = y; }
+       operator Julian();  // Conversion function.
+   };
+
+   static int ndays[] = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
+
+   Date::operator Julian()   // Julian &lt;- Date conversion member function.
+   {
+     Julian jd( 0, year );
+     for( int i = 0; i &lt; ( month - 1 ); i++ )
+     {
+       jd.day += ndays[i];   // This Date member function has access to
+     }                       // Julian private variables.
+     jd.day += day;
+     return jd;
+   }
+
+   void main()
+   {
+     Date dt( 11, 17, 89 );
+     Julian jd;
+     jd = dt;
+     jd.display();
+   }
+
+Since the &quot;Julian&quot; class definition refers to the &quot;Date&quot; class definition before it is defined in the program listing, the &quot;Date&quot; class is &quot;prototyped&quot; to keep the compiler from getting confused:
+
+   class Date;
+
+The &quot;Julian&quot; class defines &quot;Date&quot; as a &quot;friend&quot; function with:
+
+   friend Date;
+
+-- and so the &quot;Date&quot; conversion function can have access to a &quot;Julian&quot; private variable:
+
+   jd.day += ndays[i];
+
+Actually allowing an entire class access to another class is not recommended procedure, however, and it is just as easy to only allow access by one member function. In the example above, the &quot;Julian&quot; definition could be modified by adding the declaration:
+
+   friend Date::Date( Julian );
+
+You can declare an element of a class as &quot;static&quot;, in which case all instances of the class access one and the same element. For example, a static class variable is a &quot;global&quot; variable, if just for that particular class. You can also have &quot;static&quot; member functions, which are simply member functions that only access static member variables.
+
+Another related C++ concept is the &quot;this&quot; pointer, which is just a pointer to the instance of an object that a member function is executing in. This may seem a little absurd. After all, if the member function is executing in one instance of a particular object, it obviously has access to that instance's member functions:
+
+   void Date::dispmonth()
+   {
+     cout &lt;&lt; month;                      // Display the month.
+     cout &lt;&lt; this-&gt;month;                // Display the month.
+   }
+
+-- but the trick is that the member function can return the pointer to let some other function know what object it is executing in:
+
+   return *this;         // Return object pointed to by &quot;this&quot;.
+
+=== C++ Operator Overloading ===
+
+Along with the ability to overload functions, C++ provides the ability to overload operators. C itself actually has overloaded operators; &quot;+&quot;, for instance, can be used to add a variety of data types even though the addition operation is performed differently for each. C++ simply extends this concept to allow the user to define his or her own overloaded operators.
+
+The following example overloads the &quot;+&quot; operator to allow an &quot;integer&quot; to be added to an instance of the &quot;Date&quot; class, returning an instance of the &quot;Date&quot; class:
+
+   // overops.cpp
+
+   #include &lt;iostream.h&gt;
+
+   class Date     // Month-day-year class.
+   {
+       int month, day, year;
+     public:
+       Date( int m, int d, int y ) { month = m; day = d; year = y; }
+       void display() { cout &lt;&lt; month &lt;&lt; '/' &lt;&lt; day &lt;&lt; '/' &lt;&lt; year; }
+       Date operator+(int)       // Overloaded &quot;+&quot; operator.
+   };
+
+   static int ndays[] = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
+
+   Date Date::operator+(int n)         // Overloaded &quot;+&quot; operator.
+   {
+     Date dt = *this;                  // Connect to current object instance.
+     n += dt.day
+     while( n &gt; ndays[dt.month - 1]    // Add integer number to date.
+     {
+       n -= ndays[dt.month - 1];
+       {
+         if( ++dt.month == 13 )
+	 {
+	   dt.month = 1;
+	   dt.year++;
+	 }
+       }
+       dt.day = n;
+       return dt;                      // Return date object.
+     }
+
+   void main()
+   {
+     Date olddate( 5, 3, 95 );
+     Date newdate;
+     newdate = olddate + 21;           // Add integer to date.
+     newdate.display();
+   }
+
+Notice the use of the &quot;this&quot; pointer to return the object so it can be assigned to &quot;newdate&quot;. This is an extremely important use of the &quot;this&quot; pointer.
+
+Operator overloading can be performed by similar means for other binary arithmetic operations, for relational operations, increment and decrement operators, array subscripting, and so on. Be warned that operator overloading is tricky, can cause a lot of trouble, and must be done wisely. One C++ guru once noted that C++ programmers first learn to overload operators, and then they learn not to.
+
+=== C++ Class Inheritance ===
+
+One of the important features of classes is that, once you define a class, you can build, or &quot;derive&quot;, classes from it that are a superset of the original, or &quot;base&quot;, class's capabilities. This feature is known as &quot;class inheritance&quot;. This scheme allows you to define a general base class -- say, as an arbitrary silly example, a class to describe a bird -- and then derive new classes from it to define more specific types -- say, derived classes to describe hawks, owls, ducks, hummingbirds, and so on.
+
+Let's consider a base class definition for a class named &quot;Time&quot; along with a derived class named &quot;Timezone&quot;:
+
+   // derive.cpp
+
+   #include &lt;iostream.h&gt;
+
+   // *** Time class definition.  ****************************************
+
+   class Time 
+   {
+     protected:
+       int hours, minutes, seconds;
+     public:
+       Time( int hr, int min, int sec );
+       void display();
+   };
+
+   Time::Time( int hr, int min, int sec )
+   {
+     hours = hr;
+     minutes = min;
+     seconds = sec;
+   }
+
+   void Time::display()
+   {
+     cout &lt;&lt; hours &lt;&lt; ':' &lt;&lt; minutes &lt;&lt; ':' &lt;&lt; seconds;
+   } 
+
+   enum timezone { gmt, est, cst, mst, pst };
+
+   // *** TimeZone class definition.  ************************************
+
+   class TimeZone : public Time
+   {
+       timezone zone;
+     protected:
+       const char *Zone();
+     public:
+       TimeZone( int h, int min, int sec, timezone zn );
+       void display();
+   };
+
+   static const char *TZ[] = { &quot;GMT&quot;, &quot;EST&quot;, &quot;CST&quot;, &quot;MST&quot;, &quot;PST&quot; };
+
+   TimeZone::TimeZone( int hr, int min, int sec, timezone zn )
+              : Time( hr, min, sec )
+   {
+     zone = zn;
+   }
+
+   void TimeZone::display()
+   {
+     Time::display();
+     cout &lt;&lt; ' ' &lt;&lt; Zone();
+   }
+
+   const char *TimeZone::Zone()
+   {
+     return TZ[zone];
+   } 
+
+   // *** Main program. **************************************************
+
+   void main()
+   {
+     Time tm( 10, 13, 30 );
+     tm.display();
+     cout &lt;&lt; '\n';
+     TimeZone tz( 11, 14, 35, est );
+     tz.display();
+   }
+
+There are several interesting features in this program. First, the &quot;protected&quot; keyword is used in the &quot;Time&quot; class definition. This is almost the same as the &quot;private&quot; keyword, but it allows classes derived from this base class to have access to that keyword, a privilege they don't get if it is are declared &quot;private&quot;.
+
+The &quot;TimeZone&quot; class is derived from the &quot;Time&quot; class with the statement:
+
+  class TimeZone : public Time { ... }
+
+The derived class can declare the base class as &quot;private&quot;, &quot;public&quot;, or &quot;protected&quot;.
+
+Calling a constructor function for a derived class implies calling the constructor function for the base class. You have to specify the relationship of the constructor's parameters between the two classes as follows:
+
+   TimeZone::TimeZone( int hr, int min, int sec, timezone zn )
+             : Time( hr, min, sec )
+
+C++ class construction also allows a curious reversal of this relationship. A base class can have a &quot;virtual&quot; function, declared, say, as:
+
+   virtual void display();
+
+-- that, when invoked through a derived class, passes execution back to the overloaded function in the derived class.
+
+Both the base and derived class have a function named &quot;display()&quot;. This implies function overloading on the part of the derived class, meaning its version of &quot;display()&quot; will be called rather than that of the base class.
+
+It is possible of course to then derive further classes from the derived class, or derive a class from multiple classes (&quot;multiple inheritance&quot;).
+
+=== C++ Input/Output Streams ===
+
+Previous examples in this discussion have used the &quot;iostream&quot; capabilities of C++ for console I/O:
+
+   cout &lt;&lt; &quot;What's your name? &quot;;
+   cin &gt;&gt; name;
+
+The &quot;iostream&quot; capabilities are actually defined by classes that permit general-purpose I/O. These classes are derived by a (mostly hidden) base class named &quot;ios&quot;.
+
+These classes have much more functionality than has been used so for. For starters, C++ output is &quot;buffered&quot;, meaning that you can output from a program for some time before an output buffer is filled and the buffer is dumped to standard output. You can force the buffer to be dumped using the &quot;flush&quot; operator:
+
+   cout &lt;&lt; &quot;Danger, Will Robinson!\n&quot;&quot; &lt;&lt; flush;
+
+Other useful new functions allow you to set fixed or format numeric output formats (the default is scientific), the output width, and the padding character used to fill out the field:
+
+   // strsci.cpp
+
+   #include &lt;iostream.h&gt;
+
+   void main()
+   {
+     pi = 3.141;
+     cout.setf( ios::fixed, ios::scientific ); // Set fixed, clear scientific.
+     cout.width( 10 );                         // 10 character output width.
+     cout.fill(&quot;*&quot;);                           // Set &quot;*&quot; as pad character.
+     cout &lt;&lt; pi &lt;&lt; '\n';
+   }
+
+This prints:
+
+   *****3.141
+
+The &quot;iostream&quot; class also contains a number of member functions that duplicate the functionality of C console-I/O routines:
+
+   // strcons.cpp
+
+   #include &lt;iostream.h&gt;
+
+   void main()
+   {
+     char c, l[100], s[] = &quot;Banzai!&quot;;
+
+     // Output a character.
+
+     cout.put( 'X' ); 
+     cout.put( '\n' );
+
+     // Get a character.
+
+     cout &lt;&lt; &quot;Input a character, then press Enter: &quot;;
+     cin.get( c );
+     cout &lt;&lt; &quot;You input: &quot; &lt;&lt; c &lt;&lt; '\n';
+     cin.get( c );
+     
+     // Get a line of text terminated by a newline.
+
+     cout &lt;&lt; &quot;Type a line of text, then press Enter: &quot; &lt;&lt; &quot;\n\n&quot;;
+     cin.getline( l, 100 );
+     cout &lt;&lt; '\n' &lt;&lt; &quot;You entered: &quot; &lt;&lt; l &lt;&lt; &quot;\n\n&quot;;
+
+   }
+
+Finally, you can use more or less the same operations for reading and writing files. This requires use of the &quot;fstream&quot; class (which is a superset of the &quot;iostream&quot; class and so supports its functionality). For example:
+
+   // strfile.cpp
+
+   #include &lt;fstream.h&gt; 
+
+   void main()
+   {
+      int n;
+
+      ofstream outfile( &quot;data.txt&quot; );      // Open output file.
+      for( n = 1; n &lt;= 10; ++n )           // Dump text to it.
+      {
+        outfile &lt;&lt; n &lt;&lt; '\n';
+      }
+      outfile.close();                     // Close it.
+
+      ifstream infile( &quot;data.txt&quot; );       // Open it again.
+      while( 1 )                           // Read to EOF.
+      {
+        infile &gt;&gt; n;                       // Get number.
+     	if( infile.eof())
+     	{
+     	  break;
+     	}
+     	cout &lt;&lt; n &lt;&lt; '\n';                 // Output it.
+      }  
+      infile.close();
+   }
+
+The &quot;get&quot; and &quot;getline&quot; functions work as well.
+
+[http://www.vectorsite.net/tscpp6.html v2.0.7 / 6 of 7 / 01 feb 02 / greg goebel / public domain]</text>
+      <sha1>7s2gaqqf5ah6e5ibnemy0qtpiwcarx2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Jimregan/C Primer chapter 7</title>
+    <ns>2</ns>
+    <id>116</id>
+    <revision>
+      <id>152307</id>
+      <parentid>57696</parentid>
+      <timestamp>2004-10-05T08:52:10Z</timestamp>
+      <contributor>
+        <ip>194.192.219.130</ip>
+      </contributor>
+      <comment>/* C Quick Reference */</comment>
+      <text xml:space="preserve">== C Quick Reference ==
+
+This section contains a sample program to give syntax examples for fundamental C statements, followed by a list of library routines. This list is very terse and assumes that you are simply looking for reminders. If you need more details, please refer to the previous chapters.
+
+   /* sample.c:  a silly program to give syntax examples. */
+
+   #include &lt;stdio.h&gt;           /* Include header file for console I/O. */
+
+   int f1( int p );             /* Function prototypes. */
+   long f2( void );
+   long g;                      /* Global variable. */
+
+   int main( int argc, char *argv[] )
+   {
+     float f;                   /* Declare variables. */
+     int ctr;
+     extern long g;
+
+     printf( &quot;Arguments:\n\n&quot; );
+     for( ctr = 0; ctr &lt; argc; ctr++ )
+     {
+       puts( argv[ctr] );
+     }
+
+     printf( &quot;\nFunction 1:\n\n&quot; );
+     ctr = 0;
+     while( ctr &lt; 5 ) 
+     { 
+       printf( &quot;%d\n&quot;, f1( ctr++ ) ); 
+     }
+
+     printf( &quot;\nFunction 2:\n\n&quot; );
+     ctr = 0;
+     do 
+     { 
+       g = ctr++;
+       printf( &quot;%d\n&quot;, f2( ) );
+     }
+     while( ctr &lt; 5 );
+
+     exit( 0 );
+   }
+
+   int f1( int p ) 
+   { 
+     return( ( p &lt; 3 ) ? p : p * p );
+   }
+
+   long f2( void )
+   {
+     extern long g;
+     return( g * g );
+   }
+
+* Console I/O: #include &lt;stdio.h&gt;
+
+   int printf( char *s, &lt;varlist&gt; ) &gt; 0;     Print formatted string to stdout.
+   int scanf( char *s, *&lt;varlist&gt; ) != EOF:  Read formatted data from stdin.
+   int putchar( int ch ):                    Print a character to stdout.
+   int getchar() != EOF:                     Read a character from stdin.
+   int puts( char *s ):                      Print string to stdout, add \n.
+   char *gets() != NULL:                     Read line from stdin (no \n).
+
+* PC console routines: #include &lt;conio.h&gt;
+
+   int getch() != 0:          Get a character from the keyboard (no Enter).
+   int getche() != 0:         Get a character from the keyboard and echo it.
+   int kbhit() != 0:          Check to see if a key has been pressed.
+
+* Format codes:
+
+   %h:      short int (scanf() only)
+   %d:      decimal integer
+   %ld:     long decimal integer
+   %c:      character
+   %s:      string
+   %e:      exponential floating-point
+   %f:      decimal floating-point
+   %g:      use %e or %f, whichever is shorter (printf() only)
+   %u:      unsigned decimal integer
+   %o:      unsigned octal integer
+   %x:      unsigned hex integer 
+
+   %10d:    10-character field width.
+   %-10d    Left-justified field.
+   %6.3f    6-character field width, three digits of precision.
+
+   '\0NN':  character code in octal.
+   '\xNN':  character code in hex.
+   '\0':    NULL character.
+
+* File-I/O: #include &lt;stdio.h&gt;
+
+   FILE *fopen( char *f, char *mode ) != NULL;          Create or open file.
+   int fclose( FILE *f );                               Close a file.
+
+   rewind( FILE *f );                                   Rewind.
+   rename( char *old, char *new );                      Rename a file.
+   remove( char *name );                                Delete a file.
+
+   fseek( FILE *f, long offset, int origin) == 0;       Seek.
+
+   fprintf( FILE *f, char *fmt, &lt;varlist&gt; ) &gt; 0;        Formatted write.
+   fscanf( FILE *f, char *fmt, &amp;&lt;varlist&gt; ) != EOF;     Formatted read.
+   fwrite( void *b, size_t s, size_t c, FILE *f ) &gt; 0;  Unformatted write.
+   fread( void *b, size_t s, size_t c, FILE *f ) &gt; 0;   Unformatted read.
+
+   putc( int c, FILE *f );                              Write character.
+   int getc( FILE *f ) != EOF;                          Read character.
+   fputs( char *s, FILE *f );                           Write a string.
+   fgets( char *s, int max, FILE *f) != NULL;           Read a string.
+
+   sprintf( char *b, char *fmt, &lt;varlist&gt; );            Print into string.
+   sscanf( char *b, char *fmt, &amp;&lt;varlist&gt; ) &gt; 0;        Scan string.
+
+* File modes:
+
+   r:    Open for reading.
+   w:    Open and wipe (or create) for writing.
+   a:    Append -- open (or create) to write to end of file.
+   r+:   Open a file for reading and writing.
+   w+:   Open and wipe (or create) for reading and writing.
+   a+:   Open a file for reading and appending.
+
+* Offset values:
+
+   SEEK_SET:   Start of file.
+   SEEK_CUR:   Current location.
+   SEEK_END:   End of file.
+
+* Math library: #include &lt;math.h&gt;
+
+   double sin( double x ):            Sine of x (in radians).
+   double cos( double x ):            Cosine of x.
+   double tan( double x ):            Tangent of x.
+   double asin( double x ):           Inverse sine of x.
+   double acos( double x ):           Inverse cosine of x.
+   double atan( double x ):           Inverse tangent of x.
+   double sinh( double x ):           Hyperbolic sine of x.
+   double cosh( double x ):           Hyperbolic cosine of x.
+   double tanh( double x ):           Hyperbolic tangent of x.
+   double exp( double x ):            Exponential function -- e^x.
+   double log( double x ):            Natural log of x.
+   double log10( double x ):          Base 10 log of x.
+   double pow( double x, double y ):  Power function -- x^y.
+   double sqrt( double x ):           Square root of x.
+   double ceil( double x ):           Integer &gt;= x (returned as double).
+   double floor( double x ):          Integer &lt;= x (returned as double).
+   double fabs( x ):                  Absolute value of x.
+
+* Standard utility library: #include &lt;stdlib.h&gt;
+
+   double atof( char *nvalstr ) != 0;  Convert numeric string to double.
+   int atoi( char *nvalstr )    != 0;  Convert numeric string to int.
+   long atol( char *nvlastr )   != 0;  Convert numeric string to long.
+   int rand();                         Generates pseudorandom integer.
+   srand( unsigned seed );             Seed random-number generator.
+   exit( int status );                 Exits program.
+   int system( char *syscmd )   == 0;  Execute system program.
+   int abs( int n );                   Absolute value of int.
+   long labs( long n );                Absolute value of long.
+
+* Time &amp; date library: #include &lt;time.h&gt;
+
+   time_t time( time_t *timeptr );     Current time count as long int.
+   char *ctime( time_t *timeptr );     Current time &amp; date string.
+
+* String function library: #include &lt;string.h&gt;
+
+   int strlen( char *s );                          Length.
+   strcpy( char *dst, char *src );                 Copy.
+   strncpy( char *dst, char *src, size_t n );      Copy n characters max.
+   strcat( char *dst, char *s );                   Concatenate.
+   strncat( char *d, char *s, size_t n );          Concatenate n characters.
+   strcmp( char *s1, char *s2 )             == 0:  Compare.
+   strncmp( char *s1, char *s2, size_t n )  == 0;  Compare n characters.
+   stricmp( char *s1, char *s2 )            == 0;  Compare, no case.
+   strnicmp( char *s1, char *s2, size_t n ) == 0;  Compare, no case, n chars.
+   char *strchr( char *s, int ch )       != NULL;  Find first character.
+   char *strrchr( char *s, int ch )      != NULL;  Find last character.
+   char *strstr( char *dst, char *src)   != NULL;  Find string.
+   char *strlwr( char *s );                        Lowercase.
+   char *strupr( char *s );                        Uppercase.
+
+* Character class test library: #include &lt;ctype.h&gt;
+
+   int isalnum( int c )  != 0;        Alpha / digit.
+   int isalpha( int c )  != 0;        Alpha.
+   int iscntrl( int c )  != 0;        Control character.
+   int isdigit( int c )  != 0;        Decimal digit.
+   int isgraph( int c )  != 0;        Printing character (except space).
+   int islower( int c )  != 0;        Lower-case.
+   int isprint( int c )  != 0;        Printing character (including space).
+   int ispunct( int c )  != 0;        Printing character but not space/alnum.
+   int isspace( int c )  != 0;        Space, FF, LF, CR, HT, VT.
+   int isupper( int c )  != 0;        Upper-case.
+   int isxdigit( int c ) != 0;        Hex digit.
+
+   int tolower( int c );              Convert to lower case.
+   int toupper( int c );              Convert to upper case.
+
+* Dynamic memory allocation: #include &lt;malloc.h&gt;
+
+   buf = (&lt;type&gt; *)malloc( (size_t)sizeof( &lt;type&gt; ) * &lt;array size&gt;) != NULL;
+   free( &lt;type&gt; *buf );
+
+[http://www.vectorsite.net/tscpp7.html v2.0.7 / 7 of 7 / 01 feb 02 / greg goebel / public domain]</text>
+      <sha1>lam98u5gosn91zogcbs1fgswd6mdvyo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:IntMan</title>
+    <ns>2</ns>
+    <id>117</id>
+    <revision>
+      <id>152308</id>
+      <parentid>49994</parentid>
+      <timestamp>2004-08-23T18:15:36Z</timestamp>
+      <contributor>
+        <username>IntMan</username>
+        <id>24</id>
+      </contributor>
+      <minor />
+      <comment>updated personal info</comment>
+      <text xml:space="preserve">I am now a senior in high school.  I have been working on the Calculus wikibook every so often, and plan on resuming so in late August 2004.</text>
+      <sha1>gjb8qnelbevq2ec48ximg5ijajlbd2u</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Calculus/Introduction</title>
+    <ns>0</ns>
+    <id>119</id>
+    <revision>
+      <id>2504940</id>
+      <parentid>2410698</parentid>
+      <timestamp>2013-03-23T23:39:57Z</timestamp>
+      <contributor>
+        <ip>90.218.22.233</ip>
+      </contributor>
+      <text xml:space="preserve">{{Calculus/Top Nav||Contributing}}
+
+{{Wikipedia|Calculus}}
+
+== What is calculus? ==
+
+Calculus is the broad area of mathematics dealing with such topics as instantaneous rates of change, areas under curves, and sequences and series. Underlying all of these topics is the concept of a limit, which consists of analyzing the behavior of a function at points ever closer to a particular point, but without ever actually reaching that point. As a typical application of the methods of calculus, consider a moving car. It is possible to create a function describing the displacement of the car (where it is located in relation to a reference point) at any point in time as well as a function describing the velocity (speed and direction of movement) of the car at any point in time. If the car were traveling at a constant velocity, then algebra would be sufficient to determine the position of the car at any time; if the velocity is unknown but still constant, the position of the car could be used (along with the time) to find the velocity.
+
+However, the velocity of a car cannot jump from zero to 35 miles per hour at the beginning of a trip, stay constant throughout, and then jump back to zero at the end.  As the accelerator is pressed down, the velocity rises gradually, and usually not at a constant ''rate'' (i.e., the driver may push on the gas pedal harder at the beginning, in order to speed up). Describing such motion and finding velocities and distances at particular times cannot be done using methods taught in pre-calculus, whereas it is not only possible but straightforward with calculus.
+
+Calculus has two basic applications: [[Calculus/Differentiation/Contents|''differential calculus'']] and  [[Calculus/Integration/Contents|''integral calculus'']]. The simplest introduction to differential calculus involves an explicit series of numbers.  Given the series (42, 43, 3, 18, 34), the differential of this series would be (1, -40, 15, 16).  The new series is derived from the difference of successive numbers which gives rise to its name &quot;differential&quot;. Rarely, if ever, are differentials used on an explicit series of numbers as done here. Instead, they are derived from a continuous function in a manner which is described later.
+
+Integral calculus, like differential calculus, can also be introduced via series of numbers. Notice that in the previous example, the original series can almost be derived solely from its differential. Instead of taking the difference, however, integration involves taking the sum. Given the first number of the original series, 42 in this case, the rest of the original series can be derived by adding each successive number in its differential (42+1, 43-40, 3+15, 18+16). Note that knowledge of the first number in the original series is crucial in deriving the integral.  As with differentials, integration is performed on continuous functions rather than explicit series of numbers, but the concept is still the same. Integral calculus allows us to calculate the area under a curve of almost any shape; in the car example, this enables you to find the displacement of the car based on the velocity curve. This is because the area under the curve is the total distance moved, as we will soon see.
+Let's understand this section very carefully. Suppose we have to add the numbers in series which is continuously &quot;on&quot; like 23,25,24,25,34,45,46,47, and so on...at this type integral calculation is very useful instead of the typical mathematical formulas.
+
+== Why learn calculus? ==
+
+Calculus is essential for many areas of science and engineering. Both make heavy use of mathematical functions to describe and predict physical phenomena that are subject to continual change, and this requires the use of calculus. Take our car example: if you want to design cars, you need to know how to calculate forces, velocities, accelerations, and positions. All require calculus. Calculus is also necessary to study the motion of gases and particles, the interaction of forces, and the transfer of energy. It is also useful in business whenever rates are involved. For example, equations involving interest or supply and demand curves are grounded in the language of calculus.
+
+Calculus also provides important tools in understanding functions and has led to the development of new areas of mathematics including real and complex analysis, topology, and non-euclidean geometry.
+    
+Notwithstanding calculus' ''functional'' utility (pun intended), many non-scientists and non-engineers have chosen to study calculus just for the challenge of doing so. A smaller number of persons  undertake such a challenge and then discover that calculus is beautiful in and of itself.
+
+== What is involved in learning calculus? ==
+
+Learning calculus, like much of mathematics, involves two parts:
+
+* Understanding the concepts:  You must be able to explain what it means when you take a [[Wikipedia:derivative|derivative]] rather than merely apply the formulas for finding a derivative.  Otherwise, you will have no idea whether or not your solution is correct.  Drawing diagrams, for example, can help clarify abstract concepts.
+
+* Symbolic manipulation:  Like other branches of mathematics, calculus is written in symbols that represent concepts.  You will learn what these symbols mean and how to use them.  A good working knowledge of [[trigonometry]] and [[algebra]] is a must, especially in integral calculus.  Sometimes you will need to manipulate expressions into a usable form before it is possible to perform operations in calculus.
+
+== What you should know before using this text ==
+
+There are some basic skills that you need before you can use this text.  Continuing with our example of a moving car:
+
+* You will need to describe the motion of the car in symbols.  This involves understanding functions.  
+* You need to manipulate these functions. This involves algebra.  
+* You need to translate symbols into graphs and vice-versa. This involves understanding the graphing of functions.
+* It also helps (although it isn't necessarily essential) if you understand the functions used in trigonometry since these functions appear frequently in science.
+
+== Scope ==
+
+The first four chapters of this textbook cover the topics taught in a typical high school or first year college course.  The first chapter, [[../Precalculus/]], reviews those aspects of functions most essential to the mastery of calculus. The second, [[../Limits/]], introduces the concept of the limit process. It also discusses some applications of limits and proposes using limits to examine slope and area of functions. The next two chapters, [[../Differentiation/]] and [[../Integration/]], apply limits to calculate derivatives and integrals. The Fundamental Theorem of Calculus is used, as are the essential formulae for computation of derivatives and integrals without resorting to the limit process.  The third and fourth chapters include articles that apply the concepts previously learned to calculating volumes, and so on as well as other important formulae.
+
+The remainder of the central Calculus chapters cover topics taught in higher-level calculus topics: multivariable calculus, vectors, and series (Taylor, convergent, divergent).
+
+Finally, the other chapters cover the same material, using formal notation.  They introduce the material at a much faster pace, and cover many more theorems than the other two sections.  They assume knowledge of some set theory and set notation.
+
+{{Calculus/Top Nav||Contributing}}
+{{Calculus/TOC}}</text>
+      <sha1>t3zzy1k06krlljs18rcp95a8we2dk8w</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:IntMan</title>
+    <ns>3</ns>
+    <id>120</id>
+    <revision>
+      <id>152311</id>
+      <timestamp>2003-07-19T16:53:23Z</timestamp>
+      <contributor>
+        <username>Karl Wick</username>
+        <id>6</id>
+      </contributor>
+      <text xml:space="preserve">Welcome to the open content textbook project, I am very excited to have you interested in contributing. Any work you do will be the basis for the future's most used textbooks. Are you thinking about submitting the physics stuff you did ? My next pet project will be based on the physics class I just took, and I feel great about the material I have, but maybe you can do even better. Best of luck and see ya 'round, -- [[User:Karl Wick|Karl Wick]]</text>
+      <sha1>c0rqq0se35yv1cfe440vkrspinyaofz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Karl Wick</title>
+    <ns>3</ns>
+    <id>121</id>
+    <revision>
+      <id>2066720</id>
+      <parentid>2066717</parentid>
+      <timestamp>2011-03-06T09:51:56Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <comment>/* Brain Rules for Baby */</comment>
+      <text xml:space="preserve">[[User:Karl Wick/Test|Test]]
+
+==I haven't seen any special formatting features==
+I'm using windows 2000 here at work and I've not seen what you are talking about. [[User:Theresa knott|Theresa knott]] 14:23, 5 Feb 2004 (UTC)
+:It is apparently for the Wikipedia site but not on Wikibooks yet ... when will we get the updates huhmm. --~~
+
+: I just found it - in Preferences - &quot;Show edit toolbar&quot;. I think. [[User:R3m0t|r3m0t]] [[Special:Contributions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 11:34, 29 Mar 2004 (UTC)
+
+----
+
+==Redirects==
+If you want to get rid of a redirect. Click on the link that says &quot;redirected from mainpage&quot; you will find that you can see the page you were redirected from. Edit the page and wipe the redirect. [[User:Theresa knott|Theresa knott]] 17:43, 11 Feb 2004 (UTC)
+
+:Oh, yeah .. I guess I shoulda figured that one out .. --[[User:Karl Wick|Karl Wick]]
+
+
+Thanks for the tip and sorry bout fiddling with main page --[[User:Flonejek|Flonejek]] 05:35, 22 Feb 2004 (UTC)
+
+I guess you could help by extending the notes I've taken past highschool level. I'm trying to do this myself but the only areas where I have extensive knowledge are Physics,Chem,Calculus, and Applic.(I've yet too start working on Calculus and Applic). In other words if you know anyone good with humanities they could extend my economics and (soon to be) lit notes. As for others in my class helping out, well, I'm like one of 3 kids in the final year who knows the basics of html. By the way, I created the [[Wikibooks:Manual of Style|Manual of Style]] based on your physics textbook and the [[Humanities bookshelf]], and these themselves have shown me many shortcuts that wikicode has over html, so thanks a heap. I could probably get [http://cecid.sf.net Patrick] to help, but he's pretty involved in his anonymising software atm.
+
+==Automatied TOC?==
+I noticed on your page that you've stated that the Chemistry textbook has it's own automated Table of Contents, yet I can't seem to find such a TOC in the page's code.  I'd be very interested is such an automation, and would appriciate any help you can give me.  Thanks, [[User:Gentgeen|Gentgeen]] 01:05, 2 Mar 2004 (UTC)
+:Thanks.  I'm not sure if it'd work for the cookbook, as we tend to put a hierarchy header rather than a TOC header for each page, but I'll keep it in mind for when I go work on something else.
+
+==Hi==
+*Thanks for the welcome! [[User:TUF-KAT|TUF-KAT]] 07:43, 3 Mar 2004 (UTC)
+
+* I want to say &quot;thanks&quot; for your work on [[General Biology]]. 
+
+: I wonder if there is something that could be done to recruit mare people to help with Wikibooks. I doubt if anyone gets down to the last line of the Wikipedia [[en:Main Page|main page]]. Maybe the best thing to to is spend some time making more links from Wikipedia biology pages to Wikibooks. [[User:JWSchmidt|JWSurf]] 17:02, 31 Mar 2004 (UTC)
+
+== EvoWiki material ==
+You're welcome to use evowiki as a source, and you're welcome to copy any article which is written entirely by me. If the page is written by a number of different authors you'd have to get permission from each one of them, because the evowiki license states that material should be for non-commercial use, and the GFDL doesn't! --[[EvoWiki:User:Steinsky]]/[[en:User:Steinsky]] 13:46, 3 Mar 2004 (GMT)
+
+== Deleting an old version ==
+
+I'm looking at the [http://cvs.sourceforge.net/viewcvs.py/*checkout*/wikipedia/phpwiki/newcodebase/docs/schema.doc?rev=HEAD&amp;content-type=text/plain database schema] and I think this is what you need:
+
+: DELETE FROM `old` WHERE `old_id` = 13692;
+
+To check, do first:
+
+: SELECT `old_user`, `old_text` FROM `old` WHERE `old_id` = 13692;
+
+This should return a '''single''' row with the full article text in old_text. This should return no rows once the DELETE command has been executed. If it shows more than one row, ask me, I'll find out what's going on.
+
+You can run these at [[Special:asksql]]. [[User:R3m0t|r3m0t]] [[Special:Contributions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 21:44, 3 Mar 2004 (UTC)
+
+:...yes? [[User:R3m0t|r3m0t]] [[Special:Contributions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 14:44, 5 Mar 2004 (UTC)
+
+I go to [[Special:asksql]] and paste
+
+SELECT `old_user`, `old_text` FROM `old` WHERE `old_id` = 13692
+
+into the box. When I press the &quot;submit query&quot; button another page comes up that says &quot;Query successful&quot; and has the code I just typed in still in a box, then below a big box that says old_user and old_text at the top and then has several thousands of words of text there (I believe the text that is to be eliminated. So my best guess is to paste
+
+DELETE FROM `old` WHERE `old_id` = 13692
+
+either with or without the previous code still in the box, and press the submit query button. But then it gives me an error message: 
+
+&lt;&lt; A database query syntax error has occurred. This could be because of an illegal search query (see Searching Wikibooks), or it may indicate a bug in the software. The last attempted database query was: 
+
+DELETE FROM `old` WHERE `old_id` = 13692
+from within function &quot;SpecialAsksql::doSubmit&quot;. MySQL returned error &quot;1142: delete command denied to user: 'wikisql@isidore' for table 'old'&quot;. &gt;&gt;
+
+So what am I doing wrong ?
+
+--Karl
+
+You will need to ask a wikipedia developer who has the root password for MySQL to run this for you, because Wikimedia security is set too tight ;) . [[User:R3m0t|r3m0t]] [[Special:Contributions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 20:37, 5 Mar 2004 (UTC)
+
+:Oh OK ... they are pretty busy folk tho, and may not find this to be a top priority. Thanks for your help and concern tho. And sorry it took me a while to get my part sorted out. --[[User:Karl Wick|Karl Wick]]
+----
+
+Thanks for your feedback on the squares! --[[User:Boit|Boit]] 20:20, 4 Mar 2004 (UTC)
+
+=== Biology Photograph ===
+If you are looking for a cover photo for the book I put together this montage: [[:image:Biology.jpg]]. I'll go see if it fits onto your cover - [[User:Marshman|Marsh]] 01:52, 5 Mar 2004 (UTC)
+:Looks real nice to me Marshman. Thank you! Of course you realize now I am going to want you to contribute more photos for the rest of the book ... --[[User:Karl Wick|Karl Wick]]
+::No problem, really.  When I see that I have a photo that fits a topic at Wikipedia or here, I usually contribute it. - [[User:Marshman|Marsh]] 02:47, 5 Mar 2004 (UTC)
+
+==Dichotomous Key==
+No problem, I made [[Dichotomous Key]] from a redirect to a list (at least for now, eventually I suppose it will be a title page and introduction), as I think the list at [[General Biology]] will quickly be too long.  Perhaps just a link to some of the major groups that people are likely to look up (not many people try to identify annelids using a dichotomous key, for example, but they do for snakes and birds and trees and such). [[User:TUF-KAT|TUF-KAT]] 09:05, 6 Mar 2004 (UTC)
+:Thanks man! Pleasure workin with ya. --[[User:Karl Wick|Karl Wick]]
+
+== LD stuff ==
+
+Synopsis and Disclaimer moved to [[LD Introduction]] - I'm not so sure about this. The synopsis is sort of meant to give overall aims about the book, letting you decide if you want to start reading the main content. The disclaimer applies to the whole book (and may soon get unwieldy and long). [[User:R3m0t|r3m0t]] [[Special:Contributions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 21:38, 7 Mar 2004 (UTC)
+
+d'you think having that nice image I just hacked together on Wikibooks is ok? (Actually, it's only 56 kb...) [[User:R3m0t|r3m0t]] [[Special:Contributions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 22:23, 9 Mar 2004 (UTC) PS I checked it out on Vischeck, it won't look very nice to you :(
+
+: The one on the Recent Changes page of course ;) [[User:R3m0t|r3m0t]] [[Special:Contributions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 22:45, 9 Mar 2004 (UTC) PS Um, I meant (image removed for copyright status)
+
+Looks cool to me (I am not totally colorblind, just a bit red-green). -[[User:Karl Wick|Karl Wick]]
+
+Please ban 129.93.121.163 - they have made two edits in total, both vandalism to the [[Lucid dreaming]] main page. [[User:R3m0t|r3m0t]] [[Special:Contributions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 07:19, 11 Mar 2004 (UTC)
+
+== Wikipedia Meetup ==
+
+I invite anybody who likes to come to Shag's Tavern (937) 258-8353 1926 S Smithville Rd Dayton, OH at midnight on Sunday the 21st/Monday the 22nd of March. Meet in the rear, near to the jukebox. Feel free to contact me in regards to specifics.
+Cheers, User:Sam Spade / Jack
+
+http://en.wikipedia.org/wiki/Wikipedia:Meetup#USA_meet_up
+
+
+[[User:Sam Spade|Sam Spade]] 08:57, 8 Mar 2004 (UTC)
+
+== Organic Chemistry ==
+
+I've made a minor addition to the alkenes section of the organic chemistry book.  I thought I'd let you know that I plan on adding more on the reactions of alkenes and I also hope to contribute to other parts of the organic chemistry book. I'm currently studying for my A-level Chemistry and so I'll make contribuions when I can. 
+
+I'm also working on a section about Transition metals for the Inorganic Chemistry book.
+
+:Sweet, sounds great man! I started the book while in class and it was a help to me. Anything that you add will be a legacy to those who follow .. --[[User:Karl Wick|Karl Wick]]
+
+Thanks for sorting me out with a TOC I was going to ask you about that but you were one step ahead - cheers mate! [[User:JaF893|JaF893]]
+
+So did you realise when the link to the TOC was red? ;-) I'm honoured you asked me, anyway. [[User:R3m0t|r3m0t]] [[Special:Contributions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 07:21, 19 Mar 2004 (UTC)
+
+== Bureaucrat ? ==
+Are you a bureaucrat in addition to being an admin? [[User:Perl|Perl]] 02:14, 21 Mar 2004 (UTC)
+
+:Ummm ... bureaucrat? Not a word I'd like to use for myself in most contexts, as it conjures arbitrary rules and regulations, which is contrary to my freewheeling nature. I am the guy who started this site tho, and ready to assist if there is any organizational task that I can serve in. Except I am not a developer so do not have knowlege / ablility for certain tasks, such as making new admins. --[[User:Karl Wick|Karl Wick]]
+
+::Well, Karl, get ready, cause I just nominated you for honorary developer status over at meta ([[m:Developer access]]).  This would give you bureaucrat level abilities at all wikimedia projects. [[User:Gentgeen|Gentgeen]] 07:44, 25 Mar 2004 (UTC)
+
+::Wow, cool ... there is something that is actually titled, &quot;bureaucrat&quot;? If it means a greater role in planning and implementing WikiMedia projects, thank you Genteen! --[[User:Karl Wick|Karl Wick]]
+
+:::As I understand it, a &quot;bureaucrat&quot; is an admin who can create, and remove, other admins.  The &quot;Honorary developer&quot;, mostly being called &quot;stewards&quot; right now, would have this ability over ''all'' wikimedia projects.  The main use, I take it, would be to help set up new projects or languages until a ''local'' community was able to function properly. I think you'd be very good with such a responsibility, and so far, no one disagrees. [[User:Gentgeen|Gentgeen]] 21:08, 25 Mar 2004 (UTC)
+
+== Editing pages ==
+Is there any other document which describes how to use the Wiki apart from the standard how to edit a document page?
+I would like to do some stuff like equation numbering etc.
+Thanks for the welcome BTW. --- [[User:Norman Weiner|Norman Weiner]]
+
+:I found this page: [[en:Wikipedia:TeX_markup]] that details how to write up the code for equations if that helps ... To number a series of lines of text is one thing but if you are asking how to number formatted TeX'ed equations I don't know of a way .. Hope that helps sir --[[User:Karl Wick|Karl Wick]]
+
+==Have fun==
+
+Have fun on your trip, boss. [[User:Gentgeen|Gentgeen]] 16:01, 26 Mar 2004 (UTC)
+
+==Account==
+
+Please create an account on http://test.wikipedia.org -- [[User:Tim Starling|Tim Starling]] 02:51, 5 Apr 2004 (UTC)
+
+==Spanish==
+I was thinking about the differences between the main varieties of Spanish. In Argentina tú is replaced by vos, and in Spain there is a special plural tú, which is vosotros, and both persons have different verb endings.
+
+OTOH, there are other differences in the language. One of them (probably the best known) is coger (&quot;to take&quot; in Spain, &quot;to f***&quot; in Mexico). As it's used all the time in Spain it may be useful to add it to the list of verbs, but of course a warning is necessary.
+
+What do you think about this? [[User:Sabbut|Sabbut]] 21:02, 14 Apr 2004 (UTC)
+
+:The differences between Spanish in one place from another could be the subject of a chapter or appendix, such as [[Spanish/Slang]] (slang). As for the word you mention, I think that it can be used in an unoffensive context in Mexico although also as an offensive word.
+
+The man you posted the comment to was the same Daniel Canaris you emailed. You needn't of called me 'sir'. Since you seem to be well versed in grammatical concepts (you contribute to the Spanish and English page) it will be greatly appreciated if you can offer me any tips on explaining grammatical concepts and editing my pages, even if you do not know Latin. Thanks :)
+
+:Yeah, I kind of guessed that you were one in the same. I'll look over the pages to see what I can do. Thanks again for your excellent work. --[[User:Karl Wick|Karl Wick]]
+
+==Merit badges==
+No, I'm not trying to earn any merit badges.  I'm an adult leader these days, and can't earn any anymore.  I'm hoping to develop a resource for scouts or merit badge counselors to use. Nobody can actually earn a merit badge with Wikibooks, but we can provide useful information to help. [[User:TUF-KAT|TUF-KAT]] 16:42, 20 Apr 2004 (UTC)
+:It could make sense for a scout to write a book about something for his Eagle Scout project, couldn't it? That would be as helpful as many current projects, and fit a lower budget. Who will be the first? Who? - [[User:Karl Wick|Karl Wick]]
+::As I read the requirements, I don't think that would be accecptable.  An Eagle project is designed to benefit the whole community, not just the scouting community.  While I agree it would be a good project for scouts to undertake, I can't see [[en:Santa Clara County Council|my council]]'s advancement chair approving such an eagle project. [[User:Gentgeen|Gentgeen]] 00:31, 21 Apr 2004 (UTC)
+
+::A wikibook about Merit Badges would benefit only scouts, but a wikibook about [[First Aid]] or [[Underwater Basket Weaving]] could potentially benefit the whole community, so could be the subject of an Eagle project, no? BTW this is true that I am a steward now? Where was it announced? What does that mean for me? Thanks - [[User:Karl Wick|Karl Wick]]
+
+:::I didn't think about it that way.  hrmm, yes, that might work.  Especially if he can demonstrate leadership by recruiting and organizing other editors, say from his troop and district, and then developed some type of publicity plan to let people know about the book.
+
+:::About the steward election, I nominated you for that before you went to Mexico, but it was called &quot;developer access&quot; back then.  Basically, you now have the ability to make and remove sysops on all wikimedia projects.  The basic idea is that the stewards will help guide and patrol the new, smaller projects until they are large enough and established enough to govern themselves.  I don't know where the announcement was made, but the vote was at [[meta:Developer access]]. [[User:Gentgeen|Gentgeen]] 05:57, 21 Apr 2004 (UTC)
+
+::::&lt;butting in after the fact&gt;The barrier to writing a module on earning a merit badge or three is that only one writer, the eagle candidate, writes.  An eagle project has to involve the candidate leading a group of people to complete a project of service to the community.  That it only helps the Boy Scout community is of no relevance -- people do eagle projects at Boy Scout camps and other Scouting-specific locations frequently.  [[User:TUF-KAT|TUF-KAT]] 07:52, 22 Apr 2004 (UTC)
+----
+
+
+== Headline text ==
+I live in Spain. I found this website and try to collaborate, but I do not understand how can I do it. It is very strange for me. If you need a grammar... you buy it... If you need a word... you buy a dictionary...
+
+How can I help you. I would like to write in Spanish. News. Articles. 
+
+Best Regards,
+
+juani.franco@terra.es
+
+:Hola Juani, gracis por tu interés en el sitio. Es fácil aprender a usar el sitio, es como Wikipedia pero Wikibooks tiene la meta de crear libros de texto en lugar de un diccionario o enciclopedia. Hablas bien el inglés, si quieres me puedes ayudar a escribir un libro de inglés para los que hablan español .. aquí es una liga que te va a aydar a ubicarte un poco más: [[Wikibooks:Welcome, newcomers]]
+
+:Díme si te puedo ayudar en cualquier cosa, --[[User:Karl Wick|Karl Wick]] 16:17, 16 Dec 2004 (UTC)
+
+== Headline text ==
+
+==Steward Election : Congratulations!==
+Congratulations to you, Karl, on your election to the position of Steward.  You've done a fantastic job on Wikibooks (where I'm just a lurker at present, but where I hope to make a contribution later), and I'm glad to see that your valuable skills are now of benefit to the Wikimedia project as a whole.  [[User:Davidcannon|Davidcannon]] 23:51, 20 Apr 2004 (UTC) (also a Christian, by the way).\
+:Thanks Davidcannon, I did not know that I was elected but you are the bringer of good news today! - [[User:Karl Wick|Karl Wick]]
+:Congratulations! [[User:Perl|Perl]] 01:32, 21 Apr 2004 (UTC)
+
+== MediaWiki:PSG ==
+
+No problem. I actually got the table layout from the wikipedia programming languages msg. I am taking physics and doing these study guides is helping me to better understand the info. [[User:Perl|Perl]] 00:02, 21 Apr 2004 (UTC)
+
+==See above==
+Because I hate getting a &quot;You have new messages&quot; tag and having to go into the page history to find what was edited on your talk page, I am leaving a note at the first place you check that I butted back into the conversation at [[User talk:Karl Wick#Merit badges]]. [[User:TUF-KAT|TUF-KAT]] 07:52, 22 Apr 2004 (UTC)
+
+==Vocabulary Project==
+Hi there,
+I saw you contributed to the Spanish wikibook, so I thought it might be of interest to you that I have written a [http://amor.rz.hu-berlin.de/~h0444e1w/vokeng.htm program for learning vocabulary]. I think for this purpose a program is more useful than a website, although maybe one day we can make this a java project. 
+It is based on the belief that it is best to learn foreign words by learning typical sentences. The program can also be used for learning other stuff that works with the question/answer scheme, e.g. the theory for the driving licence or anatomy. Unfortunately I wrote it in qbasic, which can be downloaded [http://download.microsoft.com/download/win95upg/tool_s/1.0/W95/EN-US/olddos.exe here]. It also uses images and sound files for alternation and in order to work on the pronunciation. Let me know what you think about it. I currently have files in English, French (with sound), Spanish, and Portuguese. Catalan is in the planning. Corrections or additions are very welcome. The easiest thing to start with for improvements would be adding new vocabulary, sound files or images. A guide to the program will follow soon, although I think it is rather self-explanatory. In the long run the program should be rewritten in a better language. Afterwards it should be possible to switch languages within the program. Up to now there is a different version of the program for each language. [[User:Get-back-world-respect|Get-back-world-respect]] 23:21, 23 Apr 2004 (UTC)
+:That sounds like a great idea .. I have not been able to check it out yet b/c I use only my Mac at home and administrator-locked-down computers at the library etc. As far as I know at the moment the Wiki software is limited in its capability to do some things but with time more things should be possible. I'd work on an open source project apart from Wikibooks if it would contribute to the advancement of free language learning .. --[[User:Karl Wick|Karl Wick]] 21:43, 27 Apr 2004 (UTC)
+::Great, thank you very much for your interest. As I have already done some work on catalan here it will be easy to add to the program as well. Maybe the project could once be rewritten in Java and connected to something like wiki. I hope you will be able to try the program soon. [[User:Get-back-world-respect|Get-back-world-respect]] 23:05, 27 Apr 2004 (UTC)
+:::In the meantime, winamp and Stefan Peichl (LxPic) allowed me to include their programs in the package. Some guys from here suggested to rewrite the program in python. I do not know that language but I think this should become independent of Microsoft. [[User:Get-back-world-respect|Get-back-world-respect]] 21:28, 16 May 2004 (UTC)
+
+==Interlanguage links==
+Karl, I saw your edit summary at the cookbook.  I'm not sure, but I think the automatic interlanguage links seen at the top of wikipedia pages are a feature that have been turned off here.  I think the system needs every language to have its own domain name, like en.wikipedia.org, fr.wikipedia.org, ect.  Here, all languages are lumped together in one domain name, so it doesn't work.  More reason to push each language having its own domain, right? :) [[User:Gentgeen|Gentgeen]] 20:48, 27 Apr 2004 (UTC)
+
+==Hola Karl==
+Gracias por la bienvenida, me alegro de tener un compañero que habla español porque lo cierto es que no sé por donde empezar. Son tantas cosas sin hacer,... :) Quizá me puedes dar alguna idea. Vengo de la wikipedia en español. Es el funcionamiento interno similar? por lo que he visto en &quot;lo que wikipedia no es&quot;, más o menos lo tengo claro, pero si hay alguna otra cosa que crees que debería saber sobre la wikibook, te agradezcería me informases :)[[User:Javier Carro|Javier Carro]] 21:02, 29 Apr 2004 (UTC)
+:Wikibooks funciona basicamente igual que Wikipedia, solamente que la idea es escribir libros entonces es una forma mas organizada. Tambien el projecto esta en su infancia todavia entonces puedes exprimentar mas facilmente sin que nadie te haga problemas. Pero en terminos del funcionamento tecnico del sitio creo que es igual. --[[User:Karl Wick|Karl Wick]]
+
+Hola Karl. Propongo cambiar el nombre &quot;Wikibooks&quot; por &quot;Wikilibros&quot; en la versión española para irla hispanizando en todo lo que podamos, aunque todavía es muy dependiente de la versión inglesa. He abierto una discusión en [[Talk:Portada:Español]][[User:Javier Carro|Javier Carro]] 07:28, 30 Apr 2004 (UTC)
+
+== Hi Karl ==
+Sorry I did not get back to you right away.  I was on the mainland (using the camera!) and then did not respond to your question about selling the camera when I first got back.  Camera still works. I need to check out a couple of things before I would part with it. Any idea what yoiur would want to pay? When do you &quot;leave the country&quot;? - [[User:Marshman|Marsh]] 02:40, 24 May 2004 (UTC)
+:Marshman, I'd pay a fair market price for it, or less if you want! I'll be leaving the country soon tho, this weekend. - Karl
+
+== Re: Dustin ==
+
+Thanks for the message :). Congratulations yourself for your worthy contributions. --[[User:Dustin|Dustin]] 09:14, 29 May 2004 (UTC)
+
+
+==Steward interface has moved==
+
+Hi, following there being no objections at [[m:talk:steward]], the steward interface has been moved from Test to Meta. I have transferred all the permissions across so you can now use [[m:special:makesysop]] for making sysops on any wiki. This will be logged at [[m:Meta:Bureaucrat log]]. The old log from Test is now at [[m:Meta:Bureaucrat log/Archive1]]. [[User:Angela|Angela]] 12:50, 17 Jul 2004 (UTC)
+
+:Thanks Angela! I wondered whatever came of that. - Karl
+
+==Clearing Wikibooks growth impediments==
+Karl, Wikibooks is a marvelous undertaking.  But I am having a hard time buying into it because of the enormous disincentive to contributing I see as compared to Wikipedia.  Is there a page or forum where aims and methods of Wikibooks are discussed?  [[User:Kupord Maizzed|Kupord Maizzed]] 19:43, 10 Aug 2004 (UTC)
+:I am a little bit out of the loop at the moment, but perhaps on the Talk page for the Main page .. I am trying to remember ... Whatever impediments there are hopefully we can get them cleaned up or work past them. --[[User:Karl Wick|Karl Wick]] 21:59, 13 Aug 2004 (UTC)
+
+
+==Photoschule again==
+
+Hi, Karl, Hope you are fine. You helped me to start the german Photoschule which is copied now to the german wikibook and I will translate it at the old place. Can you help me again, for I forgot the way to edit the {Photoschule} where are the chapters listed. Where is it? Thanks [[User:Lars Hennings|lars]] 08:29, 4 Sep 2004 (UTC)
+
+==Migración de dominio==
+
+Hola Karl. Por lo que sé no es posible migrar texto de un dominio a otro. Existe la posibilidad de exportar artículos, pero la importación no está implementada. Por lo tanto, yo y otros hemos migrado los artículos &quot;a mano&quot;.
+
+Saludos
+
+--[[User:Pablo.cl|Pablo.cl]] 03:51, 8 Sep 2004 (UTC)
+&lt;p&gt;&amp;nbsp;&lt;p&gt;
+PD: Estuve viendo tus colaboraciones, y me pareció que no hay nada que deba ir a es.wikibooks.org. ¿Estabas pensando en el libro [[Spanish]]? En ese caso, lo que hay es una versión en castellano, llamada [[:es:El español como idioma extranjero]]. Por lo tanto, al menos en ese caso no hay nada que migrar.
+&lt;p&gt;
+Saludos&lt;br&gt;
+
+--[[User:Pablo.cl|Pablo.cl]] 04:05, 8 Sep 2004 (UTC)
+
+== Gospel of John ==
+
+Karl, I was wondering if you had any specific scope for the Gospel of John study guide?  Or were you just going to wait and see what happened when people of varying beliefs start posting? It could be quite interesting, probably frustrating, but hopefully something edifying will come out it. Thanks for the work, and you'll probably see me rooting around in this book. :-) [[User:Liblamb|liblamb]] 15:51, 28 Oct 2004 (UTC)
+:Hey Liblamb, my goal for the book is to start a free collaborative commentary of the whole Bible, mainly for the edification of believers but also for the evangelization of those who do not have faith in Christ. This maay be in conflict with the NPOV policy that is currently in use. Over time we will see how things work out and how to make exceptions or modifications for optimum use. Please feel free to contribute or modify anything there, I don't have any kind of advanced studies and am no expert. --[[User:Karl Wick|Karl Wick]] 18:22, 10 Nov 2004 (UTC)
+:::&lt;font color=&quot;#FF0000&quot;&gt;Hope&lt;/font&gt; you get this. Planting mustard seeds. Take a look at [[Christianity]]. This was an abandoned book when I found it. Maybe my organization of the page defies category, but John 2 is up for deletion and could be deleted due to apathy. My three (4 if you count Uncle G, I took that as don't change Chapter 2, good enough) contributors haven't signed their names, but all made a difference. The other roving ambassadors could not delete Christianity evidently, just the unique Testament component. I think it would set a bad precedent to delete one chapter of a book, any book and especially the Bible, when the numbering or name system involved would be crippled when more contributors come on board. If a decent translation does not qualify as a book, I would respect your decision. I started the same book under annotated [[The New Testament]] while awaiting the decision. I can leave Christianity the way I found it. An Anglican priest is helping me with the project at [http://religion.wikicities.com/wiki/User:Athrash Wikicities], maybe the whole thing belongs there. BTW Your home church has an outstanding website, I could only describe as MASTERful, as it should be. [[User:Athrash|&lt;nowiki&gt;&lt;/nowiki&gt;]] &amp;#45; [[User:Athrash|Athrash]] | [[User_talk:Athrash|&lt;small&gt;{Talk)&lt;/small&gt;]] 04:48, 29 Jun 2005 (UTC)
+:Sorry for the delay in getting back to you. The work there on Christianity looks great and I will put in my word of defense for you and it. I am not sure why so many people want to delete things ... Keep up the good work Athrash. --[[User:Karl Wick|Karl Wick]] 9 July 2005 16:29 (UTC)
+
+== Promoting free textbooks, how to change the world ==
+
+Dear Karl (and anyone else),
+
+This is great!  I am so happy to find Wikibooks, and to see it growing!  The down side is the way I found it:  After having a attending the &quot;home and school club&quot; (modern PTA) meeting for my son's elementary school and seeing the uphill battle of their fund-raising, I started thinking hard about how to cut costs in schools.  Something that floated to the surface rather quickly was the textbooks - textbooks are not cheap.  I very quickly thought, Open Source!  Open source textbooks, compiled online by teachers, students, whoever, is the answer.  Of course, getting these into elementary schools would be difficult (politics), but one might be able to break into community colleges and private schools...
+
+So, as with any idea, I started searching the web to see if someone was already doing it.  There's the down side of Wikibooks - it took me a little while to find on Google (searching on &quot;free textbook&quot; and &quot;free college textbooks&quot; - I ended up here following a blog link).
+
+So, here's the point of my writing:  This is a great project!  We can change the world!  Make education more affordable for everyone!  We need to promote the heck out of this!!!  But is what I'm describing part of Wikibooks' current vision?  If so, what promotion activities are underway already?  Who is the top Wikibooks Evangelist?  I want to help!  And if not, who do I have to convince?  Since printed books will be a staple of educational institutions for a long time to come (until every student has a laptop), a long term goal would be to either publish printed docs through a nonprofit, or minimally make Wikibooks available (which they sort of are already, through the copyleft license) for printing - but I think there will need to be a way to readily download whole books (as PDFs perhaps).
+
+Aerik Sylvan
+http://aerik.thesylvans.com/blog
+
+P.S.  I have just found the discussion on the main page, and believe that to also be an appropriate place for this discusion, so I am cross-posting.
+:Hi Aerik and Hi Karl. Ijust wanted to let you know that the wikimedia foundation has  just received a grant from the Beck Foundation to produce 48 page booklets for children aged 7 to 12. These booklets would be very inexpensive, as wikmedia is not interested in making a profit, so the cost is to cover the cost of printing only. Developement of these books will naturally occur at wikibooks. Anyonw who is interested in this project should come to [[http://meta.wikimedia.org/wiki/Wikijunior wikijunior]] where we are discussing a number things before to cracking on with the first topic. [[User:Theresa knott|Theresa knott]] 12:53, 29 Oct 2004 (UTC)
+
+:Hi Aerik, I appreciate your comments and enthusiasm. I am the most likely Wikibooks evangelist although I am living in Mexico right now and don't have constant access to the Internet (sorry for taking a bit to respond). Any ideas you have on how to promote the site are very welcome. I would love for the materials we develop here to be used at all levels of education, and motivate educators to dontate their materials and efforts here as well. Let me know along the way if there is anything else I can do to help you. --[[User:Karl Wick|Karl Wick]] 18:18, 10 Nov 2004 (UTC)
+
+== vandalism by  221.219.60.170 ==
+
+please ban [[User:221.219.60.170]]. a page with a listing of admins would be useful when one is on the trail of a vandal. then again being an admin would mean i could revert and make it even easier. [[User:The bellman|The bellman]] 12:05, 12 Nov 2004 (UTC)
+:oh it looks like he has stopped now, so i guess no ban is needed. [[User:The bellman|The bellman]] 12:06, 12 Nov 2004 (UTC)
+
+
+==California Standards==
+Okay, here I go:
+
+1.  I really have to say I'm not a fan of changing back the standards.  The California standard isn't very good.  The AP standard is approved by a much broader range of people.  The use of the California standard is a problem regionally also because newbies will think it's a regional project.  I don't mean to discourage contribution, but the AP standard is used elsewhere, such as in the European and U.S. history projects with success (also I changed the project out of the title for simplicity and I kind of kept the other ones as a kind of guiding hand -- see [[World History]], but honestly, I don't care if the project part is eliminated altogether).  And  furthermore, if there are so many willing contributors, where are they?  You are wasting my time by saying that these experts won't contribute under the AP World History standard (which I made the title up but it is the standard for AP World History) and anyway, ''what kind of &quot;experts&quot; don't know what AP is?  
+
+2.  There have been no edits for almost 4 months by anyone but me.  It is ridiculous to demand that I bow to the demands of people who do not put forth any contribution for so long.  I will not simply start again from scratch.  I kept most the original articles and structure anyway, just changed the standard, and the California one isn't very good.  It's an overly simplistic and western-centered one.
+
+3. I will be very surprised if we go with the California standard and  we see these &quot;expert's&quot; contributions pan out-you of all people must see that people lose focus after a while and abandon projects, like this one's former contributors.  I doubt very highly that you will see anyone doing anything substantial for free after such a reversion. (And also, anyone can just copy and paste their research paper into the project anyway).  I am avidly adding free material, and I welcome help, but what on earth is wrong with the AP standard anyway?  I don't know a soul who after even a casual glance at both would support the California (standard).  Also, since Wikibooks is so limited in its contributors anyway, we need to be accepting of other peoples ideas, and honestly the standards thing amounts to a bunch of bull anyway.  People are going to add what they want and ignore such things in the first place.  Very few of our projects have standards anyway.
+
+4.  As for the parallel namespaces idea, there seems to be little point in such a duplication of effort and I oppose it even if I have to bow to these peoples' (whoever they are, it is not clear to me) wishes.  Also, I did come back and add to this comment, so I hope we don't cause misunderstandings with each other, and I apologize for the sloppy structure.  Yours, kindly--[[User:Naryathegreat|Naryathegreat]] 03:10, 14 Dec 2004 (UTC)
+
+:Also, you'll note that I changed the standards on November 14, and actually it was a week before that, so you'll see that it took over a month for any of these &quot;contributors&quot; to notice the change anyway :(.  I hope you weigh this fact in your opinion of the merit of the statement that these people are just enthusiastically waiting to contribute.  My personal opinion is that it is a lie designed to get you on the side of reverting the standards, but I may be making a big error in judgement.--[[User:Naryathegreat|Naryathegreat]] 03:29, 14 Dec 2004 (UTC)
+
+Naryathegreat, of course I understand that you are upset. Please try to overcome your emotion and remain polite, as I am sure that we can come to a conclusion that is convenient to everyone involved. Thankfully the wiki system makes reverts and changes relatively painless ... One of the first people to offer his help to the Wikibooks project is someone who has worked in the textbook industry for almost twenty years and has started his own not-for-profit with the goal of bringing open-content textbooks to the community, beginning in his native California. He in fact aggrees with you that the AP standards are superior, but as the person who originally started the World History Project as a trial is understandably upset to feel that other people have come in and taken over the project and changed the rules that were governing it.
+
+I don't accuse you of breaking any rule, of course you put up notice of the proposed change of standards and gave time for any objectives to be brought forward, and neither he nor I objected at the time. I didn't know what he had in mind and I am living in Mexico right now with limited Internet access and am less active on the site for the moment. 
+
+What I am asking is for your understanding and help to divide the project into two distinct books, one that follows the line that this individual started, and another that follows the direction and the edits that you have contributed.
+
+For the moment I have to act as the representative for this person, who is on the verge of leaving Wikibooks/Wikipedia permanently and advising all of his many high-level contacts of the very negative experience he has had trying to get a textbook together on Wikibooks. This would be a big blow to Wikibooks and I believe to open source textbooks in general. 
+
+All he wants is a place for his team of paid, professional textbook-writing history experts to continue the stub of a book that was begun on the World History Project page time back. At the moment these people were so enraged at the abandonment of the original standard that they refuse to continue with the project. I hope to negotiate with them to convince them to continue.
+
+Narythegreat, I need your help. You have the power in your hands to help make this project and the whole site a greater success that will be used in actual classrooms, or to make things more difficult and set the whole site back. You of course are free to choose your course of action. And helping me does not mean that any of your changes have to be lost, because my plan is to make two books, one for each standard.
+
+Please let me know what you think.
+Karl
+
+Karl, I understand your position and his.  I tend to agree that it is good to have the contributions of these colleagues of his, but I also think that two seperate World History books is a wasted effort.  It is hard for me to say that we should duplicate the project and continue to work on one while another receives contributions.  I would also like to know why these colleagues of his only like the California standard, which I understand from his point of view is necessary, and it's not a complaint, but I don't understand their concerns.  Also, I don't think being the only person to work on a project for four months qualifies as &quot;taking it over&quot;.
+
+Also, is it possible for him to contact me directly?  I don't understand why he went to you first.  The only clue I had was an anonymous edit that deleted everything I had put into the project--which I propmptly reverted.  Yours, [[User:Naryathegreat|Naryathegreat]] 04:14, 17 Dec 2004 (UTC)
+
+Naryathegreat, they are all Californians and working to introduce open source textbooks in California. Thats why they want to use the Cali standards. When the book is mature we could make a derivative using other standards, but the folks who would work on it are only interested locally for the moment.
+
+Email me your email through the site and I will forward it to him and maybe he could write you.
+
+Thanks for your message! Talk to you later man,
+--[[User:Karl Wick|Karl Wick]] 22:46, 17 Dec 2004 (UTC)
+
+== Wikibooks logo ==
+
+Hi Karl,
+
+mav told me that you designed the Wikibooks logo. I really like it a lot. Would you be interested in participating in the [[m:Wikinews/Logo|Wikinews logo contest]]? Also, could you add copyright information to [[m:Logos]]? As I understand it, the copyright for Wikimedia project logos should be transferred to the Foundation.--[[w:User:Eloquence|Eloquence]]
+
+== Emergency Medicine ==
+
+Hi,
+
+Thanks kindly for your interest in the new [[Emergency Medicine|EM]] Wikibook. I'd really appreciate your involvement and help in the early phase. Particularly:
+
+1. Making the *template* as attractive and functional as possible
+
+2. Improving the way I've formatted the chapters (the chapters have to remain the same, but maybe the pages need to be moved or just the layout improved somewhat by someone who's done this before). I took all the empty chapters away and just left the section headings. Then I created a new page listing where chapters *can* go once someone has begun them.
+
+3. I need a little tutoring about how to create tables, how to create dynamic footnotes/endnotes, how to include boilerplate/template text (text which appears on the bottom of every page in the textbook) without re-pasting it in every time.
+
+:You can create links to boilerplate texts using the Template feature that is also used to create Tables of Contents. Create the page, Template:Boilerplate12, put your text there, and link to it by putting this code in your page: &lt;nowiki&gt;{{msg:Boilerplate12}}&lt;/nowiki&gt; . Wherever you put that code, the text will come up in the page. Also, every time you modify that boilerplate text, the changes will come through to all of the pages containing the link.
+
+:Dr. Lovett, I made a [[Template:EM|Emergency Medicine table of contents]] and first [[Template:EMDisclaimers|Emergency Med warnings and disclaimers boilerplate text page]] for you. 
+
+4. Medical articles with an EM perspective are very needed!
+
+Thanks,
+
+Paris.
+
+:I think it makes more sense to leave in the links to empty chapters, as this gives a clear direction to the next steps to take on the book, for other contributers.
+
+== Books all jumbled together and not distinct ==
+
+Can you fix this? Please do so, or find someone who can.
+
+I've been working on the cookbook. Every recipie has a link to &quot;Catagories&quot;.
+Oh my. I click on that, and I see...
+
+* Abugida writing systems
+* Ada 2005 feature
+* Ada programming language
+* Algebra
+* Anthropology
+* Arts
+
+That's just the letter A. While algebra may be useful for modifying a recipie, it really does not belong in a cookbook. Catagories from unrelated wiki books should not be leaking into the cookbook. I suspect that the Ada programmers have no use for Albanian recipies, but they can always just go to the cookbook if they get hungry. They don't need to be tempted by delicious Argentine recipies while trying to learn about Ada 2005.
+
+Catagories should work within the cookbook and ''only'' within the cookbook.
+
+Strange non-cookbook stuff also leaks into the &quot;recent changes&quot; page. I also get it if I use the &quot;random module&quot; link, which really should be &quot;random recipie&quot; and &quot;random ingredient&quot;.
+
+The only thing these wikis might reasonably share would be user accounts, and THAT is not working, at least between Wikipedia and the cookbook. Oh, the suffering. :-(
+
+BTW, adding &quot;Cookbook:&quot; to all the links gets old fast. Because of this, and case-sensitivity being enabled, one is required to use the &quot;|&quot; to rename all links. This greatly detracts from the ease-of-use that wikis are known for. If the cookbook were more distinct, this prefix would not be needed.
+
+I certainly do understand why things are the way they are. This does not change the simple fact that things are a great big mess.
+
+The cookbook seriously does need a domain name for itself. Then some server-side bot can go through and rip out all the &quot;Cookbook:&quot; prefixes that are hurting usability.
+
+The [[Special:Specialpages]] stuff is unusable too. For example, I look in the [[Special:Newimages|New Images gallery]] and see nothing about the cookbook. The cookbook gets drowned out by physics and biology. Everywhere I look, wiki features are unusable, with cookbook data being crowded out by unrelated stuff. Everywhere I look, there are links that take me to some generic place outside the cookbook. Even [[Main Page]] is misleading and wrong, and the reason why every cookbook recipe has to include an explicit link back to the main page of the cookbook.
+
+[[User:AlbertCahalan|AlbertCahalan]] 04:15, 1 Feb 2005 (UTC)
+
+:AlbertCalahan, I looked through the cookbook after reading your post and it looks like some great stuff going on there. I am not sure about making the [[Cookbook]] into its own domain, which would make things simpler for development. I think that if we can get enough people asking to have the subdomain feature enabled in the main Wikibooks wiki, maybe that would help the situation. Then, any pages in the cookbook linked from the main Cookbook page would just have to be /Brussels sprouts instead of Cookbook: Brussels sprouts, for example. Send an email to the textbook mailing list requesting the subdomain feature to be enabled, which I also did a couple of weeks ago. Not sure what else I can do beyond sympathize .... --[[User:Karl Wick|Karl Wick]] 15:57, 3 Feb 2005 (UTC)
+
+::That is not a subdomain. A subdomain would be cookbook.wikibooks.org or similar. It's free, and can easily be switched over to a normal domain when someone sends in the $10 or so. The problem with /Fish is that the notation is backwards. Imagine an almost-UNIX system where usr/local/bin (no leading slash) and ./my-local-stuff (explicit &quot;./&quot;) are used. Imagine an almost-C++ language where Foo refers to the outside scope and ClassName::Foo must be used for the local scope. Wiki links ought to be just the text in most cases, so that when I write fish, I merely need to put it in double square brackets. (being case-insensitive is required for this, and also to help prevent duplicate work) The problem goes beyond naming too; remember that the special pages are not filtering out all the non-cookbook stuff. [[User:AlbertCahalan|AlbertCahalan]] 16:33, 3 Feb 2005 (UTC)
+
+
+==Developers==
+Hi Karl, I have some specific concerns to share with someone with access to the actual coding behind Wikibooks- could you put me in contact with one?--[[User:Naryathegreat|Naryathegreat]] 01:46, 18 Feb 2005 (UTC)
+
+== vandal on front page ==
+
+Please do something about [[User:Gumba gumba]] quickly.
+
+He hit the main page, including templates and/or subtle changes to historical versions.
+He's fast.
+
+He also hit my user page and talk page. By the time you read this, probably your's too.
+
+BTW, consider making me an admin so I could at least do a bit more. Probably a developer
+will need to look up the IP blocks though. What a sociopath...
+
+[[User:AlbertCahalan|AlbertCahalan]] 19:35, 8 Apr 2005 (UTC)
+
+== FHSST ==
+
+Hi Karl, I have responded to your comment (at last) - see: [[User_talk:Riaan|Riaan]] Thanks. --[[User:Riaan|Riaan]] 09:04, 28 Apr 2005 (UTC)
+
+== Organic Chemistry: Drawings ==
+
+Karl,
+
+You've done amazing work laying the foundations of the Organic Chemistry Wikibook.  I am eager to contribute, but I have a few questions:
+
+1. What program were you using to create the clean, crisp molecule drawings as seen in the  [[Organic Chemistry/Haloalkanes|Haloalkanes / Alkyl Halides]] and [[Organic Chemistry/Alkanes and cycloalkanes/Cycloalkanes|Cycloalkanes]] chapters?  (some kind of chem-specific software, or just a drawing program?)
+
+I'm a huge believer in visual consistency, so I ask because I would like to use the same style in drawings I plan to add to the book.  Could you send me the templates you are using (or really anything to start with would out help a lot.)
+
+Cheers, [[User:Buxtor|Buxtor]] 18:05, 16 Jun 2005 (UTC)
+
+:Thanks for the big compliments Buxor! I used Adobe Illustrator to create the initial images. I think what I did next was to take a screen cap or export or something, where I clipped the image and exported it for the web from Adobe Photoshop. Unfortunately those files are all in another country right now. I'll be up in a month or so and could send them to you. The main thing is to play with the line width I think, I don't know if there is any free software that can do the same thing. Best of luck and let me know if there is anything else I can do! BTW I don't know that much about organic, but took a course in it a year or two ago and got inspired to start a free textbook about it on Wikipedia, which was subsequently rejected, but as a restult we founded Wikibooks, with OChem as the first book started.--[[User:Karl Wick|Karl Wick]] 01:43, 18 Jun 2005 (UTC)
+
+== Book progress images ==
+
+Hi! The team of Polish Wikibooks wants to put proper license tags in every image page. Could you put a license tag on xx% images? We need them to make our edition free of non-tagged and fair use images. Thanks in advance! [[User:Sblive|Sblive]] 14:42, 2 Jul 2005 (UTC)
+:Wait .. I think I don't understand. What are xx% images? License tags? Image pages? What exactly is this? And why is it necessary? Thanks, --[[User:Karl Wick|Karl Wick]] 4 July 2005 00:43 (UTC)
+::These images are images that shows book's progress. We need to clear out pl.Wikibooks from images that are not allowed on pl.Wikipedia, and to set proper tags for everything. [[User:Sblive|Sblive]] 8 July 2005 08:01 (UTC)
+:::I'd like a licencing too, in order to upload them on [[commons:|Commons]]. Thanks ! [[n:fr:Utilisateur:Faager|Faager]] 10:14, 13 July 2005 (UTC)
+::OK, these ([[Image:100%.png]]) are the images you are talking about, right? You need permission to use those images under a licence other than the GNU FDL? I guess I designed the image, so I give you permission to use it in any way that you please. --[[User:Karl Wick|Karl Wick]] 14:52, 13 July 2005 (UTC)
+:::Thank you ! [[n:fr:Utilisateur:Faager|Faager]] 13:35, 14 July 2005 (UTC)
+:::Ok, thank, I'd needed only information about licence for pl.Wikibooks. [[User:Sblive|Sblive]] 13:30, 16 July 2005 (UTC)
+
+== Transcendentalism Theology ==
+
+Hi Karl. I've been in Germany for some time. I intended to do some editing on  Transcendentalism Theology &amp; noticed that it had been scheduled for deletion. Can I make corrections in order to avoid this? [[User:Kurt Kawohl|Kurt]]
+:I think that some people are trying to delete all kinds of material. I think the problem might be that they want to institute the same Wikipedia policy here of the NPV, or neutral point of view. In my opinion books should be included on the site that are written from distinct points of view. However, the goal should be collaboration, or Wikibooks is just hosting. Your book is quite POV (oriented to one philosophical point of view), but given the topic, that only makes sense. However there are steps that we can take to make it more objective, such as stating &quot;transcendentalist philosphy states ...&quot;, phrasing things in terms that noone can disaggree with. BTW what are your goals with including your work here on the site, instead of just publishing or having it hosted on its own site? Thanks, --[[User:Karl Wick|Karl Wick]] 14:45, 13 July 2005 (UTC)
+
+:My goal is to help build a library of wikibooks - free and open textbooks. Thanks for the advise; I will make the changes that you suggested. The notice that it had been scheduled for deletion was placed there by one person some time ago and I see no others agreeing with it, so can this notice be removed? Thanks again for your help, Karl. [[User:Kurt Kawohl|Kurt]]
+
+== Proposal for policy overhaul ==
+
+As the founder of Wikibooks, I thought you might be interested in the fact that I've started to think about changes to existing policy and project scope so that policies are more clearly defined (as suggested by [[User:Aya]], who claims existing policies to be ambiguous) and more open (as suggested by [[User:Robert Horning]] over the biography debacle).  I've made a post on textbook-l ([http://mail.wikipedia.org/pipermail/textbook-l/2005-July/002415.html]) as a result, please reply to my talk page for feedback. [[User:KelvSYC|KelvSYC]] 05:53, 26 July 2005 (UTC)
+
+== [[The Wealthy Barber]] ==
+
+A book you created, [[The Wealthy Barber]], has been suggested for deletion.  You might want to see the discussion at [[Wikibooks:Votes for deletion#The Wealthy Barber]].  --[[User:JMRyan|JMRyan]] 10:18, 6 December 2005 (UTC)
+
+:In the VfD, you mentioned that you wanted to look over this book before it was deleted, and determine if the material there was salvagable. I am going through the VfD page, trying to clean up old business, and the vote is currently Keep:1, Delete:3, and the single keep vote says we should delete the blank stub pages accociated with this title. I just wanted to know if you had come to a conclusion on this matter before we make a decision on the title, and archive the discussion. --[[User:Whiteknight|Whiteknight]] &lt;small&gt;([[User talk:Whiteknight|talk]]) ([[Digital Signal Processing|current]])&lt;/small&gt; 19:55, 24 January 2006 (UTC)
+
+== Logo ==
+
+You say on your userpage:
+:''Designed stacked-books Wikibooks logo.''
+Is this the current logo? [[User:Perl]] has made [http://en.wikibooks.org/w/index.php?title=Wikibooks:Miscellaneous_FAQ&amp;diff=352851&amp;oldid=313756 this edit]. Who designed what? [[User:Gerrit|Gerrit]] 19:55, 2 February 2006 (UTC)
+
+I'm not sure what the other guys did to modify it, but the original Adobe Illustrator file was created by me on my old iMac, with the halo symbol and wikibooks words. I don't remember where the stacked books idea came from, maybe I took that stacked-book idea from one of the Wikipedia logos... Hope that helps...
+
+== Recent edit to [[Template:Main Page introduction]] ==
+
+The Main Page line &lt;nowiki&gt;[[Wikibooks:FAQ|FAQ]] | [[Main Page (table free)|Table-free]]&lt;/nowiki&gt; appears inside the &quot;Highlighted books&quot; box you created on [[Template:Main Page introduction]].  This appears to be unintended, but I don't know whether it's worth fixing.  On one hand it does not, at least currently, look bad.  On the other hand, the &quot;FAQ&quot; and &quot;Table-free&quot; links do not logically belong in the &quot;Highlighted books&quot; box, and it does affect the line breaks in the list of books.  At any rate, it's something to consider.  --[[User:JMRyan|JMRyan]] 23:20, 24 February 2006 (UTC)
+
+:Really? On my Windows laptop (sorry!) those page elements show up outside the highlighted area. If it does not show up right on your computer you can play with the code to make it look better! --[[User:Karl Wick|Karl Wick]] 01:29, 25 February 2006 (UTC)
+
+The new template looks good. I could not edit the template so took the liberty of creating a page: [http://en.wikibooks.org/wiki/Wikibooks:PDF_Versions PDF Versions] to keep track of these. There are two new PDFs listed. I have almost run out of books with good content to turn into PDFs and will turn back to the tricky ones, like Trigonometry, that blow all the software over as they are converted. [[User:RobinH|RobinH]] 11:09, 5 March 2006 (UTC)
+
+:Thanks RobinH! I noticed that page you made already somehow and put a link to it from the front page. Thanks for your great work, that really is helpful! PS Lets see about getting you admin capabilities, I am sort of just coming back to activity here after being off elsewhere for a while and don't remember who/how it is done ... --[[User:Karl Wick|Karl Wick]] 11:14, 5 March 2006 (UTC)
+
+== Unused files ==
+
+Can you take a look at [[Special:Unusedimages]]? There are some images and other files uplojavascript:insertTags('--[[User:Karl Wick|Karl Wick]] 23:37, 12 March 2006 (UTC)','','');
+Your signature with timestampaded by you, I don't know if I can remove them. --[[User:Derbeth|Derbeth]] [[User talk:Derbeth|&lt;sup&gt;talk&lt;/sup&gt;]] 12:36, 8 March 2006 (UTC)
+
+::Sorry for the delay, I got distracted. Philosophically, it would make more sense to me to just leave those files alone rather than to delete them. I looked through and found a couple that were good images that have been cut out of current versions of pages, and I am not sure why. One methane pic that I built a model for and everything I reincluded in [[Organic Chemistry]], another couple of public domain Civil War-era pics I dug up for the [[US History]] book I dunno why they got cut. But, I guess if there is a good reason to &quot;clean up&quot; the area and you want to, you can do so without problems from me. --[[User:Karl Wick|Karl Wick]] 23:37, 12 March 2006 (UTC)
+
+== bartending contents ==
+
+Hey karl was there a problem with the TOC code on the bartending book? your diff said &quot;show the contents again&quot;, i'm not quite sure what you meant. Does any TOC class not just auto ones get hidden when your preferences turn off TOCs? [[User:Discordance|Discordance]] 13:53, 9 March 2006 (UTC)
+
+:Ah, I shouldn't have given it the toc id. sorted it out now. [[User:Discordance|Discordance]] 14:35, 9 March 2006 (UTC)
+
+==PDF Versions page==
+Hi Karl! Please see:
+http://en.wikibooks.org/wiki/Wikibooks:Staff_lounge#The_PDF_Versions_page
+[[User:RobinH|RobinH]] 21:27, 12 March 2006 (UTC)
+
+== Status of Wikibooks and my involvement + [[Organic Chemistry]] Wikibook ==
+
+I got into a bit of a public disagreement with Jimmy Wales over the status of Wikibooks, and more importantly his involvement with the project.  I respect Jimmy and I think he has done some wonderful things in the past.  He is also a very good public face for the Wikimedia projects, and is doing some absolutely incredible PR work by traveling all over the world being a general goodwill ambassador and doing face to face meetings that are of critical importance.
+
+My big objection is that he stopped by Wikibooks and saw only a mess of things, because we were still in the middle of trying to clean up quite a few problems that had been left alone in the past.  Jimbo was thinking more with the mentality of Wikipedia where articles are deleted at the drop of a hat and essentially wanted a few books removed that didn't seem to work out too well when he was doing his PR tours.  Most notably was the Jokebook and a book about Nudism, and he was also disappointed that some publicity came up over a Neo-Nazi propaganda book that was also here on Wikibooks.  Instead of trying to see what the admins and users who got up some effort to do cleanup were actually doing, he started to demand that these books be removed and granted himself adminship here on Wikibooks to help with removing those books.
+
+My main argument was that if he wanted to start a VfD discussion on these books, he was certainly welcome, and that was an acceptable forum for that to happen.  Basically I said &quot;trust the community to get it right&quot;.  I still think that is true, and there is some strong relutance on the part of several board members to trust in the community concensus concept.  Instead Jimbo went and unilaterally deleted two of the three books, and only deleted the main &quot;front page&quot; of the book as well.  The rest of the modules for each book was still in place, just harder to get to.
+
+BTW, each of the books he complained about went to a subsequent VfD and were deleted by the community without Jimbo doing anything directly.  His attitude about the content of them certainly influenced the opinion of what was said during the VfDs and significantly tipped the balance to remove that content.  The major after effect of this is a group of people have also come on since then with a more deletionist attitude to Wikibooks, notably with a significant effort to remove the Video Game guides (that appears to have failed or at least run out of steam).
+
+Jimbo hasn't really been that active on Wikibooks lately, and the project has calmed down quite a bit in terms of mainly uncertainty over what was acceptable here and what was not.  His push toward textbooks instead of general non-fiction is an interesting approach, but I fail to see what general non-fiction non-textbooks are doing to Wikibooks that is damaging and indeed can bring in people to Wikibooks with skills that are needed even by textbook contributors.
+
+I also issued a formal apology to Jimbo that was on Foundation-l, but I also feel that I have been shut out of any further involvement with the Wikimedia Foundation.  Perhaps I've stepped on too many toes.  That's OK for now, though, and I'm trying to do my part where I can here.
+
+:First off, thank you for your complete reply to my questions.
+
+:My philosophy leans to include the video game guides and other &quot;light&quot; or non-textbook material as well, although I respect Jimmy's organizational insight as well. As long as those books have a place to be developed I guess it's fine with me either way, and there could be benefit in a sharply defined focus.
+
+:In fact, I have been thinking if it makes sense to divide Wikibooks by academic level, so that by subdomain or something all the materials will be for K-5, 6-8, 9-12, university level, adult vocational education, etc. But &quot;those wiser than me&quot; should be consulted to see if it makes sense to divide the current books by level later, after a critical mass of materials has already been developed, or do it now, before more work is done. If we were to to it right now, then a 3rd-grade teacher that wants to contribute could find a site that looked, smelled, and tasted like grade school, without the risk or confusion of age-inappropriate materials. Actually I'm thinking out loud and think I will suggest to Jimmy that he consult with Peter Drucker or someone who can give the wisest, most seasoned insight. What we should seek is what will follow tried principles, and not just what fits our own philosophies.
+
+:I remember the example of Apple Computer, which back in the day apparently snubbed video game producers and said that the Mac would be for business use only, and it later bit them when that lucrative business was given to &quot;the competition.&quot; My personal philosophy would be to do everything and not turn anyone away, or at least give people a place to do what they want to do. I was originally turned away from Wikipedia when I started writing the [[Organic Chemistry]] textbook there, because &quot;Wikipedia is not a place for textbooks&quot;, but Jimmy very graciously helped us set up Wikibooks, to write textbooks here. 
+
+:PS Sorry for the misunderstanding with Jimmy and the Wikimedia Foundation, but I would just guess that things should work out fine over time. --[[User:Karl Wick|Karl Wick]] 21:47, 14 March 2006 (UTC)
+
+==== Organic Chemistry Content ====
+
+I consider this to be basically your baby and I'm not really going to care what you do to the content so much.  I saw that what is here is quite impressive as it is, and I created the &quot;print version&quot; based on what I saw was a good start in the various modules.  If there is content that is useful from Wikipedia, go for it and bring it in.  Keep in mind that it is going to be a fork of Wikipedia, but you should have some good judgement that way.
+
+:It's not my baby or anything, and I am very grateful to those who have continued editing it. I am far from being an expert on the subject but would love for this to be a resource for other students and teachers of the subject. My fingers are in so many pots right now that there is no way for me to micro-manage anything.
+
+I did a quick import of the Organic Chemistry Wikibook into Open Office to see how it might look and to perhaps do some preparation work before I made a PDF file out of the content.  Format changes (aka web to dead tree format in this case) does present some problems, and the MediaWiki software isn't always cooperative in terms of doing that sort of conversion.
+
+Basically there is some heavy editing that needs to take place with this content.  Citing sources of information and in general making it &quot;sound&quot; consistant throughout the book.  There are at least five different writing styles, and these do sometimes clash in terms of making the content flow.  I also feel that there is some missing introductory material that might be useful in the beginning, although having as a prerequisite the [[General Chemistry]] Wikibook might be useful to point out as well.
+
+The Appendix portion is really messed up, and some of that content perhaps should be moved to the main part of the Wikibook.  [[Organic Chemistry/Acetone peroxide synthesis]] in particular needs to find a better home.  I see it was moved to Wikibooks from Wikipedia, and has quite the interesting discussion on it, due to a high profile Wikipedia entry that has this module directly linked in a prominent location.  The [[Organic Chemistry/Introduction to reactions]] group of pages is so complete that I would think it perhaps should be moved into the main-line part of the book as well.  It is practically its own Wikibook in its own right.
+
+For some of this I wish I knew more about the topic.  I'm more of an engineer type myself, and familiar with electronics and software engineering principles.  This topic is really way out of my league, other than I happen to understand some of the basic chemistry terminology.  I still know enough that I can help with the navigation links and do some general page formatting, simply to give this book another shot in the arm to help make it more inviting and professional to somebody who knows the subject matter and may want to help contribute.  I hope I've done that at least with the material that is here.  --[[User:Robert Horning|Rob Horning]] 05:19, 14 March 2006 (UTC)
+
+:Thank you for each and every edit that you make, I believe that we really are making this world a better place with our efforts. PS Is the old Jokebook content still online anywhere else? --[[User:Karl Wick|Karl Wick]] 21:47, 14 March 2006 (UTC)
+
+::Re: the old [[Jokebook]].  I just restarted the page as essentially a soft redirect to the Lollerpedia, whose link in on the page here on Wikibooks.  I hope that doesn't get too many people upset over what I wrote there.  --[[User:Robert Horning|Rob Horning]] 11:01, 19 March 2006 (UTC)
+
+== Main Page ==
+
+I know. It's just that, until it's cleaned up, it's not really suitable to be at the top of the main page.
+
+I have some ideas for improvements to the main page, but I'm still trying to get to grips with what good stuff is in wikibooks - as it is the best that should be highlighted. I will make suggestions sometime, but probably not for a while yet, [[User:Jguk|Jguk]] 21:26, 18 March 2006 (UTC)
+
+:OK --[[User:Karl Wick|Karl Wick]] 21:28, 18 March 2006 (UTC)
+
+== Images which you uploaded ==
+
+[http://tools.wikimedia.de/~daniel/WikiSense/Gallery.php?&amp;wiki=en.wikibooks.org&amp;img_user_text=Karl_Wick Your image upload gallery]
+
+I have been using [[User:Kernigh/monobook.js]] (copied from [[Commons:MediaWiki:Extra-tabs.js]]) to explore Wikibookians' image uploads. Thus I noticed that some of your older images are untagged, and do not give copyright information.
+
+For images like [[:Image:Martaplays.png]], maybe you could remember whether you drew the image yourself or obtained it from somewhere, then add a [[WB:ICT|copyright tag]]. Some of your other images say &quot;from wikipedia&quot;; someone might need to search for the image in Wikipedia or Wikimedia Commons, then check if the copyright is okay. --[[User:Kernigh|Kernigh]] 06:54, 17 April 2006 (UTC)
+
+== Graphic design wikibook ==
+
+I'm interested in helping you out on the graphic design Wikibook, to add some images and copy and get that started back up. If you're interested, please PM me on [http://en.wikipedia.org/wiki/User:LockeShocke my Wikipedia user page]. Thanks! [[User:LockeShocke|LockeShocke]] 01:35, 28 April 2006 (UTC)
+
+==Policy review==
+
+Policy is not the most exciting subject at Wikibooks but we do have some major unresolved issues.
+
+The most important issue, in my opinion, is [http://en.wikibooks.org/wiki/Wikibooks:Dispute_resolution Dispute resolution] which starts by declaring that:
+
+'''&quot;Currently there is no official organized process to resolve disputes between users&quot;'''
+
+The suggested remedy for this is: [[Wikibooks:Ad hoc administration committee]] which puts into place the absolute minimum in terms of an enforcement apparatus.
+
+The second most important is [[Wikibooks:No personal attacks]] where a vote has recommended the policy be enforced but it still languishes as &quot;proposed&quot;.
+
+The third policy that is needed and which will prevent edit disputes from getting out of hand is [[Wikibooks:Editing disputes policy]].
+
+Other policies that need consideration are at: [http://en.wikibooks.org/wiki/Wikibooks:Policies_and_guidelines Policies and guidelines].
+
+Please spare a minute or two to peruse these issues and add a comment and/or a vote. [[User:RobinH|RobinH]] 12:45, 28 April 2006 (UTC)
+
+:Thank you for your offer of help. [[Wikibooks:No personal attacks]] is experiencing the greatest problems at the moment. Although the vote is overwhelmingly in favour of enforcement the discussion makes it appear as if those who oppose are in the majority.
+
+:[[Wikibooks:General voting rules]], proposed by Derbeth, also needs comment/support. It is the lack of any voting policy that has allowed so many proposed policies to be blocked. The losers in any vote can just claim that 100% consensus is required for a policy to be implemented!
+
+:[[Wikibooks:Editing disputes policy]] simply needs more votes. [[User:RobinH|RobinH]] 09:35, 22 May 2006 (UTC)
+
+== [[Gramma's Grammar]] ==
+
+I recently found this orphaned book tha you wrote. What would you like to do with it? Perhaps add it to Wikijunior? --[[User:Hagindaz|hagindaz]] 14:13, 1 June 2006 (UTC)
+
+==Logo==
+Hello, I found in the history you created the wikibooks-logo with this number of books. Now some fool on commons has deleted the file, we can only find small thumbs. Do you have the original somewhere? Or better, a vector-version? That would be great. Or could you maybe provide us information who might have those? Please give a reaction on my commons-talkpage, http://commons.wikimedia.org/wiki/user:effeietsanders . Thanks a lot. [[User:Effeietsanders|Effeietsanders]] 22:49, 1 June 2006 (UTC)
+
+==[[Wikibooks:Editing disputes policy]]==
+
+This policy needs a few more people to take a look at it and vote. Any help would be most useful. [[User:RobinH|RobinH]] 14:25, 5 June 2006 (UTC)
+
+== [[Wikibooks:General voting rules/Proposal]] ==
+
+I want to call the attention of all wikibookians, especially active admins to the discussion about the new voting policy. Wikibooks currently does not have a concrete voting policy in effect, so the adaptation of this policy will potentially create immediate differences in the way business is conducted here. Due to large amounts of discussion, changes, and dissention, there are several versions of this policy being considered:
+
+*[[Wikibooks:General voting rules/Proposal/Version 1|Version 1]] Written by [[User:Whiteknight]]
+*[[Wikibooks:General voting rules/Proposal/Version 2|Version 2]] Written by [[User:Jguk]]
+*[[Wikibooks:General voting rules/Proposal/Version 3|Version 3]] [[User:RobinH]]'s revision of Jguk's version
+*[[Wikibooks:General voting rules/Proposal/Version 4|Version 4]] Written by [[User:Kellen]]
+*[[Wikibooks:General voting rules/Proposal/Version 5|Version 5]] Whiteknight's Revision of Kellen's Version.
+
+Also, there are additional issues being discussed, such as the inclusion of a &quot;minimum contributions&quot; clause, that will limit users with less then 20 votes from editing. Also, there is a proposed clause that would allow this 20 vote minimum to be raised in response to abuse.
+
+I am sending this same message to all currently active admins. I hope you are able to come in and give your opinions on this matter. --[[User:Whiteknight|Whiteknight]] &lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 20:47, 11 August 2006 (UTC)
+
+== Inspiring Organic Chemistry book ==
+
+Karl,
+
+I just wanted to let you know that your book served as an excellent model to me as I undertook starting a [[Human Physiology]] textbook as a class project. It has been an exciting process as our book has come together nicely during the past 7 weeks. Thanks for your work, and for your vision of what a Wikibook can be. [[User:Provophys|Provophys]] 22:54, 29 August 2006 (UTC)
+
+== Images with unknown license ==
+
+We've recently adopted a bot that can track down images that aren't properly licensed, and a large number of images that you have uploaded are not properly licensed. You haven't specified a valid email address, so I am leaving you a message here about it. Also, I asked Jimbo if he knew how to get in touch with you, but there has been no reply from him yet. I would hate to see all the images that you have uploaded get deleted, especially if they don't need to be. Please get in contact with me, or post a message on the staff lounge about these images, so that we don't lose all your hard work in that department. --[[User:Whiteknight|Whiteknight]] &lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 14:21, 5 September 2006 (UTC)
+==Image copyright problem with [[:Image:S-orbital.png]]==
+ 
+Thanks for uploading [[:Image:S-orbital.png]]. However, the image may soon be deleted unless we can determine the copyright holder and copyright status. The [[w:Wikimedia Foundation|Wikimedia Foundation]] is very careful about the images included in Wikibooks because of [[w:Copyright|copyright law]] (see Wikibooks' [[Wikibooks:Copyright|Copyright policy]]).
+
+The copyright holder is usually the creator, the creator's employer, or the last person who was transferred ownership rights. Copyright information on images is signified using copyright templates. The three basic license types on Wikibooks are [[w:open content|open content]], [[w:public domain|public domain]], and [[w:fair use|fair use]]. Find the appropriate template in [[Wikibooks:Image copyright tags]] and place it on the image page like this: &lt;code&gt;{&amp;#123;TemplateName}}&lt;/code&gt;.
+
+Please signify the copyright information on any other images you have uploaded or will upload. Remember that images without this important information or giving false information can be deleted by an administrator. If you have any questions, feel free to contact me, or ask them at the [[Wikibooks:Study help desk|Study help desk]]. Thank you. [[User:Jusjih|Jusjih]] 08:19, 12 January 2007 (UTC)
+
+==OGG VS MP3==
+I was reading your discussion regarding the differences between the two formats. While both are fairly popular, there is one main difference.  OGG is a free open source format, while MP3 is licsenced, so in this case, OGG would be the better choice for a wiki project.
+
+[[User:Bearingbreaker92|Bearingbreaker92]] 03:33, 8 April 2007 (UTC)
+
+== Your De-Adminship ==
+
+Hello. I would like to inform you that you will have your sysop rights removed here on 3 Aug 2007 due to inactivity. If you would like to discuss the matter, please see [[WB:RFA]]. You can re-apply for adminship at a later date if you wish. Thanks. -[[User:Withinfocus|&lt;font color=&quot;#000000&quot;&gt;'''within'''&lt;/font&gt;]][[User talk:Withinfocus|&lt;font color=&quot;#7A7A7A&quot;&gt;'''focus'''&lt;/font&gt;]] 12:05, 27 July 2007 (UTC)
+
+==Image copyright problem with [[:Image:Ochemicon.png]]==
+ 
+Thanks for uploading [[:Image:Ochemicon.png]]. The [[w:Wikimedia Foundation|Wikimedia Foundation]] is very careful about the images included in Wikibooks because of [[w:United States copyright law|copyright law]], and requires that we maintain a strict [[Wikibooks:Copyright|copyright policy]]. The image that may soon be deleted unless we can determine the copyright holder and status. 
+
+The copyright holder is usually the creator, the creator's employer, or the last person who was transferred ownership rights. Copyright information on images is signified using copyright templates. The three basic license types on Wikibooks are [[w:open content|open content]], [[w:public domain|public domain]], and [[w:fair use|fair use]]. Find the appropriate template in [[Wikibooks:Image copyright tags]] and place it on the image page like this: &lt;code&gt;{&amp;#123;TemplateName}}&lt;/code&gt;.
+
+Please signify the copyright information on any other images you have uploaded or will upload. Remember that images without this important information or giving false information can be deleted by an administrator. If you have any questions, feel free to contact me, or ask another Wikibookian at the [[Wikibooks:Study help desk|help desk]]. Thank you. ''' &amp;ndash; [[User:Mike.lifeguard|&lt;font color=&quot;Indigo&quot;&gt;Mike.lifeguard&lt;/font&gt;]]''' | &lt;sup&gt;[[User talk:Mike.lifeguard|&lt;font color=&quot;Indigo&quot;&gt;talk&lt;/font&gt;]]&lt;/sup&gt; 01:19, 31 August 2007 (UTC)
+
+==Spanish wikibook==
+
+Check out my new vocabulary page at [[Spanish/Vocabulary/People]]. What do you think of structuring the vocabulary pages this way? [[User:Cilantrohead|Cilantrohead]] ([[User talk:Cilantrohead|talk]]) 00:40, 2 March 2008 (UTC)
+
+== Physics with transforms ==
+
+==[[:Physics with transforms]]==
+{{mbox|type=warning|msg=
+'''[[:Physics with transforms|Physics with transforms]] has been nominated for deletion. Please [[WB:VFD#Physics with transforms|share your thoughts]].'''&lt;br/&gt;You are being notified because you have contributed to this work. If you haven't already, please see our [[WB:DP|deletion policy]]. [[User:DavidCary|DavidCary]] ([[User talk:DavidCary|talk]]) 15:05, 24 August 2009 (UTC)}}
+
+Dear Karl Wick,
+
+From [http://en.wikibooks.org/w/index.php?title=Physics_with_transforms/Explanation_%26_How_to_Use&amp;diff=next&amp;oldid=26025 the history page of Physics with transforms/Explanation &amp; How to Use] it appears you pasted in a big block of text.
+
+That block of text was specifically pointed to at the [[Wikibooks:Votes for deletion#Physics with transforms]] discussion as a possible copyright violation of http://physicstransforms.tripod.com/id3.html .
+
+Forgive me for bugging you with the [[Template:Vfd warning]] about something that happened over 5 (!) years ago.
+--[[User:DavidCary|DavidCary]] ([[User talk:DavidCary|talk]]) 15:05, 24 August 2009 (UTC)
+
+== Welcome back! ==
+
+The founder of Wikibooks is back!  I have to be honest, I didn't think you'd return here since you were last seen in October 2008; that's even before I came across this site myself.  That's quite some time to be gone.  There have been quite a few extensions installed and you may notice several new people and several that are missing.  Like the new main page?  Anything else tickle your fancy or give you pause?  I'm sure others would be interested in any comments you decide to write in the reading room and most of us could use an introduction as most are unfamiliar with Wikibooks' early history and yourself.  I'm not quite sure where you're going with [[Brain Rules for Baby]], else I'd see what I could do to help.  Glad to see you around again. &amp;ndash;&amp;nbsp;[[User:Adrignola|Adrignola]]&amp;nbsp;&lt;small&gt;[[User talk:Adrignola|discuss]]&lt;/small&gt; 02:53, 4 March 2011 (UTC)
+
+==[[Brain Rules for Baby]]==
+I know you've been here forever, but this seems a really odd book to create... it doesn't seem to fit in the scope at all. Were you planning to turn it into something else? &lt;font color=&quot;#E66C2C&quot;&gt;[[User:QuiteUnusual|'''QU''']]&lt;/font&gt; &lt;sup&gt;&lt;font color=&quot;#306754&quot;&gt;[[User talk:QuiteUnusual|TalkQu]]&lt;/font&gt;&lt;/sup&gt; 09:51, 6 March 2011 (UTC)</text>
+      <sha1>trvld6p8dy8ks7v14scw365511tpa58</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Calculus/Functions</title>
+    <ns>0</ns>
+    <id>122</id>
+    <revision>
+      <id>2644655</id>
+      <parentid>2644654</parentid>
+      <timestamp>2014-05-02T02:29:31Z</timestamp>
+      <contributor>
+        <username>Thenub314</username>
+        <id>38087</id>
+      </contributor>
+      <comment>/* What functions are and how are they described */ sometimes life isn't too specific.</comment>
+      <text xml:space="preserve">{{Calculus/Top Nav|Algebra|Graphing linear functions}}
+
+==What functions are and how are they described ==
+
+'''Note: This is an attempt at a rewrite of &quot;Classical understanding of functions&quot;. If others approve, consider deleting that section.'''
+
+Whenever one quantity is uniquely determined by the value of another quantity, we have a function. You can  think of a 
+''function'' as a kind of machine. You feed the machine raw materials, and the machine changes 
+the raw materials into a finished product. 
+
+{{ExampleRobox|theme=2|title=A function in everyday life}}
+Think about dropping a ball from a bridge. At each moment in time, the ball is a 
+height above the ground. The height of the ball is a function of time. It was the 
+job of physicists to come up with a formula for this function. This type of function 
+is called  ''real-valued'' since the &quot;finished product&quot; is a number (or, more specifically, a real number).
+{{Robox/Close}}
+
+{{ExampleRobox|theme=2|title=A function in everyday life  (Preview of Multivariable Calculus)}}
+Think about a wind storm. At different places, the wind can be blowing in different directions with different intensities. The direction and intensity of the wind can be thought of as a function of position. This is a function of two real variables (a location is described by two values - an  &lt;math&gt;x&lt;/math&gt; and a &lt;math&gt;y&lt;/math&gt;) which results in a vector (which is something that  can be used to hold a direction and an intensity). These functions are studied in multivariable calculus (which is usually studied after a one year college level calculus course).This a vector-valued  function of two real variables.
+{{Robox/Close}}
+
+We will be looking at real-valued functions until studying multivariable calculus.
+Think of a real-valued function as an ''input-output machine''; you give the function an input, and it 
+gives you an output which is a number (more specifically, a real number). 
+For example, the squaring function takes the input 4 and 
+gives the output value 16.  The same squaring function takes the input 
+-1 and gives the output value 1.
+
+There are many ways which people describe functions. In the examples above, a verbal
+descriptions is given (the height of the ball above the earth as a function of time).
+Here is a list of ways to describe functions. The top three listed approaches
+to describing functions are the most popular and you could skip the rest if you 
+like.
+
+#A function is given a name (such as &lt;math&gt;f&lt;/math&gt;) and a formula for the function is also given. For example, &lt;math&gt;f(x) = 3 x + 2&lt;/math&gt; describes a function. We refer to the input as the '''argument''' of the function (or the '''independent variable'''), and to the output as the '''value''' of the function at the given argument. 
+#A function is described using an equation and two variables. One variable is for the input of the function and one is for the output of the function. The variable for the input is called the '''independent variable'''. The variable for the output is called the '''dependent variable'''. For example, &lt;math&gt; y = 3 x + 2&lt;/math&gt; describes a function. The dependent variable appears by itself on the left hand side of equal sign.
+#A verbal description of the function.
+
+When a function is given a name (like in number 1 above), the name of the function is usually
+a single letter of the alphabet (such as &lt;math&gt;f&lt;/math&gt; or &lt;math&gt;g&lt;/math&gt;). Some functions
+whose names are multiple letters (like the sine function &lt;math&gt;y=sin(x)&lt;/math&gt;.
+
+{{ExampleRobox|theme=2|title=Plugging a value into a function}}
+If we write &lt;math&gt;f(x) = 3x+2 \ &lt;/math&gt;, then we know that
+
+*The function &lt;math&gt;f&lt;/math&gt; is a function of &lt;math&gt;x&lt;/math&gt;.
+*To evaluate the function at a certain number, replace the &lt;math&gt;x&lt;/math&gt; with that number.
+*Replacing &lt;math&gt;x&lt;/math&gt; with that number in the right side of the function will produce the function's output for that certain input.
+*In English, the definition of &lt;math&gt;f \ &lt;/math&gt; is interpreted, &quot;Given a number, &lt;math&gt;f&lt;/math&gt; will return ''two more than the triple of that number''.&quot;
+
+How would we know the value of the function &lt;math&gt;f&lt;/math&gt; at 3?
+We would have the following three thoughts:
+
+#&lt;math&gt;f(3) = 3(3) + 2&lt;/math&gt;
+#&lt;math&gt; 3(3) + 2 = 9 + 2&lt;/math&gt;
+#&lt;math&gt;9+2=11&lt;/math&gt;
+and we would write
+
+&lt;math&gt;f(3) = 3(3)+2 = 9+2 = 11&lt;/math&gt;.
+
+The value of &lt;math&gt;f \ &lt;/math&gt; at 3 is 11.
+
+Note that &lt;math&gt;f(3) \ &lt;/math&gt; means the value of the dependent variable when &lt;math&gt;x \ &lt;/math&gt; takes on the value of 3. So we see that the number ''11'' is the output of the function when we give the number ''3'' as the input. 
+People often summarize the work above by writing 
+&quot;the value of &lt;math&gt;f&lt;/math&gt; at three is eleven&quot;, or simply &quot;&lt;math&gt;f&lt;/math&gt; of three equals eleven&quot;.
+{{Robox/Close}}
+
+==Classical understanding of functions==
+To provide the classical understanding of functions, think of a ''function'' as a kind of machine. You feed the machine raw materials, and the machine changes the raw materials into a finished product based on a specific set of instructions. The kinds of functions we consider here, for the most part, take in a real number, change it in a formulaic way, and give out a real number (possibly the same as the one it took in).  Think of this as an ''input-output machine''; you give the function an input, and it gives you an output. For example, the squaring function takes the input 4 and gives the output value 16.  The same squaring function takes the input &lt;math&gt;-1&lt;/math&gt; and gives the output value 1.
+
+A function is usually written as &lt;math&gt;f&lt;/math&gt;, &lt;math&gt;g&lt;/math&gt;, or something similar - although it doesn't have to be. A function is always defined as &quot;of a variable&quot; which tells us what to replace in the formula for the function. 
+
+For example, &lt;math&gt;f(x) = 3x+2 \ &lt;/math&gt; tells us:
+
+*The function &lt;math&gt;f&lt;/math&gt; is a function of &lt;math&gt;x&lt;/math&gt;.
+*To evaluate the function at a certain number, replace the &lt;math&gt;x&lt;/math&gt; with that number.
+*Replacing &lt;math&gt;x&lt;/math&gt; with that number in the right side of the function will produce the function's output for that certain input.
+*In English, the definition of &lt;math&gt;f \ &lt;/math&gt; is interpreted, &quot;Given a number, &lt;math&gt;f&lt;/math&gt; will return ''two more than the triple of that number''.&quot;
+
+Thus, if we want to know the value (or output) of the function at 3: 
+
+:&lt;math&gt;f(x) = 3x+2 \ &lt;/math&gt;
+
+:&lt;math&gt;f(3) = 3(3)+2 \ &lt;/math&gt; We evaluate the function at &lt;math&gt;x = 3&lt;/math&gt;.
+
+:&lt;math&gt;f(3) = 9+2 = 11 \ &lt;/math&gt; The value of &lt;math&gt;f \ &lt;/math&gt; at 3 is 11.
+
+See? It's easy!
+
+Note that &lt;math&gt;f(3) \ &lt;/math&gt; means the value of the dependent variable when &lt;math&gt;x \ &lt;/math&gt; takes on the value of 3. So we see that the number ''11'' is the output of the function when we give the number ''3'' as the input. We refer to the input as the '''argument''' of the function (or the '''independent variable'''), and to the output as the '''value''' of the function at the given argument (or the '''dependent variable'''). A good way to think of it is the dependent variable &lt;math&gt;f(x) \ &lt;/math&gt; 'depends' on the value of the independent variable &lt;math&gt;x \ &lt;/math&gt;.  This is read as &quot;the value of &lt;math&gt;f&lt;/math&gt; at three is eleven&quot;, or simply &quot;&lt;math&gt;f&lt;/math&gt; of three equals eleven&quot;.
+
+==Notation==
+Functions are used so much that there is a special notation for them. The notation is somewhat ambiguous, so familiarity with it is important in order to understand the intention of an equation or formula.
+
+Though there are no strict rules for naming a function, it is standard practice to use the letters &lt;math&gt;f&lt;/math&gt;, &lt;math&gt;g&lt;/math&gt;, and &lt;math&gt;h&lt;/math&gt; to denote functions, and the variable &lt;math&gt;x&lt;/math&gt; to denote an independent variable. &lt;math&gt;y&lt;/math&gt; is used for both dependent and independent variables.
+
+When discussing or working with a function &lt;math&gt;f&lt;/math&gt;, it's important to know not only the function, but also its independent variable &lt;math&gt;x&lt;/math&gt;.  Thus, when referring to a function &lt;math&gt;f&lt;/math&gt;, you usually do not write &lt;math&gt;f&lt;/math&gt;, but instead &lt;math&gt;f(x)&lt;/math&gt;.  The function is now referred to as &quot;&lt;math&gt;f&lt;/math&gt; of &lt;math&gt;x&lt;/math&gt;&quot;.  The name of the function is adjacent to the independent variable (in parentheses).  This is useful for indicating the value of the function at a particular value of the independent variable.  For instance, if
+
+:&lt;math&gt;f(x)=7x+1\,&lt;/math&gt;,
+
+and if we want to use the value of &lt;math&gt;f&lt;/math&gt; for &lt;math&gt;x&lt;/math&gt; equal to &lt;math&gt;2&lt;/math&gt;, then we would substitute 2 for &lt;math&gt;x&lt;/math&gt; on both sides of the definition above and write
+
+:&lt;math&gt;f(2)=7(2)+1=14+1=15\,&lt;/math&gt;
+
+This notation is more informative than leaving off the independent variable and writing simply '&lt;math&gt;f&lt;/math&gt;', but can be ambiguous since the parentheses can be misinterpreted as multiplication.
+
+==Modern understanding of functions==
+The formal definition of a function states that a function is actually a ''rule'' that associates elements of one set called the ''domain'' of the function, with the elements of another set called the ''range'' of the function. For each value we select from the domain of the function, there exists exactly one corresponding element in the range of the function. The definition of the function tells us which element in the range corresponds to the element we picked from the domain. Classically, the element picked from the domain is pictured as something that is fed into the function and the corresponding element in the range is pictured as the output. Since we &quot;pick&quot; the element in the domain whose corresponding element in the range we want to find, we have control over what element we pick and hence this element is also known as the &quot;independent variable&quot;. The element mapped in the range is beyond our control and is &quot;mapped to&quot; by the function. This element is hence also known as the &quot;dependent variable&quot;, for it depends on which independent variable we pick. Since the elementary idea of functions is better understood from the classical viewpoint, we shall use it hereafter. However, it is still important to remember the correct definition of functions  at all times.
+
+To make it simple, for the function &lt;math&gt;f(x)&lt;/math&gt;, all of the possible &lt;math&gt;x&lt;/math&gt; values constitute the domain, and all of the values &lt;math&gt;f(x)&lt;/math&gt; (&lt;math&gt;y&lt;/math&gt; on the x-y plane) constitute the range.
+
+==Remarks==
+The following arise as a direct consequence of the definition of functions:
+#By definition, for each &quot;input&quot; a function returns only one &quot;output&quot;, corresponding to that input. While the same output may correspond to more than one input, one input cannot correspond to more than one output. This is expressed graphically as the ''vertical line test'': a line drawn parallel to the axis of the dependent variable (normally vertical) will intersect the graph of a function only once. However, a line drawn parallel to the axis of the independent variable (normally horizontal) may intersect the graph of a function as many times as it likes. Equivalently, this has an algebraic (or formula-based) interpretation.  We can always say if &lt;math&gt; a = b&lt;/math&gt;, then &lt;math&gt;f(a) = f(b)&lt;/math&gt;, but if we only know that  &lt;math&gt;f(a) = f(b)&lt;/math&gt; then we can't be sure that  &lt;math&gt;a= b&lt;/math&gt;. 
+#Each function has a set of values, the function's ''domain'', which it can accept as input. Perhaps this set is all positive real numbers; perhaps it is the set {pork, mutton, beef}. This set must be implicitly/explicitly defined in the definition of the function. You cannot feed the function an element that isn't in the domain, as the function is not defined for that input element.
+#Each function has a set of values, the function's ''range'', which it can output. This may be the set of real numbers. It may be the set of positive integers or even the set {0,1}. This set, too, must be implicitly/explicitly defined in the definition of the function.
+
+[[Image:Vertlinetest.png|thumb|This is an example of an expression which fails the vertical line test.]]
+
+==The vertical line test==
+The vertical line test, mentioned in the preceding paragraph, is a systematic test to find out if an equation involving &lt;math&gt;x&lt;/math&gt; and &lt;math&gt;y&lt;/math&gt; can serve as a function (with &lt;math&gt;x&lt;/math&gt; the independent variable and &lt;math&gt;y&lt;/math&gt; the dependent variable).  Simply graph the equation and draw a vertical line through each point of the &lt;math&gt;x&lt;/math&gt;-axis. If any vertical line ever touches the graph at more than one point, then the equation is not a function; if the line always touches at most one point of the graph, then the equation is a function.
+
+(There are a lot of useful curves, like circles, that aren't functions (see picture).  Some people call these graphs with multiple intercepts, like our circle, &quot;multi-valued functions&quot;; they would refer to our &quot;functions&quot; as &quot;single-valued functions&quot;.)
+
+==Important functions==
+{| border=&quot;0&quot; cellpadding=&quot;5&quot;
+|-valign=&quot;top&quot;
+|Constant function
+|&lt;math&gt;f(x)=c\,&lt;/math&gt;
+It disregards the input and always outputs the constant &lt;math&gt;c&lt;/math&gt;, and is a polynomial of the ''zeroth'' degree where ''f''(''x'') = ''cx''&lt;sup&gt;0&lt;/sup&gt;= ''c''(1) = ''c''.  Its graph is a horizontal line.
+
+|-valign=&quot;top&quot;
+|Linear function
+|&lt;math&gt;f(x)=mx+c\,&lt;/math&gt;
+Takes an input, multiplies by ''m'' and adds ''c''. It is a polynomial of the ''first'' degree. Its graph is a line (slanted, except &lt;math&gt;m=0&lt;/math&gt;).
+
+|-valign=&quot;top&quot;
+|Identity function
+|&lt;math&gt;f(x)=x\,&lt;/math&gt;
+Takes an input and outputs it unchanged. A polynomial of the ''first'' degree, ''f''(''x'') = ''x''&lt;sup&gt;1&lt;/sup&gt; = ''x''. Special case of a linear function.
+
+|-valign=&quot;top&quot;
+|Quadratic function
+|&lt;math&gt;f(x)=ax^2+bx+c \,&lt;/math&gt;
+A polynomial of the ''second'' degree. Its graph is a parabola, unless &lt;math&gt;a=0&lt;/math&gt;. (Don't worry if you don't know what this is.)
+
+|-valign=&quot;top&quot;
+|Polynomial function
+|&lt;math&gt;f(x)=a_n x^n + a_{n-1}x^{n-1} + \cdots + a_2 x^2 + a_1 x + a_0&lt;/math&gt;
+The number &lt;math&gt;n&lt;/math&gt; is called the ''degree''.
+
+|-valign=&quot;top&quot;
+|Signum function
+|&lt;math&gt; \operatorname{sgn}(x) = \left\{ \begin{matrix}
+-1 &amp; \text{if} &amp;  x &lt; 0 \\
+0 &amp; \text{if} &amp;  x = 0 \\
+1 &amp; \text{if} &amp;  x &gt; 0. \end{matrix} \right. &lt;/math&gt;
+Determines the sign of the argument &lt;math&gt;x&lt;/math&gt;.
+|
+|}
+
+==Example functions==
+Some more simple examples of functions have been listed below.
+{| border=&quot;1&quot; cellpadding=&quot;5&quot;
+|-
+|&lt;math&gt;h(x)=\left\{\begin{matrix}1,&amp;\mbox{if }x&gt;0\\-1,&amp;\mbox{if }x&lt;0\end{matrix}\right.&lt;/math&gt;
+:Gives 1 if input is positive, -1 if input is negative.  Note that the function only accepts negative and positive numbers, not &lt;math&gt;0&lt;/math&gt;.  Mathematics describes this condition by saying &lt;math&gt;0&lt;/math&gt; is not in the domain of the function.
+|-
+|&lt;math&gt;g(y)=y^2\,&lt;/math&gt;
+:Takes an input and squares it.
+
+&lt;math&gt;g(z)=z^2\,&lt;/math&gt;
+:Exactly the same function, rewritten with a different independent variable. This is perfectly legal and sometimes done to prevent confusion (e.g. when there are already too many uses of &lt;math&gt;x&lt;/math&gt; or &lt;math&gt;y&lt;/math&gt; in the same paragraph.)
+|-
+|&lt;math&gt;f(x)=\left\{\begin{matrix}5^{x^2},&amp;\mbox{if }x&gt;0\\0,&amp;\mbox{if }x\le0\end{matrix}\right.&lt;/math&gt;
+:Note that we can define a function by a totally arbitrary rule.  Such functions are called piecewise functions.
+|-
+|}
+
+It is possible to replace the independent variable with any mathematical expression, not just a number.  For instance, if the independent variable is itself a function of another variable, then it could be replaced with that function.  This is called composition, and is discussed later.
+
+==Manipulating functions==
+
+===Addition, Subtraction, Multiplication and Division of functions===
+For two real-valued functions, we can add the functions, multiply the functions, 
+raised to a power, etc.   
+
+{{ExampleRobox|theme=2|title=Example:  Adding, subtracting, multiplying and dividing functions which do not have a name}}
+If we add the functions &lt;math&gt;y = 3 x + 2&lt;/math&gt; and &lt;math&gt;y = x^2&lt;/math&gt;, we obtain &lt;math&gt;y = x^2 + 3 x + 2&lt;/math&gt;.
+
+
+If we subtract &lt;math&gt;y = 3 x + 2&lt;/math&gt; from &lt;math&gt;y = x^2&lt;/math&gt;, we obtain &lt;math&gt;y =x^2 - (3 x + 2)&lt;/math&gt;. We can also write this as &lt;math&gt;y=x^2-3x-2&lt;/math&gt;.
+
+
+If we multiply the function &lt;math&gt;y = 3 x + 2&lt;/math&gt; and the function &lt;math&gt;y = x^2&lt;/math&gt;, we obtain &lt;math&gt;y = (3 x + 2) x^2&lt;/math&gt;. We can also write this as &lt;math&gt;y=3x^3 + 2 x^2&lt;/math&gt;.
+
+
+If we divide the function &lt;math&gt;y = 3 x + 2&lt;/math&gt; by the function &lt;math&gt;y = x^2&lt;/math&gt;,
+we obtain &lt;math&gt;y = (3 x + 2)/ x^2&lt;/math&gt;.
+{{Robox/Close}}
+
+
+
+If a math problem wants you to add two functions &lt;math&gt;f&lt;/math&gt; and &lt;math&gt;g&lt;/math&gt;, there are 
+two ways that the problem will likely be worded:
+
+# If you are told that &lt;math&gt;f(x) = 3 x + 2&lt;/math&gt;, that &lt;math&gt;g(x)  = x^2&lt;/math&gt;, that &lt;math&gt;h(x) = f(x)+g(x)&lt;/math&gt; and asked about &lt;math&gt;h&lt;/math&gt;, then you are being asked to add two functions. Your answer would be  &lt;math&gt;h(x) = x^2 + 3 x + 2&lt;/math&gt;.
+# If you are told that &lt;math&gt;f(x) = 3 x + 2&lt;/math&gt;, that &lt;math&gt;g(x)  = x^2&lt;/math&gt; and you are asked about &lt;math&gt;f+g&lt;/math&gt;, then you are being asked to add two functions. The addition of &lt;math&gt;f&lt;/math&gt; and &lt;math&gt;g&lt;/math&gt; is called &lt;math&gt;f+g&lt;/math&gt;. Your answer would be &lt;math&gt;(f+g)(x) = x^2 + 3 x + 2&lt;/math&gt;.
+
+Similar statements can be made for subtraction, multiplication and division.
+
+{{ExampleRobox|theme=2|title=Example:  Adding, subtracting, multiplying and dividing functions which do have a name}}
+Let  &lt;math&gt;f(x)=3x+2\,&lt;/math&gt; and:&lt;math&gt;g(x)=x^2\,&lt;/math&gt;. Let's add, subtract, multiply and divide.
+
+
+:&lt;math&gt;\begin{align}
+(f+g)(x)
+    &amp;= f(x)+g(x)\\
+    &amp;= (3x+2)+(x^2)\\
+    &amp;= x^2+3x+2\,
+\end{align}&lt;/math&gt;,
+
+
+:&lt;math&gt;\begin{align}
+(f-g)(x)
+    &amp;= f(x)-g(x)\\
+    &amp;= (3x+2)-(x^2)\\
+    &amp;= -x^2+3x+2\,
+\end{align}&lt;/math&gt;,
+
+
+:&lt;math&gt;\begin{align}
+ (f\times g)(x)
+          &amp;= f(x)\times g(x)\\
+          &amp;= (3x+2)\times(x^2)\\
+          &amp;= 3x^3+2x^2\,
+\end{align}&lt;/math&gt;,
+
+
+:&lt;math&gt;\begin{align}
+\left(\frac{f}{g}\right)(x)
+            &amp;= \frac{f(x)}{g(x)}\\
+            &amp;= \frac{3x+2}{x^2}\\
+            &amp;= \frac{3}{x}+\frac{2}{x^2}
+\end{align}&lt;/math&gt;.
+{{Robox/Close}}
+
+===Composition of functions===
+We begin with a fun (and not too complicated) application of composition of 
+functions before we talk about what composition of functions is.
+
+{{ExampleRobox|title=Example:  Dropping a ball}}
+If we drop a ball from a bridge which is 20 meters above the ground, then 
+the height of our ball above the earth is a function of time.
+The physicists tell us that if we measure time in seconds and distance in meters,
+then the formula for height in terms of time 
+is &lt;math&gt;h = -4.9t^2 + 20&lt;/math&gt;. Suppose we are tracking the 
+ball with a camera and always want the ball to be in the center of our
+picture. Suppose we have &lt;math&gt;\theta=f(h)&lt;/math&gt;
+The angle will depend upon the height of the ball above
+the ground and the height above the ground depends upon
+time. So the angle will depend upon time. This can be written
+as &lt;math&gt;\theta = f(-4.9t^2 + 20)&lt;/math&gt;.
+We replace &lt;math&gt;h&lt;/math&gt; with what it is equal to.
+This is the essence of composition.
+{{Robox/Close}}
+
+Composition of functions is another way to combine functions which is different from addition,
+subtraction, multiplication or division.  
+
+
+The value of a function &lt;math&gt;f&lt;/math&gt; depends upon the value of another variable &lt;math&gt;x&lt;/math&gt;;  however, that variable could be equal to another function &lt;math&gt;g&lt;/math&gt;, so its value depends on the value of a third variable.  If this is the case, then the first variable is a function &lt;math&gt;h&lt;/math&gt; of the third variable;  this function (&lt;math&gt;h&lt;/math&gt;) is called the '''composition''' of the other two functions (&lt;math&gt;f&lt;/math&gt; and &lt;math&gt;g&lt;/math&gt;).  
+
+{{ExampleRobox|title=Example:  Composing two functions}}
+Let &lt;math&gt;f(x)=3x+2\,&lt;/math&gt; and:&lt;math&gt;g(x)=x^2\,&lt;/math&gt;. The composition of &lt;math&gt;f&lt;/math&gt; with &lt;math&gt;g&lt;/math&gt;
+is read  as either &quot;f composed with g&quot; or &quot;f of g of x.&quot; 
+
+Let 
+
+&lt;math&gt;h(x) = f(g(x))&lt;/math&gt; 
+
+Then
+
+:&lt;math&gt;\begin{align}
+h(x) &amp;= f(g(x))\\
+     &amp;= f(x^2)\\
+     &amp;= 3(x^2)+2\\
+     &amp;= 3x^2+2\,
+\end{align}&lt;/math&gt;.
+
+Sometimes a math problem asks you compute &lt;math&gt;(f \circ g)(x)&lt;/math&gt;
+when they want you to compute &lt;math&gt;f(g(x))&lt;/math&gt;,
+
+Here, &lt;math&gt;h&lt;/math&gt; is the composition of &lt;math&gt;f&lt;/math&gt; and &lt;math&gt;g&lt;/math&gt; and 
+we write &lt;math&gt;h=f\circ g&lt;/math&gt;.  Note that composition is not commutative:
+
+:&lt;math&gt;f(g(x))=3x^2+2\,&lt;/math&gt;, and
+
+:&lt;math&gt;\begin{align}
+g(f(x)) &amp;= g(3x + 2)\\
+        &amp;= (3x + 2)^2\\
+        &amp;= 9x^2+12x+4\, .
+\end{align}&lt;/math&gt;
+
+:so &lt;math&gt;f(g(x))\ne g(f(x))\,&lt;/math&gt;.
+{{Robox/Close}}
+
+Composition of functions is very common, mainly because functions themselves are common.  For instance, squaring and sine are both functions:
+
+
+:&lt;math&gt;\operatorname{square}(x)=x^2&lt;/math&gt;,
+
+:&lt;math&gt;\operatorname{sine}(x)=\sin x&lt;/math&gt;
+
+
+Thus, the expression &lt;math&gt;\sin^2x&lt;/math&gt; is a composition of functions:
+
+:{|
+|-
+|&lt;math&gt;\sin^2x&lt;/math&gt;
+| = &lt;math&gt;\operatorname{square}(\sin x)&lt;/math&gt;
+|-
+|
+| = &lt;math&gt;\operatorname{square}( \operatorname{sine}(x))&lt;/math&gt;.
+|}
+
+(Note that this is ''not'' the same as &lt;math&gt;\operatorname{sine}(\operatorname{square}(x))=\sin x^2&lt;/math&gt;.)
+Since the function sine equals &lt;math&gt;1/2&lt;/math&gt; if &lt;math&gt;x=\pi/6&lt;/math&gt;,
+
+
+:&lt;math&gt;\operatorname{square}(\operatorname{sine}(\pi/6))= \operatorname{square}(1/2)&lt;/math&gt;.
+
+
+Since the function square equals &lt;math&gt;1/4&lt;/math&gt; if &lt;math&gt;x=\pi/6&lt;/math&gt;,
+
+:&lt;math&gt;\sin^2 \pi/6=\operatorname{square}(\operatorname{sine}(\pi/6))=\operatorname{square}(1/2)
+=1/4&lt;/math&gt;.
+
+===Transformations===
+Transformations are a type of function manipulation that are very common. They consist of multiplying, dividing, adding or subtracting constants to either the input or the output. Multiplying by a constant is called '''dilation''' and adding a constant is called '''translation'''. Here are a few examples:
+
+:&lt;math&gt;f(2\times x) \,&lt;/math&gt; Dilation
+:&lt;math&gt;f(x+2)\,&lt;/math&gt; Translation
+:&lt;math&gt;2\times f(x) \,&lt;/math&gt; Dilation
+:&lt;math&gt;2+f(x)\,&lt;/math&gt; Translation
+
+[[image:4_function_translations.jpg|right|thumb|250px|Examples of horizontal and vertical translations]]
+[[image:4_function_dilations.jpg|right|thumb|250px|Examples of horizontal and vertical dilations]]
+Translations and dilations can be either horizontal or vertical. Examples of both vertical and horizontal translations can be seen at right. The red graphs represent functions in their 'original' state, the solid blue graphs have been translated (shifted) horizontally, and the dashed graphs have been translated vertically.
+
+Dilations are demonstrated in a similar fashion. The function
+
+:&lt;math&gt;f(2\times x) \,&lt;/math&gt;
+
+has had its input doubled. One way to think about this is that now any change in the input will be doubled. If I add one to &lt;math&gt;x&lt;/math&gt;, I add two to the input of &lt;math&gt;f&lt;/math&gt;, so it will now change twice as quickly. Thus, this is a horizontal dilation by '''&lt;math&gt;\frac{1}{2}&lt;/math&gt;''' because the distance to the &lt;math&gt;y&lt;/math&gt;-axis has been '''halved'''. A vertical dilation, such as
+:&lt;math&gt;2\times f(x) \,&lt;/math&gt;
+is slightly more straightforward. In this case, you double the output of the function. The output represents the distance from the &lt;math&gt;x&lt;/math&gt;-axis, so in effect, you have made the graph of the function 'taller'. Here are a few basic examples where &lt;math&gt;a&lt;/math&gt; is any positive constant:
+
+{| cellpadding=&quot;10&quot; border=&quot;1&quot;
+|-
+|Original graph
+|&lt;math&gt;f(x)\,&lt;/math&gt;
+|Rotation about origin
+|&lt;math&gt;-f(-x)\,&lt;/math&gt;
+|-
+|Horizontal translation by &lt;math&gt;a&lt;/math&gt; units '''left'''
+|&lt;math&gt;f(x+a)\,&lt;/math&gt;
+|Horizontal translation by &lt;math&gt;a&lt;/math&gt; units '''right'''
+|&lt;math&gt;f(x-a)\,&lt;/math&gt;
+|-
+|Horizontal dilation by a factor of &lt;math&gt;a&lt;/math&gt;
+|&lt;math&gt;f(x\times \frac{1}{a}) \,&lt;/math&gt;
+|Vertical dilation by a factor of &lt;math&gt;a&lt;/math&gt;
+|&lt;math&gt;a\times f(x) \,&lt;/math&gt;
+|-
+|Vertical translation by &lt;math&gt;a&lt;/math&gt; units '''down'''
+|&lt;math&gt;f(x)-a\,&lt;/math&gt;
+|Vertical translation by &lt;math&gt;a&lt;/math&gt; units '''up'''
+|&lt;math&gt;f(x)+a\,&lt;/math&gt;
+|-
+|Reflection about &lt;math&gt;x&lt;/math&gt;-axis
+|&lt;math&gt;-f(x)\,&lt;/math&gt;
+|Reflection about &lt;math&gt;y&lt;/math&gt;-axis
+|&lt;math&gt;f(-x)\,&lt;/math&gt;
+|}
+
+==Domain and Range==
+===Domain===
+[[Image:Domainofsemicirclefunction.png|thumb|The domain of the function is the interval from -1 to 1]] 
+The '''domain''' of a function is the set of all points over which it is defined. More simply, it represents the set of x-values which the function can accept as input. For instance, if
+
+:&lt;math&gt;f(x)=\sqrt{1-x^2}&lt;/math&gt;
+
+then &lt;math&gt;f(x)&lt;/math&gt; is only defined for values of &lt;math&gt;x&lt;/math&gt; between &lt;math&gt;-1&lt;/math&gt; and &lt;math&gt;1&lt;/math&gt;, because the square root function is not defined (in real numbers) for negative values.  Thus, the domain, in interval notation, is &lt;math&gt;\left[-1,1\right]&lt;/math&gt;.  In other words,
+
+:&lt;math&gt;f(x) \mbox{is defined for } x\in [-1,1], \operatorname{ or } \{x:-1\le x\le 1\}&lt;/math&gt;.
+
+
+[[Image:Rangeofsemicirclefunction.png|thumb|The range of the function is the interval from 0 to 1]]
+
+===Range===
+The '''range''' of a function is the set of all values which it attains (i.e. the y-values).  For instance, if:
+
+:&lt;math&gt;f(x)=\sqrt{1-x^2}&lt;/math&gt;,
+
+then &lt;math&gt;f(x)&lt;/math&gt; can only equal values in the interval from &lt;math&gt;0&lt;/math&gt; to &lt;math&gt;1&lt;/math&gt;.  Thus, the range of &lt;math&gt;f&lt;/math&gt; is &lt;math&gt;\left[0,1\right]&lt;/math&gt;.
+
+===One-to-one Functions===
+A function &lt;math&gt;f(x)&lt;/math&gt; is '''one-to-one''' (or less commonly '''injective''') if, for every value of &lt;math&gt;f&lt;/math&gt;, there is only one value of &lt;math&gt;x&lt;/math&gt; that corresponds to that value of &lt;math&gt;f&lt;/math&gt;.  For instance, the function &lt;math&gt;f(x)=\sqrt{1-x^2}&lt;/math&gt; is not one-to-one, because both &lt;math&gt;x=1&lt;/math&gt; and &lt;math&gt;x=-1&lt;/math&gt; result in &lt;math&gt;f(x)=0&lt;/math&gt;.  However, the function &lt;math&gt;f(x)=x+2&lt;/math&gt; is one-to-one, because, for every possible value of &lt;math&gt;f(x)&lt;/math&gt;, there is exactly one corresponding value of &lt;math&gt;x&lt;/math&gt;. Other examples of one-to-one functions are &lt;math&gt;f(x)=x^3+ax&lt;/math&gt;, where &lt;math&gt;a\in \left[0,\infty\right)&lt;/math&gt;. Note that if you have a one-to-one function and translate or dilate it, it remains one-to-one. (Of course you can't multiply &lt;math&gt;x&lt;/math&gt; or &lt;math&gt;f&lt;/math&gt; by a zero factor).
+
+====Horizontal Line Test====
+If you know what the graph of a function looks like, it is easy to determine whether or not the function is one-to-one.  If every horizontal line intersects the graph in at most one point, then the function is one-to-one. This is known as the Horizontal Line Test.
+
+====Algebraic 1-1 Test====
+You can also show one-to-oneness algebraically by assuming that two inputs give the same output and then showing that the two inputs must have been equal.  For example,
+Is &lt;math&gt;f(x)=\frac{1-2x}{1+x}\,&lt;/math&gt; a 1-1 function?&lt;br&gt; &lt;br&gt;
+:&lt;math&gt;f(a)=f(b)\,&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+:&lt;math&gt;\frac{1-2a}{1+a}=\frac{1-2b}{1+b} \,&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+:&lt;math&gt;(1+b)(1-2a)=(1+a)(1-2b) \,&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+:&lt;math&gt;1-2a+b-2ab=1-2b+a-2ab \,&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+:&lt;math&gt;1-2a+b=1-2b+a \,&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+:&lt;math&gt;1-2a+3b=1+a \,&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+:&lt;math&gt;1+3b=1+3a \,&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+:&lt;math&gt;a=b \,&lt;/math&gt;&lt;br&gt;&lt;br&gt;
+Therefore by the algebraic 1-1 test, the function &lt;math&gt;f(x)\,&lt;/math&gt; is 1-1.
+
+You can show that a function is not one-to-one by finding two distinct inputs that give the same output.  For example,
+&lt;math&gt;f(x)=x^2&lt;/math&gt; is not one-to-one because &lt;math&gt;f(-1)=f(1)&lt;/math&gt; but &lt;math&gt;-1\neq1&lt;/math&gt;.
+
+===Inverse functions===
+We call &lt;math&gt;g(x)&lt;/math&gt; the inverse function of &lt;math&gt;f(x)&lt;/math&gt; if, for all &lt;math&gt;x&lt;/math&gt;:
+
+:&lt;math&gt;g(f(x)) = f(g(x)) = x\ &lt;/math&gt;.
+
+A function &lt;math&gt;f(x)&lt;/math&gt; has an inverse function if and only if &lt;math&gt;f(x)&lt;/math&gt; is one-to-one.  For example, the inverse of &lt;math&gt;f(x)=x+2&lt;/math&gt; is &lt;math&gt;g(x)=x-2&lt;/math&gt;.  The function &lt;math&gt;f(x)=\sqrt{1-x^2}&lt;/math&gt; has no inverse.
+
+====Notation====
+The inverse function of &lt;math&gt;f&lt;/math&gt; is denoted as &lt;math&gt;f^{-1}(x)&lt;/math&gt;. Thus, &lt;math&gt;f^{-1}(x)&lt;/math&gt; is defined as the function that follows this rule
+
+&lt;math&gt;f(f^{-1}(x))=f^{-1}(f(x)) = x&lt;/math&gt;:
+
+To determine &lt;math&gt;f^{-1}(x)&lt;/math&gt; when given a function &lt;math&gt;f&lt;/math&gt;, substitute &lt;math&gt;f^{-1}(x)&lt;/math&gt; for &lt;math&gt;x&lt;/math&gt; and substitute &lt;math&gt;x&lt;/math&gt; for &lt;math&gt;f(x)&lt;/math&gt;. Then solve for &lt;math&gt;f^{-1}(x)&lt;/math&gt;, provided that it is also a function.
+
+&lt;b&gt;Example:&lt;/b&gt; Given &lt;math&gt;f(x) = 2x - 7&lt;/math&gt;, find &lt;math&gt;f^{-1}(x)&lt;/math&gt;.
+
+Substitute &lt;math&gt;f^{-1}(x)&lt;/math&gt; for &lt;math&gt;x&lt;/math&gt; and substitute &lt;math&gt;x&lt;/math&gt; for &lt;math&gt;f(x)&lt;/math&gt;. Then solve for &lt;math&gt;f^{-1}(x)&lt;/math&gt;:
+
+:&lt;math&gt;f(x) = 2x - 7\,&lt;/math&gt;
+
+:&lt;math&gt;  x  = 2[f^{-1}(x)] - 7\,&lt;/math&gt;
+
+:&lt;math&gt;x + 7  = 2[f^{-1}(x)]\,&lt;/math&gt;
+
+:&lt;math&gt;\frac{x + 7}{2} = f^{-1}(x)\,&lt;/math&gt;
+
+To check your work, confirm that &lt;math&gt;f^{-1}(f(x)) = x&lt;/math&gt;:
+
+&lt;math&gt;f^{-1}(f(x)) = &lt;/math&gt;
+
+&lt;math&gt;f^{-1}(2x - 7) = {}&lt;/math&gt;
+
+&lt;math&gt;\frac{(2x - 7) + 7}{2} = \frac{2x}{2} = x&lt;/math&gt;
+
+If &lt;math&gt;f&lt;/math&gt; isn't one-to-one, then, as we said before, it doesn't have an inverse. Then this method will fail.
+
+'''Example:''' Given &lt;math&gt;f(x)=x^2&lt;/math&gt;, find &lt;math&gt;f^{-1}(x)&lt;/math&gt;.
+
+Substitute &lt;math&gt;f^{-1}(x)&lt;/math&gt; for &lt;math&gt;x&lt;/math&gt; and substitute &lt;math&gt;x&lt;/math&gt; for &lt;math&gt;f(x)&lt;/math&gt;. Then solve for &lt;math&gt;f^{-1}(x)&lt;/math&gt;:
+
+:&lt;math&gt;f(x) = x^2\,&lt;/math&gt;
+
+:&lt;math&gt;x = (f^{-1}(x))^2\,&lt;/math&gt;
+
+:&lt;math&gt;f^{-1}(x) = \pm\sqrt{x}\,&lt;/math&gt;
+
+Since there are two possibilities for &lt;math&gt;f^{-1}(x)&lt;/math&gt;, it's not a function. Thus &lt;math&gt;f(x)=x^2&lt;/math&gt; doesn't have an inverse. Of course, we could also have found this out from the graph by applying the Horizontal Line Test. It's useful, though, to have lots of ways to solve a problem, since in a specific case some of them might be very difficult while others might be easy. For example, we might only know an algebraic expression for &lt;math&gt;f(x)&lt;/math&gt; but not a graph.
+
+{{Calculus/Top Nav|Algebra|Graphing linear functions}}
+{{Calculus/TOC}}
+
+[[nl:Analyse/Functies]]</text>
+      <sha1>qd8djmuqq2tef2wx6y4gcr66u24a3fk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Waves/Vectors</title>
+    <ns>0</ns>
+    <id>123</id>
+    <revision>
+      <id>2175221</id>
+      <parentid>861705</parentid>
+      <timestamp>2011-10-03T19:28:24Z</timestamp>
+      <contributor>
+        <username>HethrirBot</username>
+        <id>475400</id>
+      </contributor>
+      <minor />
+      <comment>Robot: Cosmetic changes</comment>
+      <text xml:space="preserve">{{2-3DWavesTOC}}
+== Math Tutorial -- Vectors ==
+
+[[File:VectorIntro1.png]]&lt;br /&gt;
+'''Figure 1''': Displacement vectors in a plane. &lt;br /&gt; 
+Vector '''&lt;math&gt;\mbox{A}&lt;/math&gt;''' represents the displacement of George from Mary, while vector '''&lt;math&gt;\mbox{B}&lt;/math&gt;''' represents the displacement of Paul from George. Vector '''&lt;math&gt;\mbox{C}&lt;/math&gt;''' represents the displacement of Paul from Mary and '''&lt;math&gt;\mbox{C} = \mbox{A} + \mbox{B}&lt;/math&gt;'''. The quantities &lt;math&gt;A_x&lt;/math&gt;, &lt;math&gt;A_y&lt;/math&gt;, etc., represent the Cartesian components of the vectors. 
+
+Before we can proceed further we need to explore the idea of a ''vector''. A vector is a quantity which expresses both magnitude and direction. Graphically we represent a vector as an arrow. In typeset notation a vector is represented by a boldface character, while in handwriting an arrow is drawn over the character representing the vector.
+
+Figure 1 shows some examples of ''displacement vectors'', i. e., vectors which represent the displacement of one object from another, and introduces the idea of vector addition. The tail of vector '''&lt;math&gt;\mbox{B}&lt;/math&gt;''' is collocated with the head of vector '''&lt;math&gt;\mbox{A}&lt;/math&gt;''', and the vector which stretches from the tail of '''&lt;math&gt;\mbox{A}&lt;/math&gt;''' to the head of '''&lt;math&gt;\mbox{B}&lt;/math&gt;''' is the sum of '''&lt;math&gt;\mbox{A}&lt;/math&gt;''' and '''&lt;math&gt;\mbox{B}&lt;/math&gt;''', called '''&lt;math&gt;\mbox{C}&lt;/math&gt;''' in figure 1.
+
+[[File:VectorIntro2.png]]&lt;br /&gt;
+'''Figure 2''': Definition sketch for the angle &lt;math&gt;\theta &lt;/math&gt; representing the orientation of a two dimensional vector. &lt;/div&gt;
+
+The quantities &lt;math&gt;A_x&lt;/math&gt;, &lt;math&gt;A_y&lt;/math&gt;, etc., represent the Cartesian components of the vectors in figure 2. A vector can be represented either by its Cartesian components, which are just the projections of the vector onto the Cartesian coordinate axes, or by its direction and magnitude. The direction of a vector in two dimensions is generally represented by the counterclockwise angle of the vector relative to the &lt;math&gt;x&lt;/math&gt; axis, as shown in figure 2. Conversion from one form to the other is given by the equations
+
+:&lt;math&gt; A = (A_x^2 + A_y^2)^{1/2} \qquad \theta = \tan^{-1} (A_y /A_x ) , &lt;/math&gt;
+
+:&lt;math&gt; A_x = A \cos ( \theta ) \qquad A_y = A \sin ( \theta ) , &lt;/math&gt; 
+
+where &lt;math&gt;A&lt;/math&gt; is the magnitude of the vector. A vector magnitude is sometimes represented by absolute value notation: &lt;math&gt;A \equiv \vert \mbox{A} \vert&lt;/math&gt;.
+
+Notice that the inverse tangent gives a result which is ambiguous relative to adding or subtracting integer multiples of &lt;math&gt;\pi&lt;/math&gt;. Thus the quadrant in which the angle lies must be resolved by independently examining the signs of &lt;math&gt;A_x&lt;/math&gt; and &lt;math&gt;A_y&lt;/math&gt; and choosing the appropriate value of &lt;math&gt;\theta &lt;/math&gt;.
+
+To add two vectors, '''&lt;math&gt;\mbox{A}&lt;/math&gt;''' and '''&lt;math&gt;\mbox{B}&lt;/math&gt;''', it is easiest to convert them to Cartesian component form. The components of the sum '''&lt;math&gt;\mbox{C} = \mbox{A} + \mbox{B}&lt;/math&gt;''' are then just the sums of the components:
+
+:&lt;math&gt; C_x = A_x + B_x \qquad C_y = A_y + B_y . &lt;/math&gt; 
+
+Subtraction of vectors is done similarly, e. g., if '''&lt;math&gt;\mbox{A} = \mbox{C} - \mbox{B}&lt;/math&gt;''', then
+
+:&lt;math&gt; A_x = C_x - B_x \qquad A_y = C_y - B_y . &lt;/math&gt; 
+
+A unit vector is a vector of unit length. One can always construct a unit vector from an ordinary vector by dividing the vector by its length: '''&lt;math&gt;\mbox{n} = \mbox{A} / \vert \mbox{A} \vert&lt;/math&gt;'''. This division operation is carried out by dividing each of the vector components by the number in the denominator. Alternatively, if the vector is expressed in terms of length and direction, the magnitude of the vector is divided by the denominator and the direction is unchanged.
+
+Unit vectors can be used to define a Cartesian coordinate system. Conventionally, '''&lt;math&gt;\mbox{i}&lt;/math&gt;''', '''&lt;math&gt;\mbox{j}&lt;/math&gt;''', and '''&lt;math&gt;\mbox{k}&lt;/math&gt;''' indicate the &lt;math&gt;x&lt;/math&gt;, &lt;math&gt;y&lt;/math&gt;, and &lt;math&gt;z&lt;/math&gt; axes of such a system. Note that '''&lt;math&gt;\mbox{i}&lt;/math&gt;''', '''&lt;math&gt;\mbox{j}&lt;/math&gt;''', and '''&lt;math&gt;\mbox{k}&lt;/math&gt;''' are mutually perpendicular. Any vector can be represented in terms of unit vectors and its Cartesian components: '''&lt;math&gt;\mbox{A} = A_x \mbox{i} + A_y \mbox{j} + A_z \mbox{k}&lt;/math&gt;'''. An alternate way to represent a vector is as list of components: '''&lt;math&gt;\mbox{A} = ( A_x , A_y , A_z )&lt;/math&gt;'''. We tend to use the latter representation since it is somewhat more economical notation.
+
+There are two ways to multiply two vectors, yielding respectively what are known as the dot product and the cross product. The cross product yields another vector while the dot product yields a number. Here we will discuss only the dot product.
+
+[[File:VectorIntro3.png]]
+'''Figure 3''': Definition sketch for dot product.
+
+Given vectors '''&lt;math&gt;\mbox{A}&lt;/math&gt;''' and '''&lt;math&gt;\mbox{B}&lt;/math&gt;''', the dot product of the two is defined
+
+:&lt;math&gt; \mbox{A} \cdot \mbox{B} \equiv \vert \mbox{A} \vert \vert \mbox{B} \vert \cos \theta , &lt;/math&gt;
+
+where &lt;math&gt;\theta &lt;/math&gt; is the angle between the two vectors. An alternate expression for the dot product exists in terms of the Cartesian components of the vectors:
+
+:'''&lt;math&gt; \mbox{A} \cdot \mbox{B} = A_x B_x + A_y B_y . &lt;/math&gt;''' 
+
+It is easy to show that this is equivalent to the cosine form of the dot product when the &lt;math&gt;x&lt;/math&gt; axis lies along one of the vectors, as in figure 3. Notice in particular that '''&lt;math&gt;A_x = \vert \mbox{A} \vert \cos \theta&lt;/math&gt;''', while '''&lt;math&gt;B_x = \vert \mbox{B} \vert&lt;/math&gt;''' and &lt;math&gt;B_y = 0&lt;/math&gt;. Thus, '''&lt;math&gt;\mbox{A} \cdot \mbox{B} = \vert \mbox{A} \vert \cos \theta \vert \mbox{B} \vert&lt;/math&gt;''' in this case, which is identical to the form given above.
+
+By the law of cosines we can also see that
+
+:&lt;math&gt;\mathbf{A} \cdot \mathbf{B} = \frac{1}{2} \left(
+|\mathbf{A}+\mathbf{B}|^2-|\mathbf{A}|^2-|\mathbf{B}|^2 \right)&lt;/math&gt;
+
+which is an alternate coordinate-free expression for the dot product.
+
+[[File:VectorIntro4.png]]
+&lt;br /&gt;
+'''Figure 4''': Definition figure for rotated coordinate system. The vector '''&lt;math&gt;\mbox{R}&lt;/math&gt;''' has components &lt;math&gt;X&lt;/math&gt; and &lt;math&gt;Y&lt;/math&gt; in the unprimed coordinate system and components &lt;math&gt;X'&lt;/math&gt; and &lt;math&gt;Y'&lt;/math&gt; in the primed coordinate system. 
+
+All that remains to be proven for equation (2.6) to hold in general is to show that it yields the same answer regardless of how the Cartesian coordinate system is oriented relative to the vectors. To do this, we must show that &lt;math&gt;A_x B_x + A_y B_y = A_x' B_x' + A_y' B_y'&lt;/math&gt;, where the primes indicate components in a coordinate system rotated from the original coordinate system.
+
+This can be shown nearly instantly by applying the pythagorean theorem. Due to the fact that R is invariant and represents the hypotenuse for both triangles (X, X', Y and Y') we can conclude:
+
+&lt;math&gt;|R|^2 = X^2 + Y^2 \mbox{ and }
+|R|^2 = X'^2 + Y'^2 \Rightarrow
+X^2 + Y^2 = X'^2 + Y'^2&lt;/math&gt;
+
+Since the dot product can be written solely in terms of magnitudes, as we did above, if the magnitude of a vector is invariant the dot product of two vectors must also be invariant.
+
+To deduce a general formula for X' and Y' you will have to do a bit more thinking:
+
+Figure 2.4 shows the vector '''&lt;math&gt;\mbox{R}&lt;/math&gt;''' resolved in two coordinate systems rotated with respect to each other. From this figure it is clear that &lt;math&gt;X' = A + B&lt;/math&gt;. Focusing on the shaded triangles, we see that &lt;math&gt;A = X \cos \theta&lt;/math&gt; and &lt;math&gt;B = Y \sin \theta&lt;/math&gt;. Thus, we find &lt;math&gt;X' = X \cos \theta + Y \sin \theta&lt;/math&gt;. Similar reasoning shows that &lt;math&gt;Y' = -X \sin \theta + Y \cos \theta&lt;/math&gt; (Just imagine to rotate the constructs in the image further 90° without changing the axis-names. You will instantly notice that in the second quadrant X is negative while Y positive). 
+
+Thus, the new and old coordinates are related by
+
+:&lt;math&gt;
+\begin{pmatrix} X^\prime \\ Y^\prime \end{pmatrix} =
+\begin{pmatrix} X \cos \theta + Y \sin \theta \\ -X \sin \theta + Y \cos \theta
+\end{pmatrix}&lt;/math&gt;
+
+This is true of the position vector. We can use it to extend the notion of vector to concepts other than position by stating that a pair of numbers is a vector ''if and only if'' its values change in exactly this way under rotation.
+
+Substituting this relation into our earlier expression for the dot product and using the trigonometric identity &lt;math&gt;\cos^2 \theta + \sin^2 \theta = 1&lt;/math&gt; results in
+
+:&lt;math&gt;\begin{matrix}
+A_x' B_x' + A_y' B_y'  &amp; = &amp;  &amp; (A_x \cos \theta + A_y \sin \theta ) 
+(B_x \cos \theta + B_y \sin \theta ) \\
+ &amp; &amp;  + &amp; (-A_x \sin \theta + A_y \cos \theta ) 
+(-B_x \sin \theta + B_y \cos \theta ) \\  &amp; = &amp; &amp; A_x B_x + A_y B_y 
+\end{matrix}&lt;/math&gt;
+
+which proves the complete equivalence of the two forms of the dot product quoted above. (Multiply out the above expression to verify this.)
+
+A numerical quantity which doesn't depend on which coordinate system is being used is called a scalar. The dot product of two vectors is a scalar. However, the components of a vector, taken individually, are not scalars, since the components change as the coordinate system changes. Since the laws of physics cannot depend on the choice of coordinate system being used, we insist that physical laws be expressed in terms of scalars and vectors, but not in terms of the components of vectors.
+
+In three dimensions the cosine form of the dot product remains the same, while the component form is
+:'''&lt;math&gt; \mbox{A} \cdot \mbox{B} = A_x B_x + A_y B_y + A_z B_z . &lt;/math&gt;'''</text>
+      <sha1>7rabj9wxp1sy1jdca01jdg48bzztbd5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Introductory Physics fig 2.5.png</title>
+    <ns>6</ns>
+    <id>128</id>
+    <revision>
+      <id>2699314</id>
+      <parentid>904372</parentid>
+      <timestamp>2014-09-10T18:33:23Z</timestamp>
+      <contributor>
+        <username>JackBot</username>
+        <id>396820</id>
+      </contributor>
+      <minor />
+      <comment>File is now available on [[:commons:File:Introductory Physics fig 2.5.png|Wikimedia Commons]].</comment>
+      <text xml:space="preserve">Introductory Physics, figure 2.5 Copyright 1998, 2000, 2001, 2003 David J. Raymond, under GNU FDL
+
+==Licensing==
+{{GFDL}}{{Now Commons|1=Introductory Physics fig 2.5.png}}</text>
+      <sha1>1576eikcviio2yugeact42wcof91pl2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Introductory Physics fig 2.6.png</title>
+    <ns>6</ns>
+    <id>129</id>
+    <revision>
+      <id>2699309</id>
+      <parentid>904373</parentid>
+      <timestamp>2014-09-10T18:33:12Z</timestamp>
+      <contributor>
+        <username>JackBot</username>
+        <id>396820</id>
+      </contributor>
+      <minor />
+      <comment>File is now available on [[:commons:File:Introductory Physics fig 2.6.png|Wikimedia Commons]].</comment>
+      <text xml:space="preserve">Introductory Physics, figure 2.6 Copyright 1998, 2000, 2001, 2003 David J. Raymond, under GNU FDL
+
+==Licensing==
+{{GFDL}}{{Now Commons|1=Introductory Physics fig 2.6.png}}</text>
+      <sha1>hcjyuaq8jnvy67ijdm47ja2jsvpuk4x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

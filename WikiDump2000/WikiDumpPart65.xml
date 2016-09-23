@@ -1,0 +1,1600 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>MediaWiki:Movepagetext</title>
+    <ns>8</ns>
+    <id>3002</id>
+    <revision>
+      <id>1332016</id>
+      <parentid>1332006</parentid>
+      <timestamp>2008-11-13T19:16:21Z</timestamp>
+      <contributor>
+        <username>Mike.lifeguard</username>
+        <id>55262</id>
+      </contributor>
+      <minor />
+      <comment>elsewhere</comment>
+      <text xml:space="preserve">*Using the form below will rename a page, moving all of its history to the new name. The old title will become a redirect page to the new title.
+*''Links to the old page title will not be changed; be sure to check for double-redirects (using &quot;What links here&quot;) after the move.'' You are responsible for making sure that links continue to point where they are supposed to go.
+*Note that the page will ''not'' be moved if there is already a page at the new title, unless it is empty or it is a redirect and has no past edit history. This means that you can rename a page back to where it was just renamed from if you make a mistake, but you cannot overwrite an existing page.</text>
+      <sha1>395325cyyg63fv2urt1zb23dtxs1fe3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Pagemovedtext</title>
+    <ns>8</ns>
+    <id>3010</id>
+    <revision>
+      <id>1993442</id>
+      <parentid>485492</parentid>
+      <timestamp>2010-12-08T03:59:32Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>fixed link</comment>
+      <text xml:space="preserve">Page &quot;[[$1]]&quot; moved to &quot;[[$2]]&quot;.
+
+'''Please [[{{ns:Special}}:Whatlinkshere/$2|check]]''' if this move has created any [[Help:Glossary#double redirect|double redirects]], and fix them as necessary.</text>
+      <sha1>d6riwqhv2zv522d8o3z26trhc7v6d5h</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Exporttext</title>
+    <ns>8</ns>
+    <id>3018</id>
+    <revision>
+      <id>996114</id>
+      <parentid>267640</parentid>
+      <timestamp>2007-10-08T00:05:21Z</timestamp>
+      <contributor>
+        <username>Darklama</username>
+        <id>7662</id>
+      </contributor>
+      <minor />
+      <comment>updated to reflect that XML files can be imported now</comment>
+      <text xml:space="preserve">You can export the text and editing history of a particular page or
+set of pages wrapped in some XML. This may then be imported into another
+wiki running MediaWiki software through use of [[{{ns:Special}}:Import]].
+
+To export Wikibook module pages, enter the titles in the text box below, one title per line, and
+select whether you want the current version as well as all old versions, with the page
+history lines, or just the current version with the info about the last edit.
+
+In the latter case you can also use a link, e.g. [[{{ns:Special}}:Export/Chess]] for the
+main Wikibook module [[Chess]].</text>
+      <sha1>r8r4yw9u06s7dzhlvct3ut9mphgql10</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:GCSE Science/Newton's second law</title>
+    <ns>1</ns>
+    <id>3023</id>
+    <revision>
+      <id>381386</id>
+      <parentid>240155</parentid>
+      <timestamp>2006-02-28T20:36:40Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Newton's second law (GCSE science)]] moved to [[Talk:GCSE Science/Newton's second law]]: rename</comment>
+      <text xml:space="preserve">The derivation needs work. V&lt;sub&gt;1&lt;/sub&gt; -V&lt;sub&gt;2&lt;/sub&gt; is not the acceletartion :-( it's the change in velocity. The acceleration is the ''rate'' of change of velocity. i.e. 
+
+(V&lt;sub&gt;1&lt;/sub&gt; -V&lt;sub&gt;2&lt;/sub&gt;)/t 
+
+Theresa
+
+Also, there has been no previous definition of force, which makes this supposed proof spurious. At best, it's a poor way of motivating a ''definition'' of force, not a ''derivation''. Someone with a GCSE syllabus needs to correct this.</text>
+      <sha1>pt5s5u5blubczb2t871ib99apps3qle</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Physics Study Guide/Normal force and friction</title>
+    <ns>0</ns>
+    <id>3024</id>
+    <revision>
+      <id>2710036</id>
+      <parentid>2554746</parentid>
+      <timestamp>2014-10-04T11:28:48Z</timestamp>
+      <contributor>
+        <ip>117.213.105.98</ip>
+      </contributor>
+      <comment>/* The Normal Force */</comment>
+      <text xml:space="preserve">{{PSG}}
+
+==The Normal Force==
+
+Why is it that we stay steady in our chairs when we sit down? According to the first law of motion, if an object is translationally in equilibrium (velocity is constant), the sum of all the forces acting on the object must be equal to zero.  For a person sitting on a chair, it can thus be postulated that a '''normal force''' is present balancing the '''gravitational force''' that pulls the sitting person down.  However, it should be noted that only some of the normal force can cancel the other forces to zero like in the case of a sitting person. In Physics, the term '''normal''' as a modifier of the '''force''' implies that this force is acting perpendicular to the surface at the point of contact of the two objects in question.  Imagine a person leaning on a vertical wall.  Since the person does not stumble or fall, he/she must be in equilibrium. Thus, the component of his/her weight along the horizontal is balanced or countered (opposite direction) by an equal amount of force -- this force is the ''normal force'' on the wall. So, on a slope, the normal force would not point upwards as on a horizontal surface but rather perpendicular to the slope surface.
+
+The normal force can be provided by any one of the four fundamental forces, but is typically provided by electromagnetism since microscopically, it is the repulsion of electrons that enables interaction between surfaces of matter.  There is no easy way to calculate the normal force, other than by assuming first that there is a normal force acting on a body in contact with a surface (direction perpendicular to the surface).  If the object is not accelerating (for the case of uniform circular motion, the object is accelerating) then somehow, the magnitude of the normal force can be solved.  In most cases, the magnitude of the normal force can be solved together with other unknowns in a given problem.
+
+Sometimes, the problem does not warrant the knowledge of the normal force(s).  It is in this regard that other formalisms (e.g. Lagrange method of undertermined coefficients) can be used to eventually ''solve'' the physical problem.
+
+==Friction==
+
+When there is relative motion between two surfaces, there is a resistance to the motion.  This force is called friction.  Friction is the reason why people could not accept Newton's first law of Motion, that an object tends to keep its state of motion. Friction acts opposite to the direction of the original force. '''The frictional force''' is equal to the '''frictional coefficient''' times the '''normal force'''.
+
+Friction is caused due to attractive forces between the molecules near the surfaces of the objects. If two steel plates are made really flat and polished and cleaned and made to touch in a vacuum, it bonds together. It would look as if the steel was just one piece. The bonds are formed as in a normal steel piece. This is called cold welding. And this is the main cause of friction.
+
+The above equation is an empirical one--in general, the frictional coefficient is not constant.  However, for a large variety of contact surfaces, there is a well characterized value.  This kind of friction is called Coulomb friction.  There is a separate coefficient for both static and kinetic friction.  This is because once an object is pushed on, it will suddenly jerk once you apply enough force and it begins to move.
+
+Also, the frictional coefficient varies greatly depending on what two substances are in contact, and the temperature and smoothness of the two substances.  For example, the frictional coefficients of glass on glass are very high.  When you have similar materials, in most cases you don't have Coulomb friction.
+
+For '''static friction''', the force of friction actually increases proportionally to the force applied, keeping the body immobile.  Once, however, the force exceeds the maximum frictional force, the body will begin to move.  The maximum frictional force is calculated as follows:
+
+{{PSG/eq|&lt;math&gt;\left|\vec{F}_f\right| \leq \mu_s\left|\vec{N}\right|&lt;/math&gt;}}
+
+'''The static frictional force''' is less than or equal to the '''coefficient of static friction''' times the '''normal force'''.  Once the frictional force equals the coefficient of static friction times the normal force, the object will break away and begin to move.
+
+Once it is moving, the frictional force then obeys:
+
+{{PSG/eq|&lt;math&gt;\left|\vec{F}_f\right| = \mu_k\left|\vec{N}\right|&lt;/math&gt;}}
+
+'''The kinetic frictional force''' is equal to the '''coefficient of kinetic friction''' times the '''normal force'''.  As stated before, this always opposes the direction of motion.
+
+[[File:Example coefficient of friction, Newton's 2nd, Newton's 3rd laws.ogv|thumbtime=5:44|middle|720px|Friction example problem'']]
+
+==Variables==
+{|style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot;
+!Symbol||Units||Definition
+|-
+|&lt;math&gt;\vec{F}_f&lt;/math&gt;||&lt;math&gt;\mathrm{N}\ &lt;/math&gt;||Force of friction
+|-
+|&lt;math&gt;\mu\ &lt;/math&gt;||none||Coefficient of friction
+|}
+
+&lt;H2&gt;Definition of Terms&lt;/H2&gt;
+&lt;table WIDTH=&quot;100%&quot; &gt;
+&lt;tr&gt;&lt;td style=&quot;background-color: #FFFFEE; border: solid 1px #FFC92E; padding: 1em;&quot; valign=top&gt;
+'''Normal force (N):''' The force on an object perpendicular to the surface it rests on utilized in order to account for the body's lack of movement. Units: newtons (N)&lt;br&gt;
+&lt;br&gt;
+'''Force of friction (F&lt;sub&gt;f&lt;/sub&gt;): ''' The force placed on a moving object opposite its direction of motion due to the inherent roughness of all surfaces. Units: newtons (N)&lt;br&gt;
+&lt;br&gt;
+'''Coefficient of friction ('''&amp;mu;'''):''' The coefficient that determines the amount of friction.  This varies tremendously based on the surfaces in contact.  There are no units for the coefficient of either static or kinetic friction&lt;br&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+It's important to note, that in real life we often have to deal with viscose and turbulent friction - they appear when you move the body through the matter. 
+
+Viscose friction is proportional to velocity and takes place at approximately low speeds. Turbulent friction is proportional to &lt;math&gt;V^2&lt;/math&gt; and takes place at higher velocities.
+
+{{BookCat}}</text>
+      <sha1>pzlrq8mkgk81cgdhj5zjox2l1c0nhjj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:R3m0t</title>
+    <ns>2</ns>
+    <id>3033</id>
+    <revision>
+      <id>380975</id>
+      <parentid>155042</parentid>
+      <timestamp>2006-02-28T12:48:40Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <comment>avoid redirect</comment>
+      <text xml:space="preserve">r3m0t ([[w:User:R3m0t]]), 15, mainly editing [[Lucid dreaming]], [[High school extensions]] and [[GCSE Science]].
+
+testing my sig: [[User:R3m0t|r3m0t]] [[Special:Contributions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 04:59, 31 Jan 2004 (UTC)
+
+Latest LD failure (night of 08 April): My school bus was actually ''falling'' 5 metres! What do I do? A Reality Check. Does it work? No. What do I do? Another Reality Check. Does it work? ''Yes!'' What do I do? Forget in all the excitement of a school bus falling down into a train station.
+
+Wahey!
+
+Memo: Check [[User:Paddu]] has finished his/her pear soup.</text>
+      <sha1>oyojugtsu4hksmx72gp2fmzg36dkqxu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>High School Mathematics Extensions/Mathematical Programming</title>
+    <ns>0</ns>
+    <id>3035</id>
+    <revision>
+      <id>2362122</id>
+      <parentid>2286951</parentid>
+      <timestamp>2012-06-11T06:19:51Z</timestamp>
+      <contributor>
+        <username>Mvdk</username>
+        <id>662195</id>
+      </contributor>
+      <comment>/* Floating point Programming */ Generally, people should not be using short floats unless they are aware of the difficulties of writing numerically stable algorithms.  This requires awareness of things like non-associativity of the arithmetic.</comment>
+      <text xml:space="preserve">{{High School Mathematics Extensions/TOC}}
+
+'''Before we begin'''
+:This chapter will not attempt to teach you how to program rigorously. Therefore a basic working knowledge of the C programming language is highly recommended. It is recommended that you learn as much about the C programming language as possible before learning the materials in this chapter.
+
+:Please read the first 7 lessons of [http://cplus.about.com/od/learningc/a/ctutorialprelim.htm: &quot;C Programming Tutorial&quot;] at About.com if you are unfamiliar with programming or the C programming language.
+
+As you gain programming experience you will appreciate the more specific explanations like [[C_language | The C Programming Wikibook]].
+
+== Introduction to programming ==
+Programming has many uses. Some areas where programming and computer science in general are extremely important include artificial intelligence and statistics. Programming allows you to use computers flexibly and process data very quickly.
+
+When a program is written, it is written into a textual form that a human can understand. However, a computer doesn't directly understand what a human writes. It needs to be transformed into a way that the computer can directly understand.
+
+For example, a computer is like a person who reads and speaks German. You write and speak in English. The letter you write to the computer needs to be translated for the computer to speak. The program responsible for this work is referred to as the ''compiler''. 
+
+You need to ''compile'' your English-like instructions, so that the computer can understand it. Once a program has been compiled, it is hard to &quot;un-compile&quot; it, or transform it back into English again. A programmer writes the program (to use our analogy, in English), called ''source code'', which is a human-readable definition of the program, and then the ''compiler'' translates this into &quot;machine code&quot;. We recommend using the widely available gcc compiler.
+
+When we look at mathematical programming here, we will look at how we can write programs that will solve some difficult mathematical problems that would take us normally a lot of time to solve. For example, if we wanted to find an approximation to the root of the polynomial ''x''&lt;sup&gt;5&lt;/sup&gt;+''x''+1 - this is very difficult for a human to solve. However a computer can do this no sweat -- how?
+
+=== Programming language basics ===
+We will be using the C programming language throughout the chapter, please learn about the basics of C by reading the first 7 lessons of [http://cplus.about.com/od/learningc/a/ctutorialprelim.htm: &quot;C Programming Tutorial&quot;] at About.com.
+
+===Sample C Program===
+
+
+* [[/Sample C Program/]]
+
+== Data Types ==
+
+'''Size Constraints: Header files limits.h, and float.h  '''
+
+Computers are machines based on Boolean logic.  This means that the computer is based on some method of differentiating a state as true or false, or set and not set.  Abstractly we think of computers as using 1's for true or set and 0's for false or not set.  We refer to these 1's and 0's as bits.  In computers we don't keep track of information as bits.  Instead information in a computer is stored in addressable blocks called bytes.  A byte is the smallest piece of memory that can be accessed in the computer that is not a bit.  When we declare a [scalar] variable in a C program that memory has an address and a length.  The address says where the memory starts, and the length states how many bytes are used to express the variable.
+
+The include file [[w:Limits.h|&lt;limits.h&gt;]] is used to define the size of addressable integer types and the include file [[w:Float.h|&lt;float.h&gt;]] is used to define the size of addressable floating point types.  The values in these files are compiler and computer dependent.  This means that if you change compilers or compile your program on a different type of computer it may execute differently.
+
+Here are some of the values defined in these two files:
+
+
+
+''' Exercises '''
+
+== Programming With Integers ==
+Discrete programming deals with integers and how they are manipulated using the computer.
+
+=== Integer Operations ===
+
+=== Understanding integer division ===
+In C, the command
+:int number;
+:number = 3 / 2;
+will set aside some space in the computer memory, and we can refer to that space by the ''variable'' name '''number'''. In the computer's mind, number is an integer, nothing else. After
+:number = 3 / 2;
+numbers equals 1, not 1.5, this is due to that fact that '''/''' when applied to two integers will give only the integer part of the result. For example in C:
+:5 / 2 equals 2
+:353 / 3 equals 117
+:-5 / 2 equals -2
+:353 / -3 equals -117
+: -5 / - 2 equals 2
+
+If the number you are testing is between one and negative one - for example 2 / 5 or -2 / 5 then the result is undefined, although most compilers return 0. 
+
+The ''modular operator'', %, returns the remainder resulting from integer division. For example in C:
+
+:5 % 2 equals 2
+:353 % 3 equals 2
+:-5 % 2 equals -2
+:353 % - 3 equals 2
+:-5 % -2 equals -1
+
+The sign of the result takes on the sign of the dividend as you would expect.  For fractions that are between one and negative one the result is the same as the numerator.  
+
+''' Exercises '''
+
+Exercise 1
+
+Write down your thoughts on what a program to explore division and modulus should do.&lt;br&gt;
+:*What processing has to occur?
+:*What types of input do you have?
+:*What does your output look like?
+
+The following example will walk you through this exercise.
+
+===C Program Example For Exercise 1 ===
+
+* [[/Program to Explore Integer Division And Integer Modulus/]]
+
+=== Modeling Recursively defined functions ===
+The factorial function n! is recursively defined:
+:0! = 1
+:n! = n&amp;times;(n-1)! if n &amp;ge; 1
+In C, if fact(n) is the functions as described above we want
+:&lt;math&gt;fact(0) = 1;&lt;/math&gt;
+:&lt;math&gt;fact(n) = n * fact(n - 1)&lt;/math&gt;; if &lt;math&gt;n \ge 1&lt;/math&gt;
+we should note that all recursively defined functions have a ''terminating condition'', it is the case where the function can give a direct answer to, e.g. fact(0) = 1.
+
+We can model the factorial functions easily with the following code and then execute it:
+:int fact (int n)
+:{
+::  if (n == 0)
+:::    return 1;
+::  if (n &gt;= 1)
+:::    return n * fact(n - 1);
+:}
+The C function above models the factorial function very naturally. To test the results, we can compile the following code:
+:&amp;#x0023;include &lt;stdio.h&gt; /* Standard Input &amp; Output Header file */
+:int fact (int n)
+:{
+::  if (n == 0)
+:::    return 1;
+::  if (n &gt;= 1)
+:::    return n * fact(n - 1);
+:}
+:void main()
+:{
+::int n = 5;
+::printf(&quot;%d&quot;, fact(n)); /* printf is defined in stdio.h */
+:}
+
+We can also model the Fibonacci number function. Let fib(n) return the (''n'' + 1)th Fibonacci number, the following should be clear
+:fib(0) should return 1
+:fib(1) should return 1
+:fib(n) should return fib(n - 1) + fib(n - 2); for n &amp;ge; 2
+we can model the above using C:
+:int fib (int n)
+:{
+::if (n == 0 || n == 1) /* if n = 0 or if n = 1 */
+:::return 1;
+::if (n &gt;= 2)
+:::return fib(n - 1) + fib(n - 2);
+:}
+Again, you shall see that modeling a recursive function is not hard, as it only involves translating the mathematics in C code.
+
+=== Modeling non-recursive functions ===
+There are functions that involve only integers, and they can be modelled quite nicely using ''functions'' in C. The factorial function
+:f(n) = n! = n(n - 1)(n - 2) ... 3&amp;times;2&amp;times;1
+can be modeled quite simply using the following code
+
+ int n = 10;  //get factorial for 10
+ int f = 1;   //start f at 1
+ while(n &gt; 0) //keep looping if n bigger then 0
+ {
+    f = n * f; //f is now product of f and n
+    n = n - 1; //n is one less (repeat loop)
+ }
+
+
+----
+
+----
+
+== Floating point Programming ==
+
+Programs can not only be written with integer values, but also with various forms of floating-point values. You should normally use the ''double'' keyword to define a floating point number; the reason for this is that in many cases, the intuitive way to write an expression in floating point arithmetic is suboptimal. Floating point arithmetic is non-associative - in base-10, a system that has 2 places of accuracy has (1.0 + 0.02) + 0.04 = 1.0 (rounded down because 1.02 rounds to 1.0, and then 1.04 rounds down to 1.0), but 1.0 + (0.02 + 0.04) = 1.0 + 0.06 = 1.1. There also exists a ''float'' type, which uses 4 bytes instead of 8, but you should not use it unless you know what you are doing, since there is only 24 bits of accuracy, or roughly 9 base-10 significant digits.
+
+Beware: If you use 2 integer operands, it still performs integer arithmetic, so this prints 1, not 1.5 as you'd expect:
+
+:double number;
+:number = 3/2;
+:printf(&quot;%f\n&quot;,number);
+
+An example of a definition of a floating-point number and then calculating 3/2:
+
+:double number = 3;
+:number /= 2;
+:printf(&quot;%f\n&quot;,number);
+
+A caveat: floating point numbers do not perfectly represent all decimal numbers. Obviously, because the memory consumed by a variable is finite, it cannot represent an infinite number, but only an approximation of it. In addition, some numbers cannot be perfectly represented in floating point. In this code:
+
+:double number;
+:number = 1/10;
+
+the value of number is not 0.1, but actually 0.10000000000000001.
+
+An analogy of this limitation is the value of 1/3. In the decimal system, this value cannot be exactly represented with a finite number of 3s, as in 0.333...  Since 2 and 5 are the only prime factors of 10 (the base of the decimal system), only fractions with denominators comprising products of 2s and 5s, such as 5/8 &lt;math&gt;\left ( \tfrac{5}{2^3} \right )&lt;/math&gt; or 231/250 &lt;math&gt;\left ( \tfrac{231}{2\times5^3} \right )&lt;/math&gt; (but not 1/3 or 5/14) can be exactly represented by decimal numbers (0.625 and 0.924, respectively).
+
+Computers use base 2 arithmetic, so only fractions with denominators comprising products of 2s (powers of 2), such as 5/8 &lt;math&gt;\left ( \tfrac{5}{2^3} \right )&lt;/math&gt; or 231/256 &lt;math&gt;\left ( \tfrac{231}{2^8} \right )&lt;/math&gt; (but not 231/250, 1/3 or 1/10, as above) can be exactly represented by a floating point number.
+
+{{High_School_Mathematics_Extensions/Suggestions}}</text>
+      <sha1>ohzb7bnjjn6peqwrhu51rjprfleyx1d</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Physics Study Guide/Fields</title>
+    <ns>0</ns>
+    <id>3036</id>
+    <revision>
+      <id>1973760</id>
+      <parentid>683716</parentid>
+      <timestamp>2010-11-17T22:46:28Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <text xml:space="preserve">{{PSG}}
+
+=Fields=
+
+A field is one of the more difficult concepts to grasp in physics.  Simply put, a '''field''' is a collection of vectors often representing the force an object ''would'' feel if it were placed at any particular point in space.  With gravity, the field is measured in newtons, as it depends solely on the mass of an object, but with electricity, it is measured in newtons per coulomb, as the force on an electrical charge depends on the amount of that charge.  Typically these fields are calculated based on canceling out the effect of a body in the point in space that the field is desired.  As a result, a field is a vector, and as such, it can (and should) be added when calculating the field created by TWO objects at one point in space.
+
+Fields are typically illustrated through the use of what are called '''field lines''' or '''lines of force'''.  Given a source that exerts a force on points around it, sample lines are drawn representing the direction of the field at points in space around the force-exerting source.
+
+There are three major categories of fields:
+
+# '''Uniform fields''' are fields that have the same value at any point in space.  As a result, the lines of force are parallel.
+# '''Spherical fields''' are fields that have an origin at a particular point in space and vary at varying distances from that point.
+# '''Complex fields''' are fields that are difficult to work with mathematically (except under simple cases, such as fields created by two point object), but field lines can still typically be drawn.  '''Dipoles''' are a specific kind of complex field.
+
+Magnetism also has a field, measured in Tesla, and it also has '''field lines''', but its use is more complicated than simple &quot;force&quot; fields.  Secondly, it also only appears in a two-pole form, and as such, is difficult to calculate easily.
+
+The particles that form these magnetic fields and lines of force are called electrons and not magnetons. A magneton is a quantity in magnetism.
+
+== Definition of terms ==
+
+{| WIDTH=&quot;100%&quot;
+|-
+| style=&quot;background-color: #FFFFEE; border: solid 1px #FFC92E; padding: 1em;&quot; valign=&quot;top&quot; |
+'''Field:''' A collection of vectors that often represents the force that an object ''would'' feel if it were placed in any point in space.&lt;br&gt;
+&lt;br&gt;
+'''Field Lines: ''' A method of diagramming fields by drawing several sample lines showing direction of the field through several points in space.&lt;br&gt;
+&lt;br&gt;
+|}
+
+
+{{BookCat}}</text>
+      <sha1>6szmplc10tmzcvf9k3qlkvt2eabae9j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:ゐ</title>
+    <ns>2</ns>
+    <id>3037</id>
+    <revision>
+      <id>155046</id>
+      <timestamp>2003-12-05T22:36:48Z</timestamp>
+      <contributor>
+        <username>ゐ</username>
+        <id>337</id>
+      </contributor>
+      <comment>はじめの一歩</comment>
+      <text xml:space="preserve">[http://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:%E3%82%90 ウィキペディアの利用者:ゐ]
+
+2003年12月6日より活動開始。
+
+「物理学」「生物学」「フランス語」「ラテン語」などの翻訳・作成を予定しています。</text>
+      <sha1>n81wfaytbzjxq1ci29azv4knif2bn9x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Romanian/Basics</title>
+    <ns>0</ns>
+    <id>3041</id>
+    <revision>
+      <id>2480172</id>
+      <parentid>2480148</parentid>
+      <timestamp>2013-01-21T13:55:14Z</timestamp>
+      <contributor>
+        <username>PiRSquared17</username>
+        <id>336816</id>
+      </contributor>
+      <comment>Reverted 1 edit by [[Special:Contributions/62.254.212.193|62.254.212.193]] ([[User talk:62.254.212.193|talk]]). ([[w:WP:TW|TW]])</comment>
+      <text xml:space="preserve">==Common phrases==
+
+*Romanian (person): &quot;Român&quot; (Ro-MOOHN), &quot;Româncă&quot; (Ro-MOOHN-kuh)
+*Romanian (language): &quot;Română&quot; (Ro-MOOH-nuh)
+*hello: &quot;Salut&quot; (Sa-loot)
+*hello: &quot;bună&quot; (Boo-Nuh)  (informal / familiar)
+*good-bye: &quot;La revedere&quot; (Lah reh-veh-DEH-reh)  
+*bye: &quot;Pa&quot; (in informal occasions in [[Transylvania]] - &quot;Servus&quot; [sehr-voos]) 
+*please: &quot;V&amp;#259; rog&quot; (Vuh rohg) (formal)
+*please: &quot;te rog&quot;  (Teh Rohg)   (informal / familiar)
+*sorry: &quot;Îmi pare rău&quot; (Oohm pah-reh ruh)
+*thank you: &quot;Mulţumesc&quot; (Mool-tzu-mesk)
+*you're welcome: Cu plăcere (koo pluh-cheh-reh)
+*yes: &quot;Da&quot; (Da)
+*no: &quot;Nu&quot; (Noo)
+*I don't understand: &quot;Nu înţeleg&quot; (Noo uhnts-eleg)
+*Where's the bathroom?: &quot;Unde este toaleta?&quot; (Oon-deh yes-teh twah-leta)
+*Do you speak English?: &quot;Vorbiţi engleza?&quot; (Vor-beets eng-lez-ahh)
+*good morning: Bună dimineața (boo-nuh dee-mee-nats-ah)
+*good day: Bună ziua (boo-nuh zee-wah)
+*good evening: Bună seara (boo-nuh seah-rah)
+*good night: Noapte Bună (nwap-teh boo-nuh)
+*who: Cine (chee-neh)
+*what: Ce (cheh)
+*where: Unde (oon-deh)
+*when: Când (kuhnd)
+*why: De ce (deh cheh)
+*how: Cum (koom)
+
+==Contents==
+
+{{Romanian/Introduction}}
+
+[[Category:Romanian]]
+[[de:Rumänisch/ Nützliche Ausdrücke]]</text>
+      <sha1>4gikz6aijydbla4h8oklcyl5ahqwzsk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Romanian/Numbers and colors</title>
+    <ns>0</ns>
+    <id>3043</id>
+    <revision>
+      <id>2665542</id>
+      <parentid>1929195</parentid>
+      <timestamp>2014-05-24T19:22:18Z</timestamp>
+      <contributor>
+        <ip>86.34.250.33</ip>
+      </contributor>
+      <comment>/* Numbers */</comment>
+      <text xml:space="preserve">==Numbers==
+; 1 : unu (''unu'')
+; 2 : doi (''doy'')
+; 3 : trei (''tray'')
+; 4 : patru (''pah-troo'')
+; 5 : cinci (''chinch'')
+; 6 : şase (''sha-seh'')
+; 7 : şapte (''shap-teh'')
+; 8 : opt (''opt'')
+; 9 : nouă (''nou-uh'')
+; 10 : zece (''zeh-cheh'')
+; 11 : unsprezece (''oon-spreh-zeh-cheh'')
+; 12 : doisprezece (''doy-spreh-zeh-cheh'')
+; 13 : treisprezece (''tray-spreh-zeh-cheh'')
+; 14 : paisprezece (''pie-spreh-zeh-cheh'')
+; 15 : cincisprezece (''chinch-spreh-zeh-cheh'')
+; 16 : şaisprezece (''shy-spreh-zeh-cheh'')
+; 17 : şaptesprezece (''shap-teh-spreh-zeh-cheh'')
+; 18 : optsprezece (''opt-spreh-zeh-cheh'')
+; 19 : nouăsprezece (''nou-uh-spreh-zeh-cheh'')
+; 20 : douăzeci (''...'')
+; 21 : douăzeci şi unu (''...'')
+; 22 : douăzeci şi doi (''...'')
+; 23 : douăzeci şi trei (''...'')
+; 30 : treizeci (''...'')
+; 40 : patruzeci (''...'')
+; 50 : cincizeci (''...'')
+; 60 : şaizeci (''...'')
+; 70 : şaptezeci (''...'')
+; 80 : optzeci (''...'')
+; 90 : nouăzeci (''...'')
+; 100 : o sută (''...'')
+; 101 : o sută unu (''...'')
+; 110 : o sută zece (''...'')
+; 200 : două sute (''...'')
+; 300 : trei sute (''...'')
+; 1,000 : o mie (''...'')
+; 2,000 : două mii (''...'')
+; 1,000,000 : un milion (''...'')
+; number _____ (''train, bus, etc.'') : numărul _____ (''...'')
+; half : jumătate (''...'')
+; less (than) : mai mic (decât) (''...'')
+; more (than) : mai mare (decât) (''...'')
+
+See [[../Numbers from 0 to 999/]]
+
+==Colors==
+
+NOTE: ''ah'' in English represents the sound 'a' as in &quot;far&quot;
+
+; black : negru (''neh-groo'')
+; white : alb (''ahlb'')
+; gray : gri (''gree'')
+; red : ro&amp;#351;u (''roh-shoo'')
+; blue : albastru (''ahl-bahs-troo'')
+; yellow : galben (''gahl-ben'')
+; green : verde (''vehr-deh'')
+; orange : portocaliu (''pohr-toh-ka-leeu'')
+; purple : mov (''mohv'')
+; brown : maro (''mah-roh'')
+
+==Contents==
+
+{{Romanian/Introduction}}
+
+==External Links==
+*[http://homepages.stuy.edu/~csaftoiu/romnums.html Convert any number from 1 to 1 million to romanian]
+
+{{BookCat}}</text>
+      <sha1>jqjipsjenfhodvnhvl3fx1irlz3uv4c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Romanian/Months and days of the week</title>
+    <ns>0</ns>
+    <id>3044</id>
+    <revision>
+      <id>2665606</id>
+      <parentid>927528</parentid>
+      <timestamp>2014-05-24T19:53:35Z</timestamp>
+      <contributor>
+        <username>Xania</username>
+        <id>40302</id>
+      </contributor>
+      <minor />
+      <comment>NB about lower-case for days and months as in most languages (except English)</comment>
+      <text xml:space="preserve">==Months==
+; January : ianuarie (''ya-nooh-ah-ree-yeh'')
+; February : februarie (''fe-bruh-ah-ree-yeh'')
+; March : martie (''mahr-tee-yeh'')
+; April : aprilie (''ah-pri-lee-yeh'')
+; May : mai (''mai'')
+; June : iunie (''yoo-nee-yeh'')
+; July : iulie (''yoo-lee-yeh'')
+; August : august (''ow-goost'')
+; September : septembrie (''sehp-tehm-bree-yeh'')
+; October : octombrie (''oc-tohm-bree-yeh'')
+; November : noiembrie (''no-iehm-bree-yeh'')
+; December : decembrie (''de-chehm-bree-yeh'')
+
+==Days==
+
+; today : astăzi(''ast-ehz'')
+; yesterday : ieri (''yehr'')
+; tomorrow : mâine (''muy-neh'')
+; this week : săptămâna asta (''sehp-teh-muh-na ahs-tah'')
+; last week : săptămâna trecută (''sehp-teh-muh-na treh-coo-ta'')
+; next week : săptămâna viitoare (''sehp-teh-muh-na vee-ee-toah-reh'')
+
+===Days of the week===
+
+; Sunday : duminică (''doo-mee-nee-ka'')
+; Monday : luni (''loohn'')
+; Tuesday : marţi (''mahrtz'')
+; Wednesday : miercuri (''myehr-coor'')
+; Thursday : joi (''joy'' with the 'j' like the French &quot;Bonjour&quot;)
+; Friday : vineri (''vee-nehr'')
+; Saturday : sâmbătă (''suhm-buh-tuh'')
+
+Note that as in most languages, but unlike English, days of the week and months are written with lower-case letters except when the word appears at the start of a sentence: ''luni'' not ''Luni''.
+
+==Contents==
+
+{{Romanian/Introduction}}
+
+[[Category:Romanian]]</text>
+      <sha1>67qz52e9amp2bv4f1ww8xqgxp3g0xwa</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:R3m0t</title>
+    <ns>3</ns>
+    <id>3052</id>
+    <revision>
+      <id>964541</id>
+      <parentid>964540</parentid>
+      <timestamp>2007-09-11T04:22:10Z</timestamp>
+      <contributor>
+        <username>Erik212</username>
+        <id>55815</id>
+      </contributor>
+      <minor />
+      <comment>/* Fixed copy/paste issue in LD book */</comment>
+      <text xml:space="preserve">I'm glad you liked HSE so much! I'm trying my best to do a good job, but as so often is the case in my first drafts, glaring spelling and grammar mistakes seem to plague my work. Lucky you pick them out for me.
+
+I do not know enough about Lisp, Prolog, Scheme (never heard of it) or Haskell to decide whether they are suitable for high school students or not. If you think a coherent course can be taught using one of those languages, then please go ahead! Create a new chapte if you have to. But I was thinking of teaching a more conventional language like Pascal. Anyway we are not just writing about programming, but mathematical programming. Haskell seems to be a good choice, but where can I find a good programming IDE/compiler for it? I simply haven't done the research.
+
+And nice to meet you. How do you do?
+
+[[User:Xiaodai|Zhuo Jia Dai]]
+
+:[http://www.schemers.org Scheme] is a simpler version of Lisp designed for teaching theoretical computer science. It's also used in some professional applications such as GIMP, the image editor. I would highly recommend it as it is fairly similar to Lisp. Note that the version taught at [http://www.htdp.org How To Design Programs] isn't quite the standard. [[User:R3m0t|r3m0t]] 11:52, 7 Dec 2003 (UTC)
+----
+Are you 14 years old ? If so I'm well impressed! [[User:Theresa knott|Theresa knott]] 11:35, 14 Jan 2004 (UTC)
+
+OK next question - are you in the uk? Are you doing you GCSE's if so can you help out with the coursework section of GCSE science? (Actually 3 questions I know) [[User:Theresa knott|Theresa knott]] 09:40, 16 Jan 2004 (UTC)
+
+Thanks man I am trying not to have a coronary about it ... --[[User:Karl Wick|Karl Wick]]
+-----
+[[Special:Contributions/r3m0t|(contr)]]... [[User:Dysprosia|Dysprosia]] 23:19, 30 Jan 2004 (UTC)
+:Thanks :) [[User:R3m0t|r3m0t]] [[Special:Contibutions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 05:00, 31 Jan 2004 (UTC)
+
+== Lucid Dreaming deletion ==
+Hi r3m0t, I don't know of a way to delete the version from the history except delete the whole page and the whole history. I think the page should be OK in the old versions list because it is not actively used and people will tend not to refer to it. Thanks for your concern and if there is a way to delete just that version I'd be happy to do it for you. --[[User:Karl Wick|Karl Wick]]
+
+== image ? ==
+What image are you asking about my friend ? --[[User:Karl Wick|Karl Wick]]
+
+PS Thanks for fixing my typos when you see them .. -[[User:Karl Wick|Karl Wick]]
+
+== nowiki tag ==
+Wow, I never noticed. Thanks for the help though and I will remember that &quot;no wiki&quot; tag that you just taught me. --[[User:Karl Wick|Karl Wick]]
+
+== auto TOC ==
+The [[MediaWiki:CellBioTOC|TOC]] I just made for [[Cell Biology]] does not seem to be working on [[Cell biology:Gene expression and translation|this page]] .. can you tell what am I doing wrong ? --[[User:Karl Wick|Karl Wick]]
+:Umm.. well I got it figured out r3m0t ... I spaced and named the TOC page wrong. Thanks anyway... --[[User:Karl Wick|Karl Wick]]
+
+== kirbymeister ==
+
+No, I just didnt wanna keep updating it every LD i get. (btw my cound is 2) [[User:KirbyMeister|KirbyMeister]] 21:35, 5 May 2004 (UTC)
+
+I got another LD today! Also, I created [[LD RC Time]], please check for errors. [[User:KirbyMeister|KirbyMeister]] 01:28, 21 Apr 2004 (UTC)
+
+==gcse science==
+
+Hi thanks for your offer of help. I suppose we could go at movement and change, most of the stuff comes under forces, but I've kinda got bored with physics after doing electricity and was thinking of starting a chemistry module. Would you be willing to help out with that ? What are you studying in chemistry at the moment ? (says Theresa Knott 26 March)
+
+==Lucid Dreaming FAQ==
+
+On the subect of copyrights, I can only point out the bold text on the bottom of the submit page... And, yes I have read the Lucid Dreaming module, and have been trying unsuccessfully to have an LD for the past couple of weeks. any tips? -- [[User:Gabriel Beecham|Gabriel Beecham]] 01:25, 3 Apr 2004 (UTC)
+
+I took out the nowiki tags because they show up when the message is inculded in other pages. look at [[Los verbos reflexivos (Spanish)]]. I think this is a bug. [[User:Perl|Perl]] 13:59, 4 Apr 2004 (UTC)
+
+==Hey Remot,==
+
+I saw a little mention of the LD wikibook in alt.dreams.lucid. Good job so far! Thanks for the tips, I'll continue writing stuff whenever I feel I have some info to share.
+
+[[User:Kaycee|KC]] 12:43, 5 Apr 2004 (UTC)
+
+==Tharenthel==
+
+No problem, didn't have much else to do anyway. And good luck on the dream interpretation section, it sounds like a lot of &amp;mdash; ummm... ''fun''. :-) &amp;mdash;[[User:Tharenthel|Tharenthel]] 03:23, 10 Aug 2004 (UTC)
+
+
+== Remot ==
+
+A long time ago, you asked if I'd like to move the material in the &quot;Science in Simple Steps&quot; development hypertextbook to Wikibooks.  Having finally gotten enough time to pay at least a bit of attention to the projec again, ''I would love to.''  Especially since I don't know when work and other factors may swallow me whole again, and I'd want the start we've made to go somewhere where others can carry on the good work without having months go by with their messages unanswered. :P   So I would like to ask - beg, even - that you and the others with you help guide me through the process of setting things up and getting them copied over in a way that is consistent with the WikiBooks organization.  I would be endlessly grateful for the help.  [[User:April Follies]]
+
+== 14??!! ==
+
+You're 14? And started punishing others? OMG! -- [[User:Paddu|Paddu]] 22:41, 21 Oct 2004 (UTC)
+
+== LoF ==
+
+Are you doing anything else around the Lord of the Flies page thing?
+
+Oh, there's nothing at all wrong with being 14 :P. I'm 15.... Though I use Wikipedia more. [[User:Estel|Estel]] 13:02, 2 Nov 2004 (UTC)
+
+: Erm, I just about started that page when we stopped studying it in class. However, lucky for you (assuming you want to see the page grow but are too lazy to do it yourself) it's an exam text, not a coursework, so I'll have to revise it. I'll put up notes then. :) Oh yes, and I'm 15 by now. Better change mentions... [[User:R3m0t|r3m0t]] [[Special:Contributions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 17:34, 2 Nov 2004 (UTC)
+
+
+==Wiki Junior Project==
+We are currently in the process of deciding what the first topics will be. We have already decided that the first humanities topic will be '''Countries of the World:South America'''. We need to decide what our first science topic will be. We already have plenty of pictures available for '''Big Cats''', '''The Solar System''' and '''Human Flight'''.  We're having a little vote to decide which one we should work on first. Please come to [[Meta:Wikijunior project first topics]]. Cheers! [[User:Theresa knott|Theresa Knott]] [[User talk:Theresa knott| (Not the skater)]] 07:45, 6 Nov 2004 (UTC)
+
+: I put dinosaurs on that page previously. What happened? [[User:R3m0t|r3m0t]] [[Special:Contributions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 09:15, 6 Nov 2004 (UTC)
+::They were removed as a non starter because of difficulties getting suitable media. The trouble with dinosuars is that it's only possible to easily get photos of bones. Bones are fine, we should certainly have them but we also need good quality artists impressions. It'll be much easier to get artists once the project is up and running. I had to narrow the choice down to a managable list. i opted for the three where we had plenty of photographs already, so that we wouldn't be held back by lack of media. [[User:Theresa knott|Theresa knott]] 19:39, 7 Nov 2004 (UTC)
+
+== message from [[User:166.121.36.7]] found in wikibook main text ==
+
+The following message was posted by [[User:166.121.36.7]] in the Lucid Dreaming wikibook. Like an idiot, I replied in the main text too instead of sending you this message. I also replied to the user on the talkpage, but feel free to send him additional comments if you have any.
+
+--&gt; to whoever messaged me... hmm, i have no idea how to message you back, but since you deleted my test, i guess i can talk to you from here. just wondering, isn't the concept of a freely editable &quot;wikibook&quot; something dangerous? if anybody was feeling malicious, he could just go and delete all the contents...
+
+: (note: I'm not the one who deleted your test) When an edit is made to a page, even an entire content deletion, the version of the page before that is saved so someone can revert (i.e. reverse) it. By clicking on the &quot;history&quot; tab at the top of the page you can view all the edits that have been made to it, latest edit first. To send a message to a user you go to the page &lt;nowiki&gt;&quot;User talk:[username]&quot;&lt;/nowiki&gt; (no quotes, replace &lt;nowiki&gt;[username]&lt;/nowiki&gt; with the username of the person you want to talk to) and edit that page. For more information see [[Help:Wikibooks]]. [[User:Exabyte|'''Exabyte''']] ([[User_talk:Exabyte|talk]])[[User_talk:Exabyte|&amp;shy;]] 01:41, 10 Nov 2004 (UTC)
+
+[[User:Exabyte|'''Exabyte''']] ([[User_talk:Exabyte|talk]])[[User_talk:Exabyte|&amp;shy;]] 04:58, 10 Nov 2004 (UTC)
+
+: Thanks. :) I'll just tell them about Talk pages. [[User:R3m0t|r3m0t]] [[Special:Contributions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 12:16, 10 Nov 2004 (UTC)
+
+I'm sorry. It was a mistake. I was going to move my own page.
+
+== Book of the month ==
+
+Hi R3m0t! Congratulations for the book of the month! Thank you for helping me to change all pages connected to &quot;Book of the month&quot;. I wanted to do it by myself, but fell asleep (00:00 UTC is 1:00 over here), and didn't get up until now. Anyway, would you help me also in the future to organize things? Your help is highly appreciated, and I think you do things in a very professional way. You also did a good job in talking to people who did not vote correctly. B.t.w. I put in a picture on the main page temporarily, but you can replace it with yours once you are allowed to. Cheers, --[[User:Andreas Ipp|Andreas Ipp]] 08:01, 1 Feb 2005 (UTC)
+
+: I'm proud. :) I live in London, so I was up till about 00:30 closing the vote and updating pages related to it. Today I was really sleepy at school, but never mind. I'm happy to help with any more administrivia ;) you would like done. Thanks for putting that picture up. No email from the person with the evil license yet. --[[User:R3m0t|r3m0t]] [[Special:Contributions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 17:31, 1 Feb 2005 (UTC)
+
+==Ido Wikibooks==
+Hi R3m0t, this is [[:io:user:mithridates|mithridates]] from the Ido wikipedia. I put up a request for an Ido wikibooks a few days ago but here hasn't been any response as of yet and I thought it might be best to ask you directly. Could get this done? Thank you.
+
+
+Hey people i've been trying my BEST to get a lucid dream,i cant,help me!!!
+
+== REMask device ==
+
+Hi out there , has anyone used an REmask and are they as good , better , worse than the lifetools nova dreamer. Nova dreamers are so dear and hard to get that for $130 i'm considering one .
+Any views.
+45 never been lucid ( that I can recall ) , read about it and am dying to experience it too.
+Any dietery triggers knownabout or worth a go. Tried sleep - wake - sleep with SUGAR but still nothing. 
+Can you try too hard ?
+
+== Addition to Lucid Dreaming ==
+
+I placed my mattress on my bedroom's heating vent (you have no idea how comfortable that can be). Although I've never been lucid in a dream, I have noticed that the dreams themselves are more clear than they used to be (or maybe it improved my recall for some reason, who knows). Maybe you can start a chapter on external stimulation.
+
+(I don't understand this editor too well, I hope this comes out ok)
+
+== Translation in french language. ==
+
+Hello,
+
+I'm very interesting in Lucid dreaming. However, french lucid dreaming community isn't very large.
+
+We need documentation about lucid dreaming but we're not enough in order to redact them.
+
+That's why I ask you if I can translate them into french.
+
+In waiting your approbation,
+Nicolas.
+
+== CC-NC ==
+
+Why do you upload media under noncommercial license? --[[User:Derbeth|Derbeth]] [[User talk:Derbeth|&lt;sup&gt;talk&lt;/sup&gt;]] 09:34, 15 September 2006 (UTC)
+
+== Appreciation ==
+
+Hi, I'm reading the Lucid Dreaming book now. It is excellent. Thank you very much.
+
+== About Lucid Dreaming ==
+
+Hello!
+I've found very useful your book about lucid dreaming... you should go on with this idea!
+I want to ask you about a problem I have. I find too difficult in concentrating before sleeping, nad most methods needs concentration. Which method requires less concentration?
+Please, send me an e-mail to gzimize at gmail.com
+--[[User:Gzimize|Gzimize]] 16:38, 1 December 2006 (UTC)
+
+== I'm willing to help ==
+
+Hey, I'm willing to help you with anything on your Lucid Dreaming book. I know quite a lot myself, and I am willing to do research, etc. I guess just post back on my talk page? -Erik212
+
+==Good Resource==
+
+Hey I took a look at your lucid dreaming book it's pretty good.  I have narcolepsy myself and I have been lucid dreaming almost every night for over 3 years.  It's something else I'll tell ya.  If you have any questions or anything I'm sure I could offer my insight.  I'm somewhat of a self proclaimed sleep expert.  You can post on my talk page or email me. -lethargiclown
+
+== Fixed copy/paste issue in LD book ==
+
+^^</text>
+      <sha1>ryq0jk5vq28f6t4vhmc1a9jzmq2kjcl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Brianluft</title>
+    <ns>2</ns>
+    <id>3053</id>
+    <revision>
+      <id>155062</id>
+      <timestamp>2003-12-06T04:17:50Z</timestamp>
+      <contributor>
+        <username>Brianluft</username>
+        <id>338</id>
+      </contributor>
+      <text xml:space="preserve">Brian Luft.
+
+Interested in computer science, specifically C++ and C# programming.
+
+Personal web page: http://www.brianluft.com/</text>
+      <sha1>8ixnofsdcdsiygfcj9dpifc4tnlkzrb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Calculus/Vectors</title>
+    <ns>0</ns>
+    <id>3054</id>
+    <revision>
+      <id>2644583</id>
+      <parentid>2644042</parentid>
+      <timestamp>2014-05-02T00:14:51Z</timestamp>
+      <contributor>
+        <username>Xania</username>
+        <id>40302</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/97.75.121.197|97.75.121.197]] ([[User talk:97.75.121.197|talk]]) to last version by Prymshbmg</comment>
+      <text xml:space="preserve">{{Calculus/Top Nav|Multivariable and differential calculus|Lines and Planes in Space}}
+----
+
+==Two-Dimensional Vectors==
+===Introduction===
+In most mathematics courses up until this point, we deal with '''scalars'''.  These are quantities which only need one number to express.  For instance, the amount of gasoline used to drive to the grocery store is a scalar quantity because it only needs one number: 2 gallons.
+
+In this unit, we deal with '''vectors'''.  A vector is a '''directed line segment''' -- that is, a line segment that points one direction or the other.  As such, it has an '''initial point''' and a '''terminal point'''.  The vector starts at the initial point and ends at the terminal point, and the vector points towards the terminal point.  A vector is drawn as a line segment with an arrow at the terminal point:
+
+&lt;center&gt;[[Image:VectorCalculations_1.png|60px|A single vector without coordinate axes.]]&lt;/center&gt;
+
+
+The same vector can be placed anywhere on the coordinate plane and still be the same vector -- the only two bits of information a vector represents are the '''magnitude''' and the '''direction'''.  The magnitude is simply the length of the vector, and the direction is the angle at which it points.  Since neither of these specify a starting or ending ''location'', the same vector can be placed anywhere.  To illustrate, all of the line segments below can be defined as the vector with magnitude &lt;math&gt;4\sqrt{2}&lt;/math&gt; and angle 45 degrees:
+
+&lt;center&gt;[[Image:VectorCalculations_2.png|175px|Multiple locations for the same vector.]]&lt;/center&gt;
+
+It is customary, however, to place the vector with the initial point at the origin as indicated by the black vector.  This is called the '''standard position'''.
+
+===Component Form===
+
+In standard practice, we don't express vectors by listing the length and the direction.  We instead use '''component form''', which lists the height (rise) and width (run) of the vectors.  It is written as follows:
+
+&lt;center&gt;&lt;math&gt;\begin{pmatrix} \mathrm{run} \\ \mathrm{rise}\end{pmatrix}&lt;/math&gt;
+
+[[Image:VectorCalculations_3.png|150px|Vector with rise and run measurements.]]
+&lt;/center&gt;
+
+Other ways of denoting a vector in component form include:
+
+&lt;center&gt;&lt;math&gt;\mathbf{(u_x,u_y)}&lt;/math&gt; and &lt;math&gt;\mathbf{\left\langle u_x,u_y\right\rangle}&lt;/math&gt;&lt;/center&gt;
+
+From the diagram we can now see the benefits of the standard position: the two numbers for the terminal point's coordinates are the same numbers for the vector's rise and run.  Note that we named this vector ''u''.  Just as you can assign numbers to variables in algebra (usually x, y, and z), you can assign vectors to variables in calculus.  The letters u, v, and w are usually used, and either boldface or an arrow over the letter is used to identify it as a vector.
+
+When expressing a vector in component form, it is no longer obvious what the magnitude and direction are.  Therefore, we have to perform some calculations to find the magnitude and direction.
+
+===Magnitude===
+
+&lt;center&gt;&lt;math&gt;|\mathbf{u}| = \sqrt{u_x^2+u_y^2}&lt;/math&gt;&lt;/center&gt;
+
+where &lt;math&gt;u_x&lt;/math&gt; is the width, or run, of the vector; &lt;math&gt;u_y&lt;/math&gt; is the height, or rise, of the vector.  You should recognize this formula as the Pythagorean theorem.  It is -- the magnitude is the distance between the initial point and the terminal point.
+
+The magnitude of a vector can also be called the norm.
+
+===Direction===
+
+&lt;center&gt;&lt;math&gt;\tan \theta = \frac{u_y}{u_x}&lt;/math&gt;
+
+[[Image:VectorCalculations_4.png|150px|Vector triangle with ux and uy labeled.]]
+&lt;/center&gt;
+
+
+where &lt;math&gt;\theta&lt;/math&gt; is the direction of the vector.  This formula is simply the tangent formula for right triangles.
+
+===Vector Operations===
+
+For these definitions, assume:
+
+&lt;center&gt;&lt;math&gt;
+\mathbf{u} = \begin{pmatrix} u_x \\ u_y \end{pmatrix}
+&lt;/math&gt;
+
+&lt;math&gt;
+\mathbf{v} = \begin{pmatrix} v_x \\ v_y \end{pmatrix}
+&lt;/math&gt;&lt;/center&gt;
+
+
+====Vector Addition====
+Vector Addition is often called ''tip-to-tail'' addition, because this makes it easier to remember.
+
+The sum of the vectors you are adding is called the resultant vector, and is the vector drawn from the initial point (tip) of the first vector to the terminal point (tail) of the second vector. Although they look like the arrows, the pointy bit is the tail, not the tip. (Imagine you were walking the direction the vector was pointing... you would start at the flat end (tip) and walk toward the pointy end.)
+
+&lt;center&gt;
+
+It looks like this:
+
+[[Image:VectorCalculations_5.png|175px|Tip-to-tail addition]]
+
+(Notice, the black lined vector is the sum of the two dotted line vectors!)
+
+
+Numerically:
+
+&lt;math&gt;
+\begin{pmatrix} 4 \\ 6 \end{pmatrix} + \begin{pmatrix} 1 \\ -3 \end{pmatrix} = \begin{pmatrix} 5 \\ 3 \end{pmatrix}&lt;/math&gt;
+
+Or more generally:
+&lt;math&gt;
+\mathbf{u} + \mathbf{v} = \begin{pmatrix} u_x + v_x \\ u_y + v_y \end{pmatrix}
+&lt;/math&gt;&lt;/center&gt;
+
+====Scalar Multiplication====
+Graphically, multiplying a vector by a scalar changes only the magnitude of the vector by that same scalar.  That is, multiplying a vector by 2 will &quot;stretch&quot; the vector to twice its original magnitude, keeping the direction the same.
+
+&lt;center&gt;[[Image:VectorCalculations_6.png|175px|Multiplication of a vector with a scalar]]
+
+&lt;math&gt;2 \cdot \begin{pmatrix} 3 \\ 3 \end{pmatrix} = \begin{pmatrix} 6 \\ 6 \end{pmatrix}&lt;/math&gt;&lt;/center&gt;
+
+Numerically, you calculate the resultant vector with this formula:
+
+&lt;center&gt;&lt;math&gt;c \mathbf{u} = \begin{pmatrix} c u_x \\ c u_y \end{pmatrix}&lt;/math&gt;, where c is a constant scalar.&lt;/center&gt;
+
+As previously stated, the magnitude is changed by the same constant:
+
+&lt;center&gt;&lt;math&gt;|c \mathbf{u}| = c |\mathbf{u}|&lt;/math&gt;&lt;/center&gt;
+
+Since multiplying a vector by a constant results in a vector in the same direction, we can reason that two vectors are parallel if one is a constant multiple of the other -- that is, that &lt;math&gt;\mathbf{u} || \mathbf{v}&lt;/math&gt; if  &lt;math&gt;\mathbf{u} = c \mathbf{v}&lt;/math&gt; for some constant c.
+
+We can also divide by a non-zero scalar by instead multiplying by the reciprocal, as with dividing regular numbers:
+
+&lt;center&gt;&lt;math&gt;\frac{\mathbf{u}}{c} = \frac{1}{c} \mathbf{u}, {c}\ne 0 &lt;/math&gt;&lt;/center&gt;
+
+
+====Dot Product====
+The dot product is a way of multiplying two vectors to produce a scalar value. Because it combines the components of two vectors to form a /scalar/, it is sometimes called a scalar product. If you were asked to take the 'dot product of two rectangular vectors' you would do the following:
+&lt;center&gt;&lt;math&gt;\mathbf{u} \cdot \mathbf{v} = u_x v_x + u_y v_y&lt;/math&gt;&lt;/center&gt;http://en.wikibooks.org/w/index.php?title=Calculus/Vectors&amp;action=edit&amp;section=9
+
+It is very important to note that the dot product of two vectors does '''not''' result in another vector, it gives you a scalar, just a numerical value. 
+
+Another common pitfall may arise if your vectors are not in rectangular ('cartesian') format. Sometimes, vectors are instead expressed in polar coordinates, where the first component is the vector's magnitude (length) and the second is the angle from the x-axis at which the vector should be oriented. Dot products cannot be performed using the conventional method on these sorts of vectors; vectors in polar format must be converted to their equivalent rectangular form before you can work with them using the formula given above. A common way to convert to rectangular coordinates is to imagine that the vector was projected horizontally and vertically to form a right triangle. You could then use properties of sin and cos to find the length of the two legs the right triangle. The horizontal length would then be the x-component of the rectangular expression of the vector and the vertical length would be the y-component. Remember that if the vector is pointing down or to the left, the corresponding components would have to be negative to indicate that.
+
+With some rearrangement and trigonometric manipulation, we can see that the number that results from the dot product of two vectors is a surprising and useful identity:
+
+&lt;center&gt;&lt;math&gt;\mathbf{u} \cdot \mathbf{v} = |\mathbf{u}| |\mathbf{v}| \cos \theta&lt;/math&gt;&lt;/center&gt;
+
+where &lt;math&gt;\theta&lt;/math&gt; is the angle between the two vectors. 
+This provides a convenient way of finding the angle between two vectors:
+&lt;center&gt;&lt;math&gt; \cos \theta = \frac{\mathbf{u} \cdot \mathbf{v}}{
+|\mathbf{u}| |\mathbf{v}|} &lt;/math&gt;&lt;/center&gt;
+
+Notice that the dot product is 'commutative', that is:
+&lt;center&gt;&lt;math&gt;\mathbf{u} \cdot \mathbf{v} = \mathbf{v} \cdot \mathbf{u}&lt;/math&gt;&lt;/center&gt;
+
+Also, the dot product of two vectors will be the length of the vector squared:
+&lt;center&gt;&lt;math&gt;\mathbf{u} \cdot \mathbf{u} = u_x u_x + u_y u_y = (u_x)^2+(u_y)^2&lt;/math&gt;&lt;/center&gt;
+and by the Pythagorean theorem,
+&lt;center&gt;&lt;math&gt;(u_x)^2+(u_y)^2=||u||^2&lt;/math&gt;&lt;/center&gt;
+
+The dot product can be visualized as the length of a projection of one vector on to the other. In other words, the dot product asks 'how much magnitude of this vector is going in the direction of that vector?'
+
+===Applications of Scalar Multiplication and Dot Product===
+
+====Unit Vectors====
+
+A '''unit vector''' is a vector with a magnitude of 1.  The '''unit vector of u''' is a vector in the same direction as &lt;math&gt;\mathbf{u}&lt;/math&gt;, but with a magnitude of 1:
+
+&lt;center&gt;[[Image:VectorCalculations_7.png|175px|Unit vector]]&lt;/center&gt;
+
+
+The process of finding the unit vector of u is called '''normalization'''.  As  mentioned in '''scalar multiplication''', multiplying a vector by constant C will result in the magnitude being multiplied by C.  We know how to calculate the magnitude of &lt;math&gt;\mathbf{u}&lt;/math&gt;.  We know that dividing a vector by a constant will divide the magnitude by that constant.  Therefore, if that constant is the magnitude, dividing the vector by the magnitude will result in a unit vector in the same direction as &lt;math&gt;\mathbf{u}&lt;/math&gt;:
+
+&lt;center&gt;
+&lt;math&gt;\mathbf{w}=\frac{\mathbf{u}}{|\mathbf{u}|}&lt;/math&gt;, where &lt;math&gt;\mathbf{w}&lt;/math&gt; is the unit vector of &lt;math&gt;\mathbf{u}&lt;/math&gt;
+&lt;/center&gt;
+
+====Standard Unit Vectors====
+
+A special case of ''Unit Vectors'' are the ''Standard Unit Vectors'' '''i'''
+and '''j''':  '''i''' points one unit directly right in the x direction, and '''j''' points one unit directly up in the y direction:
+
+&lt;center&gt;
+&lt;math&gt;\mathbf{i} = \begin{pmatrix} 1 \\ 0 \end{pmatrix}&lt;/math&gt;
+
+&lt;math&gt;\mathbf{j} = \begin{pmatrix} 0 \\ 1 \end{pmatrix}&lt;/math&gt;
+&lt;/center&gt;
+
+Using the scalar multiplication and vector addition rules, we can then express vectors in a different way:
+
+&lt;center&gt;
+&lt;math&gt;\begin{pmatrix} x \\ y \end{pmatrix} = x \mathbf{i} + y \mathbf{j}&lt;/math&gt;
+&lt;/center&gt;
+
+If we work that equation out, it makes sense.  Multiplying x by '''i''' will result in the vector &lt;math&gt;\begin{pmatrix} x \\ 0 \end{pmatrix}&lt;/math&gt;.  Multiplying y by '''j''' will result in the vector &lt;math&gt;\begin{pmatrix} 0 \\ y \end{pmatrix}&lt;/math&gt;.  Adding these two together will give us our original vector, &lt;math&gt;\begin{pmatrix} x \\ y \end{pmatrix}&lt;/math&gt;.  Expressing vectors using i and j is called '''standard form'''.
+
+====Projection and Decomposition of Vectors====
+Sometimes it is necessary to decompose a vector &lt;math&gt; \mathbf{u} &lt;/math&gt;
+into two components: one component parallel to a vector &lt;math&gt; \mathbf{v}
+&lt;/math&gt;,  which we will call &lt;math&gt; \mathbf{u}_ \parallel &lt;/math&gt;; and one component perpendicular to it, &lt;math&gt; \mathbf{u}_ \bot &lt;/math&gt;.
+
+&lt;center&gt;[[Image:VectorCalculations_8.png|175px|Projection of a vector]]&lt;/center&gt;
+
+Since the length of &lt;math&gt; \mathbf{u}_ \parallel &lt;/math&gt; is
+(&lt;math&gt;|\mathbf{u}| \cdot \cos \theta &lt;/math&gt;), it is straightforward to
+write down the formulas for &lt;math&gt; \mathbf{u}_ \bot &lt;/math&gt; and &lt;math&gt;
+\mathbf{u}_ \parallel &lt;/math&gt; :
+
+&lt;center&gt; &lt;math&gt;\mathbf{u_ \parallel} = |\mathbf{u}| * \frac{(\mathbf{u} \cdot
+\mathbf{v})}{(|\mathbf{u}| |\mathbf{v}|)} * \frac{\mathbf{v}}{|\mathbf{v}|}= 
+(\mathbf{u} \cdot \mathbf{v})/(|\mathbf{v}|^2)  \mathbf{v}&lt;/math&gt;&lt;/center&gt;
+
+and
+
+&lt;center&gt; &lt;math&gt; \mathbf{u}_ \bot = \mathbf{u} - \mathbf{u}_ \parallel
+&lt;/math&gt; &lt;/center&gt;
+
+====Length of a vector====
+The length of a vector is given by the dot product of a vector with itself, and &lt;math&gt; \theta = 0 deg &lt;/math&gt;:
+
+&lt;center&gt;&lt;math&gt;\mathbf{u} \cdot \mathbf{u} = |\mathbf{u}||\mathbf{u}| \cos \theta = |\mathbf{u}|^2&lt;/math&gt;&lt;/center&gt;
+
+====Perpendicular vectors====
+If the angle &lt;math&gt; \theta &lt;/math&gt; between two vectors is 90 degrees or &lt;math&gt; {\pi \over 2} &lt;/math&gt; (if the two vectors are orthogonal to each other), that is the vectors are perpendicular, then the dot product is 0.
+This provides us with an easy way to find a perpendicular vector: if you have a vector &lt;math&gt; \mathbf{u} = \begin{pmatrix} u_x \\ u_y \end{pmatrix}&lt;/math&gt;, a perpendicular vector can easily be found by either
+&lt;center&gt;&lt;math&gt; \mathbf{v} = \begin{pmatrix} -u_y \\ u_x \end{pmatrix} = - \begin{pmatrix} u_y \\ -u_x \end{pmatrix}&lt;/math&gt;&lt;/center&gt;
+
+
+===Polar coordinates===
+
+Polar coordinates are an alternative two-dimensional coordinate system, which is often useful when rotations are important. Instead of specifying the position along the ''x'' and ''y'' axes, we specify the distance from the origin, ''r'', and the direction, an angle &amp;theta;.
+
+[[Image:Coordonnees polaires plan.png|Polar coordinates]]
+
+Looking at this diagram, we can see that the values of ''x'' and ''y'' are related to those of ''r'' and &amp;theta; by the equations
+&lt;center&gt;&lt;math&gt;\begin{matrix} 
+x=r \cos \theta &amp; r = \sqrt{x^2+y^2} \\
+y=r \sin \theta &amp; \tan \theta = \frac{y}{x} \end{matrix}&lt;/math&gt;&lt;/center&gt;
+
+Because tan&lt;sup&gt;-1&lt;/sup&gt; is multivalued, care must be taken to select the right value.
+
+Just as for Cartesian coordinates the unit vectors that point in the ''x'' and ''y'' directions are special, so in polar coordinates the unit vectors that point in the ''r'' and &amp;theta; directions are also special.
+
+We will call these vectors &lt;math&gt;\hat{\mathbf{r}}&lt;/math&gt; and &lt;math&gt;\hat{\boldsymbol{\theta}}&lt;/math&gt;, pronounced r-hat and theta-hat. Putting a circumflex over a vector this way is often used to mean the unit vector in that direction.
+
+Again, on looking at the diagram we see,&lt;br/&gt;
+&lt;math&gt;\begin{matrix} 
+\mathbf{i}= \hat{\mathbf{r}} \cos \theta  
+-\hat{\boldsymbol{\theta}} \sin \theta  &amp;
+\hat{\mathbf{r}} = \frac{x}{r}\mathbf{i}+ \frac{y}{r}\mathbf{j} \\
+\mathbf{j}= \hat{\mathbf{r}} \sin \theta  
++\hat{\boldsymbol{\theta}} \cos \theta &amp; 
+\hat{\boldsymbol{\theta}} =  -\frac{y}{r}\mathbf{i} + \frac{x}{r}\mathbf{j}
+\end{matrix}&lt;/math&gt;
+
+==Three-Dimensional Coordinates and Vectors==
+===Basic definition===
+Two-dimensional Cartesian coordinates as we've discussed so far can be easily extended to three-dimensions by adding one more value: 'z'.  If the standard (x,y) coordinate axes are drawn on a sheet of paper, the 'z' axis would extend upwards off of the paper.
+
+[[File:Isometric 1.png|center|3D coordinate axes.]]
+
+Similar to the two coordinate axes in two-dimensional coordinates, there are three '''coordinate planes''' in space.  These are the '''xy-plane''', the '''yz-plane''', and the '''xz-plane'''.  Each plane is the &quot;sheet of paper&quot; that contains both axes the name mentions.  For instance, the yz-plane contains both the y and z axes and is perpendicular to the x axis.
+
+[[File3D Cartesian coordinates.PNG|center|Coordinate planes in space.]]
+
+Therefore, vectors can be extended to three dimensions by simply adding the 'z' value.
+
+&lt;center&gt;&lt;math&gt;\mathbf{u} = \begin{pmatrix} x \\ y \\ z \end{pmatrix}&lt;/math&gt;&lt;/center&gt;
+
+To facilitate standard form notation, we add another standard unit vector:
+
+&lt;center&gt;&lt;math&gt;\mathbf{k} = \begin{pmatrix} 0 \\ 0 \\ 1 \end{pmatrix}&lt;/math&gt;&lt;/center&gt;
+
+Again, both forms (component and standard) are equivalent.
+
+&lt;center&gt;&lt;math&gt;\begin{pmatrix} 1 \\ 2 \\ 3 \end{pmatrix} = 1 \mathbf{i} + 2 \mathbf{j} + 3 \mathbf{k}&lt;/math&gt;&lt;/center&gt;
+
+'''Magnitude''':
+Magnitude in three dimensions is the same as in two dimensions, with the addition of a 'z' term in the radicand.
+
+&lt;center&gt;&lt;math&gt;| \mathbf{u} | = \sqrt{u_x^2 + u_y^2 + u_z^2}&lt;/math&gt;&lt;/center&gt;
+
+==Three dimensions==
+The polar coordinate system is extended into three dimensions with two different coordinate systems, the cylindrical and spherical coordinate systems, both of which include two-dimensional or planar polar coordinates as a subset. In essence, the cylindrical coordinate system extends polar coordinates by adding an additional distance coordinate, while the spherical system instead adds an additional angular coordinate.
+
+===Cylindrical coordinates===
+[[Image:Cylindrical coordinates.svg|thumb|right|250px|a point plotted with cylindrical coordinates]]
+The ''cylindrical coordinate system'' is a coordinate system that essentially extends the two-dimensional polar coordinate system by adding a third coordinate measuring the height of a point above the plane, similar to the way in which the Cartesian coordinate system is extended into three dimensions. The third coordinate is usually denoted ''h'', making the three cylindrical coordinates (''r'', θ, ''h'').
+
+The three cylindrical coordinates can be converted to Cartesian coordinates by
+:&lt;math&gt; \begin{align}
+x &amp;= r \, \cos\theta \\
+y &amp;= r \, \sin\theta \\
+z &amp;= h.
+\end{align} &lt;/math&gt;
+
+===Spherical coordinates===
+[[Image:Spherical Coordinates (Colatitude, Longitude).svg|thumb|right|250px|A point plotted using spherical coordinates]]
+
+Polar coordinates can also be extended into three dimensions using the coordinates (ρ, φ, θ), where ρ is the distance from the origin, φ is the angle from the z-axis (called the colatitude or zenith and measured from 0 to 180°) and θ is the angle from the x-axis (as in the polar coordinates). This coordinate system, called the ''spherical coordinate system'', is similar to the latitude and longitude system used for Earth, with the origin in the centre of Earth, the latitude δ being the complement of φ, determined by δ = 90° − φ, and the longitude ''l'' being measured by ''l'' = θ − 180°.
+
+The three spherical coordinates are converted to Cartesian coordinates by
+:&lt;math&gt; \begin{align}
+x &amp;= \rho \, \sin\phi \, \cos\theta \\
+y &amp;= \rho \, \sin\phi \, \sin\theta \\
+z &amp;= \rho \, \cos\phi.
+\end{align} &lt;/math&gt;
+
+
+:&lt;math&gt;r = \sqrt{x^2 + y^2 + z^2},&lt;/math&gt;   
+
+:&lt;math&gt;\theta\ = \arctan{\frac{y}{x}},&lt;/math&gt;   
+
+:&lt;math&gt;\phi\ = \arccos{\frac{z}{r}},&lt;/math&gt;
+
+===Cross Product===
+The cross product of two vectors is a [[w:determinant|determinant]]:
+
+:&lt;math&gt; \mathbf{u} \times \mathbf{v} = \begin{vmatrix} \mathbf{i} &amp; \mathbf{j} &amp; \mathbf{k} \\ u_x &amp; u_y &amp; u_z \\ v_x &amp; v_y &amp; v_z \end{vmatrix} &lt;/math&gt;
+
+and is also a [[w:pseudovector|pseudovector]].
+
+The cross product of two vectors is orthogonal to both vectors. The magnitude of the cross product is the product of the magnitude of the vectors and the sin of the angle between them.
+:&lt;math&gt; |\mathbf{u} \times \mathbf{v}|=|\mathbf{u}||\mathbf{v}| \sin \theta &lt;/math&gt;
+This magnitude is the area of the parallelogram defined by the two vectors.
+
+The cross product is ''linear'' and ''anticommutative''. For any numbers ''a'' and ''b'',
+:&lt;math&gt;\mathbf{u} \times \left( a\mathbf{v} +b\mathbf{w} \right) =
+a \mathbf{u} \times  \mathbf{v} +b\mathbf{u} \times \mathbf{w} 
+\quad \mathbf{u} \times  \mathbf{v} = - \mathbf{v} \times  \mathbf{u}&lt;/math&gt;
+
+If both vectors point in the same direction, their cross product is zero.
+
+===Triple Products===
+
+If we have three vectors we can combine them in two ways, a triple scalar product,
+&lt;center&gt;&lt;math&gt; \mathbf{u} \cdot (\mathbf{v} \times \mathbf{w})&lt;/math&gt;&lt;/center&gt;
+and a triple vector product
+&lt;center&gt;&lt;math&gt; \mathbf{u} \times (\mathbf{v} \times \mathbf{w})&lt;/math&gt;&lt;/center&gt;
+
+The triple scalar product is a determinant
+:&lt;math&gt; \mathbf{u} \cdot(\mathbf{v} \times \mathbf{w}) = \begin{vmatrix} 
+u_x &amp; u_y &amp; u_z \\ v_x &amp; v_y &amp; v_z \\ w_x &amp; w_y &amp; w_z \end{vmatrix} &lt;/math&gt;
+
+If the three vectors are listed clockwise, looking from the origin, the sign of this product is positive. If they are listed anticlockwise the sign is negative.
+
+The order of the cross and dot products doesn't matter.
+:&lt;math&gt; 
+\mathbf{u} \cdot (\mathbf{v} \times \mathbf{w}) = 
+(\mathbf{u} \times \mathbf{v}) \cdot \mathbf{w}&lt;/math&gt;
+
+Either way, the absolute value of this product is the volume of the parallelepiped defined by the three vectors, '''u''', '''v''', and '''w'''
+
+The triple vector product can be simplified
+&lt;center&gt;&lt;math&gt; \mathbf{u} \times (\mathbf{v} \times \mathbf{w})
+=(\mathbf{u} \cdot \mathbf{w}) \mathbf{v} 
+-(\mathbf{u} \cdot \mathbf{v}) \mathbf{w}&lt;/math&gt;&lt;/center&gt;
+This form is easier to do calculations with.
+
+The triple vector product is '''not''' associative.
+&lt;center&gt;&lt;math&gt; \mathbf{u} \times (\mathbf{v} \times \mathbf{w})
+\ne (\mathbf{u} \times \mathbf{v}) \times \mathbf{w}&lt;/math&gt;&lt;/center&gt;
+
+There are special cases where the two sides are equal, but in general the brackets matter. They must not be omitted.
+
+===Three-Dimensional Lines and Planes===
+
+We will use '''r''' to denote the position of a point.
+
+The multiples of a vector, '''a''' all lie on a line through the origin. Adding a constant vector '''b''' will shift the line, but leave it straight, so the equation of a line is,
+:&lt;math&gt;\mathbf{r}=\mathbf{a}s+\mathbf{b}&lt;/math&gt;
+
+This is a ''parametric equation''. The position is specified in terms of the parameter ''s''.
+
+Any linear combination of two vectors, '''a''' and '''b''' lies on a single plane through the origin, provided the two vectors are not colinear. We can shift this plane by a constant vector again and write
+:&lt;math&gt;\mathbf{r}=\mathbf{a}s+\mathbf{b}t+\mathbf{c}&lt;/math&gt;
+
+If we choose '''a''' and '''b''' to be ''orthonormal'' vectors in the plane (i.e. unit vectors at right angles) then ''s'' and ''t'' are Cartesian coordinates for points in the plane.
+
+These parametric equations can be extended to higher dimensions.
+
+Instead of giving parametric equations for the line and plane, we could use constraints. E.g., for any point in the ''xy'' plane ''z=0''
+
+For a plane through the origin, the single vector normal to the plane, '''n''', is at right angle with every vector in the plane, by definition, so
+:&lt;math&gt;\mathbf{r} \cdot \mathbf{n}=0&lt;/math&gt;
+is a plane through the origin, normal to '''n'''.
+
+For planes not through the origin we get
+:&lt;math&gt;(\mathbf{r}- \mathbf{a}) \cdot \mathbf{n}=0
+\quad \mathbf{r} \cdot \mathbf{n}=\mathbf{a} \cdot \mathbf{n}&lt;/math&gt;
+
+A line lies on the intersection of two planes, so it must obey the constraint for both planes, i.e. 
+:&lt;math&gt;\mathbf{r} \cdot \mathbf{n}=a \quad \mathbf{r} \cdot \mathbf{m}=b&lt;/math&gt;
+
+These constraint equations con also be extended to higher dimensions.
+
+==Vector-Valued Functions==
+
+Vector-Valued Functions are functions that instead of giving a resultant scalar value, give a resultant vector value.  These aid in the creation of direction and vector fields, and are therefore used in physics to aid with visualizations of electric, magnetic, and many other types of fields.  They are of the following form:
+
+&lt;math&gt;\mathbf{F(t)} = \begin{pmatrix} \mathbf{a_1(t)} \\ \mathbf{a_2(t)} \\ \mathbf{a_3(t)} \\ \mathbf{.} \\ \mathbf{.} \\ \mathbf{a_n(t)} \end{pmatrix}&lt;/math&gt;
+
+===Introduction===
+
+{{Calculus Stub}}
+
+===Limits, Derivatives, and Integrals===
+
+Put simply, the limit of a vector-valued function is the limit of its parts.
+
+Proof:
+
+Suppose &lt;math&gt;\lim_{t \rightarrow c} \mathbf{F}(t) = \mathbf{L} = \begin{pmatrix} \mathbf{a_1} \\ \mathbf{a_2} \\ \mathbf{a_3} \\ \mathbf{.} \\ \mathbf{.} \\ \mathbf{a_n} \end{pmatrix}&lt;/math&gt;
+
+Therefore for any &lt;math&gt;\epsilon &gt; 0&lt;/math&gt; there is a &lt;math&gt;\phi &gt; 0&lt;/math&gt; such that
+
+&lt;math&gt;0 &lt;  |t-c| &lt;  \phi \implies |\mathbf{F}(t) - \mathbf{L}| &lt;  \epsilon&lt;/math&gt;
+
+But by the triangle inequality &lt;math&gt;|a_1| \le |\mathbf{F}| \le |a_1| + |a_2| + |a_3| + ... + |a_n|&lt;/math&gt;
+&lt;math&gt;|a_1(t) - a_1| \le |\mathbf{F}(t) - \mathbf{L}|&lt;/math&gt;
+
+So
+
+&lt;math&gt;0 &lt; |t-c| &lt; \phi  \implies  |a_1(t) - a_1| &lt; \epsilon&lt;/math&gt;
+
+Therefore &lt;math&gt;\lim_{t \rightarrow c} a_1(t) = a_1 &lt;/math&gt;
+A similar argument can be used through parts a_n(t)
+
+Now let &lt;math&gt;\lim_{t \rightarrow c} \mathbf{F}(t) = \mathbf{L} = \begin{pmatrix} \mathbf{a_1} \\ \mathbf{a_2} \\ \mathbf{a_3} \\ \mathbf{.} \\ \mathbf{.} \\ \mathbf{a_n} \end{pmatrix}&lt;/math&gt; again, and that for any &amp;epsilon;&gt;0 there is a corresponding &amp;phi;&gt;0 such 0&lt;|t-c|&lt;&amp;phi; implies
+
+&lt;math&gt;|a_n(t) - a_n| &lt; {\epsilon \over n} &lt;/math&gt;
+
+Then
+
+&lt;math&gt;0 &lt; |t-c| &lt; \phi  \implies  |\mathbf{F}(t) - \mathbf{L}| \le {\epsilon_1 \over n} + ... + {\epsilon_n \over n} = \epsilon&lt;/math&gt;
+
+therefore!:
+
+&lt;math&gt; \lim_{t \rightarrow c} \mathbf{F}(t) = \mathbf{L} = \begin{pmatrix} \mathbf{a_1} \\ \mathbf{a_2} \\ \mathbf{a_3} \\ \mathbf{.} \\ \mathbf{.} \\ \mathbf{a_n} \end{pmatrix} = \begin{pmatrix} \lim_{t \rightarrow c} \mathbf{a_1(t)} \\ \lim_{t \rightarrow c} \mathbf{a_2(t)} \\ \lim_{t \rightarrow c} \mathbf{a_3(t)} \\ \mathbf{.} \\ \mathbf{.} \\ \lim_{t \rightarrow c} \mathbf{a_n(t)} \end{pmatrix}&lt;/math&gt;
+
+From this we can then create an accurate definition of a derivative of a vector-valued function:
+
+&lt;!--I broke this up, so that it doesnt spill off over the side of the screen. May not be the best solution, but at least people don't have to scroll to see it all. --Whiteknight--&gt;
+
+&lt;math&gt;\mathbf{F}'(t)=\lim_{h \rightarrow 0} {\mathbf{F}(t+h) - \mathbf{F}(t) \over h}
+= \begin{pmatrix} \mathbf{a_1(t)} \\ \mathbf{a_2(t)} \\ \mathbf{a_3(t)} \\ \mathbf{.} \\ \mathbf{.} \\ \mathbf{a_n(t)} \end{pmatrix}&lt;/math&gt;
+
+:&lt;math&gt;= \lim_{h \rightarrow 0} {\begin{pmatrix} \mathbf{a_1(t + h)} \\ \mathbf{a_2(t + h)} \\ \mathbf{a_3(t + h)} \\ \mathbf{.} \\ \mathbf{.} \\ \mathbf{a_n(t + h)} \end{pmatrix} - \begin{pmatrix} \mathbf{a_1(t)} \\ \mathbf{a_2(t)} \\ \mathbf{a_3(t)} \\ \mathbf{.} \\ \mathbf{.} \\ \mathbf{a_n(t)} \end{pmatrix} \over h} &lt;/math&gt;
+
+:&lt;math&gt;= \begin{pmatrix} \lim_{h \rightarrow 0} {a_1(t+h) - a_1(t) \over h} \\ \lim_{h \rightarrow 0} {a_2(t+h) - a_2(t) \over h} \\ \lim_{h \rightarrow 0} {a_3(t+h) - a_3(t) \over h} \\ \mathbf{.} \\ \mathbf{.} \\ \lim_{h \rightarrow 0} {a_n(t+h) - a_n(t) \over h} \end{pmatrix}&lt;/math&gt;
+
+The final step was accomplished by taking what we just did with limits.
+
+By the Fundamental Theorem of Calculus integrals can be applied to the vector's components.
+
+In other words:  the limit of a vector function is the limit of its parts, the derivative of a vector function is the derivative of its parts, and the integration of a vector function is the integration of it parts.
+
+===Velocity, Acceleration, Curvature, and a brief mention of the Binormal===
+
+Assume we have a vector-valued function which starts at the origin and as its independent variables changes the points that the vectors point at trace a path.
+
+We will call this vector &lt;math&gt;\mathbf{r}(t)&lt;/math&gt;, which is commonly known as the '''position vector'''.
+
+If &lt;math&gt;\mathbf{r}&lt;/math&gt; then represents a position and t represents time, then in model with Physics we know the following:
+
+&lt;math&gt;\mathbf{r}(t+h) - \mathbf{r}(t)&lt;/math&gt; is displacement.
+&lt;math&gt;\mathbf{r}'(t) = \mathbf{v}(t)&lt;/math&gt; where &lt;math&gt;\mathbf{v}(t)&lt;/math&gt; is the velocity vector.
+&lt;math&gt;|\mathbf{v}(t)|&lt;/math&gt; is the speed.
+&lt;math&gt;\mathbf{r}''(t) = \mathbf{v}'(t) = \mathbf{a}(t)&lt;/math&gt; where &lt;math&gt;\mathbf{a}(t)&lt;/math&gt; is the acceleration vector.
+
+The only other vector that comes in use at times is known as the curvature vector.
+
+The vector &lt;math&gt;\mathbf{T}(t)&lt;/math&gt; used to find it is known as the unit tangent vector, which is defined as &lt;math&gt;\frac{\mathbf{v}(t)}{|\mathbf{v}(t)|}&lt;/math&gt; or shorthand &lt;math&gt;\mathbf{\hat v}&lt;/math&gt;.
+
+The vector normal &lt;math&gt;\mathbf{N}&lt;/math&gt; to this then is &lt;math&gt;\frac{\mathbf{T}'(t)}{|\mathbf{v}(t)|}&lt;/math&gt;.
+
+We can verify this by taking the dot product
+
+&lt;math&gt;\mathbf{T} \cdot \mathbf{N} = 0&lt;/math&gt;
+
+Also note that &lt;math&gt;|\mathbf{v}(t)| = {ds \over dt} &lt;/math&gt;
+
+and
+
+&lt;math&gt;\mathbf{T}(t) = \frac{v}{|v|} = \frac{\frac{dr}{dt}}{\frac{ds}{dt}} = {dr \over ds}&lt;/math&gt;
+
+and
+
+&lt;math&gt;\mathbf{N} = \frac{\mathbf{T}'(t)}{|\mathbf{v}(t)|} = \frac{\frac{dT}{dt}}{\frac{ds}{dt}} = {dT \over ds}&lt;/math&gt;
+
+Then we can actually verify:
+
+&lt;math&gt;{d \over ds} ( \mathbf{T} \cdot \mathbf{T} )= {d \over ds} (1)  &lt;/math&gt;
+
+&lt;math&gt; {dT \over ds} \cdot \mathbf{T} + \mathbf{T} \cdot {dT \over ds} = 0 &lt;/math&gt;
+
+&lt;math&gt;2 * \mathbf{T} \cdot {dT \over ds} = 0 &lt;/math&gt;
+
+&lt;math&gt; \mathbf{T} \cdot {dT \over ds} = 0 &lt;/math&gt;
+
+&lt;math&gt; \mathbf{T} \cdot \mathbf{N} = 0 &lt;/math&gt;
+
+Therefore &lt;math&gt;\mathbf{N}&lt;/math&gt; is perpendicular to &lt;math&gt;\mathbf{T}&lt;/math&gt;
+
+What this gives rise to is the '''Unit Normal Vector''' &lt;math&gt; \frac{\frac{dT}{ds}}{|\frac{dT}{ds}|} &lt;/math&gt; of which the top-most vector is the Normal vector, but the bottom half &lt;math&gt;(|\frac{dT}{ds}|)^{-1}&lt;/math&gt; is known as the curvature.  Since the Normal vector points toward the inside of a curve, the sharper a turn, the Normal vector has a large magnitude, therefore the curvature has a small value, and is used as an index in civil engineering to reflect the sharpness of a curve (clover-leaf highways, for instance).
+
+The only other thing not mentioned is the Binormal that occurs in 3-d curves &lt;math&gt;\mathbf{T} \times \mathbf{N} = \mathbf{B}&lt;/math&gt;, which is useful in creating planes parallel to the curve.
+
+{{Calculus/TOC}}</text>
+      <sha1>ptwnoagq8s0z2lloxg9rzvzyzydnb8y</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Calculus/Vectors</title>
+    <ns>1</ns>
+    <id>3056</id>
+    <revision>
+      <id>2279892</id>
+      <parentid>1852556</parentid>
+      <timestamp>2012-03-03T05:26:37Z</timestamp>
+      <contributor>
+        <username>Enthdegree</username>
+        <id>572210</id>
+      </contributor>
+      <comment>/* Is a conversational tone OK? */ new section</comment>
+      <text xml:space="preserve">Yo, I added in Green's Theorem and order of integration into Multivariable Calculus, and Projection/derivatives/limits/integral/vector-valued functions/position, velocity, acceleration, tangent, normal, binormal, vectors/curvature into Vector Calculus.  However, I'm not sure how much of this scope from Vector Calculus spills into this Multivariable Calculus, what else should be added (as I don't really want to edit for grammatical errors and ordering nicety, just adding articles, since I suck at ordering and English), and where I can put independence of path or if you have that in here, at one point it looks like you do, but to be honest I can't decipher what you're trying to teach; but then again I just randomly put stuff in here also.  Anyways, what's going on/where can I read about, thanks, feedback?  [[User:Fephisto|Fephisto]] 05:47, 14 January 2006 (UTC)
+
+
+Just letting you know that there's already stuff/going to be stuff on [[Linear Algebra/Vectors]] for the vector stuff. If you wish to do them again here, that's ok.
+In my opinion, stuff on divergence and curl and all that funky stuff, Green's theorem et al, and vector-valued functions and others should be put here. [[User:Dysprosia|Dysprosia]] 05:25, 6 Dec 2003 (UTC)
+
+
+I was thinking I'd quickly cover the things we need for the following sections so that this &quot;book&quot; would be sorta self-contained.  I'm new to wikibooks though, so perhaps that's not the norm? [[User:Brianluft|Brianluft]] 12:23, 6 Dec 2003 (CST)
+
+: There aren't any concrete policies about redundant information yet.  For now, do what you feel is best :) Could you please fix up the header problem too? Or let me know when you're done and I'll do it. It looks nicer if we start at == and work down. &lt;!-- Sorry if I sound too demanding! --&gt; [[User:Dysprosia|Dysprosia]] 06:26, 6 Dec 2003 (UTC)
+
+:: Done. :-)  [[User:Brianluft|Brianluft]] 12:30, 6 Dec 2003 (CST)
+
+: By the way, should we use the same bracket notation across articles? We need to maintain consistency across mathematics pages. [[User:Dysprosia|Dysprosia]] 08:06, 6 Dec 2003 (UTC)
+
+:: Yeah, I think so.  I must admit I've never seen the notation in [[Linear Algebra/Vectors]], but I'll use that instead of my angled brackets notation for consistency.  [[User:Brianluft|Brianluft]] 12:34, 6 Dec 2003 (CST)
+::: Thanks :) For a good reason why, see [[Linear Algebra/Linear transformations|Linear transformations]] [[User:Dysprosia|Dysprosia]] 22:50, 6 Dec 2003 (UTC)
+:::: I disagree, that notation (the large vertical parantheses) is commonly used in combinatorics, and angled brackets are much more widely used.  Also, does the Wiki system have support for overbars/underbars, because that notation is more commonly used than bold also. Hao 11:45 13 July 2005 (JST)
+
+How far is the scope of this page going to cover?  There aren't any sections on curl or divergence or what-have-you.  I'd be glad to fill them in, but I'm not sure exactly how far it should be taken.  It seems to me that there should really be a section on scalar fields before we hop into vector fields, though. --[[User:Eienmaru|Eienmaru]] 00:39, 15 May 2005 (UTC)
+
+== deleted image for polar coordinates ==
+
+I deleted an unlicensed image you were using in section &quot;Polar Coordinates&quot; but I replaced it with a similar one from Commons; you'll have to change the text in that section to match the image (ie. it doesn't use x and y as variables etc.) ''' &amp;ndash; [[User:Mike.lifeguard|&lt;font color=&quot;Indigo&quot;&gt;Mike.lifeguard&lt;/font&gt;]]''' | &lt;sup&gt;[[User talk:Mike.lifeguard|&lt;font color=&quot;Indigo&quot;&gt;talk&lt;/font&gt;]]&lt;/sup&gt; 02:23, 1 September 2007 (UTC)
+
+== What about torsion? ==
+
+&lt;nowiki&gt;Maybe the importance of the binormal should be mentioned in respect to measuring the torsion of a curve?&lt;/nowiki&gt;
+
+== Is a conversational tone OK? ==
+
+I find many parts of this wikibook are kind of hard to follow, solely because of their lack of descriptive prose. Is it alright to write in a conversational tone, as an instructor would speak to students? (using 'you', for example) or is this too inconsistent and hard to reproduce for the wiki format? [[User:Enthdegree|Enthdegree]] ([[User talk:Enthdegree|discuss]] • [[Special:Contributions/Enthdegree|contribs]]) 05:26, 3 March 2012 (UTC)</text>
+      <sha1>rbik06dip9f4q658rgdz8oszaswhb94</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Brianluft</title>
+    <ns>3</ns>
+    <id>3057</id>
+    <revision>
+      <id>724530</id>
+      <parentid>155066</parentid>
+      <timestamp>2007-01-20T05:01:15Z</timestamp>
+      <contributor>
+        <username>Az1568</username>
+        <id>37227</id>
+      </contributor>
+      <comment>Image copyright</comment>
+      <text xml:space="preserve">Hi Brian :) Welcome to Wikibooks.
+
+We generally start headers with == and work down from there. The = header is for the title of the page, up the top. And there's a question/message for you waiting at [[Talk:Calculus:Multivariable calculus]].
+
+Thanks, and keep contributing :) [[User:Dysprosia|Dysprosia]] 05:41, 6 Dec 2003 (UTC)
+
+== Image copyright ==
+ 
+Thanks for uploading images on Wikibooks. However, the images may soon be deleted unless we can determine the copyright holder and copyright status. The [[w:Wikimedia Foundation|Wikimedia Foundation]] is very careful about the images included in Wikibooks because of [[w:Copyright|copyright law]] (see Wikibooks' [[Wikibooks:Copyright|Copyright policy]]).
+
+The copyright holder is usually the creator, the creator's employer, or the last person who was transferred ownership rights. Copyright information on images is signified using copyright templates. The three basic license types on Wikibooks are [[w:open content|open content]], [[w:public domain|public domain]], and [[w:fair use|fair use]]. Find the appropriate template in [[Wikibooks:Image copyright tags]] and place it on the image page like this: &lt;code&gt;{&amp;#123;TemplateName}}&lt;/code&gt;.
+
+Please signify the copyright information on [http://en.wikibooks.org/w/index.php?title=Special%3ALog&amp;type=upload&amp;user={{urlencode:{{PAGENAME}}}} all images you have uploaded] or will upload. Remember that images without this important information or giving false information can be deleted by an administrator. If you have any questions, ask them at the [[Wikibooks:Staff lounge|Staff lounge]]. Thank you.--[[User:Az1568|Az1568]]&lt;sup&gt; ([[User talk:Az1568|Talk]])&lt;/sup&gt; 05:01, 20 January 2007 (UTC)</text>
+      <sha1>mfqu25ybazio4dc3ooiw6zokr9tfvxr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Lisp Programming</title>
+    <ns>0</ns>
+    <id>3059</id>
+    <revision>
+      <id>2101552</id>
+      <parentid>2098771</parentid>
+      <timestamp>2011-05-22T08:10:20Z</timestamp>
+      <contributor>
+        <username>Adam majewski</username>
+        <id>74163</id>
+      </contributor>
+      <minor />
+      <comment>/* Contents */ overview</comment>
+      <text xml:space="preserve">'''Lisp''' is a programming language. It is named after the collapsed phrase '''Lis'''t '''P'''rocessing.
+
+If you have programmed before and would like to see a little bit of how Lisp works and is different from other programming languages, you can get an [[/Overview|overview]].
+
+==Dialects==
+Because Lisp itself is, technically, just nine operators, to become a useful language, much more needs to be implemented atop it. [[Common Lisp]] and [[Scheme]] are two such designs to create a useful programming language. 
+
+'''[[Common Lisp]]''' is an ANSI standard, and features an extensive array of library functions. It is the more widely-used of the two. 
+
+'''[[Scheme]]''' is designed in a minimalistic fashion, with a very small amount of built in functions. This is probably true, but Scheme lacks many of the time-saving built-in functions of Common Lisp.
+
+[[Emacs/Introduction_to_Emacs_Lisp|'''Emacs Lisp''']] is a implementation of Lisp in [[Emacs]].
+
+[[Introduction to newLISP|'''newLISP''']] is a Lisp-like, general-purpose scripting language
+
+== Contents ==
+* [[/Introduction/]]
+* [[/History/]]
+* [[/Overview/]]
+* [[/Beginning Lisp/]]
+* [[/Syntax/]]
+* [[/Features/]]
+* [[/Lisp and data/]]
+* [[/Functions and interfaces/]]
+* [[/Advanced Lisp/]]
+* [[/External Links/]]
+
+== See also ==
+
+[[Lush]] - lisp-like object-oriented programming language
+
+
+{{Subjects|Lisp programming language}}
+{{alphabetical|L}}
+{{status|25%}}
+
+[[es:Programación en LISP]]
+[[fr:Programmation Lisp]]
+[[it:Lisp]]
+[[ja:Lisp]]
+[[pl:Lisp]]
+[[ru:Лисп]]</text>
+      <sha1>2p4153glj1wyfqp5uvgiqbmv89k03xx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Finnish/coverpage</title>
+    <ns>0</ns>
+    <id>3083</id>
+    <revision>
+      <id>1428635</id>
+      <parentid>1428606</parentid>
+      <timestamp>2009-02-27T09:35:19Z</timestamp>
+      <contributor>
+        <username>Suomipoika</username>
+        <id>179825</id>
+      </contributor>
+      <text xml:space="preserve">&lt;center&gt;
+
+{| CELLPADDING=&quot;10&quot;
+|
+&lt;center&gt;[[Image:Flag of Finland.svg|175px|border|Flag of Finland]]&lt;br&gt;&lt;small&gt;''Suomi''&lt;/small&gt;&lt;/center&gt;
+|
+&lt;big&gt;&lt;big&gt;Finnish ~ English&lt;/big&gt;&lt;/big&gt;&lt;br /&gt;
+&lt;big&gt;Learning the Finnish Language&lt;/big&gt;&lt;p&gt;
+&lt;big&gt;[[Finnish|Go to Contents]] &gt;&gt;&gt;&lt;/big&gt;
+|}
+
+
+== See also ==
+
+[[Finnish/Dialogues |Finnish dialogues]]
+
+[[Suomen kieli ulkomaalaisille| Finnish Language for Foreigners (English Translation)]]
+
+[[Suomen kieli käyttöön| Finnish Language in Use (English Translation)]]
+
+Wikipedia articles about the [[w:en:Finnish language|Finnish language]] and the [[w:en:Finnish language grammar|Finnish grammar]].
+
+[http://fi.wikibooks.org/wiki/Etusivu The Finnish language edition of Wikibooks.]
+
+[http://fi.wikipedia.org/wiki/Etusivu The Finnish language edition of Wikipedia.]
+
+[http://www.iesaf.fi Discuss the Finnish language and all things Finnish.]
+
+
+[[Image:Ev17612 Scandinavia.A2002149.0945.250mFINLANDONLY.jpg|247px|Finland in summer.]]
+[[Image:Ev24856 Scandinavia.A2003050.1025.250mFINLANDONLY.jpg|200px|Finland in winter.]]
+&lt;!--[[Image:Central Helsinki from plane.jpg|375px|View of Central Helsinki from the air]]&lt;br&gt;
+&lt;small&gt;'''Kuva: Helsingin keskusta'''
+''Image:Helsinki''&lt;/small&gt;--&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+{{Category 2}}
+{{Subject|Finnish|Finnish language|Languages of Europe|Natural languages|Languages}}
+
+[[fr:Enseignement du finnois]]
+[[pl:Fiński/Okładka]]
+[[ru:Suomen kieli käyttöön]]
+[[bg:Финско - Български разговорник]]
+[[fi:Äidinkieli]]</text>
+      <sha1>qgv6f0oq2plj8krmkjk7gub2p0e9gvh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Tarquin</title>
+    <ns>2</ns>
+    <id>3085</id>
+    <revision>
+      <id>155092</id>
+      <timestamp>2003-12-06T17:51:07Z</timestamp>
+      <contributor>
+        <username>Tarquin</username>
+        <id>340</id>
+      </contributor>
+      <text xml:space="preserve">Tarquin from Wikipedia. 
+
+Oh no. Another wikimedia project is sucking me in. HELP!!!! HELP!!!!!</text>
+      <sha1>ixa4krp9ltnfynvv9xy93bump6g4vel</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

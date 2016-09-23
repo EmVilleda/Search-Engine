@@ -1,0 +1,2254 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Organic Chemistry/Introduction to reactions/Radicals</title>
+    <ns>0</ns>
+    <id>1483</id>
+    <revision>
+      <id>961175</id>
+      <parentid>616073</parentid>
+      <timestamp>2007-09-07T18:34:43Z</timestamp>
+      <contributor>
+        <username>Whiteknight</username>
+        <id>10714</id>
+      </contributor>
+      <minor />
+      <comment>removing all sub-pages from [[Category:Chemistry]], reformatting book main pages to use {{Subject}}</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Image:Go To Organic Chemistry Contents .png]]
+----
+&lt;/noinclude&gt;
+==Radical stability==
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;H2&gt;Radicals listed from less to more stable&lt;/H2&gt;
+
+F&amp;deg; &lt; Cl&amp;deg; &lt; Br&amp;deg; &lt; I&amp;deg;
+
+F&amp;deg; is totally unstable while I&amp;deg; is generally unreactive.
+|}
+
+Alkyl groups vary in stability. CH&lt;sub&gt;3&lt;/sub&gt;&amp;deg; is quite reactive as it violates the octet rule. However, CH&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt; is also a charged moiety and is therefore even less stable and harder to form.
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;H2&gt;Alkyl groups listed from less to more stable&lt;/H2&gt;
+
+CH&lt;sub&gt;3&lt;/sub&gt;&amp;deg; &lt; 1&amp;deg; &lt; 2&amp;deg; &lt; 3&amp;deg;
+
+Clearly, the tertiary carbocation is the most stable, as it is surrounded by three other carbon atoms that share the burden of its positive charge.
+|}
+
+(Multiple images follow)
+
+{{BookCat}}</text>
+      <sha1>tl0vw6lpk20r3lumxqtpjoqoldmp7xr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Introduction to reactions/Alkenes</title>
+    <ns>0</ns>
+    <id>1485</id>
+    <revision>
+      <id>2593458</id>
+      <parentid>2593452</parentid>
+      <timestamp>2013-12-14T11:12:12Z</timestamp>
+      <contributor>
+        <username>Stryn</username>
+        <id>390608</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/86.96.61.145|86.96.61.145]] ([[User talk:86.96.61.145|talk]]) to last version by Leyo</comment>
+      <text xml:space="preserve">==Alkenes==
+
+[[w:Alkenes|Alkenes]] are organic molecules that contain at least one carbon-carbon double bond, which is referred to as '''unsaturation'''. Saturation is when all of the carbons have all single bonds. If the double bonds are just next to each other, they are called cummulated dienes. If there is only one C-C bond between two double bonds, it is called a conjugated diene. If more than one single bond intervenes it is an isolated diene.
+
+[[Image:Pi-bonding.png]]
+
+The double bonds in alkenes are higher in energy than single bonds and are more reactive. Molecules will favor single bonds over double or triple ones when given a chance. 
+
+'''Bond dissociation energy''' is the energy needed to break a bond.
+
+
+{| BORDER
+|-
+| COLSPAN=&quot;2&quot; | &lt;center&gt;&lt;b&gt;Bond dissociation energy&lt;/b&gt;&lt;/center&gt;
+|-
+| C-C &amp;rarr; C&amp;deg; + C&amp;deg; || ≈ 85 kcal/mole
+|-
+| C=C &amp;rarr; C&amp;deg; + C&amp;deg; || ≈ 145 kcal/mole
+|}
+
+[[w:Ethene|Ethene]] is the smallest, simplest alkene. It is planar and the angle between its bonds is approximately 120&amp;deg;.
+
+[[Image:Ethene-2D-flat.png|150px]]
+
+The C-H bonds are stronger in ethene than in ethane because the &amp;pi; bond draws electron density away from from the carbon, which draws electron density away from the hydrogens. This makes ethene unreactive and gives the carbons sp&lt;sup&gt;2&lt;/sup&gt; character, which is more s-like and lower in energy.
+
+
+{| BORDER
+|-
+| COLSPAN=&quot;3&quot; | &lt;center&gt;&lt;b&gt;Gallery of alkenes&lt;/b&gt;&lt;/center&gt;
+|-
+| || &lt;center&gt;&lt;b&gt;IUPAC&lt;/b&gt;&lt;/center&gt;
+| &lt;center&gt;&lt;b&gt;common names&lt;/b&gt;&lt;/center&gt;
+|-
+| CH&lt;sub&gt;2&lt;/sub&gt;=CH&lt;sub&gt;2&lt;/sub&gt; || ethene
+| ethylene
+|-
+| CH&lt;sub&gt;3&lt;/sub&gt;CH=CH&lt;sub&gt;2&lt;/sub&gt; || propene
+| propylene
+|-
+| CH&lt;sub&gt;2&lt;/sub&gt;=CH&lt;sub&gt;2&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;CH&lt;sub&gt;3&lt;/sub&gt;
+| 1-Butene || 1-Butylene
+|-
+| CH&lt;sub&gt;3&lt;/sub&gt;CH=CHCH&lt;sub&gt;3&lt;/sub&gt; || 2-Butene
+| 2-Butylene
+|-
+| CH&lt;sub&gt;2&lt;/sub&gt;=C(CH&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;
+| 2-Methylpropene || Isobutene
+|-
+| || Cyclobutene ||
+|-
+| || 3-Methylcyclopropene ||
+|}
+
+==IUPAC alkene nomenclature==
+
+#find the longest chain of carbons containing both carbons of the double bond
+#number this chain left to right and right to left and choose the method that gives the double bond the lowest numbers
+#using the smallest of the two numbers identifying the double bond as prefix, followed by a hyphen without spaces, name the chain as for an alkane changing the -ane to -ene
+
+Then follow the rest of the rules for naming halogenoalkanes
+
+==Alkenols==
+'''Alkenols''' are compounds containing both a '''double bond''' and an '''OH group.'''
+
+To name, find the longest carbon chain that contains both the C=C and the OH&lt;sup&gt;-&lt;/sup&gt;. The OH group gets the higher priority (lower number). Oxygen takes precedence over carbon.
+
+
+{| BORDER
+|-
+| CH&lt;sub&gt;2&lt;/sub&gt;=CH&lt;sub&gt;2&lt;/sub&gt;CH-OH || 2-Propen-1-ol ''or'' Prop-2-en-1-ol
+|} (IUPAC name)
+
+The &quot;2&quot; refers to the double bond and can go at the beginning of the name or right before the &quot;en&quot;.
+
+===Gallery of alkenols===
+
+{| BORDER
+|-
+| &lt;b&gt;&lt;/b&gt;&amp;nbsp; || &lt;center&gt;&lt;b&gt;IUPAC&lt;/b&gt;&lt;/center&gt;
+|-
+| || 2-Cyclohexen-1,4-diol
+|-
+| || 4-Cyclohexen-1,3-diol
+|}
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;H2&gt;Naming alkane and alkene substituents&lt;/H2&gt;
+
+'''Alkyl''' means a saturated substituent (all single bonds).
+
+'''Alkenyl''' means an unsaturated substituent ('''en''' indicates a double bond).
+|}
+
+
+{| BORDER
+|-
+| ||
+&lt;center&gt;&lt;b&gt;IUPAC name&lt;/b&gt;&lt;/center&gt;
+|
+&lt;center&gt;&lt;b&gt;Common name&lt;/b&gt;&lt;/center&gt;
+|-
+| || (1-Methylcyclohexyl)ethene ||
+|-
+| || 1-Ethenylcyclohexanol || 1-Vinylcyclohexanol
+|-
+| (a cyclopropane diol) || 1-(1-Propenyl)-1,2-cyclopropanediol
+|
+|-
+| || 1-(2-Propenyl)-1,2-cyclopropanediol
+| &lt;center&gt;1-Allyl-1,2-cyclopropanediol&lt;/center&gt;
+|-
+| COLSPAN=&quot;3&quot; | &lt;center&gt;&lt;b&gt;Naming alkenes with multiple double bonds&lt;/b&gt;&lt;/center&gt;
+|-
+| CH&lt;sub&gt;2&lt;/sub&gt;=C=CH&lt;sub&gt;2&lt;/sub&gt; || Propacanadienne
+| Allene
+|-
+| CH&lt;sub&gt;2&lt;/sub&gt;=C=CH-CH&lt;sub&gt;3&lt;/sub&gt; || 1,2-Butadiene
+|
+|-
+| CH&lt;sub&gt;2&lt;/sub&gt;=CH-CH=CH&lt;sub&gt;2&lt;/sub&gt; || 1,3-Butadiene
+|
+|-
+| || 1,3-Cyclopentadiene ||
+|-
+| || 1,3,5-Hexatriene ||
+|-
+| || 3-Methylene-1,4-pendadiene ||
+|}
+
+==Preparation of alkenes, or how to make double bonds.==
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #E7E7FF; padding: 1em;&quot; valign=&quot;top&quot; |
+R-H + X&lt;sub&gt;2&lt;/sub&gt; + (heat or light) &amp;rarr; R-X
+|}
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #E7E7FF; padding: 1em;&quot; valign=&quot;top&quot; |
+R-X + H&lt;sub&gt;2&lt;/sub&gt;O (by S&lt;sub&gt;N&lt;/sub&gt;1 or S&lt;sub&gt;N&lt;/sub&gt;2) &amp;rarr; R-OH
+|}
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #E7E7FF; padding: 1em;&quot; valign=&quot;top&quot; |
+CH&lt;sub&gt;3&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;Br &amp;rarr; H&lt;sub&gt;2&lt;/sub&gt;C=CH&lt;sub&gt;2&lt;/sub&gt; + HBr
+|}
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #E7E7FF; padding: 1em;&quot; valign=&quot;top&quot; |
+CH&lt;sub&gt;3&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;-OH &amp;rarr; CH&lt;sub&gt;2&lt;/sub&gt;=CH&lt;sub&gt;2&lt;/sub&gt; + H&lt;sub&gt;2&lt;/sub&gt;O
+|}
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #E7E7FF; padding: 1em;&quot; valign=&quot;top&quot; |
+CH&lt;sub&gt;3&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;Br &amp;rarr; CH&lt;sub&gt;2&lt;/sub&gt;=CH&lt;sub&gt;2&lt;/sub&gt;
+|}
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #E7E7FF; padding: 1em;&quot; valign=&quot;top&quot; |
+H&lt;sub&gt;2&lt;/sub&gt;C-CH&lt;sub&gt;2&lt;/sub&gt;Br + (strong base) + &amp;Delta; &amp;rarr; CH&lt;sub&gt;2&lt;/sub&gt;=CH&lt;sub&gt;2&lt;/sub&gt; (one step) (&amp;Delta; &amp;equiv; heat)
+|}
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;H2&gt;What is &quot;&amp;Delta;&quot;?&lt;/H2&gt;
+
+'''&amp;Delta;''' is the capital Greek letter &quot;Delta&quot; and is used in science to indicate a change in something. It is used as a shorthand in organic chemistry and in this book to indicate a change in heating conditions, that is, the addition of heat.
+|}
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;H2&gt;Rate equation&lt;/H2&gt;
+
+Rate = K&lt;sub&gt;2&lt;/sub&gt;[CH&lt;sub&gt;3&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;Br][base]
+|}
+
+1&amp;deg;, 2&amp;deg;, 3&amp;deg; all work for E&lt;sub&gt;2&lt;/sub&gt; reactions (remember that the methyl group doesnt have a second carbon for an elimination to function).
+
+(pictures)
+
+==E1 reactions==
+Elimination reactions are one way to produce alkenes. Learn more about them [[Organic Chemistry/Alkenes#Elimination_Reactions|here]].
+
+==Elimination vs Substitution ?==
+There are ways to predict if a reaction will follow an elimination or a substitution mechanism or pathway.
+
+
+{| BORDER
+|-
+| &lt;center&gt;&lt;b&gt;Elimination&lt;/b&gt;&lt;/center&gt;
+| &lt;center&gt;&lt;b&gt;Substitution&lt;/b&gt;&lt;/center&gt;
+|-
+| High temperature (the biggest factor)
+| Low temperature
+|-
+| Strong base
+| Good nucleophile (bulkiness interferes with nucleophilicity)
+|}
+
+&lt;p&gt;Tertiary halides favor E1, S&lt;sub&gt;N&lt;/sub&gt;1.
+
+
+==Reactions of alkenes==
+===Bromine===
+Electrophilic addition reaction between Bromine and Ethene gas:
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #E7E7FF; padding: 1em;&quot; valign=&quot;top&quot; |
+CH&lt;sub&gt;2&lt;/sub&gt;=CH&lt;sub&gt;2&lt;/sub&gt; + Br&lt;sub&gt;2&lt;/sub&gt; &amp;rarr; CH&lt;sub&gt;2&lt;/sub&gt;BrCH&lt;sub&gt;2&lt;/sub&gt;Br
+|}
+
+===Complete Combustion===
+Like other hyrdrocarbons alkenes will combust in excess air or oxygen provided that there is sufficient activation energy for the combustion reaction. The following reaction is the complete combustion of ethene with oxygen:
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #E7E7FF; padding: 1em;&quot; valign=&quot;top&quot; |
+CH&lt;sub&gt;2&lt;/sub&gt;=CH&lt;sub&gt;2&lt;/sub&gt; + 3O&lt;sub&gt;2&lt;/sub&gt; &amp;rarr; 2CO&lt;sub&gt;2&lt;/sub&gt; + 2H&lt;sub&gt;2&lt;/sub&gt;O
+|}
+
+===Hydrogen Bromide===
+Electrophilic addition reaction between concentrated Hydrogen Bromide and Ethene gas:
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #E7E7FF; padding: 1em;&quot; valign=&quot;top&quot; |
+CH&lt;sub&gt;2&lt;/sub&gt;=CH&lt;sub&gt;2&lt;/sub&gt; + HBr &amp;rarr; CH&lt;sub&gt;3&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;Br
+|}
+
+The general formula for the reaction of any alkene with HBr is:
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #E7E7FF; padding: 1em;&quot; valign=&quot;top&quot; |
+RCH=CHR' + HBr &amp;rarr; RCH&lt;sub&gt;2&lt;/sub&gt;-CHR'Br
+|}
+
+For asymmetrical alkenes such as But-1-ene the following reaction is also feasible:
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #E7E7FF; padding: 1em;&quot; valign=&quot;top&quot; |
+RCH=CHR' + HBr &amp;rarr; RCHBr-CH&lt;sub&gt;2&lt;/sub&gt;R'
+|}
+
+Where R and R' are alkyl groups e.g. CH&lt;sub&gt;3&lt;/sub&gt; or CH&lt;sub&gt;3&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;
+
+===Sulphuric Acid===
+Electrophilic addition reaction between cold concentrated Sulphuric Acid and Ethene gas:
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #E7E7FF; padding: 1em;&quot; valign=&quot;top&quot; |
+CH&lt;sub&gt;2&lt;/sub&gt;=CH&lt;sub&gt;2&lt;/sub&gt; + H&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt; &amp;rarr; CH&lt;sub&gt;3&lt;/sub&gt;CH&lt;sub&gt;3&lt;/sub&gt;SO&lt;sub&gt;3&lt;/sub&gt;H
+|}
+
+Ethyl Hydrogensulphate is hydrolysed if warmed with water:
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #E7E7FF; padding: 1em;&quot; valign=&quot;top&quot; |
+CH&lt;sub&gt;3&lt;/sub&gt;CH&lt;sub&gt;3&lt;/sub&gt;SO&lt;sub&gt;3&lt;/sub&gt;H + H&lt;sub&gt;2&lt;/sub&gt;O &amp;rarr; CH&lt;sub&gt;3&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;OH + H&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt;
+|}
+
+Overall reaction for the two steps:
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #E7E7FF; padding: 1em;&quot; valign=&quot;top&quot; |
+CH&lt;sub&gt;2&lt;/sub&gt;=CH&lt;sub&gt;2&lt;/sub&gt; + H&lt;sub&gt;2&lt;/sub&gt;O &amp;rarr; CH&lt;sub&gt;3&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;OH
+|}
+----
+[[Organic Chemistry/Alcohols|&lt;&lt; Alcohols]] | Alkenes | [[Organic Chemistry/Alkynes|Alkynes &gt;&gt;]]
+
+{{BookCat}}</text>
+      <sha1>67dadwhfjk4gtzgj0f5q3lic811sxoi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Introduction to reactions/Electrophilic additions</title>
+    <ns>0</ns>
+    <id>1488</id>
+    <revision>
+      <id>961196</id>
+      <parentid>662724</parentid>
+      <timestamp>2007-09-07T18:35:05Z</timestamp>
+      <contributor>
+        <username>Whiteknight</username>
+        <id>10714</id>
+      </contributor>
+      <minor />
+      <comment>removing all sub-pages from [[Category:Chemistry]], reformatting book main pages to use {{Subject}}</comment>
+      <text xml:space="preserve">Electrophilic additions are also referred to as '''addition reactions'''.
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;H2&gt;An addition&lt;/H2&gt;
+
+CH&lt;sub&gt;2&lt;/sub&gt;=CH&lt;sub&gt;2&lt;/sub&gt; + HX &amp;rarr; CH&lt;sub&gt;3&lt;/sub&gt;-CH&lt;sub&gt;2&lt;/sub&gt;X
+|}
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;H2&gt;Its reverse, an elimination&lt;/H2&gt;
+
+CH&lt;sub&gt;3&lt;/sub&gt;-CH&lt;sub&gt;2&lt;/sub&gt;X  + base, &amp;Delta; &amp;rarr; CH&lt;sub&gt;2&lt;/sub&gt;=CH&lt;sub&gt;2&lt;/sub&gt;
+|}
+
+Electrophilic additions are essentially the reverse of an E1 [[Organic Chemistry/Alkenes#Elimination_Reactions|elimination reaction]], sometimes exactly the '''microscopic reverse'''.
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;H2&gt;Microscopic reverse&lt;/H2&gt;
+
+This means that the mechanism of the reaction follows each and every step of the related reaction in reverse order, without deviation.
+Sometimes, a reaction can be reversed but using a different series of tiny steps. When that happens, it is NOT called a microscopic reverse.
+|}
+
+Addition reactions involve [[Organic Chemistry/Introduction to reactions/Carbocations|carbocations]]. This intermediate carbocation can rearrange.
+
+Addition reactions follow [[Organic_Chemistry/Alkenes#Markovnikov's_Rule|Markovnikov's rule]]. (The higher priority substituent adds to the more highly substituted carbon of the carbon-carbon double bond).
+
+(Series of sample reactions here)
+
+{{BookCat}}</text>
+      <sha1>gztsisi7fdbm4n69esdgk52ff5gifcm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Doopdoop</title>
+    <ns>2</ns>
+    <id>1490</id>
+    <revision>
+      <id>153603</id>
+      <timestamp>2003-10-11T05:24:08Z</timestamp>
+      <contributor>
+        <ip>141.44.27.135</ip>
+      </contributor>
+      <text xml:space="preserve">Hi
+
+my name is Rene. I´m interested in math, puzzles and computer science.</text>
+      <sha1>03fcf5a5wzk77xrmp6kkdfmtdlojnds</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:141.44.27.135</title>
+    <ns>3</ns>
+    <id>1491</id>
+    <revision>
+      <id>153604</id>
+      <timestamp>2003-10-11T05:48:38Z</timestamp>
+      <contributor>
+        <username>Dysprosia</username>
+        <id>32</id>
+      </contributor>
+      <comment>hint</comment>
+      <text xml:space="preserve">Hi :) Just a hint: You're not logged in - or you haven't made a new account. Thanks [[User:Dysprosia|Dysprosia]] 05:48, 11 Oct 2003 (UTC)</text>
+      <sha1>i062d60lmff6ysd3v52lekzrxfzdo13</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Spanish/Contents</title>
+    <ns>0</ns>
+    <id>1493</id>
+    <revision>
+      <id>2693836</id>
+      <parentid>2583880</parentid>
+      <timestamp>2014-08-23T03:00:14Z</timestamp>
+      <contributor>
+        <username>Senobyte</username>
+        <id>833897</id>
+      </contributor>
+      <minor />
+      <comment>/* fixed awkward phrasing */</comment>
+      <text xml:space="preserve">{{Spanish/Nav}}
+__NOTOC__
+{{Template:Book_search}}
+== Lessons ==
+[[Image:Ciudad de las ciencias noche.JPG|thumb|right|300px|''Valencia at night.'']]
+[[Image:Galiciacoast.jpg|300px|thumb|right|''The Atlantic coast of Galicia in Spain.'']]
+[[Image:Alhambradesdegeneralife.jpg|300px|thumb|right|''Alhambra, Granada.'']]
+=== Páginas generales ===
+* [[Spanish/Introduction|Introduction to the course]]
+* [[Spanish/Pronunciation|The rules of pronunciation]]
+* [[Spanish/Contributors|Contributors to the Wikibook]]
+=== Punto de partida ===
+{{stage short|100%|Dec 26, 2006}} &quot;A starting point&quot; &amp;mdash; the basics of conversation and grammar.
+* {{stage short|100%|Dec 26, 2006}} [[Spanish/Lessons/¿Cómo te llamas?|¿Cómo te llamas?]] &amp;mdash; &lt;small&gt;Greetings, Names, the Alphabet.&lt;/small&gt;
+* {{stage short|100%|Dec 26, 2006}} [[Spanish/Lessons/¿Cuándo es tu cumpleaños?|¿Cuándo es tu cumpleaños?]] &amp;mdash; &lt;small&gt;Numbers, Ages, Dates, Birthdays.&lt;/small&gt;
+* {{stage short|100%|Dec 26, 2006}} [[Spanish/Lessons/Introducción a la gramática|Introducción a la gramática]] &amp;mdash; &lt;small&gt;Articles, Regular Verbs, Questions and Exclamations.&lt;/small&gt;
+
+=== ¿Qué opinas? ===
+{{stage short|100%|Mar 27, 2007}} &quot;What do you think?&quot; &amp;mdash; a world of opinions and viewpoints.
+* {{stage short|100%|Dec 26, 2006}} [[Spanish/Lessons/¿Dónde vives?|¿Dónde vives?]] &amp;mdash; &lt;small&gt;Countries, Habitations, &quot;O&quot; and &quot;A&quot; Adjectives, City and Countryside.&lt;/small&gt;
+* {{stage short|100%|Dec 26, 2006}} [[Spanish/Lessons/¿Qué te gusta hacer?|¿Qué te gusta hacer?]] &amp;mdash; &lt;small&gt;Sports and Activities, UE Verbs, Complex sentences, Negatives, Opinions.&lt;/small&gt;
+* {{stage short|100%|Mar 27, 2007}} [[Spanish/Lessons/¿Qué comes?|¿Qué comes?]] &amp;mdash; &lt;small&gt;Food and Drink, In the Shop, &quot;E&quot; and Consonant Adjectives, Colours.&lt;/small&gt;
+
+=== ¿Cuándo se hará? ===
+{{stage short|100%|May 21, 2007}} &quot;When will it be done?&quot; &amp;mdash; The busy world of time.
+* {{stage short|100%|Apr 8, 2007}} [[Spanish/Lessons/¿Qué hora es?|¿Qué hora es?]] &amp;mdash; &lt;small&gt;Telling the Time, Times of Day, Time-related Adverbs, Reflexive verbs.&lt;/small&gt;
+* {{stage short|100%|May 11, 2007}} [[Spanish/Lessons/¿Adónde vas a ir?|¿Adónde vas a ir?]] &amp;mdash; &lt;small&gt;Simple Future, Holidays, Accommodation, IE verbs.&lt;/small&gt;
+* {{stage short|100%|May 21, 2007}} [[Spanish/Lessons/¿Cuál es tu trabajo?|¿Cuál es tu trabajo?]] &amp;mdash; &lt;small&gt;Jobs and Occupations, Little Words, Workplaces, Future Tense.&lt;/small&gt;
+
+== Appendices ==
+=== Vocabulary ===
+* {{stage short|00%|Sep 15, 2007}} Thesaurus of Spanish Cognates
+** {{stage short|00%|Dec 31, 2007}} [[Spanish/Common False Cognates|Common False Cognates]]
+** {{stage short|00%|Sep 15, 2007}} Everyday Vocabulary
+*** {{stage short|50%|Sep 15, 2007}} [[Spanish/Contents/Thesaurus of Spanish Cognates/Everyday Vocabulary/100+ High-Frequency Words|100+ High-Frequency Words]]
+*** {{stage short|25%|Oct 13, 2007}} [[Spanish/Thesaurus of Spanish Cognates/Everyday Vocabulary/Conversational Forms|Conversational Forms]]
+*** {{stage short|00%|Oct 13, 2007}} [[Spanish/Thesaurus of Spanish Cognates/Everyday Vocabulary/Loan Words|Loan Words]]
+* {{stage short|50%|May 5, 2009}} [[Spanish/Translation Reference|Translation Reference]] (archived)
+* {{stage short|50%|Sep 15, 2007}} [[Spanish/Vocabulary|Common words]] (archived)
+** {{stage short|25%|Sep 15, 2007}} [[Spanish/Idioms|Idioms]] (archived)
+** {{stage short|50%|Sep 15, 2007}} [[Spanish/Slang|Slang words]] (archived) from different countries
+** [[voy:Spanish_phrasebook|Spanish phrasebook]] on [[voy:|Wikivoyage]]
+
+=== Grammar ===
+* {{stage short|50%|Sep 15, 2007}} [[Spanish/Grammar_Index|Grammar Index (Archived)]] is a former section of the Spanish book, with information in pages on Spanish grammar.
+
+==== Verbs ====
+* {{stage short|50%|Sep 15, 2007}} [[Spanish/Tenses]] is a grammar appendix which outlines all possible verb conjugations for regular Spanish verbs. Verbs are first divided by mood (indicative, subjunctive, imperative), then by aspect (simple, perfect, continuous, perfect continuous), and finally by tense (present, preterite, imperfect, conditional, future). This appendix can be used as a reference for any and all regular verb conjugations.
+* {{stage short|50%|Sep 15, 2007}} [[Spanish/Verbs]] (archived) is a guide to verbs, with some other pages in it too.
+
+==== Nouns ====
+* {{stage short|00%|Sep 15, 2007}} [[/Valuable noun-related phrases/]] (perfect for the beginner). Will prove valuable for also learning present tense and past tense. Can be used to learn the sentence structure.
+
+== Other materials ==
+The materials below are mostly miscellaneous or incomplete. 
+
+=== Incomplete lessons ===
+* {{stage short|25%|Mar 24, 2007}} [[Spanish/Lessons/Las personas|Las personas]] &amp;mdash; &lt;small&gt; Describing people and opinions about them.&lt;/small&gt;
+* {{stage short|50%|Apr 5, 2007}} [[Spanish/Lessons/La escuela|La escuela]] &amp;mdash; &lt;small&gt;School, ser versus estar.&lt;/small&gt;
+* {{stage short|50%|Apr 5, 2007}} [[Spanish/Lessons/El tiempo pasado|El tiempo pasado]] &amp;mdash; &lt;small&gt;The past tense- All about the past tense in Spanish: Preterito, Imperfecto, Differences between the two.&lt;/small&gt;
+
+=== Learning ===
+* [[/Questions|Ask questions]] at the Question and Answer page.
+* [[/Requests|Request]] for improvement to the Wikibook at the request page.
+* [[/Archived|Archived materials]] have more lessons which you can use.
+* [[Spanish/How to study Spanish|How to Study Spanish]] is an archived guide to the proper way to learn the language.
+* [[Spanish/Web Resources|Web Resources]] is a page with links to other websites you can go to to learn Spanish.
+
+== Contribute to this Wikibook ==
+This is a '''''Wiki''book''' &amp;mdash; please feel free to edit, enhance, update and add to it, in any way that will make it a better teaching resource! Especially if you are a native Spanish speaker, please consider recording sound files for any of the dialogue or vocabulary. It seriously improves the learning potential of the book if you can listen as you read! A list of the people who have contributed to this featured book is [[Spanish/Contributors|here]].
+
+The book already has all of the most basic information allowing you to construct a simple sentence, and say a few things in Spanish. However, do try to help by adding some more information on other topics that are not here. As you write, remember that people reading this book can be totally new to the language. Do not write as if you are writing for another Spanish speaker, but keep in mind to explain things in great detail to enable learners to use this book easily.
+
+Contribute to this book to make it a good way for new learners to learn the Spanish language!
+
+== See also ==
+{{col-begin}}
+{{col-2}}
+* [[/Archived|Archived Spanish material]]
+* [http://www.colby.edu/~bknelson/SLC/index.php Spanish Language &amp; Culture, Exercises and Material on Colby.edu]
+* [http://archive.is/20121216050810/learnfreespanishonline.blogspot.com/ Learn Spanish Language - Exercises and audio]
+
+{{col-break}}
+* [[The Wrong Way To Learn Spanish]]
+* [[Spanish by Choice]]
+* [[Wikijunior:Languages/Spanish]]
+{{col-end}}
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]
+
+[[es:Español/Como lengua extranjera/Introducción]]
+[[hr:Španjolski jezik/Sadržaj]]
+[[nl:Spaans/Inhoudsopgave]]</text>
+      <sha1>57f4n3le111m1df4ixrq66kta8i8tt1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Spanish/Grammar Index</title>
+    <ns>0</ns>
+    <id>1494</id>
+    <revision>
+      <id>1927826</id>
+      <parentid>1263977</parentid>
+      <timestamp>2010-09-03T21:18:02Z</timestamp>
+      <contributor>
+        <ip>71.63.253.181</ip>
+      </contributor>
+      <comment>/* External links */</comment>
+      <text xml:space="preserve">*[[../Parts of Speech/]]
+*[[Spanish/Lesson_1#Grammar:_Personal_Pronouns|Personal pronouns]]
+*[[../Gender of nouns/]]
+*[[../Formation of the feminine in nouns/]]
+*[[../Formation of the feminine in adjectives/]]
+*[[Spanish/Lesson_2#Grammar_III_-_Matching_Adjectives|Matching adjectives]]
+*[[../Word Order/]]
+*[[../Diminutives/]]
+*[[../Tener que ...|Tener que ...]]
+*[[../Tener ganas de ...|Tener ganas de ...]]
+
+==External links==
+* [http://www.indiana.edu/%7Ecall/lengua.html Gramática y Ortografía] de la Universidad de Indiana ''Grammar and Spelling from the University of Indiana''
+* [http://learnspanish.elanguageschool.net Learn Spanish Online] Free Spanish lessons
+* [http://www.press.uchicago.edu/Misc/Chicago/spanishdictionary/grammar.html Notas sobre la gramática] del diccionario de la Universidad de Chicago ''University of Chicago Spanish dictionary grammar notes''.
+* [http://www.studyspanish.com/tutorial.htm Tutorial de la gramática] ''Grammar tutorial from StudySpanish.com''
+
+[[Category:Spanish grammar]]
+
+[[Category:Spanish]]</text>
+      <sha1>8l7gsti9scgdppdpnfeejtd1mav5vsk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Lessons/Recreation</title>
+    <ns>0</ns>
+    <id>1502</id>
+    <revision>
+      <id>2691030</id>
+      <parentid>2586107</parentid>
+      <timestamp>2014-08-13T13:30:24Z</timestamp>
+      <contributor>
+        <username>CommonsDelinker</username>
+        <id>49843</id>
+      </contributor>
+      <minor />
+      <comment>Replacing Restaurant.jpg with [[File:Tom's_Restaurant,_NYC.jpg]] (by [[commons:User:Ymblanter|Ymblanter]] because: [[commons:COM:FR|File renamed]]: [[commons:COM:FR#reasons|File renaming criterion #2]]: Change from completely meaningless names into sui...</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{French/Lessons/Level one/Header||Récréation}}&lt;/noinclude&gt;
+{{French/Lesson objective|
+: ''Aimez-vous ce film ? Oui, je l'aime.''
+: ''Nous jouons aux cartes.''
+|
+: ''Je lui donne le livre.''
+: ''Il adore jouer aux jeux vidéo.''
+}}
+== {{French/Section|Dialogue|&lt;!-- title here --&gt;}} ==
+{{sectstub}}
+
+== {{French/Section|Grammar|Regular ''-er'' verbs|Les verbes en -er}} ==
+
+=== Formation ===
+Most French verbs fall into the category of ''-er'' verbs. To conjugate, drop the ''-er'' to find the stem or root. Add endings to the root based on the subject and tense.
+
+{| {{French/Table|audio=French Grammar - -er Verb Formation.ogg|columns=4|style=text-align: center;}}
+|+ {{French/Word|jouer|IPA=/ʒwe/|audio=Fr-jouer.ogg|en=to play}}
+|-
+! Pronoun || Ending || Verb || Pronunciation
+|-
+| je || -e || jou'''e''' || {{audio|Fr-joue.ogg|/ʒu/}}
+|-
+| tu || -es || jou'''es''' || {{audio|Fr-joue.ogg|/ʒu/}}
+|-
+| il/elle || -e || jou'''e''' || {{audio|Fr-joue.ogg|/ʒu/}}
+|-
+| nous || -ons || jou'''ons''' || {{audio|/ʒwɔ̃/}}
+|-
+| vous || -ez || jou'''ez''' || {{audio|/ʒu.e/}}
+|-
+| ils/elles || -ent || jou'''ent''' || {{audio|Fr-joue.ogg|/ʒu/}}
+|}
+
+=== Pronunciation, elision and liaison ===
+The ''-e'', ''-es'', and ''-ent'' endings all have the same silent pronunciation. The ''-er'' and ''-ez'' endings are pronounced {{audio|/e/|approx=ay}}, and the ''-ons'' ending is pronounced {{audio|/ɔ̃/|approx=oh}}.
+
+In all conjugations, ''je'' changes to ''j'' ' when followed by a vowel or silent ''h'':
+: {{French/Word|J'aime…|en=I like…}}
+: {{French/Word|J'habite…|en=I live…}}
+
+In all plural forms, the ''s'' at the end of each subject pronoun, normally unpronounced, becomes a ''z'' sound and the ''n'' of ''on'' becomes pronounced when followed by a vowel.
+
+=== Conjugation examples ===
+{| {{French/Table|audio=French/Grammar/Formation of common -er verbs.ogg|columns=9}}
+! style=&quot;min-width: 60px;&quot; | Infinitive
+! style=&quot;min-width: 60px;&quot; | Stem
+! colspan=7 | Present indicative conjugation
+|-
+!  ||  
+! colspan=2 | {{French/Section|First person}}
+! colspan=2 | {{French/Section|Second person}}
+! colspan=2 | {{French/Section|Third person}}
+! 
+|-
+! rowspan=2 | aimer
+! rowspan=2 | aim
+| style=&quot;border-right: none; padding-right: 0; text-align: right;&quot; | {{French/Section|J'}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | aime
+| style=&quot;border-right: none; padding-right: 1en; text-align: right;&quot; | {{French/Section|Tu}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | aimes
+| style=&quot;border-right: none; padding-right: 1en; text-align: right;&quot; | {{French/Section|Il}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | aime
+! {{French/Section|Singular}}
+|-
+| style=&quot;border-right: none; padding-right: 1en; text-align: right;&quot; | {{French/Section|Nous}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | aimons
+| style=&quot;border-right: none; padding-right: 1en; text-align: right;&quot; | {{French/Section|Vous}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | aimez
+| style=&quot;border-right: none; padding-right: 1en; text-align: right;&quot; | {{French/Section|Ils}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | aiment
+! {{French/Section|Plural}}
+|-
+! rowspan=2 | parler
+! rowspan=2 | parl
+| style=&quot;border-right: none; padding-right: 1en; text-align: right;&quot; | {{French/Section|Je}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | parle
+| style=&quot;border-right: none; padding-right: 1en; text-align: right;&quot; | {{French/Section|Tu}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | parles
+| style=&quot;border-right: none; padding-right: 1en; text-align: right;&quot; | {{French/Section|Il}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | parle
+! {{French/Section|Singular}}
+|-
+| style=&quot;border-right: none; padding-right: 1en; text-align: right;&quot; | {{French/Section|Nous}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | parlons
+| style=&quot;border-right: none; padding-right: 1en; text-align: right;&quot; | {{French/Section|Vous}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | parlez
+| style=&quot;border-right: none; padding-right: 1en; text-align: right;&quot; | {{French/Section|Ils}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | parlent
+! {{French/Section|Plural}}
+|-
+! rowspan=2 | habiter
+! rowspan=2 | habit
+| style=&quot;border-right: none; padding-right: 0; text-align: right;&quot; | {{French/Section|J'}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | habite
+| style=&quot;border-right: none; padding-right: 1en; text-align: right;&quot; | {{French/Section|Tu}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | habites
+| style=&quot;border-right: none; padding-right: 1en; text-align: right;&quot; | {{French/Section|Il}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | habite
+! {{French/Section|Singular}}
+|-
+| style=&quot;border-right: none; padding-right: 1en; text-align: right;&quot; | {{French/Section|Nous}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | habitons
+| style=&quot;border-right: none; padding-right: 1en; text-align: right;&quot; | {{French/Section|Vous}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | habitez
+| style=&quot;border-right: none; padding-right: 1en; text-align: right;&quot; | {{French/Section|Ils}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | habitent
+! {{French/Section|Plural}}
+|-
+! rowspan=2 | écouter
+! rowspan=2 | écout
+| style=&quot;border-right: none; padding-right: 0; text-align: right;&quot; | {{French/Section|J'}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | écoute
+| style=&quot;border-right: none; padding-right: 1en; text-align: right;&quot; | {{French/Section|Tu}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | écoutes
+| style=&quot;border-right: none; padding-right: 1en; text-align: right;&quot; | {{French/Section|Il}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | écoute
+! {{French/Section|Singular}}
+|-
+| style=&quot;border-right: none; padding-right: 1en; text-align: right;&quot; | {{French/Section|Nous}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | écoutons
+| style=&quot;border-right: none; padding-right: 1en; text-align: right;&quot; | {{French/Section|Vous}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | écoutez
+| style=&quot;border-right: none; padding-right: 1en; text-align: right;&quot; | {{French/Section|Ils}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | écoutent
+! {{French/Section|Plural}}
+|}
+
+=== {{French/Section|Vocabulary|Common ''-er'' verbs|supplementary-id=french-common--er-verbs}} ===
+&lt;div id='french-common--er-verbs'&gt;
+{| {{French/Translations table|audio=French/Grammar/Common -er verbs.ogg}}
+| aimer || {{audio|Fr-aimer.ogg|/ɛ.me/}} || to like ||  || J’aime beaucoup ce tableau. || I love this painting.
+|-
+| arriver || {{audio|Fr-arriver.ogg|/a.ʁi.ve/}} || to arrive, to happen ||  ||  || 
+|-
+| chercher || {{audio|Fr-chercher.ogg|/ʃɛʁʃe/}} || to look for ||  || Je cherche du boulot. || I'm looking for some work.
+|-
+| demander || {{audio|Fr-demander.ogg|/dǝ.mɑ̃.de/}} || to ask {{French/Section|(for)}} ||  ||  || 
+|-
+| donner || {{audio|Fr-donner.ogg|/dɔ.ne/}} || to give ||  ||  || 
+|-
+| écouter || {{audio|Fr-écouter.ogg|/ekute/}} || to listen to ||  || J’écoute la radio. || I'm listening to the radio.
+|-
+| entrer || {{audio|Fr-entrer.ogg|/ɑ̃t.ʁe/}} || to enter ||  || Il entre dans la salle. || He's entering the room.
+|-
+| parler || {{audio|Fr-parler.ogg|/paʁle/}} || to speak, to talk ||  || Zoé parle couramment le français. || Zoé speaks French fluently.
+|-
+| passer || {{audio|Fr-passer.ogg|/pa.se/}} || to pass, to spend {{French/Section|(time)}} ||  ||  || 
+|-
+| porter || {{audio|Fr-porter.ogg|/pɔʁ.te/}} || to carry, to wear ||  || Quentin porte un sac de blé. || Quentin is carrying a bag of wheat.
+|-
+| regarder || {{audio|Fr-regarder.ogg|/ʁǝ.ɡaʁ.de/}} || to watch ||  ||  || 
+|-
+| sembler || {{audio|Fr-sembler.ogg|/sɑ̃.ble/}} || to seem, to resemble ||  ||  || 
+|-
+| trouver || {{audio|Fr-trouver.ogg|/tʁu.ve/}} || to find, to surprise ||  ||  || 
+|}
+&lt;/div&gt; &lt;!-- /french-common--er-verbs --&gt;
+== {{French/Section|Vocabulary|Places|&lt;!-- French here --&gt;}} ==
+
+{{French/Vocabulary gallery
+ | la bibliothèque | /bi.bli.jɔ.tɛk/ | Fr-bibliothèque.ogg | Old bookshelves.jpg
+ | le parc | /paʁk/| Fr-parc.ogg | Parc Oriental de Maulévrier.JPG
+ | la piscine | /pi.sin/| Fr-piscine.ogg | Backyardpool.jpg
+ | la plage | /plaʒ/| Fr-plage.ogg | Bondi 1.jpg
+ | le restaurant | /ʁɛs.to.ʁɑ̃/| Fr-Restaurant.ogg |Tom's_Restaurant,_NYC.jpg
+ | la salle de concert |  |  | WD concert hall stage.jpg
+ | le cinéma | /si.ne.ma/| Fr-cinéma.ogg | Rialto Theatre Montreal 01.jpg
+ | le casino | /ka.zi.no/ |  | Casino slots.jpg
+ | la salle de jeux | /sal.də.ʒø/ |  | RecreationRoomChicago.jpg
+ | le stade | /stad/| Fr-stade.ogg | Bernabéu.JPG
+ | le théâtre | /te.atʁ/ | Fr-théâtre.ogg | Arriaga Antzokiaren barnealdea.jpg
+}}
+
+
+{| {{French/Translations table|audio=French/Vocabulary/Recreational places.ogg}}
+| la bibliothèque || {{audio|Fr-bibliothèque.ogg|/bi.bli.jɔ.tɛk/}} || library || caution: a ''librairie'' is a bookshop || On est à la bibliothèque publique. || We are at the public library.
+|-
+| le parc || {{audio|Fr-parc.ogg|/paʁk/}} || park ||  ||  || 
+|-
+| la piscine || {{audio|Fr-piscine.ogg|/pi.sin/}} || swimming pool ||  ||  || 
+|-
+| la plage || {{audio|Fr-plage.ogg|/plaʒ/}} || beach ||  ||  || 
+|-
+| le restaurant || {{audio|Fr-Restaurant.ogg|/ʁɛs.to.ʁɑ̃/}} || restaurant ||  || On dîne au restaurant français. || We are dining at the French restaurant.
+|-
+| la salle de concert || &lt;!-- IPA here --&gt; || concert hall ||  ||  || 
+|-
+| le cinéma&lt;br /&gt;la salle de cinéma || {{audio|Fr-cinéma.ogg|/si.ne.ma/}} || cinema ||  ||  || 
+|-
+| le casino&lt;br /&gt;la maison de jeu || {{audio|/ka.zi.no/}} || casino ||  || Les jeux de casino sont des bons exemples de jeu de hasard. || Casino games are good examples of games of chance.
+|-
+| la salle de jeux || {{audio|/sal.də.ʒø/}} || game room, playroom ||  || Le casino a six salles de jeu. || The casino has six game rooms.
+|-
+| le stade || {{audio|Fr-stade.ogg|/stad/}} || stadium ||  ||  || 
+|-
+| le théâtre || {{audio|Fr-théâtre.ogg|/te.atʁ/}} || theater ||  ||  || 
+|}
+
+== {{French/Section|Grammar|Direct object pronouns ''le'', ''la'', and ''les''}} ==
+
+The direct object pronoun {{fr|le|IPA=/lə/|audio=Fr-le.ogg}}, meaning ''it'' or ''him'', replace masculine singular direct objects:
+
+: {{fr|Je donne le livre au prof.|en=I'm giving the book to the teacher.}}
+: {{fr|Je le donne au prof.|en=I'm giving it to the teacher.}}
+
+{{fr|La|IPA=/la/|audio=Fr-la.ogg}}, meaning ''it'' or ''her'', replaces feminine singular direct objects:
+: {{fr|Je donne la calculatrice au prof.|en=I'm giving the calculator to the teacher.}}
+: {{fr|Je la donne au prof.|en=I'm giving it to the teacher.}}
+
+{{fr|Les|IPA=/le/|audio=Fr-les.ogg}}, meaning ''them'', replaces plural direct objects:
+: {{fr|Je donne les livres au prof.|en=I'm giving the books to the teacher.}}
+: {{fr|Je les donne au prof.|en=I'm giving them to the teacher.}}
+
+''Le'' and ''la'' become ''l&lt;nowiki&gt;'&lt;/nowiki&gt;'' before a vowel:
+: {{fr|Aimez-vous le concert ? Oui, je l'aime.|en=Do you like the concert? Yes, I like it.}}
+
+''Le'', ''la'', and ''les'' can replace either people or things:
+: {{fr|Aimez-vous le film ? Oui, je l'aime.|en=Do you like the film? Yes, I like it.}}
+: {{fr|Aimez-vous l'acteur ? Oui, je l'aime.|en=Do you like the actor? Yes, I like him.}}
+
+=== Summary ===
+
+{| {{French/Table|columns=4}}
+| masculine singular direct object
+! le
+| {{fr/sec|{{fr/IPA|/lə/|approx=luh|audio=Fr-le.ogg}}}}
+| it, him
+|-
+| feminine singular direct object
+! la
+| {{fr/sec|{{fr/IPA|/la/|approx=lah|audio=Fr-la.ogg}}}}
+| it, her
+|-
+| singular direct object, before a vowel
+! l'
+| {{fr/sec|{{fr/IPA|/l/}}}}
+| it, him, her
+|-
+| plural direct object
+! les
+| {{fr/sec|{{fr/IPA|/le/|approx=lay|audio=Fr-les.ogg}}}}
+| them
+|}
+
+=== Examples ===
+{{sectstub}}
+
+== {{French/Section|Vocabulary|Sports, games, and instruments}} ==
+The verb {{French/Word|jouer|IPA=/ʒwe/|audio=Fr-jouer.ogg}} is a regular ''-er'' verb meaning ''to play''. It can be used to refer to sports, games, and instruments.
+
+When referring to sports or games, ''jouer à …'' is used; recall that {{French/Word|au|IPA=/o/|audio=Fr-au.ogg}} replaces ''à le'', and {{French/Word|aux|IPA=/o/|audio=Fr-aux.ogg}} replaces ''à les'':
+: {{French/Word|Je joue au baseball.|en=I'm playing baseball.}}
+: {{French/Word|Nous jouons aux cartes.|en=We are playing cards.}}
+
+When referring to instruments, ''jouer de …'' is used; recall that {{French/Word|du|IPA=/dy/|audio=Fr-du.ogg}} replaces ''de le'', and {{French/Word|des|IPA=/dɛ/|audio=Fr-des.ogg}} replaces ''de les'':
+: {{French/Word|Je joue du piano.|en=I'm playing the piano.}}
+
+=== {{French/Section|Vocabulary|Sports|supplementary-id=french-sports}} ===
+&lt;div id='french-sports'&gt;
+{{French/Vocabulary gallery
+ | le baseball | /bɛz.bol/ |  | Typical baseball game.JPG
+ | le basket | /bas.kɛt/ |  | Three point shoot.JPG
+ | le football | /fut.bol/ | Fr-football.ogg | Football iu 1996.jpg
+ | le football américain | /fut.bol a.me.ʁi.kɛ̃/ |  | Vince Young scores a touchdown in the 2005 Big 12 Championship Game.JPG
+ | le golf | /gɔlf/ |  |Golf chip.jpg
+ | le tennis | /te.nis/ | Fr-tennis.ogg | Justine henin hardenne medibank international 2006 02.jpg
+ | le volley | /vɔː.le/ |  | Volleyball game.jpg
+}}
+
+{| {{French/Translations table|audio=French/Vocabulary/Sports.ogg}}
+| le baseball || {{audio|/bɛz.bol/}} || baseball ||  ||  || 
+|-
+| le basket || {{audio|/bas.kɛt/}} || basketball ||  ||  || 
+|-
+| le football || {{audio|Fr-football.ogg|/fut.bol/}} || football/soccer ||  || Il est un bon joueur de football. || He is a good football player.
+|-
+| le football américain || {{audio|/fut.bol a.me.ʁi.kɛ̃/}} || American football ||  ||  || 
+|-
+| le golf || {{audio|/gɔlf/}} || golf ||  ||  || 
+|-
+| le tennis || {{audio|Fr-tennis.ogg|/te.nis/}} || tennis ||  ||  || 
+|-
+| le volley || {{audio|/vɔː.le/}} || volleyball ||  ||  || 
+|}&lt;/div&gt; &lt;!-- /french-sports --&gt;
+
+=== {{French/Section|Vocabulary|Games|Les jeux|supplementary-id=french-games}} ===
+&lt;div id='french-games'&gt;
+{{French/Vocabulary gallery
+ | le jeu vidéo | /ʒø vi.deo/ |  | Vg icon.svg
+ | le jeu de société | /ʒø də sɔ.sje.te/ |  | KeyLargo_01.jpg
+ | les cartes | /kaʁt/ | Fr-carte.ogg | Rummy (game)-card deal.JPG
+ | les dames | [daːm] | Fr-dame.ogg | Jeu dames.jpg
+ | les échecs | /e.ʃɛk/ | Fr-échec.ogg | ChessStartingPosition.jpg
+ | les dés | /de/ | Fr-dé.ogg | Dice.jpg
+}}
+
+{| {{French/Translations table|audio=French/Vocabulary/Games.ogg}}
+| le jeu {{French/Section|(les jeux)}} || {{audio|Fr-jeu.ogg|/ʒø/}} || game ||  || Nous avons plein de jeux pour les enfants. || We have many games for the children.
+|-
+| le jeu de hasard ||  || game of chance ||  || Poker est un jeu de hasard.&lt;br /&gt;Il joue aux jeux de hasard. || Poker is a game of chance.&lt;br /&gt;He plays games of chance.
+|-
+| le jeu vidéo || {{audio|/ʒø vi.deo/}} || video game ||  || Ce jeu vidéo est très difficile. || This video game is very difficult.
+|-
+| le jeu de société || {{audio|/ʒø də sɔ.sje.te/}} || board game ||  ||  || 
+|-
+| le jeu de rôle ||  || role-playing game ||  ||  || 
+|-
+| les cartes || {{audio|Fr-carte.ogg|/kaʁt/}} || cards ||  ||  || 
+|-
+| les dames || {{audio|Fr-dame.ogg|[daːm]|}} || checkers/draughts ||  ||  || 
+|-
+| les échecs || {{audio|Fr-échec.ogg|/e.ʃɛk/}} || chess ||  || Le jeu d’échecs a des règles complexes. || The game of chess has complex rules.
+|-
+| les dés || {{audio|Fr-dé.ogg|/de/}} || dice ||  ||  || 
+|}
+&lt;/div&gt; &lt;!-- /french-games --&gt;
+
+=== {{French/Section|Vocabulary|Instruments|supplementary-id=french-instruments}} ===
+&lt;div id='french-instruments'&gt;
+{{French/Vocabulary gallery
+ | la clarinette | /kla.ʁi.nɛt/ |  | Bundy bass clarinet.png
+ | le piano | /pja.nɔ/ | Fr-piano.ogg | Piano.svg
+ | la guitare | /ɡi.taʁ/ | Fr-guitare.ogg | Classicalguitar.png
+ | le violon | /vjɔ.lɔ̃/ | Fr-violon.ogg | Old violin.jpg
+ | la batterie | /batʀi/ | Fr-batterie.ogg | Bass drum.svg
+}}
+
+{| {{French/Translations table|audio=French/Vocabulary/Instruments.ogg}}
+| la clarinette || {{audio|/kla.ʁi.nɛt/}} || clarinet ||  || Le son de cette clarinette est agréable. || The sound of this clarinet is nice.
+|-
+| le piano || {{audio|Fr-piano.ogg|/pja.nɔ/}} || piano ||  || Elle joue du piano depuis l’âge de trois ans. || She plays the piano since the age of three.
+|-
+| la guitare || {{audio|Fr-guitare.ogg|/ɡi.taʁ/}} || guitar ||  ||  || 
+|-
+| le violon || {{audio|Fr-violon.ogg|/vjɔ.lɔ̃/}} || violin ||  || On danse au son du violon. || We are dancing to the sound of the violin.
+|-
+| la batterie || {{audio|Fr-batterie.ogg|/batʀi/}} || drums || singular in French ||  || 
+|}&lt;/div&gt; &lt;!-- /french-instruments --&gt;
+
+== {{French/Section|Grammar|Indirect object pronouns ''lui'' and ''leur''|supplementary-id=french-lui-and-leur}} ==
+&lt;div id='french-lui-and-leur'&gt;
+The indirect object  pronoun {{French/Word|lui|IPA=/lɥi/|audio=Fr-lui.ogg}} means ''to him'' or ''to her'':
+: {{French/Word|Je lui donne le livre.|en=I'm giving the book to him/her.}}
+: {{French/Word|Je lui donne un coup de main.|en=I'm giving a hand to him/her.}}
+
+Likewise, the indirect object pronoun {{French/Word|leur|IPA=/lœʁ/|audio=Fr-leur.ogg}} means ''to them'':
+: {{French/Word|Je leur donne le livre.|en=I'm giving the book to them.}}
+: {{French/Word|Je leur donne un coup de main.|en=I'm giving a hand to them.}}
+
+''Lui'' replaces ''à [''person'']'':
+: {{French/Word|Je parle à Jean.|en=I'm speaking to Jean.}}
+: {{French/Word|Je lui parle.|en=I'm speaking to him.}}
+
+Likewise, ''leur'' replaces ''à [''people'']'':
+: {{French/Word|Je parle à Jean et Marie.|en=I'm speaking to Jean and Marie.}}
+: {{French/Word|Je leur parle.|en=I'm speaking to them.}}
+
+''Lui'' and ''leur'' usually only refer to people; they will sometimes also be used in reference to things.
+
+=== Examples ===
+{{sectstub}}
+&lt;/div&gt; &lt;!-- /french-lui-and-leur --&gt;
+
+== {{French/Section|Grammar|Conjugated verb + infinitive|supplementary-id=french-conjugated-verb-and-infinitive}} ==
+&lt;div id='french-conjugated-verb-and-infinitive'&gt;
+Like in English, some verbs can be followed by infinitives. Three ''-er'' verbs used in this manner are ''aimer'', ''adorer'', and ''détester'':
+
+: {{French/Word|Nous aimons jouer aux cartes.|en=We like to play cards}}
+: {{French/Word|Je déteste jouer au golf.|en=I hate playing golf.}}
+: {{French/Word|Il adore jouer aux jeux vidéo.|en=He loves to play video games.}}
+
+=== Examples ===
+{{sectstub}}
+&lt;/div&gt; &lt;!-- /french-conjugated-verb-and-infinitive --&gt;
+
+== {{French/Section|Grammar|To have fun|S'amuser|supplementary-id=french-s-amuser}} ==
+&lt;div id='french-s-amuser'&gt;
+The verb ''s'amuser'' means ''to have fun'' in English. It is a type of pronominal verb (a verb that includes a pronoun as part of it) called a reflexive verb, which means that the action of the verb is reflected back onto the subject. Literally translated, the verb means ''To amuse oneself.''
+
+=== Formation ===
+{| {{French/Table|audio=French/Grammar/Present indicative verb/S'amuser.ogg|columns=9}}
+! style=&quot;min-width: 60px;&quot; | Infinitive
+! style=&quot;min-width: 60px;&quot; | Stem
+! colspan=7 | Present indicative conjugation
+|-
+!  ||  
+! colspan=2 | {{French/Section|First person}}
+! colspan=2 | {{French/Section|Second person}}
+! colspan=2 | {{French/Section|Third person}}
+! 
+|-
+! rowspan=2 | s'amuser
+! rowspan=2 | amus
+| style=&quot;border-right: none; padding-right: 0; text-align: right;&quot; | {{French/Section|Je m'}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | amuse
+| style=&quot;border-right: none; padding-right: 0; text-align: right;&quot; | {{French/Section|Tu t'}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | amuses
+| style=&quot;border-right: none; padding-right: 0; text-align: right;&quot; | {{French/Section|Il s'}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | amuse
+! {{French/Section|Singular}}
+|-
+| style=&quot;border-right: none; padding-right: 1en;; text-align: right;&quot; | {{French/Section|Nous nous}} 
+| style=&quot;border-left: none; padding-left: 0;&quot; | amusons
+| style=&quot;border-right: none; padding-right: 1en;; text-align: right;&quot; | {{French/Section|Vous vous}} 
+| style=&quot;border-left: none; padding-left: 0;&quot; | amusez
+| style=&quot;border-right: none; padding-right: 0; text-align: right;&quot; | {{French/Section|Ils s'}}
+| style=&quot;border-left: none; padding-left: 0;&quot; | amusent
+! {{French/Section|Plural}}
+|}
+
+=== Examples ===
+{{sectstub}}
+&lt;/div&gt; &lt;!-- /french-s-amuser --&gt;
+
+== {{French/Section|Dialogue|&lt;!-- title here --&gt;}} ==
+{{sectstub}}
+
+== {{French/Section|Exercises}} ==
+{{French/Exercise list
+ | title = Fill in the blank using ''jouer''
+ | instructions = Fill in each blank with the correct form of ''jouer''.
+ | nous ______ | nous '''jouons'''
+ | elle ______ | elle '''joue'''
+ | tu ______ | tu '''joues'''
+ | il ______ | il '''joue'''
+ | elles ______ | elles '''jouent'''
+ | vous ______ | vous '''jouez'''
+ | je ______ | je '''joue'''
+ | ils ______ | ils '''jouent'''
+ | nous ______ | nous '''jouons'''
+ | tu ______ | tu '''joues'''
+ | on ______ | on '''joue'''
+ | ils ______ | ils '''jouent'''
+ | nous ______ | nous '''jouons'''
+ | je ______ | je '''joue'''
+ | vous ______ | vous '''jouez'''
+ | on ______ | on '''joue'''
+ | elles ______ | elles '''jouent'''
+ | vous ______ | vous '''jouez'''
+}}
+
+{{French/Exercise list
+ | title = Translation
+ | instructions = Translate from French to English.
+ | le théâtre | theater
+ | le parc | park
+ | la piscine | swimming pool
+ | la salle de jeux | game room, playroom
+ | le restaurant | restaurant
+ | le stade | stadium
+ | le cinéma&lt;br /&gt;la salle de cinéma | cinema
+ | la plage | beach
+ | le casino&lt;br /&gt;la maison de jeu | casino
+ | la salle de concert | concert hall
+ | la bibliothèque | library
+}}
+
+{{French/Exercise list
+ | title = Translation
+ | instructions = Translate from English to French.
+ | restaurant | le restaurant
+ | game room, playroom | la salle de jeux
+ | theater | le théâtre
+ | concert hall | la salle de concert
+ | swimming pool | la piscine
+ | cinema | le cinéma&lt;br /&gt;la salle de cinéma
+ | casino | le casino&lt;br /&gt;la maison de jeu
+ | library | la bibliothèque
+ | stadium | le stade
+ | beach | la plage
+ | park | le parc
+}}
+{{sectstub}}
+
+== {{French/Section|Exercises|supplementary-id=french-exercises}} ==
+&lt;div id='french-exercises'&gt;
+{{French/Exercise list
+ | title = Translation
+ | instructions = Translate from French to English.
+ | porter | to carry, to wear
+ | donner | to give
+ | regarder | to watch
+ | écouter | to listen to
+ | parler | to speak, to talk
+ | entrer | to enter
+ | aimer | to like
+ | demander | to ask {{French/Section|(for)}}
+ | sembler | to seem, to resemble
+ | trouver | to find, to surprise
+ | passer | to pass, to spend {{French/Section|(time)}}
+ | chercher | to look for
+ | arriver | to arrive, to happen
+}}
+
+{{French/Exercise list
+ | title = Translation
+ | instructions = Translate from English to French.
+ | to find, to surprise | trouver
+ | to look for | chercher
+ | to give | donner
+ | to watch | regarder
+ | to carry, to wear | porter
+ | to speak, to talk | parler
+ | to enter | entrer
+ | to arrive, to happen | arriver
+ | to listen to | écouter
+ | to seem, to resemble | sembler
+ | to like | aimer
+ | to ask {{French/Section|(for)}} | demander
+ | to pass, to spend {{French/Section|(time)}} | passer
+}}
+
+{{French/Exercise list
+ | title = Fill in the blank using ''-er'' verbs
+ | instructions = Fill in each blank with the correct form of the ''-er'' verb in parentheses.
+ | nous ______ (''parler'') | nous '''parlons'''
+ | elle ______ (''chercher'') | elle '''cherche'''
+ | tu ______ (''écouter'') | tu '''écoutes'''
+ | il ______ (''entrer'') | il '''entre'''
+ | elles ______ (''regarder'') | elles '''regardent'''
+ | vous ______ (''aimer'') | vous '''aimez'''
+ | je ______ (''demander'') | je '''demande'''
+ | ils ______ (''sembler'') | ils '''semblent'''
+ | nous ______ (''donner'') | nous '''donnons'''
+ | tu ______ (''arriver'') | tu '''arrives'''
+ | on ______ (''porter'') | on '''porte'''
+ | ils ______ (''chercher'') | ils '''cherchent'''
+ | nous ______ (''demander'') | nous '''demandons'''
+ | je ______ (''regarder'') | je '''regarde'''
+ | vous ______ (''sembler'') | vous '''semblez'''
+ | on ______ (''aimer'') | on '''aime'''
+ | elles ______ (''donner'') | elles '''donnent'''
+ | vous ______ (''chercher'') | vous '''cherchez'''
+}}
+&lt;/div&gt; &lt;!-- /french-exercises --&gt;
+
+
+&lt;noinclude&gt;{{French/Lessons/Level one|Family|The house}}&lt;/noinclude&gt;</text>
+      <sha1>kjbt87hkhjx44pimrl4oykkchh6hl1q</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Logic puzzles</title>
+    <ns>0</ns>
+    <id>1503</id>
+    <revision>
+      <id>1933462</id>
+      <parentid>683656</parentid>
+      <timestamp>2010-09-15T20:49:20Z</timestamp>
+      <contributor>
+        <username>Abd</username>
+        <id>356096</id>
+      </contributor>
+      <comment>add Sudoku</comment>
+      <text xml:space="preserve">[[Puzzles]] | Logic puzzles
+----
+
+* [[Puzzles/Logic puzzles/3 Hats in a Circle|3 Hats in a Circle]]
+* [[Puzzles/Logic puzzles/5 Houses|5 Houses]]
+* [[Puzzles/Logic puzzles/10 Hats|10 Hats]]
+* [[Puzzles/Logic puzzles/Bridge Crossing|Bridge Crossing]]
+* [[Puzzles/Logic puzzles/False Execution|False Execution]]
+* [[Puzzles/Logic puzzles/Getting out of Prison|Getting out of Prison]]
+* [[Puzzles/Logic puzzles/Gold Coins|Gold Coins]]
+* [[Puzzles/Logic puzzles/Hats|Hats]]
+* [[Puzzles/Logic puzzles/Infinite Hats|Infinite Hats]]
+* [[Puzzles/Logic puzzles/Island on Fire|Island on Fire]]
+* [[Puzzles/Logic puzzles/Knights, Knaves &amp; Spies|Knights, Knaves &amp; Spies]]
+* [[Puzzles/Logic puzzles/Knights, Knaves &amp; Spies II|Knights, Knaves &amp; Spies II]]
+* [[Puzzles/Logic puzzles/Lying about your Age|Lying about your Age]]
+* [[Puzzles/Logic puzzles/Pair of Socks|Pair of Socks]]
+* [[Puzzles/Logic puzzles/Pizzas|Pizzas]]
+* [[Puzzles/Logic puzzles/Scales and Weights|Scales and Weights]]
+* [[Puzzles/Logic puzzles/Sudoku|Sudoku]]
+* [[Puzzles/Logic puzzles/Three Knights|Three Knights]]
+* [[Puzzles/Logic puzzles/Two Boys and a River|Two Boys and a River]]
+* [[Puzzles/Logic puzzles/Two Cities|Two Cities]]
+* [[Puzzles/Logic puzzles/Two Cities - Same Response|Two Cities - Same Response]]
+
+=== Puzzles involving algorithms ===
+
+* [[Puzzles/Logic puzzles/Niki the Robot|Niki the Robot]]
+* [[Puzzles/Logic puzzles/Parachuted Robots|Parachuted Robots]]
+
+[[Category:Puzzles]]</text>
+      <sha1>a0m9q3vpcmr2sh82fcsgyznjog5u0pa</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Logic puzzles/Knights, Knaves &amp; Spies</title>
+    <ns>0</ns>
+    <id>1504</id>
+    <revision>
+      <id>647528</id>
+      <parentid>647527</parentid>
+      <timestamp>2006-11-13T04:42:52Z</timestamp>
+      <contributor>
+        <username>Think Fast</username>
+        <id>10874</id>
+      </contributor>
+      <minor />
+      <comment>change links in line with naming convention</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Logic puzzles|Logic puzzles]] | Knights, Knaves &amp; Spies
+----
+
+On the fabled Island of Knights and Knaves, we meet three people, A, B, and C, one of whom is a knight, one a knave, and one a spy.  The knight always tells the truth, the knave always lies, and the spy can
+either lie or tell the truth.
+
+A says: &quot;C is a knave.&quot;&lt;br&gt;
+B says: &quot;A is a knight.&quot;&lt;br&gt;
+C says: &quot;I am the spy.&quot;
+
+''Who is the knight, who the knave, and who the spy?''
+
+[[Puzzles/Logic puzzles/Knights, Knaves &amp; Spies/Solution|Solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>3x4jqtqfept6ypxfwrnj2dhnfqnx8ye</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/Logic puzzles/Knights, Knaves &amp; Spies</title>
+    <ns>1</ns>
+    <id>1505</id>
+    <revision>
+      <id>647525</id>
+      <parentid>238800</parentid>
+      <timestamp>2006-11-13T04:42:06Z</timestamp>
+      <contributor>
+        <username>Think Fast</username>
+        <id>10874</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles:Logic puzzles:Knights, Knaves &amp; Spies]] moved to [[Talk:Puzzles/Logic puzzles/Knights, Knaves &amp; Spies]]: naming convention</comment>
+      <text xml:space="preserve">For Knights Knaves and spies we can split the problem into two. C is the spy or C is not the spy
+
+'''Senario 1 C is the spy'''.
+:C is a spy and is telling the truth.
+:therefore A is lying so must be the Knave
+:So B must be the knight. 
+
+However B says that A is the knight, which is a lie. This is a contradiction since the knight neber lies so the spy cannot be telling the truth. 
+
+'''Senario 2 C is not the spy'''
+
+:C is not the spy
+:Therfore C must be the Knave because they are telling lies
+:This leaves two further possibilities A knight B spy or A spy B knight
+The first possiblity is consistant. The second would isn't because B would be a knight who was lying.
+
+:So A = knight
+:B = spy
+:C =knave
+
+is the only consistant solution [[User:Theresa knott|Theresa knott]] 10:08, 6 Oct 2003 (UTC)
+
+:Excellent, Theresa! Couldn't have said it better... [[User:ThomasStrohmann | Thomas]]
+
+Hope this is the place for question : in the consistant solution, the spy (B) is not lying anymore !</text>
+      <sha1>6zihhb22l7nx4mbbll67lc6cune5xco</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Logic puzzles/Knights, Knaves &amp; Spies II</title>
+    <ns>0</ns>
+    <id>1506</id>
+    <revision>
+      <id>647540</id>
+      <parentid>647529</parentid>
+      <timestamp>2006-11-13T04:44:42Z</timestamp>
+      <contributor>
+        <username>Think Fast</username>
+        <id>10874</id>
+      </contributor>
+      <minor />
+      <comment>change links -&gt; naming convention</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Logic puzzles|Logic puzzles]] | Knights, Knaves &amp; Spies II
+----
+
+We have three people one of whom is a knight, one a knave, and one a spy. 
+The knight always tells the truth, the knave always lies, and the spy can 
+either lie or tell the truth. The three persons are brought before a
+judge who wants to identify the spy.
+
+A says: &quot;I am not a spy.&quot;&lt;br&gt;
+B says: &quot;I am a spy.&quot;&lt;br&gt;
+Now C is in fact the spy. The judge asks him: &quot;Is B really a spy?&quot;
+
+''Can C give an answer so that he doesn't convict himself as a spy?''
+
+[[Puzzles/Logic puzzles/Knights, Knaves &amp; Spies II/Solution|Solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>gotdsuyya6qmo5lev16divnrsd99v20</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/Logic puzzles/Knights, Knaves &amp; Spies II</title>
+    <ns>1</ns>
+    <id>1507</id>
+    <revision>
+      <id>647531</id>
+      <parentid>238809</parentid>
+      <timestamp>2006-11-13T04:43:18Z</timestamp>
+      <contributor>
+        <username>Think Fast</username>
+        <id>10874</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles:Logic puzzles:Knights, Knaves &amp; Spies II]] moved to [[Talk:Puzzles/Logic puzzles/Knights, Knaves &amp; Spies II]]: naming convention</comment>
+      <text xml:space="preserve">If C answers, &quot;No&quot;, then there is no contradiction in saying that A is the spy, B is the knave, and C is the knight. Therefore, it will not be possible to prove C is the spy.
+
+If, however, C answers, &quot;Yes,&quot; C can be proved the spy:
+
+If C is telling the truth, then B is the spy. Then A and C would have to both be the knight, since they both tell the truth. But only one can be the knight. So C must then be lying.
+
+B cannot in any case be the knight, since he would be lying. Since C is lying, too, B is not the spy, and so B is the knave. Thus C herself cannot be the knave, but neither can she be the knight, since she is lying. Therefore, if C answers, &quot;Yes&quot;, C is the spy.
+
+Am I right?
+
+[[User:Eric119|Eric119]] 22:33, 7 Oct 2003 (UTC)
+
+:Perfect, Eric! Great explantation. [[User:ThomasStrohmann | Thomas]]
+
+Almost.
+Unfortunately, those are not the only two possible answers.
+C knows that he/she is the spy.  The knight and knave do not necessarily know which of the others is.  Therefore, C may answer &quot;I don't know,&quot; and the judge will be unsure whether A or C is the spy.
+Avery
+----
+Another possibility would be A: Knight, B: Spy, C: Knave. [[User:Cyp|Cyp]] 13:59, 18 Oct 2003 (UTC)
+----
+This is incorrect, as is the given answer to this logic problem.
+
+The statement above says &quot;Then A and C would have to both be the knight, since they both tell the truth.&quot; You forgot that the spy can tell the truth or lie. Look at it this way:
+
+
+A: I am not the spy.
+
+B: I am the spy.
+
+C: I am not the spy.
+
+
+We know that B is the knave, because the knave will always say he is the spy (he must lie). We cannot distinguish A from C, since a truth-telling knight, in this instance, looks exactly like a lying spy.
+
+
+Now, let's try the other:
+
+A: I am not the spy.
+
+B: I am the spy.
+
+C: I am the spy.
+
+
+In this instance, we know that A is the knight, since the knight must always say he is not the spy (he must tell the truth), We cannot distinguish B from C, since a lying knave, in this instance, looks exactly like a truth-telling spy.
+
+Eric B.
+
+: I think the puzzle intends C to answer either &quot;yes&quot; or &quot;no&quot;, not &quot;I am the spy&quot; or &quot;I am not the spy&quot;.  In this case, &quot;yes&quot; or &quot;no&quot; is a statement of whether or not B is the spy, not C, and the given solution remains correct.  If C can say whatever he wants, he could say something like &quot;I don't know&quot; or &quot;Go jump in the lake&quot; or just remain silent and whether or not he was the spy would be trivially undecidable...  Perhaps the puzzle could be revised to reflect this?
+:[[User:Jclee|Joe Lee]] 19:27, 31 May 2005 (UTC)</text>
+      <sha1>nkofdg7v5u1r27ptco1vn3803fz8d7o</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Logic puzzles/Lying about your Age</title>
+    <ns>0</ns>
+    <id>1508</id>
+    <revision>
+      <id>647554</id>
+      <parentid>647544</parentid>
+      <timestamp>2006-11-13T04:46:17Z</timestamp>
+      <contributor>
+        <username>Think Fast</username>
+        <id>10874</id>
+      </contributor>
+      <minor />
+      <comment>change links -&gt; naming convention</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Logic puzzles|Logic puzzles]] | Lying about your Age
+----
+
+Annie, Betty, Carrie, Darla, and Eve recently found out that all of their 
+birthdays were on the same day, though they are different ages. On their 
+mutual birthday, they were jabbering away, flapping their gums about their 
+recent discovery. And, lucky me, I was there. Some of the things that I 
+overheard were... 
+
+* Darla said to Betty: &quot;I'm nine years older than Eve.&quot;
+* Eve said to Betty: &quot;I'm seven years older than Annie.&quot;
+* Annie said to Betty: &quot;Your age is exactly 70% greater than mine.&quot; 
+* Betty said to Carrie: &quot;Eve is younger than you.&quot;
+* Carrie said to Darla: &quot;The difference between our ages is six years.&quot;
+* Carrie said to Annie: &quot;I'm ten years older than you.&quot;
+* Carrie said to Annie: &quot;Betty is younger than Darla.&quot;
+* Betty said to Carrie: &quot;The difference between your age and Darla's is the same as the difference between Darla's and Eve's.&quot;
+
+Since I knew these people -- and how old they were, I knew that they were not 
+telling the whole truth. After thinking about it, I realized that when one of 
+them spoke to somebody older than herself, everything she said was true, 
+but when speaking to somebody younger, everything she said was false. 
+
+''How old is each person?''
+
+[[Puzzles/Logic puzzles/Lying about your Age/Solution|Solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>i6lqvgkqj1ght6ysrn5uv2g1564gfa0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/Logic puzzles/Lying about your Age</title>
+    <ns>1</ns>
+    <id>1509</id>
+    <revision>
+      <id>1160703</id>
+      <parentid>647546</parentid>
+      <timestamp>2008-04-09T06:25:55Z</timestamp>
+      <contributor>
+        <username>Hitsthings</username>
+        <id>86578</id>
+      </contributor>
+      <text xml:space="preserve">'''Lying about your Age'''
+
+''Carrie said to Annie: &quot;I'm ten years older than you.&quot;''
+
+''I realized that when one of them spoke to somebody older than themselves, everything they said was true, but when speaking to somebody younger, everything they said was false. ''
+
+Two possibilities: Carrie is older (speaking to younger) OR Carrie is younger (speaking to older).
+
+If Carrie is older and speaking to someone younger, then ''everything'' she said is false. Therefore, Carrrie cannot be older.
+If Carrie is younger and speaking to someone older, then everything she said is true. Therefore, she is older. But we originally assumed that she was younger. 
+Reductio ad absurdum. [[User:Lord Emsworth|Lord Emsworth]] 00:54, 11 Oct 2003 (UTC)
+
+:The second argument is nice: If Carrie would be younger then she would be telling the truth (i.e. implying that she is 10 years older which leads to a contradiction). This is the kind of reasoning you'll need! The first argument is not valid, I think: If Carrie is older, then the sentence &quot;I'm ten years older than you.&quot; must be false. This does NOT mean that Carrie is younger, it could be that Carrie is 5 years or 20 years older! (I'm not sure if I said this in the problem, but you can assume that all persons have a different age). [[User:ThomasStrohmann | Thomas]]
+
+:: Ah... The sentence &quot;when speaking to somebody younger, '''everything''' they said was false&quot; might have been misleading.
+
+:::I see. I don't know though how to formulate it in a better way. If you have an idea, please feel free to edit it [[User:ThomasStrohmann | Thomas]]
+
+::::Of course, it is fine now that it has been clarified. --[[User:Lord Emsworth|Lord Emsworth]] 00:49, 12 Oct 2003 (UTC)
+
+I think it needs to be clarified that ONLY one person lies, and ONLY when they are talking to someone younger. --[[User:Hitsthings|Hitsthings]] ([[User talk:Hitsthings|talk]]) 06:25, 9 April 2008 (UTC)</text>
+      <sha1>c6fs4axufzpqsle8s9kwjvwwgmi27jx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Logic puzzles/Getting out of Prison</title>
+    <ns>0</ns>
+    <id>1510</id>
+    <revision>
+      <id>647724</id>
+      <parentid>647716</parentid>
+      <timestamp>2006-11-13T05:13:12Z</timestamp>
+      <contributor>
+        <username>Think Fast</username>
+        <id>10874</id>
+      </contributor>
+      <minor />
+      <comment>change links -&gt; naming convention</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Logic puzzles|Logic puzzles]] | Getting out of Prison
+----
+
+You are in a prison and your execution is planned for today. However,
+you are given one last chance to get out of this situation. You are
+brought into a room that has two exits and in front of each of them stands
+a guard. One exit leads out of the prison into freedom, while the other
+one brings you into the room where the execution takes place. Furthermore,
+one of the guards is always lying, while the other one is always telling
+the truth (but, of course, you don't know who of the guards is in front
+of which door). You are allowed to ask only one question.
+
+''What question can you ask in order to find out the way to your freedom?''
+
+[[Puzzles/Logic puzzles/Getting out of Prison/Solution|Solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>4hobx628muy6fvyz0tdl7zgmpc8p2ya</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/Logic puzzles/Getting out of Prison</title>
+    <ns>1</ns>
+    <id>1511</id>
+    <revision>
+      <id>647718</id>
+      <parentid>430838</parentid>
+      <timestamp>2006-11-13T05:11:37Z</timestamp>
+      <contributor>
+        <username>Think Fast</username>
+        <id>10874</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles:Logic puzzles:Getting out of Prison]] moved to [[Talk:Puzzles/Logic puzzles/Getting out of Prison]]: naming policy</comment>
+      <text xml:space="preserve">The question you ask is &quot;Which door would the other guard say leads to freedom?&quot;
+
+Whatever he says, take the other door.
+
+* If the guard you asks lies, he will lie about what the other guard would say (which would be the truth).
+** So he will tell you the wrong door.
+* If the guard you asks tells the truth, he will repeat exactly what the other guard will say (which would be a lie).
+** So he will also tell you the wrong door.
+[[User:Nanobug|Nanobug]] 21:10, 10 Oct 2003 (UTC)
+
+:Excellent, Nanobug. Your question does makes sure that we definitely will get a lie, because it involves both guards.[[User:ThomasStrohmann | Thomas]]
+
+== Alternate question ==
+
+Assuming that the guards are restricted to answering 'left' or 'right', the following would alos be a solution:
+
+&quot;If I asked you which door leads to freedom, how would you answer?&quot;
+
+The Truth telling guard would answer truthfully and you know the correct door.
+The Lie telling Guard would normally have told a lie, but he must lie about his lie, therefore also revealing the correct door.
+
+This works due to the simple principle that a double positive yeilds a positive, while a double negative yeilds a positive.</text>
+      <sha1>422j621h0blsa51pa4brosznvzl1smz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Logic puzzles/Hats</title>
+    <ns>0</ns>
+    <id>1512</id>
+    <revision>
+      <id>849561</id>
+      <parentid>849532</parentid>
+      <timestamp>2007-05-01T13:46:01Z</timestamp>
+      <contributor>
+        <username>Az1568</username>
+        <id>37227</id>
+      </contributor>
+      <minor />
+      <comment>Reverted edit of [[Special:Contributions/195.194.63.254|195.194.63.254]], changed back to last version by Think Fast</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Logic puzzles|Logic puzzles]] | Hats
+----
+
+3 men are buried in the sand all facing the same way with only their heads above ground. Each man has a hat placed on his head which is either red or blue, but they can't see it. The men know that their hats were selected from a bag containing 3 red hats, and 2 blue hats. The man at the back (who can see the hats of the two men in front of him) is asked what hat he is wearing. He answers: &quot;I don't know&quot;. The middle (who can see the hat of the man in front of him) man is asked what hat he is wearing. He also replies: &quot;I don't know&quot;. Finally, the man at the front is asked what hat he is wearing. He answers: &quot;I am wearing a red hat&quot;. 
+
+''How did he know?''
+
+[[Puzzles/Logic puzzles/Hats/Solution|Solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>ff5mctv896wf3ij3rnf7liulphfh6r0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Vocabulary/Nations</title>
+    <ns>0</ns>
+    <id>1513</id>
+    <revision>
+      <id>2069708</id>
+      <parentid>1824482</parentid>
+      <timestamp>2011-03-15T16:01:42Z</timestamp>
+      <contributor>
+        <username>Hagindaz</username>
+        <id>19723</id>
+      </contributor>
+      <minor />
+      <comment>moved [[French/Vocabulary/Travel/Nations]] to [[French/Vocabulary/Nations]] over redirect</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{French/Vocabulary/Travel/Header}}&lt;/noinclude&gt;
+
+'''Les pays du monde (nations of the world)'''
+
+== A ==
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| l'Afghanistan (m) ||  Afghanistan 
+|-
+| l'Afrique du Sud (f) ||  South Africa 
+|-
+| l'Albanie (f) ||  Albania 
+|-
+| l'Alg&amp;eacute;rie (f) ||  Algeria 
+|-
+| l'Allemagne (f) ||  Germany 
+|-
+| Andorre (f) ||  Andorra 
+|-
+| l'Angleterre (f) ||  England 
+|-
+| l'Angola (f) ||  Angola 
+|-
+| Antigua-et-Barbuda (m) ||  Antigua and Barbuda 
+|-
+| l'Arabie saoudite (f) ||  Saudi Arabia 
+|-
+| l'Argentine (f) ||  Argentina 
+|-
+| l'Arm&amp;eacute;nie (f) ||  Armenia 
+|-
+| Aruba ||  Aruba 
+|-
+| l'Australie (f) ||  Australia 
+|-
+| l'Autriche (f) ||  Austria 
+|-
+| l'Azerba&amp;iuml;djan (f) ||  Azerbaijan 
+|}
+
+== B ==
+
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| les Bahamas (f) ||  The Bahamas 
+|-
+| le Bahre&amp;iuml;n ||  Bahrain 
+|-
+| le Bangladesh ||  Bangladesh 
+|-
+| la Barbade ||  Barbados 
+|-
+| la Belgique ||  Belgium 
+|-
+| le Belize ||  Belize 
+|-
+| le B&amp;eacute;nin ||  Benin 
+|-
+| le Bhoutan ||  Bhutan 
+|-
+| la Bi&amp;eacute;lorussie ||  Belarus 
+|-
+| la Birmanie ||  Burma 
+|-
+| la Bolivie ||  Bolivia 
+|-
+| le Botswana ||  Botswana 
+|-
+| le Br&amp;eacute;sil ||  Brazil 
+|-
+| le Brun&amp;eacute;i ||  Brunei 
+|-
+| la Bulgarie ||  Bulgaria 
+|-
+| le Burkina-Faso ||  Burkina Faso 
+|-
+| le Burundi ||  Burundi 
+|}
+
+== C ==
+
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| le Cambodge ||  Cambodia 
+|-
+| le Cameroun ||  Cameroon 
+|-
+| le Canada ||  Canada 
+|-
+| le Cap-Vert ||  Cape Verde 
+|-
+| le Chili ||  Chile 
+|-
+| la Chine ||  China 
+|-
+| Chypre (f) ||  Cyprus 
+|-
+| la Colombie ||  Columbia 
+|-
+| les Comores (f) ||  Comores 
+|-
+| le Congo ||  Congo 
+|-
+| la Cor&amp;eacute;e du Nord ||  North Korea 
+|-
+| la Cor&amp;eacute;e du Sud ||  South Korea 
+|-
+| le Costa Rica ||  Costa Rica 
+|-
+| la C&amp;ocirc;te d'Ivoire ||  Cote d'Ivoire 
+|-
+| la Croatie ||  Croatia 
+|-
+| Cuba ||  Cuba 
+|}
+
+== D ==
+
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| le Danemark ||  Denmark 
+|-
+| Djibouti ||  Djibouti 
+|-
+| la Dominique ||  Dominica 
+|}
+
+== E ==
+
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| l'&amp;Eacute;cosse (f) ||  Scotland 
+|-
+| l'&amp;Eacute;gypte (f) ||  Egypt 
+|-
+| les &amp;Eacute;mirats arabes unis (m) ||  The United Arab Emirates 
+|-
+| l'Empire britannique (m) || The British Empire
+|-
+| l'&amp;Eacute;quateur (m) ||  Equador 
+|-
+| l'&amp;Eacute;rythr&amp;eacute;e (f) ||  Eritrea 
+|-
+| l'Espagne (f) ||  Spain 
+|-
+| l'Estonie (f) ||  Estonia 
+|-
+| les &amp;Eacute;tats-Unis (m) ||  The United States 
+|-
+| l'&amp;Eacute;thiopie (f) ||  Ethiopia 
+|}
+
+== F ==
+
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| les Fidji (f) ||  Fiji 
+|-
+| la Finlande ||  Finland 
+|-
+| la France ||  France 
+|}
+
+== G ==
+
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| le Gabon ||  Gabon 
+|-
+| la Gambie ||  Gambia 
+|-
+| la G&amp;eacute;orgie ||  Georgia 
+|-
+| le Ghana ||  Ghana 
+|-
+| la Gr&amp;egrave;ce ||  Greece 
+|-
+| la Grenade ||  Grenada 
+|-
+| le Guatemala ||  Guatemala 
+|-
+| la Republique de Guinée ||  Guinea 
+|-
+| la Guin&amp;eacute;e-Bissao ||  Guinea-Bissau 
+|-
+| la Guin&amp;eacute;e-&amp;eacute;quatoriale
+| Equatorial Guinea 
+|-
+| la Guyane ||  Guyana 
+|}
+
+== I ==
+
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| l'&amp;Icirc;le Maurice (f) ||  Mauritius 
+|-
+| les &amp;Icirc;les Cook (f) ||  Cook Islands 
+|-
+| les &amp;Icirc;les Marshall (f) ||  Marshall Islands 
+|-
+| les &amp;Icirc;les Salomon (f) ||  Solomon Islands 
+|-
+| l'Inde (f) ||  India 
+|-
+| l'Indon&amp;eacute;sie (f) ||  Indonesia 
+|-
+| l'Iran (m) ||  Iran 
+|-
+| l'Iraq/l'Irak (m) ||  Iraq 
+|-
+| l'Irlande (f) ||  Ireland 
+|-
+| l'Islande (f) ||  Iceland 
+|-
+| Isra&amp;euml;l (m) ||  Israel 
+|-
+| l'Italie (f) ||  Italy 
+|}
+
+== J ==
+
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| la Jama&amp;iuml;que ||  Jamaica 
+|-
+| le Japon ||  Japan 
+|-
+| la Jordanie ||  Jordan 
+|}
+
+== K ==
+
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| le Kazakhstan ||  Kazakhstan 
+|-
+| le Kenya ||  Kenya 
+|-
+| le Kirghizstan ||  Kyrgyzstan 
+|-
+| Kiribati (f) ||  Kiribati 
+|-
+| le Kowe&amp;iuml;t ||  Kuwait 
+|}
+
+== L ==
+
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| le Laos ||  Laos 
+|-
+| le Lesotho ||  Lesotho 
+|-
+| la Lettonie ||  Latvia 
+|-
+| le Liban ||  Lebanon 
+|-
+| le Lib&amp;eacute;ria ||  Liberia 
+|-
+|  la Libye || Libya 
+|-
+| le Lichtenstein ||  Lichtenstein 
+|-
+| la Lituanie ||  Lithuania 
+|-
+| le Luxembourg ||  Luxembourg 
+|}
+
+== M ==
+
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| la Mac&amp;eacute;doine ||  Macedonia 
+|-
+| Madagascar (f) ||  Madagascar 
+|-
+| la Malaisie ||  Malaysia 
+|-
+| le Malawi ||  Malawi 
+|-
+| les Maldives (f) ||  The Maldives 
+|-
+| le Mali ||  Mali 
+|-
+| Malte ||  Malta 
+|-
+| le Maroc ||  Morocco 
+|-
+| la Mauritanie ||  Mauritania 
+|-
+| le Mexique ||  Mexico 
+|-
+| la Micron&amp;eacute;sie ||  Micronesia 
+|-
+| la Moldavie ||  Moldavia 
+|-
+| Monaco ||  Monaco 
+|-
+| la Mongolie ||  Mongolia 
+|-
+| le Mozambique ||  Mozambique 
+|}
+
+== N ==
+
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| la Namibie ||  Namibia 
+|-
+| la Nauru ||  Nauru 
+|-
+| le N&amp;eacute;pal ||  Nepal 
+|-
+| le Nicaragua ||  Nicaragua 
+|-
+| le Niger ||  Niger 
+|-
+| le Nigéria ||  Nigeria 
+|-
+| la Norv&amp;egrave;ge ||  Norway 
+|-
+| la Nouvelle-Z&amp;eacute;lande ||  New Zealand 
+|}
+
+== O ==
+
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| Oman (m) ||  Oman 
+|-
+| l'Ouganda (m) ||  Uganda 
+|-
+| l'Ouzb&amp;eacute;kistan ||  Uzbekistan 
+|}
+
+== P ==
+
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| le Pakistan ||  Pakistan 
+|-
+| le Panama ||  Panama 
+|-
+| la Papouasie-Nouvelle-Guin&amp;eacute;e
+| Papua New Guinea 
+|-
+| le Paraguay ||  Paraguay 
+|-
+| les Pays-Bas (m) ||  The Netherlands 
+|-
+| le Pays de Galles (m) ||  Wales 
+|-
+| le P&amp;eacute;rou ||  Peru 
+|-
+| les Philippines (f) ||  The Philippines 
+|-
+| la Pologne ||  Poland 
+|-
+| la Polyn&amp;eacute;sie fran&amp;ccedil;aise
+| French Polynesia 
+|-
+| le Portugal ||  Portugal 
+|-
+|Porto Rico || Puerto Rico
+|}
+
+== Q ==
+
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| le Qatar ||  Qatar 
+|-
+|}
+
+== R ==
+
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| la R&amp;eacute;publique centrafricaine
+| Central African Republic 
+|-
+| la R&amp;eacute;publique dominicaine ||  Dominican Republic 
+|-
+| la R&amp;eacute;publique tch&amp;egrave;que
+| Czech Republic 
+|-
+| la Roumanie ||  Romania 
+|-
+| le Royaume-Uni ||  The United Kingdom 
+|-
+| la Russie ||  Russia 
+|-
+| le Rwanda ||  Rwanda 
+|}
+
+== S ==
+
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| Saint-Christophe-et-Ni&amp;eacute;v&amp;egrave;s (m)
+| Saint Kitts and Nevis
+|-
+| Sainte-Lucie (f) ||  Saint Lucia 
+|-
+| Saint-Marin (m) ||  San Marino 
+|-
+| le Saint-Si&amp;egrave;ge (le Vatican) ||  The Holy See (The Vatican)
+|-
+| Saint-Vincent-et-les-Grenadines (m)
+| Saint Vincent and the Grenadines 
+|-
+| le Salvador ||  El Salvador 
+|-
+| les Samoa (f) ||  Samoa 
+|-
+| Sao Tom&amp;eacute; et Principe (m) ||  Sao Tom&amp;eacute; and Principe  
+|-
+| le S&amp;eacute;n&amp;eacute;gal ||  Senegal 
+|-
+| les Seychelles (f) ||  Seychelles 
+|-
+| la Sierra Leone ||  Sierra Leone 
+|-
+| Singapour ||  Singapore 
+|-
+| la Slovaquie ||  Slovakia 
+|-
+| la Slov&amp;eacute;nie ||  Slovenia 
+|-
+| la Somalie ||  Somalia 
+|-
+| le Soudan ||  Sudan 
+|-
+| le Sri Lanka ||  Sri Lanka 
+|-
+| la Su&amp;egrave;de ||  Sweden 
+|-
+| la Suisse ||  Switzerland 
+|-
+| le Surinam ||  Surinam 
+|-
+| le Swaziland ||  Swaziland 
+|-
+| la Syrie ||  Syria 
+|}
+
+== T ==
+
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| le Tadjikistan (m) ||  Tajikistan
+|-
+| la Tanzanie ||  Tanzania 
+|-
+| le Tchad ||  Chad 
+|-
+| la Tha&amp;iuml;lande ||  Thailand 
+|-
+| le Togo ||  Togo 
+|-
+| les Tonga (f) ||  Tonga 
+|-
+| Trinit&amp;eacute;-et-Tobago ||  Trinidad and Tobago 
+|-
+| la Tunisie ||  Tunisia 
+|-
+| le Turkm&amp;eacute;nistan ||  Turkmenistan 
+|-
+| la Turquie ||  Turkey 
+|-
+| Tuvalu ||  Tuvalu 
+|}
+
+== U ==
+
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| l'Ukraine (f) ||  Ukraine
+|-
+| l' Union soviétique (f) || Soviet Union
+|-
+| l'Uruguay (m) ||  Uruguay 
+|}
+
+== V == 
+
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| Vanuatu ||  Vanuatu 
+|-
+| le Vatican ||  The Vatican 
+|-
+| le Venezuela ||  Venezuela 
+|-
+| le Vi&amp;ecirc;t-Nam ||  Vietnam 
+|}
+
+== W ==
+
+[None]
+
+== X ==
+
+[None]
+
+== Y ==
+
+
+{| border=&quot;1&quot;
+|-
+| le Y&amp;eacute;men ||  Yemen 
+|-
+| la Yougoslavie (m) ||  Yugoslavia 
+|}
+
+== Z ==
+
+
+{| border=&quot;1&quot;
+|-
+! French
+! English 
+|-
+| la Zambie ||  Zambia 
+|-
+| le Zimbabwe ||  Zimbabwe 
+|}
+
+&lt;noinclude&gt;{{French/Vocabulary/Travel}}&lt;/noinclude&gt;</text>
+      <sha1>elsu52xd26c1x9mouycatd2q8jamwl7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Geometric Puzzles</title>
+    <ns>0</ns>
+    <id>1514</id>
+    <revision>
+      <id>1949519</id>
+      <parentid>1256645</parentid>
+      <timestamp>2010-10-16T00:18:42Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>moved [[Puzzles/Geometric puzzles]] to [[Puzzles/Geometric Puzzles]] over redirect: Consistency with subpages</comment>
+      <text xml:space="preserve">* [[Puzzles/Geometric Puzzles/Connecting Stars|Connecting Stars]]
+* [[Puzzles/Geometric Puzzles/Connecting Utilities|Connecting Utilities]]
+* [[Puzzles/Geometric Puzzles/Halving the Window|Halving the Window]]
+* [[Puzzles/Geometric Puzzles/Matchsticks|Matchsticks]]
+* [[Puzzles/Geometric Puzzles/Rectangle and Circle|Rectangle and Circle]]
+* [[Puzzles/Geometric Puzzles/Rubber Band|Rubber Band]]
+
+[[Category:Puzzles]]</text>
+      <sha1>3sb6mxicubagodq9til5xlo62vyd3jw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

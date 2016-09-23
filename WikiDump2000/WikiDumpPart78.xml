@@ -1,0 +1,1506 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Puzzles/How do you ... ?/Crossing the Bridge/Solution</title>
+    <ns>0</ns>
+    <id>3683</id>
+    <revision>
+      <id>2586898</id>
+      <parentid>1695187</parentid>
+      <timestamp>2013-12-03T00:40:23Z</timestamp>
+      <contributor>
+        <ip>108.18.135.121</ip>
+      </contributor>
+      <text xml:space="preserve">The puzzle states that the man currently WEIGHS 98lbs. There is no mention of his mass, and so we must therefore assume that if &quot;the man weighs exactly 98 pounds&quot;, and he is holding the three 1 pound apples, as is stated, the 98 pounds INCLUDES the 3 apples already. Therefore to cross the bridge, the man runs, skips, jumps or simply strolls across the bridge, with no fear of collapse. He may, however, collapse at seeing the price of an apple that weighs a pound...
+
+He juggles the apples across.
+*Since he has to throw the apple to juggle it, he would end up bearing more than the force of holding the apple staticly. So I'm not sure this would work.
+**This should work as long as he doesn't throw too hard. To be sure, he could hold only one at any time...
+**Agreed with above.  He is effectively &quot;juggling&quot; one apple if he staggers the juggling.  He could juggle as many as he likes across the bridge.
+
+--------------------------------------------------------------------------------
+
+*** NO!... 
+
+(Sorry for shouting, the laws of physics made me do it!)
+
+A juggler who weighs 98 pounds juggling 3 apples weighing 1 pound each imparts a
+mean force of 101 pounds on the bridge. Mean force refers to the average force
+over time. 
+
+Objects thrown up will be at the same speed falling at the height they were thrown from.
+Consider that at any given time she has one apple in the hand and  two in the air. 
+Assume that a throwing velocity of V is needed to keep these apples in the air.
+Since there are three apples, each apple spends two thirds of its time in the
+air, and one third in her hand. While in the air, the apples accelerate down at g
+changing velocity from V to -V. In the hand the apples need to accelerate
+in the opposite direction, for a speed change from -V to V. 
+
+But they have half the freefall time to do this (two apples in air, one in 
+hand at any instant of time!) Thus, while in her hand, they are accelerating 
+at 2g upwards. They are doing this in a -1g gravitational field. 
+
+Sir Isaac says that the resultant force that each apple imparts on the juggler is 
+3 pounds downwards. Hence, the juggler imparts 98 + 3 = 101 pounds on the bridge.
+
+However, all is not lost! The way to cross the bridge without exceeding 
+the 100 lb limit is as follows:
+
+Hold apples in your raised hand. Run as fast as you can to cross the bridge, 
+but at the instant you get to the bridge bring your arms down in one continuous 
+motion (accelerating the apples down at g/3). You must not finish this until
+you have crossed the bridge! 
+
+If your arms are 2 ft long, you have 4 feet to lower the apples. 
+Since g=32 ft/sec/sec and s=0.5*a*t*t, 
+then you must lower the three apples at g/3 to reduce your load by 1 lb.
+So we have:
+t*t = 4/(0.5*32/3) or approximately 0.75 sec*sec, thus t is approximately 
+0.85 seconds. 
+
+Therefore, if you can run fast enough to cross the bridge in under
+850 milliseconds and can move your arms in the motion described - at just the
+right time - you can cross the bridge. 
+
+We assumed your arms have negligible mass, in reality you get more time, 
+because you are also accelerating the mass of your arms. That calculation 
+is left as an exercise to the reader.   (mce)
+-----------------------------
+
+
+He could also cross the bridge 3 times carrying each apple every time.
+
+(Or, he could bowl one across, assuming he doesn't mind risking losing an apple to the river.)
+
+He eats all three apples, digests them, loses a pound by excreting and urinating then walks over
+*He left the digested apples so he didn't cross the bridge WITH the apples
+
+He sacrifices a part of his body weighing one pound
+
+He prays that the verticle g's his body creates doesn't lead to his demise, and he hopes the engineer who calculated the weight limit left a margin for error.
+
+He gets a hair cut.
+
+He runs really fast across the bridge, and lets the centripetal force kick in and take some of that weight off.
+
+He waits until there is a full moon. With the additional gravitational pull, he can successfully cross the bridge.
+
+[[Category:Puzzles]]</text>
+      <sha1>d3y8j54m1ygkl0mpu7qpxr2zscitzsb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:General Biology/Getting Started/Introduction</title>
+    <ns>1</ns>
+    <id>3688</id>
+    <revision>
+      <id>1821743</id>
+      <parentid>391856</parentid>
+      <timestamp>2010-06-05T11:56:24Z</timestamp>
+      <contributor>
+        <username>Italienmoose</username>
+        <id>364047</id>
+      </contributor>
+      <comment>/* Characteristics of Life */ new section</comment>
+      <text xml:space="preserve">If someone knows how to make the text flow around the pictures, please help me out. Thanks !! --[[User:Karl Wick|Karl Wick]]
+
+:no problem [[User:Gentgeen|Gentgeen]] 00:51, 9 Jan 2004 (UTC)
+
+I added an example to illustrate the process of scientific inverstigation.
+
+== Characteristics of Life ==
+
+Shouldn't the definition include something about adaptation through natural section? [[User:Italienmoose|Italienmoose]] ([[User talk:Italienmoose|talk]]) 11:56, 5 June 2010 (UTC)</text>
+      <sha1>575j4i1iffvmr61672bb8kb1vxurvov</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/How do you ... ?/Crossing the Bridge</title>
+    <ns>1</ns>
+    <id>3689</id>
+    <revision>
+      <id>875188</id>
+      <parentid>281993</parentid>
+      <timestamp>2007-05-24T00:23:54Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles:Crossing the Bridge]] moved to [[Talk:Puzzles/How do you ... ?/Crossing the Bridge]]: NC</comment>
+      <text xml:space="preserve">Wait .. that would not work, the person would have an experienced downward force while pushing each apple up into the air that would, depending on how long the upward accelaration took, be greater than his stationary weight. That is, to push the apples up into the air the apple is still pushing the person down onto the bridge. --[[User:Karl Wick|Karl Wick]]
+
+Can't he take them over one at a time?  -- [http://www.wikipedia.org/wiki/User:Darac Darac]</text>
+      <sha1>s7myt58hi832zzoo5fetsn3nx3qko3n</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Gentgeen</title>
+    <ns>3</ns>
+    <id>3693</id>
+    <revision>
+      <id>2655878</id>
+      <parentid>2655874</parentid>
+      <timestamp>2014-05-17T11:49:39Z</timestamp>
+      <contributor>
+        <username>Harrybrowne1986</username>
+        <id>430968</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/Horizonsdesigners|Horizonsdesigners]] ([[User talk:Horizonsdesigners|talk]]) to last version by Thewinster</comment>
+      <text xml:space="preserve">&lt;big&gt;&lt;center&gt;If you erase someone else's comments to make your own, I will revert without reading what you wrote.&lt;/center&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;
+
+Thanks Genteen !! --[[User:Karl Wick|Karl Wick]] [[User talk:Karl Wick]] re: [[General Biology/Getting Started/Introduction]]
+
+A related question: do you know how to code it so that if I have a floating div-style box I can but a border around the inside of it so that the text in the box does not go all the way up to the edge ? I would like the color of the box to extend another bit beyond where the text ends. I did a trial over at the [[Wikibooks:Sandbox|sandbox]] but was not able to make it work. Thanks !! --[[User:Karl Wick|Karl Wick]]
+
+
+== Thanks ==
+
+Hi Gentgeen,
+
+Thanks for featuring my Tarbes Salad at wikibooks! You make my mother proud.
+
+[http://en.wikipedia.org/wiki/User:Leland Leland]
+
+== thanks ==
+
+Thanks for all your work on the cookbook.  You have improved it greatly.
+- [[User:Liblamb|liblamb]] 17:01, 12 Jul 2004 (UTC)
+:Aww, shucks. [[User:Gentgeen|Gentgeen]]
+
+==Administrator==
+
+Hi Gentgeen. As Tuf-Kat is away, I have made you a sysop following the vote at [[Wikibooks:Requests for adminship|Requests for adminship]]. Please make sure you read the relevant policies linked to from [[Wikibooks:Administrators]] before using your sysop powers here, and be careful where those policies differ from those that you are more used to on the English Wikipedia. I'm surprised you have 2000 users and only one bureaucrat. I would like to advise you to nominate someone for the role, especially since your current one is away. Good luck with your adminship. [[User:Angela|Angela]] ([[m:stewards|steward]]) 00:20, 9 Aug 2004 (UTC)
+
+==Hi==
+Thanks for the welcome, Gentgeen.  As you might have guessed, I'm an import from wikipedia.  I finally got curious about all those people saying &quot;Take it to wikibooks&quot;
+and checked it out.  Mostly I plan to supplement wikipedia articles with links (Recipes for food dishes seem the most appropriate). [[User:The Steve|The Steve]] 13:10, 26 Sep 2004 (UTC)
+
+== Wikipedia recipe ==
+
+I found a recipe for Garlic parmesan pasta [http://en.wikipedia.org/wiki/Garlic_parmesan_pasta] all by it's lonesome at Wikipedia. I was wondering if there was a procedure for moving such recipes or if I should just copy and paste it over to Wikibooks.  The recipe is a dead end page with no links anywhere else in Wikipedia.  [[User:Liblamb|liblamb]] 21:46, 30 Sep 2004 (UTC)
+:Found one for giblet soup too. [http://en.wikipedia.org/wiki/Garlic_parmesan_pasta] [[User:Liblamb|liblamb]]
+::Copy and past successful.  Find them [[Cookbook:Giblet Soup|here]] and [[Cookbook:Garlic Parmesan Pasta|here]].  I havn't suggested the recipes be deleted in Wikipedia yet. [[User:Liblamb|liblamb]] 20:53, 7 Oct 2004 (UTC)
+
+== From a fan ==
+I was just thinking that those Chinese IP addresses needed a range block, and there you are, already there, and done it. Kudos, to you! :) [[User:Dysprosia|Dysprosia]] 08:55, 10 Oct 2004 (UTC)
+
+== Thanks ==
+I'm using your stylesheet(hope you don't mind), so I just wanted to say thanks. --[[User:IBB|IBB]] 15:36, 16 Oct 2004 (UTC)
+
+== Wikipedia dumps ==
+
+I was wondering what we do with &quot;Wikipedia dumps,&quot; which is my term for when Wikipedians dump an article that doesn't fit in Wikipedia into Wikibooks without taking into consideration the way Wikibooks works.  Has there been discussion about this before that I can read?  This came up because of this [http://en.wikipedia.org/wiki/Wikipedia:Votes_for_deletion#October_19 page]. The pages now in Wikibooks link only to themselves and the likelyhood of someone finding them is very small by a search. Of course I can create links for it in the Misc. categpru but I was wondering if anything can be added to the conversation at Wikipedia to better inform people on best Wikibooks practice, if there is better practice. Thanks for the help. [[User:Liblamb|liblamb]] 18:33, 19 Oct 2004 (UTC)
+----
+;From Panic2k4 talk page
+
+no, most of the wikipedia content on wikibooks has been properly credited to the original authors.  When it hasn't, the problem is either fixed or the page is deleted. [[User:Gentgeen|Gentgeen]] 22:21, 22 Nov 2004 (UTC)
+
+:FYI, I had tried to start discussions about this at [[Wikibooks:Staff_lounge#Copying content from Wikipedia]] and [[w:Wikipedia:Village pump (policy)#Incorporation of Wikipedia articles into copyright works]] before I saw the thread here. -- [[User:Paddu|Paddu]] 11:03, 23 Nov 2004 (UTC)
+
+== Cookbook administrator abuse ==
+
+Hi Gentgeen
+I would like to ask you, how was Cookbook:Human any less valid an article than [[Cookbook:Chicken]]? Please undelete it. This is not the first time you have taken actions I do not believe are justifiable by policy, and if you have no explanation for this based on policy, it won't be the first time for that, either.
+
+--node
+
+==='It is time we defined ourselves': copyright and other concerns ===
+
+Hello Gentgreen.
+I am concerned that the material downloaded today (27.10.2004) by Attention-tunnel, originally from the works of Di Murray and Andrew Walker and the late Marc Segar, is not released under the GFDL, or a Creative Commons, and therefore cannot/should not be used on Wikibooks.
+The '''other''' concern I have is that the material from '''Autism and Computing''' is a 'data dump' and does not fulfill the criteria for a Wikibook, or for that matter a Wikiversity.
+The third concern of mine is that this page is vulnerable to vandalism, I believe a link-spammer came.
+Would appreciate if you checked up here. Also, what is the status of the Aspergia Mythos and Ethos in relation to Wikibooks?
+Sincerely [[User:EuropracBHIT|EuropracBHIT]] 06:40, 27 Oct 2004 (UTC).
+
+Thanks for the welcome and the suggestions. I will add some kind of disambiguator. [[User:Danny|Danny]] 16:02, 7 Nov 2004 (UTC)
+
+== Thanks old timer ==
+
+hey there thank you for the heads up. unfortuneately i am unable to download/upload stuff as my contributions to wikipedia are all done from my desk at work. actually thats sort of how i found wikipedia as we have restrictions on internet use and can only surf .org .gov and our intranet. fortuneatly/unfortuneately because i have a lot of time on my hands i can however make contributions. what i need is a way to import images from example nasa.gov into wikimedia or wikibooks/wikipedia whatever. also i am still learning so i need to know how to do it as well. any ideas? --[[User:Larsie|Larsie]] 18:39, 8 Nov 2004 (UTC)
+
+== thanks for the help ==
+
+wow, thanks for the offer. it would actually be etremely helpfull to the wikijunior project if we could get images of the planets from wikipedia articles into the commons. if you are willing it would be much appreciated. --[[User:Larsie|Larsie]] 20:38, 8 Nov 2004 (UTC)
+
+== [[Programming:_C_-/-_-/-]] a copyvio? ==
+
+Please check [[Wikibooks:Staff_lounge#Copying_content_from_Wikipedia]] too. See if that's also a copyright violation. And BTW it could be possible that the wikipedia article itself was a copyvio.
+
+BTW, if this just increases traffic to [[Wikibooks:Staff_lounge#Programming:C_plus_plus_and_its_fork_Programming:_C_-.2F-_-.2F-]], I'd be happier :) -- [[User:Paddu|Paddu]] 21:01, 22 Nov 2004 (UTC)
+
+:Oops! Sorry I missed the message you'd posted on my talk page. I'll try to compile a list of material copied from Wikipedia. But note that depending on the interest the wikibooks community has on my service I may or may not be doing any good to wikibooks, as explained in [[User talk:Mkn#Programming: C -/- -/-]]. -- [[User:Paddu|Paddu]] 12:04, 26 Nov 2004 (UTC)
+----
+Hello, Gentgeen just posted a reply to your questions/moderation you should also check a duplication of the problem in your talk page referring wikipedia dumps that was not addressed and it seems that if your interpretation of the GFDL is right wikibooks will have lots of trouble correcting this...--[[User:Panic2k4|Panic]] 22:19, 22 Nov 2004 (UTC)
+
+== re: Links ==
+
+Thanks.  I hope I've done those correctly.  If not, I wouldn't mind help.  I'm also not sure this submission is well-structured for a Wikibooks contribution.  It seemed to model one that was already here ([[Nasrudin]]) but I could also see people considering it a &quot;Wikipedia dump&quot;.  Your thoughts?  [[User:Rossami|Rossami]] 00:45, 1 Dec 2004 (UTC)
+
+== Re: my user page ==
+
+oh well your objection and compromise both seem quite fair, and i would be more than willing to change it, if i could work out how to edit the damn thing. If i click on [[User:The bellman]] it takes me to [[w:User:The bellman]] and cause its a cross wiki redirect there is no &quot;redirected from [[foo]]&quot; at the top of [[w:User:The bellman]]. Any Ideas? [[User:The bellman|The bellman]] 03:14, 21 Jan 2005 (UTC)
+:Ah, now you understand some of the bad things about interwiki redirects.  You need to manually construct a url with ''&amp;redirect=no'' at the end in the browser address bar, in this case http://en.wikibooks.org/w/index.php?title=User:The_bellman&amp;redirect=no . You'll also need to do it for your talk page at http://en.wikibooks.org/w/index.php?title=User_talk:The_bellman&amp;redirect=no .
+:[[User:Gentgeen|Gentgeen]] 09:37, 21 Jan 2005 (UTC)
+::Thanks mate. [[User:The bellman|The bellman]] 10:22, 21 Jan 2005 (UTC)
+
+== hey GENTGREEN, i have question ==
+
+----------------------------------
+hello gentgreen. i was a contributor to beating season. i understand how beating season was too controversial for wikibooks. however i would still like to contribute to the project. could i write a book about the history of violence and opression of women? like a real book, not a joke like BEATING SEASON??? -kyle
+:I replied at [[User talk:67.95.199.114|your talk page]]. [[User:Gentgeen|Gentgeen]]
+
+== Please modify main page for me ==
+
+Hi Gentgeen. As explained in [[Talk:Main_Page#Book_of_the_month]], I would ask you to add 3 lines to the Main Page, in order to include a teaser for the book of the month. Here is a demo of how the Main Page should look after the change: [[User:Andreas_Ipp/Main_Page_suggestion]]. I week ago (before you locked the page) I could have done the change by myself, now I depend on some administrator (which is fine with me). Thanks! --[[User:Andreas Ipp|Andreas Ipp]] 13:04, 23 Jan 2005 (UTC)
+
+: I just noticed it was not locked anymore :-) ... I just made the change by myself. --[[User:Andreas Ipp|Andreas Ipp]] 13:15, 23 Jan 2005 (UTC)
+
+== Why o why? ==
+
+Why o why did I not check my [[User_talk:Christiaan|Wikibook talk page]] sooner. All this time I've been editing on Wikipedia and I've been manually signing and time stamping my signature!! Haha, thanks Genteen. :) —[[User:Christiaan|Christiaan]] 22:35, 24 Jan 2005 (UTC)
+
+==advertising==
+I suggest you take another look at [http://en.wikibooks.org/w/index.php?title=Category%3AWikijunior&amp;diff=0&amp;oldid=90414]. --[[User:68.204.254.4|68.204.254.4]] 09:11, 29 Jan 2005 (UTC)
+
+== please distinguish this book ==
+
+Can you fix this? Please do so, or find someone who can.
+
+Every recipie has a link to &quot;Catagories&quot;. Oh my. I click on that, and I see...
+
+* Abugida writing systems
+* Ada 2005 feature
+* Ada programming language
+* Algebra
+* Anthropology
+* Arts
+
+That's just the letter A. While algebra may be useful for modifying a recipie, it really does not belong in a cookbook. Catagories from unrelated wiki books should not be leaking into the cookbook. I suspect that the Ada programmers have no use for Albanian recipies, but they can always just go to the cookbook if they get hungry. They don't need to be tempted by delicious Argentine recipies while trying to learn about Ada 2005.
+
+Strange non-cookbook stuff also leaks into the &quot;recent changes&quot; page. I suspect I'd also get it if I used the &quot;random module&quot; link, which really should be &quot;random recipie&quot; and &quot;random ingredient&quot;.
+
+The only thing these wikis might reasonably share would be user accounts, and THAT is not working, at least between Wikipedia and the cookbook. Oh, the suffering. :-(
+
+BTW, adding &quot;Cookbook:&quot; to all the links gets old fast. Because of this, and case-sensitivity being enabled, one is required to use the &quot;|&quot; to rename all links. This greatly detracts from the ease-of-use that wikis are known for. If the cookbook were more distinct, this prefix would not be needed.
+
+I certainly do understand why things are the way they are. This does not change the simple fact that things are a great big mess. Renaming the &quot;Categories&quot; link isn't of much use, though I guess renaming it to the non-breaking-space character would be an improvement! Really, that link should work within the cookbook and ''only'' within the cookbook. The cookbook seriously does need a domain name for itself. Then some server-side bot can go through and rip out all the &quot;Cookbook:&quot; prefixes.
+[[User:AlbertCahalan|AlbertCahalan]] 02:44, 31 Jan 2005 (UTC)
+
+The [[Special:Specialpages]] stuff is unusable too. For example, I look in the [[Special:Newimages|New Images gallery]] and see nothing about the cookbook. The cookbook gets drowned out by physics and biology. Everywhere I look, wiki features are unusable, with cookbook data being crowded out by unrelated stuff. Everywhere I look, there are links that take me to some generic place outside the cookbook. Even [[Main Page]] is misleading and wrong, and the reason why every cookbook recipe has to include a link back to the main page of the cookbook.
+ [[User:AlbertCahalan|AlbertCahalan]] 03:17, 1 Feb 2005 (UTC)
+
+== featured recipe ==
+
+Practically nobody in the USA can use this. We don't have scales or balences in our kitchens at all, never mind ones using French units.
+
+It's OK to have meat in pounds, or by volume. Everything else must be by volume. Quantities much larger than a cup can be in those French units, because large glass measuring cups are marked both ways. For everything else, we need traditional units.
+
+This is way more important than following the template, having a picture, or almost anything else.
+
+BTW, the recipe intro and the categorization+title combo are offensive to a billion people. Not me, but... expect some vandalism. Kashmir is very much disputed, with 3 countries claiming it or parts of it.
+
+== Forking policy ==
+Do take a look at the proposed [[wikibooks:forking policy|forking policy]]; I'd be appreciative of any input before I start spamming it to other interested parties ;) However, hand-in-hand should be a dispute resolution policy also, though since 'books is smaller I doubt we'd have the numbers for the sort of structure 'pedia proper has. Thanks [[User:Dysprosia|Dysprosia]] 01:38, 15 Feb 2005 (UTC)
+
+== cookbook images ==
+
+I think it's kind of important to be sure that the images match up with the recipes. Grabbing possibly unrelated images from the commons can be very misleading. For example, you had gingerbread men attached to the gingerbread recipe. (gingerbread is a spice bread, in loaf form, but kind of wide and short more like a cake)
+:Good catch.  When I added that image, the description wasn't there, and I didn't check the recipe very well. [[User:Gentgeen|Gentgeen]] 00:06, 17 Apr 2005 (UTC)
+
+== image locations ==
+
+Why would somebody not use the commons for an image?
+
+I guess I could see it for an ingredient or tool image being used under the &quot;fair use&quot; provision of copyright law. This reason should not apply to recipes. Hopefully there won't be any need to take advantage of fair use; unlike Wikipedia there shouldn't be any special must-have images that can't be redone. (for example, I can make a new spatula image but not one of an airplane hitting the WTC)
+
+Maybe a Julia Child or Iron Chef image?
+
+I guess I just don't see the need for placing images anywhere other than in the commons. The commons has a somewhat functional way to organize images, unlike wikibooks AFAIK.
+
+[[User:AlbertCahalan|AlbertCahalan]] 22:28, 23 Apr 2005 (UTC)
+
+:I agree, I prefer commons to specific project uploads myself.  However, wikibooks doesn't have control of commons, and the commons pages don't list which articles and modules the image is used on.  Additionally, someone can upload a different image to wikibooks with the same title, overwriting the one at commons.  In my mind, none of these is important enough to not use commons, but other users may think differently.
+
+== subpages ==
+
+I would really like to keep the cookbook free of subpage usage. The idea seems to be somewhat poorly thought through; it assumes a strictly tree-structured book. The header it generates is ugly and inflexible, being redundant to any normal cookbook header. Plus a more obscure annoyance: the &quot;/&quot; makes one-article-per-file scripted processing much more awkward on a UNIX-like system.
+
+:I agree. When I first got here some of the recipes were at &lt;nowiki&gt;[[Cookbook:Recipies/Recipe name]]&lt;/nowiki&gt; (sic), which just seemed wrong. [[User:Gentgeen|Gentgeen]] 20:18, 24 Apr 2005 (UTC)
+
+== double boiler ==
+
+I think that is way off. Double boilers sure do contact the water.
+
+I'd never heard of a bain-marie before, but the Wikipedia article
+seems to indicate that a bain-marie is used in an ''oven''. Presumably this would mean the inner pot needs a lid, to avoid baking, and the handle would need to be something that can't melt.
+
+I'm fairly sure the &quot;bain-marie&quot; picture is not in fact a bain-marie. It definitely qualifies as a double-boiler.
+
+== chicago sirloin ==
+
+I don't believe that Midwestern recipes is an appropriate category for [[Cookbook:Chicago Sirloin with Cabernet Balsamic Reduction|Chicago Sirloin with Cabernet Balsamic Reduction]]. This is a meal with more European influences than anything Midwestern, and certainly does not deserve to be grouped in with chicken wings and Tater tot casserole.
+
+Thanks for your time. [[User:Ntm|Ntm]] 05:40, 1 May 2005 (UTC)
+
+
+Chicago sirloin is a style of cooking the steak - chargrilled and rare, not neccesarily the cuisine that the recipes that comes from. But thanks for your input, I will definitely recategorize this recipe when I find one that fits. Thanks! [[User:Ntm|Ntm]] 23:39, 1 May 2005 (UTC)
+
+== anon IP blocks ==
+
+Infinite IP blocks have two problems:
+#IP addresses can get reassigned (per-user, or via sale of a whole netblock with thousands of addresses).
+#Some of these may be temporarily infected zombie machines.
+I can't help but be reminded of the problem of being unable to send email because the previous IP address owner caused trouble. [[User:AlbertCahalan|AlbertCahalan]] 07:49, 9 May 2005 (UTC)
+
+== [[Cookbook:Campfire Trout]] ==
+
+I see that Cookbook:Campfire_Trout requires bacon, but... why? It isn't used as far as I can see. [[User:AlbertCahalan|AlbertCahalan]] 07:50, 14 May 2005 (UTC)
+
+== cookbook things ==
+
+There are a couple things on the [[Talk:Cookbook]] page that I'd like your opinion on. If you have a few minutes I'd appreciate your attention. [[User:Kellen|Kellen]] 07:21, 23 Jun 2005 (UTC)
+
+:: Thanks for the comment on the advertising. I'd also like your opinion on tagging each recipe with Category:Recipe (to create an index). This is buried in the &quot;categorization proposal&quot; that Albert was not too thrilled about =) [[User:Kellen|Kellen]] 00:55, 27 Jun 2005 (UTC)
+
+== Proposal for policy overhaul ==
+
+As a fellow admin who might be interested, it might interest you that I've started to think about changes to existing policy and project scope so that policies are more clearly defined (as suggested by [[User:Aya]], who claims existing policies to be ambiguous) and more open (as suggested by [[User:Robert Horning]] over the biography debacle).  I've made a post on textbook-l ([http://mail.wikipedia.org/pipermail/textbook-l/2005-July/002415.html]) as a result, please reply to my talk page for feedback. [[User:KelvSYC|KelvSYC]] 05:49, 26 July 2005 (UTC)
+
+== welcome back ==
+
+yay you're editing again! [[User:Kellen|Kellen]]&amp;nbsp;&lt;sup&gt;[[User_talk:Kellen|T]]&lt;/sup&gt; 23:50, 5 August 2005 (UTC)
+
+== citations ==
+
+Hey, perhaps for references like [[Talk:Cookbook:Outdoor_cooking]] we could just standardize on some citation format. There was some discussion of this in the [[Wikibooks:Staff lounge]]. [[User:Kellen|Kellen]]&amp;nbsp;&lt;sup&gt;[[User_talk:Kellen|T]]&lt;/sup&gt; 05:44, 18 October 2005 (UTC)
+
+== Pipe trick ==
+
+I'm editing [[Cookbook:Clear soup]] and discovered that 'pipe trick' is perfect thing and makes work with cookbook articles lot easier. For example, until now I was not aware that writing &lt;tt&gt;&lt;nowiki&gt;[[cookbook:carrot|]]s&lt;/nowiki&gt;&lt;/tt&gt; will provide correct link to [[cookbook:carrot|carrot]]s.
+
+Maybe you should write about pipe trick in Cookbook guidelines for contributors? --[[User:Derbeth|Derbeth]] [[User talk:Derbeth|&lt;sup&gt;talk&lt;/sup&gt;]] 10:54, 8 January 2006 (UTC)
+
+:Yeah, the pipe trick should have started working when &quot;Cookbook:&quot; became an actual namespace.  I'll go check out the cookbook editing guidlines and recipe templates, and note the new &quot;trick&quot; for our editors.  Thanks, [[User:Gentgeen|Gentgeen]] 19:22, 9 January 2006 (UTC)
+
+==Policy review==
+
+Policy is not the most exciting subject at Wikibooks but we do have some major unresolved issues.
+
+The most important issue, in my opinion, is [http://en.wikibooks.org/wiki/Wikibooks:Dispute_resolution Dispute resolution] which starts by declaring that:
+
+'''&quot;Currently there is no official organized process to resolve disputes between users&quot;'''
+
+The suggested remedy for this is: [[Wikibooks:Ad hoc administration committee]] which puts into place the absolute minimum in terms of an enforcement apparatus.
+
+The second most important is [[Wikibooks:No personal attacks]] where a vote has recommended the policy be enforced but it still languishes as &quot;proposed&quot;.
+
+The third policy that is needed and which will prevent edit disputes from getting out of hand is [[Wikibooks:Editing disputes policy]].
+
+Other policies that need consideration are at: [http://en.wikibooks.org/wiki/Wikibooks:Policies_and_guidelines Policies and guidelines].
+
+Please spare a minute or two to peruse these issues. [[User:RobinH|RobinH]] 12:17, 28 April 2006 (UTC)
+
+== PAGENAME ==
+
+Hiya. I saw that you added &lt;nowiki&gt;{{PAGENAME}}&lt;/nowiki&gt; to a few recipes. While this works in the short term, I think it's a waste of your (or anybody's) time to do that. We should strongly encourage the mediawiki developers to provide some sort of fix that actually works for us rather than twiddling with magic page variables. If we are forced to use PAGENAME, I think we should see if Uncle G or someone else who is proficient with bots could help us out, rather than doing it by hand. [[User:Kellen|Kellen]]&amp;nbsp;&lt;sup&gt;[[User_talk:Kellen|T]]&lt;/sup&gt; 00:25, 6 May 2006 (UTC)
+
+: You might also recall that doing: &lt;nowiki&gt;[[Category:Cat name|]]&lt;/nowiki&gt; will automagically sort by &lt;nowiki&gt;{{PAGENAME}}&lt;/nowiki&gt; for you. Less typing =) [[User:Kellen|Kellen]]&amp;nbsp;&lt;sup&gt;[[User_talk:Kellen|T]]&lt;/sup&gt; 22:22, 20 June 2006 (UTC)
+
+::It will?  I'll have to try that. [[User:Gentgeen|Gentgeen]] 03:03, 21 June 2006 (UTC)
+
+== cookbookwiki ==
+
+What do you make of [http://cookbookwiki.com cookbookwiki]? [[User:Kellen|Kellen]]&amp;nbsp;&lt;sup&gt;[[User_talk:Kellen|T]]&lt;/sup&gt; 18:40, 7 May 2006 (UTC)
+
+: I actually found it off [http://en.wikipedia.org/w/index.php?title=User_talk:Gentgeen&amp;diff=32015169&amp;oldid=31560607 your WP talk page] =) [[User:Kellen|Kellen]]&amp;nbsp;&lt;sup&gt;[[User_talk:Kellen|T]]&lt;/sup&gt; 23:59, 11 May 2006 (UTC)
+
+== monobook ==
+
+You're totally right! The whole body has class .ns-102! This could be pretty fun; we could even override the logo! Imagine superimposing a knife and fork on top of it or something. [[User:Kellen|Kellen]]&amp;nbsp;&lt;sup&gt;[[User_talk:Kellen|T]]&lt;/sup&gt; 02:08, 6 July 2006 (UTC)
+
+== [[Study Guide for CFA Exam Level III]] ==
+
+you deleted this book on 21 June, 2006 as a &quot;copyvio&quot;. There is currently a request on [[WB:VFU]] to have this book undeleted, under the stated assumption that the author would remove any material in violation of copyright or fair use. I don't know enough about the material to cast a vote on this manner, but if you feel that the material could be made to not violate policy if it were undeleted, i will vote to undelete. --[[User:Whiteknight|Whiteknight]]&lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 19:24, 19 July 2006 (UTC)
+
+*Hey, Gentgeen.  Could you look at [[WB:VFU]] again?  Some discussion has been added.  I believe I can quickly remove the offending content and am eager to start working on this guy again.  Thanks.  --[[User:VivekVish|VivekVish]] 14:39, 27 July 2006 (UTC)
+
+== [[Wikibooks:General voting rules/Proposal]] ==
+
+I want to call the attention of all wikibookians, especially active admins to the discussion about the new voting policy. Wikibooks currently does not have a concrete voting policy in effect, so the adaptation of this policy will potentially create immediate differences in the way business is conducted here. Due to large amounts of discussion, changes, and dissention, there are several versions of this policy being considered:
+
+*[[Wikibooks:General voting rules/Proposal/Version 1|Version 1]] Written by [[User:Whiteknight]]
+*[[Wikibooks:General voting rules/Proposal/Version 2|Version 2]] Written by [[User:Jguk]]
+*[[Wikibooks:General voting rules/Proposal/Version 3|Version 3]] [[User:RobinH]]'s revision of Jguk's version
+*[[Wikibooks:General voting rules/Proposal/Version 4|Version 4]] Written by [[User:Kellen]]
+*[[Wikibooks:General voting rules/Proposal/Version 5|Version 5]] Whiteknight's Revision of Kellen's Version.
+
+Also, there are additional issues being discussed, such as the inclusion of a &quot;minimum contributions&quot; clause, that will limit users with less then 20 votes from editing. Also, there is a proposed clause that would allow this 20 vote minimum to be raised in response to abuse.
+
+I am sending this same message to all currently active admins. I hope you are able to come in and give your opinions on this matter. --[[User:Whiteknight|Whiteknight]] &lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 20:47, 11 August 2006 (UTC)
+
+== Thanks ==
+
+For fixing the main page (and the related vandalism) and it's been a while since you've gotten new messages I see :-) [[User:MichaelBillington|MichaelBillington]] 06:57, 27 September 2006 (UTC)
+
+== Please comment or vote... ==
+
+[[Wikibooks:Request for enabling special:import]]
+
+This would make the transwiki of recipes from en.wp a lot easier (recipes seem to make up the majority of [[w:Category:Copy to Wikibooks]]). The folks at meta have asked for a show of local support for turning it on. --[[User:SBJohnny|&lt;font color=&quot;green&quot;&gt;'''SB_Johnny'''&lt;/font&gt;]] | &lt;sup&gt;[[User talk:SBJohnny|&lt;font color=&quot;green&quot;&gt;talk&lt;/font&gt;]]&lt;/sup&gt; 12:10, 12 October 2006 (UTC)
+
+==Sorry... one more vote please?==
+
+One more thing to smooth out the transwiki process... [[Wikibooks:Request_for_enabling_special:import#Additional_request]]. We're asking that &quot;Transwiki:&quot; be given namespace status so we can import to it directly. --[[User:SBJohnny|&lt;font color=&quot;green&quot;&gt;'''SB_Johnny'''&lt;/font&gt;]] | &lt;sup&gt;[[User talk:SBJohnny|&lt;font color=&quot;green&quot;&gt;talk&lt;/font&gt;]]&lt;/sup&gt; 19:56, 16 October 2006 (UTC)
+
+== [[Analog and Digital Conversion/Other Reconstructors]] ==
+
+On 17 July you deleted this page, I assume because it was a stub? I've undeleted it, because I do plan on adding more material to it (even if i have been slow in doing so). I hope you don't mind. --[[User:Whiteknight|Whiteknight]] &lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 16:08, 27 October 2006 (UTC)
+
+== Hooray for fixing the main page ==
+
+Thanks for fixing [[Template:New]] so that the main page is normal again. [http://en.wikibooks.org/w/index.php?title=Template:New&amp;diff=next&amp;oldid=656962] I can't believe that the main page was like that for an hour. I was trying to figure out what was the cause of the weird formatting. So again, thanks! -[[User:Hyad|Hyad]] 08:34, 21 November 2006 (UTC)
+:Thanks. [[User:Gentgeen|Gentgeen]]
+
+== cookbook wantedpages script ==
+
+I've done some minor tweaks on the wantedpages filtering (no more underscores); [[User:Kellen/Scripts]]. [[User:Kellen|Kellen]]&amp;nbsp;&lt;sup&gt;[[User_talk:Kellen|T]]&lt;/sup&gt; 00:02, 19 January 2007 (UTC)
+
+:Cool. I've never actually used the script, however. I always update the list by hand, which is probably a waste of time, but it's my time to waste. [[User:Gentgeen|Gentgeen]] 18:45, 19 January 2007 (UTC)
+
+: Give it a try. It's easy enough if you have a nix system and the basic tools (lynx, grep, and sed). It'll format everything automagically for you. Maybe I could make a cron script to update it here... hrm. [[User:Kellen|Kellen]]&amp;nbsp;&lt;sup&gt;[[User_talk:Kellen|T]]&lt;/sup&gt; 20:10, 19 January 2007 (UTC)
+
+== Cookbook category order ==
+
+G'day mate, I [[Cookbook talk:Table of Contents#Category sort enhancement request|recently]] added the &lt;nowiki&gt;{{DEFAULTSORT}}&lt;/nowiki&gt; magic word to some of the Cookbook templates, so you no longer need to specify the sort for most pages. For those that you do, e.g. non-ANSI page name, you should specify it as a parameter to the template, e.g. &lt;nowiki&gt;{{recipe|Aebleskiver}}&lt;/nowiki&gt;. cheers, [[User:Webaware|Webaware]]&amp;nbsp;&lt;sup&gt;[[User_talk:Webaware|talk]]&lt;/sup&gt; 23:56, 27 May 2007 (UTC)
+:Thanks. [[User:Gentgeen|Gentgeen]]
+
+== Bfbggon ==
+
+Hi. This guy Bfbggon keeps putting these sick pictures on my talk. He used to keep putting it on after every time I deleted it, but he's not doing that anymore. What happened to him?
+
+==My reviewer request== 
+Hi Gentgeen: 
+Please consider supporing [[Wikibooks:Requests for permissions#Moby-Dick4000|my request]] to become a reviewer. [[User:Moby-Dick4000|Moby-Dick4000]] ([[User talk:Moby-Dick4000|talk]]) 01:05, 30 August 2009 (UTC)
+
+== [[Wikibooks:Requests for permissions]] ==
+
+Due to inactivity, you've been nominated for removal of the administrative tools.  If you wish to support or oppose the matter, please visit the page linked above.  Thank you for your contributions up to this point. -- [[User:Adrignola|Adrignola]] &lt;sup&gt;[[User talk:Adrignola|talk]] [[Special:Contributions/Adrignola|contribs]]&lt;/sup&gt; 13:37, 22 December 2009 (UTC)
+
+== WCI 2011 : Accelerating Wikibooks : Would like to discuss! ==
+
+
+Hello!
+
+I will be delivering a Talk at the Wikimedia Conference India 2011 on the topic of &quot;Accelerating Wikibooks&quot;.
+
+Over the next few days, I aim to make the proposal more and more wholesome and relevant. I'd like to discuss with you about the proposal and hope you can recommend me a few names on Wikibooks with whom I can discuss this.
+
+I'd be very happy if you could discuss the proposal at [[User:Thewinster/Accelerating_Wikibooks]]
+
+--[[User:Thewinster|Thewinster]] ([[User talk:Thewinster|discuss]] • [[Special:Contributions/Thewinster|contribs]]) 08:20, 26 September 2011 (UTC)
+=== Summary of the proposal ===
+
+This is not a summary of the final talk, only a tentative guideline.
+
+* Create Roadmaps for a book
+* Define Learning Outcomes
+* Annotate and Discuss new content available from around the web.
+* Minor tweaks and fixes which concentrate on crowdsourcing.
+* Identifying Small Contribution that advance a book and designing good UIs and triggers according to B.J. Fogg's Behavior Change Model, 8 Step Design Process. The paper can be found here at [http://www.bjfogg.com/design_files/page8_1.pdf Persuasive Design : Eight Step Process by B. J. Fogg]</text>
+      <sha1>atvin0bivkqsivhwm04rc27lz4yhatr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Invertebrate Zoology</title>
+    <ns>0</ns>
+    <id>3696</id>
+    <revision>
+      <id>1933254</id>
+      <parentid>1856102</parentid>
+      <timestamp>2010-09-15T16:42:35Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>status=25%, formatting</comment>
+      <text xml:space="preserve">{{book title|Study Guide to Invertebrate Zoology}}
+
+
+==Table of Contents==
+===Preface===
+:[[/Guide Introduction|Introduction to the Guide]]
+:[[/How to Use Guidee|How to use the Guide]]
+:[[/A final note about the Guide|A special note]] ~ How to contribute
+:[[/Authors|Contributors]]
+
+===Chapters=== 
+#[[/Introduction/]]
+#[[/Protozoans/]]
+#[[/Metazoans/]]
+#[[/Sponges/]]
+#[[/Cnidaria/]]
+#[[/Ctenophores/]]
+#[[/Flatworms/]]
+#[[/Nemerteans/]]
+#[[/Pseudocoelomates/]]
+#[[/Annelids/]]
+#[[/Mollusks/]]
+#[[/Arthropods/]]
+#[[/Chelicerates/]]
+#[[/Crustaceans/]]
+#[[/Insects/]]
+#[[/Echinoderms/]]
+
+{{Alphabetical|I}}
+{{Subjects|Zoology}}
+{{status|25%}}
+__NOTOC__ __NOEDITSECTION__</text>
+      <sha1>qex0y8a25q0rwlzt946wlq6ns7icg3r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Invertebrate Zoology/Guide Introduction</title>
+    <ns>0</ns>
+    <id>3697</id>
+    <revision>
+      <id>1800837</id>
+      <parentid>1601208</parentid>
+      <timestamp>2010-05-21T21:41:08Z</timestamp>
+      <contributor>
+        <username>Swift</username>
+        <id>33592</id>
+      </contributor>
+      <minor />
+      <comment>Fixed link</comment>
+      <text xml:space="preserve">&lt;&lt; [[Invertebrate Zoology|Contents Page]]
+----
+== Introduction to the Invertebrate Zoology Study Guide == 
+
+This ''Study Guide to Invertebrate Zoology'' is a textbook at '''''Wikibooks''''' shelved at the [[Wikibooks:biology bookshelf|biology bookshelf]] section and intended to establish a course of study in the subject of Invertebrate Zoology, mostly utilizing articles found in '''''[http://www.Wikipedia.org/ Wikipedia]''''', with links to other relevant web sites as appropriate. In some cases, portions of the text from  ''Wikipedia'' articles have been used to materially develop introductory text within the Guide.      
+
+For the new user, it need be pointed out that ''Wikipedia'' differs from a standard encyclopedia in two important respects: 1) it is a '''hypertext''' document, and 2) it is open and editable, and therefore '''constantly changing'''. For the student following this or any guide through ''Wikipedia'' to cover a specific subject, it is recommended that each article (page) be read first in its entirety, before any hyperlinks are followed to other topics or explanations.  It is too easy, otherwise, to simply become lost in a maze of links, and miss the main thrust of an article presented as an assignment from the Guide.  Because ''Wikipedia'' is constantly changing (and, it is hoped, improving) the quality of each article encountered will be variable.  Some articles are well written and go to adequate depth, whereas others, lacking a proponent, are shallow and incomplete. This short-coming should diminish with time, but can be a problem.  
+
+One clear advantage to using this Guide linked to a hypertext like ''Wikipedia'' is the &quot;circular redundancy with serendipity&quot; factor that arises when an article is read and its hyperlinks followed; this factor can be a powerful learning tool. The persistent reader is  subjected to a fairly high degree of repetitive reading, often presenting slightly different perspectives on the same general topic, with the result that learning comes from redundancy. At the same time, some hyperlinks lead down less relevant paths, bringing new and unanticipated knowledge.
+
+{{BookCat}}</text>
+      <sha1>9pege4gnm6fqmutgfvjfjlonz910m1u</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Invertebrate Zoology/Authors</title>
+    <ns>0</ns>
+    <id>3698</id>
+    <revision>
+      <id>1898347</id>
+      <parentid>1800838</parentid>
+      <timestamp>2010-07-22T20:23:43Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <comment>fixed link; wording; formatting; cleanup</comment>
+      <text xml:space="preserve">This study guide to invertebrate zoology is a textbook at ''Wikibooks'' filed under [[Subject:Zoology|Zoology]] and intended to establish a course of study in the subject of Invertebrate Zoology, mostly utilizing articles found in ''[[w:|Wikipedia]]'', with links to other relevant web sites as appropriate. Contributors are encouraged to spend time developing the relevant articles at ''Wikipedia'', maintaining this textbook as a ''guide'' to those articles. At some future time, it may be desirable to simply import whole articles over to build a Zoology textbook rather than a &quot;guide book&quot;, however the present approach seems to be a good one for getting a useful text at ''Wikibooks'' based upon the initial author's experience with ''[[Botany]]''.  Another Wikibook, ''[[Ecology]]'', follows a similar approach, but requires more text per page, because of less congruence between chapter material and articles at ''Wikipedia''. 
+
+The contributors to this book included:
+
+*[[w:user:Marshman|Eric Guinther]], biologist and environmental consultant living in Kaneohe, Hawaii envisioned this &quot;project&quot; and developed the approach.
+*[[User:AFriedman|AFriedman]] ([[User talk:AFriedman|talk]]), a User who also performs research in this field on [[v:User:AFriedman|Wikiversity]]
+
+{{BookCat}}</text>
+      <sha1>j6s4e1jxquqkiiqrrvxoscofbwussvf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Bronger/LaTeX Einführung</title>
+    <ns>2</ns>
+    <id>3699</id>
+    <revision>
+      <id>616176</id>
+      <parentid>155571</parentid>
+      <timestamp>2006-10-18T04:27:19Z</timestamp>
+      <contributor>
+        <username>Guanabot</username>
+        <id>5478</id>
+      </contributor>
+      <minor />
+      <comment>User-controlled Bot: table syntax updated</comment>
+      <text xml:space="preserve">&lt;div style=&quot;background:yellow; padding:1em&quot;&gt;
+Allgemeine Richtlinien:
+
+Der Plan ist, von der alten Methode, LaTeX zu erläutern, wegzukommen.  Der ganze historische Ballast wird sofort aufgegeben.  Das heißt z.B.:
+
+
+{| border=&quot;1&quot;
+|-
+! Ja
+! Nein
+|-
+| Editor in den Vordergund stellen
+| Das (La)TeX-Programm in den Vordergrund stellen
+|-
+| Heutige &quot;best common practice&quot;
+| Darstellung veralteter Methoden und Pakete
+|-
+| Allgemein bekannte Layout-Elemente
+| Feinheiten der Typographie, z.B. Ligaturen
+|-
+| Plakative Darstellung || Hintergrundwissen
+|-
+|-
+| Konzentration auf Windows || Besprechung aller Plattformen
+|-
+| Klare Software-Liste
+| Software-Liste mit etlichen Alternativen
+|-
+| PDF || DVI/PS
+|-
+| Times &amp; Co. || Computer Modern
+|-
+| KOMA-Script || Standard-Klassen
+|-
+| inputenc, T1 || &lt;tt&gt;&quot;u&lt;/tt&gt; etc., OT1
+|-
+| Babel || german.sty
+|-
+| Syntax-Highlighting || Einfache Schreibmaschinenschrift
+|}
+
+Die Hoffnung ist, dadurch einen maximal effektiven Einstieg zu ermöglichen.  Es ist eine ''Einführung'' (&quot;Tutorial&quot;) und kein Lehrbuch, das dem Anspruch der Umfassendheit genügen will.
+
+Es soll aber ein in sich geschlossenes Büchlein darstellen.  Die typischen Elemente eines Dokuments sollen abgedeckt werden.
+
+&lt;/div&gt;
+
+=Was ist LaTeX?=
+
+LaTeX ist ein Computer-Programm, mit dem man Texte schreiben kann.  Seien es kurze Memos, Briefe, längere Berichte, Studienarbeiten oder auch ganze Bücher: LaTeX kommt mit nahezu allen Textsorten problemlos zurecht.  Für jeden dieser Fälle garantiert LaTeX ein professionelles, perfekt gestaltetes Layout.
+
+LaTeX legt dabei besonderen Wert auf drei Dinge:
+# Bei der Eingabe des Textes soll sich der Autor voll auf seinen Text konzentrieren können, und nicht von Layout-Einstellungen, Seitenumbrüchen oder ähnlichem abgelenkt werden.
+# Beim Druck oder der Bildschirmdarstellung des Textes wird bestmögliche Qualität abgeliefert, selbst wenn der Autor von solchen Dingen keine oder kaum Ahnung hat.  Es wird dabei ein Niveau erreicht, das beispielsweise mit Word nicht zu realisieren ist.
+# Zuverlässigkeit.  Der Kern des LaTeX-Systems gilt als einer der stabilsten und bugfreiesten überhaupt.  Selbst bei sehr komplexen Dokumenten, z.B. mit vielen Grafiken und Tabellen, bleibt das Programm belastbar und schnell.
+
+Soweit es das Erzeugen von Dokumenten angeht, ist LaTeX ein vollwertiger Ersatz für Textverarbeitungsprogramme wie Word.  Es ist alles dabei, was das Herz begehrt: Formatierung, Schriftarten, Grafiken, Tabellen, Aufzählungen, Fußnoten, Querverweise, Rechtschreib-Kontrolle, automatische Verzeichnisse, etc.
+
+Es gibt sogar einige Dinge, die LaTeX den meisten anderen Programmen voraus hat.  Zwei Beispiele:
+* LaTeX kann selbstständig für alle Abbildungen und Tabellen des Dokumentes die bestmöglichen Plätze suchen.  Obwohl der Autor das auch überstimmen kann, lernt man diese Hilfe schnell zu schätzen.
+* Leute, die ihren Dokumenten Literaturverzeichnisse anfügen müssen, können das zu einem guten Stück automatisch durch LaTeX erledigen lassen.
+
+==Kein WYSIWYG==
+
+In Word tippt man seinen Text, und man sieht ihn dabei auf dem Bildschirm genau so, wie er später aus dem Drucker kommt.  Man nennt diese Technik &quot;WYSIWYG&quot;. Es ist eine komfortable Möglichkeit der Texteingabe.
+
+LaTeX geht dennoch einen anderen Weg.  Man tippt seinen Text, sieht dabei jedoch nur ''Inhalt'' und ''Struktur'' (Gliederung) des Textes.  Es fehlen also Dinge wie Schriftarten, Seitenumbrüche oder Zeichenabstand.  Das ist zwar spartanisch, reicht aber völlig aus, um den Text zu bearbeiten.  Keine Sorge: Es genügt ein Tastendruck, um jederzeit ein Vorschau-Fenster zu aktualisieren, in dem das Endergebnis absolut verbindlich dargestellt wird, und zwar noch akkurater als mit Word.
+
+Das ist quasi eine Not, aus der LaTeX eine Tugend macht.  Zum einen ist der Verzicht auf WISYWIG ein wichtiger Grund für die Zuverlässigkeit von LaTeX. WYSIWYG ist nämlich eine sehr aufwendige und daher etwas anfällige Technik.  Zum anderen hat so der Autor seine Ruhe vor Layout-Fragen.  Wenn man will, kann man zwar auch mit LaTeX das Layout nahezu beliebig beeinflussen.  Aber wenn nicht, sorgen die Vorgaben der Profis, die LaTeX gemacht haben, für ein hervorragendes Resultat.
+
+=Die Installation unter Windows=
+
+Wir werden in diesem Abschnitt erfahren, wo man LaTeX herbekommt und wie man es unter Windows installiert.  Wenn man erst mal schauen möchte, wie LaTeX ungefähr funktioniert, kann man auch vorerst diesen Abschnitt überspringen und mit dem nächsten, &quot;Das erste Dokument&quot;, weitermachen.
+
+&lt;div style=&quot;background: orange; padding: 0.5em&quot;&gt;
+# Bezugsquellen (Downloads, Bestellen; muß eventuell mit dem Folgenden verquickt werden)
+# Software:
+#* Acrobat Reader
+#* Ghostscript/GSView
+#* MikTeX (full)
+#* TeXnicCenter
+# Knappe Beschreibung der Installation, ohne Alternativen zu nennen.
+&lt;/div&gt;
+
+=Das erste Dokument=
+
+==Erste Schritte==
+
+&lt;div style=&quot;background: orange; padding: 0.5em&quot;&gt;
+Grundsätzliches zum Handling des Editors
+&lt;/div&gt;
+
+Um endlich mal konkret zu werden, gibt man folgendes Dokument in den Editor ein&amp;nbsp;&amp;hellip;
+&lt;div style=&quot;background: lightgray&quot;&gt;
+ \documentclass{scrartcl}       % Wir brauchen keine Kapitel
+ \usepackage[ansinew]{inputenc}
+ \usepackage[T1]{fontenc}
+ \usepackage{graphicx,mathptmx,courier,textcomp,booktabs}
+ \usepackage[scaled]{helvet}
+
+ \usepackage[ngerman]{babel}    % Neue deutsche Rechtschreibung
+
+
+ \begin{document}               % Hier geht der eigentliche Text los
+
+ Hallo! Dies ist der erste Absatz dieses einfachen Textes.  Ich muß
+ jetzt hier ein wenig herumlabern, um ihn ein wenig länger zu
+ bekommen, sonst kann man nachher nicht so schön sehen, wo der eine
+ Absatz aufhört und wo der andere anfängt.
+
+ Dies ist der zweite und letzte Absatz.
+
+ \end{document}                 % Und hier hört er auf
+&lt;/div&gt;
+&amp;hellip;&amp;nbsp;und drückt und F7 und&amp;nbsp;F5.  Es öffnet sich ein Fenster, in
+dem man den Text so sehen kann, wie er auch später aus dem Drucker kommen wird.
+
+Aber was bedeutet das, was wir gerade getippt haben?  Die allererste Zeile ist
+ \documentclass{scrartcl}
+und sie besagt, dass unser Text keine Kapitel benötigt.  Die Alternative wäre
+gewesen, stattdessen
+ \documentclass{scrbook}
+zu schreiben.  Dann hätte unser Dokument Kapitel haben können.  Die folgenden vier Zeilen sagen LaTeX unter anderem, daß wir Windows benutzen.  Es leider nötig, es einzufügen, aber unnötig, seine genaue Bedeutung zu kennen. Glücklicherweise muß man es nur einmal pro Dokument eingeben, und man kann es aus einem anderen Dokument herauskopieren.
+
+==Die Anatomie eines LaTeX-Befehls==
+
+Die überwiegende Zeit tippt man einfach seinen Text, egal, welches Programm man dafür benutzt.  Aber manchmal muß man seinen Schreibfluß unterbrechen, z.B. weil ein neuer Abschnitt beginnen soll, oder weil man eine Grafik einfügen möchte.  In Word muß man dann auf Icons klicken, Menüpunkte anwählen oder Tastenkürzel benutzen.  In LaTeX fügt man ''Befehle'' und ''Umgebungen'' ein. Diese Befehle und Umgebungen kann man mit seinem Text zusammen im Editor-Fenster sehen.  Der Editor färbt sie zur besseren Übersicht blau ein.
+
+Fangen wir mit den Befehlen an.  Unser kleines LaTeX-Beispiel beginnt mit
+ \documentclass{scrartcl}
+Das ist ein typischer LaTeX-Befehl.  Er sagt aus, daß wir einen Text ohne Kapitel schreiben wollen. Ein LaTeX-Befehl hat immer den folgenden Aufbau:
+# Er beginnt mit einem umgekehrten Schrägstrich&amp;nbsp;&quot;\&quot;, einem sogenannten &quot;Backslash&quot;.
+# Dann folgt der Name des Befehls, z.B. &quot;documentclass&quot; für &quot;Die Klasse des Dokumentes&quot;.
+# Als letztes kommen zusätzliche Angaben, die sogenannten ''Parameter''.  Sie stehen jeweils in geschweiften Klammern &lt;tt&gt;{...}&lt;/tt&gt;, und es können keiner, ein, zwei oder manchmal noch mehr für einen Befehl sein.  Mehr als zwei ist aber extrem selten.  Unser Beispiel-Befehl hat nur einen Parameter, nämlich eben das Kürzel &quot;scrartcl&quot;.
+
+Die zweite Gattung von sonderbaren Dingen in LaTeX-Texten sind die ''Umgebungen''.  Umgebungen klammern einen Textes ein.  Unser Beispiel-Dokument von vorhin enthält genau eine Umgebung, und es ist sogar die wichtigste:
+ \begin{document}
+  ...
+ \end{document}
+Die &lt;tt&gt;document&lt;/tt&gt;-Umgebung enthält das ganze Dokument.  Jede Umgebung beginnt mit
+ \begin{Umgebungsname}
+und endet mit
+ \end{Umgebungsname}
+Ganz selten haben auch Umgebungen Parameter.  Die stehen dann hinter dem &lt;tt&gt;\begin{...}&lt;/tt&gt;.
+
+==Die Schnellvorschau==
+
+&lt;div style=&quot;background: orange; padding: 0.5em&quot;&gt;
+YAP
+&lt;/div&gt;
+
+==Endgültige Vorschau &amp; Drucken==
+
+&lt;div style=&quot;background: orange; padding: 0.5em&quot;&gt;
+PDF-Erzeugung (pdflatex), Acrobat-Reader
+
+An dieser Stelle hyperref erwähnen.
+&lt;/div&gt;
+
+==Wenn mal was schiefgeht &amp;hellip;==
+
+&lt;div style=&quot;background: orange; padding: 0.5em&quot;&gt;
+Typische Probleme:
+* LaTeX-Kompilierfehler
+* Probleme mit dem Editor (Undo u.ä.)
+(Probleme mit Grafiken werden dort behandelt.)
+&lt;/div&gt;
+
+=Formatierung=
+
+&lt;div style=&quot;background: orange; padding: 0.5em&quot;&gt;
+* &lt;tt&gt;\emph&lt;/tt&gt;
+* Sonderrolle der Anführungsstriche, german.sty-Befehle, zumindest &lt;tt&gt;&quot;&quot;&lt;/tt&gt; und &lt;tt&gt;&quot;~&lt;/tt&gt;.
+* Dinge wie &lt;tt&gt;\&amp;&lt;/tt&gt;, &lt;tt&gt;\$&lt;/tt&gt;, &lt;tt&gt;\%&lt;/tt&gt;, &lt;tt&gt;\S{}&lt;/tt&gt;, &lt;tt&gt;\LaTeX{}&lt;/tt&gt;
+* Listen
+* mathptmx, mathpazo
+&lt;/div&gt;
+
+=Tabellen=
+
+&lt;div style=&quot;background: orange; padding: 0.5em&quot;&gt;
+tabular &amp; table.  Querverweise mit &lt;tt&gt;\ref&lt;/tt&gt;?  Soll man gleich mit booktabs arbeiten?
+&lt;/div&gt;
+
+=Grafiken=
+
+&lt;div style=&quot;background: orange; padding: 0.5em&quot;&gt;
+graphicx, &lt;tt&gt;\includegraphics&lt;/tt&gt; und figure.  Behandlung von pdf, png und jpeg.
+&lt;/div&gt;
+
+
+
+=Ein größeres Beispiel=
+
+&lt;div style=&quot;background: orange; padding: 0.5em&quot;&gt;
+Diplomarbeit-artig.
+
+Projekt-Funktion von TeXnicCenter erwähnen?
+&lt;/div&gt;
+
+=Anhang=
+
+==Grafiken, die ''nicht'' PDFs, PNGs oder JPEGs sind==
+
+&lt;div style=&quot;background: orange; padding: 0.5em&quot;&gt;
+ps2pdf (oder besser epstopdf?), gif --&gt; png.
+&lt;/div&gt;
+
+==Formeln==
+
+&lt;div style=&quot;background: orange; padding: 0.5em&quot;&gt;
+* Sofort AMSTeX einbinden, z.B. eqnarray gar nicht mehr erwähnen.
+* Verweis auf die umfassende LaTeX-Symbol-Liste im Internet, d.h. nur Tabellen mit den wichtigsten Symbolen einbinden.
+&lt;/div&gt;
+
+==Das Erstellen eines Literaturverzeichnisses==
+
+&lt;div style=&quot;background: orange; padding: 0.5em&quot;&gt;
+* Manuell
+* BibTeX nennen, aber nicht beschreiben.
+&lt;/div&gt;
+
+==Weiterführende Literatur==
+
+&lt;div style=&quot;background: orange; padding: 0.5em&quot;&gt;
+Kurzbeschreibung, KOMA-Script, etc.
+
+Kritische Anmerkungen zu jeder Referenz, insbesondere beim Kopka
+&lt;/div&gt;</text>
+      <sha1>h0s0kxma5andi1ze0ro9i86mj3oeoqq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Bronger/LaTeX Einführung</title>
+    <ns>3</ns>
+    <id>3700</id>
+    <revision>
+      <id>155572</id>
+      <parentid>12380</parentid>
+      <timestamp>2004-01-19T09:52:24Z</timestamp>
+      <contributor>
+        <username>Bronger</username>
+        <id>394</id>
+      </contributor>
+      <comment>Projekt verschoben</comment>
+      <text xml:space="preserve">Warum schreibst Du das Buch nicht gleich unter [[LaTeX-Einführung]] oder besser 
+[[LaTeX-Schnellkurs]]?  Nachtrag: Habe jetzt unter [[LaTeX-Schnellkurs]] mit dem Projekt begonnen. &amp;#8211; [[User:217.1.206.25|217.1.206.25]] 09:59, 9 Jan 2004 (UTC)
+
+:Weil solche Projekte, wenn sie zu früh an die große Glocke gehangen werden, schnell zerfleddert werden.  Erst recht, wenn es derart unorthodox ist.  Die Idee dazu entstand gesten bei einem Abendessen, und es ist geplant, das ganze fühestens im April mit Anfängern im Rahmen einer Einführungsveranstaltung auszuprobieren.  Dann wird sich zeigen, ob das Konzept brauchbar ist.
+
+:Nimm dir zum Beispiel deine MacOS-Erweiterung in deinem Schnellkurs: Das ist sicher löblich und kompetent geschrieben, aber dann mußt du im folgenden wieder ''zwei'' Editoren (oder einen generischen) beschreiben, was ein Anfänger gar nicht gerne hat. &amp;ndash; [[User:Bronger|Torsten Bronger]] 10:52, 9 Jan 2004 (UTC)
+
+::Habe ich mir auch überlegt, aber durch TeXShop gibt es auf einmal soviele Apple-Anwender, die mit TeX anfangen wollen, daß es irgenwie schade wäre, wenn man denen nicht einen möglichst einfachen TeX-Einstieg anbieten könnte. Man kann ja im Hauptverlauf den Vorgang unter Windows beschreiben und nur auf das Wikibooks-Modul verweisen, das den Vorgang unter Mac OS X erklärt. Eine andere Variante wäre: zwei Inhaltsverzeichnisse, die auf die jeweils richtigen Module verweisen. Was hältst Du denn davon? [[User:217.1.206.25|217.1.206.25]] 11:01, 9 Jan 2004 (UTC) 
+
+:::Beides sind interessante Ideen.  Man sollte versuchen, dort, wo es nicht unbedingt nötig ist, auf Screenshots und direkte Erwähnung von TeXnicCenter-Funktionen zu verzichten.  Dadurch hielte man die Zahl der auszutauschenden Module minimal.  Leicht wird das aber nicht.  Es ist ja nicht nur mit der Beschreibung der Editor-Grundfunktionen getan.  Auch die PDF-Erzeugung, die Behandlung von Kompilierfehlern sowie die Schnellvorschau sind vom OS abhängig. &amp;ndash; [[User:Bronger|Torsten Bronger]] 11:26, 9 Jan 2004 (UTC)
+
+Deine Konzeption gefällt mir gut. Besonderen Wert würde ich auf ausführlich kommentierte Musterdokumente legen. &amp;#8211; [[User:217.1.206.25|217.1.206.25]] 10:02, 9 Jan 2004 (UTC)
+
+:Das ist sicher eine gute Sache. &amp;ndash; [[User:Bronger|Torsten Bronger]] 10:52, 9 Jan 2004 (UTC)
+
+:Ein paar einfache Musterdokumente könnte ich auch beisteuern (scrlttr2 &amp; g-brief), ich müsste sie nur noch kommentieren, dürfte aber machbar sein (meine eigenen Anfänge liegen schließlich noch nicht allzu weit zurück). Auch ein längeres Fanfic (knapp 30 Seiten) würde ich eventuell hergeben, ist aber eben 99% Text und kaum LaTeX. Bei Windows-spezifischen Dingen kann ich aber nicht helfen, davon habe ich keine Ahnung.
+
+
+::Das Projekt lebt nun bei [http://sourceforge.net/projects/latex-tutorium], weil es dort CVS-Zugriff gibt.  Ich bin aber gerne bereit, zum Wikibooks-LaTeX-Projekt beizusteuern.  Es ist bereits seit seinem Bestehen auf meiner Watchlist.</text>
+      <sha1>e2vv6y1m31s1jsh9fv8whvc755qekqh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Spanish/Verb Tenses</title>
+    <ns>0</ns>
+    <id>3707</id>
+    <revision>
+      <id>997151</id>
+      <parentid>532467</parentid>
+      <timestamp>2007-10-08T20:05:39Z</timestamp>
+      <contributor>
+        <ip>72.83.236.152</ip>
+      </contributor>
+      <comment>fix</comment>
+      <text xml:space="preserve">__NOTOC__
+
+[[../Verbs/]] | [[../Verbs List/]]
+----
+
+== Vosotros ==
+*[[../Vosotros Usage/]]
+
+= Los tiempos de los verbos: por simples y compuestos =
+
+:[[../Infinitive| infinitivo]] estudiar - to study
+:[[../Gerund| gerundio]] estudiando - studying
+:[[../Present Participle| participio presente]] estudiando - studying
+:[[../Past Participle| participio pasado]] estudiado - studied - used with [[Wiktionary:Haber|Haber]]
+
+== Siete tiempos sencillos ==
+#[[../Present|presente de indicativo]] estudio - I study
+#[[../Imperfect|imperfecto de indicativo]] estudiaba
+#[[../Preterite|pretérito]] estudié
+#[[../Future|futuro]] estudiaré
+#[[../Simple Conditional|potencial simple]] estudiaría
+#[[../Present Subjunctive|presente de subjuntivo]] estudie
+#[[../Imperfect Subjunctive|imperfecto de subjuntivo]] estudiara
+
+== Siete tiempos compuestos ==
+#[[../Perfect|perfecto de indicativo]] he estudiado
+#[[../Pluperfect| pluscuamperfecto de indicativo]] había estudiado
+#[[../Preterite Anterior| pretérito anterior]] hube estudiado 
+#[[../Future Perfect| futuro perfecto]] habré estudiado
+#[[../Compound Conditional| potencial compuesto]] habría estudiado
+#[[../Perfect Subjunctive| perfecto de subjuntivo]] haya estudiado
+#[[../Pluperfect Subjunctive| pluscuamperfecto de subjuntivo]] hubiera estudiado
+ 
+----
+
+= Los tiempos de los verbos: por modos =
+
+Gramatically, there are different ways of classifying Spanish verb forms (as well as the verbs of any language). The one most people understand is &quot;tense&quot;, but another very important classification is the &quot;mood.&quot; A &quot;mood&quot; is differentiated from a &quot;tense&quot; in that it does not express time per se (which is what &quot;tense&quot; really means). Unfortunately, &quot;mood&quot; is not really a very good name either because moods do not express moods of the speaker (happy, sad, etc.) The mood is used to classify how the verb is used grammatically in the sentence; that is, how the verb usage works together with the other parts of the sentence. Spanish has the following verb moods:
+
+* Indicative (indicativo): Used to express statements of fact as the main verb of a clause
+* Participial (participio, gerundio): Used to convert a verb into a noun or adjective to express not actions but rather qualities or objects related to the verb
+* Conditional (potencial): Used together with other clauses to indicate a potential fact.
+* Subjunctive (subjuntivo): Used together with a main clause to indicate that the subordinate clause is somehow under discussion (mooted).
+* Imperative (imperativo): Used to express a direct command.
+
+In many cases, along with the name of the mood also goes a tense. A given form of a verb normally has both mood and tense, although when the mood is indicative usually the name of the mood is not stated. This is one thing that makes the concept of moods hard to understand. When we talk about the &quot;present tense&quot; of a verb, we really should say &quot;indicative mood, present tense&quot;. This would make it clear that when we say &quot;subjunctive mood, present tense&quot; we're not dealing with anything particularly strange, only a little different.
+
+:[[../Infinitive| infinitivo]] 
+:[[../Gerund| gerundio]]  
+:[[../Present Participle| participio presente]]  
+:[[../Past Participle| participio pasado]]
+
+== [[../Indicative| El modo indicativo]] ==
+:''' En el tiempo presente '''
+* [[../Present|presente de indicativo]], [[../Present Progressive| presente progresivo de indicativo]] 
+:''' En el pasado '''
+* [[../Imperfect|imperfecto de indicativo]], [[../Imperfect Progressive| imperfecto progresivo de indicativo]] 
+* [[../Perfect| perfecto de indicativo]] 
+* [[../Preterite| pretérito]]  
+* [[../Pluperfect| pluscuamperfecto de indicativo]] 
+* [[../Preterite Anterior| pretérito anterior]] 
+:''' En el futuro '''
+* [[../Future/| futuro]] 
+* [[../Future Perfect| futuro perfecto]] 
+
+== [[../Subjunctive| El modo subjuntivo]] ==
+:''' En el presente '''
+* [[../Present Subjunctive| presente de subjuntivo]] 
+:''' En el pasado '''
+* [[../Imperfect Subjunctive| imperfecto de subjuntivo]]  
+* [[../Perfect Subjunctive| perfecto de subjuntivo]] 
+* [[../Pluperfect Subjunctive| pluscuamperfecto de subjuntivo]] 
+* El futuro subjuntivo (estudiare)
+* El futuro perfecto subjuntivo (hubiere estudiado)
+
+== [[../Conditional| El modo potencial]] ==
+* [[../Simple Conditional| potencial simple]]  
+* [[..Compound Conditional| potencial compuesto]] 
+== [[../Imperative|El modo imperativo]] ==
+* [[../Imperative| imperativo]]
+----
+[[Spanish]] | [[../Verbs/]] | [[../Verbs List/]]
+
+[[Category:Spanish]]</text>
+      <sha1>quakexly0yibe4vzn7cb10ckbphjag3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Spanish/Imperfect</title>
+    <ns>0</ns>
+    <id>3714</id>
+    <revision>
+      <id>1331473</id>
+      <parentid>1303204</parentid>
+      <timestamp>2008-11-13T02:46:37Z</timestamp>
+      <contributor>
+        <ip>132.162.78.51</ip>
+      </contributor>
+      <comment>/* Conjugating regular verbs in the imperfect */</comment>
+      <text xml:space="preserve">[[../Verbs/]]
+----
+The imperfect tense communicates:
+* continuing past events (translates English ''was/were __ing'')
+* customary, habitual events in the past
+* planned future events
+
+Verbs are conjugated to the imperfect by taking off the last two letters of the [[../Infinitive|infinitive]] and replacing them with an ending based on '''-ía''' or '''-aba'''. 
+
+==Conjugating regular verbs in the imperfect==
+This is probably the easiest verb tense to conjugate.
+
+-AR verbs take on the -aba andings. Here is an example:
+
+'''Bailar''' (to dance)
+
+''' bailaba:''' I danced&lt;br&gt;
+''' bailabas:'''  you danced&lt;br&gt;
+''' bailaba:'''  he, she, it, you (formal) danced&lt;br&gt;
+''' bailábamos:''' we danced &lt;br&gt;
+''' bailabais:''' you danced &lt;br&gt;
+''' bailaban:''' they, you (plural, formal) danced &lt;br&gt;
+
+-IR and -ER verbs take on -ía endings. Examples:
+
+'''Venir''' (to come)
+
+''' venía: ''' I came &lt;br&gt;
+''' venías: ''' you came &lt;br&gt;
+''' venía: ''' he, she, it, you came &lt;br&gt;
+''' veníamos: ''' we came &lt;br&gt;
+''' veníais: ''' you came&lt;br&gt;
+''' venían: ''' they, you (formal) came &lt;br&gt;
+
+'''Comer''' (to eat)
+
+'''comía:''' I ate &lt;br&gt;
+'''comías:''' you ate &lt;br&gt;
+'''comía:''' he, she, it, you ate &lt;br&gt;
+'''comíamos:''' we ate &lt;br&gt;
+'''comíais:''' you ate&lt;br&gt;
+'''comían:''' they, you (formal) ate &lt;br&gt;
+
+==Irregular verbs==
+There are only three.
+
+'''Ser''' (to be)
+
+'''era:''' I was &lt;br&gt;
+'''eras:''' you were &lt;br&gt;
+'''era:''' he, she, it was, you were &lt;br&gt;
+'''éramos:''' we were &lt;br&gt;
+'''erais:''' you were &lt;br&gt;
+'''eran:''' they were &lt;br&gt;
+
+Notice the accent in the &quot;nosotros&quot; form of &quot;ser&quot; and &quot;ir.&quot;
+
+'''Ir''' (to go)
+
+'''iba:''' I used to go&lt;br&gt;
+'''ibas:''' you used to go &lt;br&gt;
+'''iba:''' he, she, it, you used to go &lt;br&gt;
+'''íbamos:''' we used to go &lt;br&gt;
+'''ibais:''' you used to go &lt;br&gt;
+'''iban:''' they used to go &lt;br&gt;
+
+'''Ver''' (to see)
+
+'''veía:''' I used to see&lt;br&gt;
+'''veías:''' you used to see &lt;br&gt;
+'''veía:''' he, she, it, you used to see &lt;br&gt;
+'''veíamos:''' we used to see&lt;br&gt;
+'''veíais:''' you used to see&lt;br&gt;
+'''veían:''' they used to see &lt;br&gt;
+
+
+That's it!  Those are '''all''' the irregulars.
+
+[[Category:Spanish]]</text>
+      <sha1>tt6i9j1zwmi583ghi8y7jx39loyfugx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Spanish/Preterite</title>
+    <ns>0</ns>
+    <id>3715</id>
+    <revision>
+      <id>1252658</id>
+      <parentid>1252651</parentid>
+      <timestamp>2008-08-16T02:30:30Z</timestamp>
+      <contributor>
+        <ip>76.115.109.244</ip>
+      </contributor>
+      <comment>/* Conjugate irregular verbs in the preterite */</comment>
+      <text xml:space="preserve">[[../Verbs/]]
+----
+The preterite verb form describes past actions that have begun or completed.  The preterite sets something in the past as an event, with a beginning and an end.  Spanish has another past tense form, the [[../Imperfect|imperfect]], that is used for past actions that are continuing, or for which its beginning or its end is not important.
+
+==Conjugate regular verbs in the preterite==
+'''-AR verbs'''
+
+Eliminate the &quot;-ar&quot; and replace it with one of the following endings:
+
+-é &lt;br&gt; 
+-aste &lt;br&gt; 
+-ó &lt;br&gt; 
+-amos &lt;br&gt; 
+-asteis&lt;br&gt;
+-aron &lt;br&gt; 
+
+Patinar (to skate) becomes:
+
+'''patiné:''' I skated &lt;br&gt;
+'''patinaste:''' you skated &lt;br&gt;
+'''patinó:''' he skated &lt;br&gt;
+'''patinamos:''' we skated &lt;br&gt;
+'''patinasteis:''' you skated&lt;br&gt;
+'''patinaron:''' they skated &lt;br&gt;
+
+Notice that the &quot;nosotros&quot; form conjugates the same as it does in the present tense. This can cause confusion so look for context tools to make sure you have the right tense.
+
+'''-ER and -IR verbs'''
+
+Eliminate the &quot;-er&quot; or &quot;-ir&quot; and replace it with one of the following endings:
+
+-í &lt;br&gt;
+-iste &lt;br&gt;
+-ió &lt;br&gt; 
+-imos &lt;br&gt; 
+-isteis&lt;br&gt;
+-ieron &lt;br&gt; 
+
+Vender (to sell) becomes:
+
+'''vendí:''' I sold &lt;br&gt;
+'''vendiste:''' you sold &lt;br&gt;
+'''vendió:''' he sold &lt;br&gt;
+'''vendimos:''' we sold &lt;br&gt;
+'''vendisteis:''' you sold &lt;br&gt;
+'''vendieron:''' they sold &lt;br&gt;
+
+==Conjugate irregular verbs in the preterite==
+There are 2 types of irregular verbs in the preterite tense. We will start with the more regular of the 2.&lt;br&gt;&lt;br&gt;
+The endings of these irregulars are all the same, which is why I am referring to them as more regular. The endings are:&lt;br&gt;
+-e&lt;br&gt;
+-iste&lt;br&gt;
+-o&lt;br&gt;
+-imos&lt;br&gt;
+-isteis&lt;br&gt;
+-ieron&lt;br&gt;
+&lt;br&gt;
+The stems of these verbs also change as follows:&lt;br&gt;
+estar --&gt; estuv&lt;br&gt;
+andar --&gt; anduv&lt;br&gt;
+tener --&gt; tuv&lt;br&gt;
+poder --&gt; pud&lt;br&gt;
+poner --&gt; pus&lt;br&gt;
+saber --&gt; sup&lt;br&gt;
+caber --&gt; cup&lt;br&gt;
+hacer --&gt; hic (exception: 'hi'''z'''o')&lt;br&gt; 
+venir --&gt; vin&lt;br&gt;
+querer --&gt; quis&lt;br&gt;
+decir --&gt; dij&lt;br&gt;
+traer --&gt; traj&lt;br&gt;
+and any verb that ends in -ducir --&gt; -duj&lt;br&gt;
+  Note that for stems ending in '''j''' the ending 'ieron' is shortened to 'eron'&lt;br&gt;&lt;br&gt;
+The more irregular verbs conjugate as follows:&lt;br&gt;
+'''&quot;Ir&quot; and &quot;Ser&quot;'''&lt;br&gt;
+fui&lt;br&gt;
+fuiste&lt;br&gt;
+fue&lt;br&gt;
+fuimos&lt;br&gt;
+fuisteis&lt;br&gt;
+fueron&lt;br&gt;&lt;br&gt;
+
+'''&quot;Dar&quot;'''&lt;br&gt;
+di&lt;br&gt;
+diste&lt;br&gt;
+dio&lt;br&gt;
+dimos&lt;br&gt;
+disteis&lt;br&gt;
+dieron&lt;br&gt;&lt;br&gt;
+
+'''&quot;Haber&quot;'''&lt;br&gt;
+hube&lt;br&gt;
+hubiste&lt;br&gt;
+hubo&lt;br&gt;
+hubimos&lt;br&gt;
+hubisteis&lt;br&gt;
+hubieron&lt;br&gt;&lt;br&gt;
+
+'''&quot;Reír&quot;'''&lt;br&gt;
+reí&lt;br&gt;
+reíste&lt;br&gt;
+rió&lt;br&gt;
+reímos&lt;br&gt;
+reísteis&lt;br&gt;
+rieron&lt;br&gt;&lt;br&gt;
+
+'''&quot;Leer&quot;''' (similarly Creer)&lt;br&gt;
+leí&lt;br&gt;
+leíste&lt;br&gt;
+leyó&lt;br&gt;
+leímos&lt;br&gt;
+leísteis&lt;br&gt;
+leyeron&lt;br&gt;
+
+
+'''&quot;Dormir&quot;''' (similarly Morir)&lt;br&gt;
+dormí&lt;br&gt;
+dormiste&lt;br&gt;
+&lt;u&gt;durm&lt;/u&gt;ió&lt;br&gt;
+dormimos&lt;br&gt;
+dormisteis&lt;br&gt;
+&lt;u&gt;durm&lt;/u&gt;ieron&lt;br&gt;&lt;br&gt;
+
+'''&quot;Ver&quot;'''&lt;br&gt;
+v&lt;u&gt;i&lt;/u&gt;&lt;br&gt;
+viste&lt;br&gt;
+v&lt;u&gt;io&lt;/u&gt;&lt;br&gt;
+vimos&lt;br&gt;
+visteis&lt;br&gt;
+vieron&lt;br&gt;
+
+[[Category:Spanish]]</text>
+      <sha1>okwiijy8fcmmbuu5898t0oxft0gqwso</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Spanish/Present Progressive</title>
+    <ns>0</ns>
+    <id>3716</id>
+    <revision>
+      <id>1724196</id>
+      <parentid>1395149</parentid>
+      <timestamp>2010-02-21T03:14:13Z</timestamp>
+      <contributor>
+        <ip>173.69.194.253</ip>
+      </contributor>
+      <comment>fuking =/= faking haha</comment>
+      <text xml:space="preserve">[[../Verbs/]]
+----
+&quot;He is running. They are dancing. I am liking ... &quot;
+
+The above are examples of the present progressive tense, which is used for continuous actions that are taking place right now. This tense works the same way in English and in Spanish.
+
+Take the verb &quot;to be&quot; (estar) and conjugate it in the [[../Present|present tense]], then add the [[../Present Participle|present participle]] on the tail end.
+
+''' Estoy caminando.''' '' I am walking.'' &lt;br&gt;
+''' Estamos jugando.''' '' We are playing.'' &lt;br&gt;
+''' Estas fingiendo.''' '' You are faking.'' &lt;br&gt;
+
+[[Category:Spanish]]</text>
+      <sha1>fgy2seoufzeh9737yt4oz1ct9msd3pl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Spanish/Present Participle</title>
+    <ns>0</ns>
+    <id>3717</id>
+    <revision>
+      <id>532446</id>
+      <parentid>435993</parentid>
+      <timestamp>2006-07-22T07:45:48Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">[[../Verbs/]]
+----
+Running, jumping, skiing, thinking, talking, ...
+
+Corriendo, brincando, esquiando, pensando, hablando ...
+
+The present participle is formed by taking off the last two letters of a Spanish verb (-ar, -er, or -ir) and replacing it with -ando (-ar verbs) or -iendo (-er and -ir verbs). 
+
+'''Estar''' &gt; '' estando'' &lt;br&gt;
+'''Comer''' &gt; '' comiendo'' &lt;br&gt;
+'''Ser''' &gt; '' siendo'' &lt;br&gt;
+'''Contar''' &gt; '' contando'' &lt;br&gt;
+
+The slightly irregular '''ir''' &gt; ''yendo''
+
+[[Category:Spanish]]</text>
+      <sha1>7tzddc89njlegcohws3ww80ljphwh4g</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Spanish/Past Participle</title>
+    <ns>0</ns>
+    <id>3718</id>
+    <revision>
+      <id>1310366</id>
+      <parentid>532440</parentid>
+      <timestamp>2008-10-18T02:43:08Z</timestamp>
+      <contributor>
+        <ip>98.28.157.40</ip>
+      </contributor>
+      <text xml:space="preserve">[[../Verbs/]]
+----
+Broken, thought, gone, ...
+
+Roto, pensado, ido, ...
+
+The past participle in Spanish is usually the same as the past tense. I thought, I had thought. But sometimes it is the same. I broke, I had broken. In English it is a different conjugation as a rule. 
+
+Take the -ar, -er, and -ir ending off of the [[../Infinitive|infinitive]] and replace it with '''-ado''' (-ar verbs) or '''-ido''' (-er and -ir verbs).
+
+==Regular conjugation examples==
+'''Pensar''' &gt;&gt; ''pensado''
+'''Comer''' &gt;&gt; ''comido''
+'''Venir''' &gt;&gt; ''venido''
+
+==Irregular conjugation examples==
+'''Romper''' &gt;&gt; ''roto''
+'''Morir''' &gt;&gt; ''muerto''
+
+[[Category:Spanish]]</text>
+      <sha1>t5r1b0udoowessnfg0q7txwcu8ym41u</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Spanish/Future</title>
+    <ns>0</ns>
+    <id>3719</id>
+    <revision>
+      <id>532404</id>
+      <parentid>436291</parentid>
+      <timestamp>2006-07-22T07:37:44Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">[[Spanish/Verbs]]
+----
+I will think, he will shout, you will die, ...
+
+Pensaré, gritará, morirás, ...
+
+— '' or '' —
+
+Voy a pensar, va a gritar, vas a morir, ...
+
+There are two ways to comminicate future events in Spanish. In the first one, add an ending to the unchanged [[../Infinitive|infinitive]] form of the verb. These same endings are used for all three types of verbs (-AR, -ER and -IR), which makes learning them easier:
+
+-é &lt;br&gt;
+-ás &lt;br&gt;
+-á &lt;br&gt;
+-emos &lt;br&gt;
+-án &lt;br&gt;
+
+'''Pensaré:''' ''I will think'' &lt;br&gt;
+'''Pensarás:''' ''you will think'' &lt;br&gt;
+'''Pensará:''' ''it will think'' &lt;br&gt;
+'''Pensaremos:''' ''we will think'' &lt;br&gt;
+'''Pensarán:''' ''they will think'' &lt;br&gt;
+
+'''Iré:''' ''I will go'' &lt;br&gt;
+'''Irás:''' ''you will go'' &lt;br&gt;
+'''Irá:''' ''she will go'' &lt;br&gt;
+'''Iremos:''' ''we will go'' &lt;br&gt;
+'''Irán:''' ''y'all will go'' &lt;br&gt;
+
+There are 12 verbs which change their infinitives before adding the ending, and they can be classified into 3 catigories:
+First, the &quot;drop 'e's&quot; are &quot;querer,&quot; &quot;poder,&quot; &quot;caber,&quot; &quot;haber,&quot; and &quot;saber.&quot; Each of these loses the 'e' before the final 'r' when forming the future tense. These can be remembered by the mnemonic &quot;'''Q'''uick '''P'''eople '''C'''an't '''H'''ave '''S'''ushi.&quot;
+Next, the &quot;add 'd's&quot; are &quot;venir,&quot; &quot;valer,&quot; &quot;salir,&quot; &quot;tener,&quot; and &quot;poner.&quot; For these, the 2nd to last letter of the infinitive is replaced with a 'd'. These can be remembered by the mnemonic &quot;'''V'''room '''V'''room, '''S'''aid '''T'''he '''P'''orsche.&quot;
+Finally, the verbs &quot;decir&quot; and &quot;hacer&quot; change their infinitives to &quot;dir&quot; and &quot;har&quot; respectively before adding the ending. These must simply be memorised.
+
+The alternate way to describe the future is to use the [[../Present|present tense]] of &quot;[[../Ir|ir]],&quot; followed by the infinitive of the action verb.
+
+'''Voy a saber:''' ''I am going to know'' &lt;br&gt;
+'''Vas a mentir:''' ''You are going to lie'' &lt;br&gt;
+'''Va a cazar:''' ''He/she is going to hunt'' &lt;br&gt;
+'''Vamos a contar:''' ''We are going to count'' &lt;br&gt;
+'''Van a poner:''' ''They are going to put'' &lt;br&gt;
+
+[[Category:Spanish]]</text>
+      <sha1>m2bpmyco5qllw5kk3s80z4cah2ut7sd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Tomz</title>
+    <ns>3</ns>
+    <id>3726</id>
+    <revision>
+      <id>155595</id>
+      <parentid>16196</parentid>
+      <timestamp>2004-02-23T02:07:18Z</timestamp>
+      <contributor>
+        <username>Yacht</username>
+        <id>367</id>
+      </contributor>
+      <comment>copyleft</comment>
+      <text xml:space="preserve">hai~
+----
+
+Hey, i am not sure if the text u copied here is copyleft? --[[User:Yacht|Yacht]] ([[User talk:Yacht|talk]])[[Queer|Q]] 02:07, 23 Feb 2004 (UTC)</text>
+      <sha1>5oebw8ssf8l5gf8ago6c6r95p8bj557</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Bicycles/Penetrating oil</title>
+    <ns>0</ns>
+    <id>3727</id>
+    <revision>
+      <id>489004</id>
+      <parentid>430761</parentid>
+      <timestamp>2006-06-17T08:54:05Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">&lt;b&gt;Penetrating oil&lt;/b&gt; is useful for removing rust from parts and displacing water. It is more solvent than lubricant and should not be used as a substitute for lubricating oil where lubricating qualities are needed.
+
+[[Category:Bicycles]]</text>
+      <sha1>3khfqadd75jv4rbfmn73mr5ccsbr57t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Kokiri</title>
+    <ns>2</ns>
+    <id>3733</id>
+    <revision>
+      <id>155601</id>
+      <timestamp>2004-01-10T17:28:29Z</timestamp>
+      <contributor>
+        <username>Kokiri</username>
+        <id>437</id>
+      </contributor>
+      <text xml:space="preserve">Hi there, I'm Kokiri. I also contribute to Wikipedia.</text>
+      <sha1>tngmgwq99rla8lt9ysraeo6yjpv8ywh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Introductory Physics fig 5.2.png</title>
+    <ns>6</ns>
+    <id>3734</id>
+    <revision>
+      <id>1526410</id>
+      <parentid>904399</parentid>
+      <timestamp>2009-06-09T23:53:14Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>+category</comment>
+      <text xml:space="preserve">Resolution of a four-vector into components in two different reference frames.
+
+==Licensing==
+{{GFDL}}
+
+[[Category:Special Relativity]]</text>
+      <sha1>m3gn76y5gj2nh9473mjndcojkvkvos4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

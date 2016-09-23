@@ -1,0 +1,900 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>General Biology/Gallery of Biologists/Charles Darwin</title>
+    <ns>0</ns>
+    <id>624</id>
+    <revision>
+      <id>1800826</id>
+      <parentid>961091</parentid>
+      <timestamp>2010-05-21T21:37:18Z</timestamp>
+      <contributor>
+        <username>Swift</username>
+        <id>33592</id>
+      </contributor>
+      <comment>Fixed link</comment>
+      <text xml:space="preserve">[[Gallery of Biologists]]
+----
+[[w:Charles Darwin|Charles Darwin]] ([[1809]] - [[1882]]), British naturalist, founder of the [[w:Evolution|Theory of Evolution]] by means of [[w:natural selection|natural selection]].
+
+''Note: Darwin's books should be read with a historical mindset, as they do not always reflect current scientific opinion (though impressively, they often do). Scientifically speaking, the knowledge held in his books should be supplemented with other books on the [[Wikibooks:biology bookshelf|biology bookshelf]] section (or see: [[w:Biology]] and [[w:Evolution]]).''  
+
+==Links== 
+
+Texts Online:
+*[http://www.archive.org/texts/textslisting-browse.php?collection=gutenberg&amp;cat=Authors%3A%20D%3A%20Darwin%2C%20Charles%2C%201809-1882 Darwin on the Web Archive]
+*[http://www.gutenberg.org/catalog/ ibiblio library listed by author]
+(both of the above are Project Gutenberg mirrors.)
+
+# [http://paradigm.soci.brocku.ca/~lward/Darwin/darwin00.html ''Expression of Emotions in Man and Animals'']
+# [http://digital.library.upenn.edu/webbin/gutbook/lookup?num=2010 ''Life and Letters of Charles Darwin'']
+# [http://www.infidels.org/library/historical/charles_darwin/descent_of_man/ ''Descent of Man'']
+# [http://digital.library.upenn.edu/webbin/gutbook/lookup?num=2355 ''Formation of Vegetable Mould Through the Action of Worms'']
+# [http://digital.library.upenn.edu/webbin/gutbook/lookup?num=3620 ''Geological Observations of South America'']
+# [http://digital.library.upenn.edu/webbin/gutbook/lookup?num=3054 ''Geological Observations of Volcanic Islands'']
+# [http://digital.library.upenn.edu/webbin/gutbook/lookup?num=2485 ''Movement and Habits of Climbing Plants'']
+# [http://digital.library.upenn.edu/webbin/gutbook/lookup?num=2690 ''Structure and Distribution of Coral Reefs'']
+# [http://www.esp.org/books/darwin/variation/facsimile/title3.html ''Variation of Plants and Animals Under Domestication'']
+# [http://www.infidels.org/library/historical/charles_darwin/voyage_of_beagle/ ''Voyage of the Beagle'']
+# [http://digital.library.upenn.edu/webbin/gutbook/lookup?num=2010 ''Autobiography of Charles Darwin'']
+
+{{BookCat}}</text>
+      <sha1>jicbrdb2t6un6czr2e2mnprrhucpu1v</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CACS/Glossary/ACWP</title>
+    <ns>0</ns>
+    <id>627</id>
+    <revision>
+      <id>1493467</id>
+      <parentid>1493402</parentid>
+      <timestamp>2009-05-07T18:09:05Z</timestamp>
+      <contributor>
+        <username>Darklama</username>
+        <id>7662</id>
+      </contributor>
+      <minor />
+      <comment>recat</comment>
+      <text xml:space="preserve">'''Actual Cost of Work Performed (ACWP)''' &lt;small&gt;''(Project Management)''&lt;/small&gt; The total direct and indirect costs of accomplishing work completed to date. It usually refers either to a given time period or to a completed project phase, activity, or task. Some management techniques compare it to a budget to determine a ''variance'' or status. In other cases, when it is usually called ''earned value'', ACWP may be used to determine interim payments to a contractor.
+
+{{subjects|computing|technology}}</text>
+      <sha1>3u6my93cfbbvd5ovvd936bljnh7ginw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CACS/Glossary/GRE</title>
+    <ns>0</ns>
+    <id>628</id>
+    <revision>
+      <id>1508362</id>
+      <parentid>1493438</parentid>
+      <timestamp>2009-05-25T23:52:56Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>recat</comment>
+      <text xml:space="preserve">'''General Routing Encapsulation (GRE)''' &lt;small&gt;''(Internet)''&lt;/small&gt; A method or technique of adding an IP standard header and trailer to a message that does not follow ''IP protocols''.
+The encapsulated message is sent over a public network while received messages are stripped of the ''wrapper'' and processed.
+This permits non-standard data (from an application like ''Notes'' or ''AppleTalk'') and totally encrypted messages to use the Internet.
+The technology is an important element in ''Virtual Private Network'' (VPN) offerings.
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>8uiue67yffp0z0isn0h2nip4ziob870</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CACS/Glossary/MPLS</title>
+    <ns>0</ns>
+    <id>629</id>
+    <revision>
+      <id>2063600</id>
+      <parentid>1508365</parentid>
+      <timestamp>2011-03-04T18:08:41Z</timestamp>
+      <contributor>
+        <username>Avicennasis</username>
+        <id>314063</id>
+      </contributor>
+      <minor />
+      <comment>[[WP:AWB/T|Typo fixing]], typos fixed: Swiching → Switching using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">'''Multiprotocol Label Switching (MPLS)''' &lt;small&gt;''(Networking)''&lt;/small&gt; is a system of protocols that uses abbreviated routing information based on the devices and connections of a single ''Internet Service Provider (ISP)''.
+These abbreviated codes are then attached to an IP message to improve the speed and efficiency of internally routed messages.
+The protocols and their overall use are documented by the ''IETF'' in [http://www.ietf.org/rfc/rfc3031.txt RFC3031].
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>2jl0cyh7zgkn4xirzbk9g94oyrmofk4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CACS/Glossary/PKI</title>
+    <ns>0</ns>
+    <id>630</id>
+    <revision>
+      <id>1508366</id>
+      <parentid>1493446</parentid>
+      <timestamp>2009-05-25T23:55:14Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>recat</comment>
+      <text xml:space="preserve">'''Public Key Infrastructure (PKI)''' &lt;small&gt;''(Internet)''&lt;/small&gt; An evolving system of ''protocols'' that define the ''Digital Certificates'' and ''Certificate Authorities'' that identify and validate the parties in an ''electronic commerce'' transaction to each other.
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>h7la1j6upm96waptgy4ckjbfelgin2m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CACS/Glossary/Tunneling</title>
+    <ns>0</ns>
+    <id>631</id>
+    <revision>
+      <id>1508367</id>
+      <parentid>1493448</parentid>
+      <timestamp>2009-05-25T23:55:26Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>recat</comment>
+      <text xml:space="preserve">'''Tunneling''' &lt;small&gt;''(Networks, Software)''&lt;/small&gt; – a software process that uses ''General Routing Encapsulation (GRE)'' programs to send encrypted or incompatible messages over a network, usually the ''Internet''. The concept refers to the use of the internet by two nodes of a ''Virtual Private Network (VPN)'', and their treatment of the internet as a 'tunnel' for their messages.
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>cefkjgu29vj9n7uupc8dqtl4tm1dq8e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CACS/Glossary/VPN</title>
+    <ns>0</ns>
+    <id>632</id>
+    <revision>
+      <id>1648160</id>
+      <parentid>1508369</parentid>
+      <timestamp>2009-10-25T15:35:47Z</timestamp>
+      <contributor>
+        <username>CarsracBot</username>
+        <id>91784</id>
+      </contributor>
+      <minor />
+      <comment>robot Adding: [[pl:VPN - Wirtualne Sieci Prywatne]]</comment>
+      <text xml:space="preserve">'''Virtual Private Network (VPN)''' &lt;small&gt;''(Internet)''&lt;/small&gt; a service, usually offered by an ''ISP'', that uses various routing, encryption, and security technologies to allow the Internet to serve as the equivalent of a private or controlled network.
+This supports the connection of a corporate network with external elements for telecommuting or extended enterprise applications, or may entirely replace a proprietary network.
+
+'''VPN''' is also used to describe the collective software and methods used in the VPN service.
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]
+
+[[pl:VPN - Wirtualne Sieci Prywatne]]</text>
+      <sha1>d43tili6pdeodhkpswts2idurtz9e7l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CACS/Glossary/Adobe</title>
+    <ns>0</ns>
+    <id>633</id>
+    <revision>
+      <id>1493476</id>
+      <parentid>1493416</parentid>
+      <timestamp>2009-05-07T18:15:11Z</timestamp>
+      <contributor>
+        <username>Darklama</username>
+        <id>7662</id>
+      </contributor>
+      <minor />
+      <comment>recat</comment>
+      <text xml:space="preserve">'''Adobe Systems Inc.''' &lt;small&gt;''(Corporation)''&lt;/small&gt; A software vendor specializing in documents. Founded in 1982, their best known products are ''Pagemaker, Acrobat Reader,'' and ''Photoshop''. Located in San Jose, California, their web address is [http://www.adobe.com/main.html http://www.adobe.com/main.html].
+
+{{subjects|computing|technology}}</text>
+      <sha1>ktkuu29lpmpqf8rvvheismtzc1o16mx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CACS/Glossary/ADP</title>
+    <ns>0</ns>
+    <id>634</id>
+    <revision>
+      <id>1493468</id>
+      <parentid>1493404</parentid>
+      <timestamp>2009-05-07T18:09:43Z</timestamp>
+      <contributor>
+        <username>Darklama</username>
+        <id>7662</id>
+      </contributor>
+      <minor />
+      <comment>recat</comment>
+      <text xml:space="preserve">'''Automatic Data Processing (ADP)''' &lt;small&gt;''(Corporation)''&lt;/small&gt; a corporation, specializing in payroll and ''human resources'' business services and founded in 1949.
+As of 2002 they grossed over $15 billion, Headquartered in Roseland, NJ, their web address is [http://www.adp.com/corporate/index.shtml www.adp.com].
+----
+&lt;small&gt;''(Microsoft)''&lt;/small&gt; '''.ADP''' is also a file extension for an Access Database Project.
+
+{{subjects|computing|technology}}</text>
+      <sha1>oopylha2487plfxn1czmro59grolb5c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Discrete Mathematics/Functions and relations</title>
+    <ns>0</ns>
+    <id>635</id>
+    <revision>
+      <id>2704474</id>
+      <parentid>2695685</parentid>
+      <timestamp>2014-09-27T06:55:48Z</timestamp>
+      <contributor>
+        <ip>180.149.49.227</ip>
+      </contributor>
+      <text xml:space="preserve">This article examines the concepts of the ''function'' and the ''relation''.
+
+A '''''relation''''' is any association between elements of one set, called the '''''domain''''' or (less formally) the ''set of inputs'', and another set, called the '''''range''''' or ''set of outputs''.  Some people mistakenly refer to the range as the ''codomain''(range), but as we will see, that really means the ''set of all possible outputs''—even values that the relation does not actually use.  (Beware: some authors do not use the term ''codomain''(range), and use the term ''range'' instead for this purpose.  Those authors use the term '''''image''''' for what we are calling ''range''.  So while it '''is''' a mistake to refer to the ''range'' or ''image'' as the ''codomain''(range), it is '''not necessarily''' a mistake to refer to ''codomain'' as ''range''.)
+
+For example, if the ''domain'' is a set Fruits = {apples, oranges, bananas} and the ''codomain''(range) is a set Flavors = {sweetness, tartness, bitterness}, the flavors of these fruits form a relation: we might say that apples are related to (or associated with) '''both''' sweetness and tartness, while oranges are related to tartness only and bananas to sweetness only.  (We might disagree somewhat, but that is irrelevant to the topic of this book.)  Notice that &quot;bitterness&quot;, although it is one of the possible Flavors (codomain)(range), is not really used for any of these relationships; so it is not part of the ''range'' (or ''image'') {sweetness, tartness}.
+
+Another way of looking at this is to say that a relation is a ''subset of ordered pairs'' drawn from the ''set of all possible ordered pairs'' (of elements of two other sets, which we normally refer to as the ''Cartesian product'' of those sets).  Formally, R is a relation if
+
+: R ⊆ X × Y = {(x, y) | x ∈ X, y ∈ Y}
+
+for the domain X and codomain(range) Y.  The '''''inverse relation''''' of R, which is written as R&lt;sup&gt;-1&lt;/sup&gt;, is what we get when we interchange the X and Y values:
+
+: R&lt;sup&gt;-1&lt;/sup&gt; = {(y, x) | (x, y) ∈ R}
+
+Using the example above, we can write the relation in set notation: {(apples, sweetness), (apples, tartness), (oranges, tartness), (bananas, sweetness)}.  The inverse relation, which we could describe as &quot;fruits of a given flavor&quot;, is {(sweetness, apples), (sweetness, bananas), (tartness, apples), (tartness, oranges)}.  (Here, as elsewhere, the order of elements in a set has no significance.)
+
+One important kind of relation is the ''function''.  A '''''function''''' is a relation that has '''exactly one output''' for every possible input '''in the domain'''.  (The domain does not necessarily have to include all possible objects of a given type.  In fact, we sometimes intentionally use a ''restricted domain'' in order to satisfy some desirable property.)  The relations discussed above (flavors of fruits and fruits of a given flavor) are '''not''' functions: the first has two possible outputs for the input &quot;apples&quot; (sweetness and tartness); and the second has two outputs for both &quot;sweetness&quot; (apples and bananas) and &quot;tartness&quot; (apples and oranges).
+
+The main reason for not allowing multiple outputs with the same input is that it lets us apply the same function to different forms of the same thing without changing their equivalence.  That is, if f is a function with a (or b) in its domain, then a = b implies that f(a) = f(b).  For example, z - 3 = 5 implies that z = 8 because f(x) = x + 3 is a function defined for all numbers x.
+
+The converse, that f(a) = f(b) implies a = b, is not always true.  When it is, there is never more than one ''input'' x for a certain ''output'' y = f(x).  This is the same as the definition of function, but with the roles of X and Y interchanged; so it means the ''inverse relation'' f&lt;sup&gt;-1&lt;/sup&gt; '''must also''' be a function.  In general—regardless of whether or not the original relation was a function—the inverse relation will ''sometimes'' be a function, and sometimes not.
+
+When f and f&lt;sup&gt;-1&lt;/sup&gt; are both functions, they are called '''''one-to-one''''', '''''injective''''', or '''''invertible functions'''''.  This is one of two very important properties a function f might (or might not) have; the other property is called '''''onto''''' or '''''surjective''''', which means, for any y ∈ Y (in the codomain), there is some x ∈ X (in the domain) such that f(x) = y.  In other words, a ''surjective'' function f ''maps onto'' every possible output '''at least once'''.
+
+A function can be '''neither''' one-to-one nor onto, '''both''' one-to-one and onto (in which case it is also called '''''bijective''''' or a '''''one-to-one correspondence'''''), or just one and not the other.  (As an example which is neither, consider f = {(0,2), (1,2)}.  It is a function, since there is only one y value for each x value; but there is more than one input x for the output y = 2; and it clearly does not &quot;map onto&quot; all integers.)
+
+== Relations ==
+In the above section dealing with functions and their properties, we noted the important property that all functions must have, namely that if a function does map a value from its domain to its co-domain, it must map this value to only one value in the co-domain.
+
+Writing in set notation, if ''a'' is some fixed value:
+: |{f(x)|x=a}| ∈ {0, 1}
+
+The literal reading of this statement is: the ''cardinality'' (number of elements) of the set of all values f(x), such that x=a for some fixed value a, is an element of the set {0, 1}.  In other words, the number of ''outputs'' that a function f may have at any fixed ''input'' a is either zero (in which case it is ''undefined'' at that input) or one (in which case the output is unique).
+
+However, when we consider the ''relation'', we relax this constriction, and so a relation may map one value to more than one other value. In general, a relation is '''any''' subset of the Cartesian product of its domain and co-domain.
+
+All functions, then, can be considered as relations also.
+
+=== Notations === 
+When we have the property that one value is related to another, we call this relation a ''binary relation'' and we write it as
+: x R y
+where R is the relation.
+
+For arrow diagrams and set notations, remember for relations we do not have the restriction that functions do and we can draw an arrow to represent the mappings, and for a set diagram, we need only write all the ordered pairs that the relation does take: again, by example
+:f = {(0,0),(1,1),(1,-1),(2,2),(2,-2)} 
+is a relation and not a function, since both 1 and 2 are mapped to two values, 1 and -1, and 2 and -2 respectively)
+example let A=2,3,5;B=4,6,9 then
+A*B=(2,4),(2,6),(2,9),(3,4),(3,6),(3,9),(5,4),(5,6),(5,9)
+Define a relation R=(2,4),(2,6),(3,6),(3,9)
+add functions and problems to one another
+
+=== Some simple examples ===
+Let us examine some simple relations.
+
+Say f is defined by
+: {(0,0),(1,1),(2,2),(3,3),(1,2),(2,3),(3,1),(2,1),(3,2),(1,3)}
+
+This is a relation (not a function) since we can observe that 1 maps to 2 and 3, for instance.
+
+
+Less-than, &quot;&lt;&quot;, is a relation also. Many numbers can be less than some other fixed number, so it cannot be a function.
+
+=== Properties ===
+When we are looking at relations, we can observe some special properties different relations can have.
+
+==== Reflexive ====
+A relation is ''reflexive'' if, we observe that for all values a:
+: ''a'' R ''a''
+In other words, all values are related to themselves.
+
+The relation of equality, &quot;=&quot; is reflexive. Observe that for, say, all numbers a (the domain is '''R'''):
+: ''a'' = ''a''
+so &quot;=&quot; is reflexive.
+
+In a reflexive relation, we have arrows for all values in the domain pointing back to themselves:
+:[[Image:Arrow diagram reflexive.png]]
+
+Note that ≤ is also reflexive (a ≤ a for any a in '''R'''). On the other hand, the relation &lt; is not (a &lt; a is false for any a in '''R''').
+
+==== Symmetric ====
+A relation is ''symmetric'' if, we observe that for all values of a and b:
+: ''a'' R ''b'' implies ''b'' R ''a''
+
+The relation of equality again is symmetric. If ''x''=''y'', we can also write that ''y''=''x'' also.
+
+In a symmetric relation, for each arrow we have also an opposite arrow, i.e. there is either no arrow between ''x'' and ''y'', or an arrow points from ''x'' to  ''y'' and an arrow back from ''y'' to ''x'':
+:[[Image:Arrow diagram symmetric.png]]
+
+Neither ≤ nor &lt; is symmetric (2 ≤ 3 and 2 &lt; 3  but neither 3 ≤ 2 nor 3 &lt; 2 is true).
+
+==== Transitive ====
+A relation is ''transitive'' if for all values ''a'', ''b'', ''c'':
+: ''a'' R ''b'' and ''b'' R ''c'' implies ''a'' R ''c''
+
+The relation ''greater-than'' &quot;&gt;&quot; is transitive. If ''x'' &gt; ''y'', and ''y'' &gt; ''z'', then it is true that ''x'' &gt; ''z''. This becomes clearer when we write down what is happening into words. ''x'' is greater than ''y'' and ''y'' is greater than ''z''. So ''x'' is greater than both ''y'' and ''z''.
+
+The relation ''is-not-equal'' &quot;≠&quot; is not transitive. If ''x'' ≠ ''y'' and ''y'' ≠ ''z'' then we might have ''x'' = ''z'' or ''x'' ≠ ''z'' (for example 1 ≠ 2 and 2 ≠ 3 and 1 ≠ 3 but 0 ≠ 1 and 1 ≠ 0 and 0 = 0). 
+
+In the arrow diagram, every arrow between two values ''a'' and ''b'', and ''b'' and ''c'', has an arrow going straight from ''a'' to ''c''.
+:[[Image:Arrow diagram transitive.png]]
+
+==== Antisymmetric ====
+A relation is ''antisymmetric'' if we observe that for all values ''a'' and ''b'':
+: ''a'' R ''b'' and ''b'' R ''a'' implies that ''a''=''b''
+'''Notice that antisymmetric is not the same as &quot;not symmetric.&quot;'''
+
+Take the relation ''greater than or equal to'', &quot;&amp;ge;&quot;
+If ''x'' &amp;ge; ''y'', and ''y'' &amp;ge; x, then ''y'' must be equal to ''x''.
+a relation is anti-symmetric if and only if a∈A, (a,a)∈R
+
+==== Trichotomy ====
+A relation satisfies ''trichotomy'' if we observe that for all values ''a'' and ''b'' it holds true that:
+''a''R''b'' ''or'' ''b''R''a''
+
+The relation ''is-greater-or-equal'' satisfies since, given 2 real numbers ''a'' and ''b'', it is true that whether ''a'' ≥ ''b'' or ''b'' ≥ ''a'' (both if ''a'' = ''b'').
+
+==== Problem set ==== 
+Given the above information, determine which relations are reflexive, transitive, symmetric, or antisymmetric on the following - there may be more than one characteristic. (Answers follow.)
+''x'' R ''y'' if 
+# x = y
+# x &lt; y
+# x&lt;sup&gt;2&lt;/sup&gt; = y&lt;sup&gt;2&lt;/sup&gt;
+# x &amp;le; y
+
+===== Answers =====
+#Symmetric, Reflexive,and Antisymmetric
+#Transitive, Antisymmetric
+#Symmetric, Reflexive, and Antisymmetric (x&lt;sup&gt;2&lt;/sup&gt; = y&lt;sup&gt;2&lt;/sup&gt; is just a special case of equality, so all properties that apply to x = y also apply to this case)
+#Reflexive, and Antisymmetric (and satisfying Trichotomy)
+
+=== Equivalence relations ===
+We have seen that certain common relations such as &quot;=&quot;, and congruence (which we will deal with in the next section) obey some of these rules above. The relations we will deal with are very important in discrete mathematics, and are known as ''equivalence relations''. They essentially assert some kind of equality notion, or ''equivalence'', hence the name.
+
+==== Characteristics of equivalence relations ====
+For a relation R to be an ''equivalence relation'', it must have the following properties, viz. R must be:
+* symmetric
+* transitive
+* reflexive
+(A helpful mnemonic, S-T-R)
+
+In the previous problem set you have shown equality, &quot;=&quot;, to be reflexive, symmetric, and transitive. So &quot;=&quot; is an equivalence relation.
+
+We denote an equivalence relation, in general, by &lt;math&gt;x \sim y&lt;/math&gt;.
+
+==== Example proof ====
+Say we are asked to prove that &quot;=&quot; is an equivalence relation.
+We then proceed to prove each property above in turn (Often, the proof of transitivity is the hardest).
+
+* '''Reflexive''': Clearly, it is true that ''a'' = ''a'' for all values a.  Therefore, = is reflexive.
+* '''Symmetric''': If ''a'' = ''b'', it is also true that ''b'' = ''a''.  Therefore, = is symmetric
+* '''Transitive''':  If ''a'' = ''b'' and ''b'' = ''c'', this says that ''a'' is the same as ''b'' which in turn is the same as ''c''. So ''a'' is then the same as ''c'', so ''a''  = ''c'', and thus = is transitive.
+
+Thus = is an equivalence relation.
+
+==== Partitions and equivalence classes ====
+It is true that when we are dealing with relations, we may find that many values are related to one fixed value. 
+
+For example, when we look at the quality of ''congruence'', which is that given some number ''a'', a number congruent to ''a'' is one that has the same remainder or ''modulus'' when divided by some number ''n'', as ''a'', which we write
+:a &amp;equiv; b (mod n)
+and is the same as writing
+:''b'' = ''a''+''kn'' for some integer k.
+(We will look into congruences in further detail later, but a simple examination or understanding of this idea will be interesting in its application to equivalence relations)
+
+For example, 2 &amp;equiv; 0 (mod 2), since the remainder on dividing 2 by 2 is in fact 0, as is the remainder on dividing 0 by 2.
+
+We can show that congruence is an equivalence relation (This is left as an exercise, below '''Hint''' use the equivalent form of congruence as described above).
+
+However, what is more interesting is that we can group all numbers that are equivalent to each other. 
+
+With the relation congruence ''modulo'' 2 (which is using n=2, as above), or more formally:
+: x ~ y if and only if x &amp;equiv; y (mod 2)
+we can group all numbers that are equivalent to each other. Observe:
+: &lt;math&gt;0 \equiv 2 \equiv 4 \equiv \ldots \pmod{2}&lt;/math&gt;
+: &lt;math&gt;1 \equiv 3 \equiv 5 \equiv \ldots \pmod{2}&lt;/math&gt;
+This first equation above tells us all the ''even'' numbers are equivalent to each other under ~, and all the ''odd'' numbers under ~.
+
+We can write this in set notation. However, we have a special notation.
+We write:
+:[0]={0,2,4,...}
+:[1]={1,3,5,...}
+
+and we call these two sets ''equivalence classes''.
+
+All elements in an equivalence class by definition are equivalent to each other, and thus note that we do not need to include [2], since 2 ~ 0.
+
+We call the act of doing this 'grouping' with respect to some equivalence relation ''partitioning'' (or further and explicitly ''partitioning a set S into equivalence classes under a relation ~''). Above, we have partitioned '''Z''' into equivalence classes [0] and [1], under the relation of congruence modulo 2.
+
+==== Problem set ====
+Given the above, answer the following questions on equivalence relations (Answers follow to even numbered questions)
+# Prove that congruence is an equivalence relation as before (See hint above).
+# Partition {x | 1 &amp;le; x &amp;le; 9} into equivalence classes under the equivalence relation 
+&lt;math&gt; x \sim y\ \mbox{iff}\ x \equiv y \pmod{6}&lt;/math&gt;
+
+===== Answers =====
+2. [0]={6}, [1]={1,7}, [2]={2,8}, [3]={3,9}, [4]={4}, [5]={5}
+
+=== Partial orders ===
+We also see that &quot;&amp;ge;&quot; and &quot;&amp;le;&quot; obey some of the rules above. Are these special kinds of relations too, like equivalence relations? Yes, in fact, these relations are specific examples of another special kind of relation which we will describe in this section: the ''partial order''.
+
+As the name suggests, this relation gives some kind of ordering to numbers.
+
+==== Characteristics of partial orders ====
+For a relation R to be a partial order, it must have the following three properties, viz R must be:
+* reflexive
+* antisymmetric
+* transitive
+(A helpful mnemonic, R-A-T)
+
+We denote a partial order, in general, by &lt;math&gt;x \preceq y&lt;/math&gt;.
+
+'''Question:'''
+# Suppose R is a relation on a set of integers Z then prove that R is a partial order relation on Z iff a=b raise to power r.
+
+==== Example proof ====
+Say we are asked to prove that &quot;&amp;le;&quot; is a partial order.
+We then proceed to prove each property above in turn (Often, the proof of transitivity is the hardest).
+
+===== Reflexive =====
+Clearly, it is true that ''a'' &amp;le; ''a'' for all values a.
+So &amp;le; is reflexive.
+
+===== Antisymmetric =====
+If ''a'' &amp;le; ''b'', and ''b'' &amp;le; ''a'', then a ''must'' be equal to ''b''.
+So &amp;le; is antisymmetric
+
+===== Transitive =====
+If ''a'' &amp;le; ''b'' and ''b'' &amp;le; ''c'', this says that ''a'' is less than ''b'' and ''c''. So ''a'' is less than ''c'', so ''a'' &amp;le; ''c'', and thus &amp;le; is transitive.
+
+Thus &amp;le; is a partial order.
+
+==== Problem set ====
+Given the above on partial orders, answer the following questions
+# Prove that divisibility, |, is a partial order (a | b means that a is a factor of b, i.e., on dividing b by a, no remainder results).
+#  Prove the following set is a partial order: (''a'', ''b'') &lt;math&gt;\preceq&lt;/math&gt; (''c'', ''d'') implies ''ab''&amp;le;''cd'' for ''a'',''b'',''c'',''d'' integers ranging from 0 to 5. 
+
+===== Answers =====
+2. Simple proof; Formalization of the proof is an optional exercise.
+:Reflexivity: (''a'', ''b'') &lt;math&gt;\preceq&lt;/math&gt; (''a'', ''b'') since ''ab''=''ab''. 
+:Antisymmetric: (''a'', ''b'') &lt;math&gt;\preceq&lt;/math&gt; (''c'', ''d'') and (''c'', ''d'') &lt;math&gt;\preceq&lt;/math&gt; (''a'', ''b'') since ''ab''&amp;le;''cd'' and ''cd''&amp;le;''ab'' imply ''ab''=''cd''. 
+:Transitive: (''a'', ''b'') &lt;math&gt;\preceq&lt;/math&gt; (''c'', ''d'') and (''c'', ''d'') &lt;math&gt;\preceq&lt;/math&gt; (''e'', ''f'') implies (''a'', ''b'') &lt;math&gt;\preceq&lt;/math&gt; (''e'', ''f'') since ''ab''&amp;le;''cd''&amp;le;''ef'' and thus ''ab''&amp;le;''ef''
+
+==== Posets ====
+A partial order imparts some kind of &quot;ordering&quot; amongst elements of a set. For example, we only know that 2 &amp;ge; 1 because of the partial ordering &amp;ge;.
+
+We call a set A, ordered under a general partial ordering &lt;math&gt;\preceq&lt;/math&gt;, a ''partially ordered set'', or simply just ''poset'', and write it (A, &lt;math&gt;\preceq&lt;/math&gt;).
+
+===== Terminology =====
+There is some specific terminology that will help us understand and visualize the partial orders. 
+
+When we have a partial order &lt;math&gt;\preceq&lt;/math&gt;, such that ''a'' &lt;math&gt;\preceq&lt;/math&gt; ''b'', we write &lt;math&gt;\prec&lt;/math&gt; to say that a &lt;math&gt;\preceq&lt;/math&gt; but ''a'' &amp;ne; ''b''. We say in this instance that a ''precedes'' b, or ''a'' is a predecessor of ''b''.
+
+If (A, &lt;math&gt;\preceq&lt;/math&gt;) is a poset, we say that ''a'' is an immediate predecessor of ''b'' (or ''a'' immediately precedes ''b'') if there is no ''x'' in A such that ''a'' &lt;math&gt;\prec&lt;/math&gt; ''x'' &lt;math&gt;\prec&lt;/math&gt; ''b''.
+
+If we have the same poset, and we also have ''a'' and ''b'' in A, then we say ''a'' and ''b'' are ''comparable'' if ''a'' &lt;math&gt;\preceq&lt;/math&gt; ''b'' or ''b'' &lt;math&gt;\preceq&lt;/math&gt; ''a''. Otherwise they are ''incomparable''.
+
+==== Hasse diagrams ====
+''Hasse diagrams'' are special diagrams that enable us to visualize the structure of a partial ordering. They use some of the concepts in the previous section to draw the diagram.
+
+A Hasse diagram of the poset (A, &lt;math&gt;\preceq&lt;/math&gt;) is constructed by
+* placing elements of A as points
+* if ''a'' and ''b'' &amp;isin; A, and ''a'' is an immediate predecessor of b, we draw a line from ''a'' to ''b''
+* if ''a'' &lt;math&gt;\prec&lt;/math&gt; ''b'', put the point for ''a'' lower than the point for ''b''
+* not drawing loops from ''a'' to ''a'' (this is assumed in a partial order because of reflexivity)
+
+=== Operations on Relations ===
+
+There are some useful operations one can perform on relations, which allow to 
+express some of the above mentioned properties more briefly.
+
+==== Inversion ====
+Let R be a relation, then its inversion, R&lt;sup&gt;-1&lt;/sup&gt; is defined by
+
+R&lt;sup&gt;-1&lt;/sup&gt; := {(a,b) | (b,a) in R}.
+
+==== Concatenation ====
+Let R be a relation between the sets A and B, S be a relation between B and C. We can concatenate
+these relations by defining
+
+R &amp;bull; S := {(a,c) | (a,b) in R and (b,c) in S for some b out of B}
+
+==== Diagonal of a Set ====
+Let A be a set, then we define the diagonal (D) of A by
+
+D(A) := {(a,a) | a in A}
+
+==== Shorter Notations ====
+Using above definitions, one can say (lets assume R is a relation between A and B):
+
+R is ''transitive'' if and only if R &amp;bull; R is a subset of R.
+
+R is ''reflexive'' if and only if D(A) is a subset of R.
+
+R is ''symmetric'' if R&lt;sup&gt;-1&lt;/sup&gt; is a subset of R.
+
+R is ''antisymmetric'' if and only if the intersection of R and R&lt;sup&gt;-1&lt;/sup&gt; is D(A).
+
+R is ''asymmetric'' if and only if the intersection of D(A) and R is empty.
+
+R is a ''function'' if and only if R&lt;sup&gt;-1&lt;/sup&gt; &amp;bull; R is a subset of D(B).
+
+In this case it is a function A &amp;rarr; B.
+Let's assume R meets the condition of being a function, then
+
+R is ''injective'' if R &amp;bull; R&lt;sup&gt;-1&lt;/sup&gt; is a subset of D(A).
+
+R is ''surjective'' if {b | (a,b) in R} = B.
+
+== Functions ==
+A function is a relationship between two sets of numbers. We may think of this as a ''mapping''; a function ''maps'' a number in one set to a number in another set.  Notice that a function maps values to '''one and only one''' value. Two values in one set could map to one value, but one value '''must never''' map to two values: that would be a relation, ''not'' a function.
+
+{| align=&quot;right&quot;
+|-
+| [[Image:Allowed_mapping_for_a_function.png]]
+|}
+
+For example, if we write (define) a function as:
+: &lt;math&gt;f(x)=x^2&lt;/math&gt;
+then we say:
+:'f of x equals x squared'
+and we have
+: &lt;math&gt;f(-1)=1&lt;/math&gt;
+: &lt;math&gt;f(1)=1&lt;/math&gt;
+: &lt;math&gt;f(7)=49&lt;/math&gt;
+: &lt;math&gt;f(1/2)=1/4&lt;/math&gt;
+:&lt;math&gt;f(4)=16&lt;/math&gt;
+and so on.
+
+This function f maps numbers to their squares.
+
+=== Range, image, codomain ===
+If D is a set, we can say
+: &lt;math&gt;f(D) = \{f(x) |\ x \in D\}&lt;/math&gt;
+
+which forms a new set, called the ''range'' of f. D is called the ''domain'' of f, and represents all values that f takes. 
+
+In general, the range of f is usually a subset of a larger set. This set is known as the ''codomain'' of a function. For example, with the function f(''x'')=cos ''x'', the range of f is [-1,1], '''but''' the codomain is the set of real numbers.
+
+=== Notations ===
+When we have a function f, with domain D and range R, we write:
+:&lt;math&gt;f : D \longrightarrow R&lt;/math&gt;
+
+If we say that, for instance, ''x'' is mapped to ''x''&lt;sup&gt;2&lt;/sup&gt;, we also can add
+:&lt;math&gt;f : D \longrightarrow R;\ x \longmapsto x^2&lt;/math&gt;
+
+Notice that we can have a function that maps a point (''x'',''y'') to a real number, or some other function of two variables -- we have a set of ordered pairs as the domain. Recall from set theory that this is defined by the ''Cartesian product'' - if we wish to represent a set of all real-valued ordered pairs we can take the Cartesian product of the real numbers with itself to obtain
+:&lt;math&gt;\mathbb{R}\times\mathbb{R}=\mathbb{R}^2=\{(x,y)|\ x\ \mbox{and}\ y \in\mathbb{R}\}&lt;/math&gt;.
+When we have a set of ''n''-tuples as part of the domain, we say that the function is ''n''-ary (for numbers ''n''=1,2 we say unary, and binary respectively).
+=== Other function notation ===
+Functions can be written as above, but we can also write them in two other ways. One way is to use an arrow diagram to represent the mappings between each element. We write the elements from the domain on one side, and the elements from the range on the other, and we draw arrows to show that an element from the domain is mapped to the range.
+
+For example, for the function f(''x'')=''x''&lt;sup&gt;3&lt;/sup&gt;, the arrow diagram for the domain {1,2,3} would be:
+[[Image:Arrow diagram example.jpg]]
+
+Another way is to use set notation. If f(''x'')=''y'', we can write the function in terms of its mappings. This idea is best to show in an example.
+
+Let us take the domain D={1,2,3}, and f(''x'')=''x''&lt;sup&gt;2&lt;/sup&gt;. Then, the range of f will be R={f(1),f(2),f(3)}={1,4,9}. Taking the Cartesian product of D and R we obtain F={(1,1),(2,4),(3,9)}.
+
+So using set notation, a function can be expressed as the Cartesian product of its domain and range.
+ f(''x'')
+This function is called ''f'', and it takes a ''variable'' ''x''. We substitute some value for ''x'' to get the second value, which is what the function maps x to.
+
+===Types of functions===
+Functions can either be '''''one to one (injective), onto (surjective), or bijective'''''.
+ 
+''&lt;u&gt;'''INJECTIVE Functions'''&lt;/u&gt;'' are functions in which every element in the domain maps into a unique elements in the codomain.
+
+''&lt;u&gt;'''SURJECTIVE Functions'''&lt;/u&gt;'' are functions in which every elements in the codomain is mapped by an element in the domain.
+
+&lt;u&gt;''''''BIJECTIVE''' Functions&lt;/u&gt;''' are functions that are both injective and surjective.
+
+---onto functions '''&lt;/u&gt;''' a function f form A to B is onto ,
+Previous topic: [[../Functions and relations/]] | Contents:[[Discrete Mathematics]] | Next topic: [[../Number theory/]]
+
+{{BookCat}}</text>
+      <sha1>m00gsmx8ku8ito18yda4yond0w9mp7j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CACS/Glossary/Aldus</title>
+    <ns>0</ns>
+    <id>636</id>
+    <revision>
+      <id>1493477</id>
+      <parentid>1493418</parentid>
+      <timestamp>2009-05-07T18:15:54Z</timestamp>
+      <contributor>
+        <username>Darklama</username>
+        <id>7662</id>
+      </contributor>
+      <minor />
+      <comment>recat</comment>
+      <text xml:space="preserve">'''Aldus''' &lt;small&gt;''(Company)''&lt;/small&gt; a former software vendor, noted for the developement of ''Pagemaker'', which was sold to ''Adobe'' in 1994.
+
+{{subjects|computing|technology}}</text>
+      <sha1>qt4hwgc30rk4o35atvdfin4qfvj30w5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CACS/Glossary/ANI</title>
+    <ns>0</ns>
+    <id>637</id>
+    <revision>
+      <id>1493470</id>
+      <parentid>1493406</parentid>
+      <timestamp>2009-05-07T18:10:31Z</timestamp>
+      <contributor>
+        <username>Darklama</username>
+        <id>7662</id>
+      </contributor>
+      <minor />
+      <comment>recat</comment>
+      <text xml:space="preserve">'''Animated Cursor''' – &lt;small&gt;''(software graphics)''&lt;/small&gt; a feature that modifies the displayed ''cursor'' based on the state of the component the cursor is located in or the properties of a ''control'' that the cursor points to.
+State variation usually alters the cursor when a wait state exists.
+Property variation identifies controls or text that are accessible or available for end-user manipulation.
+
+&lt;small&gt;''(Microsoft Windows)''&lt;/small&gt; The ''file extension'' '''.ANI''' is used for the graphics and conditions that control the display.
+
+{{subjects|computing|technology}}</text>
+      <sha1>f77s50t35okyto9dx2m0gu7boyi123b</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CACS/Glossary/Apache</title>
+    <ns>0</ns>
+    <id>638</id>
+    <revision>
+      <id>1508353</id>
+      <parentid>1493420</parentid>
+      <timestamp>2009-05-25T23:50:18Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>recat</comment>
+      <text xml:space="preserve">'''Apache''' &lt;small&gt;''(Internet Software)''&lt;/small&gt; A free, open source Web Server ''HTTP'' processing software package from the ''Apache Software Foundation''. Apache runs on ''OS/2, NetWare, Unix,'' and ''Windows NT''. Version 2.0 dates from May 2002. The software source code may be downloaded from [http://httpd.apache.org/dist/httpd/ the Apache Website], which also contains [http://httpd.apache.org/docs-project/ Apache Documentation]. For Apache related questions or issues, you can search this large unofficial [http://www.nabble.com/Apache-f90.html Apache Forum] hosted by [http://www.nabble.com Nabble] which currently archives all the Apache projects' mailing lists for cross search and browsing. You can also post your question to the appropriate sub forum which will then forward your post to the corresponding Apache mailing list.
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>2g23vj22xpiaoi7c8nq5454mw3occb7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CACS/Glossary/ASF</title>
+    <ns>0</ns>
+    <id>639</id>
+    <revision>
+      <id>1493471</id>
+      <parentid>1493408</parentid>
+      <timestamp>2009-05-07T18:11:05Z</timestamp>
+      <contributor>
+        <username>Darklama</username>
+        <id>7662</id>
+      </contributor>
+      <minor />
+      <comment>recat</comment>
+      <text xml:space="preserve">'''Apache Software Foundation''' &lt;small&gt;''(Organization)''&lt;/small&gt; A collaborative non-profit working group dedicated to the education, development and delivery of open source web software.
+Its Web address is the [http://www.apache.org Apache Foundation].
+
+{{subjects|computing|technology}}</text>
+      <sha1>qwdbspoy8tbjq4m7kjr00uwzwy1p8ce</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CACS/Glossary/Application</title>
+    <ns>0</ns>
+    <id>640</id>
+    <revision>
+      <id>1508354</id>
+      <parentid>1493422</parentid>
+      <timestamp>2009-05-25T23:50:34Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>recat</comment>
+      <text xml:space="preserve">An '''Application''' is:
+# A bundle of computer software sold, installed, or considered as a whole.
+# &lt;small&gt;''(PC Programming)''&lt;/small&gt; A single program or suite of program modules that may be executed from the desktop.
+# &lt;small&gt;''(IDE)''&lt;/small&gt; An integrated and interrelated set of program modules developed as a whole.
+Typically, the application uses a single set of libraries and is considered a single project.
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>fjh1dqcbeimdponmazie8l2kizbg9ao</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CACS/Glossary/Assembler</title>
+    <ns>0</ns>
+    <id>641</id>
+    <revision>
+      <id>1508355</id>
+      <parentid>1493424</parentid>
+      <timestamp>2009-05-25T23:50:52Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>recat</comment>
+      <text xml:space="preserve">An '''Assembler''' is:
+# a software program that creates an ''executable module'' from assembly source language source code.
+# a software component that creates a machine level executable program module from an interim work product produced by a higher level compiler.
+# a shorthand reference for [[CACS:Glossary/ASML|''Assembly Language Code'']].
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>91wlgysdn3kejo0tlobqw4wekopshe1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CACS/Glossary/Assembly</title>
+    <ns>0</ns>
+    <id>642</id>
+    <revision>
+      <id>1508356</id>
+      <parentid>1493426</parentid>
+      <timestamp>2009-05-25T23:51:06Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>recat</comment>
+      <text xml:space="preserve">'''Assembly''' is the process of creating an executable module from assembly language source code.
+Sometimes assembly is used as a shorthand reference for ''Assembly Language Code''.
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>2z9lzncdwgst78edu2odd4ej9ovhs31</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CACS/Glossary/ASML</title>
+    <ns>0</ns>
+    <id>643</id>
+    <revision>
+      <id>1493472</id>
+      <parentid>1493410</parentid>
+      <timestamp>2009-05-07T18:11:50Z</timestamp>
+      <contributor>
+        <username>Darklama</username>
+        <id>7662</id>
+      </contributor>
+      <minor />
+      <comment>recat</comment>
+      <text xml:space="preserve">'''Assembly Language''' is the lowest level of symbolic ''progarmming language'' characterized by the use of a single ''statement'' for each machine ''instruction''.
+The language also permits the use of labels for routines, variables, and storage assignments.
+There is a different language for each computer ''CPU''.
+Some versions of Assembly Language support the use of ''Macro Instructions''.
+
+&lt;small&gt;''(PC Platforms)''&lt;/small&gt; Assembley Language source code is usually stored with a ''file extension'' of '''.ASM'''.
+
+{{subjects|computing|technology}}</text>
+      <sha1>stv1tsao60m9ba66gnsfymz0wly1y9r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:CACS/Glossary</title>
+    <ns>1</ns>
+    <id>644</id>
+    <revision>
+      <id>1493454</id>
+      <parentid>152783</parentid>
+      <timestamp>2009-05-07T18:02:16Z</timestamp>
+      <contributor>
+        <username>Darklama</username>
+        <id>7662</id>
+      </contributor>
+      <minor />
+      <comment>moved [[Talk:CACS:Glossary]] to [[Talk:CACS/Glossary]]:&amp;#32;per [[WB:NP]]</comment>
+      <text xml:space="preserve">This page may eventually need to be broken up to keep its size manageable.
+If this occurs, then it should have a set of pages that use the form: &lt;nowiki&gt;CACS:Glossary/A&lt;/nowiki&gt;.
+That page would get all the terms that start with A, and the index to individual terms would be moved.
+We should be able to do this without moving the individual pages (except maybe those like the ''C Programming Language'').</text>
+      <sha1>tdbfy8nzl1t8fa3rjodsz3g1fhfzy93</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Esperanto/Contents</title>
+    <ns>0</ns>
+    <id>646</id>
+    <revision>
+      <id>2619662</id>
+      <parentid>2619649</parentid>
+      <timestamp>2014-03-22T16:11:26Z</timestamp>
+      <contributor>
+        <username>Wikijeff</username>
+        <id>26228</id>
+      </contributor>
+      <comment>Added typesetting section</comment>
+      <text xml:space="preserve">The '''Wikibooks Esperanto Textbook''' is a collaborative project to create an online open-content textbook for [[en:Esperanto|Esperanto]], which we hope will become the definitive Esperanto textbook for English speakers.
+{{clear}}
+== Contents ==
+[[File:Esperanto_cover.jpg|400px|right]]
+*[[Esperanto/Introduction|An introduction to Esperanto]] {{stage short|100%|Aug 4, 2013}}
+*[[Esperanto/Quick and dirty guide| The quick-and-dirty guide to Esperanto]] {{stage short|100%|Aug 4, 2013}}
+
+=== Lessons ===
+#[[Esperanto/Introducing yourself|Introducing Yourself]] {{stage short|100%|19:35, 3 December 2011 (UTC)}} - Grammatical Introduction: nouns, adjectives, adverbs, personal and possessive pronouns, the present tense, direct and indirect objects
+#[[Esperanto/Traveling|Traveling]] {{stage short|75%|19:35, 3 December 2011 (UTC)}} - Verb conjugation for active verbs and the forms of all six participles
+#[[Esperanto/Recreational activities|Recreational Activities]] {{stage short|50%|Aug 4, 2013}} - Correlatives and participle synthesis
+#[[Esperanto/Family|Family]] {{stage short|50%|Aug 5, 2006}}
+#[[Esperanto/School|School]] {{stage short|50%|16:06, 4 December 2011 (UTC)}} - More complex verbs formed with participles
+#[[Esperanto/Word synthesis|Word Synthesis]] {{stage short|50%|Dec 13, 2005}}
+#[[Esperanto/Electronic Communication|Electronic Communication]] {{stage short|75%|June 07, 2012}} 
+#[[Esperanto/Typesetting_Esperanto_Texts|Typesetting Esperanto Texts]] {{stage short|25%|Mar 22, 2014}}
+
+===Appendices===
+*[[Esperanto/Appendix/Alphabet and pronunciation|Alphabet and pronunciation]] {{stage short|100%|Mar 16, 2005}}
+*[[Esperanto/Appendix/English-Esperanto word list (1889)|Original 1889 English-Esperanto word list]] {{stage short|50%|Mar 22, 2014}}
+*[[Esperanto/Appendix/English-Esperanto word list|English-Esperanto word list]] {{stage short|50%|Mar 11, 2010}}
+*[[Esperanto/Appendix/Esperanto-English word list|Esperanto-English word list]] {{stage short|100%|Feb 6, 2010}}
+*[[Esperanto/Appendix/Abbreviations|Abbreviations]] {{stage short|100%|Feb 16, 2010}}
+*[[Esperanto/Appendix/Summary of grammar|Summary of grammar]] {{stage short|100%|Feb 16, 2010}}
+*[[Esperanto/Appendix/Web resources|Web resources]] {{stage short|50%|Feb 16, 2010}}
+*[[Esperanto/Appendix/Table of correlatives|Table of correlatives]] {{stage short|100%|Feb 6, 2010}}
+*[[Esperanto/Appendix/Table of word endings|Table of word endings]] {{stage short|100%|Nov 05, 2005}}
+*[[Esperanto/Appendix/Table of affixes|Table of affixes]] {{stage short|100%|Nov 05, 2005}}
+*[[Esperanto/Appendix/False friends|False friends]] {{stage short|75%|Mar 2, 2006}}
+*[[Esperanto/Appendix/Slang|Slang]] {{stage short|25%|Feb 6, 2010}}
+*[[Esperanto/Appendix/Common phrases|Common phrases]] {{stage short|75%|March 2, 2008}}
+*[[Esperanto/Starting vocabulary list|Starting vocabulary list]] {{stage short|100%|Sep 1, 2010}}
+
+== About the book ==
+
+*[[Esperanto/Authors|Authors]] {{stage short|100%|Mar 16, 2005}}
+{{status|25%}}
+__NOTOC__ __NOEDITSECTION__
+
+{{BookCat}}</text>
+      <sha1>j9oihdltpgt4l07afx0u4283t4ofwbi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

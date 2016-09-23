@@ -1,0 +1,1013 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Talk:Puzzles/Logic puzzles/Hats/Solution</title>
+    <ns>1</ns>
+    <id>1667</id>
+    <revision>
+      <id>2695130</id>
+      <parentid>647561</parentid>
+      <timestamp>2014-08-27T14:58:12Z</timestamp>
+      <contributor>
+        <ip>103.8.41.205</ip>
+      </contributor>
+      <comment>/* More confusing */ new section</comment>
+      <text xml:space="preserve">yep, that's right, Cyp! [[User:ThomasStrohmann | Thomas]]
+
+&gt;&gt; Perhaps I'm missing something, but are we assuming that the man in the front is correct in his saying he's wearing a red hat?  He could be wrong.  What if he's wearing a blue hat?  Then the second man would be wearing red, and the third man any color. --[[User:Oncogene|Oncogene]] 12:21, 30 Jun 2005 (UTC)
+
+I think the posted solution was too complicated.  I replaced it with one I think is more transparent.  Please correct me if I'm wrong.  [[User:Dusik|Dusik]] 21:39, 17 August 2005 (UTC)
+
+== More confusing ==
+
+last man sees
+either 2 Reds or 1R+1B in both the cases he is not sure about its hats colour So he says dont know
+man position        red         blue    case
+3                    2           0        1
+3                    1           1        2
+case 1: second must see blue and confuse about its color
+case 2: second must see red  and confuse about its color
+
+so how can first  man determine its color??</text>
+      <sha1>nrnkpc8l34oqnyv77mjj3s2w7mjobfw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Logic puzzles/Three Knights</title>
+    <ns>0</ns>
+    <id>1668</id>
+    <revision>
+      <id>647588</id>
+      <parentid>647583</parentid>
+      <timestamp>2006-11-13T04:51:23Z</timestamp>
+      <contributor>
+        <username>Think Fast</username>
+        <id>10874</id>
+      </contributor>
+      <minor />
+      <comment>change links -&gt; naming convention</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Logic puzzles|Logic puzzles]] | Three Knights
+----
+
+A man was sentenced to death, but the king wanted to give him a last chance.  He asked the man to choose from
+one of the three knights that were there. One of the knights was the Knight of Life, and he always told the
+truth.  The second Knight was the Knight of Death, and he always told lies.  The third knight was the 
+Knight of the Dungeon.  He sometimes lied and sometimes told the truth.  If the man chose the 
+Knight of Death, he would be executed before sunset.  If he chose the Knight of Life, he would be 
+acquitted and set free right away.  If he chose the Knight of the Dungeon, he would spend the rest 
+of his life imprisoned in the Dungeon.  The man was allowed to ask the three knights one question each.  
+
+Thus, he asked the fat knight, &quot;What is the name of this tall knight?&quot;  The reply was, 
+&quot;He is the Knight of Life.&quot;  He asked the small knight, &quot;What is the name of this tall knight?&quot; 
+The reply was, &quot;He is the Knight of Death.&quot;  Then he asked the tall knight, &quot;Who are you?&quot; 
+&quot;I am the Knight of the Dungeon&quot; was the reply. After that, the man was able to correctly choose 
+the Knight of Life, and was set free immediately.  
+
+''Who is the Knight of Life, and who are the other two knights?''
+
+[[Puzzles/Logic puzzles/Three Knights/Solution|Solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>jy3xi6eaxzz8xsz2jfowbr4hxuhgb6c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Logic puzzles/Three Knights/Solution</title>
+    <ns>0</ns>
+    <id>1669</id>
+    <revision>
+      <id>2380497</id>
+      <parentid>647587</parentid>
+      <timestamp>2012-07-23T14:58:26Z</timestamp>
+      <contributor>
+        <ip>217.39.176.189</ip>
+      </contributor>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Logic puzzles|Logic puzzles]] | [[Puzzles/Logic puzzles/Three Knights|Three Knights]] | Solution
+----
+
+The small knight is the Knight of Life. The fat knight is the Knight of the Dungeon. The tall knight is the Knight of Death.
+
+== Reasoning ==
+The tall knight is not the Knight of the Dungeon, since if he were neither of the other knights could be the Knight of Life. Since he lied, he is not the Knight of Life. Therefore, the tall knight is the Knight of Death.  The small knight must then be the Knight of Life, leaving the fat knight as the Knight of the Dungeon.
+
+----
+Provided the fat knight tells the truth he can not be the Knight of Life as he is pointing out the tall knight as Knight of Life. The answer of the tall knight contradicts the answer of the fat knight. Therefore, the fat knight was lying. The tall knight can not be the Knight of Life, because he would have said so when directly asked, who he is. We can conclude that the small knight is the Knight of Life and he is pointing out the tall Knight as Knight of Death as he is always telling the truth. The last job positon left for the fat knight is the Knight of Dungeon.
+
+The convict can be happy that the tall knight did not answer: 'Yes, I am the Knight of Life'. In this context, it would have been possible and would have left our convict very unfortunate, because his chance to find the Knight of Life would have been reduced by 50%
+
+----
+A better tactic would be to ask each Knight: &quot;If I asked you who the Knight of Life was, whom might you identify?&quot; The Knight of Life would correctly identify himself. If asked &quot;Who is the Knight of Life?&quot; the Knight of Death would incorrectly identify either himself or the Knight of the Dungeon. Hence, when asked how he might respond, he would lie again, and state that he would have identified the correct Knight of Life (double negative). The Knight of the Dungeon is the unknown quantity, but when at least two Knights agree on someone, that is the correct identification.
+
+----
+Unfortunately not foolproof, as if he would have identified the Knight of the Dungeon for his first lie, he could then pick to instead identify the Knight of Death for his second lie.
+
+[[Category:Puzzles]]</text>
+      <sha1>1dhaj6wsjhxxamzwjgkdtgu9bwyxkb6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>US History/Introduction</title>
+    <ns>0</ns>
+    <id>1670</id>
+    <revision>
+      <id>2376310</id>
+      <parentid>1713913</parentid>
+      <timestamp>2012-07-11T16:20:52Z</timestamp>
+      <contributor>
+        <username>Planotse</username>
+        <id>640710</id>
+      </contributor>
+      <text xml:space="preserve">&lt;!-- Generated for the page, US History/Introduction, by Wikiversal version 1.12.72 on 7/11/2012. --&gt;
+__NOEDITSECTION__ __NOTOC__
+
+=== &lt;font size=1 color=dimgray&gt;Presentation&lt;/font&gt; ===
+&lt;table height=1 border=1 style=&quot;border-collapse:collapse; border-color:LightSkyBlue; background-color:AliceBlue;&quot; width=&quot;100%&quot;&gt;&lt;tr&gt;
+&lt;td align=left&gt;&lt;table width=&quot;100%&quot; align=left&gt;&lt;tr&gt;&lt;td&gt;[[File:Gohome.png|frameless||none||x40px|link=http://en.wikibooks.org/wiki/US_History#Presentation]]&lt;/td&gt;
+&lt;td nowrap&gt;&lt;font size=6 color=teal&gt;{{SUBPAGENAME}}&lt;/font&gt;&lt;/td&gt;
+&lt;td&gt;[[File:1rightarrow.png|frameless||none||x40px|link=http://en.wikibooks.org/wiki/US_History/Topic_List#Presentation||Topic List]]&lt;/td&gt;
+&lt;td&gt;[[File:2rightarrow.png|frameless||none||x40px|link=http://en.wikibooks.org/wiki/US_History/Topic_List#Presentation||List of Topics]]&lt;/td&gt;
+&lt;td width=&quot;99%&quot;&gt; &amp;nbsp; &lt;/td&gt;
+&lt;td&gt;&lt;td&gt;[[File:1rightarrow.png|frameless||none||x40px|link=http://en.wikibooks.org/wiki/US_History/Topic_List#Presentation||Topic List]]&lt;/td&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;!-- -- -- -- -- -- -- -- -- -- -- --&gt;
+&lt;table width=&quot;100%&quot; cellpadding=20&gt;&lt;tr&gt;&lt;td width=40&gt;&lt;td width=999&gt;&lt;p style=&quot;line-height:1.3;&quot;&gt;&lt;font size=6 color=&quot;seagreen&quot;&gt;&lt;b&gt;This is, to the best of our knowledge, the world's first open content US History Textbook.&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;/td&gt;&lt;td width=40&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;&amp;nbsp;&lt;p&gt;&amp;nbsp;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+== Content and Contributions ==
+
+This is, to the best of our knowledge, the world's first [[w:open content| open content]] '''US History Textbook'''. The users are invited to tweak and refine this book until there is nothing better available. The authors are confident that this will happen because of the success of the [http://www.wikipedia.org Wikipedia] site.
+
+
+{{chapnav|Preface|Pre-Columbian}}</text>
+      <sha1>9aw0drl8wso9y7tku10imineh4ys2j9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Spanish/Typing Spanish Characters</title>
+    <ns>1</ns>
+    <id>1671</id>
+    <revision>
+      <id>1867804</id>
+      <parentid>1865724</parentid>
+      <timestamp>2010-06-28T23:45:00Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>replaced: {{WikiProject Languages}} → {{WikiProject Languages|spanish=yes}}</comment>
+      <text xml:space="preserve">{{WikiProject Languages|spanish=yes}} 
+
+* I use Windows 98SE, and I've noticed that, instead of typing in Alt+a to get á, I have to type in ''Ctrl''+a. Is this version-specific? Internet Explorer users who have Microsoft Word 2000 installed can consult [[mk:@MSITStore:c:\Program%20Files\Microsoft%20Office\Office\1033\wdmain9.chm::/html/wohowTypeInternationalLetters.htm]]. -- [[User:Mxn|Minh Nguyen]] [[2003]]-[[October 18|09-18]] 22:15 (EDT)</text>
+      <sha1>kdtt2b9xsv9rup4e4uljbc5vlh02ilm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Python Programming</title>
+    <ns>0</ns>
+    <id>1672</id>
+    <revision>
+      <id>2715257</id>
+      <parentid>2691584</parentid>
+      <timestamp>2014-10-19T13:13:20Z</timestamp>
+      <contributor>
+        <username>Dirk Hünniger</username>
+        <id>343292</id>
+      </contributor>
+      <text xml:space="preserve">This book describes Python, an open-source general-purpose interpreted programming language.  Python has distributions available for Microsoft Windows, Apple Mac OS X, GNU/Linux, BSD, web browser environments (NCLab, Sage) and many other platforms.  There are currently three major implementations: the standard implementation written in C, Jython written in Java, and IronPython written in C# for the .NET environment. There are two common versions currently in use: 2.x and 3.x. This book describes primarily version 2, but does at times reference changes in version 3.  
+
+{{Book Search|prefix=Python Programming}}
+
+==Contents==
+===Intro===
+{{Print version}}
+{{PDF version}}
+{{E-Book Reader PDF version|Python_Programming_eBook_Reader.pdf}}
+{{LaTeXExport|https%3A%2F%2Fen.wikibooks.org%2Fwiki%2FPython_Programming%2FPrint_version}}
+:[[/Overview/]] {{stage short|75%|Aug 6, 2006}}
+:[[/Getting Python/]] {{stage short|75%|Aug 6, 2006}}
+:[[/Setting it up/]]{{stage short|25%|Feb 13, 2007}}
+:[[/Interactive mode/]] {{stage short|75%|Aug 6, 2006}}
+:[[/Self Help/]] {{stage short|25%|Dec 15, 2008}}
+
+===Basics===
+:[[/Creating Python programs/]] {{stage short|75%|Aug 6, 2006}}
+:[[/Variables and Strings/]] {{stage short|100%|Aug 7, 2007}}
+:[[/Basic syntax/]] {{stage short|75%|Aug 6, 2006}}
+:[[/Sequences/]] {{stage short|75%|Aug 10, 2010}} (Strings, Lists, Tuples, Dictionaries, Sets)
+:[[/Data types/]] {{stage short|75%|Aug 6, 2006}}
+::[[/Numbers/]] {{stage short|75%|Aug 6, 2006}}
+::[[/Strings/]] {{stage short|75%|Aug 6, 2006}}
+::[[/Lists/]] {{stage short|75%|Aug 6, 2006}}
+::[[/Tuples/]] {{stage short|75%|Aug 6, 2006}}
+::[[/Dictionaries/]] {{stage short|75%|Aug 6, 2006}}
+::[[/Sets/]] {{stage short|75%|Aug 6, 2006}}
+:[[/Basic Math/]] {{stage short|50%|Mar 19, 2007}} -- redundant to &quot;Operators&quot;
+:[[/Operators/]] {{stage short|75%|Aug 6, 2006}}
+:[[/Control Flow/]] {{stage short|75%|Aug 6, 2006}}
+:[[/Decision Control/]] {{stage short|100%|Dec 1, 2008}}
+::[[/Conditional Statements/]] {{stage short|100%|Dec 1, 2008}}
+::[[/Loops/]] {{stage short|50%|Mar 27, 2009}}
+:[[/Functions/]] {{stage short|75%|Aug 6, 2006}}
+:[[/Scoping/]] {{stage short|25%|Aug 6, 2006}}
+:[[/Input and output/]] {{stage short|75%|Aug 6, 2006}}
+:[[/Files/]] {{stage short|50%|Aug 6, 2006}}
+:[[/Text/]] {{stage short|00%|Aug 6, 2006}}
+:[[/Modules/]] {{stage short|75%|Aug 6, 2006}}
+:[[/Modules and how to use them/]] {{stage short|25%|Aug 6, 2006}}
+:[[/Classes/]] {{stage short|75%|Aug 6, 2006}}
+:[[/Exceptions/]] {{stage short|75%|Aug 6, 2006}}
+:[[/Errors/]] {{stage short|25%|Jul, 2008}}
+:[[/Source Documentation and Comments/]] {{stage short|25%|Mar 2, 2009}}
+:[[/Idioms/]] {{stage short|00%|Apr 11, 2014}}
+
+===Advanced===
+:[[/Decorators/]] {{stage short|25%|Dec 16, 2008}}
+:[[/Context Managers/]] {{stage short|50%|April 10, 2014}}
+:[[/Reflection/]] {{stage short|25%|April 10, 2014}}
+:[[/Metaclasses/]] {{stage short|75%|Aug 6, 2006}}
+:[[/Tips and Tricks/]] {{stage short|25%|Aug 6, 2006}}
+
+===Technical details===
+:[[/Namespace/]] {{stage short|00%|Aug 6, 2006}}
+
+===Modules===
+====Standard library modules====
+:[[/Standard Library/]] {{stage short|00%|Feb 10, 2009}}
+:[[/Regular Expression/]] {{stage short|75%|Aug 6, 2006}}
+:[[/XML Tools/]] {{stage short|25%|Aug 9, 2010}}
+:[[/Email/]] {{stage short|25%|Feb 21, 2009}}
+:[[/Threading/]] {{stage short|25%|Aug 6, 2006}}
+:[[/Sockets/]] {{stage short|25%|Aug 9, 2010}}
+:[[/GUI Programming/]] {{stage short|50%|Aug 9, 2010}}
+:[[/CGI interface/]] {{stage short|50%|Aug 15, 2014}}
+:[[/WSGI web programming/]] {{stage short|00%|Aug 6, 2006}}
+:[[/Web Page Harvesting|Extracting info from web pages]] {{stage short|00%|Aug 6, 2006}}
+:[[/Internet/]] {{stage short|75%|Feb 10, 2009}}
+:[[/Networks/]] {{stage short|00%|Aug 6, 2006}}
+
+====Third-party modules====
+:[[/Databases/]] -- to be merged with the following chapter
+:[[/Database Programming/]] {{stage short|25%|Aug 9, 2010}}
+:[[/numpy/]]
+:[[/Game Programming in Python/]] {{stage short|25%|Aug 6, 2006}}
+:[[/PyQt4|Qt4]] {{stage short|75%|Feb 10, 2009}}
+:[[/Dbus/]] {{stage short|00%|Jan 25, 2009}}
+:[[/pyFormex/]]
+:[[/matplotlib/]]
+:[[/nltk|Natural Language Toolkit]]
+:[[/Sorted Container Types/]]
+
+====Writing extension modules====
+:[[/Extending with C/]] {{stage short|50%|Aug 6, 2006}}
+:[[/Extending with C++/]] {{stage short|25%|Aug 6, 2006}}
+:[[/Extending with Pyrex/]] {{stage short|00%|Aug 9, 2010}}
+:[[/Extending with ctypes/]] {{stage short|25%|Aug 9, 2010}}
+:[[/Extending with Perl/]] {{stage short|25%|Aug 9, 2010}}
+
+===Appendices===
+: [[/Links/]]
+: [[/Authors/]]
+
+==See also==
+{{Wikiversity|Topic:Python|Python}}
+* [[Non-Programmer's Tutorial for Python 2.6]]
+* [[Non-Programmer's Tutorial for Python 3]]
+* Python as a scripting language in [[GIMP]]
+
+__NOTOC__
+{{subjects|python programming language}}
+{{alphabetical|P}}
+{{status|75%}}
+
+[[ar:برمجة:بايثون]]
+[[de:Python 3-Programmierung]]
+[[et:Python]]
+[[es:Inmersión en Python]]
+[[fr:Programmation Python]]
+[[it:Python]]
+[[nl:Programmeren in Python]]
+[[ja:Python]]
+[[pl:Zanurkuj w Pythonie]]
+[[pt:Python]]
+[[ru:Учебник Python 2.6]]
+[[fi:Python]]
+[[vi:Học Python]]
+[[zh:Python]]</text>
+      <sha1>gvptl1p0umb99etwg7o20et4nj7atz5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Hard Sequence 1/Solution</title>
+    <ns>0</ns>
+    <id>1673</id>
+    <revision>
+      <id>512974</id>
+      <parentid>512972</parentid>
+      <timestamp>2006-07-05T17:38:13Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <comment>[[Hard Sequence 1 - Solution]] moved to [[Puzzles/Hard Sequence 1/Solution]]</comment>
+      <text xml:space="preserve">The answer is 76. 
+
+Rule:
+  T     T=L²+LR+1 mod 100
+ L R
+
+[[Category:Puzzles]]</text>
+      <sha1>1ebif55yviodoyduamo4bf2rbjcx9ko</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Hard Sequence 2/Solution</title>
+    <ns>0</ns>
+    <id>1674</id>
+    <revision>
+      <id>512976</id>
+      <parentid>512973</parentid>
+      <timestamp>2006-07-05T17:38:26Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <comment>[[Hard Sequence 2 - Solution]] moved to [[Puzzles/Hard Sequence 2/Solution]]</comment>
+      <text xml:space="preserve">The answer is 68. 
+
+Rule:
+  T     T=L²-LR+1 mod 100
+ L R
+
+[[Category:Puzzles]]</text>
+      <sha1>60d8bf5e0rxg35gckucjgipxca04cg6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Logic puzzles/Pizzas</title>
+    <ns>0</ns>
+    <id>1675</id>
+    <revision>
+      <id>828758</id>
+      <parentid>828067</parentid>
+      <timestamp>2007-04-13T07:30:40Z</timestamp>
+      <contributor>
+        <username>Az1568</username>
+        <id>37227</id>
+      </contributor>
+      <minor />
+      <comment>Undo revision 828067 by [[Special:Contributions/63.171.102.131|63.171.102.131]] ([[User talk:63.171.102.131|Talk]]): Looks fine</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Logic puzzles|Logic puzzles]] | Pizzas
+----
+ 
+Aaron, Betty, Charlie, Debbie, and Eric each ordered a pizza with three of the following five toppings:  
+green pepper, mushrooms, onions, pepperoni, and sausage. The only topping that Aaron and Charlie had in 
+common was sausage.  The only topping Debbie and Eric had in common was pepperoni.  The only topping 
+Charlie and Betty had in common was mushrooms.  The only topping Debbie and Betty had in common was green pepper.  
+
+''Which toppings did each of them have on their pizza?''
+
+[[Puzzles/Logic puzzles/Pizzas/Solution|Solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>dosll1uiukxs9z8hg5osfaca5q6ce6o</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Logic puzzles/Pizzas/Solution</title>
+    <ns>0</ns>
+    <id>1676</id>
+    <revision>
+      <id>647595</id>
+      <parentid>647591</parentid>
+      <timestamp>2006-11-13T04:52:23Z</timestamp>
+      <contributor>
+        <username>Think Fast</username>
+        <id>10874</id>
+      </contributor>
+      <minor />
+      <comment>change links -&gt; naming convention</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Logic puzzles|Logic puzzles]] | [[Puzzles/Logic puzzles/Pizzas|Pizzas]] | Solution
+----
+Aaron - green pepper, onions and sausage&lt;br /&gt;
+Betty - green pepper, mushrooms and onions&lt;br /&gt;
+Charlie - mushrooms, pepperoni and sausage&lt;br /&gt;
+Debbie - green pepper, pepperoni and sausage&lt;br /&gt;
+Eric - mushrooms, onions and pepperoni&lt;br /&gt;
+
+== Reasoning ==
+
+We are informed that B and D had green pepper, B and C had mushrooms, D and E had pepperoni and A and C had sausage, all marked with a Y.
+
+ &lt;u&gt;          | A | B | C | D | E &lt;/u&gt;
+ &lt;u&gt;Green Pep |   | Y |   | Y |   &lt;/u&gt;
+ &lt;u&gt;Mushrooms |   | Y | Y |   |   &lt;/u&gt;
+ &lt;u&gt;Onions    |   |   |   |   |   &lt;/u&gt;
+ &lt;u&gt;Pepperoni |   |   |   | Y | Y &lt;/u&gt;
+ Sausage   | Y |   | Y |   |
+
+We are also informed that the pairs B and D, B and C, D and E, and A and C, didn't share anything, except what is already marked with a Y. This eliminates the possibilities marked with an N.
+
+ &lt;u&gt;          | A | B | C | D | E &lt;/u&gt;
+ &lt;u&gt;Green Pep |   | Y | N | Y | N &lt;/u&gt;
+ &lt;u&gt;Mushrooms | N | Y | Y | N |   &lt;/u&gt;
+ &lt;u&gt;Onions    |   |   |   |   |   &lt;/u&gt;
+ &lt;u&gt;Pepperoni |   | N |   | Y | Y &lt;/u&gt;
+ Sausage   | Y | N | Y |   |
+
+Knowing everyone had 3 toppings allows us to place another Y.
+
+ &lt;u&gt;          | A | B | C | D | E &lt;/u&gt;
+ &lt;u&gt;Green Pep |   | Y | N | Y | N &lt;/u&gt;
+ &lt;u&gt;Mushrooms | N | Y | Y | N |   &lt;/u&gt;
+ &lt;u&gt;Onions    |   | Y |   |   |   &lt;/u&gt;
+ &lt;u&gt;Pepperoni |   | N |   | Y | Y &lt;/u&gt;
+ Sausage   | Y | N | Y |   |
+
+And we know B didn't share with C or D.
+
+ &lt;u&gt;          | A | B | C | D | E &lt;/u&gt;
+ &lt;u&gt;Green Pep |   | Y | N | Y | N &lt;/u&gt;
+ &lt;u&gt;Mushrooms | N | Y | Y | N |   &lt;/u&gt;
+ &lt;u&gt;Onions    |   | Y | N | N |   &lt;/u&gt;
+ &lt;u&gt;Pepperoni |   | N |   | Y | Y &lt;/u&gt;
+ Sausage   | Y | N | Y |   |
+
+Allowing us to place 2 more Ys.
+
+ &lt;u&gt;          | A | B | C | D | E &lt;/u&gt;
+ &lt;u&gt;Green Pep |   | Y | N | Y | N &lt;/u&gt;
+ &lt;u&gt;Mushrooms | N | Y | Y | N |   &lt;/u&gt;
+ &lt;u&gt;Onions    |   | Y | N | N |   &lt;/u&gt;
+ &lt;u&gt;Pepperoni |   | N | Y | Y | Y &lt;/u&gt;
+ Sausage   | Y | N | Y | Y |
+
+D didn't share with E, A didn't share with C.
+
+ &lt;u&gt;          | A | B | C | D | E &lt;/u&gt;
+ &lt;u&gt;Green Pep |   | Y | N | Y | N &lt;/u&gt;
+ &lt;u&gt;Mushrooms | N | Y | Y | N |   &lt;/u&gt;
+ &lt;u&gt;Onions    |   | Y | N | N |   &lt;/u&gt;
+ &lt;u&gt;Pepperoni | N | N | Y | Y | Y &lt;/u&gt;
+ Sausage   | Y | N | Y | Y | N
+
+This allows us to place the remaining 4 Ys.
+
+ &lt;u&gt;          | A | B | C | D | E &lt;/u&gt;
+ &lt;u&gt;Green Pep | Y | Y | N | Y | N &lt;/u&gt;
+ &lt;u&gt;Mushrooms | N | Y | Y | N | Y &lt;/u&gt;
+ &lt;u&gt;Onions    | Y | Y | N | N | Y &lt;/u&gt;
+ &lt;u&gt;Pepperoni | N | N | Y | Y | Y &lt;/u&gt;
+ Sausage   | Y | N | Y | Y | N
+
+Surprisingly, no one chose green pepper, onions and pepperoni.
+
+[[Category:Puzzles]]</text>
+      <sha1>2ltdbyixb0azbqgzqo6gzlc2dqgxsgc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/Logic puzzles/Pizzas/Solution</title>
+    <ns>1</ns>
+    <id>1678</id>
+    <revision>
+      <id>647593</id>
+      <parentid>239891</parentid>
+      <timestamp>2006-11-13T04:52:00Z</timestamp>
+      <contributor>
+        <username>Think Fast</username>
+        <id>10874</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles:Logic puzzles:Pizzas:Solution]] moved to [[Talk:Puzzles/Logic puzzles/Pizzas/Solution]]: naming convention</comment>
+      <text xml:space="preserve">Very nice, Cyp. The solution is very clear and easy to follow. [[User:ThomasStrohmann | Thomas]]</text>
+      <sha1>m3i23y5zqf00u7ahjffn86xnhz0daog</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Internet Technologies</title>
+    <ns>1</ns>
+    <id>1684</id>
+    <revision>
+      <id>1607162</id>
+      <parentid>1280221</parentid>
+      <timestamp>2009-08-14T09:18:06Z</timestamp>
+      <contributor>
+        <username>Mjchael</username>
+        <id>44398</id>
+      </contributor>
+      <comment>todolink (todo-list of this book) look at the top of the page</comment>
+      <text xml:space="preserve">* {{todolink|Internet Technologies|todo-list of Internet Technologies}}
+
+==About==
+* Started: 6 August 2003 
+* Size: 11,800 words (Sep 2008)
+* {{rc}}
+* {{Subpages link}}
+
+==Various==
+&lt;b&gt;Gmasters2:&lt;/b&gt; The outline of this book is a great start! Networking is very difficult to teach to high school students in the vocational setting because of the high readability level of traditional textbooks. Further compounding the teaching of networking to high school students in the voc-tech high school is the learning style of many of the students. I teach networking in a voc-tech high school where the students are in networking 3 hours a day, 5 days a week.
+
+The ideal curriculum is certification-based, meaning that the competencies taught meet the requirements set forth by national/international certification bodies, such as CompTIA and others. This is critical as the goal of the voc-tech high shcool is twofold: 1) prepare students for employment upon course completion, and 2) serve as a link to more advanced training at the community college or university level.
+
+Currently, I am using a commercially-produced curriculum produced by Course Technologies that provides training in networking qualifying the students to sit for the CompTIA i-Net+ and Network+ certifications. I also teach Linux to prepare students for the CompTIA Linux+ certification.
+
+The thrust of the programs is lab-based. Students today demand interactive texts and the Internet is perhaps the best way to deliver the material. The only downsides to commercial programs are that they are not always &quot;chunked&quot; into modules that lend themselves to high school students.
+
+I'm willing to submit a course outline that could form the basis of a full-fledged i-Net+ high school curriculum.
+
+&lt;b&gt;Guest:&lt;/b&gt; What is the difference between this project and the wikipedia? Should we copy definitions of all of these net services from the wikipedia as a starting point? In what way will we need to edit that content to make it more &quot;textbook&quot; like?
+
+:Add exercises, questions, don't interlink everything... [[User:R3m0t|r3m0t]] 14:21, 31 Dec 2003 (UTC)
+:''What is the difference between this project and the wikipedia?'' - exactly! As written, this page is far too technical and un-interesting for students - it is basically a wikipedia definition. ''don't interlink everything'' - exactly. I have removed the stupid year links for a start. -[[User:Drstuey|Drstuey]] 00:33, 5 Sep 2004 (UTC)
+
+&lt;b&gt;[User:PbS]:&lt;/b&gt; Ok so I added some stuff to VNC, and SSH.  Is this kind of what you guys are looking for? [[User:PbS|PbS]] 21:18, 22 Aug 2004 (UTC)
+
+[User:Epl18]:I'm for deleting everything that has a better wikipedia entry, like email and IRC. [[User:Epl18|Epl18]] 14:02, 30 August 2005 (UTC)
+
+== Possible topics for a messenger chapter ==
+
+From deleted stub &quot;Review of Programs for Internet-based Interaction&quot;: ICQ, AOL Messenger, iVisit, MSN Messenger, PalTalk, Skype, Windows Messenger, Yahoo Messenger --[[User:Kernigh|Kernigh]] 20:08, 15 April 2006 (UTC)
+
+==Scope==
+The current scope is:
+* The Internet: Domain names, Web Hosting, Routing, Protocols, History and Evolution
+* The Web: History of the Web, Routing the Web, HTML and CSS (really?), Embedded technologies, Proxy servers, Search Engine, Web advertising, Online Shopping
+* Email: History of Email, Routing Email, Email headers, Email Spam, Email security
+* Usenet: History of Usenet, Routing Usenet
+* IRC
+* Remote Access: Telnet, SSH, VNC, Remote Desktop Connection
+--[[User:Dan Polansky|Dan Polansky]] ([[User talk:Dan Polansky|talk]]) 09:19, 18 September 2008 (UTC)</text>
+      <sha1>evchcpnwlx4no5hn6fj6q8kkoon15g3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:203.130.223.162</title>
+    <ns>3</ns>
+    <id>1686</id>
+    <revision>
+      <id>153785</id>
+      <timestamp>2003-10-20T10:50:37Z</timestamp>
+      <contributor>
+        <username>Dysprosia</username>
+        <id>32</id>
+      </contributor>
+      <comment>note</comment>
+      <text xml:space="preserve">Hi - please try and write in English if you're trying to create an article. Thanks [[User:Dysprosia|Dysprosia]] 10:50, 20 Oct 2003 (UTC)</text>
+      <sha1>gikqjojhcc5wq2xfvxsapo6nqf4pt02</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/How do you ... ?/The Burning Island/Solution</title>
+    <ns>1</ns>
+    <id>1687</id>
+    <revision>
+      <id>875173</id>
+      <parentid>538901</parentid>
+      <timestamp>2007-05-24T00:20:25Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles/The Burning Island/Solution]] moved to [[Talk:Puzzles/How do you ... ?/The Burning Island/Solution]]: NC</comment>
+      <text xml:space="preserve">He is stranded on the island with a flamethrower?  And this flamethrower has fuel in it?  And he has a lighter or matches to light the flamethrower?  Wow!  Talk about lucky...
+
+Perhaps the solution should be re-worded mildly. [[User:Neolux|Neolux]] 11:53, 20 Oct 2003 (UTC)
+
+: Maybe he uses the '''raging fire on the west end of the island''' to light the wood.
+: Andy M.</text>
+      <sha1>8k5li0235jdyxzchz3mqzg7bdxirj0i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Book outline</title>
+    <ns>0</ns>
+    <id>1693</id>
+    <revision>
+      <id>2410757</id>
+      <parentid>1940387</parentid>
+      <timestamp>2012-09-24T12:28:32Z</timestamp>
+      <contributor>
+        <username>Sarthaku</username>
+        <id>710624</id>
+      </contributor>
+      <text xml:space="preserve">----
+
+[[Organic_Chemistry/To-Do_List | Authors' To-Do Lists]]
+
+----
+
+[[Organic chemistry]] &gt; Organic textbook expanded contents
+----
+&lt;!-- outline moved from http://meta.wikimedia.org/wiki/Organic_textbook_expanded_contents
+--&gt;
+[[Organic Chemistry/Foreword|Foreword]]
+:[[Organic Chemistry/Foreword/Purpose and mission|Purpose and mission]]
+:[[Organic Chemistry/Foreword/Content and contributions|Content and contributions]]
+
+[[Organic Chemistry/Foundational concepts of organic chemistry|Foundational concepts of organic chemistry]]
+:[[Organic Chemistry/Foundational concepts of organic chemistry/History of organic chemistry|History of organic chemistry]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/History of organic chemistry/Vital force theory|Vital force theory]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/History of organic chemistry/Synthesis of urea|Synthesis of urea]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/History of organic chemistry/Organic vs inorganic chemistry|Organic vs inorganic chemistry]]
+
+:[[Organic chemistry/Foundational concepts of organic chemistry/Atomic structure|Atomic structure]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Nucleus and electrons|Nucleus and electrons]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Shells and orbitals|Shells and orbitals]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Filling electron shells|Filling electron shells]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Octet rule and exceptions|Octet rule and exceptions]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Molecular orbitals|Molecular orbitals]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Hybridization|Hybridization]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Electron wave function|Electron wave function]]
+
+:[[Organic Chemistry/Foundational concepts of organic chemistry/Ionic bonding|Ionic bonding]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/Ionic bonding/Formal charge|Formal charge]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/Ionic bonding/Ionization energy|Ionization energy]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/Electron affinity|Electron affinity]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/Electronegativity|Electronegativity]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/Dipole moment|Dipole moment]]
+
+:[[Organic Chemistry/Foundational concepts of organic chemistry/Covalent bonding|Covalent bonding]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/Covalent bonding/Molecular orbitals in bonding|Molecular orbitals in bonding]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/Covalent bonding/Nonpolar covalent bonds|Nonpolar covalent bonds]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/Covalent bonding/Polar covalent bonds|Polar covalent bonds]]
+
+:[[Organic Chemistry/Foundational concepts of organic chemistry/Resonance|Resonance]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/Drawing resonance structures|Drawing resonance structures]]
+
+:[[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases|Acids and bases]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases/Proton donors and acceptors|Proton donors and acceptors]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases/Electron donors and acceptors|Electron donors and acceptors]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases/Electrophiles and nucleophiles|Electrophiles and nucleophiles]]
+::[[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases/PKa and acidity|pKa and acidity]]
+
+:[[Organic Chemistry/Alkanes|Alkanes]]
+::[[Organic Chemistry/Alkanes/Methane|Methane]]
+::[[Organic Chemistry/Alkanes/Ethane|Ethane]]
+::[[Organic Chemistry/Alkanes/Propane thru decane|Propane thru decane]]
+::[[Organic Chemistry/Alkanes/Stereoisomers|Stereoisomers]]
+::[[Organic Chemistry/Alkanes/Cycloalkanes|Cycloalkanes]]
+:::[[Organic Chemistry/Alkanes/Cycloalkanes/Two hydrogens for every carbon|Two hydrogens for every carbon]]
+:::[[Organic Chemistry/Alkanes/Cycloalkanes/Cycloalkane properties|Cycloalkane properties]]
+:::[[Organic Chemistry/Alkanes/Cycloalkanes/Naming cycloalkanes|Naming cycloalkanes]]
+
+[[Organic Chemistry/Introduction to reactions|Introduction to reactions]]
+:[[Organic Chemistry/Introduction to reactions/Overview of addition, elimination, substitution and rearrangement reactions|Overview of addition, elimination, substitution and rearrangement reactions]]
+:[[Organic Chemistry/Introduction to reactions/Polar and radical reactions|Polar and radical reactions]]
+:[[Organic Chemistry/Introduction to reactions/Redox reactions|Redox reactions]]
+:[[Organic Chemistry/Introduction to reactions/Functional groups in reactions|Functional groups in reactions]]
+:[[Organic Chemistry/Introduction to reactions/Drawing reactions|Drawing reactions]]
+:[[Organic Chemistry/Introduction to reactions/Rates and equilibria|Rates and equilibria]]
+:[[Organic Chemistry/Introduction to reactions/Gibbs free energy|Gibbs free energy]]
+:[[Organic Chemistry/Introduction to reactions/Bond dissociation energies|Bond dissociation energies]]
+:[[Organic Chemistry/Introduction to reactions/Energy diagrams|Energy diagrams]]
+:[[Organic Chemistry/Introduction to reactions/Transition states|Transition states]]
+:[[Organic Chemistry/Introduction to reactions/Carbocations|Carbocations]]
+:[[Organic Chemistry/Introduction to reactions/Addition reactions|Addition reactions]]
+:[[Organic Chemistry/Introduction to reactions/Rearrangement reactions|Rearrangement reactions]]
+
+[[Organic Chemistry/Overview of Functional Groups|Overview of Functional Groups]]
+:[[Organic Chemistry/Introduction to functional groups/Introduction to alcohols|Introduction to alcohols]]
+:[[Organic Chemistry/Introduction to functional groups/Introduction to phenols|Introduction to phenols]]
+:[[Organic Chemistry/Introduction to functional groups/Introduction to ethers|Introduction to ethers]]
+:[[Organic Chemistry/Introduction to functional groups/Introduction to epoxides|Introduction to epoxides]]
+:[[Organic Chemistry/Introduction to functional groups/Introduction to aldehydes|Introduction to aldehydes]]
+:[[Organic Chemistry/Introduction to functional groups/Introduction to ketones|Introduction to ketones]]
+:[[Organic Chemistry/Introduction to functional groups/Introduction to carboxylic acid|Introduction to carboxylic acid]]
+:[[Organic Chemistry/Introduction to functional groups/Introduction to carboxylic acid derivatives|Introduction to carboxylic acid derivatives]]
+
+[[Organic Chemistry/Alkenes|Alkenes]]
+:[[Organic Chemistry/Alkenes/Alkene properties|Alkene properties]]
+:[[Organic Chemistry/Alkenes/Cycloalkenes|Cycloalkenes]]
+:[[Organic Chemistry/Alkenes/The pi bond|The pi bond]]
+:[[Organic Chemistry/Alkenes/Stability of double bonds|Stability of double bonds]]
+:[[Organic Chemistry/Alkenes/Alkene reactions|Alkene reactions]]
+
+[[Organic Chemistry/Alkynes|Alkynes]]
+
+[[Organic Chemistry/Haloalkanes|Haloalkanes]]
+
+[[Organic Chemistry/Alcohols|Alcohols]]
+
+[[Organic Chemistry/Chirality|Chirality]]
+:[[Organic Chemistry/Chirality/Handedness|Handedness]]
+:[[Organic Chemistry/Chirality/Enantiomers|Enantiomers]]
+:[[Organic Chemistry/Chirality/Stereogenic centers|Stereogenic centers]]
+:[[Organic Chemistry/Chirality/Optical activity|Optical activity]]
+:[[Organic Chemistry/Chirality/Absolute and relative configurations|Absolute and relative configurations]]
+:[[Organic Chemistry/Chirality/Diastereomers|Diastereomers]]
+:[[Organic Chemistry/Chirality/Meso compounds|Meso compounds]]
+:[[Organic Chemistry/Chirality/R-S notational system|R-S notational system]]
+:[[Organic Chemistry/Chirality/Multiple chiral centers|Multiple chiral centers]]
+:[[Organic Chemistry/Chirality/Chirality beyond carbon|Chirality beyond carbon]]
+
+[[Organic Chemistry/Dienes|Dienes]]
+:[[Organic Chemistry/Dienes/Three kinds of dienes|Three kinds of dienes]]
+:[[Organic Chemistry/Dienes/Conjugation|Conjugation]]
+:[[Organic Chemistry/Dienes/Diene properties and reactions|Diene properties and reactions]]
+:[[Organic Chemistry/Dienes/Cyclodienes|Cyclodienes]]
+
+[[Organic Chemistry/Aromaticity|Aromaticity]]
+:[[Organic Chemistry/Aromaticity/Other aromatic compounds|Other aromatic compounds]]
+
+[[Organic Chemistry/Aromatic reactions|Aromatic reactions]]
+
+[[Organic Chemistry/Spectroscopy|Spectroscopy]]
+:[[Organic Chemistry/Spectroscopy/Historic analytical techniques|Historic analytical techniques]]
+:[[Organic Chemistry/Spectroscopy/Spectrometry|Spectrometry]]
+:[[Organic Chemistry/Spectroscopy/Spectroscopy proper|Spectroscopy proper]]
+
+[[Organic Chemistry/Organometallics|Organometallics]]
+
+[[Organic Chemistry/Chemistry of various functional groups|Chemistry of various functional groups]]
+
+[[Organic Chemistry/Organic chemistry and biochemistry|Organic chemistry and biochemistry]]
+:[[Organic Chemistry/Organic chemistry and biochemistry/Amino acids|Amino acids]]
+:[[Organic Chemistry/Organic chemistry and biochemistry/Proteins|Proteins]]
+:[[Organic Chemistry/Organic chemistry and biochemistry/Carbohydrates|Carbohydrates]]
+:[[Organic Chemistry/Organic chemistry and biochemistry/Lipids|Lipids]]
+
+----
+
+Periodic table
+:Valence
+:Bonding:
+:Electronegativity
+:Hybridization
+
+Lewis structures
+:Resonance
+:Formal charges
+:Conjugation
+:Aromaticity
+
+Nomenclature
+:Alkanes
+:Cycloalkanes
+:Alkenes
+:Alkynes
+:Haloalkanes
+:Alcohols
+
+Isomers
+:Structural isomers
+:Stereoisomers
+::Enantiomers, R, S
+::Racemates
+:::Conformational
+:::cis-trans
+:::E, Z
+
+Structure and properties
+:Alkanes
+:Alkenes
+:Alkynes
+:Alcohols
+:Haloalkanes
+:Arenes
+
+Reactions
+:Alkanes (and cycloalkanes)
+::(Combustion)
+::Free radical halogenation
+:Alkenes
+::Hydrogenation
+::Hydration -&gt; oxymercuration/demercuration
+::Halogenation
+::Hydrohalogenation
+::Hydroboration/oxidation
+::Halohydrins
+::Oxydation (Ozonolysis, osmylation, epoxidation/peroxidation)
+::Allylic bromination
+:Alkynes
+::Hydrogenation
+::Hydration
+::Halogenation
+::Hydrohalogenation
+::Ozonolysis
+::Alkylation
+:Alcohols, haloalkanes
+::Nucleophilic substitution (SN1, SN2)
+::Elimination (E1, E2)
+::Carbocation rearrangements
+:Conjugated (1,3-) dienes
+::Direct (1,2-) and conjugate (1,4-) addition
+::Kinetic and thermodynamic control
+::Diels-Alder reaction
+:Aromatic compounds
+::Hydrogenation
+::Ozonolysis
+::Benzylic bromination
+::Benzylic oxydation
+::Vinylic benzenes (styrenes)
+
+Chirality
+:Cahn-Ingold-Prelog nomenclature of chiral atoms
+
+{{BookCat}}</text>
+      <sha1>etgxhjb3qvhf0882cydcpsmk91ypbxv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Arithmetical puzzles/Luxury Cars</title>
+    <ns>0</ns>
+    <id>1695</id>
+    <revision>
+      <id>958823</id>
+      <parentid>958816</parentid>
+      <timestamp>2007-09-05T13:39:39Z</timestamp>
+      <contributor>
+        <username>Mike.lifeguard</username>
+        <id>55262</id>
+      </contributor>
+      <minor />
+      <comment>Reverted edit of [[Special:Contributions/207.157.68.132|207.157.68.132]], changed back to last version by Mattb112885</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Arithmetical puzzles|Arithmetical puzzles]] | Luxury Cars
+----
+
+A major luxury car company has three outlets on the east coast (in New York, Boston, and Miami)
+and two outlets on the west coast (in Los Angeles and San Francisco). The sales in Los Angeles were
+one quarter of the total sales plus one car. The sales in New York were one quarter of
+the '''rest''' (not counting the cars sold in L.A.) plus one car. The sales in San Francisco were
+one quarter of the rest (not counting L.A., N.Y.) plus one car. And the sales in Boston were one quarter of the rest
+(not counting L.A., N.Y., S.F.) plus one car. The balance so far showed that L.A. and San Francisco 
+sold 100 cars more than N.Y. and Boston. However, with the remaining cars sold in Miami it is likely that
+the total sales of the east coast will be greater than the total sales of the west coast.
+
+''How many cars were sold in each city?'' 
+
+[[Puzzles/Arithmetical puzzles/Luxury Cars/Solution| solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>alkrc4ud4ijg2zigk9rgqcn8my4ajyu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Geometric Puzzles/Connecting Utilities</title>
+    <ns>0</ns>
+    <id>1696</id>
+    <revision>
+      <id>647811</id>
+      <parentid>647810</parentid>
+      <timestamp>2006-11-13T05:34:06Z</timestamp>
+      <contributor>
+        <username>Think Fast</username>
+        <id>10874</id>
+      </contributor>
+      <minor />
+      <comment>capitalization</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Geometric Puzzles|Geometric puzzles]] | Connecting Utilies
+----
+
+Here is a problem; you are commissioned to '''connecting utilities''' to the three houses A, B, and C below. The utilities are G for gas, W for water, and E for electricity.
+
+      /-\'      /-\'      /-\'
+      |A|       |B|       |C|
+     -----     -----     -----
+
+
+      [G]       [W]       [E]
+
+You must connect each house to each utility without the connections crossing at all.
+
+[[Puzzles/Geometric Puzzles/Connecting Utilities/Solution|Solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>acbb79ylp0d9tdcrjwmyargrur5ivq5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Geometric Puzzles/Connecting Utilities/Solution</title>
+    <ns>0</ns>
+    <id>1697</id>
+    <revision>
+      <id>1578504</id>
+      <parentid>647803</parentid>
+      <timestamp>2009-07-24T16:05:47Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>Fixed link</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Geometric Puzzles|Geometric puzzles]] | [[Puzzles/Geometric Puzzles/Connecting Utilities|Connecting Utilities]] | Solution
+----
+This problem can be analyzed using [[Discrete Mathematics/Graph theory|graph theory]]. 
+
+The problem is essentially showing that the bipartite graph K&lt;sub&gt;3,3&lt;/sub&gt; is planar. However, ''Kuratowski&lt;nowiki&gt;'&lt;/nowiki&gt;s theorem'' tells us that this graph must ''not'' be planar.
+
+Essentially, there is no solution and the required construction ''cannot'' be done! Sorry! :)
+
+However, if we look at where the three houses and utilities are on a ''non-planar'' surface, such as a ''torus'' (or doughnut), we obtain some topological niceties that allow us to solve this problem. 
+
+Here is an example of one solution. Lines moving off the torus and looping around are signified with a V.
+
+   \    | |  |    |      /  |     
+  ==V===V=V==V====V=====V===V======
+  : |   |  \  \   |    /    |     :
+  : |  /-\' | |  /-\'  |   /-\'   :
+  : |  |A|  | |  |B|   |   |C|    :
+  : | ----- | | -----  |  -----   :
+  : |__/ |  |  \_| |___/   | |    :
+  :      |   \____________/  |    :
+  :      \______     ________/    :
+  :             \   /             :
+  :              | |              :
+  :    [G]---\   [W]       [E]    :
+  :     | \  |    |       / | \   :
+  ======V=V==V=====V=====V==V==V=== 
+        | |  |    |     /   |   \
+
+
+Here is a picture with forks, essentially equivalent to parallel  connections
+[[Image:UtilitiesS.png]]
+----
+The solution usually given to this puzzle depends upon the fact that the puzzle, as stated, does not prohibit one of the connections going &lt;b&gt;under&lt;/b&gt; a house (for example, the gas connection for A is routed G-&gt;pass under B-&gt;A).  This appears to be topologically equivalent to the above(?).
+
+[[Category:Puzzles]]</text>
+      <sha1>1h50qujfjrpfotn4g3xqq8zqrhkvxe8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Traroth</title>
+    <ns>2</ns>
+    <id>1698</id>
+    <revision>
+      <id>1122497</id>
+      <parentid>153795</parentid>
+      <timestamp>2008-02-24T11:41:03Z</timestamp>
+      <contributor>
+        <username>Traroth</username>
+        <id>178</id>
+      </contributor>
+      <minor />
+      <comment>Replacing page with 'Nobody here anymore.'</comment>
+      <text xml:space="preserve">Nobody here anymore.</text>
+      <sha1>lmen0d4o31ze0ffaduayyogjzuonwlu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:French/Vocabulary/Nations</title>
+    <ns>1</ns>
+    <id>1699</id>
+    <revision>
+      <id>2069710</id>
+      <parentid>1867232</parentid>
+      <timestamp>2011-03-15T16:01:42Z</timestamp>
+      <contributor>
+        <username>Hagindaz</username>
+        <id>19723</id>
+      </contributor>
+      <minor />
+      <comment>moved [[Talk:French/Vocabulary/Travel/Nations]] to [[Talk:French/Vocabulary/Nations]] over redirect</comment>
+      <text xml:space="preserve">{{WikiProject Languages|french=yes}} 
+
+There exists a difference between Dominica and the Dominican Republic. The Republic is a part of the island of Hispaniola, the latter is a separate island. Thus, it would be incorrect to call &quot;Dominica&quot; the &quot;la République dominicaine,&quot; as that title would go to the Dominican Republic. [[User:Lord Emsworth|Lord Emsworth]] 10:35, 21 Oct 2003 (UTC)
+
+You're right. I make a mistake. [[User:Traroth|Traroth]] 11:04, 21 Oct 2003 (UTC)</text>
+      <sha1>n668arzs33byp66r7xs2roist0ntsno</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,2620 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Talk:Puzzles/Geometric Puzzles/Connecting Utilities/Solution</title>
+    <ns>1</ns>
+    <id>1894</id>
+    <revision>
+      <id>1578505</id>
+      <parentid>647831</parentid>
+      <timestamp>2009-07-24T16:06:05Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>Fixed link</comment>
+      <text xml:space="preserve">[[Puzzles/Geometric Puzzles/Connecting Utilities|^ Connecting Utilities ^]]
+----
+This problem can be analyzed using [[Discrete Mathematics/Graph theory|graph theory]]. 
+
+The problem is essentially showing that the bipartite graph K&lt;sub&gt;3,3&lt;/sub&gt; is planar. However, ''Kuratowski&lt;nowiki&gt;'&lt;/nowiki&gt;s theorem'' tells us that this graph must ''not'' be planar.
+
+Essentially, there is no solution and the required construction ''cannot'' be done! Sorry! :)
+
+:That's right. However, if you ''absolutely'' want to find a solution you have to let the buildings be on a more complicated topology (with a plane, or even the surface of a ball it won't work). The problem is solvable if the buildings are located on a ''donut''-shaped &quot;planet&quot;. [[User:ThomasStrohmann | Thomas]]
+
+----
+
+         /¯¯¯¯¯¯¯¯¯\
+        //¯¯¯¯¯¯¯¯¯\\
+       ///¯¯¯¯¯¯¯¯¯\\\
+       |||         |||
+      /---\'      /---\'      /---\'
+      | A |       | B |       | C |
+      -----       -----       -----
+       |||         |||         |||
+       |||         \\\_________///
+       |||          \\_________//
+       |||           \_________/
+       \\\
+        \\¯¯¯¯¯¯¯¯¯¯\___________
+        | ¯¯¯¯¯¯¯¯¯¯\           \
+       [G]         [W]         [E]
+
+----
+
+hmmm, I'm not sure if this picture is really a solution since B and C should be connected directly to G,W, and E.
+The solution with the donut (or more mathematically: ''torus'') is quite hard to draw on a 2D screen I think :) [[User:ThomasStrohmann | Thomas]]
+
+
+----
+Here is the solution lying on a torus. The V signifes a looping around the torus, with the &quot;border&quot; marked in for clarity. [[User:Dysprosia|Dysprosia]]
+ __                                __
+   \    |   \     |      /  |     /
+  ==V===V====V====V=====V===V====V=
+  : |   |     \   |    /    |   / :
+  : |  /-\'   |  /-\'  |   /-\' | :
+  : |  |A|    |  |B|   |   |C|  | :
+  : | -----   | -----  |  ----- | :
+  : \__| |     \_| |___/   | |__/ :
+  :      \______     ______/      :
+  :             \   /             :
+  :              | |              :
+  :    [G]       [W]       [E]    :
+  :   / | \       |       / | \   :
+  ===V==V==V======V======V==V==V=== 
+  __/   |   \     |     /   |   \__
+
+:Does G connect to C, and E to A, without crossing, in that? [[User:Cyp|Cyp]] 23:58, 21 Oct 2003 (UTC)
+
+Yes, it loops around the torus from the lower left to the upper right, same for the lower right to the upper left ([[User:Dysprosia|Dysprosia]], not logged in)
+
+:I made it a bit clearer that the G-C and E-A connections have to go around the whole torus (I assume this perspective is a frontal view on the torus). Also the connections G-C and E-A have to &quot;cross without actually crossing&quot; which can be done if one path does a turn around the torus tube. [[User:ThomasStrohmann | Thomas]]
+
+Here is a version that is a bit simpler, I think. [[User:ThomasStrohmann | Thomas]]
+ E_                                __G
+   \        \            /        /
+  ==V========V==========V========V=
+  : |         \        /        / :
+  : |  /-\'   |  /-\'  |   /-\' | :
+  : |  |A|    |  |B|   |   |C|  | :
+  : | -----   | -----  |  ----- | :
+  : \__|||     \_|||___/   |||__/ :
+  :     |\______  |  ______/|     :
+  :     |       \ | /       |     :
+  :     |        |||        |     :
+  :    [G]       [W]       [E]    :
+  :   /   \               /   \   :
+  ===V=====V=============V=====V=== 
+ C__/       \           /       \__A
+
+Yep, that's fine too! I think they're rather equivalent in simplicity, though [[User:Dysprosia|Dysprosia]] 05:21, 22 Oct 2003 (UTC)
+
+:Doesn't A-E and C-G cross? Here's the above, just repeated twice. [[User:Cyp|Cyp]] 08:27, 22 Oct 2003 (UTC)
+
+ E_                                __G
+   \        \            /        /E                                __G
+    |        |          |        |  \        \            /        /
+  ==V========V==========V========V==V========V==========V========V=
+  : |         \        /        / : |         \        /        / :
+  : |  /-\'   |  /-\'  |   /-\' | : |  /-\'   |  /-\'  |   /-\' | :
+  : |  |A|    |  |B|   |   |C|  | : |  |A|    |  |B|   |   |C|  | :
+  : | -----   | -----  |  ----- | : | -----   | -----  |  ----- | :
+  : \__|||     \_|||___/   |||__/ : \__|||     \_|||___/   |||__/ :
+  :     |\______  |  ______/|     :     |\______  |  ______/|     :
+  :     |       \ | /       |     :     |       \ | /       |     :
+  :     |        |||        |     :     |        |||        |     :
+  :    [G]       [W]       [E]    :    [G]       [W]       [E]    :
+  :   /   \               /   \   :   /   \               /   \   :
+  ===V=====V=============V=====V=====V=====V=============V=====V===
+ C__/       \           /       \__A |     |             |     |
+                                 C__/       \           /       \__A
+
+Hmmm, I think you're right Cyp, I'm going to redo my diagram:
+                                  
+   \    | |  |    |      /  |     
+  ==V===V=V==V====V=====V===V======
+  : |   |  \  \   |    /    |     :
+  : |  /-\' | |  /-\'  |   /-\'   :
+  : |  |A|  | |  |B|   |   |C|    :
+  : | ----- | | -----  |  -----   :
+  : |__/ |  |  \_| |___/   | |    :
+  :      |   \____________/  |    :
+  :      \______     ________/    :
+  :             \   /             :
+  :              | |              :
+  :    [G]---\   [W]       [E]    :
+  :     | \  |    |       / | \   :
+  ======V=V==V=====V=====V==V==V=== 
+        | |  |    |     /   |   \
+
+I think this solves the doubleedge problem! [[User:Dysprosia|Dysprosia]] 08:42, 22 Oct 2003 (UTC)
+
+That looks right. [[Image:UtilitiesS.png]] Ascii art is wonderful. [[User:Cyp|Cyp]] 15:11, 22 Oct 2003 (UTC)
+----
+                                   __G
+            \            /        /
+  ===========V==========V========V=
+  :           \        /        / :
+  :    /-\'   |  /-\'  |   /-\' | :
+  :    |A|    |  |B|   |   |C|  | :
+  :   -----   | -----  |  ----- | :
+  :    |||     \_|||___/   |||__/ :
+ _V____/|\______  |  ______/|  ___V_
+  :     |       \ | /       | /   :
+  :     |        |||        ||    :
+  :    [G]       [W]       [E]    :
+  :   /   \               /       :
+  ===V=====V=============V========= 
+ C__/       \           /        
+----
+:A bit cleaner solution I think[[User:24.187.18.164|24.187.18.164]] 07:02, 6 Sep 2004 (UTC)</text>
+      <sha1>n6adcpwoz2vhdsp6gv5deb1fs9blqbo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Alkenecatalystcomplex.png</title>
+    <ns>6</ns>
+    <id>1902</id>
+    <revision>
+      <id>746572</id>
+      <parentid>703700</parentid>
+      <timestamp>2007-02-07T13:23:08Z</timestamp>
+      <contributor>
+        <username>Webaware</username>
+        <id>27565</id>
+      </contributor>
+      <comment>{{GFDL-presumed}}</comment>
+      <text xml:space="preserve">alkene to catalyst complex image for organic chemistry
+
+==Licensing==
+{{GFDL-presumed|Webaware}}</text>
+      <sha1>o71e2hffqz82blm7r88ezv6wpo0ppwp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Xknight</title>
+    <ns>2</ns>
+    <id>1904</id>
+    <revision>
+      <id>153982</id>
+      <timestamp>2003-11-03T04:14:20Z</timestamp>
+      <contributor>
+        <username>Xknight</username>
+        <id>231</id>
+      </contributor>
+      <text xml:space="preserve">I'm an undergraduate student at the [http://www.miami.edu/ University of Miami]. I am currently working towards a dual degree in Biochemistry and Molecular Biology as well as Economics and am extremely interested in information technology, nanotechnology, and Neuroscience. I discovered wikipedia and fell in love with it, as well as its sister site Wikibooks.
+
+Help the site out by [http://wikimediafoundation.org/fundraising Donating to the Wikimedia Foundation.]
+
+Thank you to all of Wikimedia's contributors. 
+
+Remember, 
+
+&quot;Knowledge is power.&quot; - Sir Francis Bacon</text>
+      <sha1>cf8ybhfjux9botbz05jda9ip83vkp9i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>History of Islam</title>
+    <ns>0</ns>
+    <id>1905</id>
+    <revision>
+      <id>2542594</id>
+      <parentid>2119956</parentid>
+      <timestamp>2013-07-09T21:21:15Z</timestamp>
+      <contributor>
+        <username>Mummus.Ind</username>
+        <id>997748</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">{{NPOV}}
+{{Expand}}
+
+
+{{wikipedia|Islam}}
+''This wikibook concerns about the history and development of thoughts, theology, and philosophy stemming from the Islamic faith throughout the centuries. For the political history of Islamic civilization, see [[History of Islamic Civilization]].''
+
+The history of Islam begins in the 7th century AD.
+(Muslim believe that God sent message on different time period, to different messenger, from Adam to Muhammad)
+
+This wikibook will be broken down into several sections:
+
+#'''[[/Early Islam/]] (Prophet Muhammad up to two succeeding generations)'''
+## Prophet Muhammad and the revelation (Quran)
+## Recollection of the prophetic tradition (Hadith/Sunnah)
+## First schism: Sunnis, Shiites, and Khawarijs 
+#'''[[/Islamic classical period|The classical period]] (Umayyad and Abassid period)'''
+## Influence of Greek and foreign philosophies
+## Theology (Ilm al-Kalam), important theological questions, and school of thoughts: Khawarijs, Murjiites, Mutazilites, Asharites, Maturidites
+## Islamic legalistic science (Ilm al-Fiqh), derivations of law, and major legal schools: Hanafi, Maliki, Shafi'i, Hambali
+#'''[[/The Mutazilites-Asharites debate/]]'''
+## Basic tenets of Mutazilites teaching and its early endorsement by Abbasid Caliphs
+## Reaction of the scholars and the development and basic tenets of the Asharites
+## Ibn Rushd and Al-Ghazali
+## Aftermath of debate and its influence outside the Islamic world
+#'''[[/Medieval period|The medieval and pre-modern period]] (Ottoman, Safavid, Mughal, and European colonization periods)'''
+## Taqlid and the decline of philosophy
+## Separate development of Shiism during Safavid period
+## The rise of puritanical schools of thought, historical backgrounds, and the early writers: Ibn Taimiya, Muhammad ibn Abd al-Wahhab
+## Developments outside the Middle East: India, Central Asia, Africa, and South East Asia 
+#'''[[/Modern period|Modern period]]'''
+## Early modern writers: Jamal-ad-Din al-Afghani, Muhammad Abduh
+## Islamic reform movements (e.g. ''Muhammadiyah'' in Indonesia, ''Tablighi Jamaat'' in India), nationalist movements, and pan-Arab ideology
+## The Muslim Brotherhood (Ikhwan al-Muslimin) and related movements, the subsequent rise of revolutionary Islamic activism, and important activists: Hasan al-Banna, Sayyed Qutb
+## Modern Islamic philosophies: Ali Shariati, Seyyed Hossein Nasr, Ismail Al-Faruqi
+
+{{Alphabetical|H}}
+{{Subjects|Religious history}}
+{{status|25%}}</text>
+      <sha1>g1qmkgmhbzh8b41qvlpslmfevwevfiu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Spanish/Lesson 9</title>
+    <ns>0</ns>
+    <id>1907</id>
+    <revision>
+      <id>616119</id>
+      <parentid>532436</parentid>
+      <timestamp>2006-10-18T04:19:17Z</timestamp>
+      <contributor>
+        <username>Guanabot</username>
+        <id>5478</id>
+      </contributor>
+      <minor />
+      <comment>User-controlled Bot: table syntax updated</comment>
+      <text xml:space="preserve">{{Spanish}}
+----
+
+== Grammar - Past Participle (el participio)==
+
+Spanish uses the past participle primarily for present perfect, past perfect,
+and other similar times. For '''-ar''' verbs form the past participle
+by adding '''-ado''' to the stem. For '''-er''' and '''-ir''' verbs add
+'''-ido''':
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#9999FF&quot;
+|-
+! Verb  
+! Past Participle  
+|-
+| hablar || hablado                     
+|-
+| comer || comido                      
+|-
+| vivir || vivido                      
+|}
+
+If the stem of an '''-er''' or '''-ir''' verb ends in one of the vowels '''-a''',
+'''-e''', or '''-o''', the '''i''' of '''-ido''' gets an accent mark:
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#9999FF&quot;
+|-
+! Verb  
+! Past Participle  
+|-
+| caer || caído                           
+|-
+| creer || creído                           
+|-
+| leer || leído                       
+|-
+| oir || oído                        
+|-
+| reir || reído                       
+|}
+
+There are a few verbs with an irregular past participle:
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#9999FF&quot;
+|-
+! Verb  
+! Past Participle  
+|-
+| abrir || abierto                     
+|-
+| cubrir || cubierto                    
+|-
+| descubrir || descubierto                 
+|-
+| decir || dicho                       
+|-
+| escribir || escrito                     
+|-
+| freír || frito                       
+|-
+| hacer || hecho                       
+|-
+| ir || ido                         
+|-
+| morir || muerto                      
+|-
+| poner || puesto                      
+|-
+| romper || roto                        
+|-
+| satisfacer || satisfecho                  
+|-
+| ver || visto                       
+|-
+| volver || vuelto                      
+|}
+
+
+As in English, the past participle can also be used as an adjective for a noun. In
+that case the ending has to match gender and number of the noun. Example:
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#99FF99&quot;
+|-
+|
+Su barba está '''afeitada'''.                      
+|
+''His beard is shaved.''
+|}
+
+
+Finally, there are a few verbs with ''both'' a regular and an irregular past participle. In this case, the irregular past participle is used as an adjective, while the regular form is used for the verb tenses.
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#9999FF&quot;
+|-
+! Verb  
+! Past Participle  
+|-
+| imprimir  
+| imprimido / impreso  
+|-
+| ocultar  
+| ocultado / oculto  
+|}
+
+
+----
+
+== Grammar - Present Perfect (el pretérito perfecto) ==
+
+The Spanish present perfect is formed by conjugating the auxiliary verb '''haber'''
+(= ''to have'') and adding the past participle of the verb.
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#9999FF&quot;
+|-
+!  
+! Present Perfect
+! ''English''  
+|-
+| yo || he comido       || ''I have eaten''       
+|-
+| tú || has comido      || ''you have eaten ''    
+|-
+| Ud./él/ella || ha comido       || ''you/he/she has eaten''
+|-
+| nosotros(as) || hemos comido    || ''we have eaten''      
+|-
+| vosotros(as) || habéis comido   || ''you have eaten''     
+|-
+| Uds./ellos(as) || han comido     || ''you/they have eaten'' 
+|}
+
+Here are a few examples of the Spanish Present perfect. Note that in Spanish
+the auxiliary verb '''haber''' and the past participle are never separated:
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#99FF99&quot;
+|-
+|
+Carlos y yo '''hemos jugado''' fútbol.
+|
+&lt;i&gt;Carlos and I '''have played''' soccer.&lt;/i&gt;
+|-
+|
+¿'''Has hecho''' tus tareas escolares de español?
+|
+&lt;i&gt;'''Have''' you '''done''' your Spanish homework? &lt;/i&gt;
+|-
+|
+Nunca se '''ha enfermado'''.
+|
+&lt;i&gt;He '''has''' never '''been''' sick. &lt;/i&gt;
+|}
+
+----
+
+== Grammar - Pluperfect (el pretérito pluscuamperfecto) ==
+
+The Spanish pluperfect is formed by conjugating imperfect of '''haber'''
+(= ''to have'') and adding the past participle of the verb.
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#9999FF&quot;
+|-
+!  
+! Present Perfect  
+! ''English''  
+|-
+| yo || había comido         
+| ''I had eaten ''  
+|-
+| tú || habías comido        
+| ''you had eaten''  
+|-
+| Ud./él/ella || había comido         
+| ''you/he/she had eaten''
+|-
+| nosotros(as) || habíamos comido      
+| ''we had eaten''  
+|-
+| vosotros(as) || habíais comido       
+| ''you (all) had eaten''  
+|-
+| Uds./ellos(as) || habían comido       
+| ''you/they had eaten''  
+|}
+
+Here are a few examples of the Spanish pluperfect. It is used to refer to
+an event that happened before another event in the past. As in the present perfect,
+the auxiliary verb '''haber''' and the past participle are never separated:
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#99FF99&quot;
+|-
+|
+Carlos y yo '''habíamos jugado''' el fútbol antes la fiesta anoche.
+|
+&lt;i&gt;Carlos and I '''had played''' soccer before the party last night.&lt;/i&gt;
+|-
+|
+¿Tu '''habías venido''' antes a Mexico?
+|
+&lt;i&gt;'''Had''' you '''been''' to Mexico before? &lt;/i&gt;
+|-
+|
+Nunca se '''había enfermado''' cuando era un niño.
+|
+&lt;i&gt;He '''had''' never '''been''' sick while he was a kid. &lt;/i&gt;
+|}
+
+----
+
+== El vocabulario (Vocabulary) - Los medios (Media)==
+
+&lt;center&gt;
+{| style=&quot;background-color: #f2fff2; border: solid 1px #bfffbf; padding: 0.2em; width: 90%;&quot; valign=top
+|[[Image:Spain_flag_300.png|left|26px|Spanish Flag]]&lt;span style=&quot;font-size: 110%&quot;&gt;'''El Vocabulario'''  &lt;br&gt;&lt;small&gt;''Los medios''&lt;/small&gt;&lt;/span&gt;
+|-
+|
+{| style=&quot;width: 100%; text-align: left&quot; 
+| colspan=2 | &lt;span style=&quot;font-size: 92%&quot;&gt;&lt;center&gt;Media Vocabulary&lt;/center&gt;&lt;/span&gt;
+|-
+|&lt;div style=&quot;font-size: 95%; font-weight: bold; line-height: 105%&quot;&gt;
+el artículo&lt;br /&gt;			
+la cadena&lt;br /&gt;		
+el canal&lt;br /&gt;		
+el/la comentarista&lt;br /&gt;
+el/la crítico/a&lt;br /&gt;
+en directo, en vivo&lt;br /&gt;
+la estación de radio&lt;br /&gt;
+las noticias&lt;br /&gt;
+el noticiero&lt;br /&gt;
+el/la periodista&lt;br /&gt;
+el periódico&lt;br /&gt;
+la prensa&lt;br /&gt;
+la primera plana&lt;br /&gt;
+la sección deportiva&lt;br /&gt;
+la sección financiera&lt;br /&gt;
+'''la''' radio&lt;br /&gt;
+el/la reportero/a&lt;br /&gt;
+la telenovela&lt;br /&gt;
+la revista&lt;br /&gt;
+la televisión&lt;br /&gt;
+el titular&lt;br /&gt;
+la historieta&lt;br /&gt;
+la música&lt;br /&gt;
+&lt;/span&gt;
+|&lt;div style=&quot;font-size: 95%;
+line-height:105%&quot;&gt;
+article&lt;br /&gt;
+network&lt;br /&gt;
+channel&lt;br /&gt;
+commentator&lt;br /&gt;
+critic&lt;br /&gt;
+live&lt;br /&gt;
+radio station&lt;br /&gt;
+news&lt;br /&gt;
+newscast&lt;br /&gt;
+journalist&lt;br /&gt;
+newspaper&lt;br /&gt;
+press&lt;br /&gt;
+front page&lt;br /&gt;
+sports section&lt;br /&gt;
+business section&lt;br /&gt;
+radio (As in what you hear on the radio)&lt;br /&gt;
+reporter&lt;br /&gt;
+soap opera&lt;br /&gt;
+magazine&lt;br /&gt;
+television&lt;br /&gt;
+headline&lt;br /&gt;
+comic book&lt;br /&gt;
+music&lt;br /&gt;
+&lt;/span&gt;
+|}
+|}
+&lt;/center&gt;
+----
+{{Spanish}}
+
+[[Category:Spanish]]</text>
+      <sha1>2muyfgudy20vibmo29a78kk40ebuayz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:German/Level III/Mach Dir Keine Sorgen!</title>
+    <ns>1</ns>
+    <id>1908</id>
+    <revision>
+      <id>1867465</id>
+      <parentid>1864715</parentid>
+      <timestamp>2010-06-28T23:28:53Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>replaced: {{WikiProject Languages}} → {{WikiProject Languages|german=yes}}</comment>
+      <text xml:space="preserve">{{WikiProject Languages|german=yes}} 
+
+The text sounds strange. &quot;Beim Ballspiel&quot; seems very formal (use &quot;Beim ballspielen&quot;). And the doubling of &quot;Ja.&quot; conveys an annoyingly boring formality!
+
+Thinking about it, this is more complicated. The form changes for a ''bestimmter Artikel'' (article ''the'' instead of ''a''): ''ein erster Mann'' but ''der erste Mann''.
+
+&lt;pre&gt;
+nominative case - ''Nominativ'' (who - ''wer''):
+der erste Mann / ein erster Mann
+die erste Frau / eine erste Frau
+das erste Kind / ein erstes Kind
+
+genitive case - ''Genitiv'' (''wessen'')
+des/eines ersten Mann(e)s
+der/einer ersten Frau
+des/eines ersten Kind(e)s
+
+dative case - ''Dativ'' (''wem'')
+dem/einem ersten Mann
+der/einer ersten Frau
+dem/einem ersten Kind
+
+accusative case - ''Akkusativ'' (''wen'')
+den/einen ersten Mann
+die/eine erste Frau
+das erste Kind / ein erstes Kind
+&lt;/pre&gt;
+
+Boy, is it! - [[User:Marshman|Marsh]] 09:28, 3 Nov 2003 (UTC) Simply requires more depth be put into the lessons. For example, we could have a third level (more advanced lesson 2B).  The first pass through should be aimed at highschool students and beginners and not too overwhelming! - [[User:Marshman|Marsh]] 09:33, 3 Nov 2003 (UTC)
+
+----
+I changed the '''muß''' to '''muss'''. In older books you will find '''muß''' but after the reform of German orthography a couple of years ago it changed to '''muss'''. A more prominent example is the change from '''daß'''
+to '''dass''' (example: Ich glaube, dass Wikibooks eine gute Sache ist = ''I believe that Wikibooks is a good thing''). [[User:ThomasStrohmann | Thomas]]
+
+:I'm happy. Vulture has been bringing in the modern changes as well.  My German is coming back &quot;pretty&quot; fast. I'll  stop making those case errors with der words once I write the lesson on that. I'm actually pleased that the errors you are finding are not gross ones (numerous, but not large) as I am writing some of the Gespräch totally from scratch, hopefully (with your all help) to be more interesting than the old texbook stuff about Mutter and Vater ....etc. I was so bold this last hour to translate an article from the German Wikipedia (on geography of Lower Austria) and move it into the English Wikipedia! I know, no big deal, but I'm proud of me - [[User:Marshman|Marsh]] 06:04, 5 Nov 2003 (UTC)
+
+::Hi Marsh. I am really impressed that you write much of the &quot;Gespräche&quot; vom scratch, considering that you haven't been using German much lately. And you are right: your mistakes are absolutely minor ones (cases, stylistical) and I  hope that by adding these &quot;detail-comments&quot; that you get an even better feel for the German language than you already have. ''Vielen Dank für die ganze  Arbeit, die du in das Deutschbuch steckst. Mach' weiter so!'' [[User:ThomasStrohmann | Thomas]]
+
+::''Bitte, sehr'' Without looking anything up I think you said: &quot;Many thanks for the entire effort that you have put into the German Textbook. Carry on!&quot; Or something to that effect. Question: is it that all the ess-tset s are gone, or is there a rule that specifies only certain ones become ess-ess? - [[User:Marshman|Marsh]] 07:45, 5 Nov 2003 (UTC)
+
+:::''Kamm'' (comb) has a short 'a', ''kam'' (came) has a long 'a'. The double consonant makes the vowel before it short if it's not a compund word. So the 'ss' is the doubling of 'ß'. ''Fuß'' (foot) has a long 'u' so it's written with 'ß', but ''Fass'' (barrel) has a short 'a' so it's written with 'ss'. After diphtongs (au, ei, eu) you also write 'ß' because they are long. In Switzerland, 'ß' is always written as 'ss'. --[[User:Vulture|Vulture]] 09:07, 5 Nov 2003 (UTC)
+
+::::Thanks. I can understand that. In essence it maintains consistency by considering the 'ß' a single consonant. Need to work on those rules in Appendix 1 - [[User:Marshman|Marsh]] 17:52, 5 Nov 2003 (UTC)
+
+&quot;Ein volksmäßig Restaurant&quot;: A restaurant where the locals eat or &quot;ein gutbürgerliches Restaurant&quot;, &quot;ein R. mit gutbürgerlichem Essen&quot; (gutbürgerlich: homely, good plain)? --[[User:Vulture|Vulture]] 08:59, 6 Nov 2003 (UTC)
+:I was aiming for a &quot;locally popular resaurant&quot; - [[User:Marshman|Marsh]] 16:23, 6 Nov 2003 (UTC)</text>
+      <sha1>5tiwexuqevwyt1c5qe5xd4v38mz5aho</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>German/Lesson 2</title>
+    <ns>0</ns>
+    <id>1914</id>
+    <revision>
+      <id>2653642</id>
+      <parentid>2066164</parentid>
+      <timestamp>2014-05-11T17:58:24Z</timestamp>
+      <contributor>
+        <username>Harrybrowne1986</username>
+        <id>430968</id>
+      </contributor>
+      <minor />
+      <comment>m</comment>
+      <text xml:space="preserve">&lt;small&gt;&lt;&lt; [[German/Lesson_1|Lesson 1]] |&lt;/small&gt; '''Lektion 2''' &lt;small&gt;| [[German/Lesson 3|Lektion 3]] &gt;&gt;&lt;/small&gt;
+----
+
+&lt;big&gt;&lt;big&gt;''Fremde und Freunde'' ~ &lt;/big&gt;Strangers and Friends&lt;/big&gt;
+== Grammatik 2-1 ~ Introduction to Verbs ==
+A '''[[Wikipedia:en:Verb|verb]]''' is that part of speech that describes an action. Verbs come in an almost bewildering array of tenses, aspects, and types.  For now, we will limit our discussion to verbs used in the '''present tense''' &amp;mdash; i.e., describing an action occurring in the present. You should start to recognize that the form a verb takes is related to the subject of that verb: &lt;u&gt;the verb form must match the '''person''' of the subject&lt;/u&gt;. This requirement is sometimes evident in English, but always so in German. Consider the following English and German sentences (the verb is ''studieren'' in every case):
+{|
+|I &lt;u&gt;study&lt;/u&gt; biology.
+|''Ich &lt;u&gt;studiere&lt;/u&gt; Biologie''.
+|-
+|She &lt;u&gt;studies&lt;/u&gt; mathematics.&amp;nbsp;&amp;nbsp;&amp;nbsp;
+|''Sie &lt;u&gt;studiert&lt;/u&gt; Mathematik.''         
+|-
+|Today we &lt;u&gt;study&lt;/u&gt; German.
+|''Heute &lt;u&gt;studieren&lt;/u&gt; wir Deutsch.''&amp;nbsp;&amp;nbsp;&amp;nbsp;
+|(Note a subject verb reversal)
+|-
+|What &lt;u&gt;are&lt;/u&gt; you &lt;u&gt;studying&lt;/u&gt;?
+|''Was &lt;u&gt;studierst&lt;/u&gt; du?''
+|(Notice subject verb reversal in question sentence)
+|}
+Several things are illustrated by these sentence pairs. First, all verbs in German follow the rule just stated that a verb form must agree with its subject. Starting in ''Lektion 6'' we will learn the verb forms associated with each person in German. Second, this rule in English applies mostly to the verb 'to be' (e.g., I am, you are, he is, etc.). In some English verbs, the 3rd person singular form is unique, often taking an 's' or 'es' ending: &quot;I &lt;u&gt;give&lt;/u&gt; at the office&quot;, but &quot;He &lt;u&gt;gives&lt;/u&gt; at the office&quot; (and &quot;She studies...&quot; above).  Finally, some German verbs are best translated with an English 'to be' verb form added. This is called the ''progressive'' form in English ('What are you studying?'), but it does not exist in German. Thus, a verb like ''nennen'' can best be translated as &quot;to name&quot; or &quot;to call&quot;. The following example may make this clearer. In the present tense, the following statements in English:
+:'They are calling the corporation, &quot;Trans-Global&quot;'
+:'They name the corporation, &quot;Trans-Global&quot;'
+:'They call the corporation, &quot;Trans-Global&quot;'
+:'They do call the corporation, &quot;Trans-Global&quot;'
+are all expressed in German in only one way: ''Sie nennen die Firma, &quot;Trans-Global&quot;''.
+And the question statement: 'Do they call the corporation, &quot;Trans-Global&quot;?' becomes, in German: ''Nennen sie die Firma, &quot;Trans-Global&quot;?''
+
+----
+
+== Grammatik 2-2 ~ Pronouns in the Nominative Case ==
+Most of the personal pronouns introduced in [[German/Lesson_1|Lektion 1]] are used as subjects of their verbs. These represent the '''nominative case''' in German (as in English). We will shortly learn three other cases in German: the '''accusative''' for direct objects, the '''dative''' for indirect objects, and the '''genitive''' for expressing possession. For now, remember that the singular personal pronouns in English ('''nominative case''') are &quot;I&quot;, &quot;you&quot;, and &quot;he/she/it&quot; (1st, 2nd, and 3rd persons) and the &lt;u&gt;nominative case is used as the subject of a verb&lt;/u&gt;. In German, these pronouns are rendered as ''ich'', ''du'', and ''er/sie/es''. In these example sentences, the '''subject''' of the verb is underlined:
+{|
+|''&lt;u&gt;Ich&lt;/u&gt; gehe einkaufen.''&amp;nbsp;&amp;nbsp;&amp;nbsp;
+|&lt;u&gt;I&lt;/u&gt; go shopping.
+|-
+|''&lt;u&gt;Er&lt;/u&gt; studiert Biologie.''    
+|&lt;u&gt;He&lt;/u&gt; studies biology.&amp;nbsp;&amp;nbsp;&amp;nbsp;
+|-
+|''&lt;u&gt;Es&lt;/u&gt; geht mir gut''.
+|&lt;u&gt;It&lt;/u&gt; goes well with me.
+|( = I am fine).
+|-
+|''Wohin gehst &lt;u&gt;du&lt;/u&gt;''?
+|Where are &lt;u&gt;you&lt;/u&gt; going?&amp;nbsp;&amp;nbsp;&amp;nbsp;
+|(Notice subject verb reversal in question sentence)
+|}
+There are, of course, plural personal pronouns in the English nominative case: &quot;we&quot;, &quot;you&quot;, and &quot;they&quot;; and in German, these nominative case pronouns are ''wir'', ''ihr'', and ''sie''. These appear in the following examples (again, subject underlined):
+{| 
+|''&lt;u&gt;Wir&lt;/u&gt; gehen einkaufen.''
+|&lt;u&gt;We&lt;/u&gt; go shopping.
+|-
+|''&lt;u&gt;Ihr&lt;/u&gt; versteht die Frage.''
+|&lt;u&gt;You&lt;/u&gt; all understand the question.''
+|-
+|''&lt;u&gt;Ihr&lt;/u&gt; habt die Anleitungen.''
+|&lt;u&gt;You&lt;/u&gt; (all) have the instructions.
+|-
+|''&lt;u&gt;Sie&lt;/u&gt; verstehen die Arbeit.''
+|&lt;u&gt;They&lt;/u&gt; understand the work.
+|}
+In both English and German, the 3rd person singular also has '''gender'''. As you will next learn, the 2nd person (person being addressed) in German has both '''familiar''' and '''polite''' (formal) forms. Further, it is worth repeating here &amp;mdash; although introduced in ''Grammatik 2-1'' above and to be covered in detail in future lessons &amp;mdash; that the verb form changes when the subject changes. That is, in German the &lt;u&gt;verb form must match the subject of a sentence&lt;/u&gt;. Here are some examples; compare with the previous three example sentences above and note how the verb form changed to match the sentence subject (subject and verb underlined):
+{|
+|''&lt;u&gt;Ich verstehe&lt;/u&gt; die Arbeit.''
+|&lt;u&gt;I understand&lt;/u&gt; the work.
+|-
+|''&lt;u&gt;Du gehst&lt;/u&gt; einkaufen.''
+|&lt;u&gt;You go&lt;/u&gt; shopping.
+|-
+|''&lt;u&gt;Ich habe&lt;/u&gt; alle Antworten.''
+|&lt;u&gt;I have&lt;/u&gt; all the answers.
+|-
+|''&lt;u&gt;Er hat&lt;/u&gt; die Anleitungen.''
+|&lt;u&gt;He has&lt;/u&gt; the instructions.
+|}
+In the last example, the English verb form ('have') also changed based upon the subject of the sentence.
+
+----
+
+== Gespräch 2-1 ~ ''Die Geschäftsleute'' ==
+:&lt;big&gt;Herr Schmidt trifft Frau Baumann. Sie sind Geschäftsleute und sie arbeiten an dem Hauptsitz.&lt;/big&gt;
+:* ''Herr Schmidt'': &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Guten Tag, Frau Baumann!
+:* ''Frau Baumann'': &lt;big&gt;Guten Tag, Herr Schmidt!
+:* ''Herr Schmidt'': &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Wie geht es Ihnen?
+:* ''Frau Baumann'': &lt;big&gt;Sehr gut, danke. Und Ihnen?
+:* ''Herr Schmidt'': &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Auch gut.
+:* ''Frau Baumann'': &lt;big&gt;Schön. Haben Sie Herrn Standish schon getroffen?
+:* ''Herr Schmidt'': &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Aus England? Nein. Ist er zu Besuch? 
+:* ''Frau Baumann'': &lt;big&gt;Ja. Das ist richtig! Auf Wiedersehen, Herr Schmidt!
+:* ''Herr Schmidt'': &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Auf Wiedersehen, Frau Baumann! &lt;/big&gt;
+
+In this conversation, although the subject matter is basically casual, a more formal form of German is being used intoning respect between coworkers in an office setting. The polite form is expressed by the pronouns as explained below (Grammatik 2-3).
+
+== Vokabeln 2-1 ==
+ die Anleitungen          instructions
+ das Deutsch              German (language)         (more common is ''die deutsche Sprache'')
+ der Fremde               foreigner, stranger
+ die Firma                company, firm, business concern
+ die Frage                question
+ die Geschäftsleute       business people           (''die Leute'' = people)           
+ der Hauptsitz            head office               (''das Haupt'' = head or chief)
+ der Tag                  day, daytime
+
+ aus England              from England
+ Das ist richtig!         That is right!
+ Frau Baumann             Ms. Baumann
+ Herr Schmidt             Mr. Schmidt
+ zu Besuch                visiting
+ 
+ arbeiten                 work
+ getroffen                (have) met                (past participle of ''treffen'')
+ nennen                   name, call
+
+ alle                     all
+ an                       at
+ Ihnen                    (with ''or'' to) you          (polite form)
+ heute                    today
+ ihr                      you (plural), you all
+ ja                       yes
+ nein                     no
+ richtig                  correct
+ sie                      they                      (note: also &quot;she&quot;)
+ Sie                      you                       (polite form)
+ wir                      we
+:* &lt;small&gt;[[German/Appendices/Alphabet|Pronunciation Guide]] &gt;&gt; &lt;/small&gt;
+----
+== Grammatik 2-3 ~ Familiar and Polite Pronoun Forms ==
+Many pronouns were introduced in Lesson 1. In ''Grammatik 2-1'' and ''Gespräch 2-1'' we have been presented with the following additional pronouns:
+  ''Ihnen'' &amp;ndash; (to) you    (2nd person singular, dative case)
+  ''ihr'' &amp;ndash; you      (2nd person, plural, nominative case)
+  ''sie'' &amp;ndash; they     (3rd person, plural, nominative case) 
+  ''Sie'' &amp;ndash; you      (2nd person, singular, nominative case)
+  ''wir'' &amp;ndash; we       (1st person, plural, nominative case)
+In the conversations between friends presented in ''Gespräche 1-1'' and ''1-2'' ([[German/Lesson_1|Lektion 1]]) the '''familiar''' form of the personal pronouns (e.g., ''du'', ''dir'') was used.  However, German also has a '''polite''' or '''formal''' form of some of these personal pronouns. The polite form is used in conversations between strangers and more formal situations, as illustrated in the ''Gespräch 2-1'': greetings between business associates.
+
+The polite form is always first-letter capitalized in German, which can be helpful in differentiating ''Sie'' (you) from ''sie'' (she and they); ''Ihnen'' (you) from ''ihnen'' (them).  However, you will soon learn that the form of the '''verb''' (see ''Grammatik 2-3'' below) is most telling, as shown by these example pairs using the verb, ''haben'' (have):
+{|
+|''&lt;u&gt;Haben Sie&lt;/u&gt; eine Zigarette?''
+|Do you have a cigarette?
+|(polite form of you)
+|-
+|''&lt;u&gt;Sie hat&lt;/u&gt; keine Wurst und keinen Käse.''
+|She has no sausage and no cheese.
+|-
+|''&lt;u&gt;Sie haben&lt;/u&gt; viel Arbeit.''
+|They have much work (to do).
+|-
+|''&lt;u&gt;Haben sie&lt;/u&gt; zu viel Arbeit?''
+|Do they have too much work?
+|} 
+Because the first letter in a sentence is always capitalized, we cannot determine (without the verb form) whether the second and third examples begin with ''sie'' ('she' or 'they') or with ''Sie'' (polite 'you'); a problem that would also exist in conversation. The fourth example, where subject and verb are reversed in a question, demonstrates the pronoun 'they'; compare it with the polite 'you' in the first example. 
+
+It is relatively easy for an English speaker to appreciate how context, especially in conversation, overcomes confusion considering that English has fewer forms for these pronouns than German. However, this fact does present some difficulty when learning German, since improper use of a pronoun may just create confusion in speaking or writing German.
+
+== Gespräch 2-2 ~ ''Die Geschäftsmänner'' ==
+:&lt;big&gt;Herr Schmidt und Herr Standish begegnen sich am Hauptsitz:&lt;/big&gt;
+&lt;div style=&quot;float:right;margin:0 0 1em 1em;text-align:center;&quot;&gt;[[File:Flag of the United Kingdom.svg|122px|UK flag]]&lt;br&gt;&lt;small&gt;''Vereinigtes Königreich&lt;br&gt;  von Großbritannien und Nordirland''&lt;/small&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;div style=&quot;float:right;margin:0 5em 1em 1em;text-align:center;&quot;&gt;[[Image:Flag of Germany.svg|100px|Flag of Germany]]&lt;br&gt;&lt;small&gt;''Bundesrepublik&lt;br&gt;Deutschland''&lt;/small&gt;&lt;/div&gt;
+
+:* ''Herr Schmidt'': &lt;big&gt;Guten Morgen, Herr Standish! Wie geht es Ihnen?
+:* ''Herr Standish'': &lt;big&gt;Danke sehr, es geht mir gut. Und Ihnen?
+:* ''Herr Schmidt'': &lt;big&gt;Nicht so gut. Ich bin müde.
+:* ''Herr Standish'': &lt;big&gt;Wie bitte? Müde? Warum?
+:* ''Herr Schmidt'': &lt;big&gt;Ich habe so viel Arbeit.
+:* ''Herr Standish'': &lt;big&gt;Das kann ich verstehen. Zu viel ist zu viel.
+:* ''Herr Schmidt'': &lt;big&gt;Das ist richtig. Auf Wiedersehen, Herr Standish! 
+:* ''Herr Standish'': &lt;big&gt;Auf Wiedersehen, bis morgen.&lt;/big&gt;
+
+== Vokabeln 2-2 ==
+ die Bundesrepublik Deutschland Federal Republic of Germany
+ die Geschäftsmänner            businessmen            (''die Geschäftsleute'' is preferred)
+ Großbritannien                 Great Britain          (technically ''Vereinigtes Königreich''
+                                                        ''von Großbritannien und Nordirland'')
+ der Morgen                     morning
+ die Übersetzung                translation
+
+ bis morgen                     until tomorrow
+ Guten Morgen!                  Good morning           (greeting)
+ nicht so gut                   not so well
+ so viel                        so much
+ Wie bitte?                     How is that?
+ zu viel                        too much
+
+ bis                            until
+ kein                           no                     (in the sense on &quot;none&quot;)
+ müde                           tired
+ nicht                          not
+ sich                           each other
+ war&lt;b&gt;um&lt;/b&gt; ?                        why ?
+:* &lt;small&gt;[[German/Appendices/Alphabet|Pronunciation Guide]] &gt;&gt; &lt;/small&gt;
+----
+
+== Grammatik 2-4 ~ Personal pronoun gender ==
+In both English and German the 3rd person personal pronouns have gender ([[German/Lesson_1#Grammatik 1-3 ~ Introduction to pronouns|Grammatik 1-3]]). However, in English, the pronoun &quot;it&quot; is used for most inanimate or non-living things. There are a few exceptions: a ship might be referred to as &quot;she&quot;. However, in German, the 3rd person personal pronoun reflects the '''gender''' of the noun ('''antecedent''') referred to by the pronoun. For examples:
+{|
+|''Der Kühlschrank ist fast leer.''
+|''&lt;u&gt;Er&lt;/u&gt; ist fast leer.''
+|&lt;u&gt;It&lt;/u&gt; ('''masculine''') is almost empty.
+|-
+|''Ich brauche die Wurst.''
+|''Ich brauche &lt;u&gt;sie&lt;/u&gt;.''
+|I need &lt;u&gt;it&lt;/u&gt; ('''feminine''').
+|-              
+|''Das Gespräch ist schwer.''
+|''&lt;u&gt;Es&lt;/u&gt; ist schwer.''
+|&lt;u&gt;It&lt;/u&gt; ('''neuter''') is difficult.
+|}        
+The following table summarizes these gender relationships:
+
+{| border=&quot;1&quot; bgcolor=&quot;#FFFFCC&quot;
+|-
+| colspan=&quot;3&quot; | 3rd person pronouns
+|-
+| &amp;nbsp;masculine&amp;nbsp; || &amp;nbsp;'''''er'''''
+| &amp;nbsp;he
+|-
+| &amp;nbsp;feminine || &amp;nbsp;'''''sie'''''
+| &amp;nbsp;she
+|-
+| &amp;nbsp;neuter || &amp;nbsp;'''''es''''' || &amp;nbsp;it
+|}
+----
+
+== &lt;font color=&quot;#006699&quot;&gt;Übersetzung 2-1&lt;/font&gt; ==
+You may, at this point, try the flash cards developed for Level I German.  This set has a few words and concepts not yet presented in Level II, but for the most part can be very helpful in enhancing your vocabulary. Go to [http://www.flashcardexchange.com/card_set.php?id=248162 FlashcardExchange.com].    
+
+Translate the following sentences into German. Pay attention to whether familiar or polite form of the pronoun is requested:
+# Good day, Ms. Neumann. How are you? [in polite conversational form]
+# I am well, thank you. And you? [in polite form]
+# I am well, thank you. And you? [in familiar form]
+# Katrin is studying math.
+# They meet each other at the head office.
+# I do understand the instructions.
+# Is she visiting from England?
+# How is that? You have too much work? [in polite form]
+# Good bye, Mr. Smith. Until tomorrow morning?
+
+:* [[German/Answers_1#Lektion_2_Antworten|Antworten]] &gt;
+
+{{BookCat}}
+&lt;noinclude&gt;{{German/Level II/Footer}}&lt;/noinclude&gt;</text>
+      <sha1>el8n919a9jxbyefyj8ygbmp4usx6fn2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Loud speaker.png</title>
+    <ns>6</ns>
+    <id>1920</id>
+    <revision>
+      <id>984965</id>
+      <parentid>636311</parentid>
+      <timestamp>2007-09-26T14:30:24Z</timestamp>
+      <contributor>
+        <ip>82.198.250.80</ip>
+      </contributor>
+      <text xml:space="preserve">showing basic structure. Drawn by theresa knott
+
+{{GFDL}}
+{{Cc-by-sa-2.5}}</text>
+      <sha1>3k6w2k8tov9st708ahqo3k2rx8xd3ye</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:German/Level III</title>
+    <ns>1</ns>
+    <id>1921</id>
+    <revision>
+      <id>1867459</id>
+      <parentid>1864709</parentid>
+      <timestamp>2010-06-28T23:28:41Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>replaced: {{WikiProject Languages}} → {{WikiProject Languages|german=yes}}</comment>
+      <text xml:space="preserve">{{WikiProject Languages|german=yes}} 
+
+==Remake==
+&lt;big&gt;'''This needs a total remake, it is not even funny. It is very silly and useless to have A WHOLE different sub-section, with all the lessons of level 2, and the only thing which is different is a small, little advance page for each lesson. It needs different, and harder lessons. Isn't that the whole reason for a different sub-section page? We need all the complex grammer and difficult words of German in this level, or put the easier parts of complex German grammer and vocabulary of it here, and make a Level 4 and put the more difficult parts of complex German grammer and vocabulary in there. Derbeth even said we had to do something. And it is time. We need to get a plan together. Yes or No?
+'''&lt;/big&gt; &lt;small&gt; -- [[User:German Men92|German Men92]] 0:45, 17 Feb 2006 (UTC)&lt;/small&gt;
+* Okay, I started the remake, now we need to get planning for level 3 &amp; 4, level 5 is a big review level, and it's have a lot cultureal thing, and the history of the german language. -- [[User:German Men92|German Men92]] 14:24, 18 Feb 2006 (UTC)&lt;/small&gt;
+
+==Starting discussion==
+Under the table of contents, I've listed both what each lesson covers and what should or could be covered.  We can then modify the pages to meet these lesson goals. I think it is important to not have very complex grammar rules in a lesson before other rules supporting those are introduced - [[User:Marshman|Marsh]] 17:17, 3 Nov 2003 (UTC)
+
+Thanks Thomas. %^) Just what is needed: the corect terms/words for these things like Advanced Lessons! My having to use a dictionary is a handicap -- [[User:Marshman|Marsh]] 20:02, 3 Nov 2003 (UTC)
+
+Hi, Marsh. The more I look at the German-book, the more I feel uncomfortable with the complexity of the grammer you introduce in the early lessons. I would definitely prefere to begin with very easy things in the first lessons (like the different konjugation forms of easy verbs.), but nothing about reflexive verbs, declinations and differnt grammatical times. I know, that is a quite fundamental thing that affects the complete structure of the course, but for me, it seems worth to think about changing its complete structure. --- [[User:Hansm|Hansm]] 11:57, 5 Jan 2004 (UTC)
+:I'll will work on what you suggest when Wikipedia settles down. Right now I keep getting booted out.  I have been following a highschool German textbook, but my stories may be a bit more complex (the stories in the textbook are god awful) - [[User:Marshman|Marsh]] 19:14, 5 Jan 2004 (UTC)
+
+-----
+
+'''Let me give a proposal for a first lesson:'''
+
+Markus ist Student. Er studiert Biologie. Er begegnet Katrin auf der Straße.
+Sie studiert Mathematik.
+;'''Markus:''' Hallo, Katrin! Wohin gehst du?
+;'''Katrin:''' Ich gehe einkaufen. Der Kühlschrank ist fast leer. Ich brauche Wurst und Käse. Und du? Wohin gehst du?
+;'''Markus:''' An die Uni. Ich habe viel Arbeit.
+;'''Katrin:''' Gut! Dann bis bald. Tschüß.
+;'''Markus:''' Tschüß, Katrin.
+
+Now, what's the goal?
+* Only simple verbs, i.e. regular conjugations (at least in ''Präsenz'').
+* Only Nominativs. Well, actualy, there are other cases, too. But incidently, they are the same as their nominativs, so you need not to explain it for now :-)
+* Heinrich and Karl are rather old fashioned names. Markus and Katrin are more usual and give a parity in genders.
+* The question ''&quot;Wie geht es dir?&quot;'' is '''unusal''' as a greeting in German. So, it's not such a good example for a typical German small-talk.
+
+What could you explain?
+* Pronouns in Nominativ (ich, du, er, sie)
+* Simple Conjugations in 1st, 2nd and 3rd person singular.
+* How to build questions. 
+
+:I disagree. &quot;Wie geht's?&quot; is common small-talk, but you'd usually first greet. It'd be more common than telling the other person what your fridge is lacking. Also &quot;(Ich gehe) An die Uni. Ich habe viel Arbeit&quot; sounds very very odd. In German (or at least in colloquial German of most regions of Germany I know of) you'd rather say &quot;Zur Uni&quot; and &quot;Ich habe viel zu tun&quot;. I don't know about Austrian and Swiss German, tho -- although I'd guess most foreigners first want to learn the Germany-German variant when intending to learn German (as this is also usually the one taught in schools). -- [[W:User:Ashmodai|W:Ashmodai]]
+
+::I'll work those changes in. I agree, what is always needed here are native speakers assessing the conversational material for &quot;modern&quot; appropriateness. I do not have that ability. I was last in Germany around 1953 and then as a child not speaking German! - [[User:Marshman|marsh]] 19:16, 19 August 2005 (UTC)     
+----
+
+'''Proposal for a 2nd lesson:'''
+
+Markus ist in der Universität. Er trinkt dort einen Kaffee und isst ein Brötchen. Danach geht er in die Bibliothek. Er sucht ein Buch über Biochemie. Er holt das Buch aus dem Regal und setzt sich an einen Tisch. Nach einer Stunde geht er in den Hof und raucht eine Zigarette. Danach geht er an den Tisch zurück. Er denkt: &quot;Wenigstens eine Stunde...&quot; und stellt das Buch wieder in das Regal. Heute ist nicht sein Tag.
+
+What could you explain?
+* Genders
+* Articles: der, die das, ein, eine, ein.
+* Nominativ, Dativ and Akkusativ. (We could live without Genitiv for a while)
+* Daklinations with articles. 
+* Keep everthing in singular.
+
+
+-- [[User:Hansm|Hansm]] 12:56, 6 Jan 2004 (UTC)
+
+Hansm. These are good ideas, and I am certainly not qualified to &quot;rule over&quot; this textbook. I am concerned myself that the early lessons may be a bit too difficult, one reason that I created '''two levels''' out of each lesson (a simple and a more advanced presentation of the same concepts). We can work your suggestions into the front of the existing material, pushing the existing stuff further back in the book.  While not an easy editing task, I'm willing to do it to make the text more consistent with modern German and, as you say, simplify the earliest lessons. Any corrections/additions you proivide are greatly appreciated &amp;mdash; and input from others would likewise improve the book. That is the idea of doing a book here, so do not worry about stepping on toes. Just be conservative in removing material already worked on and try and preserve the overall style (which can also be improved on).  Others have done some of these lessons (not all by me), and I usually try and keep the material by moving it around to someplace where it best fits in - [[User:Marshman|Marsh]] 18:41, 6 Jan 2004 (UTC)     
+
+== Organizing the Approach ==
+
+Hm, now we all have been working on our 'German patchwork', but still I'm not so happy with the result. Maybe the biggest problem I see is the grammatical concept. Summarizing the grammatical themes, I found the following list:
+
+:Realize the result right now is a patchwork because all I have done is adjusted Lesson 1 and 1A to fit the material you suggested be used as &quot;less difficult&quot; to read; I've yet to get to any of the other lessons (just a start on Lesson 2) that are impacted by the changes. Having said that, I do agree with the approach you are starting to outline below. - [[User:Marshman|Marsh]] 02:02, 9 Jan 2004 (UTC)  
+
+:''I've added explanation to each point to give you a sense of what organisation exists (and does not exist in many cases)'' - Marsh
+* personal pronouns, all in nominativ, some in dativ  (Lesson 1) ''All are pronouns; that is all that is accomplished here: Introduction to pronouns''
+* personal pronouns, but nominativ only (Lesson 1A) ''This is an advanced lesson, not intended for begining students to access, but should amplify one or more of the lessons in the basic Lesson 1 for 2nd year or college level students without introducing something the Basic lessons will need; rather limited on what this can be in Lesson 1A (Hey, you did this lesson :^?)''
+* personal pronouns for familar and polite form, nominativ and dativ (Lesson 2) ''Familiar and polite pronoun concept introduced in Grammatik 2-1''
+* word order in questions (Lesson 2) ''There are many things to cover about word order in German sentences, so this is just the first one'' 
+* again, personal pronouns for familar and polite form, nominativ and dativ. This is the first time that the meaning of cases is explained! (Lesson 2) ''Not so, case is mentioned in Grammatik 1-2; this is first application of the concept (it is afterall only Lesson 2) - it could be argued this is too soon in the sequence'' 
+* Composed nouns (Lesson 2A)- ''Please ignore for now. All advanced lessons will change somewhat, based on the premise that they should amplify points made in the basic lesson - Lesson N = Beginning student; Lesson N + NA = advanced student (same lesson, more detail) 
+* Numbers, cardinal and ordinal ( Lesson 3) ''Some lessons will have to cover these broader aspects: time, numbers, colors, etc.; best to start early with numbers''
+* telling/asking time (Lesson 3) ''Makes pefect sense from fact that fact that German numbers introduced are 1-12. Numbers greater than 12 will be part of a future lesson (2nd &quot;round&quot;)'' 
+* nouns, gender, definite articels (Lesson 3) ''May need to go to Lesson 4, but this is the introduction to nouns; seems like articles (definite at least) are good to include at this point.  Again, there can be an appendix page that gives the rules and has tables for nouns, articles, endings, etc. This constitutes information of reference value; lesson should stick to just one aspect about nouns, nothers aspects coming up one at a time in later lessons - this approach allows the examples to grow in complexity in a way meaningful to what the student should know by a particular lesson. This is where I especially need a native speaker to develop (or tweak) the stories and conversations to keep them consistent (or close to) the expected level of grammar knowledge at the point where they appear. Note that the Vokabeln is geared to this approach as well.'' 
+* (possesive) pronouns in accusative and dativ (Lesson 3) ''Each case of the personal pronouns is taken in order in successive lessons''
+* again, personal pronouns, but nominativ (Lesson 3a) ''out of sequence for reason elaborated above; ignore for now''
+* possesive pronouns in dativ (labeled as genitiv) (Lesson 4) ''These are possessive adjectives, not datives''
+* indefinite articles (Lesson 4) ''Expands on the definte articles lesson in 3''
+* gender of ordinals, nominativ only (Lesson 4A) ''out of sequence''
+* details of telling time ( Lasson 4A) ''out of sequence''
+* personal Pronouns: accusative case (Lesson 4A) ''out of sequence''
+* Conjugating 'to be' (Lesson 5) ''I've not worked on this lesson - contributed by others''
+* personal Pronouns: dative case (Lesson 5A) ''ignore for now''
+
+Is there any kind of intension behind that? For me, it looks somewhat like a random result. 
+
+:I do not agree it either is or looks random.  Although after about Lesson 2, it is now all mixed up. One cannot take any area (say verbs) and treat it to completeness in a single or short sequence of lessons. Since language is the melding of all the parts of speech and grammar, the best approach (IMHO) is to start with as many of the basic concepts as can fit in but initially cover each rather superficially, then step these up in complexity in a programmed way (&quot;rounds&quot;).  Thus, the lessons now present cover lots of different areas, but only in a basic way. The next set of lessons (yet to be even dreamed of by me) would go back to all of the concepts in the first 5 or 7 lessons and bulid in complexity on each. It may take many cycles of this to progress from beginning German to any kind of mastery.  That is how language '''courses''' work.  One can now find in several places on the web German language grammatical rules - sites that present everything there is to known about pronouns on one page, all there is to know about verbs on the next, etc.  These are great sources of information, but no one has or could learn to speak a foreign language from them. They are not language courses, but language information sites. In a sense, I did envision having appendices to the language book that somewhat used this approach - [[User:Marshman|Marsh]] 02:14, 9 Jan 2004 (UTC)       
+
+===Proposal===
+
+'''I'd propose the following strategy''':
+# Elaborate a grammatical giudeline. Fix, what grammatical themes should be treated in which lesson.
+# Write the example texts.
+# Give short additional explanations and vocabulary.
+
+Point 1. is probably better done by those who have learned German as a foreigne langugage since natives often do not realy know what porblems may occure when learning German grammar and what are the actual grammatical rules.
+
+Point 2. is maybe better done by German natives. -- [[User:Hansm|Hansm]] 14:29, 8 Jan 2004 (UTC)
+
+: I think this is a good idea. In fact I proposed something very similar  awhile back on one of the Germam:Talk pages. But you are the first native speaker that has expressed any interest in the organization of the book. I especially agree with your assessment of who should best work on the first two points (although I'd like to stay involved in all aspects as I suspect would anyone else that joins in) &amp;mdash; but clearly a native speaker can do the best job on the example texts. - [[User:Marshman|Marsh]] 02:19, 9 Jan 2004 (UTC)
+
+:Please exapand on your third point. I'm unclear what you are proposing there?&lt;br&gt;As for the grammatical guideline, I can make that clearer, even to the point of getting out ahead of where the lessons presently are; but that will take time.  Just keeping organized/edited what we do have is already a big consumer of my online time.  Realize again, that because of the changes WE made to Lesson 1, it will take a few days for me to work through the consequences to the lessons to the end of Lesson 6.  In fact, the lessons past about 4 are not near any shape to use.&lt;br&gt;Please read the [[German: Introduction|Vorwort]] if you have not already. It explains the overall organization of the book. Otherwise, the organization that is already present is this: Each part of speach (pronoun, noun, verb, etc.) is introduced at some point early in the first lessons.  Each is then elaborated on over the next several lessons to a review point. Only fairly basic information and examples are given on each.  Then another sety of lessons is developed with a bit more complexity introduced.  From the saample Lesson 0.1 you prepared, this seemed to be exactly where you were going - [[User:Marshman|Marsh]] 02:32, 9 Jan 2004 (UTC)
+
+::I never did say that we have to treat one theme after the other to completeness in a sequence of lessons. It's just the point that we have to find a reasonable and tranparent sequence of grammatical themes we want to explain. E.g., for me, it looks odd using (partly very complicated) different verb forms in 4 lessons without saying anything about verbs. But you may see other preferences. That's why I have suggested to elaborate a guideline first. Anyway, I agree totaly with your idea about more and more detailed rounds.
+
+::To point 3 in my proposal: Maybe I have formulated it a bit confusing. Sorry. What I wanted to say is this: After we know, what the main grammatical points for a lesson should be (Point 1) and the example texts are written (point 2), we need to integrate the key examples from the texts into the grammatical explanation. Furthermore, it might have turned out that the examples must use some additional grammatical stuff that should at least be mentioned in the grammer part. The latter 2 steps are point 3. Maybe, I better had sayd point 3 and 4.
+
+::-- [[User:Hansm|Hansm]] 14:22, 9 Jan 2004 (UTC)
+
+:::I think I see what you are saying. And of course that is also where you can be a big help.  After 1 and 2 are &quot;completed&quot; you could go back (especially to a conversation or story) and add or modify some lines to better illustrate the lesson points.  We (or others) could extract examples from these to illustrate certain lessons (i.e., Point 3).&lt;br&gt;As to your point on having so many verb forms in the conversations before verbs are introduced I can give two explanations: 1) some grammar rules will lag behind use of the rule in conversation or stories just because all the rules cannot be given up front; 2) however, you and others have been simplifying the conversations to minimize this problem (much appreciated input), so I'm not too concerned that it is a problem that will eventually not be serious - [[User:Marshman|Marsh]] 07:08, 10 Jan 2004 (UTC)
+
+::::One more short explanation: I think, point 2 should be oriented as close as possible at point 1, i.e. the story or conversation should be written with some new grammer rules in mind. Idealy, it will give many grammatical examples in a quite naturaly looking way.
+
+::::I simply have begun to organize a possible guideline. The basical idea is to first collect themes (subsection 1) and then diviede it into lessons (subsection 2). I would highly appreciate if you would add your ideas and themes.  -- [[User:Hansm|Hansm]] 19:41, 11 Jan 2004 (UTC)
+
+-------------------------
+
+===Grammatical guideline for the first 10 lessons===
+
+
+====Themes that should be treated====
+
+This is just a brain storming collection of themes. The enumeration is intended as reference, not as sequential number. So please, '''append new items at the end''' and give them a new number in sequence. 
+
+* 1. Personal pronouns in nominative.
+* 2. Personal pronouns in dative.
+* 3. Personal pronouns in accusative.
+* 4. Meaning of and ideas behind declensions
+* 5. Rules for declining nouns with definite article
+* 6. Rules for declining nouns with indefinite article
+* 7. Meaning of verb conjugations
+* 8. Regular conjugation in present tense (''Präsens indikativ'').
+* 9. Some important irregular verbs in present tense (''Präsens indikativ'').
+* 10. Building the perfect.
+* 11. Building the particip perfect for regular verbs.
+* 12. Adjectives
+* 13. Adjectives must fit in number, case and gender to the noun
+* 14. Word order in German sentences: questions; 
+* 15. Numbers (1-12), telling time
+* 16. Numbers, (13-100), math
+* 17. Possessives (pronouns and adjectives)
+* 18. Prepositions
+* 19. Modal auxiliaries
+* 20. Irregular verbs
+* 21. Konjunktiv I und II, and uses of werden
+* 22. Capitalization of nouns
+
+====What theme in which lesson====
+
+* '''Lesson 1:''' 14 (introduces &quot;grammar&quot; and &quot;pronouns&quot;)
+* '''Lesson 2:''' 1 (introduces &quot;verbs&quot;)
+* '''Lesson 3:''' 15, 5, 2, 3 (introduces &quot;nouns&quot;)
+* '''Lesson 4:''' 4, 6, 7 
+* '''Lesson 5:''' 8, 9 (partly?)
+* '''Lesson 6:''' 17 (introduces &quot;adjectives&quot;)
+* '''Lesson 7:''' 
+* '''Lesson 8:''' 
+* '''Lesson 9:''' 
+* '''Lesson 10:''' 
+
+::I think this is a good way to approach organization; we can &quot;move&quot; the themes around here to set up a good sequencing.  However, I would suggest that Lesson 1 is now done as it stands; that Lesson 2 could have intro to verbs (and possibly therefore #8), but is also about done.&lt;br&gt;&lt;br&gt;I have set things up to have an introduction to each of the parts of speech (English speakers are not always that familiar with this). This does not mean there cannot be a &quot;first&quot; lesson on that subject in the same lesson, but generally it would be best to have that in the very next lesson. Remember, that for each lesson there is also a goodly Vokabeln to be learned in addition to a grammar lesson.  We must also consider that the stories and conversations should be short so sound files can eventually be prepared for each; but that having short ones, means needing to have more. One way to have &quot;more&quot; is to spread the lessons out. Since this is a textbook, there is no reason to cram too much onto each &quot;page&quot;). I'll give this more thought - [[User:Marshman|Marsh]] 03:08, 12 Jan 2004 (UTC)
+
+::I've now completed Lesson 1A, Lesson 2, and Lesson 2A.  We can now develop additioonal themes using verbs and pronouns. If nouns are introduced in 3 as I suggesdt, then Lesson 3 is near completion and lessons on verb forms can be developed. I'll move the concepts/themes to the contents page for reference - [[User:Marshman|Marsh]] 04:37, 16 Jan 2004 (UTC)  
+------------------
+
+===Vocabulary===
+
+Moved to [[Talk:German: Introduction]].
+
+----
+
+Why does [[German:Contents]] redirect here? I think, to be fair, it should redirect back to the cover page. - [[User:SamE|SamE]] 15:23, 27 Jul 2004 (UTC)
+
+== Same Lessons for Level II and III? ==
+
+I'm wondering why level II and III point to the same lessons. Is level III a repetition of II? -- [[User:Messi|messi]] 23:24, 23 Jun 2005 (UTC)
+:Thought I answered this already somewhere?  Anyway, the answer is that yes Level III is the same as Level II but then Level III includes the advanced lesson page following each basic lesson page. This is explained in the introduction page. Appreciate your corrections. :^) - [[User:Marshman|marsh]] 18:11, 27 Jun 2005 (UTC)
+
+
+== Some fun ideas for advanced sections ==
+* German slang
+* Bavarian dialect</text>
+      <sha1>o2qc6zuvg8we6rloixv9k0ky0rfs0ep</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>The Once and Future King/Minor Characters</title>
+    <ns>0</ns>
+    <id>1927</id>
+    <revision>
+      <id>2438824</id>
+      <parentid>539000</parentid>
+      <timestamp>2012-11-12T03:16:37Z</timestamp>
+      <contributor>
+        <username>Cheryl2012</username>
+        <id>645263</id>
+      </contributor>
+      <minor />
+      <comment>remove i</comment>
+      <text xml:space="preserve">''[[The Once and Future King]]'' - '''Minor Characters'''
+
+See also [[../Major Characters|Major Characters]].
+
+As many characters have only a given name, or take &quot;of Somewhere&quot; as their last name, the characters are listed  alphabetically by first name.
+
+Note that characters in ''The Once and Future King'' may not exactly match with traditional Arthurian legend.
+
+&lt;b id=&quot;Ector&quot;&gt;Sir Ector&lt;/b&gt; - Owns the Castle of the Forest Sauvage. He adopts and cares for [[../Major Characters#Arthur|the Wart]] . He is the father of [[#Kay|Kay]].
+
+&lt;b id=&quot;Kay&quot;&gt;Sir Kay&lt;/b&gt; - Son of [[#Ector|Sir Ector]] and friend of [[../Major Characters#Arthur|the Wart]]. He tries to act superior over the Wart. He follows Arthur on one adventure: the rescue mission at [[#Morgan|Morgan le Fay]]'s castle (see ''[[../The Sword in the Stone/]]''). When Arthur brings Kay the Sword in the Stone, Kay falsely claims to have drawn the sword himself, but soon gives the credit to Arthur. He later becomes a knight of the Round Table.
+
+&lt;b id=&quot;Morgan&quot;&gt;Morgan le Fay&lt;/b&gt; - The most evil of the Cornwalls, and the strongest in magic. &quot;Le Fay&quot; means &quot;the Fairy&quot;. She is the antagonist in the major adventure in ''[[../The Sword in the Stone/]]''. Her sisters are Elaine (not mentioned) and [[Major Characters (OaFK)#Morgause|Morgause]].
+
+[[Category:The Once and Future King]]</text>
+      <sha1>q5v19xcw73o4emrv78068gxqu9ef3tc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>German/Level III/Mach Dir Keine Sorgen!</title>
+    <ns>0</ns>
+    <id>1928</id>
+    <revision>
+      <id>1967861</id>
+      <parentid>1967860</parentid>
+      <timestamp>2010-11-06T19:34:30Z</timestamp>
+      <contributor>
+        <ip>84.162.61.227</ip>
+      </contributor>
+      <comment>/* Additional Notes */</comment>
+      <text xml:space="preserve">{{German/Level III/Header}}
+----
+&lt;center&gt;
+&lt;big&gt;&lt;big&gt;Lektion Drei für Fortgeschrittene&lt;/big&gt;&lt;/big&gt;
+&lt;/center&gt;
+
+== Gespräch 3-3 ~ ''Mach dir keine Sorgen!'' ==
+&lt;big&gt;Beim Ballspielen macht Karl sich Sorgen um die Uhrzeit.&lt;/big&gt;
+* ''Karl'': &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Wie spät ist es jetzt? 
+* ''Heinrich'': &lt;big&gt;Es ist erst halb eins.
+* ''Karl'': &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Kannst du mir bitte sagen, wenn es Viertel vor zwei ist?&lt;/big&gt; 
+* ''Heinrich'': &lt;big&gt;Warum? 
+* ''Karl'': &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Dann muss ich nach Hause gehen.
+* ''Heinrich'': &lt;big&gt;Und jetzt ist es schon ein Uhr einunddreißig.
+* ''Karl'': &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Du bist komisch! Hier, ich kicke dir den Ball zu.
+* ''Heinrich'': &lt;big&gt;Ja. Dann kann ich ihn dir zurückkicken.
+* ''Karl'': &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Ja. Und danach bringst du mich auf deinem Motorrad zu meiner Wohnung. &lt;/big&gt;
+
+== Vokabeln 3-3 ==
+ das Ballspiel           ball game
+ die Minute              minute
+ das Motorrad            motorcycle
+ die Sorge, die Sorgen   problem(s), worry(-ies)
+ das Viertel             quarter, one-fourth 
+ die Woche               week
+ die Wohnung             apartment
+
+ mach dir keine Sorgen!  do not worry!
+ nach Hause gehen        go home
+
+ kicken                  kick
+ zurückkicken            kick back, return kick
+
+ beim                    when, while             (usually, &quot;at the&quot;)
+ danach                  after that
+ dein                    your
+ erst                    only
+ halb                    half
+ jetzt                   now
+ komisch                 comical, funny
+ mein                    my
+ schon                   already
+ zurück                  back
+ war&lt;b&gt;um&lt;/b&gt;                   why                     (interrogative)
+
+
+== Grammatik 3-5 ~ Numbers ==
+
+=== Gender of Ordinals ===
+Ordinal numbers are adjectives, and therefore have forms for each of the three genders in German. The forms are derived from the feminine form (as introduced in the beginning of [[German/Lesson 3|Lesson 3]]) by adding an 'r' (masculine) or an 's' (neuter). Thus: ''erste'' (feminine), ''erste'''r''''' (masculine), and ''erste'''s''''' (neuter). Examples:
+:~ ''erster Mann'' ('first man'); ''letzter Mann'' ('last man'); ''siebter Himmel'' (7th heaven)
+:~ ''zehnte Frau'' ('tenth woman'); ''zweite Woche'' ('second week')
+:~ ''drittes Mädchen'' ('third girl')
+
+== Grammatik 3-6 ~ Expressions of Time ==
+===Idioms used in Telling Time ===
+As in English, there are a number of idiomatic phrases associated with giving or telling time. For example, note that the half hour is given as approaching the next hour. The German preposition, ''um'', is used to mean &quot;at&quot; a given time.
+{|
+|''Es ist &lt;u&gt;halb elf&lt;/u&gt;''.
+|It is &lt;u&gt;half past ten&lt;/u&gt; (10:30).
+|-
+|''Er kommt &lt;u&gt;um sieben Uhr&lt;/u&gt;''.
+|He is coming &lt;u&gt;at seven o'clock&lt;/u&gt;.
+|-
+|''Sie kommt immer &lt;u&gt;ungefähr um acht Uhr&lt;/u&gt;''.
+|She always comes &lt;u&gt;around eight o'clock&lt;/u&gt;.
+|-
+|''Wir essen &lt;u&gt;gegen sieben Uhr&lt;/u&gt;''.
+|We eat &lt;u&gt;about seven o'clock&lt;/u&gt;.
+|- 
+|''Sie gehen nach Hause &lt;u&gt;auf eine Stunde&lt;/u&gt;''.
+|They go home &lt;u&gt;for an hour&lt;/u&gt;.
+|-
+|''Es ist &lt;u&gt;viertel zehn&lt;/u&gt;&lt;sup&gt;1&lt;/sup&gt;''
+|It is a &lt;u&gt;quarter past nine&lt;/u&gt;
+|-
+|}
+:&lt;sup&gt;1&lt;/sup&gt;This idiom (''Es ist viertel zehn'') is used especially in the southern parts of Germany, but is becoming popular among young Germans throughout the Country.
+
+===Periods of the Day===
+There are a number of adverbial phrases used in German to denote time periods during the day. Common ones are listed here:
+{|
+|''am Morgen''
+|in the morning; also as ''morgens''&lt;sup&gt;2&lt;/sup&gt; or ''des Morgens''
+|-
+|''am Mittag''
+|at noon, midday; also as ''mittags'' or ''des Mittags''&lt;sup&gt;2&lt;/sup&gt;
+|-
+|''am Nachmittag''
+|in the afternoon; also as ''nachmittags'' or ''des Nachmittags''&lt;sup&gt;2&lt;/sup&gt;
+|-
+|''am Abend''
+|in the evening; also as ''abends'' or ''des Abends''&lt;sup&gt;2&lt;/sup&gt;
+|-
+|''am Tage''
+|in the daytime
+|-  
+|''in der Nacht''
+|at night
+|-
+|''gegen Abend''
+|towards evening
+|-
+|''gegen Morgen''
+|towards morning
+|}
+:&lt;sup&gt;2&lt;/sup&gt; Forms like ''morgens'' and ''des Nachmittags'' would tend to be used to indicate  customary or habitual actions, as in this sense:
+::''Morgens spiele ich''. = In the morning I (usually) play.
+:However, these forms aren't used much anymore.
+
+=== Additional Notes ===
+The first sentence in Gespräch 3-3 uses ''Beim Ballspielen'' in the sense of &quot;during the ball game&quot; or &quot;while playing ball&quot;. ''Beim'' is a contraction of ''bei dem'' or &quot;at the&quot;. However, ''das Ballspiel'' is a noun that represents an action (&quot;playing with a ball&quot;), so it is correct to use ''beim'' in the sense intended here. It is not the most beautiful way of saying this&amp;mdash;but is correct. With the infinitive of a verb you can use ''beim'' too: ''Beim Spielen'' means &quot;while playing&quot;. This form is more common in modern German language.
+
+== Vokabeln 3-4 ==
+ der Abend               evening
+ der Himmel              heaven
+ der Mittag              noon, noontime
+ der Morgen, die Morgen  morning(s)                    
+ der Nachmittag          afternoon
+ die Nacht               night
+ der Tag, die Tage       day(s)
+
+ abreisen                depart (from a trip)
+
+ auf                     for (duration), after
+ gegen                   towards, about, approximately
+ letzt(er)               last
+ ungefähr                (at) about, approximately
+
+Note that ''morgen'' does not change in plural; thus, ''Die Morgen'' = &quot;the mornings&quot;. It is uncommon to use it in plural, unless as a measure of land ''Vier Morgen Land'' = &quot;four 'morgens of land&quot;. For a plural use of &quot;mornings&quot;, it is better to substitute ''die Vormittage''.
+
+== Andere Wörter 3A ==
+Using these additional vocabulary words, you may be able to restate '''Gespräch 3-3''' above, altering the meaning (or time of day) of the conversation.
+
+ die Hälfte           half 
+ die Viertelstunde    quarter of an hour
+
+:* &lt;small&gt;[[German/Appendices/Alphabet|Pronunciation Guide]] &gt;&gt;&lt;/small&gt;
+
+== Übersetzung 3-2 ==
+Translate the following sentences into German:
+&lt;big&gt;&lt;font color=&quot;#CC3399&quot;&gt;
+# I am always at home in the morning.
+
+&lt;/font&gt;&lt;/big&gt;
+:* [[../Answers|Antworten]] &gt;</text>
+      <sha1>mw304fsqc2etjektymoqb4fn9pbaov3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Introduction to reactions/Oxymercuration/demercuration</title>
+    <ns>0</ns>
+    <id>1930</id>
+    <revision>
+      <id>961180</id>
+      <parentid>616121</parentid>
+      <timestamp>2007-09-07T18:34:48Z</timestamp>
+      <contributor>
+        <username>Whiteknight</username>
+        <id>10714</id>
+      </contributor>
+      <minor />
+      <comment>removing all sub-pages from [[Category:Chemistry]], reformatting book main pages to use {{Subject}}</comment>
+      <text xml:space="preserve">'''Oxymercuration''' is a process by which water is added to an alkene through treatment of the alkene with mercury(II) acetate [Hg(O&lt;sub&gt;2&lt;/sub&gt;CCH&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;, usually abbreviated Hg(OAc)&lt;sub&gt;2&lt;/sub&gt;] in an aqueous tetrahydrofuran ([[Organic Chemistry/Introduction to reactions/THF|THF]]) solvent. Rarely this reaction is referred to as Oxymercuration/reduction. This reaction looks just like [[Organic Chemistry/Introduction to reactions/Markovnikov|Markovnikov.]] addition of water across a double bond, however there is no carbocation intermediate, so there is no rearrangement.
+You will learn that NaBH&lt;sub&gt;4&lt;/sub&gt; is a common [[Organic Chemistry/INSERT SECTION HERE/Reducing agents|reducing agent.]]
+
+==Equations==
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;H2&gt;Addition of water by oxymercuration&lt;/H2&gt;
+&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;1. Hg(OAc)&lt;sub&gt;2&lt;/sub&gt;, H&lt;sub&gt;2&lt;/sub&gt;O/THF&lt;br&gt;
+H&lt;sub&gt;2&lt;/sub&gt;C=CH&lt;sub&gt;2&lt;/sub&gt;  --------------&gt;           H&lt;sub&gt;3&lt;/sub&gt;C-CH&lt;sub&gt;2&lt;/sub&gt;OH&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. NaBH&lt;sub&gt;4&lt;/sub&gt;
+|}
+
+{{BookCat}}</text>
+      <sha1>qykbu0h6hw06ltzvrs6pc5d4ti1kqkg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Easy Sequence 6/Solution</title>
+    <ns>0</ns>
+    <id>1931</id>
+    <revision>
+      <id>2683614</id>
+      <parentid>2683586</parentid>
+      <timestamp>2014-07-22T08:54:36Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <text xml:space="preserve">They are powers of 3:
+
+3 9 27 81 '''243 729 2,187 ...'''
+
+[[Category:Puzzles]]</text>
+      <sha1>5lkuuxswngz55g3i26o82racnm7s09x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>HyperText Markup Language/Text Formatting</title>
+    <ns>0</ns>
+    <id>1932</id>
+    <revision>
+      <id>2607759</id>
+      <parentid>2307647</parentid>
+      <timestamp>2014-02-09T15:21:51Z</timestamp>
+      <contributor>
+        <username>Wikiuser13</username>
+        <id>1279186</id>
+      </contributor>
+      <comment>/* Abbreviations */</comment>
+      <text xml:space="preserve">The '''Text Formatting''' elements give logical structure to phrases in your '''HTML''' document. This structure is normally presented to the user by changing the appearance of the text.
+
+We have seen in the [[HTML Programming|Introduction]] to this book how we can  ''emphasize'' text by using &lt;code&gt;&lt;nowiki&gt;&lt;em&gt;&lt;/em&gt;&lt;/nowiki&gt;&lt;/code&gt; tags. Graphical browsers normally present emphasized text in italics. Some [[w:Screen reader|Screen readers]], utilities which read the page to the user, may speak emphasized words with a different inflection.
+
+A common mistake is to confuse the appearance of the element in your preferred browser for the meaning of the element. This is one reason why you should use more than one browser to test your pages. Ideally you would use a graphical browser, a text-only browser and a screen reader.
+
+You can change the default presentation for any element using [[Cascading Style Sheets]]. For example if you wanted all emphasized text to appear in red normal text you would use the following CSS rule:
+&lt;pre&gt;
+ em { font-style:normal; color:red; }
+&lt;/pre&gt;
+
+In this section, we will explore a few basic ways in which you can markup the logical structure of your document.
+
+==Emphasis==
+HTML has elements for two degrees of emphasis:
+* The {{HTML:element|em}} element for emphasized text, usually rendered in italics.
+* The {{HTML:element|strong}} element for strongly emphasized text, usually rendered in bold.
+
+An example of emphasized text:
+&lt;source lang=&quot;html4strict&quot;&gt;
+It is essential not only to guess but actually &lt;em&gt;observe&lt;/em&gt; the results.
+&lt;/source&gt;
+
+An example rendering:
+
+{{CSS:rendered|1=It is essential not only to guess but actually &lt;em&gt;observe&lt;/em&gt; the results.}}
+
+An example of strongly emphasized text:
+&lt;source lang=&quot;html4strict&quot;&gt;
+Let us now focus on &lt;strong&gt;structural markup&lt;/strong&gt;.
+&lt;/source&gt;
+
+An example rendering:
+
+{{CSS:rendered|1=Let us now focus on &lt;strong&gt;structural markup&lt;/strong&gt;.}}
+
+==Preformatted text==
+Preformatted text is rendered using fixed-width font, and without condensing multiple spaces into one, which results in preserved spacing. Newlines are rendered as newlines, unlike outside preformatted text. HTML markup in the preformatted text is still interpreted by browsers though, meaning that &quot;&lt;nowiki&gt;&lt;em&gt;a&lt;/em&gt;&lt;/nowiki&gt;&quot; will still be rendered as &quot;&lt;em&gt;a&lt;/em&gt;&quot;.
+
+To create preformatted text, start it with &amp;lt;pre&amp;gt; and end it with &amp;lt;/pre&amp;gt;.
+
+An example:
+
+&lt;source lang=&quot;html4strict&quot;&gt;
+&lt;pre&gt;
+,-----------------------,
+| No. | Person          |
+|-----------------------|
+| 1.  | Bill Newton     |
+| 2.  | Magaret Clapton |
+'-----------------------'
+&lt;/pre&gt;
+&lt;/source&gt;
+
+The resulting rendering:
+
+&lt;pre&gt;
+,-----------------------,
+| No. | Person          |
+|-----------------------|
+| 1.  | Bill Newton     |
+| 2.  | Magaret Clapton |
+'-----------------------'
+&lt;/pre&gt;
+
+Omitting the preformatting tags will cause the same text to appear all in one line:
+
+,-----------------------,
+| No. | Person          |
+|-----------------------|
+| 1.  | Bill Newton     |
+| 2.  | Magaret Clapton |
+'-----------------------'
+
+==Special Characters==
+
+&lt;span class=&quot;noprint&quot;&gt;{{todo|Cleanup special character table, left column needs &quot;sorting&quot;.}}
+: ''See also [[meta:Help:Special characters]].''&lt;/span&gt;
+To insert non-standard characters or characters that hold special meaning in HTML, a HTML character reference is required. For example, to input the ampersand, &quot;&amp;&quot;, &quot;&amp;amp;amp;&quot; needs to be typed.  Characters can also be inserted by their Ascii or Unicode number code.  
+
+{{col-begin}}
+{{col-2}}
+{| class=&quot;wikitable&quot;
+!Name Code
+!Number Code
+!Glyph
+!Description
+|-
+| &amp;amp;quot;
+| &amp;amp;#34;
+| '''&quot;''' 
+| double quotation mark
+|-
+| &amp;amp;amp;
+| &amp;amp;#38;
+| '''&amp;''' 
+| ampersand
+|-
+| &amp;amp;frasl;
+| &amp;amp;#47;
+| '''&amp;#47;''' 
+| slash
+|-
+| &amp;amp;lt;
+| &amp;amp;#60;
+| '''&amp;#60;''' 
+| less-than sign
+|-
+| &amp;amp;gt;
+| &amp;amp;#62;
+| '''&amp;#62;''' 
+| greater-than sign
+|-
+| &amp;amp;ndash;
+| &amp;amp;#150;
+| '''&amp;#150;''' 
+| en dash
+|-
+| &amp;amp;mdash;
+| &amp;amp;#151;
+| '''&amp;#151;''' 
+| em dash
+|-
+| &amp;amp;nbsp;
+| &amp;amp;#160;
+| &amp;nbsp; 
+| nonbreaking space (invisible)
+|-
+| &amp;amp;iexcl;
+| &amp;amp;#161;
+| '''&amp;#161;''' 
+| inverted exclamation
+|-
+| &amp;amp;cent;
+| &amp;amp;#162;
+| '''&amp;#162;''' 
+| cent sign
+|-
+| &amp;amp;pound;
+| &amp;amp;#163;
+| '''&amp;#163;''' 
+| pound sterling
+|-
+| &amp;amp;curren;
+| &amp;amp;#164;
+| '''&amp;#164;''' 
+| general currency sign
+|-
+| &amp;amp;yen;
+| &amp;amp;#165;
+| '''&amp;#165;''' 
+| yen sign
+|-
+| &amp;amp;brvbar; or &amp;amp;brkbar;
+| &amp;amp;#166;
+| '''&amp;#166;''' 
+| broken vertical bar
+|-
+| &amp;amp;sect;
+| &amp;amp;#167;
+| '''&amp;#167;''' 
+| section sign
+|-
+| &amp;amp;uml; or &amp;amp;die;
+| &amp;amp;#168;
+| '''&amp;#168;''' 
+| umlaut
+|-
+| &amp;amp;copy;
+| &amp;amp;#169;
+| '''&amp;#169;''' 
+| copyright
+|-
+| &amp;amp;ordf;
+| &amp;amp;#170;
+| '''&amp;#170;''' 
+| feminine ordinal
+|-
+| &amp;amp;laquo;
+| &amp;amp;#171;
+| '''&amp;#171;''' 
+| left angle quote
+|-
+| &amp;amp;not;
+| &amp;amp;#172;
+| '''&amp;#172;''' 
+| not sign
+|-
+| &amp;amp;shy;
+| &amp;amp;#173;
+| '''&amp;#173;''' 
+| soft hyphen
+|-
+| &amp;amp;reg;
+| &amp;amp;#174;
+| '''&amp;#174;''' 
+| registered trademark
+|-
+| &amp;amp;macr; or &amp;amp;hibar;
+| &amp;amp;#175;
+| '''&amp;#175;''' 
+| macron accent
+|-
+| &amp;amp;deg;
+| &amp;amp;#176;
+| '''&amp;#176;''' 
+| degree sign
+|-
+| &amp;amp;plusmn;
+| &amp;amp;#177;
+| '''&amp;#177;''' 
+| plus or minus
+|-
+| &amp;amp;sup2;
+| &amp;amp;#178;
+| '''&amp;#178;''' 
+| superscript two
+|-
+| &amp;amp;sup3;
+| &amp;amp;#179;
+| '''&amp;#179;''' 
+| superscript three
+|-
+| &amp;amp;acute;
+| &amp;amp;#180;
+| '''&amp;#180;''' 
+| acute accent
+|-
+| &amp;amp;micro;
+| &amp;amp;#181;
+| '''&amp;#181;''' 
+| micro sign
+|-
+| &amp;amp;para;
+| &amp;amp;#182;
+| '''&amp;#182;''' 
+| paragraph sign
+|-
+| &amp;amp;middot;
+| &amp;amp;#183;
+| '''&amp;#183;''' 
+| middle dot
+|-
+| &amp;amp;cedil;
+| &amp;amp;#184;
+| '''&amp;#184;''' 
+| cedilla
+|-
+| &amp;amp;sup1;
+| &amp;amp;#185;
+| '''&amp;#185;''' 
+| superscript one
+|-
+| &amp;amp;ordm;
+| &amp;amp;#186;
+| '''&amp;#186;''' 
+| masculine ordinal
+|-
+| &amp;amp;raquo;
+| &amp;amp;#187;
+| '''&amp;#187;''' 
+| right angle quote
+|-
+| &amp;amp;frac14;
+| &amp;amp;#188;
+| '''&amp;#188;''' 
+| one-fourth
+|-
+| &amp;amp;frac12;
+| &amp;amp;#189;
+| '''&amp;#189;''' 
+| one-half
+|-
+| &amp;amp;frac34;
+| &amp;amp;#190;
+| '''&amp;#190;''' 
+| three-fourths
+|-
+| &amp;amp;iquest;
+| &amp;amp;#191;
+| '''&amp;#191;''' 
+| inverted question mark
+|-
+| &amp;amp;lsquo;
+|
+| '''&amp;lsquo;''' 
+| left single quote
+|-
+| &amp;amp;rsquo; 
+|
+| '''&amp;rsquo;''' 
+| right single quote
+|-
+| &amp;amp;sbquo;
+|
+| '''&amp;sbquo;''' 
+| single low-9 quote
+|-
+| &amp;amp;ldquo;
+|
+| '''&amp;ldquo;''' 
+| left double quote
+|-
+| &amp;amp;rdquo;
+|
+| '''&amp;rdquo;''' 
+| right double quote
+|-
+| &amp;amp;bdquo;
+|
+| '''&amp;bdquo;''' 
+| double low-9 quote
+|-
+| &amp;amp;dagger;
+|
+| '''&amp;dagger;''' 
+| dagger
+|-
+| &amp;amp;Dagger;
+|
+| '''&amp;Dagger;''' 
+| double dagger
+|-
+| &amp;amp;permil;
+|
+| '''&amp;permil;''' 
+| per mill sign
+|-
+| &amp;amp;lsaquo;
+|
+| '''&amp;lsaquo;''' 
+| single left-pointing angle quote
+|-
+| &amp;amp;rsaquo;
+|
+| '''&amp;rsaquo;''' 
+| single right-pointing angle quote
+|-
+| &amp;amp;spades;
+|
+| '''&amp;spades;''' 
+| black spade suit
+|-
+| &amp;amp;clubs;
+|
+| '''&amp;clubs;''' 
+| black club suit
+|-
+| &amp;amp;hearts;
+|
+| '''&amp;hearts;''' 
+| black heart suit
+|-
+| &amp;amp;diams;
+|
+| '''&amp;diams;''' 
+| black diamond suit
+|-
+| &amp;amp;oline;
+|
+| '''&amp;oline;''' 
+| overline, = spacing overscore
+|-
+| &amp;amp;larr;
+|
+| '''&amp;larr;''' 
+| leftward arrow
+|-
+| &amp;amp;uarr;
+|
+| '''&amp;uarr;''' 
+| upward arrow
+|-
+| &amp;amp;rarr;
+|
+| '''&amp;rarr;''' 
+| rightward arrow
+|-
+| &amp;amp;darr;
+|
+| '''&amp;darr;''' 
+| downward arrow
+|-
+| &amp;amp;trade;
+|
+| '''&amp;trade;''' 
+| trademark sign
+|-
+| &amp;amp;times;
+| &amp;amp;#215;
+| '''&amp;#215;''' 
+| multiplication sign
+|-
+| &amp;amp;divide;
+| &amp;amp;#247;
+| '''&amp;#247;''' 
+| division sign
+|-
+|}
+{{col-2}}
+{| class=&quot;wikitable&quot;
+|-
+!Name Code
+!Number Code
+!Glyph
+!Description
+|-
+| &amp;amp;Agrave;
+| &amp;amp;#192;
+| '''&amp;#192;''' 
+| uppercase A, grave accent
+|-
+| &amp;amp;Aacute;
+| &amp;amp;#193;
+| '''&amp;#193;''' 
+| uppercase A, acute accent
+|-
+| &amp;amp;Acirc;
+| &amp;amp;#194;
+| '''&amp;#194;''' 
+| uppercase A, circumflex accent
+|-
+| &amp;amp;Atilde;
+| &amp;amp;#195;
+| '''&amp;#195;''' 
+| uppercase A, tilde
+|-
+| &amp;amp;Auml;
+| &amp;amp;#196;
+| '''&amp;#196;''' 
+| uppercase A, umlaut
+|-
+| &amp;amp;Aring;
+| &amp;amp;#197;
+| '''&amp;#197;''' 
+| uppercase A, ring
+|-
+| &amp;amp;AElig;
+| &amp;amp;#198;
+| '''&amp;#198;''' 
+| uppercase AE
+|-
+| &amp;amp;Ccedil;
+| &amp;amp;#199;
+| '''&amp;#199;''' 
+| uppercase C, cedilla
+|-
+| &amp;amp;Egrave;
+| &amp;amp;#200;
+| '''&amp;#200;''' 
+| uppercase E, grave accent
+|-
+| &amp;amp;Eacute;
+| &amp;amp;#201;
+| '''&amp;#201;''' 
+| uppercase E, acute accent
+|-
+| &amp;amp;Ecirc;
+| &amp;amp;#202;
+| '''&amp;#202;''' 
+| uppercase E, circumflex accent
+|-
+| &amp;amp;Euml;
+| &amp;amp;#203;
+| '''&amp;#203;''' 
+| uppercase E, umlaut
+|-
+| &amp;amp;Igrave;
+| &amp;amp;#204;
+| '''&amp;#204;''' 
+| uppercase I, grave accent
+|-
+| &amp;amp;Iacute;
+| &amp;amp;#205;
+| '''&amp;#205;''' 
+| uppercase I, acute accent
+|-
+| &amp;amp;Icirc;
+| &amp;amp;#206;
+| '''&amp;#206;''' 
+| uppercase I, circumflex accent
+|-
+| &amp;amp;Iuml;
+| &amp;amp;#207;
+| '''&amp;#207;''' 
+| uppercase I, umlaut
+|-
+| &amp;amp;ETH;
+| &amp;amp;#208;
+| '''&amp;#208;''' 
+| uppercase Eth, Icelandic
+|-
+| &amp;amp;Ntilde;
+| &amp;amp;#209;
+| '''&amp;#209;''' 
+| uppercase N, tilde
+|-
+| &amp;amp;Ograve;
+| &amp;amp;#210;
+| '''&amp;#210;''' 
+| uppercase O, grave accent
+|-
+| &amp;amp;Oacute;
+| &amp;amp;#211;
+| '''&amp;#211;''' 
+| uppercase O, acute accent
+|-
+| &amp;amp;Ocirc;
+| &amp;amp;#212;
+| '''&amp;#212;''' 
+| uppercase O, circumflex accent
+|-
+| &amp;amp;Otilde;
+| &amp;amp;#213;
+| '''&amp;#213;''' 
+| uppercase O, tilde
+|-
+| &amp;amp;Ouml;
+| &amp;amp;#214;
+| '''&amp;#214;''' 
+| uppercase O, umlaut
+|-
+| &amp;amp;Oslash;
+| &amp;amp;#216;
+| '''&amp;#216;''' 
+| uppercase O, slash
+|-
+| &amp;amp;Ugrave;
+| &amp;amp;#217;
+| '''&amp;#217;''' 
+| uppercase U, grave accent
+|-
+| &amp;amp;Uacute;
+| &amp;amp;#218;
+| '''&amp;#218;''' 
+| uppercase U, acute accent
+|-
+| &amp;amp;Ucirc;
+| &amp;amp;#219;
+| '''&amp;#219;''' 
+| uppercase U, circumflex accent
+|-
+| &amp;amp;Uuml;
+| &amp;amp;#220;
+| '''&amp;#220;''' 
+| uppercase U, umlaut
+|-
+| &amp;amp;Yacute;
+| &amp;amp;#221;
+| '''&amp;#221;''' 
+| uppercase Y, acute accent
+|-
+| &amp;amp;THORN;
+| &amp;amp;#222;
+| '''&amp;#222;''' 
+| uppercase THORN, Icelandic
+|-
+| &amp;amp;szlig;
+| &amp;amp;#223;
+| '''&amp;#223;''' 
+| lowercase sharps, German
+|-
+| &amp;amp;agrave;
+| &amp;amp;#224;
+| '''&amp;#224;''' 
+| lowercase a, grave accent
+|-
+| &amp;amp;aacute;
+| &amp;amp;#225;
+| '''&amp;#225;''' 
+| lowercase a, acute accent
+|-
+| &amp;amp;acirc;
+| &amp;amp;#226;
+| '''&amp;#226;''' 
+| lowercase a, circumflex accent
+|-
+| &amp;amp;atilde;
+| &amp;amp;#227;
+| '''&amp;#227;''' 
+| lowercase a, tilde
+|-
+| &amp;amp;auml;
+| &amp;amp;#228;
+| '''&amp;#228;''' 
+| lowercase a, umlaut
+|-
+| &amp;amp;aring;
+| &amp;amp;#229;
+| '''&amp;#229;''' 
+| lowercase a, ring
+|-
+| &amp;amp;aelig;
+| &amp;amp;#230;
+| '''&amp;#230;''' 
+| lowercase ae
+|-
+| &amp;amp;ccedil;
+| &amp;amp;#231;
+| '''&amp;#231;''' 
+| lowercase c, cedilla
+|-
+| &amp;amp;egrave;
+| &amp;amp;#232;
+| '''&amp;#232;''' 
+| lowercase e, grave accent
+|-
+| &amp;amp;eacute;
+| &amp;amp;#233;
+| '''&amp;#233;''' 
+| lowercase e, acute accent
+|-
+| &amp;amp;ecirc;
+| &amp;amp;#234;
+| '''&amp;#234;''' 
+| lowercase e, circumflex accent
+|-
+| &amp;amp;euml;
+| &amp;amp;#235;
+| '''&amp;#235;''' 
+| lowercase e, umlaut
+|-
+| &amp;amp;igrave;
+| &amp;amp;#236;
+| '''&amp;#236;''' 
+| lowercase i, grave accent
+|-
+| &amp;amp;iacute;
+| &amp;amp;#237;
+| '''&amp;#237;''' 
+| lowercase i, acute accent
+|-
+| &amp;amp;icirc;
+| &amp;amp;#238;
+| '''&amp;#238;''' 
+| lowercase i, circumflex accent
+|-
+| &amp;amp;iuml;
+| &amp;amp;#239;
+| '''&amp;#239;''' 
+| lowercase i, umlaut
+|-
+| &amp;amp;eth;
+| &amp;amp;#240;
+| '''&amp;#240;''' 
+| lowercase eth, Icelandic
+|-
+| &amp;amp;ntilde;
+| &amp;amp;#241;
+| '''&amp;#241;''' 
+| lowercase n, tilde
+|-
+| &amp;amp;ograve;
+| &amp;amp;#242;
+| '''&amp;#242;''' 
+| lowercase o, grave accent
+|-
+| &amp;amp;oacute;
+| &amp;amp;#243;
+| '''&amp;#243;''' 
+| lowercase o, acute accent
+|-
+| &amp;amp;ocirc;
+| &amp;amp;#244;
+| '''&amp;#244;''' 
+| lowercase o, circumflex accent
+|-
+| &amp;amp;otilde;
+| &amp;amp;#245;
+| '''&amp;#245;''' 
+| lowercase o, tilde
+|-
+| &amp;amp;ouml;
+| &amp;amp;#246;
+| '''&amp;#246;''' 
+| lowercase o, umlaut
+|-
+| &amp;amp;oslash;
+| &amp;amp;#248;
+| '''&amp;#248;''' 
+| lowercase o, slash
+|-
+| &amp;amp;ugrave;
+| &amp;amp;#249;
+| '''&amp;#249;''' 
+| lowercase u, grave accent
+|-
+| &amp;amp;uacute;
+| &amp;amp;#250;
+| '''&amp;#250;''' 
+| lowercase u, acute accent
+|-
+| &amp;amp;ucirc;
+| &amp;amp;#251;
+| '''&amp;#251;''' 
+| lowercase u, circumflex accent
+|-
+| &amp;amp;uuml;
+| &amp;amp;#252;
+| '''&amp;#252;''' 
+| lowercase u, umlaut
+|-
+| &amp;amp;yacute;
+| &amp;amp;#253;
+| '''&amp;#253;''' 
+| lowercase y, acute accent
+|-
+| &amp;amp;thorn;
+| &amp;amp;#254;
+| '''&amp;#254;''' 
+| lowercase thorn, Icelandic
+|-
+| &amp;amp;yuml;
+| &amp;amp;#255;
+| '''&amp;#255;''' 
+| lowercase y, umlaut
+|}
+{{col-end}}
+
+==Abbreviations==
+Another useful element is &lt;code&gt;abbr&lt;/code&gt;. This can be used to provide a definition for an abbreviation, e.g.
+
+&lt;source lang=&quot;html4strict&quot;&gt;
+ &lt;abbr title=&quot;HyperText Markup Language&quot;&gt;HTML&lt;/abbr&gt;
+&lt;/source&gt;
+:Will be displayed as: &lt;abbr title=&quot;HyperText Markup Language&quot;&gt;HTML&lt;/abbr&gt;
+:&lt;small&gt;When you will hover over HTML, you see HyperText Markup Language&lt;/small&gt;
+
+
+Graphical browsers normally show abbreviations with a dotted underline. The &lt;code&gt;title&lt;/code&gt; appears as a tooltip. Screen readers may read the &lt;code&gt;title&lt;/code&gt; at the user's request.
+
+Unfortunately, Internet Explorer version 6 and lower do not support &lt;code&gt;abbr&lt;/code&gt;. It does however support the related element &lt;code&gt;acronym&lt;/code&gt; which has resulted in this element commonly being used for all abbreviations not just acronyms.
+
+An acronym is a special abbreviation in which letters from several words are pronounced to form a new word (e.g. radar - RAdio Detection And Ranging). The letters in HTML are pronounced separately, technically making it a different sort of abbreviation known as an initialism.
+
+==Discouraged Formatting==
+HTML supports various formatting elements whose use is discouraged in favor of the use of cascading style sheets (CSS). Let us have a short overview of the discouraged formatting, so that you know what it is when you see it in some web page, and know how to replace it with CSS formatting. Some of the discouraged elements are merely discouraged, others are deprecated in addition.  HTML formatting is generally used with older browsers that do not support CSS.
+
+{| class=&quot;wikitable&quot;
+! Element
+! Effect
+! Example
+! CSS Alternative
+! Note
+|-
+| &lt;code&gt;b&lt;/code&gt;
+| boldface
+| &lt;b&gt;bold&lt;/b&gt;
+| font-weight: bold;
+|
+|-
+| &lt;code&gt;i&lt;/code&gt;
+| italics
+| &lt;i&gt;italics&lt;/i&gt;
+| font-style: italics;
+|
+|-
+| &lt;code&gt;u&lt;/code&gt;
+| underlined
+| &lt;u&gt;underlined&lt;/u&gt;
+| text-decoration: underline
+| ''deprecated''
+|-
+| &lt;code&gt;tt&lt;/code&gt;
+| typewriter face 
+| &lt;tt&gt;typewriter face&lt;/tt&gt;
+| font-family: monospace
+|
+|-
+| &lt;code&gt;s&lt;/code&gt;
+| strikethrough
+| &lt;s&gt;strikethrough&lt;/s&gt;
+| text-decoration: line-through
+| ''deprecated''
+|-
+| &lt;code&gt;strikethrough&lt;/code&gt;
+| strikethrough
+| &lt;strikethrough&gt;strikethrough&lt;/strikethrough&gt;
+| text-decoration: line-through
+| ''deprecated''
+|-
+| &lt;code&gt;big&lt;/code&gt;
+| big font
+| &lt;big&gt;big&lt;/big&gt;
+| font-size: larger
+|
+|-
+| &lt;code&gt;small&lt;/code&gt;
+| small font
+| &lt;small&gt;small&lt;/small&gt;
+| font-size: smaller
+|
+|-
+| &lt;code&gt;font&lt;/code&gt;
+| font size
+| &lt;font size=1&gt;size=1&lt;/font&gt;
+| font-size:(value)
+| ''deprecated''
+|-
+| &lt;code&gt;center&lt;/code&gt;
+| center a block
+| 
+| &lt;code&gt;&amp;lt;div align=&quot;center&quot;&amp;gt;&lt;/code&gt;
+| ''deprecated''
+|}
+
+==Cascading Style Sheets==
+
+The use of style elements such as &amp;lt;b&amp;gt; for '''bold''' or &amp;lt;i&amp;gt; for ''italic'' is straight-forward but unfortunately it couples the presentation layer with the content layer. By using Cascading Style Sheets, the HTML author can decouple these two distinctly different parts so that a properly marked-up document may be rendered in various ways while the document itself remains unchanged. Thus, for example, if the publisher would like to change cited references in a document to appear as '''bold''' text as they were previously ''italic'', they simply need to update the style sheet and not go through each document changing &amp;lt;b&amp;gt; to &amp;lt;i&amp;gt; and vice-versa. Cascading Style Sheets also allow the reader to make these choices, overriding those of the publisher.
+
+Continuing with the above example, let's say that the publisher has correctly marked up all their documents  by surround references to cited material (such as the name of a book) in the documents with the &lt;tt&gt;&amp;lt;cite&amp;gt;&lt;/tt&gt; tag:
+
+&lt;tt&gt;&amp;lt;cite&amp;gt;The Great Gatsby&amp;lt;/cite&amp;gt;&lt;/tt&gt;
+
+Then to make all cited references bold, one would put something like the following in the style sheet:
+
+  cite { font-weight: bold; }
+
+Later someone tells you that references really need to be italic. Before CSS, you would have to hunt through all your documents, changing the &amp;lt;b&amp;gt; and &amp;lt;/b&amp;gt; to &amp;lt;i&amp;gt; and &amp;lt;/i&amp;gt; (but being careful *not* to change words that are in bold that are not cited references).
+
+But with CSS, it's as simple as changing one line in the style sheet to
+
+  cite { font-style: italic; }
+&lt;noinclude&gt;
+==Bibliography==
+* [[W:HTML element]]
+* [[Cascading Style Sheets]] 
+&lt;/noinclude&gt;
+
+[[Category:HyperText Markup Language]]
+
+[[it:HTML/Formattare il testo]]</text>
+      <sha1>q7zqreexww2a0rhuvtphtmggq17ky5l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:The motor effect.png</title>
+    <ns>6</ns>
+    <id>1933</id>
+    <revision>
+      <id>636320</id>
+      <parentid>154000</parentid>
+      <timestamp>2006-11-04T10:53:47Z</timestamp>
+      <contributor>
+        <username>Theresa knott</username>
+        <id>93</id>
+      </contributor>
+      <text xml:space="preserve">Diagram showing force on a current carrying wire in a magnetic field. Drawn by theresa knott
+
+
+{{GFDL}}
+{{Cc-by-sa-2.5}}</text>
+      <sha1>9gfkzig03r2msuts211b98r0m85znyp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/The motor effect</title>
+    <ns>0</ns>
+    <id>1934</id>
+    <revision>
+      <id>2634504</id>
+      <parentid>2634503</parentid>
+      <timestamp>2014-04-22T12:09:27Z</timestamp>
+      <contributor>
+        <username>Xania</username>
+        <id>40302</id>
+      </contributor>
+      <minor />
+      <comment>Set edit review settings for &quot;GCSE Science/The motor effect&quot;: Page intended for younger readers or editors [Default: Stable]</comment>
+      <text xml:space="preserve">[[GCSE Science/Electricity]]
+
+The motor effect is the term used when a current-carrying wire in the presence of a magnetic field experiences a force. A simple experimental demonstration will show you that this is true.
+
+Place a wire that is connected to a power pack in between the poles of a horseshoe magnet. Turn on the power and the wire moves. Often the movement is only very slight because a typical horseshoe magnet is not very strong.
+
+The force depends on a number of things:
+*How strong the magnetic field is inside the loop of the magnetic coil as it is usually iron and iron is a good conductor of magnetic attraction.(B)
+*How much current is flowing through the wire. (I)
+*The angle formed between the wire and the direction of the magnetic field.(θ)
+*The length of the wire, carrying the current, in the magnetic field.(l)
+
+The force obeys the formula: F=lBISinθ
+
+The first two points are pretty much obvious, so let's look at the third point in a little more detail. The magnetic field of a horseshoe magnet points pretty much in a straight line from the north pole to the south pole.  If the wire cuts this field at right angles the resulting force will be a maximum. If the wire runs parallel to the field, from the north the south pole or vice versa, the wire will still experience the motor effect. However, the net result of this force is along the wire, not perpendicular to it, thus the wire does not turn.
+
+Having said that, at GCSE you only really need to think about situations where the field and the wire cut each other at right angles. The force is always at right angles to both the field and the current flowing in the wire. This means that if you draw the direction of the magnetic field and the wire on a piece of paper the force will be out of the plane of the paper pointing straight up or down {More about how you work out which way later).
+
+[[Image:The motor effect.png]]
+
+Look at the diagram above. For simplicity, only the two ends of the horseshoe magnet have been drawn. Also the power pack and connecting wires are not shown either. The magnetic field is going into the screen. The current is traveling from right to left. The black line represents the force, and therefore the direction that the wire moves.
+
+*'''Q1)''' Name one way that the force on the wire could be increased.
+*'''Q2)''' Name as many ways as you can to reduce the force on the wire.
+*'''Q3)'''  Name two ways of reversing the force on the wire, so that it pushes the wire up rather than down.
+
+==Fleming's Left Hand Rule== 
+
+
+[[Image:Hand (motor effect).png]]
+
+This rule allows you to work out which direction the force will point in. Arrange your left hand with your thumb, first finger, and second fingers all pointing at right angles to one another. 
+
+*Point your &lt;font color=&quot;blue&quot;&gt; '''F&lt;/font&gt;'''irst finger in the direction of the magnetic &lt;font color=&quot;blue&quot;&gt;''' field'''&lt;/font&gt;.
+*Point your '''Se&lt;font color=&quot;red&quot;&gt;C&lt;/font&gt;ond''' finger in the direction of the &lt;font color=&quot;red&quot;&gt; '''current'''&lt;/font&gt;.
+*The &lt;font color=&quot;green&quot;&gt; '''Th'''&lt;/font&gt;umb will then give you the direction of the '''force''' (&lt;font color=&quot;green&quot;&gt;'''thrust'''&lt;/font&gt;).
+
+Remember you have to use your left hand for this! Although you may use your right hand so long as you swap the direction of current with the force
+
+'''Q4)''' A student uses her right hand instead of her left. What effect will that have on the force she works out?
+
+You will recall that a current carrying wire is surrounded by its own magnetic field. The diagram below shows the wire end on in a magnetic field of two magnets that are NS facing. The field due to the magnets is shown in blue, and the field due to the current in the wire is shown in black.
+
+[[Image:Motor effect 1.png]]
+
+Notice the direction of the two fields as shown by the arrows. On top of the wire the fields are both going in the same direction. They add up making an overall strong field. 
+
+Underneath the wire, they go in opposite directions. They cancel each other out to some extent making an overall weaker field. The new field is shown in the diagram below.
+
+[[Image:Motor effect 2.png]]
+
+See how the field above the wire is stronger. The lines are closer together. Below the wire the field is weaker (due to partial canceling out) the field lines are further apart. The force pushes the wire downwards, away from the strong field into the weak field. It's as if the field lines try to repel each other. They don't like being squashed together and try to straighten out. They also act as if they are made of elastic bands, they don't like being stretched out of shape. (This is just a model of what's going on. The lines aren't real, they don't actually try to push each other away, but I find it a way of helping me understand what's going on. If it doesn't help you, don't use it)
+
+*'''Q5)''' Use the idea of field lines not liking being squashed together to explain why two magnets with like poles facing each other repel.
+*'''(Q6)''' Use the idea of field lines being made of elastic to explain why two magnets with opposite poles facing attract one another.
+
+==A simple electric motor==
+
+Ok, so far we have been looking at the force that results when we put a current carrying wire in a magnetic field. In this section we will look at a practical use for this force.As you have probably already guessed from the name of this page, the practical use is going to be an electric motor.
+
+[[Image:Simplified_electric_motor.png]]
+
+Look at the diagram above. A  rectangular loop of wire is sitting inside a magnetic field. We can consider the current in the four sections of the loop and work out which way the force acts.
+*On the left hand side of the loop the current is flowing ''into'' the page or screen. The magnetic field will be going from left to right so from Flemming's left hand rule the force will be downwards.
+*On the back and front of the loops the current is parallel to the magnetic field so there is ''zero'' force.
+*On the right hand side of the loop the current is coming ''out'' of the page or screen. The field is still going from left to right so the force will be upwards.
+
+The net result of these different forces is that there will be a turning moment that makes the coil rotate by 90&amp;deg;. At that point the upwards and downwards forces will be acting along the same line and the coil will stop turning. Another way to think about it is to consider the loop as a tiny little one turn solenoid. The solenoid will have a little north pole and a little south pole and will therefore move until its north pole lines up with the south pole of the magnet on the right, and its south pole lines up with the north pole of  magnet on the left.
+
+This is all very interesting but not much use as a motor. We want something that keeps turning all the time the current flows. They way this is achieved is by the use of the commutator - a circular metal ring that is split into two halves. The ends of the wire loop turn around inside the commutator. They are in electrical contact with it. One side of the commutator is connected to the positive output of a power pack or battery . the other half of the commutator is connected to the negative.
+
+Let's look at what happens as the coil turns inside the commutator:
+#The coil turns clockwise because of the forces on the two halves as explained above. 
+#As the coil turns the wires slip around on the inside of the commutator.
+#When the coil is in a vertical position there is no force on it, but its momentum carries it forward a little.
+#The wires inside the commutator make contact with the other half of the ring. I.e. the wire that was in contact with the positive half of the commutator now touches the negative half and vice versa.
+#This causes the current to flow the other way around the coil, which reverses the little solenoid magnet.
+#The coil therefore tries to line itself up with the magnetic field by continuing to turn so that it ultimately points in the other direction. 
+#Once the coil is vertical, and facing the other way, the wires touch their original halves of the commutator. and the whole cycle repeats over and over
+
+'''Q7)'''A student sets up an electric motor and turns it on. The coil turns clockwise. List two ways she could reverse the direction.
+
+
+
+{| bgcolor=&quot;ffeeaa&quot;
+|-
+| '''Summary'''
+|}
+
+----
+[[GCSE Science/Uses of electromagnets|&lt;&lt;Uses of electromagnets]] | [[GCSE Science/Induction|Induction&gt;&gt;]]
+
+{{BookCat}}</text>
+      <sha1>hfx4rq2afdxx7ucep7zafvmxlwd8gm7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>C Programming/Complex types</title>
+    <ns>0</ns>
+    <id>1935</id>
+    <revision>
+      <id>2675506</id>
+      <parentid>2675496</parentid>
+      <timestamp>2014-06-21T14:24:51Z</timestamp>
+      <contributor>
+        <username>JackPotte</username>
+        <id>99248</id>
+      </contributor>
+      <comment>/* Pointers */ merging</comment>
+      <text xml:space="preserve">{{C Programming/Navigation|Strings|Networking in UNIX}}
+
+{{move|C Programming/Structures}}
+
+In the section [[C Programming/Types|C types]] we looked at some basic types. However '''C complex types''' allow us greater flexibility in managing data in our C program.
+
+== Data structures ==
+
+A data structure (&quot;struct&quot;) contains multiple pieces of data.
+Each piece of data (called a &quot;member&quot;) can be accessed by the name of the variable, followed by a '.', then the name of the member.
+(Another way to access a member is using the member operator '-&gt;').
+The member variables of a struct can be of any data type and can even be an array or a pointer.
+
+
+=== Structs ===
+
+A data structure contains multiple pieces of data.
+One defines a data structure using the &lt;tt&gt;struct&lt;/tt&gt; keyword. For example,
+
+    '''struct''' mystruct
+    {
+        int int_member;
+        double double_member;
+        char string_member[25];
+    } variable;
+
+&lt;tt&gt;variable&lt;/tt&gt; is an instance of &lt;tt&gt;mystruct&lt;/tt&gt;. You can omit it from the end of the &lt;tt&gt;'''struct'''&lt;/tt&gt; declaration and declare it later using:
+ '''struct''' mystruct variable;
+
+It is often common practice to make a ''type synonym'' so we don't have to type &quot;struct mystruct&quot; all the time. C allows us the possibility to do so using a &lt;tt&gt;'''typedef'''&lt;/tt&gt; statement, which aliases a type:
+ '''typedef''' '''struct'''
+ {
+   ...
+ } Mystruct;
+The &lt;tt&gt;'''struct'''&lt;/tt&gt; itself has no name (by the absence of a name on the first line), but it is aliased as &lt;tt&gt;Mystruct&lt;/tt&gt;. Then you can use
+ Mystruct structure;
+
+Note that it is commonplace, and good style to capitalize the '''first letter''' of a type synonym. However in the actual definition we need to give the struct a ''tag'' so we can refer to it: we may have a ''recursive data structure'' of some kind. For trees or chained lists, we need a pointer to the same data type in the struct. During compilation, the type synonym is not known to the compiler and there will be an error. To avoid this, it is necessary to let the compiler know the name right from the start (Note that the '''struct''' keyword is used ''only'' inside the structure! After the declaration, the compiler ''knows'' that the type synonym refers to a '''struct'''):
+ '''typedef''' '''struct''' Mystruct
+ {
+   ...
+   '''struct''' Mystruct * pMystruct
+ } Mystruct;
+&lt;!-- Am I the only one that finds this paragraph confusing ? --&gt;
+
+=== Unions ===
+
+The definition of a union is similar to that of a struct.  The difference between the two is that in a struct, the members occupy different areas of memory, but in a union, the members occupy the same area of memory.  Thus, in the following type, for example:
+
+ union {
+     int i;
+     double d;
+ } u;
+
+The programmer can access either &lt;code&gt;u.i&lt;/code&gt; or &lt;code&gt;u.d&lt;/code&gt;, but not both at the same time. Since &lt;code&gt;u.i&lt;/code&gt; and &lt;code&gt;u.d&lt;/code&gt; occupy the same area of memory, modifying one modifies the value of the other, sometimes in unpredictable ways.
+
+The size of a union is the size of its largest member.
+
+== Type modifiers ==
+
+For &quot;register&quot;, &quot;volatile&quot;, &quot;auto&quot; and &quot;extern&quot;, see [[../Variables#Other_Modifiers]].
+
+{{C Programming/Navigation|Strings|Networking in UNIX}}
+
+[[de:C-Programmierung: Komplexe Datentypen]]
+[[fr:Programmation C/Types avancés]]
+[[pl:C/Typy złożone]]</text>
+      <sha1>kbrl7x6600oj53o6whxvhuepe8aylfj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Hand (motor effect).png</title>
+    <ns>6</ns>
+    <id>1937</id>
+    <revision>
+      <id>636323</id>
+      <parentid>154004</parentid>
+      <timestamp>2006-11-04T10:54:40Z</timestamp>
+      <contributor>
+        <username>Theresa knott</username>
+        <id>93</id>
+      </contributor>
+      <text xml:space="preserve">A rather rubbishy drawing, to illustrate the left hand rule ( not finished yet). Drawn by Theresa Knott
+
+{{GFDL}}
+{{Cc-by-sa-2.5}}</text>
+      <sha1>ng9idrl4ekowb6rgptg632k77b36og4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Physics Study Guide/Logs</title>
+    <ns>0</ns>
+    <id>1943</id>
+    <revision>
+      <id>1015185</id>
+      <parentid>622944</parentid>
+      <timestamp>2007-10-28T19:09:03Z</timestamp>
+      <contributor>
+        <username>Glkeener</username>
+        <id>47307</id>
+      </contributor>
+      <comment>/* Review of logs */</comment>
+      <text xml:space="preserve">=Review of logs=
+Been a while since you used logs? Here is a quick refresher for you.
+
+The log (short for logarithm) of a number N is the exponent used to raise a certain &quot;base&quot; number B to get N.  In short, &lt;math&gt;\log_B\ N = x&lt;/math&gt; means that &lt;math&gt;B^x = N&lt;/math&gt;.
+
+Typically, logs use base 10. An increase of &quot;1&quot; in a base 10 log is equivalent to an increase by a power of 10 in normal notation. In logs, &quot;3&quot; is 100 times the size of &quot;1&quot;.  If the log is
+written without an explicit base, 10 is (usually) implied.
+
+{| WIDTH=&quot;100%&quot;
+|-style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; |
+|&lt;math&gt;y=10^x\ \mathrm{or}\ \log_{10}y=x\ &lt;/math&gt;
+|-
+|''therefore:''	log(10&lt;sup&gt;–12&lt;/sup&gt;) = –12 &lt;br&gt;
+|-
+|''also:''       log(1000) = 3'''
+|}
+
+
+Another common base for logs is the trancendental number &lt;math&gt;e&lt;/math&gt;, which is approximately 2.7182818....  Since &lt;math&gt;\frac{d}{dx} e^x = e^x&lt;/math&gt;, these can be more convenient than &lt;math&gt;\log_{10}&lt;/math&gt;.  Often, the notation &lt;math&gt;\ln\ x&lt;/math&gt; is used instead of
+&lt;math&gt;\log_e\ x&lt;/math&gt;.
+
+The following properties of logs are true regardless of whether the base is 10, &lt;math&gt;e&lt;/math&gt;,
+or some other number.
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;big&gt;
+logA + logB = log(AB)&lt;br&gt;
+&lt;br&gt;
+logA – logB = log(A/B)&lt;br&gt;
+&lt;br&gt;
+log(A&lt;sup&gt;B&lt;/sup&gt;) = B log(A)'''
+&lt;/big&gt;
+|}
+
+&lt;br&gt;
+Adding the log of A to the log of B will give the same result as taking the log of the product A times B.
+&lt;br&gt;&lt;br&gt;
+Subtracting the log of B from the log of A will give the same result as taking the log of the quotient A divided by B.
+&lt;br&gt;&lt;br&gt;
+The log of (A to the Bth power) is equal to the product (B times the log of A).
+&lt;br&gt;&lt;br&gt;
+A few examples:
+&lt;br&gt;
+log(2) + log(3) = log(6)
+&lt;br&gt;
+log(30) – log(2) = log(15)
+&lt;br&gt;
+log(8) = log(2&lt;sup&gt;3&lt;/sup&gt;) = 3log(2)
+
+
+[[Category:Physics Study Guide]]</text>
+      <sha1>hsqt13vkwfyg8flymfwtftqka2lhjbw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Physics Study Guide/Electricity</title>
+    <ns>0</ns>
+    <id>1944</id>
+    <revision>
+      <id>2590158</id>
+      <parentid>2590157</parentid>
+      <timestamp>2013-12-10T00:57:21Z</timestamp>
+      <contributor>
+        <username>AmaryllisGardener</username>
+        <id>848220</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">{{PSG}}
+
+=Electricity=
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;center&gt;&lt;big&gt;'''&lt;math&gt;F = \frac{k\cdot q_1\cdot q_2}{r^2}&lt;/math&gt;&lt;br&gt;'''&lt;/big&gt;&lt;/center&gt;
+|}
+
+The '''force''' resulting from two nearby charges is equal to '''k''' times '''charge one''' times '''charge two''' divided by the square of the '''distance''' between the charges.
+----
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;center&gt;&lt;big&gt;'''&lt;math&gt;E = \frac{F}{q}&lt;/math&gt;''' &lt;/big&gt;&lt;/center&gt;
+|}
+
+The '''electric field''' created by a charge is equal to the '''force''' generated divided by the '''charge'''. 
+----
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;center&gt;&lt;big&gt;'''&lt;math&gt;E = \frac{k\cdot q}{r^2}&lt;/math&gt;''' &lt;/big&gt;&lt;/center&gt;
+|} 
+
+'''Electric field''' is equal to a constant, ''' “k”, ''' times the '''charge''' divided by the square of the '''distance''' between the charge and the point in question. 
+----
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;center&gt;&lt;big&gt;'''&lt;math&gt;U = \frac{k\cdot q_1\cdot q_2}{r}&lt;/math&gt;''' &lt;/big&gt;&lt;/center&gt;
+|}
+
+'''Electric potential energy''' is equal to a constant, ''' “k” ''' multiplied by the two '''charges''' and divided by the '''distance''' between the charges.
+----
+
+&lt;H2&gt;Variables&lt;/H2&gt;&lt;br&gt;
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;top&quot; |
+'''F:''' Force (N)&lt;br&gt;
+'''k:''' a constant, 8.988×10&lt;sup&gt;9&lt;/sup&gt; (N·m&lt;sup&gt;2&lt;/sup&gt;/C&lt;sup&gt;2&lt;/sup&gt;)&lt;br&gt;
+'''q&lt;sub&gt;1&lt;/sub&gt;:''' charge one (C)&lt;br&gt;
+'''q&lt;sub&gt;2&lt;/sub&gt;:''' charge two (C)&lt;br&gt;
+'''r:''' distance between the two charges, (m)
+|}
+
+
+Electricity acts as if all matter were divided into four categories:
+
+#Superconductors, which allow current to flow with no resistance. (However these have only been produced in relatively extreme laboratory conditions, such as at temperatures approaching absolute zero)
+#Conductors, which allow electric current to flow with little resistance.
+#Semiconductors, which allow some electric current to flow but with significant resistance.
+#Insulators, which do not allow electric current to flow.
+
+Charges are positive (+) or negative (-). Any two like charges repel each other, and opposite charges attract each other.
+
+==Electric fields==
+
+A charge in an electrical field feels a force. The charge is not a vector, but force is a vector, and so is the electric field. If a charge is positive, then force and the electric field point in the same direction. If the charge is negative, then the electric field and force vectors point in opposite directions.
+
+A point charge in space causes an electric field. The field is stronger closer to the point and weaker farther away.
+
+Electricity is made of subatomic particles called Electrons and so are Electric Fields and Magnetic Fields.
+
+* For a good introduction to Gauss' Law and Ampere's Law, check out [http://slacker.yosunism.com this website]
+
+
+[[Category:Physics Study Guide]]</text>
+      <sha1>f1qp6b9nulbjuorem26gtwkokc4aidl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

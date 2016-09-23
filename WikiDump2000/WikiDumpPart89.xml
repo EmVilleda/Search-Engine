@@ -1,0 +1,1539 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Talk:Algebra/Arithmetic</title>
+    <ns>1</ns>
+    <id>4305</id>
+    <revision>
+      <id>2686047</id>
+      <parentid>2479400</parentid>
+      <timestamp>2014-07-30T22:22:39Z</timestamp>
+      <contributor>
+        <username>Colinf</username>
+        <id>1726586</id>
+      </contributor>
+      <text xml:space="preserve">== From Talk:Absolute value ==
+IIRC, absolute values of complex numbers isn't something typically covered in Algebra I and it's more something for Algebra II or Trig(coupled with De Movire's Theorem maybe?) [[User:Etothex|Etothex]] 03:37, 20 Sep 2003 (UTC)
+
+: The explanation here is ''very'' basic. A more thorough explanation will be explored at [[Algebra/Complex Numbers]]; perhaps this will serve as motivation to read up on complex numbers? [[User:Dysprosia|Dysprosia]] 11:03, 20 Sep 2003 (UTC)
+
+:It's nice IMO to have something a little advanced in a book to inspire students to learn new stuff.Absolute value of real numbers is a trivially easy, we need to inspire the bright ones. [[User:Theresa knott|Theresa knott]] 11:47, 20 Sep 2003 (UTC)
+
+== Discussion ==
+use a midscript * that is in the middle. don't use a plain astertisk.
+----
+Do you really think that subtraction is a binary opperation? In fact, addition is an abelian (semi)group (depends if you have already negative integers or not). Minus is the the _unary_ operation of inversion, hence a+(-a)=0, where 0=zero is the unit element of the (semi)group. In the case of addition one should hence write a+(-b) and not a-b. This solves the commutativity problem, since a+(-b)=(-b)+a. The notiopn a-b can then be introduced as a shorthand. While I would not recommend to introduce abelian groups at this level, I would strictly object against the introduction of a binary operator called minus, July 26, 2004 BF.
+----
+
+That picture of the number line is ''really'' bad--it would be much simpler just to use an image.
+
+----
+
+I have made an image and fixed the problem.  It now looks beautiful.  :-)  [[User:H Padleckas|H Padleckas]] 12:51, 11 Jul 2004 (UTC)
+
+----
+
+[[User:Paul|Paul]] - What are we trying to do here with this page?  There doesn't seem to be a comprehensible focus on the page.  My take on it is that we're trying to create a maths textbook that can be used to teach someone arithmetic - if that's the case then what are all those useless bits and pieces about subtrahend and Numerical Axioms doing in there?
+
+On the other hand, if we're trying to document Arithmetic for someone seriously studying the root of mathematics, why have exercises asking for the solution of 5-3?
+
+It doesn't make sense that exercises as simple as 5-3=? would be on the same page as words like subtrahend.
+
+: It was my impression that the page was for a brush-up lesson on the basics of arithmetic necessary for using algebra.  Subtrahend (and the other higher-level stuff) would therefore be the extraneous information. - [[User:Jonel|Jonel]]
+
+----
+
+Whoever posted anonymously made a very good point about the order of operations.  I've cleaned it up a little; if you think it needs more work feel free to alter it.  As for the etiquette, for the most part if you see something that needs to be fixed you should just go ahead and fix it.  If you're unsure, put a message in this talk page.  [[User:Jonel|Jonel]]
+
+:Actually - that was me before I registered as a user :) The editing looks fine to me.  I tihnk I'm going to enjoy working on this project! - [[User:Paul|Paul]]
+
+----
+
+I don't think that this section is in keeping with the idea of this page, but it might be useful on another page for more advanced work.  So I will just leave it here on the talk page for now. [[User:Jonel|Jonel]]
+
+== &quot;Absolute Value&quot; of Complex numbers ==
+For [[Algebra/Complex Numbers|complex numbers]], the absolute value or ''modulus'' presents us with a different concept. A number in the Argand plane has a rotation from the real axis through angle &amp;theta; and a distance away from zero, r. By using the [[Pythagorean theorem]] and a bit of [[trigonometry]], we can generalize the complex number to be a triangle, and we obtain that the modulus is the same as the real value squared plus the imaginary value squared (See [[Algebra/Complex Numbers]] for more detail).
+
+:z&lt;sup&gt;2&lt;/sup&gt; = Re(z)&lt;sup&gt;2&lt;/sup&gt;+Im(z)&lt;sup&gt;2&lt;/sup&gt;
+
+then
+:|z|= &amp;radic;(Re(z)&lt;sup&gt;2&lt;/sup&gt;+Im(z)&lt;sup&gt;2&lt;/sup&gt;)
+
+It is important to note that if z has imaginary part zero; ie z is purely real, this method is equivalent to finding the absolute value as well.
+
+=== Previous section? ===
+Under '''Addition''', a &quot;previous section&quot; is referred to.  There is no previous section.  This is the first section of '''Math'''.  [[User:H Padleckas|H Padleckas]] 12:51, 13 May 2004 (UTC)
+:I agree.  I fixed it. --[[User:MathMan64|MathMan64]] 21:52, 2 September 2005 (UTC)
+
+== BODMAS ==
+
+Hello. I'm using this Wikibook to come to grips with maths in english. In my native language (Dutch) I'm pretty clued up, but the language barrier is keeping me from understanding a lot of maths-related stuff in english. Just now I stumbled upon something which I can't quite understand:
+
+&quot;There are a number of different abbreviations for memorizing the order. PEMDAS, BEDMAS and BODMAS (B is Brackets) are common.&quot; I can't figure out where the O in BODMAS comes from? Care to enlighten,  anybody?
+
+[edit] The &quot;O&quot; stands for Orders (ie Powers and Square Roots, etc.)
+       The &quot;O&quot; has also been taught simply as &quot;OF&quot;; Brackets of Divison etc.
+
+Thanks to all contributors for taking the time to write all this. Perhaps I'm a bit simple-minded, but I feel the book could do with some graphics (even non-functional graphics), both to break the text apart in more managable chunks, and to make it more appealing from a visual point of view.
+
+== Order of operations ==
+I feel that this page is not the correct place to introduce anything to do with negative numbers, such as -2&lt;sup&gt;2&lt;/sup&gt;.  This important concept should be introduced after the multiplication of integers.  I would rather it not be a subtraction problem from zero, but a multiplication by negative one.  --[[User:MathMan64|MathMan64]] 22:48, 2 September 2005 (UTC)
+
+== Long multiplication? ==
+
+Can there be some information about how to multiply large numbers, say 34 * 281 or whatever.
+
+
+addition and the other operations too, for that matter. this wikibook gives excercises for them, but does not explain the method of solution. [[User:206.15.236.254|206.15.236.254]] 16:57, 20 April 2006 (UTC)
+
+== Exercises ==
+
+I think it would be good to add exercises to each arithmetic section. I performed all exercises so far and found some holes in my understanding that I would not get from the explanations alone. Particularly, start from simple to advanced within 25 problems so the student can get a real feel for what they are lacking. I will create some of my own and add it here in a couple of days if no one has any objections.:)
+---[[User:Irishboy0|Irishboy0]] 01:27, 21 September 2006 (UTC)#--[[User:Irishboy0|Irishboy0]] 01:27, 21 September 2006 (UTC)
+
+== missing pages with problems ==
+
+I marked this page fair for completeness due to the missing pages when you try to go to the problems for each category on this page.  only the pages for addition and subtraction exist. 
+[[User:Kweeks|Kweeks]] ([[User talk:Kweeks|talk]]) 11:21, 6 September 2010 (UTC)
+
+== &quot;Addition&quot; ==
+
+Why in quot.marks? Cause the issue is not about addition while the passage is out of there: {{quote|To define the number one is a rather difficult task, but we all have a good intuitive sense of what &quot;oneness&quot; is.}}
+O'k, not a very good way...
+Know what I think? I think that we '''can′t''' define ''oneness'' without ''quantity''. Moreover, the concept of quantity '''is''' of the premises to the ''oneness'' not otherwise. No oneness does exist without a quantity prior to that. The quantity is a natural concept — '''then''' somebody, planning to organise the surrounding, chooses the units.&lt;br/&gt;
+You may argue that '''there is''' a natural concept of oneness - when considering some indivisible objects — for example humans etc. (apples etc.). Somebody could say that either humans or, especially, apples '''can''' be divided. To those, it will be recalled that the objects should strictly retain their immanent parameters so as to remain being considered '''equal''' or '''comparable''' '''in the same way'''.&lt;br/&gt;Well, it was an interlude. So... Somebody says &quot;what about 'natural objects'?&quot; — thus resolving the phantom paradox: saying &quot;natural&quot;.
+Now, I agree that there are objects which may imply some ''natural oneness''. BUT THEY ARE ONLY &quot;NATURAL&quot;, COUNTABLE OBJECTS. Linguistics seems giving the best answer to solving such ambiguities: remember the classes of nouns in English:)
+So, this way we '''have''' NATURAL DICHOTOMY between the countable and the uncountable. So we should choose the way of approach to our dilemma: either we introduce here in &quot;Arithmetics&quot; the natural numbers first — or we're defining ''the quantity'' as a prior to any units perceptional concept...  [[User:Lincoln Josh|Lincoln J.]] ([[User talk:Lincoln Josh|discuss]] • [[Special:Contributions/Lincoln Josh|contribs]]) 17:44, 19 January 2013 (UTC)
+
+=== Logarithms ===
+
+It is arguable that the introduction of digital technologies has largely replaced the need for logarithms at this level of mathematics. If so, is this section necessary? [[User:Colinf|Colinf]] ([[User talk:Colinf|discuss]] • [[Special:Contributions/Colinf|contribs]]) 22:22, 30 July 2014 (UTC)</text>
+      <sha1>jud7xxsnzja0e4gvltnal3nfeckebh6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Madeira Honey Cake</title>
+    <ns>102</ns>
+    <id>4306</id>
+    <revision>
+      <id>2687446</id>
+      <parentid>2164288</parentid>
+      <timestamp>2014-08-01T00:49:49Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>Added appropriate cats.</comment>
+      <text xml:space="preserve">{{recipesummary|Dessert recipes|8|prep: 40 minutes&lt;br/&gt;rest: 3-4 days&lt;br/&gt;baking: 50 minutes|5}}
+̞__NOTOC__
+{{recipe}} | [[Cookbook:Cuisine of Portugal|Portugal]] | [[Cookbook:Dessert|Dessert]] | [[Cookbook:Cake|Cake]]
+
+This is the recipe for the traditional '''Madeira Honey Cake''', usually made on Christmas but also all year round on the island of Madeira and originally named in Portuguese ''bolo de mel''.
+
+==Ingredients==
+*9 ounces (250 g) [[Cookbook:Dough|bread dough]] from the baker's shop
+*90 ounces (2.5 kg) [[Cookbook:Flour|flour]]
+*35 ounces (1 kg) [[Cookbook:Sugar|sugar]]
+*26 ounces (750 g) ''banha'', this is [[Cookbook:Pork|pork]] fat
+*17 ounces (500 g) [[Cookbook:Butter|butter]]
+*1 ounce (25 g) ''erva-doce'', this is [[Cookbook:Anise|anise]] herbs, mashed and sifted
+*1.75 ounce (50 g) ''canela'' ([[Cookbook:Cinnamon|cinnamon]])
+*1 ounce (25 g) ''cravinho da India'', ([[Cookbook:Clove|cloves]] in powder form)
+*17 ounces (500 g) [[Cookbook:Walnut|walnut]], cut into halves
+*9 ounces (250 g) ground [[Cookbook:Almond|almond]]s
+*1.75 ounce (50 g) candied [[Cookbook:Lemon|lemon]] peel, cut into cubes
+*60 ounces (1.8 l) pure [[Cookbook:Honey|honey]]
+*5 Tablespoons of [[Cookbook:Baking Soda|baking soda]], dissolved in the wine
+*1 cup of [[Cookbook:Madeira|Madeira]] wine
+*juice and [[Cookbook:Zest|zest]] of 4 [[Cookbook:Orange|oranges]]
+
+==Procedure==
+
+#One day before making the cake, buy the bread-dough at the baker's shop, sprinkle a little bit of flour on the dough, put it in a towel and keep it in a warm place until the next day.   
+#Put the baking soda into the Madeira wine, dissolve. In a pan warm up the honey, mix the butter and pork fat (if not available, just use butter), dissolve. Let this mixture cool.  
+#Sift flour into a bowl, mix in the sugar, make a well and put the bread dough into it. Now work the flour-sugar mixture into the bread dough. As soon as this is well joined, start to incorporate little by little the (tepid) honey-fat mixture.   Add some of the candied lemon peel, as well as the Madeira wine, orange juice and orange zest, anise, cinnamon, and cloves. 
+#Incorporate and knead thoroughly until the dough doesn't stick to the bowl. Cover the dough with a towel and put it in a warm spot. Keep it in a warm place for 3-4 days. 
+#Divide the dough into parts of 250g or 500g or 750 g, depending on the pans to put into the oven.  This cake is made in wide, round pans which are rather low.  Before going into the oven, the cake is decorated with half-walnuts, sliced almonds and the rest of the candied lemon peel.  
+#Grease the baking pans. Bake about 50 minutes 355 °F (180 °C). Let cool down before taking it out of the baking pan.
+
+==Notes, tips, and variations==
+*In Madeira these honey cakes are made on 8 December, which is traditionally considered the day of Mary's Immaculate Conception, because tradition says this cake is only good for Christmas if it is made on this day.
+*It is a custom to make enough of this cake in order to have some during the whole year. Once cooled and thoroughly wrapped into vegetable paper it remains good until next Christmas without losing quality or taste.
+*Another tradition surrounding this cake is that it is not cut with knives, but by hand, and also eaten by hand, nothing more than a tradition but very respected among Madeira locals.
+
+[[Category:Cake recipes|{{PAGENAME}}]]
+[[Category:Portuguese recipes|{{PAGENAME}}]]
+[[Category:Christmas recipes|{{PAGENAME}}]]
+[[Category:Honey recipes|{{PAGENAME}}]]
+[[Category:Baking recipes]]
+[[Category:Walnut recipes]]
+[[Category:Recipes with metric units]]</text>
+      <sha1>kmbkrrjfap6j97q2n4t9qp3iatd2xt1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Madeira Honey Cake</title>
+    <ns>103</ns>
+    <id>4307</id>
+    <revision>
+      <id>550725</id>
+      <parentid>434002</parentid>
+      <timestamp>2006-08-07T13:42:21Z</timestamp>
+      <contributor>
+        <ip>195.39.109.67</ip>
+      </contributor>
+      <comment>doubts about this recipe</comment>
+      <text xml:space="preserve">Page history from [[en:Madeira cake]]
+
+    * (cur) (last) . . 05:42, 20 Oct 2003 . . Wik (sp)
+    * (cur) (last) . . M 17:26, 23 Jun 2003 . . Hephaestos (copyedit)
+    * (cur) (last) . . M 09:05, 23 Jun 2003 . . Deb (links)
+    * (cur) (last) . . 08:42, 23 Jun 2003 . . Hephaestos (formatting &amp;c.)
+    * (cur) (last) . . 08:37, 23 Jun 2003 . . 213.205.67.72
+
+----
+*Too many ingredients. This is maaaaaaaaaaaaaaaaaaaaaaaaaaaad!
+
+----
+
+8kg of ingridients, 8 servings?
+Is this completely fake or just a recipe for 800 people?</text>
+      <sha1>54xjw0svjhmyuwttqi65fynyskjpllz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Mince Pie</title>
+    <ns>102</ns>
+    <id>4308</id>
+    <revision>
+      <id>2687776</id>
+      <parentid>2687774</parentid>
+      <timestamp>2014-08-02T11:18:10Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>Added Christmas cat per the recipe.</comment>
+      <text xml:space="preserve">{{recipe}}
+
+==Modern meat-free Christmas mince pies==
+This is the recipe for fruity mince pies which we all know and love and eat at Christmas time. These typically do not contain minced beef, however they may not be completely vegetarian. Fruit mince can sometimes contain suet.
+
+===Ingredients===
+*Fruit mince, either homemade or shop bought
+*Shortcrust pastry, either homemade or shop bought
+
+===Method===
+# Line greased tartlet pans with shortcrust pastry circlets.
+# Spoon heaped teaspoons of mince into each pie
+# Top the tartlets with slightly smaller circles of pastry, preferably cut with a fluted cutter
+# Bake until golden brown.
+#(Optional)  Just before serving, dust pies with a light sprinkling of icing sugar.
+
+
+==Classic (with meat)==
+'''Mince Pies, not very rich''' -- Take 4 pounds of beef after it has been boiled and chopped, 1 pound of suet, 2 pounds of sugar, 2 pounds of raisins, and 4 pounds of chopped apples, mix these together with a pint of wine and cider, to make it thin enough; season to your taste with mace, nutmeg, and orange-peel; if it is not sweet enough, put in more sugar. Warm the pies before they are eaten. Where persons are not fond of suet, put butter instead, and stew the apples instead of so much cider. 
+
+{{1881}}
+
+==Modernized (with meat)==
+
+===Ingredients===
+* 1815 g lean diced [[Cookbook:Beef|beef]]
+* 454 g [[Cookbook:Butter|butter]], [[Cookbook:Lard|lard]], or vegetable shortening.  Diced.
+* 907 g [[Cookbook:Sugar|sugar]]
+* 907 g [[Cookbook:Fruit mix|fruit mix]]
+* 1815 g sliced, cored [[Cookbook:Apple|apples]]
+* 350 ml [[Cookbook:Wine|wine]]
+* 250 ml [[Cookbook:Cider|cider]]
+* zest and juice from one fruit citrus fruit
+* A quarter of a teaspoon of Mace
+* A quarter of a teaspoon of [[Cookbook:Nutmeg|Nutmeg]]
+* Five packets of short pastry.
+
+===Procedure===
+# Sear diced beef in a pan till meat is well coloured (this can be done in batches).  Set aside till cool.
+# Wash, core and slice apples.
+# Combined all ingredients in a bowl.  Mix well (this step can be done in batches).
+# Using three, greased, deep, pie trays (or five greased muffin trays, for tartlets), use the pastry to line the tray, to create a pie shell.   
+# Place tray, with shell, into oven and set to 150 degrees Celsius.  Bake until lightly golden.  Remove from oven.  Rest pie shells till cool.
+#  Fill pie shells with mixture, till level or a slight mound above the rim. Trim with excess pastry.
+# Bake at 150 degrees Celsius for forty five minutes per tray (thirty five minutes per muffin tray).
+
+Serves 15 to 20 people.
+
+==Modernised, alternative version, also with meat==
+
+===Ingredients===
+* 1 kg lean pork mince
+* 100 g butter
+* 400 g sugar
+* 1 kg fruit mix
+* 800 g sliced, cored apples (12 large apples)
+* 300 ml wine
+* 250 ml cider
+* zest and juice from one orange
+* zest and juice from one lemon
+* A quarter of a teaspoon of Mace
+* A quarter of a teaspoon of Nutmeg
+* One vanilla pod
+* One cinnamon quill
+* Two packets of short pastry
+* Three greased muffin tins
+
+===Procedure===
+# Pre-heat oven to 150 degrees Celsius.
+# In a pot, simmer the wine, cider, orange, and lemon juice.  Add mace, nutmeg and cinnamon quill.  Slit vanilla pod and scrape seeds into pot.  Discard vanilla pod.
+# Wash, core and slice apples.  Add to pot, and stir.
+# Add fruit mix to pot.  Stir.
+# Line grease muffin tins, with pastry to make tartlets cases.  Trim to fit. 
+# Place tray, with cases, into oven and set at 150 degrees Celsius.  Bake until lightly golden.  Remove from oven.  Rest pie shells.un
+# Melt butter in a pan.  Sauté minced pork till browned.
+# Remove cinnamon quill from pot.  Incorporate pork and butter into the mixture in pot.
+# Using a tablespoon; fill tartlet cases with filling from pot.  The filling will probably be mounded.
+# (Optional)  Trim with excess pastry.
+# Bake each tray at 120 degrees Celsius for half an hour.
+
+Makes 36 tartlets.
+
+[[Category:Pie recipes|{{PAGENAME}}]]
+[[Category:Beef recipes|{{PAGENAME}}]]
+[[Category:Fruit recipes]]
+[[Category:Dessert recipes]]
+[[Category:Baking recipes]]
+[[Category:Recipes with metric units]]
+[[Category:Christmas recipes]]</text>
+      <sha1>rppi6bcj7z41y7hawbw0vggkffs9vg4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Mince Pie</title>
+    <ns>103</ns>
+    <id>4309</id>
+    <revision>
+      <id>2686612</id>
+      <parentid>1112537</parentid>
+      <timestamp>2014-07-31T19:45:52Z</timestamp>
+      <contributor>
+        <username>Koavf</username>
+        <id>16549</id>
+      </contributor>
+      <minor />
+      <comment>Koavf moved page [[Cookbook talk:Mince pie]] to [[Cookbook talk:Mince Pie]]</comment>
+      <text xml:space="preserve">Page history from [[en:Mince pie]]
+
+    * (cur) (last) . . 05:05, 3 Feb 2004 . . Gentgeen (transwikiing recipes to wikibooks)
+    * (cur) (last) . . 12:37, 14 Dec 2003 . . 24.160.168.66 (Fixed spelling of ingredients)
+    * (cur) (last) . . 20:27, 19 Oct 2002 . . 203.98.50.150 (spelling)
+    * (cur) (last) . . M 22:09, 11 Aug 2002 . . 217.168.172.202
+    * (cur) (last) . . M 23:55, 2 Aug 2002 . . 217.168.172.203
+    * (cur) (last) . . M 23:54, 2 Aug 2002 . . 210.54.169.209
+    * (cur) (last) . . M 14:04, 2 Aug 2002 . . 210.54.160.211 (bracket typo)
+    * (cur) (last) . . 13:53, 2 Aug 2002 . . Karen Johnson (added modern meat-free version)
+    * (cur) (last) . . 11:37, 2 Aug 2002 . . 210.54.160.221 (Try it, I dare you.)
+    * (cur) (last) . . 10:22, 2 Aug 2002 . . 210.54.160.56
+    * (cur) (last) . . 00:20, 22 May 2002 . . 217.162.214.5 (move reference to bottom)
+    * (cur) (last) . . M 02:12, 31 Mar 2002 . . 62.98.138.5
+
+Discussion from [[en:Talk:Mince pie]]
+
+Couple of suggestions, since you mentioned you're not finished:
+
+* How about using either metric or English measurements throughout, but not both?
+
+* This isn't analytical chemistry - how about rounding off numbers like &quot;1814 g&quot; to 1.8 kg (or even 2 kg)?
+
+* Please insert a space between a number and its unit.
+
+Thanks!  :-)  -- [[User:Marj Tiefert|Marj Tiefert]] 18:41 Aug 2, 2002 (PDT)
+----
+A couple of responces since I've finished:
+
+*The 'spoons are the random variable of good cooking and the metric system.  Otherwise known as &quot;Too much!&quot;, or &quot;Too little.&quot;
+
+*The art of good desserts, MUST follow the strict standard of analytical chemistry.  No comprimises will be allowed!
+
+*No.
+
+Spot the sarcasm.=P
+
+''End of copied discussion''
+----
+== Modern Mince Pies more prominent ==
+Shouldn't the meat free mince pies...  the one which we all try to cook and eat at Christmas time...  be at the top of the page? Surely that's the recipe which people come to this page for. -- [[User:Harry Wood|Harry Wood]] ([[User talk:Harry Wood|talk]]) 19:27, 23 December 2007 (UTC)
+
+:OK done. It's a useles recipe of course, until the links for pastry and fruitmince are filled in! -- [[User:Harry Wood|Harry Wood]] ([[User talk:Harry Wood|talk]]) 10:51, 13 February 2008 (UTC)</text>
+      <sha1>g4xtgt44f26v9dr9a2yy5vv3i6kfk2f</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:195.99.240.139</title>
+    <ns>3</ns>
+    <id>4311</id>
+    <revision>
+      <id>156094</id>
+      <timestamp>2004-02-03T17:02:42Z</timestamp>
+      <contributor>
+        <username>Theresa knott</username>
+        <id>93</id>
+      </contributor>
+      <comment>please use sandbox</comment>
+      <text xml:space="preserve">Hello and welcome to wikibooks. Your test worked but please use [[Sandbox]] for future experiments. [[User:Theresa knott|Theresa knott]] 17:02, 3 Feb 2004 (UTC)</text>
+      <sha1>fu1ebtmgr0mb663qk73uljmvsklchrw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Guacamole Dip</title>
+    <ns>102</ns>
+    <id>4312</id>
+    <revision>
+      <id>2679783</id>
+      <parentid>2679771</parentid>
+      <timestamp>2014-07-09T00:25:04Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>Removed side dish cat.</comment>
+      <text xml:space="preserve">{{recipe}}
+
+'''Guacamole Dip''' is a spicy Mexican dip made from blended avocado and cream, and seasonings like onions, peppers, garlic and cilantro (coriander). It is the perfect companion for corn chips, ''totopos'' or potato chips.
+
+== Ingredients ==
+
+The ingredients and quantities of this recipe are approximate, and they depend on the desired consistency and &quot;''picor''&quot;
+
+* 1 ripe [[Cookbook:avocado|avocado]]
+* 1 cup of [[Cookbook:cream|cream]] or [[Cookbook:Sour Cream|sour cream]] or [[Cookbook:yoghurt|yoghurt]]
+* 1 clove [[Cookbook:garlic|garlic]]
+* 1/4 regular [[Cookbook:onion|onion]], cut in large pieces
+* 4 [[Cookbook:cilantro|cilantro]] stems with leaves
+* 1 serrano pepper (optional)
+* [[Cookbook:Milk|Milk]] to thin the dip, as needed
+* [[Cookbook:Salt|Salt]] to taste 
+
+== Procedure ==
+Put the garlic, onion pieces, cilantro and serrano pepper into a blender.  Pulse for a few seconds, don't over do it.  Halve the avocado and scoop the flesh into the bowl. Add the cream and pulse the blender for a few seconds. Taste the mixture and add salt or more seasonings as desired.  Pulse the blender a little bit more. If the mixture is too thick, add a tablespoon of milk and pulse the blender. It can be served immediately or stored by covering the mixture with plastic wrap.
+
+[[Category:Avocado recipes]]
+[[Category:Sour cream recipes]]
+[[Category:Dip recipes]]
+[[Category:Appetizer recipes]]
+[[Category:Southwestern recipes]]
+[[Category:Mexican recipes]]
+[[Category:Recipes with metric units]]</text>
+      <sha1>i7qp6kr1md07oxa6f5olpu7tg5cvb0h</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Introduction to reactions/Alkyne hydrogenation</title>
+    <ns>0</ns>
+    <id>4314</id>
+    <revision>
+      <id>961202</id>
+      <parentid>629815</parentid>
+      <timestamp>2007-09-07T18:35:11Z</timestamp>
+      <contributor>
+        <username>Whiteknight</username>
+        <id>10714</id>
+      </contributor>
+      <minor />
+      <comment>removing all sub-pages from [[Category:Chemistry]], reformatting book main pages to use {{Subject}}</comment>
+      <text xml:space="preserve">Alkynes are hydrogenated in generally the same way as alkenes. However, standard catalysts like Pd/C will not allow hydrogenation to stop before the alkane stage.  A &quot;poisoned catalyst&quot; will permit the reduction of a triple bond to a double bond by ''syn'' addition, but no further.  A common poisoned catalyst is Lindlar's catalyst: Pd/CaCO3 treated with quinoline and lead acetate.  
+
+[[Image:hydro2.GIF]]
+
+
+''Anti'' addition of hydrogen atoms can be achieved with a dissolving metal reduction.
+
+[[Image:anti.GIF]]
+
+
+
+
+
+== Dissolving Metal Reduction ==
+
+The dissolving metal reaction takes place in a solution of sodium or lithium metal dissolved in liquid ammonia. An alkali metal is dissolved in liquid ammonia and forms a solution containing solvated electrons.
+
+[[Image:solution.GIF]]
+
+Once an alkyne is added to the solution, the electrons add to the antibonding π molecular orbital and produce a radical-anion intermediate.  This intermediate has one unpaired electron and has a negative charge.
+
+[[Image:stepone.GIF]]
+
+The radical anion then reacts with a proton source (generally ethanol or tertiary-butyl alcohol which is added to the ammonia) to yield a vinyl radical.  The radical then accepts another electron and forms a carbanion.  
+
+[[Image:step2&amp;3.GIF]]
+
+The alkene is formed when the vinyl carbanion is protonated.  Protonation normally occurs from the side of the double bond that is least sterically hindered, so a trans-alkene is produced.
+
+[[Image:step4.GIF]]
+
+
+{{BookCat}}</text>
+      <sha1>5v2rb4wykgofx6tzlk5dvowkam4n6lp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Introduction to reactions/Halogenation</title>
+    <ns>0</ns>
+    <id>4316</id>
+    <revision>
+      <id>961190</id>
+      <parentid>654273</parentid>
+      <timestamp>2007-09-07T18:34:59Z</timestamp>
+      <contributor>
+        <username>Whiteknight</username>
+        <id>10714</id>
+      </contributor>
+      <minor />
+      <comment>removing all sub-pages from [[Category:Chemistry]], reformatting book main pages to use {{Subject}}</comment>
+      <text xml:space="preserve">There are several ways to halogenate Alkenes. The simplest is by adding appropriate hydrogen halides, where the reaction follows Markovnikov's rule.  This rule states that the halogen will become bonded to the more highly substituted carbon.  This is a result of greater carbocation stability of more highly substituted carbon atoms, which have more ability to distribute the positive charge to the attached alkyl groups.  When both carbon atoms have the same number of substituents, a mixture of products will often result.
+
+[[Image:Alkene_to_halogenoalkane.png]]
+
+{{BookCat}}</text>
+      <sha1>m4802jwr5647qjf2gv2mpub6ictp6c0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Robert</title>
+    <ns>3</ns>
+    <id>4318</id>
+    <revision>
+      <id>156101</id>
+      <timestamp>2004-02-04T00:57:32Z</timestamp>
+      <contributor>
+        <username>Karl Wick</username>
+        <id>6</id>
+      </contributor>
+      <comment>welcome Robert !</comment>
+      <text xml:space="preserve">Welcome Robert, and please let me know if I can be of any help to you at any time. --[[User:Karl Wick|Karl Wick]]</text>
+      <sha1>rehfjjbsxq27pemvyfqpghhq9ww9s2w</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Sgh7a</title>
+    <ns>3</ns>
+    <id>4326</id>
+    <revision>
+      <id>156109</id>
+      <parentid>13801</parentid>
+      <timestamp>2004-02-05T06:59:00Z</timestamp>
+      <contributor>
+        <ip>217.1.205.23</ip>
+      </contributor>
+      <text xml:space="preserve">Das Resultat dieses Projekts sollen richtige gedruckte Lehrbücher sein, die man in der Schule im Unterricht verwenden kann. Die Unterteilung soll sich also an den verschiedenen Schulstufen orientieren. Das also bitte bei der Konzeption von Anfang an berücksichtigen. Ein großes Mathematikbuch für die Klassen 1 bis 12/13 ist nicht sehr sinnvoll.
+
+:Dafür, dass du anonym über eine von uns erstellte Seite schreibst, bist du aber ganz schön fordernd. Außerdem finde ich es nicht gerade besonders höflich, einen bestehenden Link einfach zu löschen (Leitseite) und damit unsere Seite ins Nirvana zu schicken.
+
+::Dafür bin ich aber Wikibookianer der ersten Stunde. *g*
+
+:Zum Inhalt: Ob deine Vorstellungen umsetzbar sind, ist fraglich. Es gibt in verschiedenen deutschsprachigen Ländern recht verschiede Lehrpläne (in der Schweiz noch nicht mal das). Wie soll man da ein Buch für eine bestimmte Klassenstufe schreiben? Ich hab einfach mal beide Systematiken nebeneinander stehen gelassen. -- [[User:Sgh7a|Sgh7a]] 20:31, 4 Feb 2004 (UTC)
+
+::Auf der englischsprachigen Leitseite ist man schon etwas weiter. Dort gibt es Hinweise auf die jeweils gültigen Lehrbuchstandards. (Das Wikibooks-Projekt ist ja noch recht jung.) Das mit den gedruckten Büchern ist auf jeden Fall der Sinn des ganzen Projekts. Aus den Buchverkäufen soll sich wohl auch die Stiftung refinanzieren.
+
+::Was hindert Dich daran, Dein bzw. Euer Vorhaben gleich von Anfang an einem Lehrbuch für eine bestimmte Klasse oder Stufe einzuordnen?</text>
+      <sha1>5zf0uzd4vt2r2po3xxjubstv44wexbn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Programming:TeX</title>
+    <ns>0</ns>
+    <id>4328</id>
+    <redirect title="TeX" />
+    <revision>
+      <id>273662</id>
+      <parentid>252823</parentid>
+      <timestamp>2005-11-05T15:39:17Z</timestamp>
+      <contributor>
+        <username>Kernigh</username>
+        <id>12266</id>
+      </contributor>
+      <comment>redirect to [[TeX]]; pages were merged</comment>
+      <text xml:space="preserve">#redirect [[TeX]]</text>
+      <sha1>cac7v1ap3eyo442g1brfdtvd4u6a7yj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Haskell</title>
+    <ns>0</ns>
+    <id>4329</id>
+    <revision>
+      <id>2674709</id>
+      <parentid>2655674</parentid>
+      <timestamp>2014-06-18T16:36:20Z</timestamp>
+      <contributor>
+        <username>Rastus Vernon</username>
+        <id>981128</id>
+      </contributor>
+      <comment>commented the ebook reader optimized PDF version because it was last updated in June 2012</comment>
+      <text xml:space="preserve">﻿__NOTOC__
+[[File:Haskell-logo.png|right]]
+{{Book search}}
+{{Print version}}
+{{Collection}}
+{{PDF version}}
+&lt;!-- The eBook reader optimized PDF version needs to be updated. --&gt;
+&lt;!-- {{E-Book Reader PDF version|Haskell eBook Reader.pdf}} --&gt;
+
+{{featured book}}
+
+'''Haskell''' is a [[Computer programming/Functional programming|functional programming]] language.  If you have some programming experience, see the [[/Overview|overview]] to see a bit of how Haskell works and is different from other languages.
+
+Haskell is distinct in a few ways:
+
+* Haskell is a ''pure'' functional programming language. If you call the same function twice in two different places with the same arguments, it will return exactly the same value both times.
+* Haskell provides a modern type system with sophisticated features like typeclasses and generalized algebraic data types (soon enough, terms like those will roll smoothly off your tongue).
+* Haskell is also a ''lazy'' language that does calculations only when they are needed to get a final result.
+
+Haskell programmers enjoy their language because dealing with only pure functions makes code much easier to understand and each function's correctness much easier to analyze and even to prove. Moreover, the advanced type system helps catch mistakes, both silly and profound.
+
+In this book we aim to introduce you both to the Haskell language, from the very basics to advanced features, and to computer programming in general.  We urge seasoned programmers to be especially patient with this process.  In all likelihood, the languages you are most familiar with differ greatly from Haskell, and habits from those languages might make it more difficult to understand how things work - they are simple, but different. Take learning to see the world through the warped and mathematical mindset of a functional programmer as an adventure in a brave new world, which will bring you understanding valuable far beyond the boundaries of any language.
+
+== Overview ==
+The book is divided into a Beginner's Track, an Advanced Track, and a section called ''Haskell in Practice'' which covers more day-to-day issues and uses mostly only items from the Beginner's Track.
+
+{{Info|Please contribute! Anyone, regardless of Haskell competency, can help out. Spend five minutes improving a module and save someone else hours of time. Check out the [[/Notes for contributors|notes for contributors]]. Even if you get confused by a page, tell us about it on the discussion page (politely, of course).}}
+
+== Beginner's Track ==
+
+With the basics of the language and some of the more frequently used libraries, you will be able to build simple programs.
+
+Most chapters contain exercises that help you test your understanding. At the end of each chapter is a link to the solutions, so you can check your accuracy or learn the answers if you are stuck.
+
+{|width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;15&quot; valign=&quot;top&quot; style=&quot;margin:0.8em 0;border:1px solid MediumAquamarine;background:honeydew&quot;
+
+|valign=&quot;top&quot; style=&quot;border-right: 1px dashed MediumAquamarine&quot;|
+
+=== Haskell Basics ===
+*{{Haskell chapter/Haskell Basics|sep=
+*}}
+
+|valign=&quot;top&quot; style=&quot;border-right: 1px dashed MediumAquamarine&quot;|
+
+=== Elementary Haskell ===
+*{{Haskell chapter/Elementary Haskell|sep=
+*}}
+
+|valign=&quot;top&quot; style=&quot;border-right: 1px dashed MediumAquamarine&quot;|
+
+=== Intermediate Haskell ===
+*{{Haskell chapter/Intermediate Haskell|sep=
+*}}
+
+|valign=&quot;top&quot;|
+
+=== Monads ===
+*{{Haskell chapter/Monads|sep=*|subsep=&amp;nbsp;-&amp;nbsp;|breaksep=
+**|firstsep=
+*}}
+
+|}
+
+== Advanced Track ==
+
+This section introduces wider functional programming concepts such as different data structures and type theory. It will also cover more practical topics like concurrency.
+
+{|width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;15&quot; valign=&quot;top&quot; style=&quot;margin:0.8em 0; border: 1px solid SlateBlue; background:#F7F7FF&quot;
+
+|valign=&quot;top&quot; style=&quot;border-right: 1px dashed SlateBlue&quot;|
+
+=== Advanced Haskell ===
+*{{Haskell chapter/Advanced Haskell|sep=
+*}}
+
+|valign=&quot;top&quot; style=&quot;border-right:1px dashed SlateBlue&quot;|
+
+=== Fun with Types ===
+*{{Haskell chapter/Fun with Types|sep=
+*}}
+
+|valign=&quot;top&quot; style=&quot;border-right:1px dashed SlateBlue&quot;|
+
+=== Wider Theory ===
+*{{Haskell chapter/Wider Theory|sep=
+*}}
+
+|valign=&quot;top&quot;|
+
+=== Haskell Performance ===
+*{{Haskell chapter/Haskell Performance|sep=
+*}}
+
+|}
+
+== Haskell in Practice ==
+Day-to-day issues of working with Haskell include items such as knowing the standard libraries, building graphical interfaces, and working with databases. You should be able to jump directly to this section from the beginner's track.
+
+{|width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;15&quot; style=&quot;margin-top:0.8em;margin-bottom:0.8em;border:1px solid gold;background:cornsilk&quot;
+
+|valign=&quot;top&quot; style=&quot;border-right: 1px dashed gold&quot;|
+
+=== Libraries Reference ===
+*{{Haskell chapter/Libraries Reference|sep=*|subsep=&amp;nbsp;-&amp;nbsp;|breaksep=
+**|firstsep=
+*}}
+
+|valign=&quot;top&quot; style=&quot;border-right: 1px dashed gold&quot;|
+
+=== General Practices ===
+*{{Haskell chapter/General Practices|sep=
+*}}
+
+|valign=&quot;top&quot;|
+
+=== Specialised Tasks  ===
+*{{Haskell chapter/Specialised Tasks|sep=
+*}}
+
+|}
+
+== Appendices ==
+:[[/Syntactic sugar/]]
+:[[/Solutions|Answers to exercises]]
+:[[/Authors/|Authors and Acknowledgements]]
+
+== About the book ==
+:[[/Notes for contributors/]]
+:[[/Style conventions/]]
+:[[/To do/]]
+:[[:Category:Haskell/Templates|Templates for the Haskell wikibook]]
+:[[/Experimental Modules/|Experimental Modules]]
+:[[/List of topics/|List of topics]]
+
+== Other Haskell tutorials ==
+* [http://www.haskell.org/haskellwiki/Meta-tutorial Haskell Meta-tutorial] - the tutorial to find other tutorials
+* [http://www.learnyouahaskell.com/Chapters Learn You a Haskell for Great Good] - Tutorial aimed at beginners who may have experience in imperative programming languages but haven't programmed in a functional language before. Freely available online under a CC-BY-NC-SA license; also released as a conventional book.
+* [http://book.realworldhaskell.org/ Real World Haskell] -  an O'Reilly book, available online at no charge (CC-BY-NC license). Built around case studies of practical applications.
+* [[Write Yourself a Scheme in 48 Hours]] - (imported here) An alternate approach to teaching Haskell (and perhaps Scheme), aimed at a more advanced audience (though not necessarily one that knows how to program!)
+* [[/YAHT|Yet Another Haskell Tutorial]] - (imported here) is aimed at beginners and takes a practical approach to things.
+
+== Additional resources ==
+* [http://www.haskell.org/haskellwiki/Learning_Haskell haskell.org - Resources for learning Haskell].
+* [http://dev.stephendiehl.com/hask/ What I Wish I Knew When Learning Haskell] - A wide-ranging collection of concise summaries of many intermediate and advanced Haskell topics. Released in the public domain. 
+* [http://www.cs.kent.ac.uk/people/staff/sjt/craft2e/ The resource page] for the ''Haskell: the craft of functional programming'' book.
+
+{{Subjects|Computer programming languages}}
+{{alphabetical|H}}
+{{status|75%}}
+
+[[de:Funktionale Programmierung mit Haskell]]
+[[fr:Programmation Haskell]]
+[[ja:Haskell]]
+[[pl:Haskell]]
+[[pt:Haskell]]
+[[ru:HaskellWikiBook]]
+[[zh:Haskell]]</text>
+      <sha1>c0i2lt5jhsweirjjw9iihxzunvra13i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Vuara</title>
+    <ns>2</ns>
+    <id>4331</id>
+    <revision>
+      <id>889367</id>
+      <parentid>889290</parentid>
+      <timestamp>2007-06-06T10:34:51Z</timestamp>
+      <contributor>
+        <username>Vuara</username>
+        <id>460</id>
+      </contributor>
+      <comment>add INTRODUCTION (Science_of_Being)</comment>
+      <text xml:space="preserve">Hi,
+----
+Drafts of my books in progress:
+# [[/MMY_Gita|The Vietnamese version of '''Maharishi Mahesh Yogi on the Bhagavad-Gita Chapters 1-6''']] 
+#* [[/MMY_Gita|'''PREFACE''']] 
+#* [[/INTRODUCTION (MMY_Gita)|'''INTRODUCTION''']] 
+#* [[/CHAPTER_I (MMY_Gita)|'''CHAPTER I''']] 
+#* [[/CHAPTER_II (MMY_Gita)|'''CHAPTER II''']] 
+#* [[/CHAPTER_III (MMY_Gita)|'''CHAPTER III''']] 
+#* [[/CHAPTER_IV (MMY_Gita)|'''CHAPTER IV''']] 
+#* [[/CHAPTER_V (MMY_Gita)|'''CHAPTER V''']] 
+#* [[/CHAPTER_VI (MMY_Gita)|'''CHAPTER VI''']] 
+#* [[/APPENDIX (MMY_Gita)|'''APPENDIX''']]
+#** [[/APPENDIX (MMY_Gita)|The Holy Tradition]]
+#** [[/Transcendental Meditation (MMY_Gita)|Transcendental Meditation: The Main Principle]]
+#** [[/Cosmic Law (MMY_Gita)|Cosmic Law, The Basic Law of Creation]]
+#** [[/Six_Systems_of_Indian_Philosophy (MMY_Gita)|The Six Systems of Indian Philosophy]]
+# [[/MMY_SBAL|The Vietnamese version of '''Science of Being and Art of Living:''' ''Transcendental Meditation'']] 
+#* [[/Preface (Science_of_Being)|'''PREFACE''' (by Bevan)]]
+#* [[/INTRODUCTION (Science_of_Being)|'''INTRODUCTION''']] 
+#* Section I: Science of Being 
+#* [[/What Is Being? (Science_of_Being)|'''What Is Being?''']]
+#* ...
+#* [[/Essential Constituent of Creation (Science_of_Being)|'''Being, the Essential Constituent of Creation''']]
+#* ...
+#* Section II: Life 
+#* ...
+#* [[/The Purpose of Life (Science_of_Being)|'''The Purpose of Life''']]
+#* …
+#* [[/Normal Life (Science_of_Being)|'''Normal Life''']]
+#* ...
+#* Section III: Art of Living 
+#* ...
+#* [[/ART OF SPEAKING (Science_of_Being)|'''ART OF SPEAKING''']]
+#* [[/Speaking with a Minimum Consumption of Energy (Science_of_Being)|'''Speaking with a Minimum Consumption of Energy''']]
+#* [[/Speaking Rightly (Science_of_Being)|'''Speaking Rightly''']]
+#* [[/Speaking Harmoniously (Science_of_Being)|'''Speaking Harmoniously''']]
+#* [[/Speaking Pleasingly (Science_of_Being)|'''Speaking Pleasingly''']]
+#* … 
+#* [[/ART OF ACTION (Science_of_Being)|'''ART OF ACTION''']]
+#* ...
+#* [[/The Art of Performing Action to Yield Maximum Results (Science_of_Being)|'''The Art of Performing Action to Yield Maximum Results''']]
+#* ...
+#* [[/The Prayer before Food (Science_of_Being)|'''The Prayer before Food''']]
+#* ...
+#* [[/ART OF BEHAVIOR (Science_of_Being)|'''ART OF BEHAVIOR''']]
+#* ...
+#* [[/Behavior and the Surroundings (Science_of_Being)|'''Behavior and the Surroundings''']]
+#* ...
+#* [[/PATHS TO GOD REALIZATION (Science_of_Being)|'''PATHS TO GOD REALIZATION''']]
+#* [[/God (Science_of_Being)|'''God''']]
+#* ...
+#* [[/Maharishi in the World Today (Science_of_Being)|'''APPENDIX B: Maharishi in the World Today''']]
+#* …
+# [[/Bursts of Brilliance|'''Bursts of Brilliance''']]
+# [[/Memorable Monologues|'''Memorable Monologues, Duplicitous Dialogues''']]
+# [[/En-Vn glossary|'''English-Vietnamese2020 Glossary''']]
+
+----
+'''Sister Projects:''' [http://wikipedia.org/ Wikipedia] | [http://meta.wikipedia.org/ Meta-Wikipedia] | [http://wiktionary.org/ Wiktionary] | [http://wikisource.org/ Wikisource] | [http://wikiquote.org/ Wikiquote]&lt;br&gt;
+'''Communities:''' [[Wikibooks:Staff lounge|Staff lounge]]&lt;br&gt;
+'''Quick Find:''' [[All_bookshelves|All bookshelves]], [[Wikibooks:List of all books|List of all books]]
+----
+# [[/Special chars|Special Chars]]
+
+----
+Test Webpage Formats:
+# [[/Webpage Format 1|Webpage Format 1]] 
+# [[/Webpage Format 2|Webpage Format 2]] 
+# [[/Webpage Format 3|Webpage Format 3]] 
+
+----
+# [[/Softthinking1|Softthinking1]]
+# [[/Softthinking2|Softthinking2]]
+
+----
+# [[/Viet vowel cluster|Việt vowel cluster &amp; 2 &amp; 3-phthong]]
+# [[/PINXXIEE Tenstrokes|Dr H. C. Tien's PINXXIEE Tenstrokes Transcode PX2001]]
+# [[/PINXXIEE Method|CHINESE CHARACTER PINXXIEE METHOD]]
+# [[/The first global alphabet|Latin script--the first global alphabet]]
+# [[/A word is a word is a word|A word is a word is a word]]
+
+----
+# [[/Hyperlanguages transcend human languages|Hyperlanguages transcend human languages]]
+# [[/Hyperlanguage of the Hebrew Alphabet|Hyperlanguage of the Hebrew Alphabet]]
+# [[/hyperintelligence hyperlanguage|hyperintelligence hyperlanguage]]
+# [[/MPEG-7 hyperlanguage|MPEG-7 hyperlanguage]]
+# [[/synaesthesia hyperlanguage|synaesthesia hyperlanguage]]
+
+----
+# [[/Hyperanalysis-MeasurementTheory|Hyperanalysis-MeasurementTheory]]
+# [[/hypermathematics-hypermechanics|hypermathematics-hypermechanics]]
+
+----
+# [[/Evolution of Language|Evolution of Language]]
+# [[/protominds|protominds]]
+# [[/Protothought|Protothought]]
+# [[/New Essays on the Origins of Language|New Essays on the Origins of Language]]
+# [[/Genes, Memes, and Megathemes|Genes, Memes, and Megathemes]]
+# [[/David Peat|David Peat]]
+
+----
+# [[/Forest Value Dictionary|Forest Value Dictionary]]
+# [[/Regressive Imagery Dictionary|Regressive Imagery Dictionary]]
+# [[/Linguistic Inquiry and Word Count Dictionary|LIWC Dictionary]]
+# [[/Categorization dictionary|Categorization dictionary]]
+# [[/Roget Categorization dictionary|Roget Categorization dictionary]]
+# [[/Glossaries|Glossaries]]
+
+----
+# [[/Catalan Hyperencyclopaedia|Catalan Hyperencyclopaedia]]
+# [[/Search many Encyclopedias and Dictionaries|Search many Encyclopedias and Dictionaries]]
+# [[/Artcyclopedia|Artcyclopedia]]
+# [[/Art Movements|Art Movements]]
+# [[/Household Cyclopedia|Household Cyclopedia]]
+# [[/Cyclopedia Cryptologia|Cyclopedia Cryptologia]]
+# [[/Appleton's Cyclopedia of American Biography|Appleton's Cyclopedia of American Biography]]
+
+----
+
+# [[/Characters vs phonetic writing systems|Characters vs phonetic writing systems]]
+# [[/The Bandwidth Capital of the World|The Bandwidth Capital of the World]]
+# [[/Ancient alphabet|An ancient alphabet found on six continents]]
+# [[/NG Medicine Man|The Next-generation Medicine Man]]
+# [[/Hopi brief history|The Hopi--a brief history]]
+# [[/The Name of God|'''James Harris'''' ''The Name of God From the Sinai to the American Southwest'']]
+# [[/Ancient America Mystery|Mystery of Ancient America's Canyon People]]
+# [[/Ancient FAQ|Ancient Alphabet FAQ]]
+# [[/ViewZone 2002|ViewZone expedition 2002]]
+# [[/Ancient Translations|Translations of Ancient scripts]]
+# [[/Oral tradition of the Ancient|Oral Tradition and History of the Ancient People]]
+# [[/Famous old Negev|The most famous old Negev script found in North America]]
+# [[/Ancient Anomalies|Ancient Anomalies]]
+# [[/Runes and the ancient alphabet|Runes and the ancient alphabet]]
+# [[/Who really invented the alphabet|So who really invented the alphabet?]]
+# [[/HOW THE ALPHABET WAS MADE|HOW THE ALPHABET WAS MADE]]
+# [[/The Alphabet is Historic|The Alphabet is Historic]]
+# [[/Who is Phoenician and who is Arab today|Who is Phoenician and who is Arab today]]
+# [[/The Phoenician Alphabet|The Phoenician Alphabet]]
+# [[/Phoenicians_Lebanese|Phoenicians_Lebanese]]
+# [[/Phoenician Origin of the Celts|Phoenician Origin of the Celts]]
+# [[/Phoenician earliest home in India|A History Showing how the Phoenicians had their earliest home in India]]
+# [[/A place called Maalula|A place called Maalula]]
+# [[/Origin of Phoenician Culture|Ethnic Origin, Language and Literature of the Phoenicians]]
+# [[/Geography of Phoenicia Canaan|Geography of Phoenicia Canaan]]
+# [[/Origins of ancient Egypt|Discoveries that rewrite the origins of ancient Egypt]]
+# [[/Petroglyphs|Petroglyphs]]
+# [[/Alphabets at EPL|Alphabets at EPL]]
+# [[/The Rosetta stone|The Rosetta stone]]
+# [[/Decoding Egyptian hieroglyphs|Decoding Egyptian hieroglyphs]]
+# [[/Hieroglyphic at EPL|Hieroglyphic at EPL]]
+# [[/Carthaginians invented the sale by auction|Carthaginians are famous with invention of sale by auction]]
+# [[/Phoenicia Knoweldge Sources|Sources of Modern Knoweldge About Phoenicia]]
+# [[/ANCIENT ALPHABETS COMPARED|ANCIENT ALPHABETS COMPARED]]
+# [[/IS THERE AN IDEAL ALPHABET|IS THERE AN IDEAL ALPHABET]]
+# [[/EVOLUTION OF WRITING|EVOLUTION OF WRITING]]
+# [[/Bronze Age Literacy|Bronze Age Literacy]]
+
+----
+# [[/WritingSystems|WritingSystems Course]]
+# [[/Thoughts on The Alphabet Effect|Thoughts on Logan's '''The Alphabet Effect''']]
+# [[/Books by Henry Rogers|Books by Henry Rogers]]
+# [[/Linguistics Courses|Linguistics Courses]]
+# [[/UT Linguistics fees|UT Linguistics fees]]
+# [[/The best chinese dictionary|The best chinese dictionary]]
+# [[/The most comprehensive C-E dictionary|The most comprehensive Chinese to English dictionary]]
+# [[/Writing Systems text|Writing Systems text]]
+
+-- [[User:Vuara|Vuara]] 10:34, 6 June 2007 (UTC)</text>
+      <sha1>3v7k3u0z4qtyw6aetzn7ok5q88o8ukt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Vuara/MMY Gita</title>
+    <ns>2</ns>
+    <id>4332</id>
+    <revision>
+      <id>1724632</id>
+      <parentid>1074335</parentid>
+      <timestamp>2010-02-22T02:08:04Z</timestamp>
+      <contributor>
+        <username>Vuara</username>
+        <id>460</id>
+      </contributor>
+      <comment>equivalent of &quot;spontaneous expressions&quot;</comment>
+      <text xml:space="preserve">&lt;table border=&quot;1&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt; &lt;tr&gt; &lt;th&gt;
+PREFACE&lt;/th&gt; &lt;th&gt; &lt;font color=blue&gt; 
+LỜITỰA&lt;font&gt; &lt;/th&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;
+# The Vedas are the lighthouse of eternal wisdom leading man to salvation and inspiring him to supreme accomplishment. 
+# The omnipresence of eternal Being, unmanifested and absolute; Its status as That, even in the manifested diversity of action; and the possibility of the realization of Being by any man in terms of himself—these are the great truths of the perennial philosophy of the Vedas. 
+# The Vedas reveal the unchanging Unity of life which underlies the evident multiplicity of creation, for Reality is both manifest and unmanifest, and That alone is. ‘I am That, thou art That and all this is That’, is the Truth; and this is the kernel of the Vedic Teaching, which the Rishis extol as teaching ‘worthy of hearing, contemplating and realizing’. 
+# The truth of Vedic Wisdom is by its very nature independent of time and can therefore never be lost When, however, man’s vision becomes one sided and he is caught by the binding influence of the phenomenal world to the exclusion of the absolute phase of Reality, when he is thus confined within the ever-changing phases of existence, his life loses stability and he begins to suffer. When suffering grows, the invincible force of Nature moves to set man’s vision right and establish a way of life which will again fulfil the high purpose of his existence. The long history of the world records many such periods in which the ideal pattern of life is first forgotten and then restored to man. 
+# Veda Vyasa, the sage of enlightened vision and greatest among the historians of antiquity, records the growth of unrighteousness in the families of those who ruled the people about five thousand years ago. It was then that Lord Krishna came to remind man of the true values of life and living. He restored that direct contact with the transcendental Being which alone can give fullness to every aspect of life. He brought to light absolute Being as the basic Reality of life and established It as the foundation of all thinking, which in turn is the basis of all doing. This philosophy of Being, thinking and doing is the true philosophy of the integrated life. It not only helps the doer to gain success in his undertaking, but, at the same time, sets him free from the bondage of action, bringing fulfilment at every level. Such is the teaching of eternal Truth, given by Lord Krishna to Arjuna in the Bhagavad-Gita. 
+# Gradually this teaching came to be forgotten, so that two thousand years later even the principle of Being as the absolute Reality, the source and basis of all creation, was overshadowed by misguided beliefs which glorified only the relative aspects of life. “The long lapse of time”, says Lord Krishna, is the reason for such a loss of wisdom. 
+# When the philosophy of the integrated life restored by Lord Krishna was lost from view, the idea grew that everything which life can offer is present on the obvious levels of existence, and that it would therefore be useless to aspire to anything that might lie deeper than external appearances. Society became dominated by this superficial outlook, insight into Reality was lost, the right sense of values forgotten and the stability of life destroyed. Tension, confusion, superstition, unhappiness and fear prevailed. 
+# Lord Buddha came to remedy this situation. Finding the field of action distorted, He came with a message of right action. Speaking from His level of consciousness established in Being, in eternal freedom (Nirvana), Lord Buddha taught the philosophy of action in freedom. He advocated meditation in order to purify the field of thought through direct contact with Being and bring about the state of right action in society. Lord Buddha’s message was complete because He incorporated the fields of Being, thinking, and doing in His theme of revival. But because his followers failed to correlate these different fields of life in a systematic manner through the practice of Transcendental Meditation, realization of Being as the basis of a good life became obscured. The whole structure of Lord Buddha”s teaching not only became distorted but was also turned upside down. The effect was mistaken for the cause. Right action came to be regarded as a means to gain Nirvana, whereas right action is in fact the result of this state of consciousness in freedom. 
+# It has been the misfortune of every teacher that, while he speaks from his level of consciousness, his followers can only receive his message on their level; and the gulf between the teaching and understanding grows wider with time. 
+# The teaching of right action without due emphasis on the primary necessity of realization of Being is like building a wall without a foundation. It sways with the wind and collapses before long. Within three or four hundred years all real connection between the essential teachings of Lord Buddha and the daily life of His followers had disappeared. Insight into the principle of the integrated life was again lost. Having forgotten the prime importance of realizing Being, society became immersed once more in the superficialities of life. 
+# Nature will not allow humanity to be deprived of the vision of Reality for very long. A wave of revival brought Shankara to re-establish the basis of life and renew human understanding. Shankara restored the wisdom of the Absolute and established It in the daily life of the people, strengthening the fields of thought and action by the power of Being. He brought the message of fulfilment through direct realization of transcendental Being in the state of Self-consciousness, which is the basis of all good in life. 
+# Shankara’s emphasis on Self-realization stems from the eternal philosophy of the integrated life expressed by Lord Krishna in the Bhagavad-Gita when He asks Arjuna first to ‘be without the three Gunas’ and then to perform actions while thus established in Being That all men should at all times live the bliss-consciousness of absolute Being, and that they should live the state of fulfilment in God Consciousness throughout all thought, speech, and action; this is the essence of Shankara’s message, as it is the essence of Lord Krishna’s and of the entire Vedic Philosophy. 
+# The greatest blessing that Shankara’s teaching has offered to the world is the principle of fullness of intellectual and emotional development in the state of enlightenment, based on transcendental pure consciousness, in which the heart is so pure as to be able to flow and overflow with waves of universal love and devotion to God, while the mind is so refined as to enjoy awareness of the divine nature as separate from the world of action. 
+# The spontaneous expressions of Shankara’s mind and heart in this state of freedom and fulfilment have been a source of inspiration both to those who live by the heart and those who live by the mind. His consciousness exemplified the highest state of human development; his heart expressed supreme transcendental devotion to God (Para Bhakti, while his mind expressed awareness of the Self as separate from the field of action (Gyan). This it was that led Shankara’s speech to flow into ecstasies of devotion and at the same time into clear expressions of knowledge, the dry and hard-headed truths concerning divine nature as detached from the world. These are the two aspects of the living reality of a life in complete fulfilment. 
+# Shankara not only revived the wisdom of integrated life and made it popular in his day, but also established four principal seats of learning in four corners of India to keep his teaching pure and to ensure that it would be propagated in its entirety generation after generation. For many centuries his teaching remained alive in his followers, who lived the ideal state of knowledge with devotion (Gyan and Bhakti). But in spite of all his foresight and endeavours, Shankara’s message inevitably suffered with time the same misfortunes as those of the other great teachers. 
+# If the occupants of a house forget the foundations, it is because the foundations lie underground, hidden from view. It is no surprise that Being was lost to view, for It lies in the transcendental field of life. 
+# The state of Reality, as described by the enlightened, cannot become a path for the seeker, any more than the description of a destination can replace the road that leads to it. When the truth that Being forms the basis of the state of enlightenment became obscured, Shankara’s statements about the nature of the goal were mistaken for the path to realization. 
+# This misunderstanding was increased by the very beauty of Shankara’s eloquence. His expressions of deep devotion made in the state of complete surrender and oneness with God, and his intellectual clarifications made in the state of awareness of the divine nature, are both so full and complete in themselves that, seen from the ordinary level of consciousness, they appeared to present two independent paths to enlightenment: the path of knowledge and the path of devotion. 
+# This is the tragedy of knowledge, the tragic fate that knowledge must meet at the hands of ignorance. It is inevitable, because the teaching comes from one level of consciousness and is received at quite a different level. The knowledge of Unity must in time shatter on the hard rocks of ignorance. History has proved this again and again. Shankara’s teaching could not prove an exception to the rule. 
+# The idea of two paths became more predominant owing to the carelessness of the custodians of Shankara’s teaching. Since they followed the recluse way of life, they were naturally concerned with thoughts of the separateness of the Divine from the world; and, with the continuance of this situation generation after generation, the aspect of knowledge began to dominate Shankara’s tradition while the aspect of devotion gradually lost its importance. The teaching became one-sided and, deprived of its wholeness, eventually lost its universal appeal. It came to be regarded as Mayavada, a philosophy of illusion, holding the world to be only illusory and emphasizing the detached way of life. 
+# As the principle of Being began more and more to disappear from view, the paths of devotion and knowledge became more and more separate and finally the link between them was lost. The principle of full development of heart and mind through one process (Transcendental Meditation) was lost. The integral nature of realization was lost. The true wisdom of life’s fulfilment, which lies in the simultaneous development of heart and mind, was lost. The idea that devotion and knowledge are necessarily separate was the greatest blow to Shankara’s teaching. 
+# In the absence of the moon, the stars take over and provide as much light as they can. When Shankara’s high ideal of transcendental devotion disappeared from sight, Ramanuja, Madhva, and other teachers upheld the path of devotion, even though without its proper basis in Being. People followed them, and thus there arose many devotional sects all on the level of emotion and every one founded on the comfortable basis of hope that ‘some day our prayer will be heard, some day He will come to us and call us to Him’. Indeed a comfort to the heart but, alas, such devotion is on the imaginary plane of feeling! It is far, far away from the reality of actual contact between the devotee and his God. Awareness in the state of Being alone makes the whole field of devotion real. 
+# All these sects hold that transcendental devotion is the last stage of a devotee’s achievement. But Shankara’s principle of devotion is founded on Transcendental Consciousness from the very beginning The first step for Shankara is the last step for these devotional sects, a step which according to their understanding is far above the reach of the ordinary man. 
+# The idea that devotion must start from Transcendental Consciousness having been lost by the guardians of Shankara’s wisdom, entrance into the field of devotion was closed. Seekers of God remained seeking in thin air, and lovers of God remained weeping for Him without finding Him. 
+# As devotion remained merely on the level of thinking and of assuming an attitude of feeling (mood-making), so knowledge met with the same fate once the direct way to the realization of Transcendental Consciousness had been lost. Understanding of the Unity of life cannot be significant until one has thoroughly understood, by direct experience, that one’s inner divine nature is separate from the world of action. If a man has not gained consciousness in Being through the practice of Transcendental Meditation he continues to live in ignorance and bondage. Because he has not yet opened himself to the experience of the separateness of the Divine from the world, the thought of Unity has no practical use for such a man. He bas nothing to unite. 
+# On the fertile field of Transcendental Consciousness both knowledge and devotion find their fulfilment. But this principle once forgotten and the technique for developing Transcendental Consciousness lost, many, many generations have died without seeing the light of God and without gaining fulfilment. That has been the situation for more than a thousand years. Misunderstanding itself has taken the shape of a tradition, unfortunately known as Shankara’s tradition. This great loss to human life can hardly be compensated; but that has been the course of history. Time cannot be recaptured. It is no use repenting the past. 
+# In our review of the rise and fall of Truth, we must not lose sight of the great impact that Shankara produced on Indian life. It was the perfection of his presentation that caused Shankara’s teaching to be accepted as the core of Vedic Wisdom and placed it at the centre of Indian culture. It became so inseparable from the Indian way of life that when, in course of time, this teaching lost its universal character and came to be interpreted as for the recluse order alone, the whole basis of Indian culture also began to be considered in terms of the recluse way of life, founded on renunciation and detachment. 
+# When this detached view of life became accepted as the basis of Vedic Wisdom, the wholeness of life and fulfilment was lost. This error of understanding has dominated Indian culture for centuries and has turned the principle of life upside down. Life on the basis of detachment! This is a complete distortion of Indian philosophy. It has not only destroyed the path of realization but has led the seekers of Truth continuously astray. Indeed it has left them without the possibility of ever finding the goal. 
+
+# Not only was the path to enlightenment lost, but the entire art of living disappeared in the clouds of ignorance which obscured every phase of life. Even religion became blind to itself. Instead of directly helping people to gain God Consciousness and act rightly on that basis, religious preachers began to teach that right action is in itself a way to purification and thereby to God Consciousness. 
+# Without Being, confusion of cause and effect invaded every field of understanding. It captured even the most practical field of the philosophy of Yoga. Karma Yoga (attainment of Union by way of action) began to be understood as based on Karma (action), whereas its basis is Yoga, Union, Transcendental Consciousness. The founder of the Yoga philosophy, Patanjali, was himself misinterpreted and the order of stages on his eightfold path reversed. The practice of Yoga was understood to start with Yama, Niyama, and so on (the secular virtues), whereas in reality it should begin with Samadhi. Samadhi cannot be gained by the practice of Yama, Niyama, and so on. Proficiency in the virtues can only be gained by repeated experiences of Samadhi. It was because the effect was mistaken for the cause that this great philosophy of life became distorted and the path to Samadhi was blocked. 
+# With the loss of insight into Yoga, the other five classical systems of Indian philosophy lost their power. They remained on the theoretical level of knowledge, for it is through Yoga alone that knowledge steps into practical life. 
+# Thus we find that all fields of religion and philosophy have been misunderstood and wrongly interpreted for many centuries past. This has blocked the path to the fullest development of heart and mind, so precisely revived by Shankara. 
+# Interpretations of the Bhagavad-Gita and other Indian scriptures are now so full of the idea of renunciation that they are regarded with distrust by practical men in every part of the world. Many Western universities hesitate to teach Indian philosophy for this reason. The responsibility for this loss of Truth to the whole world lies with the interpretations of Shankara’s teaching; missing the essence of his wisdom, they have bean unable to save the world from falling ever deeper into ignorance and suffering. 
+# This age has, however, been fortunate. It has witnessed the living example of a man inspired by Vedic Wisdom in its wholeness and thus able to revive the philosophy of the integrated life in all its truth and fullness. His Divinity Swami Brahmananda Saraswati, the inspiration and guiding light of this commentary on the Bhagavad-Gita, adorned the seat of the Shankaracharya of the North and, glowing in divine radiance, embodied in himself the head and heart of Shankara. He expounded the Truth in Its all-embracing nature. His quiet words, coming from the unbounded love of his heart, pierced the hearts of all who heard him and brought enlightenment to their minds. His message was the message of fullness of heart and mind. He moved as the living embodiment of Truth and was addressed as Vedanta Incarnate by that great Indian philosopher, now President of India, Dr Radhakrishnan. 
+# It was the concern of Guru Deva, His Divinity Swami Brahmananda Saraswati, to enlighten all men everywhere that resulted in the foundation of the world-wide Spiritual Regeneration Movement in 1958, five years after his departure from us. 
+# India is a country where Truth matters most and Indians are a people to whom God matters most. Indian soil has witnessed many times the revival of life’s true philosophy. The people of India have never hesitated to return once more to the right path whenever it was convincingly pointed out to them that their way of life had taken a wrong course. This receptiveness to Truth of the Indian people has always been a source of inspiration and a signal of hope to all movements aiming at the revival of true life and living. 
+# May the present commentary on the Bhagavad-Gita produce the desired effect in response to the historical necessity of today. 
+# The purpose of this commentary is to restore the fundamental truths of the Bhagavad-Gita and thus restore the significance of its teaching. If this teaching is followed, effectiveness in life will be achieved, men will be fulfilled on all levels and the historical need of the age will be fulfilled also. 
+MAHARISHI MAHESH YOGI&lt;br&gt;
+The Old Manor, Aldbourne,&lt;br&gt;
+Wiltshire, England&lt;br&gt;
+12 January 1965&lt;/td&gt; &lt;td&gt; &lt;font color=blue&gt;
+# Bộ Veda là ngọn hảiđăng của nềnminhtriết vĩnhcửu dẫndắt nhânloại tiếnđến&lt;/font&gt; salvation and inspiring him to supreme accomplishment. 
+# The omnipresence of eternal Being, unmanifested and absolute; Its status as That, even in the manifested diversity of action; and the possibility of the realization of Being by any man in terms of himself—these are the great truths of the perennial philosophy of the Vedas. 
+# The Vedas reveal the unchanging Unity of life which underlies the evident multiplicity of creation, for Reality is both manifest and unmanifest, and That alone is. ‘I am That, thou art That and all this is That’, is the Truth; and this is the kernel of the Vedic Teaching, which the Rishis extol as teaching ‘worthy of hearing, contemplating and realizing’. 
+# The truth of Vedic Wisdom is by its very nature independent of time and can therefore never be lost When, however, man’s vision becomes one sided and he is caught by the binding influence of the phenomenal world to the exclusion of the absolute phase of Reality, when he is thus confined within the ever-changing phases of existence, his life loses stability and he begins to suffer. When suffering grows, the invincible force of Nature moves to set man’s vision right and establish a way of life which will again fulfil the high purpose of his existence. The long history of the world records many such periods in which the ideal pattern of life is first forgotten and then restored to man. 
+# Veda Vyasa, the sage of enlightened vision and greatest among the historians of antiquity, records the growth of unrighteousness in the families of those who ruled the people about five thousand years ago. It was then that Lord Krishna came to remind man of the true values of life and living. He restored that direct contact with the transcendental Being which alone can give fullness to every aspect of life. He brought to light absolute Being as the basic Reality of life and established It as the foundation of all thinking, which in turn is the basis of all doing. This philosophy of Being, thinking and doing is the true philosophy of the integrated life. It not only helps the doer to gain success in his undertaking, but, at the same time, sets him free from the bondage of action, bringing fulfilment at every level. Such is the teaching of eternal Truth, given by Lord Krishna to Arjuna in the Bhagavad-Gita. 
+# Gradually this teaching came to be forgotten, so that two thousand years later even the principle of Being as the absolute Reality, the source and basis of all creation, was overshadowed by misguided beliefs which glorified only the relative aspects of life. “The long lapse of time”, says Lord Krishna, is the reason for such a loss of wisdom. 
+# When the philosophy of the integrated life restored by Lord Krishna was lost from view, the idea grew that everything which life can offer is present on the obvious levels of existence, and that it would therefore be useless to aspire to anything that might lie deeper than external appearances. Society became dominated by this superficial outlook, insight into Reality was lost, the right sense of values forgotten and the stability of life destroyed. Tension, confusion, superstition, unhappiness and fear prevailed. 
+# Lord Buddha came to remedy this situation. Finding the field of action distorted, He came with a message of right action. Speaking from His level of consciousness established in Being, in eternal freedom (Nirvana), Lord Buddha taught the philosophy of action in freedom. He advocated meditation in order to purify the field of thought through direct contact with Being and bring about the state of right action in society. Lord Buddha’s message was complete because He incorporated the fields of Being, thinking, and doing in His theme of revival. But because his followers failed to correlate these different fields of life in a systematic manner through the practice of Transcendental Meditation, realization of Being as the basis of a good life became obscured. The whole structure of Lord Buddha”s teaching not only became distorted but was also turned upside down. The effect was mistaken for the cause. Right action came to be regarded as a means to gain Nirvana, whereas right action is in fact the result of this state of consciousness in freedom. 
+# It has been the misfortune of every teacher that, while he speaks from his level of consciousness, his followers can only receive his message on their level; and the gulf between the teaching and understanding grows wider with time. 
+# The teaching of right action without due emphasis on the primary necessity of realization of Being is like building a wall without a foundation. It sways with the wind and collapses before long. Within three or four hundred years all real connection between the essential teachings of Lord Buddha and the daily life of His followers had disappeared. Insight into the principle of the integrated life was again lost. Having forgotten the prime importance of realizing Being, society became immersed once more in the superficialities of life. 
+# Nature will not allow humanity to be deprived of the vision of Reality for very long. A wave of revival brought Shankara to re-establish the basis of life and renew human understanding. Shankara restored the wisdom of the Absolute and established It in the daily life of the people, strengthening the fields of thought and action by the power of Being. He brought the message of fulfilment through direct realization of transcendental Being in the state of Self-consciousness, which is the basis of all good in life. 
+# Shankara’s emphasis on Self-realization stems from the eternal philosophy of the integrated life expressed by Lord Krishna in the Bhagavad-Gita when He asks Arjuna first to ‘be without the three Gunas’ and then to perform actions while thus established in Being That all men should at all times live the bliss-consciousness of absolute Being, and that they should live the state of fulfilment in God Consciousness throughout all thought, speech, and action; this is the essence of Shankara’s message, as it is the essence of Lord Krishna’s and of the entire Vedic Philosophy. 
+# The greatest blessing that Shankara’s teaching has offered to the world is the principle of fullness of intellectual and emotional development in the state of enlightenment, based on transcendental pure consciousness, in which the heart is so pure as to be able to flow and overflow with waves of universal love and devotion to God, while the mind is so refined as to enjoy awareness of the divine nature as separate from the world of action. 
+# &lt;font color=blue&gt;Những diễnđạt thanhthoát tựnhiên từ tâmtrí Shankara ở trạngthái tựdo cởimở và hoànthành trọnvẹn này đã là một nguồn cảmhứng cho cả hai nếpsống, những ai sống theo trái tim và những ai sống theo lýtrí.&lt;/font&gt; His consciousness exemplified the highest state of human development; his heart expressed supreme transcendental devotion to God (Para Bhakti, while his mind expressed awareness of the Self as separate from the field of action (Gyan). This it was that led Shankara’s speech to flow into ecstasies of devotion and at the same time into clear expressions of knowledge, the dry and hard-headed truths concerning divine nature as detached from the world. These are the two aspects of the living reality of a life in complete fulfilment. 
+# Shankara not only revived the wisdom of integrated life and made it popular in his day, but also established four principal seats of learning in four corners of India to keep his teaching pure and to ensure that it would be propagated in its entirety generation after generation. For many centuries his teaching remained alive in his followers, who lived the ideal state of knowledge with devotion (Gyan and Bhakti). But in spite of all his foresight and endeavours, Shankara’s message inevitably suffered with time the same misfortunes as those of the other great teachers. 
+# If the occupants of a house forget the foundations, it is because the foundations lie underground, hidden from view. It is no surprise that Being was lost to view, for It lies in the transcendental field of life. 
+# The state of Reality, as described by the enlightened, cannot become a path for the seeker, any more than the description of a destination can replace the road that leads to it. When the truth that Being forms the basis of the state of enlightenment became obscured, Shankara’s statements about the nature of the goal were mistaken for the path to realization. 
+# This misunderstanding was increased by the very beauty of Shankara’s eloquence. His expressions of deep devotion made in the state of complete surrender and oneness with God, and his intellectual clarifications made in the state of awareness of the divine nature, are both so full and complete in themselves that, seen from the ordinary level of consciousness, they appeared to present two independent paths to enlightenment: the path of knowledge and the path of devotion. 
+# This is the tragedy of knowledge, the tragic fate that knowledge must meet at the hands of ignorance. It is inevitable, because the teaching comes from one level of consciousness and is received at quite a different level. The knowledge of Unity must in time shatter on the hard rocks of ignorance. History has proved this again and again. Shankara’s teaching could not prove an exception to the rule. 
+# The idea of two paths became more predominant owing to the carelessness of the custodians of Shankara’s teaching. Since they followed the recluse way of life, they were naturally concerned with thoughts of the separateness of the Divine from the world; and, with the continuance of this situation generation after generation, the aspect of knowledge began to dominate Shankara’s tradition while the aspect of devotion gradually lost its importance. The teaching became one-sided and, deprived of its wholeness, eventually lost its universal appeal. It came to be regarded as Mayavada, a philosophy of illusion, holding the world to be only illusory and emphasizing the detached way of life. 
+# As the principle of Being began more and more to disappear from view, the paths of devotion and knowledge became more and more separate and finally the link between them was lost. The principle of full development of heart and mind through one process (Transcendental Meditation) was lost. The integral nature of realization was lost. The true wisdom of life’s fulfilment, which lies in the simultaneous development of heart and mind, was lost. The idea that devotion and knowledge are necessarily separate was the greatest blow to Shankara’s teaching. 
+# In the absence of the moon, the stars take over and provide as much light as they can. When Shankara’s high ideal of transcendental devotion disappeared from sight, Ramanuja, Madhva, and other teachers upheld the path of devotion, even though without its proper basis in Being. People followed them, and thus there arose many devotional sects all on the level of emotion and every one founded on the comfortable basis of hope that ‘some day our prayer will be heard, some day He will come to us and call us to Him’. Indeed a comfort to the heart but, alas, such devotion is on the imaginary plane of feeling! It is far, far away from the reality of actual contact between the devotee and his God. Awareness in the state of Being alone makes the whole field of devotion real. 
+# All these sects hold that transcendental devotion is the last stage of a devotee’s achievement. But Shankara’s principle of devotion is founded on Transcendental Consciousness from the very beginning The first step for Shankara is the last step for these devotional sects, a step which according to their understanding is far above the reach of the ordinary man. 
+# The idea that devotion must start from Transcendental Consciousness having been lost by the guardians of Shankara’s wisdom, entrance into the field of devotion was closed. Seekers of God remained seeking in thin air, and lovers of God remained weeping for Him without finding Him. 
+# As devotion remained merely on the level of thinking and of assuming an attitude of feeling (mood-making), so knowledge met with the same fate once the direct way to the realization of Transcendental Consciousness had been lost. Understanding of the Unity of life cannot be significant until one has thoroughly understood, by direct experience, that one’s inner divine nature is separate from the world of action. If a man has not gained consciousness in Being through the practice of Transcendental Meditation he continues to live in ignorance and bondage. Because he has not yet opened himself to the experience of the separateness of the Divine from the world, the thought of Unity has no practical use for such a man. He bas nothing to unite. 
+# On the fertile field of Transcendental Consciousness both knowledge and devotion find their fulfilment. But this principle once forgotten and the technique for developing Transcendental Consciousness lost, many, many generations have died without seeing the light of God and without gaining fulfilment. That has been the situation for more than a thousand years. Misunderstanding itself has taken the shape of a tradition, unfortunately known as Shankara’s tradition. This great loss to human life can hardly be compensated; but that has been the course of history. Time cannot be recaptured. It is no use repenting the past. 
+# In our review of the rise and fall of Truth, we must not lose sight of the great impact that Shankara produced on Indian life. It was the perfection of his presentation that caused Shankara’s teaching to be accepted as the core of Vedic Wisdom and placed it at the centre of Indian culture. It became so inseparable from the Indian way of life that when, in course of time, this teaching lost its universal character and came to be interpreted as for the recluse order alone, the whole basis of Indian culture also began to be considered in terms of the recluse way of life, founded on renunciation and detachment. 
+# When this detached view of life became accepted as the basis of Vedic Wisdom, the wholeness of life and fulfilment was lost. This error of understanding has dominated Indian culture for centuries and has turned the principle of life upside down. Life on the basis of detachment! This is a complete distortion of Indian philosophy. It has not only destroyed the path of realization but has led the seekers of Truth continuously astray. Indeed it has left them without the possibility of ever finding the goal. 
+
+# Not only was the path to enlightenment lost, but the entire art of living disappeared in the clouds of ignorance which obscured every phase of life. Even religion became blind to itself. Instead of directly helping people to gain God Consciousness and act rightly on that basis, religious preachers began to teach that right action is in itself a way to purification and thereby to God Consciousness. 
+# Without Being, confusion of cause and effect invaded every field of understanding. It captured even the most practical field of the philosophy of Yoga. Karma Yoga (attainment of Union by way of action) began to be understood as based on Karma (action), whereas its basis is Yoga, Union, Transcendental Consciousness. The founder of the Yoga philosophy, Patanjali, was himself misinterpreted and the order of stages on his eightfold path reversed. The practice of Yoga was understood to start with Yama, Niyama, and so on (the secular virtues), whereas in reality it should begin with Samadhi. Samadhi cannot be gained by the practice of Yama, Niyama, and so on. Proficiency in the virtues can only be gained by repeated experiences of Samadhi. It was because the effect was mistaken for the cause that this great philosophy of life became distorted and the path to Samadhi was blocked. 
+# With the loss of insight into Yoga, the other five classical systems of Indian philosophy lost their power. They remained on the theoretical level of knowledge, for it is through Yoga alone that knowledge steps into practical life. 
+# Thus we find that all fields of religion and philosophy have been misunderstood and wrongly interpreted for many centuries past. This has blocked the path to the fullest development of heart and mind, so precisely revived by Shankara. 
+# Interpretations of the Bhagavad-Gita and other Indian scriptures are now so full of the idea of renunciation that they are regarded with distrust by practical men in every part of the world. Many Western universities hesitate to teach Indian philosophy for this reason. The responsibility for this loss of Truth to the whole world lies with the interpretations of Shankara’s teaching; missing the essence of his wisdom, they have bean unable to save the world from falling ever deeper into ignorance and suffering. 
+# This age has, however, been fortunate. It has witnessed the living example of a man inspired by Vedic Wisdom in its wholeness and thus able to revive the philosophy of the integrated life in all its truth and fullness. His Divinity Swami Brahmananda Saraswati, the inspiration and guiding light of this commentary on the Bhagavad-Gita, adorned the seat of the Shankaracharya of the North and, glowing in divine radiance, embodied in himself the head and heart of Shankara. He expounded the Truth in Its all-embracing nature. His quiet words, coming from the unbounded love of his heart, pierced the hearts of all who heard him and brought enlightenment to their minds. His message was the message of fullness of heart and mind. &lt;font color=blue&gt;Ngài sống như một hiệnthể của Chânlý. Dr Radhakrishnan, một đại triếtgia Ấn thờiấy, hiệnlà Tổngthống của Ấnđộ, gọi ngài là Hiệnthể của Vedanta. 
+# Đây là mối quantâm của Guru Deva, Đức ThánhThần Swami Brahmananda Saraswati,&lt;/font&gt; to enlighten all men everywhere that resulted in the foundation of the world-wide Spiritual Regeneration Movement &lt;font color=blue&gt;năm 1958, năm năm sau ngày Ngài từdã chúngta. 
+# Ấnđộ là một nước mà Chânlý&lt;/font&gt; matters most &lt;font color=blue&gt;và NgườiẤn là một dântộc mà ThượngĐế&lt;/font&gt; matters most. Indian soil has witnessed many times the revival of life’s true philosophy. The people of India have never hesitated to return once more to the right path whenever it was convincingly pointed out to them that their way of life had taken a wrong course. This receptiveness to Truth of the Indian people has always been a source of inspiration and a signal of hope to all movements aiming at the revival of true life and living. 
+# May the present commentary on the Bhagavad-Gita produce the desired effect in response to the historical necessity of today. 
+# The purpose of this commentary is to restore the fundamental truths of the Bhagavad-Gita and thus restore the significance of its teaching. If this teaching is followed, effectiveness in life will be achieved, men will be fulfilled on all levels and the historical need of the age will be fulfilled also. &lt;font color=blue&gt;
+MAHARISHI MAHESH YOGI&lt;br&gt;
+The Old Manor, Aldbourne, &lt;br&gt;
+Wiltshire, Anhquốc&lt;br&gt;
+12 ThángGiêng 1965&lt;/font&gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;/tr&gt;</text>
+      <sha1>ady78tz2lmsvi3nrmrwrnfiqihtu9tt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Vuara/MMY SBAL</title>
+    <ns>2</ns>
+    <id>4333</id>
+    <revision>
+      <id>887784</id>
+      <parentid>616185</parentid>
+      <timestamp>2007-06-04T20:54:08Z</timestamp>
+      <contributor>
+        <username>Vuara</username>
+        <id>460</id>
+      </contributor>
+      <minor />
+      <comment>format, typos</comment>
+      <text xml:space="preserve">{| border=&quot;1&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;
+|-
+!
+INTRODUCTION
+!
+LỜIGIỚITHIỆU
+|-
+|
+The Science of Being and Art of Living is the summation of both the practical wisdom of integrated life advanced by the Vedic Rishis of ancient India and the growth of scientific thinking in the present-day Western world.
+|
+&lt;font color=blue&gt;Khoahọc Bảnnhiên và Nghệthuật Sống&lt;/font&gt; is the summation of both the practical wisdom of integrated life advanced by the Vedic Rishis of ancient India and the growth of scientific thinking in the present-day Western world. 
+|-
+|
+It presents a philosophy of life in fulfillment and brings forth a practice suitable for all men everywhere in the world to glorify all aspects of their day-to-day life. It deals with the fundamentals of all problems of life and suggests one sure cure to eradicate all sufferings.
+|
+It presents a philosophy of life in fulfillment and brings forth a practice suitable for all men everywhere in the world to glorify all aspects of their day-to-day life. It deals with the fundamentals of all problems of life and suggests one sure cure to eradicate all sufferings.
+|-
+|
+This book presents a practical thesis of integrated life which has long been the abstract goal of the various sciences, religions, and metaphysical thought groups. This thesis will enable all men to harmonize their inner spiritual content with the glories of the outer material life and find their God within themselves.
+|
+This book presents a practical thesis of integrated life which has long been the abstract goal of the various sciences, religions, and metaphysical thought groups. This thesis will enable all men to harmonize their inner spiritual content with the glories of the outer material life and find their God within themselves.
+|-
+|
+Science explores into the actuality of forms and phenomena. All the branches of science are the various ways to realize the truth of existence. The approach of each of them starts from the obvious known and aims at investigating the hidden unknown. The ultimate truth of life is being approached from all directions. All the sciences are exploring the various strata of creation, from the gross to the subtler fields of existence.
+|
+Science explores into the actuality of forms and phenomena. All the branches of science are the various ways to realize the truth of existence. The approach of each of them starts from the obvious known and aims at investigating the hidden unknown. The ultimate truth of life is being approached from all directions. All the sciences are exploring the various strata of creation, from the gross to the subtler fields of existence.
+|-
+|
+The Science of Being, as does every other science, starts its investigation into the truth of existence from the gross, obvious level of life and later enters into the subtle regions of experience. The Science of Being, however, eventually transcends these subtle regions and arrives at the direct experience of the transcendental field of eternal Being.
+|
+&lt;font color=blue&gt;Khoahọc Bảnnhiên, như các khoahọc khác&lt;/font&gt;, starts its investigation into the truth of existence from the gross, obvious level of life and later enters into the subtle regions of experience. &lt;font color=blue&gt;Khoahọc Bảnnhiên&lt;/font&gt;, however, eventually transcends these subtle regions and arrives at the direct experience of the transcendental field of eternal Being.
+|-
+|
+The Science of Being is a deep and practical philosophy of life. It is a systematic investigation into the true nature of the ultimate reality. Although, like any other science, it is theoretical in its nature, its applied aspects reach much farther horizons of the supreme reality of life than those of abstract metaphysical speculations.
+|
+&lt;font color=blue&gt;Khoahọc Bảnnhiên&lt;/font&gt; is a deep and practical philosophy of life. It is a systematic investigation into the true nature of the ultimate reality. Although, like any other science, it is theoretical in its nature, its applied aspects reach much farther horizons of the supreme reality of life than those of abstract metaphysical speculations.
+|-
+|
+This book is divided into four sections: “Science of Being”; “Life”; “Art of Living”; and “Fulfillment.” The last three sections of the book present the most practical wisdom of day-to-day life, and this greatest wisdom of practical life is based on the deep philosophical significance contained in the section on the Science of Being.
+|
+This book is divided into four sections: “&lt;font color=blue&gt;Khoahọc Bảnnhiên”; “Đờisống”; &quot;Nghệthuật Sống&quot;; và&lt;/font&gt; “Fulfillment.” The last three sections of the book present the most practical wisdom of day-to-day life, and this greatest wisdom of practical life is based on the deep philosophical significance contained in the section on &lt;font color=blue&gt;Khoahọc Bảnnhiên&lt;/font&gt;. 
+|-
+|
+The Science of Being serves to provide a deep and significant basis for the art of living. As a matter of fact, the art of living is applied Science of Being.
+|
+&lt;font color=blue&gt;Khoahọc Bảnnhiên&lt;/font&gt; serves to provide a deep and significant basis &lt;font color=blue&gt;cho nghệthuật sống. Thật ra, nghệthuật sống là Khoahọc Bảnnhiên ápdụng&lt;/font&gt;. 
+|-
+|
+To those who have never had an interest in metaphysical study, the section on “Science of Being” may at first appear to be highly abstract, but once they have stepped into “Life” and “Art of Living” and have completed the section on “Fulfillment,” they will find that without dwelling on the abstract features of the Science of Being, the whole wisdom of the book would have no practical basis.
+|
+To those who have never had an interest in metaphysical study, the section on “&lt;font color=blue&gt;Khoahọc Bảnnhiên&lt;/font&gt;” may at first appear to be highly abstract, but once they have stepped into “Life” and &lt;font color=blue&gt;Nghệthuật Sống&lt;/font&gt; and have completed the section on “Fulfillment,” they will find that without dwelling on the abstract features of &lt;font color=blue&gt;Khoahọc Bảnnhiên&lt;/font&gt;, the whole wisdom of the book would have no practical basis. 
+|-
+|
+A gardener has to have a knowledge of the unseen root of the tree before he can be expected to give his concentrated effort to watering its root so that the whole tree remains fresh and green.
+|
+A gardener has to have a knowledge of the unseen root of the tree before he can be expected to give his concentrated effort to watering its root so that the whole tree remains fresh and green.
+|-
+|
+Likewise, a man in the practical field of life must first be given a good understanding about the fundamental reality of life that lies in the field of abstract Being, in order to glorify the whole of the rest of life. That is why the Science of Being is the first section of this book, and the sections of practical value follow.
+|
+Likewise, a man in the practical field of life must first be given a good understanding about the fundamental reality of life that lies in the field of abstract Being, in order to glorify the whole of the rest of life. That is why the Science of Being is the first section of this book, and the sections of practical value follow.
+|-
+|
+The word “science” comes from the Latin root word scire, to know. It means knowledge; systematized knowledge is science.
+|
+The word “science” comes from the Latin root word scire, to know. It means knowledge; systematized knowledge is science.
+|-
+|
+The Science of Being means systematized knowledge of Being—systematized knowledge of existence or the actuality of life.
+|
+&lt;font color=blue&gt;Khoahọc Bảnnhiên&lt;/font&gt; means systematized knowledge of Being—systematized knowledge of existence or the actuality of life.
+|-
+|
+The field of Being or absolute existence was for many centuries considered in terms of mysticism. The present scientific age hesitates to assign value to anything shrouded in the garb of mysticism, and that is why the study of Being, the absolute field of creation, has not been a part of any branch of science until now.
+|
+The field of Being or absolute existence was for many centuries considered in terms of mysticism. The present scientific age hesitates to assign value to anything shrouded in the garb of mysticism, and that is why the study of Being, the absolute field of creation, has not been a part of any branch of science until now.
+|-
+|
+The growth of scientific thinking in the present generation has brought Being to the level of scientific study and scrutiny.
+|
+The growth of scientific thinking in the present generation has brought Being to the level of scientific study and scrutiny.
+|-
+|
+A systematic method has been developed that enables an individual to experience directly the pure state of Being. It is done by consciously entering into the experience of the subtle strata of a thought, eventually arriving at the direct experience of the subtlest state of the thought, and then arriving at the very source of thought. Then the conscious mind attains the pure state of Being.
+|
+A systematic method has been developed that enables an individual to experience directly the pure state of Being. It is done by consciously entering into the experience of the subtle strata of a thought, eventually arriving at the direct experience of the subtlest state of the thought, and then arriving at the very source of thought. Then the conscious mind attains the pure state of Being.
+|-
+|
+The Science of Being, which gives rise to the practical art of living, is a science which is much more valuable for human life than all the sciences known so far to the human mind. For, up to now, the basis of all the sciences has been the human mind functioning from a limited field of consciousness or limited potential. The Science of Being, through the practice of Transcendental Meditation, enlarges the conscious capacity of the mind to infinite values and therefore functions not only as the basis for the great expansion of knowledge in every field of science, but also brings to man a direct way to fulfillment.
+|
+&lt;font color=blue&gt;Khoahọc Bảnnhiên&lt;/font&gt;, which gives rise to the practical art of living, is a science which is much more valuable for human life than all the sciences known so far to the human mind. For, up to now, the basis of all the sciences has been the human mind functioning from a limited field of consciousness or limited potential. &lt;font color=blue&gt;Khoahọc Bảnnhiên, qua môntập ViệtThiền&lt;/font&gt;, enlarges the conscious capacity of the mind to infinite values and therefore functions not only as the basis for the great expansion of knowledge in every field of science, but also brings to man a direct way to fulfillment. 
+|-
+|
+For all this knowledge my indebtedness is to the holy tradition of Jagadguru Bhagwān Shankarāchārya, the main source of all my inspirations and activity.
+|
+For all this knowledge my indebtedness is to the holy tradition of Jagadguru Bhagwān Shankarāchārya, the main source of all my inspirations and activity.
+|-
+|
+My first thanks are due to Henry Nyburg, the head of the Spiritual Regeneration Movement in Europe, who first felt the need and conceived the idea of such a book as this one about three years ago.
+|
+My first thanks are due to Henry Nyburg, the head of the Spiritual Regeneration Movement in Europe, who first felt the need and conceived the idea of such a book as this one about three years ago.
+|-
+|
+My thanks are also due to blessed Ma from London, who, like a mother, sat with a stick over the child to get the task completed. Leona Simpson from Canada, Guri Mehellis from Norway, and Dick Bock from Los Angeles, have also been of great assistance in maintaining the breath of the writing and the writer. Jerry Jarvis and his dear wife Debby, who worked hard transcribing and editing the tapes and preparing the final manuscript, also deserve to share my feelings of appreciation and thanks for them. Certainly the warmth of the atmosphere created by love of Mother Olson and Roland Olson, Helen Lutes, and the dear Verrills and Granvilles had its own share in bringing out this book.
+|
+My thanks are also due to blessed Ma from London, who, like a mother, sat with a stick over the child to get the task completed. Leona Simpson from Canada, Guri Mehellis from Norway, and Dick Bock from Los Angeles, have also been of great assistance in maintaining the breath of the writing and the writer. Jerry Jarvis and his dear wife Debby, who worked hard transcribing and editing the tapes and preparing the final manuscript, also deserve to share my feelings of appreciation and thanks for them. Certainly the warmth of the atmosphere created by love of Mother Olson and Roland Olson, Helen Lutes, and the dear Verrills and Granvilles had its own share in bringing out this book.
+|-
+|
+This is a book of revival for the age. If the golden era is ever to dawn on human society, if the Age of Enlightenment is ever to be on earth, this book will provide a freeway for it to come. A new humanity will be born, fuller in conception and richer in experience and accomplishments in all fields. Joy of life will belong to every man, love will dominate human society, truth and virtue will reign in the world, peace on earth will be permanent, and all will live in fulfillment in fullness of life in God Consciousness.
+|
+This is a book of revival for the age. If the golden era is ever to dawn on human society, if the Age of Enlightenment is ever to be on earth, this book will provide a freeway for it to come. A new humanity will be born, fuller in conception and richer in experience and accomplishments in all fields. Joy of life will belong to every man, love will dominate human society, truth and virtue will reign in the world, peace on earth will be permanent, and all will live in fulfillment in fullness of life in God Consciousness.
+|-
+|
+Jai Guru Dev
+|
+Jai Guru Dev
+|-
+|
+—MAHARISHI MAHESH YOGI
+|
+—MAHARISHI MAHESH YOGI
+|-
+|
+Lake Arrowhead
+|
+Lake Arrowhead
+|-
+|
+California
+|
+California
+|-
+|
+January 12, 1963
+|
+January 12, 1963
+|-
+|
+|}
+
+Section I: Science of Being
+
+What Is Being?
+
+...
+
+Being, the Essential Constituent of Creation
+
+Physical science informs us that the whole of creation is built up of layers of energy, one inside the other. The subtlest is at the innermost stratum of creation and builds up around itself different qualities, becoming bigger and bigger.
+
+...
+
+There was a time when physics declared the indestructibility of matter because the atom, which was thought to be the subtlest part of matter, was thought to be indestructible....
+
+...
+
+The Purpose of Life
+
+Expansion of happiness is the purpose of life, and evolution is the process by which it is fulfilled. Life begins in a natural way, it evolves, and happiness expands. The expansion of happiness carries with it the growth of intelligence, power, creativity and everything that may be said to be of significance in life. 
+
+The purpose of individual life is also the purpose of the life of the entire cosmos. The purpose of creation is the expansion of happiness which is fulfilled through the process of cosmic evolution. The significance and purpose of individual life is the same as that of the life of the cosmos. The difference lies in the scale.
+
+The individual life is the basic unit of the life of the cosmos. Evolution of the cosmos is basically served by the evolution the individual life. Thus, if the purpose of individual life is served, the purpose of cosmic life is also served spontaneously and simultaneously to that degree and on that scale.
+
+If one has fulfilled the purpose of his own life, he has done his best to help the cosmic purpose.
+
+If one is not happy, one has lost the very purpose of life. If one is not constantly developing his intelligence, power, creativity, peace, and happiness, then he has lost the very purpose of life. Life is not meant to be lived in dullness, idleness, and suffering; these do not belong to the essential nature of life.
+
+Life is dynamic, not static. It is energetic, progressing, evolving, developing through activity, and multiplying itself. The nature and purpose of life is progress, evolution, activity, and improvement.
+
+Activity maintains the stream of evolution, and the physical vehicle that is responsible for activity is the nervous system of the individual. In species lower than man the nervous system is not so fully evolved and so the activity leading to evolution is on a much smaller scale. The activity of the lower species, while carrying out the process of evolution, does not produce a high degree of evolution. As the nervous system evolves, the rate of evolution increases.
+
+Man's nervous system is the most highly evolved. Therefore, the scope of evolution of man is unlimited in this life. We note how, when a child is born, his intelligence, power, and creativity are low, but as he grows he indulges in the field of activity where his power is great, his intelligence is great, his creativity is great, and the degree of happiness which he experiences in himself and projects outside himself is great. The nervous system is developed to the extent that through proper activity (the revelation of which is the purpose of this book) the man can contact absolute bliss, creativity, intelligence, power, and energy. 
+
+
+To live a life of freedom is the purpose of life in the human species. If one is not able to live such a life, the very purpose of life is blurred. Man is born to live a perfect life holding within its range all values of the transcendental absolute divine of unlimited energy, intelligence, power, peace and bliss along with the unlimited values of the world of multiplicity in relative existence. He is born to project the abundance of the absolute state of life into the world of relative existence.
+
+Man's life is meant to be a bridge of abundance between divine intelligence and the whole of creation. Man's life is to cultivate and give--cultivate the divine power, intelligence, happiness and abundance, and give it out to all of creation. This is the high purpose of the life of man, and it is fortunate to find that every man is capable of reaching this by improving the conscious capacity of his mind and consciously contacting the field of the absolute energy, peace, happiness, and abundance of the eternal, divine consciousness.
+
+Every man is capable of spreading the divine splendor in the whole creation. He is able to project all values of the absolute into the world of relative existence for all creatures to enjoy and to glorify the entire creation of God. Each man is capable of living a life of full values. If one fails to live it, it is a disgrace to oneself, and it abuses the glory of almighty God within and above us.
+
+Here is an invitation for every man on earth to start picking up the divine consciousness of the absolute, and, bringing it through all his activity into the world of variety, enjoy it himself and project it for all others to enjoy as well.
+
+A man projecting himself out in the world through a limited mind is not able to appreciate the real purpose of life. With a small capacity of mind, he engages himself in doing little things of which he thinks in very limited terms. He can engage himself in very limited activity. He can create only a limited number of small things of limited value. The conscious mind of an ordinary man is so limited that he is not even able to enjoy life. He is found to be suffering for the most part on many levels of his life. This state of suffering is merely due to his not using his full potential.
+
+By not using his full potential, man is not able to fulfill the purpose of his life. He is found suffering in many ways because he is not using the full conscious capacity of his mind; he is not using the great energy he carries within himself. He is not experiencing and expressing in his life the abundance of absolute bliss that he naturally possesses, the great absolute field of creativity and power that he has within himself. He is like a millionaire who has forgotten his wealth and status and who goes begging in the street and every moment feels the lack of money.
+
+
+All suffering is due to not knowing a way to unfold the divine glory present within oneself. Lack of ... Not having the capacity for divine unfoldment, the ignorance of a technique for diving within oneself is responsible for the misery in life. Without divine consciousness, man is found lacking in energy, intelligence, and clear thinking. He is tired, tense and anxious.
+
+This state of human existence and human intelligence have come to such a deplorable condition that from the field of psychology--the great science of the mind--it is found suggested that tension is necessary for creative intelligence. What a shame it is to believe that tension is necessary to improve life!
+
+It is said that poets and artists have created their inspiring literature and art under tension. All such statements come from ignorance and from an inability to release tensions. 
+
+Our modern scientific age unfortunately is increasing in tension. The individual life seems to be growing in tension instead of growing in ease and comfort, even though material comforts certainly are increasing. This is only because the individuals have no way of improving their ability and efficiency through contact with the greater energy and intelligence that every man has within himself. It is only necessary to consciously contact that field of inner life and profit by it. 
+
+
+The man of today is blind to the purpose of life, not able to see that he is born to enjoy, create, and live a life useful to himself and others. He plunges into whatever activity lies ahead, working hard to put forth his best effort in that field. It is commendable to work hard for things; to be creative in any aspect of life is what man is here for. But when activity increases, a man often finds himself unable to cope with the increased pressure. His efficiency declines, or he does not find energy enough to cope with the increased activity. This is why tension and strain develop.
+
+As a man engages in greater activity he should be able to produce more energy and greater intelligence within himself to deal with this increased activity. This he does not know how to do, and, therefore, he loses the entire purpose of life.
+
+
+
+Normal Life
+
+While dealing with ...
+
+
+
+
+Section III: Art of Living
+
+...
+
+ART OF SPEAKING 
+
+The art of speaking obviously consists of: speaking with a minimum consumption of energy; speaking rightly; speaking harmoniously; speaking pleasingly; speaking powerfully; speaking usefully; speaking in such a manner that the speaker remains free from the binding influence of speech.
+
+Now we shall discuss these one by one.
+
+Speaking with a Minimum Consumption of Energy
+
+...
+
+Speaking Rightly
+
+While dealing with &quot;Right and Wrong&quot;, it will be made clear that a correct evaluation of right and wrong is found in its absolute value only on the plane of Being. Therefore, the art of speaking rightly necessarily has its basis in the plane of Being.
+
+However, the basic considerations of the relative nature of the art of speaking involve the projected art of thinking; so all that is valid for the art of thinking is valid for the art of speech. Right speech has its basis in right thinking.
+
+Speech is the expression of both the heart and mind together. Therefore, for the speech to be right, it is necessary that the man be right in his heart and mind.
+
+Speech is the expression of one's state of evolution. One word from the mouth of a man reveals his inner quality. The softness of speech gives an expression to the culture of the heart, and the logic, imagination, or creativity expressed through the speech reveals the culture of his mind. A man could be screened for his whole state of evolution and development through one word of his speech.
+
+Speech is a very delicate medium between the man and his surroundings. It is highly important for the well-being of the individual and his surroundings that all the people should cultivate the art of speech, because one wrong word spoken gives wrong impressions in the atmosphere. The man may change his attitude, his decision, or his course of behavior, but the word that has gone out of his mouth can never be withdrawn. The influence that he has created in the audience and in the atmosphere around him can never be withdrawn. Therefore, it is highly important that one should know the art of speech and should know how to speak rightly.
+
+Speech is a projection of a thought, and, while the art of speech fundamentally lies in the art of thinking, it is much finer than the art of thinking itself, because every thought that arises in the mind need not be expressed as speech.
+
+Take the example of a businessman who is sitting with a friend in the evening, when suddenly an idea comes to his mind regarding some matter that he had to speak to his manager about the next day. It would be very odd if he began to give expression to his thought right there. This is what is meant by the art of speech being much finer and thus a more advanced art than the art of thinking.
+
+Speech has to be in keeping with the atmosphere. The thought and its expression as speech should be such that they are welcomed by the surroundings. Hundreds of words unsuitable to the atmosphere will prove futile against one word of value.
+
+Thus the art of speaking rightly gains fulfillment in the art of thinking, together with the skill of proper expression suitable to the atmosphere. This, as has already been said, depends upon the man being right in his heart and mind, and this, as we have seen, is only possible by the infusion of Being into the nature of the mind, which is easily accomplished through the regular practice of Transcendental Meditation.
+
+
+Speaking Harmoniously
+
+
+...
+
+Speaking Pleasingly
+
+
+...
+
+ART OF ACTION
+
+
+There is a common proverb in India which says that ...
+
+...
+
+The Art of Performing Action to Yield Maximum Results
+
+The art of performing action to yield the maximum results rests in two factors. ...
+
+
+...
+
+This is how, by due amount of performance of Transcendental Meditation, supplemented by the power of charity and virtuous deeds of helping others, the negative influence of the past karma can be counteracted in order to smooth the path of the present karma. And then the action will be performed without resistance or obstacles, yielding maximum results. 
+
+So, the formula for producing maximum results is not to mind the obstacles and negative influences trying to offer resistance to the performance of action. The doer should put himself in action and continue it until the desired results are achieved. The process of meditation, of bringing the conscious mind in tune with transcendental absolute eternal Being, which is the source of all life energy and intelligence, raises the standard of consciousness. When the standard of consciousness is raised, the action performed from that raised level of life energy and intelligence will certainly have an overriding influence over the karma of the past to produce maximum results. 
+
+
+This is how, by the power of present action or karma, destiny is improved. Herein lies the full meaning of the proverb, &quot;Man is a master of his own destiny.&quot;
+
+The Art of Performing an Action So That the Performance Remains a Joy and Does not Become Tiring, Tedious, or a Boring Task
+
+The process of any action will remain joyful for the doer and for the surroundings only when the doer has very great energy and intelligence and he encounters no resistance on the way and receives all cooperation from everywhere. ...
+
+
+...
+
+ART OF BEHAVIOR
+
+
+...
+
+Really good behavior will be possible when the minds of both the parties are broadened, when they are able to see the whole situation, understand each other more thoroughly in their true perspectives, and succeed in locating the needs of the other and formulating their behavior on the basis of attempting to fulfill these needs. This naturally necessitates a fully developed consciousness and right sense of judgment and all the qualities that only a strong and clear mind possesses.
+
+Small minds always have a very narrow vision and they fail to perceive the total situation; in their narrow vision they create imaginary obstacles and close themselves in their narrow scope of imagined forms, which are neither useful to themselves nor to anyone else. Then their behavior towards others only results in misunderstanding and increase of tension. ... Transcendental Meditation.
+
+...
+
+Behavior and the Surroundings
+
+
+...
+
+PATHS TO GOD REALIZATION
+
+
+The conception of the word path indicates ... and ending at another. The paths to God realization mean ... in order to reach God. To understand ... and how far he is from man.
+
+God
+
+God is the most ...
+
+...
+
+God is found in two phases of reality: as a supreme Being of absolute eternal nature, and as a personal God at the top of phenomenal creation. Thus, God has two aspects, the personal and the impersonal. They are the two realities of the word God. 
+
+Impersonal Aspect Of God
+
+
+...
+
+The impersonal God is that Being which dwells in the heart of everyone. Each individual in his true nature is the Impersonal God. That is why the Vedic philosophy of the Upanishads declares: &quot;I am That, thou art That, and all this is That&quot;. No one need be afraid of his own Self, no one need be afraid of the result of bliss, no one need be afraid of the kingdom of heaven, where there is all bliss and fulfillment.
+
+The God almighty, impersonal unmanifested Being, is the eternal reality of life. It is imperishable, It is abundance, It is life, It is fulfillment. It is at hand for anyone to realize It. One has only to be, and the technique to be lies in Transcendental Meditation.
+
+
+Personal Aspect Of God
+
+
+...</text>
+      <sha1>5l555ixc4h2pgt0wkkkej1c304bisja</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Fred.th</title>
+    <ns>2</ns>
+    <id>4336</id>
+    <revision>
+      <id>156118</id>
+      <timestamp>2004-02-04T20:55:24Z</timestamp>
+      <contributor>
+        <username>Fred.th</username>
+        <id>547</id>
+      </contributor>
+      <minor />
+      <comment>Who I am</comment>
+      <text xml:space="preserve">Hello everybody. I'm a french contributor, so if you want to speck me, please try the french language. I really don't understand good english. (joke are forbidden,  and ''argotic'' more again.</text>
+      <sha1>tb841vhju2camlibiowgk3uxf1bl1wj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:General Chemistry</title>
+    <ns>1</ns>
+    <id>4337</id>
+    <revision>
+      <id>2131171</id>
+      <parentid>1733976</parentid>
+      <timestamp>2011-07-02T11:53:43Z</timestamp>
+      <contributor>
+        <ip>87.115.146.193</ip>
+      </contributor>
+      <comment>/* Cover picture caption */ new section</comment>
+      <text xml:space="preserve">{{subject|Talk:General_Chemistry}}Karl, can you do some grams to moles conversions ? -James
+
+==Stoichiometry==
+I think that stoichiometry would fit into the scope of this wikibook (it's meant to be an wide introduction). I learned about it in Chem I. If no one else can, I'll try to recollect it. [[User:Regre7|Regre7]] 20:45, 13 June 2006 (UTC)
+
+== Naming Convention ==
+
+This is an early Wikibook that was developed before &quot;standard&quot; naming conventions were in place.  I would like to get some input about what, if any, naming convention ought to be used to &quot;fix&quot; this Wikibook.  New contributors to Wikibooks are making mistakes and adding &quot;articles&quot; to this like if it were Wikipedia.
+
+My preference would be to move to the standard &quot;/&quot; naming convention.  If there is no objection in about a week or so, I will be doing exactly that for this Wikibook. --[[User:Robert Horning|Rob Horning]] 11:16, 17 October 2005 (UTC)
+
+== {{bad link|Screaming jelly babies}} ==
+
+The transwikied article at {{bad link|Transwiki:Screaming_jelly_babies}} has been dewikified and I assume needs to be moved to a real name somewhere in this project. [[User:64.126.24.12|64.126.24.12]] 20:38, 7 April 2006 (UTC)
+
+== Pointless ==
+
+Are contributors even considering the likely knowledge base of readers - this is supposed to be an introductory text in general chemistry so wherein lies the sense in assuming any reader of a text at this level would have any clue about the behaviour/attributes of 'standing waves on a a guitar string'....
+
+I dont think this text is compehensible to its intended audience.
+
+== more naming convention stuff ==
+
+I made some pages, and named each module like General_Chemistry/(unit)/(subunit). I noticed that nobody else did that. Should move mine to General_Chemistry/(subunit), or change everyone else's? I personally think that the more organization, the better.
+[[User:Hoogli|Hoogli]] 21:57, 3 May 2007 (UTC)
+
+== Merge with &quot;High School Chemistry&quot; ==
+
+Since [[High School Chemistry]] consists of a brief, incomplete introduction, and this book is also woefully incomplete, I vote '''yes''' to merging them.  I believe there to be little difference between a high school text and an intro level college text.  We should be erring on the side of readability anyway, I think. --[[User:Dolsson5|Dolsson5]] 16:32, 5 June 2007 (UTC)
+
+:These two books could be merged, but may need un-merging in the future. A high school text assumes much lower ability with math, reading, familiarity of concepts, etc... Even the audience is different. High school chemistry covers the topics everyone should know, even if they never intend to use chemistry in any way. College general chemistry should be a broad overview for potential chemistry majors (as the starting point of their career), science and engineering majors (as a knowledge base for other technical pursuits), or non-science types who have a college degree and should have a more deep understanding of science than the random guy on the street.
+
+:Long story short:, if we merge these books it will definitely end up looking like an ADVANCED high school text.[[User:Zolot|Zolot]] 00:33, 6 June 2007 (UTC)
+
+:Hi, sorry to be coming to the table late on this discussion.  I have been gathering a group of chemistry professors at major US state universities for the purpose of creating this wikibook on General Chemistry.  The group is NOT interested in merging with high school chemistry because the project will already be very large.  Including high school material could cause it to collapse under its own weight.  With the group's consent, I will begin to reorganize the chapters a bit, create an extended outline, and invite experts to start completing each chapter with content.  Thanks for your patience. --[[User:Wight|Wight]] 14:52, 20 July 2007 (UTC)
+
+:In view of the foregoing, I change my vote to NO.  --[[User:Dolsson5|Dolsson5]] 05:53, 20 September 2007 (UTC)
+
+Since it has been a while and all commenters are in agreement,  I am calling it consensus and removing  the merge tag.  --[[User:Dolsson5|Dolsson5]] 06:01, 20 September 2007 (UTC)
+
+== Structure of this module ==
+
+I am confused. The page [[General Chemistry]] has a table of contents that links to a few very poorly laid out pages. However also below this article are stuff like [[General Chemistry/Introduction]]. That has a TOC template that leads to lots of other pages. I added that template to the top of [[General Chemistry]]. It seems as if there are two structures mixed up together. What is going on? --[[User:Bduke|Bduke]] 04:04, 15 August 2007 (UTC)
+:I've update the TOC of the book to match the structure of the modules and existing sections.  It should be much more clear now.  There's still some problems with the locations of the articles (&quot;thermodynamics&quot; gets its own directory, everything else is in the same directory as the book root? is this convention?), but otherwise it should be cleared up. [[User:VSEPR|VSEPR]] 07:46, 1 December 2007 (UTC)
+
+== This book needs work ==
+
+I think it's lame that such an important book is in need of so much work.
+Whenever I have a chance, I'll do what I can to fill in the blanks and fix typos.
+Most of the pages in this book are only a few sentences long right now.
+
+It looks like most edits are from '06 and '07.  Is anyone out there gonna help finish this book with me?
+
+[[User:NipplesMeCool|NipplesMeCool]] ([[User talk:NipplesMeCool|talk]]) 01:34, 21 January 2009 (UTC)
+
+Update: At this point, it looks very polished.  However, it needs way more examples and practice problems (with answers) to be useful.  Also, the order of the chapters is a bit unhelpful.  I think several chapters should be rearranged.  Last, it lacks details in several sections (I'm not going to list them).  -- [[User:NipplesMeCool|NipplesMeCool]] ([[User talk:NipplesMeCool|talk]]) 01:26, 26 May 2009 (UTC)
+
+== Active Authors ==
+I'd like to join any current editors on this book, are any of the past authors still active? --[[User:Btharper1221|Btharper1221]] ([[User talk:Btharper1221|talk]]) 17:12, 11 March 2010 (UTC)
+
+== Cover picture caption ==
+
+I changed the caption of the cover picture to read &quot;a 4f orbital&quot; rather than &quot;an atomic 4f orbital&quot;. The original is just meaningless. I presume the picture is of a one electron (hydrogenic) 4f orbital.</text>
+      <sha1>rz6o97smccnjrhsfsygi21x2wojx505</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Organic Chemistry/Foundational concepts of organic chemistry/History of organic chemistry</title>
+    <ns>1</ns>
+    <id>4340</id>
+    <revision>
+      <id>374784</id>
+      <parentid>156121</parentid>
+      <timestamp>2006-02-22T22:24:28Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:History of organic chemistry]] moved to [[Talk:Organic Chemistry/Foundational concepts of organic chemistry/History of organic chemistry]]: format</comment>
+      <text xml:space="preserve">more history about this topic</text>
+      <sha1>4adipfri9r8b8v1ctacrwxd8ar0igyc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Sandbox</title>
+    <ns>0</ns>
+    <id>4344</id>
+    <redirect title="Wikibooks:Sandbox" />
+    <revision>
+      <id>156125</id>
+      <parentid>49159</parentid>
+      <timestamp>2004-08-16T00:01:12Z</timestamp>
+      <contributor>
+        <username>SamE</username>
+        <id>548</id>
+      </contributor>
+      <minor />
+      <comment>space after #, I always mess that up!</comment>
+      <text xml:space="preserve">#REDIRECT [[Wikibooks:Sandbox]]</text>
+      <sha1>adts2qpx6enamvieg4vv3azebf5l739</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

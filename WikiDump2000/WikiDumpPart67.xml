@@ -1,0 +1,2300 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Japanese/Vocabulary/Colors</title>
+    <ns>0</ns>
+    <id>3156</id>
+    <revision>
+      <id>2510165</id>
+      <parentid>2510155</parentid>
+      <timestamp>2013-04-07T17:31:21Z</timestamp>
+      <contributor>
+        <ip>115.162.177.166</ip>
+      </contributor>
+      <comment>/* Variant nouns */</comment>
+      <text xml:space="preserve">{{Japanese vocabulary entry|begin}}
+{{Japanese vocabulary entry
+| english = red
+| en-style= background-color:red;color:white
+| japanese= [[wikt:赤|赤]]
+| reading = あか
+}}
+{{Japanese vocabulary entry
+| english = orange
+| en-style= background-color:orange;
+| japanese= [[wikt:橙色|橙色]]&lt;br /&gt;&amp;nbsp;
+| reading = だいだいいろ&lt;br /&gt;オレンジ
+}}
+{{Japanese vocabulary entry
+| english = yellow
+| en-style= background-color:yellow;
+| japanese=[[wikt:黄色|黄色]]
+| reading=きいろ
+}}
+{{Japanese vocabulary entry
+| english = green
+| en-style= background-color:green;color:white
+| japanese= [[wikt:緑|緑]]
+| reading = みどり
+| notes = グリーン is also commonly used when referencing the color of clothing, shoes or other manufactured items. みどり however, is more often used when describing green that is found in nature (ie. green color found on leaves or grass)
+}}
+{{Japanese vocabulary entry
+| english = light blue
+| en-style= background-color:cyan;
+| japanese= [[wikt:水色|水色]]
+| reading = みずいろ
+}}
+{{Japanese vocabulary entry
+| english = blue
+| en-style= background-color:blue;color:white
+| japanese= [[wikt:青|青]]
+| reading = あお
+| notes = あお originally encompassed both blue and green. It is mainly used for blue in modern times. The green traffic-light is called　{{furi|青信号|あおしんごう}}
+}}
+{{Japanese vocabulary entry
+| english = purple
+| en-style= background-color:purple;color:white
+| japanese= [[wikt:紫|紫]]
+| reading = むらさき
+}}
+{{Japanese vocabulary entry
+| english = brown
+| en-style= background-color:brown;color:white
+| japanese= [[wikt:茶色|茶色]]
+| reading = ちゃいろ
+}}
+{{Japanese vocabulary entry
+| english = white
+| en-style= background-color:white;
+| japanese= [[wikt:白|白]]
+| reading = しろ
+}}
+{{Japanese vocabulary entry
+| english = gray
+| en-style= background-color:gray;
+| japanese= [[wikt:グレー|グレー]]&lt;br /&gt;グレイ&lt;br /&gt;[[wikt:灰色|灰色]]&lt;br /&gt;鼠色
+| reading = &amp;nbsp;&lt;br /&gt;はいいろ&lt;br /&gt;&amp;nbsp;ねずみいろ
+| notes = グレー (also spelled as グレイ) is used more colloquially than ねずみいろ or 灰色 which are traditional Japanese words, meaning mouse-color and ash color, respectively.
+}}
+{{Japanese vocabulary entry
+| english = black
+| en-style= background-color:black; color:white;
+| japanese= [[wikt:黒|黒]]
+| reading = くろ
+}}
+{{Japanese vocabulary entry
+| english = pink
+| en-style= background-color:rgb(255,196,255);
+| japanese= [[wikt:ピンク|ピンク]]&lt;br /&gt;桃色
+| reading = &lt;br /&gt;ももいろ
+| notes = ピンク (a transliteration of 'pink') is more commonly used than ももいろ (lit. peach colour) which is a traditional Japanese word.
+}}
+{{Japanese vocabulary entry
+| english = gold
+| en-style= background-color:gold;
+| japanese= 金色
+| reading = きんいろ
+| notes = 
+}}
+{{Japanese vocabulary entry
+| english = silver
+| en-style= background-color:silver;
+| japanese= 銀色
+| reading = ぎんいろ
+| notes =
+}}
+
+{{Japanese vocabulary entry|end}}
+
+* Note that the six basic colors, black, white, red, yellow, brown, and blue are in their noun forms. Adding -い(-i) to the end of these colors will make them adjectives, allowing them to be placed before a noun: 赤い red (adj.), 青い blue (adj.), 黄色い yellow (adj.), 茶色い brown (adj.), 白い white (adj.), 黒い black (adj.).
+
+== Advanced ==
+
+{| border=&quot;2&quot; cellspacing=&quot;0&quot; cellpadding=&quot;4&quot; rules=&quot;all&quot; style=&quot;margin:1em 1em 1em 0; border-style:solid; border-width:1px; border-collapse:collapse; empty-cells:show&quot;
+|- style=&quot;background:#B3B7FF&quot;
+! English
+! {{furi|和語|わご}}/{{furi|複合語|ふくごうご}}&lt;br&gt; (native words and compound words)
+! {{furi|漢語|かんご}}&lt;br&gt; (Chinese words)
+! {{furi|外来語|がいらいご}}&lt;br&gt; (Loanwords)
+! note
+|-
+| style=&quot;background-color:red;color:white&quot; | red
+| {{furi|[[wikt:赤|赤]]|あか}}　/　{{furi|[[wikt:赤色|赤色]]|あかいろ}}
+| {{furi|[[wikt:赤色|赤色]]|せきしょく}} &lt;!--紅色 (こうしょく)--&gt;
+| [[wikt:レッド|レッド]]
+|
+|-
+| style=&quot;background-color:orange;&quot; | orange
+| {{furi|[[wikt:橙色|橙色]]|だいだいいろ}}
+| ({{furi|[[wikt:橙色|橙色]]|とうしょく}})
+| [[wikt:オレンジ|オレンジ]]
+|
+|-
+| style=&quot;background-color:#F1BB93;&quot; | pale orange
+| {{furi|[[wikt:肌色|肌色]]|はだいろ}}
+|
+|
+|
+|-
+| style=&quot;background-color:#FFBF00;&quot; | golden yellow
+| {{furi|[[wikt:山吹色|山吹色]]|やまぶきいろ}}
+|
+|
+|
+|-
+| style=&quot;background-color:yellow;&quot; | yellow
+| {{furi|[[wikt:黄|黄]]|き}}　/　{{furi|[[wikt:黄色|黄色]]|きいろ}}
+| {{furi|[[wikt:黄色|黄色]]|おうしょく}}
+| [[wikt:イエロー|イエロー]]
+|
+|-
+| style=&quot;background-color:#CCFF00;&quot; | yellowish green
+| {{furi|[[wikt:黄緑|黄緑]]|きみどり}}　/　{{furi|[[wikt:黄緑色|黄緑色]]|きみどりいろ}}
+| {{furi|[[wikt:黄緑色|黄緑色]]|おうりょくしょく}}
+|
+|
+|-
+| style=&quot;background-color:green;color:white&quot; | green
+| {{furi|[[wikt:緑|緑]]|みどり}}　/　{{furi|[[wikt:緑色|緑色]]|みどりいろ}}
+| {{furi|[[wikt:緑色|緑色]]|りょくしょく}}
+| [[wikt:グリーン|グリーン]]
+|
+|-
+| style=&quot;background-color:#00BFFF;&quot; | aqua blue
+| {{furi|[[wikt:水色|水色]]|みずいろ}}
+| ({{furi|[[wikt:水色|水色]]|すいしょく}})
+| ([[wikt:アクアブルー|アクアブルー]])
+|
+|-
+| style=&quot;background-color:blue;color:white&quot; | blue
+| {{furi|[[wikt:青|青]]|あお}}　/　{{furi|[[wikt:青色|青色]]|あおいろ}}
+| ({{furi|[[wikt:青色|青色]]|せいしょく}})
+| [[wikt:ブルー|ブルー]]
+|
+|-
+| style=&quot;background-color:#234794;color:white&quot; | indigo
+| {{furi|[[wikt:藍色|藍色]]|あいいろ}}
+| ({{furi|[[wikt:藍色|藍色]]|らんしょく}})
+|
+|
+|-
+| style=&quot;background-color:purple;color:white&quot; | purple
+| {{furi|[[wikt:紫|紫]]|むらさき}}　/　{{furi|[[wikt:紫色|紫色]]|むらさきいろ}}
+| ({{furi|[[wikt:紫色|紫色]]|ししょく}})
+| [[wikt:パープル|パープル]]
+|
+|-
+| style=&quot;background-color:brown;color:white&quot; | brown
+| {{furi|[[wikt:茶色|茶色]]|ちゃいろ}}　/　{{furi|[[wikt:栗色|栗色]]|くりいろ}}
+| {{furi|[[wikt:褐色|褐色]]|かっしょく}}
+| [[wikt:ブラウン|ブラウン]]
+| 茶色い服 (brown wear)、栗色の髪 (brown hair)、褐色の肌 (brown skin)
+|-
+| style=&quot;background-color:white&quot; | white
+| {{furi|[[wikt:白|白]]|しろ}}　/　{{furi|[[wikt:白色|白色]]|しろいろ}}
+| {{furi|[[wikt:白色|白色]]|はくしょく}}
+| [[wikt:ホワイト|ホワイト]]
+|
+|-
+| style=&quot;background-color:gray&quot; | gray
+| {{furi|[[wikt:鼠色|鼠色]]|ねずみいろ}}　/　{{furi|[[wikt:灰色|灰色]]|はいいろ}}
+| ({{furi|[[wikt:灰色|灰色]]|かいしょく}})
+| [[wikt:グレー|グレー]]/[[wikt:グレイ|グレイ]]
+|
+|-
+| style=&quot;background-color:black;color:white&quot; | black
+| {{furi|[[wikt:黒|黒]]|くろ}}　/　{{furi|[[wikt:黒色|黒色]]|くろいろ}}
+| {{furi|[[wikt:黒色|黒色]]|こくしょく}}
+| [[wikt:ブラック|ブラック]]
+|
+|-
+| style=&quot;background-color:rgb(255,196,255)&quot; | pink
+| {{furi|[[wikt:桃色|桃色]]|ももいろ}}
+| ({{furi|[[wikt:淡紅色|淡紅色]]|たんこうしょく}})
+| [[wikt:ピンク|ピンク]]
+|
+|-
+| style=&quot;background-color:gold&quot; | gold
+| {{furi|[[wikt:金色|金色]]|きんいろ}}　/　{{furi|[[wikt:黄金色|黄金色]]|こがねいろ}}
+| {{furi|[[wikt:金色|金色]]|こんじき}}
+| [[wikt:ゴールド|ゴールド]]
+|
+|-
+| style=&quot;background-color:silver&quot; | silver
+| {{furi|[[wikt:銀色|銀色]]|ぎんいろ}}　/　{{furi|[[wikt:白銀色|白銀色]]|しろがねいろ}}
+| ({{furi|[[wikt:銀色|銀色]]|ぎんじき}})
+| [[wikt:シルバー|シルバー]]
+|
+|-
+|}
+
+=== Verbs ===
+grammar rules:
+; adj → ''become ～'' verb (～になる)
+: ～い → ～む (e.g. 悲しい → 悲しむ, 赤い → 赤む)
+; noum → ''take on ～'' verb (～を帯びる)
+: ～ → ～ばむ (e.g. 汗 → 汗ばむ, 赤 → 赤ばむ)
+; verb → passive verb
+: ～ → (imperfective form of ～)る (e.g. 忘る → 忘れる)
+
+{| border=&quot;2&quot; cellspacing=&quot;0&quot; cellpadding=&quot;4&quot; rules=&quot;all&quot; style=&quot;margin:1em 1em 1em 0; border-style:solid; border-width:1px; border-collapse:collapse; empty-cells:show&quot;
+|- style=&quot;background:#B3B7FF&quot;
+! English intransitive
+! Japanese intransitive
+! intransitive example
+! English transitive
+! Japanese transitive
+! transitive example
+! notes
+|-
+| become red
+| {{furi|赤|あか}}む&lt;br&gt;{{furi|赤|あか}}らむ &lt;!--「明らむ」からの誤用?--&gt;&lt;br&gt;({{furi|赤|あか}}らぶ) &lt;!--???--&gt;&lt;br&gt;{{furi|赤|あか}}ばむ
+| {{furi|頬|ほほ}}が赤らむ
+| make (it) red
+| &lt;!--{{furi|赤|あか}}む&lt;br&gt;--&gt;{{furi|赤|あか}}める&lt;br&gt;{{furi|赤|あか}}らめる&lt;br&gt;({{furi|赤|あか}}らべる)&lt;br&gt;{{furi|赤|あか}}ばめる
+| {{furi|頬|ほほ}}を赤める
+| &lt;!--赤めく??? 赤じみる??? 赤じめる??? 赤まく??? 赤まる???--&gt;
+|-
+| become blue
+| {{furi|青|あお}}む&lt;br&gt;{{furi|青|あお}}ばむ
+| {{furi|顔|かお}}が青ばむ
+| make (it) blue
+| {{furi|青|あお}}める&lt;br&gt;{{furi|青|あお}}ばめる
+|
+| 青む+{{furi|褪|さ}}める={{furi|青|あお}}ざめる
+|-
+| become yellow
+| {{furi|黄|き}}ばむ
+| {{furi|服|ふく}}が黄ばむ
+| make (it) yellow
+| {{furi|黄|き}}ばめる
+| {{furi|服|ふく}}を黄ばめてしまう
+|
+|-
+| become black
+| {{furi|黒|くろ}}む&lt;br&gt;{{furi|黒|くろ}}ばむ&lt;br&gt;{{furi|黒|くろ}}ずむ &lt;!--「黒炭」からの派生? 黒む+すむ?--&gt;
+| {{furi|肌|はだ}}が黒ずんだ
+| make (it) black
+| {{furi|黒|くろ}}める&lt;br&gt;{{furi|黒|くろ}}ばめる&lt;br&gt;{{furi|黒|くろ}}ずめる
+|
+|
+|-
+| become white
+| {{furi|白|しろ}}む&lt;br&gt;{{furi|白|しら}}む&lt;br&gt;{{furi|白|しろ}}ばむ
+| 空が白む
+| make (it) white
+| &lt;!--{{furi|白|しろ}}む&lt;br&gt;--&gt;{{furi|白|しろ}}める&lt;br&gt;{{furi|白|しら}}める&lt;br&gt;{{furi|白|しろ}}ばめる
+|
+|
+|-
+|}
+
+=== Variant nouns ===
+
+{| border=&quot;2&quot; cellspacing=&quot;0&quot; cellpadding=&quot;4&quot; rules=&quot;all&quot; style=&quot;margin:1em 1em 1em 0; border-style:solid; border-width:1px; border-collapse:collapse; empty-cells:show&quot;
+|- style=&quot;background:#B3B7FF&quot;
+! English
+! Japanese
+! English
+! Japanese
+! English
+! Japanese
+|-
+| sense of red
+| {{furi|赤|あか}}さ
+| degree of red
+| {{furi|赤|あか}}み
+| if anything, red
+| {{furi|赤|あか}}め
+|-
+| sense of blue
+| {{furi|青|あお}}さ
+| degree of blue
+| {{furi|青|あお}}み
+| if anything, blue
+| {{furi|青|あお}}め
+|-
+| sense of green
+| {{furi|緑|みどり}}さ
+| degree of green
+| {{furi|緑|みどり}}み
+| if anything, green
+| {{furi|緑|みどり}}め
+|-
+| sense of yellow
+| {{furi|黄色|きいろ}}さ
+| degree of yellow
+| {{furi|黄|き}}み
+| if anything, yellow
+| {{furi|黄色|きいろ}}め
+|-
+| sense of black
+| {{furi|黒|くろ}}さ
+| degree of black
+| {{furi|黒|くろ}}み
+| if anything, black
+| {{furi|黒|くろ}}め
+|-
+| sense of white
+| {{furi|白|しろ}}さ
+| degree of white
+| {{furi|白|しろ}}み
+| if anything, white
+| {{furi|白|しろ}}め
+|-
+|}
+
+== External links ==
+* [http://www.learningchocolate.com/node/55?st_lang=ja Japanese color and its pronunciation]
+* [http://nihongoup.com/blog/japanese-color-names/ Japanese Color Names Cheat Sheet]
+* [http://www.colordic.org/w/ Japanese Traditional Color Names] 
+* [http://www.color-guide.com/e_index.htm Japanese colors with English names]
+
+[[Category:Japanese vocabulary|Colors]]
+
+[[es:Japonés/Vocabulario/Colores]]
+[[fr:Japonais/Vocabulaire/Couleurs]]</text>
+      <sha1>qn90m1ou9a2f1l59pcxslelm9ea6crr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Modern Greek</title>
+    <ns>0</ns>
+    <id>3157</id>
+    <revision>
+      <id>2714357</id>
+      <parentid>2714228</parentid>
+      <timestamp>2014-10-16T17:07:39Z</timestamp>
+      <contributor>
+        <username>Aphoneyclimber</username>
+        <id>1892368</id>
+      </contributor>
+      <minor />
+      <comment>Fixed mistake with links.</comment>
+      <text xml:space="preserve">:''For Ancient Greek, click [[Ancient Greek|here]]. For Koine (Biblical) Greek, click [[Koine Greek|here]].''
+
+[[Image:View of the Acropolis Athens.jpg|right|caption|thumbnail|350px|The Acropolis in Athens, Greece]]
+
+{| align=&quot;center&quot; border=&quot;1&quot; cellpadding=&quot;4&quot; style=&quot;{{greek clr}}; border: #00aadd; border-collapse: collapse;&quot;
+| align=&quot;center&quot; | '''Note''': To use this book, your web browser must first be configured to display Greek characters. If the characters in the grey box below appear as blank boxes or garbage, it is not properly configured.&lt;br&gt;&lt;small&gt;&amp;nbsp;&lt;/small&gt;
+{| border=&quot;1&quot; cellspacing=&quot;0&quot; cellpadding=&quot;6&quot; align=&quot;center&quot; style=&quot;border: #eeeeff; border-collapse: collapse;&quot;
+| style=&quot;background-color:#eeeeee;&quot; |Εδώ πρέπει να φαίνονται οι Ελληνικοί χαρακτήρες!&lt;/font&gt;
+|}
+|}
+
+{{Category 2}}
+
+This page is currently undergoing major restructuring - please see the discussion page or [[/Restructuring|the restructuring page]].
+
+=== Lesson 1 - Alphabet and Reading ===
+* [[/Lesson 1.1x|Lesson 1.1: Letters α, ι, κ, ο, τ, and ρ]]
+* [[/Lesson 1.2x|Lesson 1.2: Letters ν, μ, ε, and λ]]
+* [[/Lesson 1.3x|Lesson 1.3: Letters π, σ, and δ]]
+* [[/Lesson 1.4x|Lesson 1.4: Letters η, υ, ω, and β]]
+* [[/Lesson 1.5x|Lesson 1.5: Letters φ, ζ, and γ]]
+* [[/Lesson 1.6x|Lesson 1.6: Letters θ, χ, ξ, and ψ]]
+* [[/Lesson 1.7x|Lesson 1.7: Alphabet review]]
+
+=== Lesson 2 - Useful Phrases ===
+* [[/Lesson 2.1x|Lesson 2.1: Common phrases]]
+* [[/Lesson 2.2x|Lesson 2.2: Greetings]]
+
+=== Lesson 3 - Gender of Nouns and Cases ===
+* [[/Lesson 3.1x|Lesson 3.1: Introduction to Cases]]
+* [[/Lesson 3.2x|Lesson 3.2: Gender of Nouns]]
+* [[/Lesson 3.3x|Lesson 3.3: Pronouns]]
+
+=== Lesson 4 - Present Tense Verbs ===
+* [[/Lesson 4.1x|Lesson 4.1: To Be and To Have]]
+* [[/Lesson 4.2x|Lesson 4.2: First Conjugation (Class A Verbs)]]
+* [[/Lesson 4.3x|Lesson 3.3: Second Conjugation (Class A &amp; B Verbs)]]
+
+=== Lesson 5 - Sample Dialogues ===
+* [[/Lesson 5.1x|Lesson 5.1: Greetings revisited, names and nationalities]]
+* [[/Lesson 5.2x|Lesson 5.2: &quot;Can you repeat that, please?&quot;]]
+* [[/Lesson 5.3x|Lesson 5.3: The question words]]
+
+=== Lesson 6 - Numbers, Time and Date ===
+* [[/Lesson 6.1x|Lesson 6.1: 1-10]]
+* [[/Lesson 6.2x|Lesson 6.2: 11-100]]
+* [[/Lesson 6.3x|Lesson 6.3: 100+]]
+* [[/Lesson 6.4x|Lesson 6.4: Time]]
+* [[/Lesson 6.5x|Lesson 6.5: Days/Months]]
+
+=== Lesson 7 - Some more grammar ===
+* [[/Lesson 7.1x|Lesson 7.1: Present Tense Irregular Verbs]]
+* [[/Lesson 7.2x|Lesson 7.2: Prepositions]]
+* [[/Lesson 7.3x|Lesson 7.3: Comparative and Superlative]]
+
+=== Lesson 8 - Sample Dialogues II ===
+* [[/Lesson 8.1x|Lesson 8.1: Meeting the family]]
+* [[/Lesson 8.2x|Lesson 8.2: Buying something]]
+* [[/Lesson 8.3x|Lesson 8.3: &quot;Where can I find?&quot; and directions]]
+
+=== Lesson 9 - Past Tense ===
+* [[/Lesson 9.1x|Lesson 9.1: Simple Past (Aorist)]]
+* [[/Lesson 9.2x|Lesson 9.2: Imperfect Tense]]
+* [[/Lesson 9.3x|Lesson 9.3: Perfect and Pluperfect]]
+
+=== Lesson 10 - Future Tense ===
+
+=== Appendix A - Vocabulary Lists ===
+* [[/Vocab Family|Vocabulary 1: Family]]
+* [[/Vocab Professions|Vocabulary 2: Profesions]]
+* [[/Vocab Food|Vocabulary 3: Food]]
+* [[/Vocab Clothing|Vocabulary 4: Clothing]]
+* [[/Vocab Body|Vocabulary 5: Body]]
+* [[/Vocab House|Vocabulary 6: In the house]]
+* [[/Vocab Town|Vocabulary 7: Around Town]]
+* [[/Vocab Colours|Vocabulary 8: Colours]]
+* [[/Vocab Weather|Vocabulary 9: Weather]]
+
+=== Appendix B - Grammar Summary ===
+* [[/Grammar Summary|Grammar Summary 1: List of Tenses]]
+
+=== Credits ===
+* [[Modern Greek/Credits|Credits, legal, and licensing information for materials used from third-party sources]]
+
+{{Subjects|Greek language}}
+{{alphabetical|M}}
+{{status|75%}}
+
+[[bg:Гръцки език]]
+[[de:Neugriechisch]]
+[[es:Griego/Introducción]]
+[[fr:Grec]]
+[[ko:현대 그리스어 입문]]
+[[he:יוונית מודרנית]]
+[[nl:Nieuwgrieks]]
+[[ja:ギリシア語]]
+[[pt:Grego moderno]]
+[[ro:Greacă]]
+[[uk:Мова людства/Грецька]]
+[[zh:希腊语]]</text>
+      <sha1>dzlxx2wc7xe0pmf47jrgqumu249digu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Algebra/Functions</title>
+    <ns>0</ns>
+    <id>3158</id>
+    <revision>
+      <id>2502326</id>
+      <parentid>2418982</parentid>
+      <timestamp>2013-03-16T05:19:58Z</timestamp>
+      <contributor>
+        <username>Cjquines10</username>
+        <id>920338</id>
+      </contributor>
+      <comment>/* f of x Terminology */</comment>
+      <text xml:space="preserve">{{Algebra Page}}
+:''See also: [[Calculus/Functions]], [[Discrete Mathematics/Functions and relations]]''
+&lt;noinclude&gt;{{navigation|Book=Algebra
+|current=Functions
+|previous=Inequalities
+|next=Function_Graphing
+|cat=Algebra (book)}}&lt;/noinclude&gt;
+----
+
+==Function as Box==
+
+Functions are another way of describing certain things mathematically.  They are often described as a machine in a box open on two ends; you put something in one end, something happens to it in the middle, and something pops out the other end.  The function is the machine inside, and it's defined by what it does to whatever you give it.
+
+Let's say the machine has a blade that slices whatever you put into it in two and sends one half out the other end.  If you put in a banana, you'd get back half a banana.  If you put in an apple, you'd get back half an apple.
+
+[[Image:Apple_slicing_function.png]] 
+
+A good question to ask about this machine might be what happened to the other half of the piece of fruit?  But, since this is algebra the things that go in and come out of functions will be numbers, so we're pretty sure the box won't fill up with numbers and break.  Let's define the function to take what you give it and cut it in half, that is, divide it by two.  If you put in 2, you'd get back 1.  If you put in 57, you'd get back 28.5. The function machine allows us to alter expressions. Functions are typically named with a single letter.  We'll call this one ''h'' for ''half''.  (There's nothing special about the letter we choose--we could just as well called this function ''f''.  The letter doesn't have to stand for anything.)
+
+Now we need the notation.  To put 2 into the function, we write &lt;math&gt; h(2) &lt;/math&gt; (read ''h of 2'').  We know that
+
+&lt;math&gt; h(2) = 1 &lt;/math&gt;
+
+We can also calculate 
+
+&lt;math&gt; h(57) = 28.5 &lt;/math&gt;
+
+Using algebraic notation we can describe what this machine does as:
+
+&lt;math&gt; h(x) = \frac{x}{2} &lt;/math&gt;
+
+Instead of listing all the things we can put in our machine we represent them with a variable &lt;math&gt;x&lt;/math&gt;.  When we write &lt;math&gt; h(x) &lt;/math&gt; we are saying that we sent &lt;math&gt;x&lt;/math&gt; through the machine and it was cut in half.  Using this form we don't have to count the halves that come out of our machine when we put 57 apples or oranges in our machine.  We know that we put 57 or anything into our machine we will only have 28.5 of those things come out the other end. When using algebraic notation to specify a relationship; we have created something called an algebraic function definition. (This example illustrates the difference between mathematics and science and engineering. Since this is an imaginary machine we only need to specify what comes out the other end of the box.  In real machines we also need to think about what to do with the halves that don't come out the other end).
+
+== Practice Problems ==
+
+For problems 1-6, Use algebra to define the function described.
+
+ Example: x) Three-quarters of a number
+  Answer: &lt;math&gt;f(x) = 3x/4&lt;/math&gt;
+
+1. Four-fifths of a number
+
+2. A number added to itself five times
+
+3. A number increased by three times the number
+
+4. A number multiplied by itself seven times, then reduced by the number
+
+5. One number reduced by a different number three times
+
+6. Half a number times three more than another number
+
+Passing a number through the function box is called evaluating the function for a number.  For problems 7-9, evaluate the described function for the given numbers.
+
+ Example: x) &lt;math&gt;f(x) = 3x-4&lt;/math&gt;
+  a) &lt;math&gt;f(0)&lt;/math&gt; b) &lt;math&gt;f(4)&lt;/math&gt;
+  c) &lt;math&gt;f(1/3)&lt;/math&gt;   d) &lt;math&gt;f(1/2)&lt;/math&gt;
+  
+  Answer: a) &lt;math&gt;f(0) = 3(0)-4 = -4&lt;/math&gt;     b) &lt;math&gt;f(4) = 3(4)-4 = 8&lt;/math&gt;
+  c) &lt;math&gt;f(1/3) = 3(1/3)-4 = -3&lt;/math&gt; d) &lt;math&gt;f(1/2) = 3(1/2)-4 = -5/2&lt;/math&gt;
+
+7. &lt;math&gt;f(x) = 10x&lt;/math&gt; &lt;br/&gt;
+:a) &lt;math&gt; f(1) &lt;/math&gt;&lt;br/&gt;  b) &lt;math&gt; f(1/2)&lt;/math&gt;&lt;br/&gt;
+:c) &lt;math&gt; f(3.5) &lt;/math&gt;&lt;br/&gt; d) &lt;math&gt; f(-1)&lt;/math&gt;
+
+8. &lt;math&gt;g(x) = 3x - 1&lt;/math&gt; &lt;br/&gt;
+:a) &lt;math&gt; g(4) &lt;/math&gt;&lt;br/&gt; b) &lt;math&gt; g(2/3)&lt;/math&gt;&lt;br/&gt;
+:c) &lt;math&gt; g(1.1) &lt;/math&gt;&lt;br/&gt; d) &lt;math&gt; g(-3)&lt;/math&gt;
+
+9. &lt;math&gt;h(x) = x^2&lt;/math&gt; &lt;br/&gt;
+:a) &lt;math&gt; h(7) &lt;/math&gt;&lt;br/&gt; b) &lt;math&gt; h(3/5)&lt;/math&gt;&lt;br/&gt;
+:c) &lt;math&gt; h(5.3) &lt;/math&gt;&lt;br/&gt; d) &lt;math&gt; h(-6)&lt;/math&gt;
+&lt;!-- ''Varying letters should be used for functions in these problems (mainly f,g,h, maybe others) to demonstrate.'' --&gt;
+
+[[Algebra/Functions/Answers|Answers]]
+
+==Function as Relation==
+
+Functions can also be thought of as a subset of '''relations'''.  A relation is a connection between numbers in one set and numbers in another.
+
+[[Image:Mapping_that's_not_a_function.png]] 
+
+In other words, each number you put in is associated with each number you get out.  The difference is that ''in a function, every 'input' number is associated with exactly one 'output' number'' whereas in a relation an 'input' number may be associated with multiple or no 'output' numbers. This is an important fact about functions. 
+Notice that the relation depicted by the diagram above is '''not''' a function because it does '''not''' meet this requirement, unlike the relation depicted by the second diagram below, which is a function.
+
+[[Image:Allowed mapping for a function.png]] 
+
+All functions are relations. Not all relations are functions.
+
+== Practice Problems ==
+
+1. Which of the following definitions are functions and which are relations:
+:a. &lt;math&gt;f(x) = x + 2&lt;/math&gt;
+:b. &lt;math&gt;g(x) = x - 2&lt;/math&gt;
+:c. &lt;math&gt;h(x) = x * 2&lt;/math&gt;
+:d. &lt;math&gt;i(x) = x / 2&lt;/math&gt;
+
+2. Which of the following definitions are functions and which are relations:
+:a. &lt;math&gt;j(x) = x + x&lt;/math&gt;
+:b. &lt;math&gt;k(x) = x - x&lt;/math&gt;
+:c. &lt;math&gt;l(x) = x * x&lt;/math&gt;
+:d. &lt;math&gt;m(x) = x / x&lt;/math&gt;
+
+3. Can you write descriptions of the functions in problems 1 and 2?  What is the difference?
+
+
+[[Algebra/Functions/Answers1|Answers]]
+
+==Domain and Range==
+===Domain===
+The ''domain'' of a function is the set of 'input' numbers for which the function is defined.  The domain is part of the definition of a function.  In the function in the illustration above, the domain is {-1,1,7,1/2}.
+
+The ''natural domain'' of an algebraically-defined function is the set of numbers for which the function is defined.
+
+In most algebra formulas, ''x'' is usually the variable associated with Domain.
+
+''Example''
+
+The function &lt;math&gt;f(x)=\sqrt x&lt;/math&gt; has a domain of &lt;math&gt;x\ge 0&lt;/math&gt; because the square root function is only defined for positive numbers (assuming that we are dealing with only real numbers).
+
+===Range===
+
+The ''range'' of a function is the set of results or solutions to the equation for a given input.  A true function only has one result for every Domain.
+
+In most algebra formulas, ''y'' is usually the variable associated with Range.  As such, it can also be expressed ''f''(''x''), which says that its value is a function of ''x''.
+
+''Example''
+
+The function &lt;math&gt;f(x)=x^2&lt;/math&gt; has a range of &lt;math&gt;y\ge 0&lt;/math&gt; because the square of a number is always positive.
+
+===Functions in terms of Domain and Range===
+
+In taking both domain and range into account, a function is any mathematical formula that produces one and only one result for each input.  Hence, it can be said that in a valid function, Domain (x) and Range (y) have a many to one correspondence so that every given Domain value has one and only one Range value as a result, but not necessarily vice versa.  This makes sense since results can repeat, but inputs cannot.
+
+As a result, if x is horizontal and y is vertical, a function in terms of y (e.g. [[Algebra/Function Graphing|y = mx + b]]) will produce a set of results such that if intersected by a vertical line at any point on the [[Algebra/Function Graphing|graph]] it will only pass through the graph once.  An asymptotic function (one with at least one undefined result) would also count as valid since it did not pass through more than one point of the graph.  This is called the &quot;vertical line&quot; test.
+
+''The terms domain and range can be applied to all relations and not just functions. A relation is a definition where one item in the definition's domain maps to more than one item in the definition's range. We use the terms domain and range to define the difference between a function and a relation.''
+
+==A Bit of Function Terminology==
+When speaking or writing about functions, different terminologies are used to describe how the functions work or what they do.
+===f of x Terminology===
+When we write &lt;math&gt;f(x)&lt;/math&gt;, we say ''f of x''.  Thus, if we have a function defined with the equation
+&lt;math&gt;g(x)=\frac{x+2}{7}&lt;/math&gt; then we say that 
+
+&lt;center&gt;''g of x equals the sum of x and 2 altogether divided by 7.''
+or
+''g of x is x plus 2 all over 7.''&lt;/center&gt;
+
+
+When we plug a value (say 5) into the function for x we write &lt;math&gt;g(5)=\frac{5+2}{7}=\frac{7}{7}=1&lt;/math&gt; but we say that 
+
+&lt;center&gt;''g of 5 equals 1''.&lt;/center&gt;
+
+Algebraic notation is the easiest way mathematicians have to express relationships defined by arithmetic operators like &lt;math&gt;+, -. / *,&lt;/math&gt; exponents, and roots. Once some of these functions have been defined it is easier to refer to the function name, and to refer to the values of the function as above.
+
+===Function &quot;value of&quot;  Terminology===
+If we have a function defined with the equation
+&lt;math&gt;g(x)=\frac{x+2}{7}&lt;/math&gt; then we say that ''The value of g at x is the sum of x and 2 altogether divided by 7.
+This way, &lt;math&gt;g(5)=\frac{5+2}{7}=\frac{7}{7}=1&lt;/math&gt;
+
+==[[:w:Piecewise|Piecewise-defined]] function==
+&lt;!-- &lt;math&gt;f(x) = 4x^2 -3x +6&lt;/math&gt;, find &lt;math&gt;f(-2)&lt;/math&gt; --&gt; &lt;!-- WTF is this? --&gt;
+A function whose definition depends on the input.
+
+===Absolute value function===
+f(x)=|x|&lt;br/&gt;
+''or''&lt;br/&gt;
+&lt;math&gt;f(x) = \begin{cases} x &amp; \mbox{if } x\ge 0 \\ -x &amp; \mbox{if } x&lt;0 \end{cases}&lt;/math&gt;
+
+
+One can interpret &lt;math&gt; |x|&lt;/math&gt; as the undirected distance between x and 0, (which is always non-negative). Going on, &lt;math&gt; |x-y|&lt;/math&gt; can be interpreted as the distance between the numbers x and y on the number line.
+
+==Even and odd functions==
+===Even functions===
+An even function is defined as a function &lt;math&gt;f&lt;/math&gt; such that &lt;math&gt;f(-x)=f(x)&lt;/math&gt;.&lt;br/&gt;
+Geometrically an even function can be defined as a function that exhibits a mirror image symmetry across the y-axis (the vertical line that passes through the origin).
+&lt;br&gt;
+&lt;br&gt;
+An example of an even function is &lt;math&gt;h(x)=x^{2}&lt;/math&gt; because &lt;math&gt;f(5)=25=f(-5)&lt;/math&gt; and because
+&lt;math&gt;f(x)=x^{2}=f(-x)&lt;/math&gt; for ''all'' real numbers ''x''.
+
+===Odd functions===
+An odd function is defined as a function &lt;math&gt;f&lt;/math&gt; such that &lt;math&gt;f(-x)=-f(x)&lt;/math&gt;.&lt;br/&gt;
+Geometrically an odd function can be defined as a function that exhibits a 180 degree rotational symmetry about the origin.
+
+&lt;br&gt;
+&lt;br&gt;
+An example of an ''odd'' function is &lt;math&gt;f(x)=x^{3}&lt;/math&gt; because for all real numbers ''x'', 
+&lt;math&gt;f(x)=x^{3}=-((-x)^{3})=-f(-x)&lt;/math&gt; for example &lt;math&gt;f(2)=2^{3}=8=-((-2)^{3})=-(-8)=-((-2)^{3})=-f(-2)&lt;/math&gt;
+
+==Composite function==
+A composite function &lt;math&gt;h&lt;/math&gt; can be defined as the composite of the two functions &lt;math&gt;f&lt;/math&gt; and &lt;math&gt;g&lt;/math&gt; and denoted as &lt;math&gt;h(x)=f(g(x))&lt;/math&gt; (read h of x ''is equal to'' f of g of x) or &lt;math&gt;h(x)=(f\circ g)(x)&lt;/math&gt;.
+
+[[Image:Composite Function Box.PNG]]
+
+Example:
+ Let &lt;math&gt;f(x)=2x+1&lt;/math&gt;     &lt;math&gt;g(x)=5x-3&lt;/math&gt;
+  &lt;math&gt;h(x)=f(g(x))&lt;/math&gt;
+  &lt;math&gt;h(x)=f(5x-3)&lt;/math&gt;
+  &lt;math&gt;h(x)=2(5x-3)+1&lt;/math&gt;
+  &lt;math&gt;h(x)=10x-6+1&lt;/math&gt;
+ &amp;there4;&lt;math&gt;h(x)=10x-5&lt;/math&gt;
+
+Example:
+
+ Let &lt;math&gt;f(x)=-\sqrt{16-x} \,&lt;/math&gt;     &lt;math&gt;g(x)=4x^2 \,&lt;/math&gt;
+ &lt;math&gt;(f\circ g)(x)=f(4x^2) \,&lt;/math&gt;
+ &lt;math&gt;(f\circ g)(x)=-\sqrt{16-(4x^2)} \,&lt;/math&gt;
+ &lt;math&gt;(f\circ g)(x)=-\sqrt{4(4-x^2)} \,&lt;/math&gt;
+ &lt;math&gt;(f\circ g)(x)=-\sqrt{4}\sqrt{(4-x^2)} \,&lt;/math&gt;
+ &lt;math&gt;(f\circ g)(x)=-2\sqrt{4-x^2} \,&lt;/math&gt;
+ Domain: &lt;math&gt;-2\le x\le 2&lt;/math&gt;
+ Range: &lt;math&gt;-4\le y\le 0&lt;/math&gt;
+
+==Inverse function==
+The function &lt;math&gt;g&lt;/math&gt; is the inverse of the one-to-one function &lt;math&gt;f&lt;/math&gt; if and only if the following are true:&lt;br/&gt;
+:&lt;math&gt;g(f(x))=x \,&lt;/math&gt;&lt;br/&gt;
+:&lt;math&gt;f(g(x))=x \,&lt;/math&gt;
+
+The inverse of function &lt;math&gt;f&lt;/math&gt; is denoted as &lt;math&gt;f^{-1}&lt;/math&gt; .
+
+Geometrically &lt;math&gt;f^{-1}&lt;/math&gt; is the reflection of &lt;math&gt;f&lt;/math&gt; across the line &lt;math&gt;y=x&lt;/math&gt;.
+Conceptually, using the &lt;i&gt;box&lt;/i&gt; analogy, a function's inverse box &lt;i&gt;undoes&lt;/i&gt; what the function's
+regular box does.  
+
+[[Image:Fruit function and inverse.PNG]]
+Example:
+ &lt;math&gt;f(x)=2x \,&lt;/math&gt;
+ &lt;math&gt;f^{-1}(x)=\frac{1}{2}x \,&lt;/math&gt;
+ 
+ &lt;math&gt;f(f^{-1}(x))=f(\frac{1}{2}x) \,&lt;/math&gt;
+ &lt;math&gt;f(f^{-1}(x))=2(\frac{1}{2}x) \,&lt;/math&gt;
+ &lt;math&gt;f(f^{-1}(x))=x \,&lt;/math&gt;
+ 
+ 
+ &lt;math&gt;f^{-1}(f(x))=f^{-1}(2x) \,&lt;/math&gt;
+ &lt;math&gt;f^{-1}(f(x))=\frac{1}{2}(2x) \,&lt;/math&gt;
+ &lt;math&gt;f^{-1}(f(x))=x \,&lt;/math&gt;
+
+To find the inverse of a function, remember that when we use &lt;math&gt;f^{-1}(x)&lt;/math&gt; as an input to &lt;math&gt;f&lt;/math&gt; the result is &lt;math&gt;x&lt;/math&gt;.  So start by writing &lt;math&gt;x = f\left( f^{-1}(x) \right)&lt;/math&gt; and solve for &lt;math&gt;f^{-1}&lt;/math&gt;
+
+Example:
+ Suppose:&lt;math&gt;f(x)=2x+1 \,&lt;/math&gt;
+ Then &lt;math&gt;x = f\left( f^{-1}(x) \right)&lt;/math&gt;
+ &lt;math&gt;x=2f^{-1}(x)+1 \,&lt;/math&gt;
+ &lt;math&gt;x-1=2f^{-1}(x) \,&lt;/math&gt;
+ &lt;math&gt;f^{-1}(x)=\frac{x-1}{2} \,&lt;/math&gt;
+
+The Domain of an inverse function is exactly the same as the Range of the original function.  If the Range of the original function is limited in some way,  the inverse of a function will require a restricted domain.
+
+Example:
+ &lt;math&gt;f(x)=\sqrt{x - 1} \,&lt;/math&gt;         
+ &lt;math&gt;x = f\left(f^{-1}(x)\right)&lt;/math&gt;
+ &lt;math&gt;x=\sqrt{f^{-1}(x) - 1} \,&lt;/math&gt;         
+ &lt;math&gt;x^2=\sqrt{f^{-1}(x) - 1}^2 \,&lt;/math&gt;         
+ &lt;math&gt;x^2=f^{-1}(x) - 1 &lt;/math&gt;            
+ &lt;math&gt;f^{-1}(x)=x^2 + 1\,&lt;/math&gt;            
+ The Range of &lt;math&gt;f(x)&lt;/math&gt; is &lt;math&gt;f(x)\ge0&lt;/math&gt;. So the Domain of &lt;math&gt;f^{-1}(x)&lt;/math&gt; is &lt;math&gt;x \ge 0&lt;/math&gt;.
+===One-to-one function===
+A function that for every input there exists an output unique to that input.
+&lt;br&gt;
+&lt;br&gt;
+Equivalently, we may say that a function &lt;math&gt;f&lt;/math&gt; is called ''one-to-one'' if for all
+&lt;math&gt;x,x'\in A, f(x)=f(x')&lt;/math&gt; implies that &lt;math&gt;x=x'&lt;/math&gt; where ''A'' is the domain set of ''f'' and
+both ''x'' and ''x''' are members of that set.
+
+'''Horizontal Line Test'''&lt;br/&gt;
+If no horizontal line intersects the graph of a function in more than one place then the function is a one-to-one function.
+== Creating Functions ==
+
+In the previous chapter we reviewed what you've already learned about mathematics: Numbers, Variables, and Relationships.  We reviewed the types of numbers,  the operations you can perform on numbers, the properties of these operations, and how these properties can allow you to write expressions, or if we know about enough the constraints on the expressions you can write equations and inequalities that define things that are true.
+
+In the section above we've looked at the concept of a function. First we showed how to created equations with a function on one side of the equals operator and an expression on the other.  Then we looked at more complicated ways to use function notation.  
+
+Once you get used to them functions give you a different way to look at math.  When you think about math with numbers you are thinking about just one answer.  When you think about math with functions you are looking for relationships and you are building mathematical models. 
+
+Give an example of a 3 X 3 square with a diagonal.  What is the area of one of the triangles from the diagonal.  Apply the Area function: l X w, and then the half function.</text>
+      <sha1>n7rncsoq6pa9b84nfiminr00cqc6iif</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Algebra/Functions</title>
+    <ns>1</ns>
+    <id>3159</id>
+    <revision>
+      <id>2302204</id>
+      <parentid>2302123</parentid>
+      <timestamp>2012-04-05T19:13:02Z</timestamp>
+      <contributor>
+        <username>Thenub314</username>
+        <id>38087</id>
+      </contributor>
+      <comment>/* openion */ thanks.</comment>
+      <text xml:space="preserve">==Remark by initial writer of this module: [[Algebra/Functions]]==
+''Note: I think the topic of functions deserves a bit of introduction, though I'm not sure if this is the right module for it.  [[Calculus/Functions]] covers similar ground, but this explanation is intended as less 'technical' and more level-appropriate.  Perhaps it's the wrong tone to take in this book, though. Please post thoughts to the [[Talk:Algebra:Functions|talk]] page.  --[[User:Spikey|Spikey]] 04:12, 10 Dec 2003 (UTC)''
+
+==Moving introductory section of &quot;Function graphing&quot; module here==
+
+I am thinking of perhaps moving the introductory section of the next module [[Algebra/Function Graphing]] to this module, [[Algebra/Functions]], and renaming this module [[Algebra/Functions and graphing]] and the next module would be renamed [[Algebra/Linear function graphing]].  This is because the existing [[Algebra/Function Graphing]] module has become fairly long, it only covers linear function graphing, and problems have not been added yet.  Any thoughts on this matter?  &lt;br&gt;[[User:H Padleckas|H Padleckas]] 14:00, 10 November 2005 (UTC)
+
+==To Do List For This Page==
+1. Extend Creating Functions with graphics like rest of the page. [[User:Nfgdayton|Nfgdayton]] ([[User talk:Nfgdayton|talk]]) 17:46, 23 July 2010 (UTC)
+
+== openion ==
+
+I think the graph of fog  is not correct its for gof because in fog  g is a function from first set to secound and f fron secound to outbut , fog from first set to the οutbut
+
+
+I agree...--[[User:Busukxuan|Busukxuan]] ([[User talk:Busukxuan|discuss]] • [[Special:Contributions/Busukxuan|contribs]]) 16:09, 5 April 2012 (UTC)
+
+:You both are correct, I have edited the image so that it is now accurate. [[User:Thenub314|Thenub]][[Special:Contributions/Thenub314|314]] ([[User talk:Thenub314|talk]]) 19:13, 5 April 2012 (UTC)</text>
+      <sha1>s8n4bvhwjux6jjmd6atmybwdaj8j2gf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Chemistry/Atomic Structure</title>
+    <ns>0</ns>
+    <id>3161</id>
+    <revision>
+      <id>2255600</id>
+      <parentid>2244413</parentid>
+      <timestamp>2012-01-22T22:50:15Z</timestamp>
+      <contributor>
+        <username>Addihockey10 (automated)</username>
+        <id>502783</id>
+      </contributor>
+      <minor />
+      <comment>/* Atomic Structure */Replaceing raster images with vector equivalents, replaced: 75%.png → 75%.svg (6) using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{General Chemistry/Navigation}}
+
+&lt;/noinclude&gt;&lt;includeonly&gt;
+== Atomic Structure ==
+&lt;/includeonly&gt;
+#[[General Chemistry/Atomic Structure/History of Atomic Structure|History of Atomic Structure]] [[File:100%.svg]]
+#[[General Chemistry/Atomic Structure/Subatomic Particles|Subatomic Particles]] [[File:100%.svg]]
+#[[General Chemistry/Introduction to Quantum Theory|Introduction to Quantum Theory]] [[Image:75%.svg]]
+#[[General Chemistry/The Quantum Model|The Quantum Model]] [[Image:75%.svg]]
+#*[[General Chemistry/The Quantum Atom|The Quantum Atom]] [[Image:75%.svg]]
+#*[[General Chemistry/Shells and Orbitals|Shells and Orbitals]] [[Image:75%.svg]]
+#*[[General Chemistry/Filling Electron Shells|Filling Electron Shells]] [[Image:75%.svg]]
+#*[[General Chemistry/Periodicity and Electron Configurations|Periodicity and Electron Configurations]] [[Image:75%.svg]]
+#[[General Chemistry/Octet Rule and Exceptions|Octet Rule and Exceptions]] [[File:100%.svg]]</text>
+      <sha1>paycbf8t2y0x64sbr9oc4ua8b6a2a83</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Chemistry/Atomic Structure/Subatomic Particles</title>
+    <ns>0</ns>
+    <id>3162</id>
+    <revision>
+      <id>2597979</id>
+      <parentid>2597926</parentid>
+      <timestamp>2014-01-03T09:02:25Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <comment>Rejected the last text change (by [[Special:Contributions/2.31.141.77|2.31.141.77]]) and restored revision 2532738 by 91.212.168.20</comment>
+      <text xml:space="preserve">{{GeneralChemTOC|prev=Atomic Structure/History of Atomic Structure|next=Introduction to Quantum Theory}}
+
+== Particle Properties ==
+
+Before learning about subatomic particles, some basic properties should be understood.
+
+=== Charge ===
+
+Particles may be electrically charged.  '''Charge''' is a property which defines the force that a particle will exert on other charged particles.  There is a well known saying that applies perfectly: &quot;Opposites attract.&quot;  (Likewise, like charges repel.)  Positive charges and negative charges will attract each other and come together.  Two positive or two negative charges will push each other away.
+
+{{Helpful hint|hint=Not all particles have charge.}}
+The amount of charge a particle has is measured in [[w:Coulomb|coulombs]], but it is more conveniently expressed in terms of an integer.  For instance, a helium ion that has 2 less electrons than usual has a charge of +2, and a bromide ion with one more electron than usual has a charge of -1.  (This may seem backwards, but remember that an electron has a negative charge.)  Notice that charge not only applies to subatomic particles, but also ions and other things as well.  Always remember to specify if a charge is positive or negative.  Unlike ordinary numbers, we ''always write the plus sign for positive charges'' to avoid confusion with a negative charge.
+
+{{Info|1=
+It may be useful to understand '''Coulomb's Law'''.  It explains the electromagnetic force: &lt;math&gt; F = \frac{k Q_1 Q_2}{r^2}&lt;/math&gt;.  &lt;math&gt;Q&lt;/math&gt; is the charge on each particle, &lt;math&gt;r&lt;/math&gt; is the distance between them, and &lt;math&gt;k&lt;/math&gt; is a constant.  So, if the distance between two particles is doubled, the force will be reduced four times.  Double the charge would mean double the force, be it attractive or repulsive.  Coulomb's Law will be especially important when understanding periodic trends.
+
+However, there is no need to solve it exactly.  Just remember the relationships between the variables.}}
+
+=== Mass ===
+
+Mass is the measure of inertia.  From a subatomic point of view, mass can also be understood in terms of energy, but that does not concern us when dealing with chemistry.  Mass for particles, atoms, and molecules is not measured in grams, as with ordinary substances.  Instead, it is measured in ''atomic mass units'', or '''amu'''.  For more information about mass and amu, read the previous chapters on properties of matter.
+
+== The Nucleus ==
+
+[[Image:Simple atom (lithium).png|thumb|An atom (not to scale!)]]
+
+At the center of each atom lies the nucleus. It is incredibly small: if you were to take the average atom (itself miniscule in size) and expand it to the size of a football stadium, then the nucleus would be about the size of a marble. It is, however, astoundingly dense: despite the tiny percentage of the atom's volume it contains nearly all of the atom's mass. The nucleus almost never changes under normal conditions, remaining constant throughout chemical reactions. Nuclei are themselves made up of a pair of smaller and more dense particles, the '''proton''' and the '''neutron'''. These particles are collectively dubbed '''nucleons'''.
+
+=== Protons ===
+
+Protons have a charge of +1 and a mass of 1 amu.  They are often represented by a &lt;math&gt;p&lt;/math&gt;.
+
+Protons will be important when learning about acids and bases—they are the essence of acid.  Remember that the number of protons in an atom is its ''atomic number'', and defines what element it will be.  The number of protons in a nucleus ranges from '''one''' to over a hundred.
+
+Consider the element hydrogen.  Its atomic number is 1, so it has one proton and one electron.  If it is made into an ion (an atom with missing or extra electrons), it will simply be a lone proton.  Thus, a proton ''is'' the nucleus of a hydrogen atom, and a proton ''is'' a hydrogen ion.  Therefore, a proton can be written as &lt;math&gt;\text{H}^+&lt;/math&gt; or &lt;math&gt;_1^1\text{H}^+&lt;/math&gt;, both symbols for a hydrogen ion.
+
+=== Neutrons ===
+
+Neutrons have no charge and a mass of 1 amu.  A neutron is slightly heavier than a proton, but the difference is insignificant.  Neutrons are often written &lt;math&gt;n&lt;/math&gt;.
+{{SideBox|Our friends the physicists say that neutrons and protons are made of even smaller particles called ''quarks''.  Fortunately, we don't need to know about that because quarks do not affect chemistry.  Instead, quarks fall in the field of [[Quantum Mechanics]].}} &lt;!-- &quot;Fortunately&quot; is in bad taste --&gt;
+
+Unlike the protons, neutrons cannot exist outside the nucleus indefinitely as they become unstable and break down. Within one nucleus there can be many protons and neutrons all in close proximity to one another. The number of neutrons in a nucleus ranges from '''zero''' to over a hundred.
+
+You may wonder why neutrons exist.  They have no charge, so can they do anything?  The answer is yes—neutrons are very important.  Remember that opposites attract and likes repel.  If so, then how can several protons stay clumped together in the dense nucleus of an atom?  It would seem as if the protons would repel and scatter the nucleus.  However, there is a '''strong nuclear force''' that holds the nucleus together.  This incredible force causes nucleons to attract each other with much greater strength than the electric force can repel them, but only over extremely short distances.
+
+A delicate balance exists between the number of protons and neutrons. Protons, which are attracted to one another via the strong force but simultaneously repelled by their electromagnetic charges, cannot exist in great numbers within the nucleus without the stabilizing action of neutrons, which are attracted via the strong force but are not charged. Conversely, neutrons lend their inherent instability to the nucleus and too many will destabilize it.
+
+{{Info|Neutrons are the reason for '''isotopes''', or atoms with the same number of protons but different masses.  The masses are different because of different numbers of neutrons.  Isotopes of a given element have almost identical chemical properties (like color, melting point, reactions, etc.), but they have different nuclear properties.  Some isotopes are stable, others are radioactive.  Different isotopes decay in different ways.}}
+
+Lastly, neutrons are very important in nuclear reactions, such as those used in power plants.  Neutrons act like a bullet that can split an atom's nucleus.  Because they have no charge, neutrons are neither attracted nor repelled by atoms and ions.
+
+== The Electron Cloud ==
+
+Surrounding the dense nucleus is a cloud of electrons.  Electrons have a charge of -1 and a mass of 0 amu.  That does not mean they are massless.  Electrons do have mass, but it is so small that it has no effect on the overall mass of an atom.  An electron has approximately 1/1800 the mass of a proton or neutron.  Electrons are written &lt;math&gt;e^-&lt;/math&gt;.
+
+Electrons orbit the outside of a nucleus, unaffected by the strong nuclear force.  They define the chemical properties of an atom because virtually every chemical reaction deals with the interaction or exchange of the outer electrons of atoms and molecules.
+
+Electrons are attracted to the nucleus of an atom because they are negative and the nucleus (being made of protons and neutrons) is positive.  Opposites attract.  However, electrons don't fall into the nucleus.  They orbit around it at specific distances because the electrons have a certain amount of energy.  That energy prevents them from getting too close, as they must maintain a specific speed and distance.  Changes in the energy levels of electrons cause different phenomena such as spectral lines, the color of substances, and the creation of ions (atoms with missing or extra electrons).
+
+=== Electron Interactions ===
+
+''Atoms will always have equal numbers of protons and electrons'', so their overall charge is zero.  Atoms are neutral.  Ions, on the other hand, are atoms that have gained or lost electrons and now have an unequal number of protons and electrons.  If there are extra electrons, the ion will be negatively charged.  If there are missing electrons, the ion will be positively charged, due to the majority of positive protons.
+
+'''Valence electrons''' (the outermost electrons) are responsible for an atom's behavior in chemical bonds.  The ''core electrons'' are all of the electrons not in the outermost shell, and they rarely get involved.  An atom will attempt to fill its valence shell.  This occurs when an atom has eight valence electrons (as explained in the next chapter), so atoms will undergo chemical bonds to either share, give, or take the electrons it needs.  Sodium, for example, is very likely to give up its one valence electron, so that its outer shell is empty (the shell underneath it is full).  Chlorine is very likely to take an electron because it has seven and wants eight.  When sodium and chlorine are mixed, they exchange electrons and create sodium chloride (table salt).  As a result, both elements have full valence shells, and a very stable compound is formed.
+
+{{BookCat}}</text>
+      <sha1>lqajlg59whipg5w0pocv8d2aygyo8uc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Chemistry/Shells and Orbitals</title>
+    <ns>0</ns>
+    <id>3163</id>
+    <revision>
+      <id>2593865</id>
+      <parentid>2593864</parentid>
+      <timestamp>2013-12-15T23:44:56Z</timestamp>
+      <contributor>
+        <username>Ajraddatz</username>
+        <id>315362</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/173.240.129.154|173.240.129.154]] ([[User talk:173.240.129.154|talk]]) to last version by Ajraddatz</comment>
+      <text xml:space="preserve">{{msg:GeneralChemTOC|next=Filling Electron Shells|prev=The Quantum Atom}}
+
+==Electron shells==
+Each '''shell''' is subdivided into '''subshells''', which are made up of '''orbitals''',  each of which has electrons with different angular momentum. Each orbital in a shell has a characteristic shape, and is named by a letter. They are: '''s''', '''p''', '''d''', and '''f'''. In a one-electron atom (e.g. H, He&lt;sup&gt;+&lt;/sup&gt;, Li&lt;sup&gt;+&lt;/sup&gt;, etc.) the energy of each orbital within a particular shell is identical. However, when there are multiple electrons, they interact and split the orbitals into slightly different energies. Within any particular shell, the energy of the orbitals depend on the angular momentum of orbitals s, p, d, and f in order of lowest to highest energy. No two orbitals have the same energy level.
+
+This image shows the orbitals (along with hybrid orbitals for bonding and a sample electron configuration, explained later).
+[[Image:Electron orbitals.svg|600px]]
+
+==The s orbital==
+The simplest orbital in the atom is the 1s orbital. It has no radial or angular '''nodes''': the 1s orbital is simply a sphere of electron density. A node is a point where the electron probability is zero.  As with all orbitals the number of radial nodes increases with the principle quantum number (i.e. the 2s orbital has one radial node, the 3s has two etc.). Because the angular momentum quantum number is 0, there is only one choice for the magnetic quantum number - there is only one s orbital per shell. The s orbital can hold two electrons, as long as they have different spin quantum numbers.
+
+&lt;math&gt;\begin{matrix}
+n &amp;=&amp; 1, 2, 3, ... \\
+l &amp;=&amp; 0 \\
+m_l &amp;=&amp; 0 \\
+m_s &amp;=&amp; +\frac{1}{2},  -\frac{1}{2} \\
+\end{matrix}&lt;/math&gt;
+
+==The p orbitals==
+
+Starting from the 2nd shell, there is a set of p orbitals. The angular momentum quantum number of the electrons confined to p orbitals is 1, so each orbital has one '''angular node'''. There are 3 choices for the magnetic quantum number, which indicates 3 differently oriented p orbitals. Finally, each orbital can accommodate two electrons (with opposite spins), giving the p orbitals a total capacity of 6 electrons.
+
+&lt;math&gt;\begin{matrix}
+n &amp;=&amp; 2, 3, 4, ... \\
+l &amp;=&amp; 1 \\
+m_l &amp;=&amp; -1,0,1 \\
+m_s &amp;=&amp; +\frac{1}{2},  -\frac{1}{2} \\
+\end{matrix}&lt;/math&gt;
+
+The p orbitals all have two lobes of electron density pointing along each of the axes. Each one is symmetrical along its axis. The notation for the p orbitals indicate which axis it points down, i.e. p&lt;sub&gt;x&lt;/sub&gt; points along the x axis, p&lt;sub&gt;y&lt;/sub&gt; on the y axis and p&lt;sub&gt;z&lt;/sub&gt; up and down the z axis. The p orbitals are '''degenerate''' — they all have the same energy. P orbitals are very often involved in '''bonding'''.
+
+{| border=&quot;1px&quot;
+|-
+! 2p&lt;sub&gt;x&lt;/sub&gt;
+! 2p&lt;sub&gt;y&lt;/sub&gt;
+! 2p&lt;sub&gt;z&lt;/sub&gt;
+|-
+| [[Image:P2M1.png|100px]]
+| [[Image:P2M0.png|100px]]
+| [[Image:P2M-1.png|100px]]
+|}
+
+==The d orbitals==
+
+The first set of d orbitals is the 3d set. The angular momentum quantum number is 2, so each orbital has two '''angular nodes'''. There are 5 choices for the magnetic quantum number, which gives rise to 5 different d orbitals. Each orbital can hold two electrons (with opposite spins), giving the d orbitals a total capacity of 10 electrons.
+
+&lt;math&gt;\begin{matrix}
+n &amp;=&amp; 3, 4, 5, ... \\
+l &amp;=&amp; 2 \\
+m_l &amp;=&amp; -2,-1,0,1,2 \\
+m_s &amp;=&amp; +\frac{1}{2},  -\frac{1}{2} \\
+\end{matrix}&lt;/math&gt;
+
+Note that all the d orbitals have four lobes of electron density, except for the d&lt;sub&gt;z2&lt;/sub&gt; orbital, which has two opposing lobes and a doughnut of electron density around the middle. The d orbitals can be further subdivided into two smaller sets. The d&lt;sub&gt;x2-y2&lt;/sub&gt; and d&lt;sub&gt;z2&lt;/sub&gt; all point directly along the x, y, and z axes. They form an '''e&lt;sub&gt;g&lt;/sub&gt;''' set. On the other hand, the lobes of the d&lt;sub&gt;xy&lt;/sub&gt;, d&lt;sub&gt;xz&lt;/sub&gt; and d&lt;sub&gt;yz&lt;/sub&gt; all line up in the quadrants, with no electron density on the axes. These three orbitals form the '''t&lt;sub&gt;2g&lt;/sub&gt;''' set. In most cases, the d orbitals are '''degenerate''', but sometimes they can split, with the e&lt;sub&gt;g&lt;/sub&gt; and t&lt;sub&gt;2g&lt;/sub&gt; subsets having different energy. '''Crystal Field Theory''' predicts and accounts for this. D orbitals are sometimes involved in bonding, especially in inorganic chemistry.
+
+{| border=&quot;1px&quot;
+| [[Image:D3M2.png|100px]]
+| [[Image:D3M1.png|100px]]
+| [[Image:D3M0.png|100px]]
+| [[Image:D3M-1.png|100px]]
+| [[Image:D3M-2.png|100px]]
+|}
+
+== The f orbitals ==
+The first set of f orbitals is the 4f subshell.  There are 7 possible magnetic quantum numbers, so there are 7 f orbitals.  Their shapes are fairly complicated, and they rarely come up when studying chemistry.  There are 14 f electrons because each orbital can hold two electrons (with opposite spins).
+
+&lt;math&gt;\begin{matrix}
+n &amp;=&amp; 4, 5, 6, ... \\
+l &amp;=&amp; 3 \\
+m_l &amp;=&amp; -3,-2,-1,0,1,2,3 \\
+m_s &amp;=&amp; +\frac{1}{2},  -\frac{1}{2} \\
+\end{matrix}&lt;/math&gt;
+
+{| border=&quot;1px&quot;
+| [[Image:F4M-3.png|100px]]
+| [[Image:F4M-2.png|100px]]
+| [[Image:F4M-1.png|100px]]
+| [[Image:F4M0.png|100px]]
+| [[Image:F4M1.png|100px]]
+| [[Image:F4M2.png|100px]]
+| [[Image:F4M3.png|100px]]
+|}
+
+
+{{BookCat}}</text>
+      <sha1>ix9pqbe1hbe1enh4v9oeefc98m4b6rw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Chemistry/Filling Electron Shells</title>
+    <ns>0</ns>
+    <id>3164</id>
+    <revision>
+      <id>2701028</id>
+      <parentid>2668779</parentid>
+      <timestamp>2014-09-17T20:11:18Z</timestamp>
+      <contributor>
+        <ip>168.254.225.246</ip>
+      </contributor>
+      <comment>added &quot;at room temperature&quot; to the ferromagnetism statement. One could instead include Gd and Dy and take out the RT modifier. One could also include the Mn materials that are ferromagnetic (MnBi, MnSb, etc.) as these do not contain Fe, Ni, or Co.</comment>
+      <text xml:space="preserve">{{msg:GeneralChemTOC|prev=Shells and Orbitals|next=Periodicity and Electron Configurations}}
+
+== Filling Electron Shells ==
+When an atom or ion receives electrons into its orbitals, the orbitals and shells fill up in a particular manner.
+
+=== Aufbau principle ===
+
+You may consider an atom as being &quot;built up&quot; from a naked nucleus by gradually adding to it one electron after another, until all the electrons it will hold have been added. Much as one fills up a container with liquid from the bottom up, the orbitals of an atom are filled from the lowest energy orbitals to the highest energy orbitals.
+
+Orbitals with the lowest principal quantum number (&lt;math&gt;n&lt;/math&gt;) have the lowest energy and will fill up first.  Within a shell, there may be several orbitals with the same principal quantum number.  In that case, more specific rules must be applied.  For example, the three p orbitals of a given shell all occur at the same energy level.  So, how are they filled up?
+ans: all the three p orbitals have same energy so while filling the p orbitals we can fill any one of the Px, Py or Pz first. it is a convention that we chose to fill Px first ,then Py and then Pz for our simplicity. Hence you can opt for filling these three orbitals from right to left also.
+
+=== Hund's Rule ===
+
+According to Hund's rule, orbitals of the same energy are each filled with one electron before filling any with a second. Also, these first electrons have the same spin.
+
+This rule is sometimes called the &quot;bus seating rule&quot;.  As people load onto a bus, each person takes his own seat, sitting alone.  Only after all the seats have been filled will people start doubling up.
+
+=== Pauli Exclusion principle ===
+
+No two electrons can have all four quantum numbers the same. What this translates to in terms of our picture of orbitals is that each orbital can only hold two electrons, one &quot;spin up&quot; (+½) and one &quot;spin down&quot; (-½).
+
+[[Image:FillingElectronDiagram.gif|frame|This animation demonstrates the Aufbau principle, Hund's Rule, and the Pauli Exclusion principle.]]
+
+=== Orbital Order ===
+1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s, 4f, 5d, 6p, 7s, 5f, 6d, 7p, 8s.
+
+Although this looks confusing, there is an easy way to remember.
+
+[[Image:Electron configuration order.gif]]
+
+Understanding the above rules and diagrams will allow you to determine the electron configuration of almost any atom or ion.
+
+== How to Write the Electron Configuration of an Atom ==
+
+{{Wikipedia|Electron configuration}}
+Electron-configuration notation is relatively straightforward. Calcium, for example, would be 1s&lt;sup&gt;2&lt;/sup&gt;2s&lt;sup&gt;2&lt;/sup&gt;2p&lt;sup&gt;6&lt;/sup&gt;3s&lt;sup&gt;2&lt;/sup&gt;3p&lt;sup&gt;6&lt;/sup&gt;4s&lt;sup&gt;2&lt;/sup&gt;. This could be abbreviated by using the preceding ''noble gas'' (the elements found all the way on the right of the periodic table) as [Ar]4s&lt;sup&gt;2&lt;/sup&gt;, where Ar is argon.  Noble gasses have very stable configurations, and are extremely reluctant to lose electrons.
+
+== Rule of Stability ==
+A subshell is particularly stable if it is half full or full. Given two configurations, the atom would &quot;choose&quot; the more stable one. 
+
+Example: In the following configuration, Cu: [Ar]4s&lt;sup&gt;2&lt;/sup&gt;3d&lt;sup&gt;9&lt;/sup&gt;, copper's d shell is just one away from stability, and therefore, one electron from the s shell jumps into the d shell: [Ar]4s&lt;sup&gt;1&lt;/sup&gt;3d&lt;sup&gt;10&lt;/sup&gt;. This way, the d shell is full, and is therefore stable, and the s shell is half full, and is also stable.
+
+[[Image:CopperElectronDiagram.gif]]
+
+Another example: Chromium has a configuration of [Ar]4s&lt;sup&gt;1&lt;/sup&gt;3d&lt;sup&gt;5&lt;/sup&gt;, although you would expect to see four d electrons instead of five.  This is because an s electron has jumped into the d orbital, giving the atom two half-full shells—much more stable than a d orbital with only four electrons.
+
+The stability rule applies to atoms in the same group as chromium and copper. 
+
+If one of these atoms has been ionized, that is, it loses an electron, it will come from the s orbital rather than the d orbital.  For instance, the configuration of Cu&lt;sup&gt;+&lt;/sub&gt; is [Ar]4s&lt;sup&gt;0&lt;/sup&gt;3d&lt;sup&gt;10&lt;/sup&gt;.  If more electrons are removed, they will come from the d orbital.
+
+== Magnetism ==
+[[Image:MagnetismElectronDiagram.gif|frame|The spin of an electron creates a magnetic field (albeit ridiculously weak), so unpaired electrons create a small magnetic field.  Paired electrons have opposite spin, so the magnetic fields cancel each other out, leading to diamagnetism.]]
+
+Magnetism is a well-known effect.  Chances are, you have magnets on your refrigerator.  As you already know, only certain elements are magnetic.  Electron configurations help to explain why.
+
+'''Diamagnetism''' is actually a very weak repulsion to magnetic fields.  All elements have diamagnestism to some degree.  It occurs when there are pair electrons.
+
+'''Paramagnetism''' is an attraction to external magnetic fields.  It is also very weak.  It occurs whenever there is an unpaired electron in an orbital.
+
+'''Ferromagnetism''' is the permanent magnetism that we encounter in our daily lives.  It only occurs at room temperature with three elements: iron (Fe), nickel (Ni), and cobalt (Co).
+
+{{BookCat}}</text>
+      <sha1>jhtb7psg692d58cca95hzwyi6o8qgez</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Chemistry/Octet Rule and Exceptions</title>
+    <ns>0</ns>
+    <id>3165</id>
+    <revision>
+      <id>2669474</id>
+      <parentid>2669391</parentid>
+      <timestamp>2014-06-04T08:22:54Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <comment>Rejected the last text change (by [[Special:Contributions/71.205.51.55|71.205.51.55]]) and restored revision 2609042 by LlamaAl</comment>
+      <text xml:space="preserve">{{GeneralChemTOC|prev=Periodicity and Electron Configurations|next=Compounds and Bonding}}
+
+The '''octet rule''' refers to the tendency of atoms to prefer to have eight electrons in the ''valence shell''. When atoms have fewer than eight electrons, they tend to react and form more stable compounds.  When discussing the octet rule, we do not consider d or f electrons.  Only the s and p electrons are involved in the octet rule, making it useful for the ''representative elements'' (elements not in the transition metal or inner-transition metal blocks).  An octet corresponds to an electron configuration ending with s&lt;sup&gt;2&lt;/sup&gt;p&lt;sup&gt;6&lt;/sup&gt;.
+
+== Stability ==
+
+Atoms will react to get in the most stable state possible.  A complete octet is very stable because all orbitals will be full.  Atoms with greater stability have less energy, so a reaction that increases the stability of the atoms will release energy in the form of heat or light.  Reactions that decrease stability must absorb energy, getting colder.
+
+The other tendency of atoms is to maintain a neutral charge. Only the [[General Chemistry/Chemistries of Various Elements/Group 18|noble gases]] (the elements on the right-most column of the [[General_Chemistry/Periodic_Table|periodic table]]) have zero charge with filled valence octets. All of the other elements have a charge when they have eight electrons all to themselves. The result of these two guiding principles is the explanation for much of the reactivity and bonding that is observed within atoms: '''atoms seek to share electrons in a way that minimizes charge while fulfilling an octet in the valence shell'''.
+
+{{Info|The noble gases rarely form compounds.  They have the most stable configuration (full octet, no charge), so they have no reason to react and change their configuration.  All other elements attempt to gain, lose, or share electrons to achieve a noble gas configuration.}}
+
+=== Example ===
+
+The formula for table salt is NaCl.  It is the result of Na&lt;sup&gt;+&lt;/sup&gt; ions and Cl&lt;sup&gt;-&lt;/sup&gt; ions bonding together.  If sodium metal and chlorine gas mix under the right conditions, they will form salt.  The sodium loses an electron, and the chlorine gains that electron.  In the process, a great amount of light and heat is released.  The resulting salt is mostly unreactive — it is stable.  It won't undergo any explosive reactions, unlike the sodium and chlorine that it is made of.
+
+Why?  Referring to the octet rule, atoms attempt to get a noble gas electron configuration, which is eight valence electrons.  Sodium has one valence electron, so giving it up would result in the same electron configuration as neon.  Chlorine has seven valence electrons, so if it takes one it will have eight (an octet).  Chlorine has the electron configuration of argon when it gains an electron.
+
+The octet rule could have been satisfied if chlorine gave up all seven of its valence electrons and sodium took them.  In that case, both would have the electron configurations of noble gasses, with a full valence shell.  However, their charges would be much higher.  It would be Na&lt;sup&gt;7-&lt;/sup&gt; and Cl&lt;sup&gt;7+&lt;/sup&gt;, which is much less stable than Na&lt;sup&gt;+&lt;/sup&gt; and Cl&lt;sup&gt;-&lt;/sup&gt;.  Atoms are more stable when they have no charge, or a small charge.
+
+== Exceptions ==
+There is an exception to the octet rule 
+
+=== Two Electrons ===
+The main exception to the rule is hydrogen, which is at its lowest energy when it has two electrons in its valence shell. Helium (He) is similar in that it, too, only has room for two electrons in its only valence shell.
+
+Hydrogen and helium have only one electron shell.  The first shell has only one s orbital and no p orbital, so it holds only two electrons.  Therefore, these elements are most stable when they have two electrons.  You will occasionally see hydrogen with no electrons, but H&lt;sup&gt;+&lt;/sup&gt; is much less stable than hydrogen with one or two electrons.
+
+Lithium, with three protons and electrons, is most stable when it gives up an electron.
+
+=== Less Than an Octet ===
+Other notable exceptions are aluminum and boron, which can function well with six valence electrons.  Consider BF&lt;sub&gt;3&lt;/sup&gt;.  The boron shares its three electrons with three fluorine atoms.  The fluorines follow the octet rule, but boron has only six electrons.  Although atoms with less than an octet may be stable, they will usually attempt to form a fourth bond to get eight electrons.  BF&lt;sub&gt;3&lt;/sub&gt; is stable, but it will form BF&lt;sub&gt;4&lt;/sub&gt; when possible.
+
+=== More Than an Octet ===
+In Period 3, the elements on the right side of the [[General_Chemistry/Periodic_Table|periodic table]] have empty d orbitals.  The d orbitals may accept electrons, allowing elements like sulfur and phosphorus to have more than an octet.  Compounds such as PCl&lt;sub&gt;5&lt;/sub&gt; and SF&lt;sub&gt;6&lt;/sub&gt; can form.  These compounds have 10 and 12 electrons around their central atoms, respectively.
+
+&lt;center&gt;
+{|
+| [[Image:Xenonhexafluorid.svg]]
+|Xenon hexafluoride uses d-electrons to form more than an octet.  This compound shows another exception:  a noble gas compound.
+|}
+&lt;/center&gt;
+
+=== Odd Numbers ===
+Some elements, notably nitrogen, have an odd number of electrons and will form somewhat stable compounds.  Nitric oxide has the formula NO.  No matter how electrons are shared between the nitrogen and oxygen atoms, there is no way for nitrogen to have an octet.  It will have seven electrons instead.  An atom with an unpaired electron is called a ''free radical'' and is highly reactive.
+
+&lt;center&gt;
+{|
+| [[Image:Stickstoffdioxid.svg]]
+|Nitrogen dioxide has an unpaired electron.  (Note the positive charge above the N).
+|}
+&lt;/center&gt;
+
+{{BookCat}}</text>
+      <sha1>4vg1dsnr7lo63c6p9v18yyyz9sw106v</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Spikey</title>
+    <ns>2</ns>
+    <id>3166</id>
+    <revision>
+      <id>155166</id>
+      <parentid>9573</parentid>
+      <timestamp>2003-12-10T21:37:26Z</timestamp>
+      <contributor>
+        <username>Spikey</username>
+        <id>355</id>
+      </contributor>
+      <text xml:space="preserve">I had an idea over a year ago and [http://groups.google.com/groups?as_umsgid=rjaros-702899.14525321092002@shaysnet.com.client.newsread.com posted] it to Usenet.  That thread pointed me to Wikipedia, which I immediately hailed as the answer to my dreams.  By the next day I had forgotten about it.
+
+Later on, though, I found my way back, time and again, and finally actually registered.  Wikipedia, however, was not exactly what I was looking for.  Wikibooks is.
+
+I'll probably spend the most time in the [[Mathematics]] section.  That and computer science are my fort&amp;eacute;s.  I've always wanted to use the word fort&amp;eacute;.  I think I've used it wrong.
+
+==Stuff I've had a lot to do with==
+*[[Algebra:Functions]]</text>
+      <sha1>si0sp7uwzdvpibt1u0avbz4lmrhozl9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Decision puzzles/Yet Another Weighing/Solution</title>
+    <ns>0</ns>
+    <id>3168</id>
+    <revision>
+      <id>872714</id>
+      <parentid>872709</parentid>
+      <timestamp>2007-05-20T22:55:17Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>NC</comment>
+      <text xml:space="preserve">[[Puzzles]]|[[Puzzles/Decision puzzles|Decision puzzles]]|[[Puzzles/Decision puzzles/Yet Another Weighing|Yet Another Weighing]]|Solution
+
+One way to solve this would be to try to manually work out all the possible combinations and their sums. That would take a while. 
+
+Instead, notice that each item is half the weight of the previous item. Lets assume you have less items and work out the general rule for any number of items, where each is twice as much as the next item:
+
+ '''Items  Weights            Number of Combinations'''
+ 1      5                   '''1''': 5
+ 2      5, 10               '''3''': 5, 10, 15
+ 3      5, 10, 20           '''7''': 5, 10, 15, 20, 25, 30, 35
+ 4      5, 10, 20, 40      '''15''': 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75
+ 5      5, 10, 20, 40, 80
+
+Without even listing them, we can see the pattern. The numbers 1, 3, 7, 15 follow the formula of 2&lt;sup&gt;n&lt;/sup&gt; - 1, where n=1, 2, 3, 4 i.e. the number of items.
+
+For 5 items, n=5, 2&lt;sup&gt;5&lt;/sup&gt; - 1 = '''31'''.
+
+The pattern would continue for more items:
+ 6 - '''63'''
+ 7 - '''127'''
+ 8 - '''255'''
+ ...
+
+[[Category:Puzzles]]</text>
+      <sha1>cdd3khhltz6o53n414b3emg9kfj9diq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Spikey</title>
+    <ns>3</ns>
+    <id>3170</id>
+    <revision>
+      <id>155168</id>
+      <parentid>10220</parentid>
+      <timestamp>2003-12-18T04:36:45Z</timestamp>
+      <contributor>
+        <username>Emperorbma</username>
+        <id>63</id>
+      </contributor>
+      <text xml:space="preserve">Welcome Spikey ! I feel ya on what you said in your usenet post. I hope for the exact same thing (interactive, free, good textbooks, although my primary interest is in science rather than math).
+
+--[[User:Karl Wick|Karl Wick]]
+
+== HSE ==
+
+Would you contribute to [[High School Extensions]]? [[User:R3m0t|r3m0t]] 20:31, 11 Dec 2003 (UTC)
+
+----
+
+Oh, you're welcome.  -- [[User:Emperorbma|Emperorbma]] 04:36, 18 Dec 2003 (UTC)</text>
+      <sha1>pfi3qg3mghr53l238vwzvwxqace1nxl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>C Programming/Preliminaries</title>
+    <ns>0</ns>
+    <id>3172</id>
+    <revision>
+      <id>2680707</id>
+      <parentid>2680651</parentid>
+      <timestamp>2014-07-12T14:12:00Z</timestamp>
+      <contributor>
+        <username>JackPotte</username>
+        <id>99248</id>
+      </contributor>
+      <comment>Rejected the last text change (by [[Special:Contributions/112.198.64.54|112.198.64.54]]) and restored revision 2579979 by 68.98.56.76</comment>
+      <text xml:space="preserve">{{C Programming/Navigation|Intro exercise|Compiling}}
+
+==Basic Concepts==
+
+Before one gets too deep into learning C syntax and programming constructs, it is beneficial to learn the meaning of a few key terms that are central to a thorough understanding of C.
+
+== Block Structure, Statements, Whitespace, and Scope==  
+
+Now we '''discuss the basic structure of a C program'''. If you're familiar with [[w:Pascal (programming language)|PASCAL]], you may have heard it referred to as a '''block-structured''' language. C does not have complete block structure (and you'll find out why when you go over functions in detail) but it is still very important to understand what blocks are and how to use them. 
+
+So what is in a '''block'''?  Generally, a block consists of executable '''statements'''.
+
+Before we say what a block is, what's a statement? One way to put it is that statements are text the compiler will attempt to turn into executable instructions, and the whitespace that surrounds them. An easier way to put it is that statements are bits of code that do things, like this:
+
+&lt;syntaxhighlight lang=&quot;c&quot;&gt;
+int i = 6; /* this declares a variable 'i', and sets it to equal 6 */
+&lt;/syntaxhighlight&gt;
+
+You might have noticed the semicolon at the end of the statement. Statements in C always end with a semicolon (;) character. Leaving off the semicolon is a common mistake that a lot of people make, beginners and experts alike! So until it becomes second nature, be sure to double check your statements!
+
+Since C is a &quot;free-format&quot; language, several statements can share a single line in the source file, like so:
+&lt;syntaxhighlight lang=&quot;c&quot;&gt;
+/* this declares the variables 'i', 'test', 'foo', and 'bar'
+    note that ONLY 'bar' is set to six! */
+int i, test, foo, bar = 6;
+&lt;/syntaxhighlight&gt;
+
+There are several kinds of statements, and you've seen some of them. Assignment (i = 6;), conditional and flow-control. A substantial portion of this book deals with statement construction.
+
+Now back to blocks. In C, blocks begin with an opening brace &lt;tt&gt;&quot;{&quot;&lt;/tt&gt; and end with a closing brace &lt;tt&gt;&quot;}&quot;&lt;/tt&gt;. Blocks can contain other blocks which can contain their own blocks, and so on.
+
+Let's show an example of blocks.
+
+&lt;syntaxhighlight lang=&quot;c&quot;&gt;
+int main(void)
+{
+    /* this is a 'block' */
+    int i = 5;
+
+    {
+        /* this is also a 'block,' separate from the last one */
+        int i = 6;
+    }
+
+    return 0;
+}
+&lt;/syntaxhighlight&gt;
+
+Blocks come in handy with readability and scope. You'll learn a little more about scope in a second.
+
+'''Whitespace''' refers to the tab, space and newline/EOL (End Of Line)&lt;!--Why can't I use the acronym element?--&gt; characters that separate the text characters that make up source code lines.  Like many things in life, it's hard to appreciate whitespace until it's gone. To a C compiler, the source code 
+
+   printf(&quot;Hello world&quot;); return 0;
+
+is the same as
+
+   printf(&quot;Hello world&quot;);
+   return 0;
+
+which is the same as 
+
+   printf (
+   &quot;Hello world&quot;) ; &lt;br&gt;&lt;br&gt;&lt;br&gt;
+   return 0;
+   
+
+The compiler simply skips over whitespace.  However, it is common practice to use spaces (and tabs) to organize source code for human readability.  You can use blocks without a conditional, loop, or other statement to organize your code.
+
+In C, most of the time we do not want other functions or other programmer's [[w:Subroutine|routines]] accessing data that we are currently manipulating. This is why it is important to understand the concept of scope.
+
+'''Scope''' describes the level at which a piece of data or a function is visible. There are two kinds of scope in C, '''local''' and '''global'''. When we speak of something being '''global''', we speak of something that can be seen or manipulated from anywhere in the program. When we speak of something being '''local''', we speak of something that can be seen or manipulated only within the block it was declared.
+
+Let's show some examples, to give a better picture of the idea of scope.
+
+&lt;syntaxhighlight lang=&quot;c&quot;&gt;
+int i = 5; /* this is a 'global' variable, anywhere in the program can access it */
+
+/* this is a function, all variables inside of it
+    are &quot;local&quot; to the function. */
+int main(void)
+{
+    int i = 6; /* 'i' now equals 6 */
+    printf(&quot;%d\n&quot;, i); /* prints a '6' to the screen, instead of the global variable of 'i', which is 5 */
+
+    return 0;
+}
+&lt;/syntaxhighlight&gt;
+
+That shows a decent example of local and global, but what about different scopes ''inside'' of functions? (you'll learn more about functions later, for now, just focus on the &quot;main&quot; part.)
+
+&lt;syntaxhighlight lang=&quot;c&quot;&gt;
+/* the main function */
+int main(void)
+{
+    /* this is the beginning of a 'block', you read about those above */
+
+    int i = 6; /* this is the first variable of this 'block', 'i' */
+
+    {
+        /* this is a new 'block', and because it's a different block, it has its own scope */
+
+        /* this is also a variable called 'i', but in a different 'block',
+            because it's in a different 'block' than the old 'i', it doesn't affect the old one! */
+        int i = 5;
+        printf(&quot;%d\n&quot;, i); /* prints a '5' onto the screen */
+    }
+    /* now we're back into the old block */
+
+    printf(&quot;%d\n&quot;, i); /* prints a '6' onto the screen */
+
+    return 0;
+}
+&lt;/syntaxhighlight&gt;
+
+== Basics of Using Functions ==
+
+'''Functions''' are a big part of programming. A function is a special kind of block that performs a well-defined task. If a function is well-designed, it can enable a programmer to perform a task without knowing anything about how the function works. The act of requesting a function to perform its task is called a '''function call'''. Many functions require a caller to hand it certain pieces of data needed to perform its task; these are called '''arguments'''. Many functions also return a value to the caller when they're finished; this is called a '''return value''' (the return value in the above program is '''0''').
+
+The things you need to know before calling a function are:
+* What the function does
+* The data type (discussed later) of the arguments and what they mean
+* The data type of the return value and what it means
+
+All code other than global data definitions and declarations needs to be a part of a function.
+
+Usually, you're free to call a function whatever you wish to. The only restriction is that every executable program needs to have one, and only one, '''main''' function, which is where the program begins executing.
+
+We will discuss functions in more detail in a later chapter, [[C Programming/Procedures and functions]].
+
+== The Standard Library ==
+
+In 1983, when C was in the process of becoming standardized, the [[w:American National Standards Institute|American National Standards Institute]] (ANSI) formed a committee to establish a standard specification of C known as &quot;ANSI C&quot;. That standard specification created a basic set of functions common to each implementation of C, which is referred to as the [[w:C standard library|Standard Library]]. The Standard Library provides functions for tasks such as input/output, string manipulation, mathematics, files, and memory allocation. The Standard Library does not provide functions that are dependent on specific hardware or operating systems, like graphics, sound, or networking. In the &quot;Hello, World&quot;, program, a Standard Library function is used &lt;code&gt;printf&lt;/code&gt; which outputs lines of text to the [[Wikipedia:standard output|standard output]] stream.
+
+{{C Programming/Navigation|Intro exercise|Compiling}}
+
+[[pl:C/Podstawy]]</text>
+      <sha1>qr4a1j0qde5sjbjo4gy2s6c1ud8ir1f</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Japanese/Grammar/Transitivity</title>
+    <ns>0</ns>
+    <id>3173</id>
+    <revision>
+      <id>2684859</id>
+      <parentid>2684858</parentid>
+      <timestamp>2014-07-26T14:02:12Z</timestamp>
+      <contributor>
+        <ip>114.146.33.190</ip>
+      </contributor>
+      <text xml:space="preserve">{{wikipedia|Transitivity (grammatical category)}}
+Many Japanese verbs have pairs of ''transitive'' and ''intransitive'' verbs. Formally, the difference between these is that a transitive verb can take on a direct object, whereas an intransitive verb can not. There are a few pairs of distinct verbs in English that correlate to this: &quot;raise&quot;/&quot;rise&quot;, &quot;fell&quot;/&quot;fall&quot; and &quot;lay&quot;/&quot;lie&quot;.
+
+This is best explained by example. Contrast the following two sentences:
+{| {{Japanese example}}
+|
+! English || Verb || Japanese
+|-
+! Transitive
+| (I) close the door. || 閉める (しめる) || ドアを閉める。
+|-
+! Intransitive
+| The door closes. || 閉まる (しまる) || ドアが閉まる。
+|-
+! colspan=&quot;4&quot; |
+|-
+! Transitive
+| The teacher starts the class. || 始める (はじめる) || 先生が授業を始める。
+|-
+! Intransitive
+| The class starts. || 始まる (はじまる) || 授業が始まる。
+|-
+! colspan=&quot;4&quot; |
+|-
+! Transitive
+| The sun melts the ice. || 溶かす（とかす） || 太陽が氷を溶かす。
+|-
+! Intransitive
+| The ice melts. || 溶ける（とける） || 氷が溶ける。
+|}
+
+The general patterns for transitive and intransitive sentences is:
+{| class=&quot;wikitable&quot;
+| &lt;span style=&quot;color:gray&quot;&gt;(&lt;subject&gt; は/が)&lt;/span&gt; || &lt;direct object&gt; を/が || &lt;transitive verb&gt;。
+|-
+| &lt;subject&gt; が || || &lt;intransitive verb&gt;。
+|}
+The topics of intransitive verbs are usually inanimate.
+
+Some parings are listed in the following table:
+
+{| border=&quot;2&quot; cellspacing=&quot;0&quot; cellpadding=&quot;4&quot; rules=&quot;all&quot; style=&quot;margin:1em 1em 1em 0; border-style:solid; border-width:1px; border-collapse:collapse; empty-cells:show&quot;
+|- style=&quot;background:#B3B7FF&quot;
+! colspan=2 | {{furi|自動詞|じどうし}} (intransitive verb)
+! colspan=2 | {{furi|他動詞|たどうし}} (transitive verb)
+|- class=&quot;hintergrundfarbe1 rahmenfarbe1&quot; 
+| align=center colspan=4 | ''-eru'' → ''-asu''
+|-
+| to go out || {{furi|出|で|る}} ''deru''
+|  {{furi|出|だ|す}} ''dasu''
+| to get out
+|-
+| to escape || {{furi|逃|に|げる}} ''nigeru''
+| {{furi|逃|にが|す}} ''nigasu''
+| to let escape
+|-
+| to melt
+| {{furi|溶|と|ける}} ''tokeru''
+| {{furi|溶|と|かす}} ''tokasu''
+| to melt sth
+|-
+| to wither
+| {{furi|枯|か|れる}} ''kareru''
+| {{furi|枯|か|らす}} ''karasu''
+| to let wither
+|- class=&quot;hintergrundfarbe1 rahmenfarbe1&quot;
+| align=center colspan=4 | ''-eru'' → ''-yasu''
+|-
+| to increase (by self) || 増える ''fueru'' || 増やす ''fuyasu'' || to increase (sth else)
+|-
+| to cool down (by self) || 冷える ''hieru'' || 冷やす ''hiyasu'' || to cool sth down
+|-
+| to grow || 生える ''haeru'' || 生やす ''hayasu'' || to grow sth
+|- class=&quot;hintergrundfarbe1 rahmenfarbe1&quot;
+| align=center colspan=4 | ''-iru'' → ''-osu''
+|-
+| to wake up || 起きる ''okiru'' || 起こす ''okosu'' || to wake sb up
+|-
+| to get off || 降りる ''oriru'' || 降ろす ''orosu'' || to offload
+|-
+| to fall || 落ちる ''ochiru'' || 落す ''otosu'' || to let fall
+|-
+| to elapse (time) || 過ぎる ''sugiru'' || 過ごす ''sugosu'' || to spend (time)
+|- class=&quot;hintergrundfarbe1 rahmenfarbe1&quot;
+| align=center colspan=4 | ''-u'' → ''-asu''
+|-
+| to decline || 減る ''heru'' || 減らす ''herasu'' || to decrease sth
+|-
+| to boil || 沸く ''waku'' || 沸かす ''wakasu'' || to bring sth to a boil
+|-
+| to dry (self) || 乾く ''kawaku'' || 乾かす ''kawakasu'' || to dry sth
+|-
+| to be glad || 喜ぶ ''yorokobu'' || 喜ばす ''yorokobasu'' || to cheer sb
+|- class=&quot;hintergrundfarbe1 rahmenfarbe1&quot;
+| align=center colspan=4 | ''-u'' → ''-eru''
+|-
+| to get open || 開く ''aku'' || 開ける ''akeru'' || to open sth
+|-
+| to reach || 届く ''todoku'' || 届ける ''todokeru'' || to deliver
+|-
+| to grow up || 育つ ''sodatsu'' || 育てる ''sodateru'' || to rear
+|-
+| to stand || 立つ ''tatsu'' || 立てる ''tateru'' || to stand up
+|- class=&quot;hintergrundfarbe1 rahmenfarbe1&quot;
+| align=center colspan=4 | ''-ru'' → ''-seru''
+|-
+| to board || 乗る ''noru'' || 乗せる ''noseru'' || to let board
+|-
+| to approach || 寄る ''yoru'' || 寄せる ''yoseru'' || to let near
+|- class=&quot;hintergrundfarbe1 rahmenfarbe1&quot;
+| align=center colspan=4 | ''-ru'' → ''-su''
+|-
+| to return || 返る ''kaeru'' || 返す ''kaesu'' || to bring back
+|-
+| to go through ||  通る ''tōru'' || 通す ''tōsu'' || to let through
+|-
+| to turn (by self) || 回る ''mawaru'' || 回す ''mawasu'' || to turn sth
+|-
+| to get repaired || 直る ''naoru'' || 直す ''naosu'' || to repair
+|-
+| to cross || 渡る ''wataru'' || 渡す ''watasu'' || to bring to the other side
+|- class=&quot;hintergrundfarbe1 rahmenfarbe1&quot;
+| align=center colspan=4 | ''-reru'' → ''-su''
+|-
+| to break up || 離れる ''hanareru'' || 離す ''hanasu'' || to separate
+|-
+| to diengage || 外れる ''hazureru'' || 外す ''hazusu'' || to release
+|-
+| to tumble || 倒れる ''taoreru'' || 倒す ''taosu'' || to overthrow
+|-
+| to become dirty || 汚れる ''yogoreru'' || 汚す ''yogosu'' || to dirty
+|-
+| to appear || 現れる ''arawareru'' || 現す ''arawasu'' || to let appear
+|-
+| to get broken || 壊れる ''kowareru'' || 壊す ''kowasu'' || to break
+|- class=&quot;hintergrundfarbe1 rahmenfarbe1&quot;
+| align=center colspan=4 | ''-aru'' → ''-eru''
+|-
+| to be decided || 決まる ''kimaru'' || 決める ''kimeru'' || to decide
+|-
+| to close || 閉まる ''shimaru'' || 閉める ''shimeru'' || to close sth
+|-
+| to gather || 集まる ''atsumaru'' || 集める ''atsumeru'' || to collect
+|-
+| to begin || 始まる ''hajimaru'' || 始める ''hajimeru'' || to begin sth
+|-
+| to be found || 見付かる ''mitsukaru'' || 見付ける ''mitsukeru'' || to find sth
+|-
+| to hang || 掛かる ''kakaru'' || 掛ける ''kakeru'' || to hang sth up
+|-
+| to be saved || 助かる ''tasukaru'' || 助ける ''tasukeru'' || to save
+|- class=&quot;hintergrundfarbe1 rahmenfarbe1&quot;
+| align=center colspan=4 | ''-waru'' → ''-eru''
+|-
+| to change (yourself) || 変わる ''kawaru'' || 変える ''kaeru'' || to change sth
+|- 
+| to join || 加わる ''kuwawaru'' || 加える ''kuwaeru'' || to add
+|- class=&quot;hintergrundfarbe1 rahmenfarbe1&quot;
+| align=center colspan=4 | ''-eru'' → ''-u''
+|-
+| to burn || 焼ける ''yakeru'' || 焼く ''yaku'' || to burn sth
+|-
+| to be sold || 売れる ''ureru'' || 売る ''uru'' || to sell
+|-
+| to come out || 抜ける ''nukeru'' || 抜く ''nuku'' || to draw out
+|-
+| to come loose || 解ける ''hodokeru'' || 解く ''hodoku'' || to loosen
+|- class=&quot;hintergrundfarbe1 rahmenfarbe1&quot;
+| align=center colspan=4 | ''weitere''
+|-
+| to be visible || 見える ''mieru'' || 見る ''miru'' || to see
+|-
+| to be audible || 聞こえる ''kikoeru'' || 聞く ''kiku'' || to hear
+|-
+| to extinguish || 消える ''kieru'' || 消す ''kesu'' || to delete
+|-
+| to enter || 入る ''hairu'' || 入れる ''ireru'' || to put in
+|-
+| to end || 終わる ''owaru'' || 終える／終わる ''oeru/owaru'' || to end sth
+|-
+| to become || なる ''naru'' || する ''suru'' || to do
+|}
+
+The rule of thumb is that intransitive verbs usually take nouns with the particles 「が」(''ga'') or 「は」(''wa'') that act as subjects, whereas transitive verbs take object nouns marked with 「を」(''o''). Transltive verbs can also take a ''ga''-subject or ''wa''-subject, although it may be ommitted. Note that some intransitive verbs can take an ''o''-object that indicates a location.  For example, 出る (&quot;to leave&quot;) can be used with a direct object that is a location from which the subject is to leave from.
+See the table below for more examples:
+{| {{Japanese example}} |
+! English || Verb || Japanese
+|-
+! Transitive with を
+| (I) took out my wallet from my bag. || 出す（だす） || 財布をカバンから出した。
+|-
+! Transitive with は and を
+| I took out my wallet from my bag. || 出す（だす） || 私は財布をカバンから出した。
+|-
+! Intransitive with を
+| (I) left home. || 出る（でる） || 家を出た。
+|-
+! Intransitive with は and を
+| I left home. || 出る（でる） || 私は家を出た。
+|}
+
+== See also ==
+
+* [http://www.mlcjapanese.co.jp/Download/JidoushiTadoushi70Pairs.swf 70 transitive/intransitive pairs with descriptive animations]
+* [http://www.guidetojapanese.org/learn/grammar/in-transitive Well-presented grammar explanation]
+
+{{BookCat|filing=deep}}</text>
+      <sha1>a3prd04p8m7rpv2ykgsurz9jsk479e5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cell Biology/Energy supply/Glycolysis</title>
+    <ns>0</ns>
+    <id>3176</id>
+    <revision>
+      <id>2063816</id>
+      <parentid>2022273</parentid>
+      <timestamp>2011-03-04T18:21:07Z</timestamp>
+      <contributor>
+        <username>Avicennasis</username>
+        <id>314063</id>
+      </contributor>
+      <minor />
+      <comment>[[WP:AWB/T|Typo fixing]], typos fixed: transfered → transferred (2) using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">=='''Introduction'''==
+
+Glycolysis, literally meaning &quot;to split sugar,&quot; is the initial step in any respiratory system. Glycolysis involves the breaking down of a sugar (generally glucose, although fructose and other sugars may be used) into more manageable compounds in order to produce energy. The net end products of glycolysis are two [[Wikipedia:Pyruvate|Pyruvate]], two [[Wikipedia:NADH|NADH]], and two ATP (A special note on the &quot;two&quot; ATP later). 
+
+Glycolysis is a process that all organisms undergo; and therefore the most fundamental and primitive of all energy production systems.
+
+==='''General Reaction'''===
+
+The general reaction form for Glycolysis is as follows: 
+
+Glucose + 2 ATP ----&gt; 2 Pyruvate + 2 NADH + 4 ATP
+
+The 4 ATP produced at the end means that there is actually a net production of 2 ATP because 2 ATP are consumed during the beginning stages of glycolysis.
+
+[[Category:Cell Biology]]
+
+=='''Simplified Explanation'''==
+
+(Soon to Come)
+
+=='''Detailed explanation'''==
+
+==Energy Investment Phase==
+
+'''Glycolysis''' occurs in the cytoplasm of a cell after glucose is ingested through the process of phagocytosis, or &quot;cell eating,&quot; in which the cell engulfs a solid compound. Once the glucose is inside the cytoplasm, one molecule of ATP splits and transfers a phosphate group to the glucose, or &quot;phosphorylates&quot; it, so that it becomes an ion which cannot leave the cell because the cell membrane is impermeable to ions. This step effectively allows cells to efficiently absorb and utilize glucose and keep any glucose molecules from escaping. The process of phosphorylation also makes the glucose chemically reactive. 
+
+Once the glucose has been phosphorylated, it is called &quot;Glucose-6-Phosphate,&quot; which will be abbreviated G6P. The G6P is rearranged into Fructose-6-Phosphate (F6P) by a protein. When the F6P is created, another ATP molecule splits and the F6P is phosphorylated by another phosphate group. This phosphate is attached to an opposite end of the F6P molecule which is now called Fructose-1, 6-Biphosphate. This is done so that the molecule will be not only more chemically reactive but so that it will split due to the tensions placed upon the molecule by the two phosphate groups. (Phosphate groups have a negative charge; this allows them to be added to create incredibly useful energy compounds, ATP among them. Because like charges repel each other, the two phosphate groups are placed in positions that allow the glucose molecule to split roughly in half, although an enzyme called aldolase is still used to perform the division.) 
+
+The Fructose-1, 6-Biphosphate, aided by aldolase, is split into Dihydroxyacetone Phosphate (DP) and Glyceraldehyde-3-Phosphate (63P), which are isomers of one another. The enzyme isomerase converts these molecules into one another. Because only 63P is used in the final stages of glycolysis, however, the reaction favors the conversion of DP into 63P. The overall effect of this reaction and the following steps is to send two molecules of 63P into the Energy Payoff phase of glycolysis.
+
+==Energy Payoff Phase==
+
+The 63P molecules then attach to an enzyme that removes two electrons from each 63P, therefore &quot;oxidizing&quot; the molecules. (Please note that the two 63P molecules do not attach to the enzyme at the same time; rather, two of the same enzyme would be used to carry out this reaction.) One electron from each 63P molecule is transferred to a hydrogen ion (H+; a hydrogen ion is also a proton) and one electron from each 63P molecule is transferred to NAD+, a cellular cofactor whose purpose is to carry electrons. The addition of electrons to the H+ and NAD+ combines the two into NADH. Because there are two 63P molecules, there are 2 NADH produced in this step. Since energy is released from the 63P molecules to allow the for the synthesis of the two NADH, some of the remaining energy attaches an inorganic phosphate group in the cell to each 63P molecule, forming 1, 3 Biphosphoglycerate (1,3B). 
+
+The two chemically reactive 1,3B molecules now lose the phosphate group that was just attached to them to an ADP, or Adenosine Diphosphate, molecule. The phosphorylation of ADP creates an ATP molecule; because there are two 1,3B molecules, two ATP are created. With this step, the initial ATP investment is repaid, and the 1,3B molecules become 3-Phosphoglycerate, or 3P. After this step is completed, another enzyme relocates the phosphate group on the 3P, changing the 3P into 2-Phosphoglycerate, or 2P. 
+
+After the 2P is created, an enzyme called enolase &quot;hydrolyzes&quot; the 2P molecules, which means that one water molecule is removed from each 2P molecule, which means that 2 H2O have been produced because there are two 2P molecules. In this particular case, the 2P is hydrolyzed so that the resulting Phosphoenolpyruvate (PEP) is very unstable and reactive.
+
+The final step of glycolysis involves a protein called BS. Upon attaching to the Pyruvate Kinase proteins, the two PEP are divided into two Pyruvate and two additional phosphate group which are used to phosphorylate two ADP molecules into two ATP molecules.
+
+In prokaryotes, this all but concludes the respiration sequence. There is one final process that is undergone, however; fermentation. The process of glycolysis coupled with the process of fermentation is known as anaerobic respiration, &quot;anaerobic&quot; literally meaning &quot;without air.&quot; There are two main types of prokaryotic fermentation: alcohol fermentation and lactate fermentation.
+
+==Fermentation==
+
+In alcohol fermentation, the two pyruvate molecules lose two oxygen molecules and one carbon molecule are separated from the pyruvate and merge to become CO2 (Carbon Dioxide). The remaining molecule is called Acetaldehyde. The Acetaldehyde is &quot;reduced&quot; (or, gains electrons) by an NADH molecule. Because it is reduced, it increases in size. In this case, the NADH loses two electrons and two hydrogen ions, or protons, which returns it to its original NAD+ status. The two electrons and protons are then transferred to the Acetaldehyde, and it changes into Ethanol. Ethanol is the &quot;alcoholic&quot; ingredient in alcoholic beverages- in other words, a waste product of bacteria is one of the principal ingredients of beer, wine, and other drinks.
+
+In lactate fermentation, no carbon dioxide is released and the pyruvate is instead reduced by the oxidation of NADH into lactate. In more quantitative terms, two protons and two electrons are removed from two NADH and are instead attached to two pyruvate molecules to create two lactate molecules. This lactate is also known as lactic acid, which happens to cause muscle pain and fatigue in animals. 
+
+One might wonder why the NADH would be reverted to its original NAD+ status, since energy was used to create it in the first place. The NADH is actually oxidized into NAD+ so that a &quot;glycolytic cycle&quot; can be preserved: if the NAD+ had not been replenished, the prokaryote would eventually run out of organic materials, and it would no longer synthesize ATP, which would mean its eventual death. 
+
+In eukaryotes, glycolysis is only the beginning of respiration. Instead of undergoing fermentation, he products of glycolysis are sent into the Krebs Cycle, explained in the next section.</text>
+      <sha1>pz45fgiuyqtl13zrth2nvjdippy2twk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Sabbut</title>
+    <ns>2</ns>
+    <id>3177</id>
+    <revision>
+      <id>155173</id>
+      <parentid>10310</parentid>
+      <timestamp>2003-12-19T09:58:53Z</timestamp>
+      <contributor>
+        <username>Sabbut</username>
+        <id>361</id>
+      </contributor>
+      <text xml:space="preserve">[[w:es:Usuario:Sabbut]]
+
+Hi everyone! I'm a college student from Spain, and I know English, French and am trying to learn Japanese ^_^ I'll take a look here every now and then and make a few edits, but I'm usually in the Spanish Wikipedia.</text>
+      <sha1>g0k7p1mznfzgfwe449kqqqaln0qlqrz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Danish/Cover</title>
+    <ns>0</ns>
+    <id>3182</id>
+    <revision>
+      <id>1393566</id>
+      <parentid>1393560</parentid>
+      <timestamp>2009-01-31T06:52:21Z</timestamp>
+      <contributor>
+        <username>Swift</username>
+        <id>33592</id>
+      </contributor>
+      <comment>formatting</comment>
+      <text xml:space="preserve">&lt;center&gt;
+
+{| CELLPADDING=&quot;10&quot;
+|
+&lt;center&gt;[[image:Flag of Denmark.svg|105px|border|Flag of Denmark]]&lt;br /&gt;
+&lt;small&gt;''Danmark''&lt;/small&gt;&lt;/center&gt;
+|
+&lt;big&gt;&lt;big&gt;Dansk ~ English&lt;/big&gt;&lt;/big&gt;&lt;br&gt;
+&lt;big&gt;Learning the Danish Language&lt;/big&gt;&lt;p&gt;
+|}
+[[Image:Ærøskøbing.JPG|600px|thumb|center|En gade i Ærøskøbing, Danmark&lt;br /&gt;A street in Ærøskøbing, Denmark]]
+&lt;/center&gt;
+
+[[Category:Danish]]</text>
+      <sha1>hhv7bj3itass8lnj5nh47tm3o8knf5o</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Discrete Mathematics/Selected problems</title>
+    <ns>0</ns>
+    <id>3183</id>
+    <revision>
+      <id>1578524</id>
+      <parentid>1578434</parentid>
+      <timestamp>2009-07-24T16:16:42Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>recat</comment>
+      <text xml:space="preserve">The problems in the texts you have seen are for you to ensure that you understand the concepts and ideas explored. They are not intended to be very difficult, but understandably they are not very challenging.
+
+Questions here are intended for you to further use the ideas you have learnt to answer some more difficult questions. Some questions are relatively straightforward, some of these questions depend on different sections of this discrete mathematics text, some of these questions are meant to be examination-style questions.
+
+Do not be discouraged by the increase in difficulty - hints are sometimes available, and you will be able to increase your problem solving skills!
+
+== Set theory questions==
+These questions depend on your knowledge of [[../Set theory/]].
+
+# We have the sets A={0, 1, 3, 4, 5, 7}, B = {2, 4, 5, 8, 9}, C = {1, 4, 9, 11, 21}. Write the elements of the set &lt;math&gt;(A\cap C)\cup B&lt;/math&gt;   Check your solution: [http://de.geocities.com/hasslerkun/SolutionCheckerEN.html?hv=96562c918a&amp;no=1]
+# Using the set identities, simplify &lt;math&gt;(A\cap B)'\cup A&lt;/math&gt;
+# (Hint provided) Prove the set &lt;math&gt;\{x | x/2 \in \mathbb{N} \}&lt;/math&gt; is not a subset of &lt;math&gt;\{y | y/4 \in \mathbb{N}\}&lt;/math&gt;
+# (Hint provided) Prove the set &lt;math&gt;\{3n+5| n \in \mathbb{N}\}&lt;/math&gt; is not a subset of &lt;math&gt;\{6k+6| k \in \mathbb{N}\}&lt;/math&gt;
+
+{{BookCat}}</text>
+      <sha1>hk6vkensexusjvo6l1xvfcp1g5le4hc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Atlas Shrugged</title>
+    <ns>0</ns>
+    <id>3193</id>
+    <revision>
+      <id>1856088</id>
+      <parentid>1797607</parentid>
+      <timestamp>2010-06-25T17:34:03Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <comment>removing deprecated DDC/LOC classifications using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">This [[w:annotated texts|annotated text]] both summarizes and analyzes [[w:Ayn Rand|Ayn Rand]]'s epic novel, [[w:Atlas Shrugged|Atlas Shrugged]]. In addition, the Appendix singles out the significance of certain Characters, Companies, Concepts, Places, Technologies, and other Things in the novel.
+
+== Analyses and summaries == 
+
+{{/Structure/}}
+
+All quotes are taken from Ayn Rand. ''Atlas Shrugged'' (New York: Penguin 1992.).
+
+The author of this book is [[w:Ayn Rand|Ayn Rand]]. Other works by Ayn Rand include [[w:The Fountainhead|The Fountainhead]], [[w:Anthem|Anthem]] and [[w:We the Living|We the Living]].
+
+== Components ==
+* [[/Characters/]]
+* [[/Companies/]]
+* [[/Concepts/]]
+* [[/Places/]]
+* [[/Technology/]]
+* [[/Things/]]
+
+== External links ==
+{{Wikipedia|Atlas Shrugged}}
+
+* [http://atlasshruggednovel.blogspot.com/ Chapter-by-chapter Analyses]
+* [http://www.yosunism.com/galt/ Notes on Galt's Speech]
+__NOTOC__ __NOEDITSECTION__
+{{Subjects|Philosophical fiction literature|Science fiction literature}}
+{{alphabetical|A}}
+{{status|25%}}</text>
+      <sha1>nbtqk0z0qix3vf382smm8rujujmi3cg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Atlas Shrugged/Synopsis/Chapters 1-5</title>
+    <ns>0</ns>
+    <id>3194</id>
+    <revision>
+      <id>2492042</id>
+      <parentid>2063125</parentid>
+      <timestamp>2013-02-25T21:21:30Z</timestamp>
+      <contributor>
+        <ip>184.90.41.171</ip>
+      </contributor>
+      <comment>/* Section 145: Part 1, Chapter 4, Section 5 */</comment>
+      <text xml:space="preserve">{{Atlas Shrugged/Synopsis}}
+
+=[[Atlas Shrugged]], Part 1=
+
+==CHAPTER ONE: THE THEME==
+
+===Section 111: Part 1, Chapter 1, Section 1===
+
+*'''Plot summary:'''
+**Walking through a crumbling downtown Manhattan, Eddie Willers wonders why the world is in such a dilapidated state.  He comes upon a bum, who asks him &quot;Who is John Galt?&quot;  
+**After an unsuccessful discussion with Orren Boyle regarding yet another late order of steel, he returns to the Taggart Transcontinental Building in order to tell James Taggart the bad news about an unfulfilled steel order and another train wreck. His intent is to make Taggart see the desperate state of Taggart Transcontinental and the importance of the Rio Norte Line, which services one of the only remaining successful businesses in the world of Atlas Shrugged. After a bunch of invectives against successful businesses, Taggart shoos him away. Walking out, Eddie passes by Pop Harper, who complains in vain that the new typewriters cannot compare with the old ones. 
+
+*'''The following [[w:Things_in_Atlas_Shrugged|Things in Atlas Shrugged]] are used as settings in this section:'''
+**Rio Norte Line
+**Associated Steel - mentioned
+**Rearden Steel
+**Phoenix-Durango
+**September 2
+
+*'''The following [[w:Places_in_Atlas_Shrugged|Places in Atlas Shrugged]] are used as settings in this section:'''
+**Downtown New York
+**The Taggart Transcontinental Building
+
+*'''The following [[w:Characters_in_Atlas_Shrugged|Characters in Atlas Shrugged]] appear in this section:'''									
+**Bum Number 1 - first and only appearance
+**Eddie Willers
+**Ellis Wyatt - mentioned
+**Hank Rearden - mentioned
+**James Taggart
+**Orren Boyle - mentioned
+**Pop Harper - first and only appearance
+
+*'''Mysteries:'''
+**The question &quot;Who is John Galt?&quot; opens the book (and ends this section, as well as the first chapter) and is repeated over and over.  Who is John Galt?  Where did the phrase come from?  What does it mean?  Where did this question originate from?
+----
+
+===Section 112: Part 1, Chapter 1, Section 2===
+
+*'''Plot summary:'''
+**Dagny Taggart is riding the [[w:Things_in_Atlas_Shrugged#Taggart_Comet|Taggart Comet]] back to New York after inspecting the [[w:Things_in_Atlas_Shrugged|Rio Norte Line]].  She hears a Brakeman whistling an unpublished piece from her favorite composer, Richard Halley, but the brakeman refuses to acknowledge this or say where he heard it.  After falling asleep and waking up, Dagny discovers the train has come to a stop at a siding.  She finds the train crew passively awaiting instructions, and gives them orders on how to proceed.  Faced with this incompetence, she decides to promote Owen Kellogg to superintendent of the Ohio Division.
+
+*'''The following [[w:Places_in_Atlas_Shrugged|Places in Atlas Shrugged]] are used as settings in this section:'''
+** [[w:Things_in_Atlas_Shrugged#Taggart_Comet|Taggart Comet]], stalled between Cleveland and New York.
+
+*'''The following [[w:Characters_in_Atlas_Shrugged|Characters in Atlas Shrugged]] appear in this section:'''
+**Young Brakeman
+**Conductor - first and only appearance
+**Engineer - first and only appearance
+**Dagny Taggart
+**Owen Kellogg - mentioned
+**Passenger Number 1 - first and only appearance
+**Passenger Number 2 - first and only appearance
+**Richard Halley - mentioned
+
+*'''Mysteries:'''
+**What was the Brakeman whistling?  
+**Did Halley write a Fifth Concerto?
+----
+
+===Section 113: Part 1, Chapter 1, Section 3===
+
+*'''Plot summary:'''
+**Dagny Taggart and the [[w:Things_in_Atlas_Shrugged#Taggart_Comet|Comet]] arrive at the Taggart Terminal.  She gets off the train inadvertently whistling the theme from [[w:Things_in_Atlas_Shrugged|Halley's Fifth Concerto]].  The Brakeman watches her tensely.
+
+*'''The following [[w:Places_in_Atlas_Shrugged|Places in Atlas Shrugged]] are used as settings in this section:'''
+**Taggart Terminal
+
+*'''The following [[w:Characters_in_Atlas_Shrugged|Characters in Atlas Shrugged]] appear in this section:'''
+**Dagny Taggart
+**Brakeman
+----
+
+===Section 114: Part 1, Chapter 1, Section 4===
+
+*'''Plot summary:'''
+**Dagny Taggart meets with James Taggart and Eddie Willers.  She informs them that she has ordered Rearden Metal rail from [[w:Things_in_Atlas_Shrugged|Rearden Steel]] to be used to replace the tracks of the [[w:Things_in_Atlas_Shrugged|Rio Norte Line]].  Later she calls Mr. Ayers, who is the exclusive publisher of Halley's works, to determine if Richard Halley ever published a Fifth Concerto.  Mr. Ayers says he has not.  Dagny meets with Owen Kellogg who tells her he is quitting for personal reasons: nothing can make him stay - not even the promotion Dagny had decided to give him.
+
+*'''The following [[w:Places_in_Atlas_Shrugged|Places in Atlas Shrugged]] are used as settings in this section:'''
+**The offices of [[w:Things_in_Atlas_Shrugged|Taggart Transcontinental]].
+
+*'''The following [[w:Characters_in_Atlas_Shrugged|Characters in Atlas Shrugged]] appear in this section:'''
+** Board of Directors - mentioned
+** Dagny Taggart
+** Eddie Willers
+** Ellis Wyatt - mentioned
+** Hank Rearden - mentioned
+** James Taggart
+** Mr. Ayers - first and only appearance
+** Orren Boyle - mentioned
+** Owen Kellogg
+
+*'''Quotations:'''
+**&quot;I'm not interested in helping anybody. I want to make money.&quot; (29) - Dagny Taggart
+
+*'''Mysteries:'''
+**What is it that makes Owen Kellogg quit a job he admits he loves? 
+----
+----
+
+==CHAPTER TWO: THE CHAIN==
+
+===Section 121: Part 1, Chapter 2, Section 1===
+
+*'''Plot summary:'''
+**Hank Rearden watches triumphantly as the first order of Rearden Metal is poured.  As he walks home, he reflects on his life and the ten years of struggle spent to produce Rearden Metal.  To celebrate his triumph, Rearden makes a [[w:Things_in_Atlas_Shrugged|Bracelet]] out of the first Rearden Metal that is poured and gives it to his wife, Lillian.  Lillian belittles the triumph this gift symbolizes and uses the occasion to ridicule her husband's sentimentalism.  She makes a big deal about Rearden attending a party she is throwing in three months time (see [[../Chapters 6-10|section]] 161).  Also at the Rearden home are his brother Philip Rearden, his mother, and a friend, Paul Larkin, who has come to warn Rearden of possible trouble in Washington.  His family insults and criticizes Rearden for the crime of being able to support them.  He tries to understand their behavior but cannot come to acknowledge the depths of their depravity.  He believes they are expressing the same concerns that he feels, but only in a different way, and that he is morally required to tolerate them because they are weaker than he is.  This is the first glimpse of the [[w:Atlas Shrugged#Sanction of the victim|Sanction of the Victim]], which is a central concept of [[Atlas Shrugged]].  The abuse Rearden receives from his family in the second part of this scene creates a stark contrast to the triumphant achievement at the mill in the first part of the scene.
+
+*'''The following [[w:Places_in_Atlas_Shrugged|Places in Atlas Shrugged]] are used as settings in this section:'''
+**[[w:Companies_in_Atlas_Shrugged|Rearden Steel]] mills in Pennsylvania.
+**Rearden's home.
+
+*'''The following [[w:Characters_in_Atlas_Shrugged|Characters in Atlas Shrugged]] appear in this section:'''
+**Gwen Ives - mentioned
+**Hank Rearden
+**Lillian Rearden
+**Mrs. Beacham - first and only mention
+**Passenger Number 3 - first and only appearance
+**Passenger Number 4 - first and only appearance
+**Paul Larkin
+**Philip Rearden
+**Rearden's Mother
+**Worker Number 1 - first and only appearance
+
+*'''Quotations:'''
+**What did they seek from him? - thought Rearden - what were they after? He had never asked anything of them; it was they who wished to hold him, they who pressed a claim on him - and the claim seemed to have the form of affection, but it was a form which he found harder to endure than any sort of hatred. He despised causeless affection, just as he despised unearned wealth.  (42)
+**He [Rearden] could not condemn them without understanding; and he could not understand. (43)
+
+----
+----
+
+==CHAPTER THREE: THE TOP AND THE BOTTOM==
+
+===Section 131: Part 1, Chapter 3, Section 1===
+
+
+*'''Plot summary:'''
+**On top of a skyscraper barroom designed to look like a lowly cellar, James Taggart, Orren Boyle, Paul Larkin, and Wesley Mouch meet to work out a deal by which they can stop Hank Rearden and the success of [[w:Technology in Atlas_Shrugged|Rearden Metal]].  Boyle wants Taggart to get his friends in Washington to regulate the distribution of iron ore, depriving Rearden of the raw materials needed to market Rearden Metal.  In exchange, Boyle agrees to get the [[w:Things_in_Atlas_Shrugged|National Alliance of Railroads]] to drive the [[w:Companies_in_Atlas_Shrugged|Phoenix-Durango]] railroad out of Colorado.  None of this is said openly or directly, of course.  Taggart also learns from Boyle that [[w:Companies_in_Atlas_Shrugged|Taggart Transcontinental's]] [[w:Things_in_Atlas_Shrugged|San Sebastian Line]] has been denuded of all but the barest equipment.
+
+*'''The following [[w:Things in Atlas Shrugged|terms]] first appears in this section:'''
+** motive power - first mentioned by James Taggart
+
+*'''The following [[w:Places_in_Atlas_Shrugged|Places in Atlas Shrugged]] are used as settings in this section:'''
+**The most expensive barroom in New York, on the 60th floor of a skyscraper, designed to look like a cellar.
+
+*'''The following [[w:Characters_in_Atlas_Shrugged|Characters in Atlas Shrugged]] appear in this section:'''
+**Bartender - first and only appearance
+**James Taggart
+**Orren Boyle
+**Paul Larkin
+**Waiter - first and only appearance
+**Wesley Mouch
+
+*'''Quotations:'''
+**&quot;When everybody agrees, when people are unanimous, how does one man dare to dissent?&quot; (49) - James Taggart
+
+*'''Pregnant Passages:'''
+**&quot;It all depends,&quot; James Taggart answered slowly, &quot;on the people who make it possible...That's what has to be known - who makes it possible.&quot;
+
+----
+
+===Section 132: Part 1, Chapter 3, Section 2===
+
+*'''Plot summary:'''
+**Recounts Dagny Taggart's childhood decision to run [[w:Companies_in_Atlas_Shrugged|Taggart Transcontinental]] and her rise in the company.  Recounts the history of the [[w:Things_in_Atlas_Shrugged|San Sebastian Line]]: Millionaire playboy Francisco d'Anconia invested money in developing the San Sebastian Mines, and James Taggart and the Board of Directors assumed they could trust d'Anconia to deliver a winner.  Dagny opposed this project and almost quit when it was approved.  James Taggart confronts Dagny and demands to know what she has done to the [[w:Things_in_Atlas_Shrugged|San Sebastian Line]].  She explains that she has moved anything of value out of Mexico so the &quot;looters&quot; would not get it when they nationalize the line.  James is scandalized by this but cannot immediately muster the courage to countermand her actions; instead, he threatens her with his impending report to the Board.
+**After leaving the office, Dagny has a conversation with the owner of a newsstand about his cigarette collection.  He says there are no new brands anymore, and only a few brands still being made.  He talks of the cigarette as a symbol of man controlling nature, holding fire in his hands.
+
+*'''The following [[w:Places_in_Atlas_Shrugged|Places in Atlas Shrugged]] are used as settings in this section:'''
+**The offices of Taggart Transcontinental
+**The Taggart Terminal.
+
+*'''The following [[w:Characters_in_Atlas_Shrugged|Characters in Atlas Shrugged]] appear in this section:'''
+**Board of Directors
+**Dagny's Father
+**Dagny Taggart
+**Eddie Willers
+**Ellis Wyatt - mentioned
+**Francisco d'Anconia - mentioned
+**Hank Rearden
+**James Taggart
+**Mrs. Nathaniel Taggart - mentioned
+**Nathaniel Taggart - mentioned
+**Newsstand Owner
+**Orren Boyle - mentioned
+
+*'''Symbolism:'''
+**The newsstand owner explicitly explains the symbolism of cigarettes: &quot;I like to think of fire held in man's hand.  Fire, a dangerous force, tamed at his fingertips.  I often wonder about the hours when a man sits alone, watching the smoke of a cigarette, thinking.  I wonder what great things have come from such hours.  When a man thinks, there is a spot of fire alive in his mind - and it is proper that he should have the burning point of a cigarette as his one expression.&quot;  This is a character explaining what cigarettes symbolize to him - it is not a use of literary symbolism.  
+**The literary symbolism of this passage is established when the newsstand owner likens the fire of a cigarette to the fire of the mind.  In Greek mythology, it was this gift of fire that raised men up.  In Atlas Shrugged, it is the achievements of the mind that raise men up.  So the disappearance of most of the old brands of cigarettes, which the newsstand owner bemoans, is symbolic of the disappearance of the men of the mind. Note that it was Prometheus who gave fire to man for which he would be forever tormented by an eagle tearing at his immortal flesh. Thus, the bringer of gifts receives punishment rather than praise. 
+----
+
+===Section 133: Part 1, Chapter 3, Section 3===
+
+*'''Plot summary:'''
+**Eddie Willers ends a long day at work by having dinner in the employees' cafeteria of the Taggart Terminal.  There he meets the Mystery Worker.  They sit together and he tells them about the problems of the day and what Dagny Taggart is going to do to fix things.  He mentions that Dick McNamara is the contractor who will lay the new rails for the [[w:Things_in_Atlas_Shrugged|Rio Norte Line]]. Eddie also reveals that Dagny does not go out, that she sits alone in her apartment listening to the music of Richard Halley. (Eddie will have many similar chats with this Mystery Worker throughout the book.)
+**The cafeteria is described as follows:  &quot;The cafeteria lay underground.  It was a large room with walls of white tile that glittered in the reflections of electric lights and looked like silver brocade.  It had a high ceiling, sparkling counters of glass and chromium, a sense of space and light.&quot; This description is in sharp contrast to the most expensive barroom in New York, from section 131, that is atop a skyscraper but made to look like a cellar.  The contrast gives the chapter title - The Top and the Bottom - its irony.
+
+*'''The following [[w:Places_in_Atlas_Shrugged|Places in Atlas Shrugged]] are used as settings in this section:'''
+**The employees' cafeteria of the Taggart Terminal.  (It is set in the basement, but unlike the bar-room that begins the chapter, the cafeteria is described as spacious, as if open to the sky.)
+
+*'''The following [[w:Characters_in_Atlas_Shrugged|Characters in Atlas Shrugged]] appear in this section:'''
+**Eddie Willers
+**Mystery Worker
+**Dagny Taggart - mentioned
+**Dick McNamara - mentioned
+**Richard Halley - mentioned
+----
+----
+
+==CHAPTER FOUR: THE IMMOVABLE MOVERS==
+
+===Section 141: Part 1, Chapter 4, Section 1===
+
+*'''Plot summary:'''
+**Dagny attempts to pinpoint the need of the world--motive power to keep it standing, movement to keep it immovable; the Taggart Transcontinental skyscraper rests not on its granite foundations, but in its engines--that's what keeps it going. With depressed thoughts, Dagny Taggart reminisces a visit to [[w:Companies_in_Atlas_Shrugged|United Locomotive Works]] to determine why they consistently fail to deliver the Diesel engines she ordered.  The President of ULW talks for hours without answering directly or saying anything of substance.  After returning to the office, Eddie Willers informs Dagny that Dick McNamara - the best contractor that can be found anywhere - has quit without explanation.  As Dagny walks home that night, she sees the depravity that passes for popular culture: books and movies that trivialize what is glorious, demonize what is moral, and exalt what is base; people who act as if pleasure were a sin that one gets away with.  Depressed, she returns home and listens to the soul tonic of Richard Halley.  While she listens, she recalls Halley's struggles as a young composer, his sudden success, and his mysterious disappearance.  She sees in the newspaper that Francisco d'Anconia has returned to New York amidst a scandal in which a married woman tries to kill her husband so she could be with Francisco, whom she identifies as her lover.  Francisco says he came to New York to witness the farce - but it is not the same farce people are led to believe in that he wants to witness.
+
+*'''The following [[w:Places_in_Atlas_Shrugged|Places in Atlas Shrugged]] are used as settings in this section:'''
+**The offices of Taggart Transcontinental
+**Offices and shops of United Locomotive Works
+**New York City in the evening
+**Dagny's apartment
+
+*'''The following [[w:Characters_in_Atlas_Shrugged|Characters in Atlas Shrugged]] appear in this section:'''
+** Chief Engineer
+** Dagny Taggart
+** Eddie Willers
+** Gilbert Vail
+** Dick McNamara - mentioned
+** Mrs. Gilbert Vail
+** President of ULW
+** Richard Halley - mentioned
+
+*'''Mysteries:'''
+**What happened to Halley and McNamara?
+
+*'''Foreshadowing:'''
+**Dagny sees a precision machine tool abandoned and decaying in the [[w:Companies_in_Atlas_Shrugged|United Locomotive Works]] factory; abandoned not because it was valueless, but because the owners could not extract value from it.  This foreshadows another discovery in an even less competent factory - a motor that is priceless, but which is left abandoned by people who could not see its value.
+----
+
+===Section 142: Part 1, Chapter 4, Section 2===
+
+*'''Plot summary:'''
+**[[w:Characters_in_Atlas_Shrugged|James Taggart]] awakes at noon, hungover, in his apartment with [[w:Characters_in_Atlas_Shrugged|Betty Pope]], with whom he is having a romanceless sexual affair.  He brags about how he is going to bring down [[w:Characters_in_Atlas_Shrugged|Dagny Taggart]] for what she did to the [[w:Things_in_Atlas_Shrugged|San Sebastian Line]].  But before he has a chance to do this, he receives a call from his man in [[w:Places_in_Atlas_Shrugged|Mexico]] telling him the line and the [[w:Things_in_Atlas_Shrugged|San Sebastian Mines]] have been nationalized, just as Dagny predicted.
+
+*'''The following [[w:Places_in_Atlas_Shrugged|Places in Atlas Shrugged]] are used as settings in this section:'''
+**The apartment of James Taggart.
+
+*'''The following [[w:Characters_in_Atlas_Shrugged|Characters in Atlas Shrugged]] appear in this section:'''
+**Betty Pope
+**Board of Directors
+**Dagny Taggart - mentioned
+**James Taggart
+**Jock Benson
+**Jules Mott
+**Liz Blane
+
+----
+
+===Section 143: Part 1, Chapter 4, Section 3===
+
+*'''Plot summary:'''
+**[[w:Characters_in_Atlas_Shrugged|James Taggart]] addresses the [[w:Characters_in_Atlas_Shrugged|Board of Directors]] after the [[w:Things_in_Atlas_Shrugged|San Sebastian Line]] is nationalized.  He takes credit for removing everything of value from [[w:Places_in_Atlas_Shrugged|Mexico]], and assures everyone that with his [[w:Places_in_Atlas_Shrugged|Washington]] connections he can get the government to demand just compensation from [[w:Places_in_Atlas_Shrugged|Mexico]].  He places the blame for his disaster on two men who played only a minor role in the fiasco. Moreover, the board he speaks to is given the comfort of knowing what excuse to give to those they represent.
+
+
+*'''The following [[w:Places_in_Atlas_Shrugged|Places in Atlas Shrugged]] are used as settings in this section:'''
+** A meeting of [[w:Companies_in_Atlas_Shrugged|Taggart Transcontinental's]] [[w:Characters_in_Atlas_Shrugged|Board of Directors]].
+
+*'''The following [[w:Characters_in_Atlas_Shrugged|Characters in Atlas Shrugged]] appear in this section:'''
+**Board of Directors
+**Clarence Eddington - Mentioned (Only Appearance)
+**James Taggart
+**Jules Mott - Mentioned
+
+----
+
+===Section 144: Part 1, Chapter 4, Section 4===
+
+*'''Plot summary:'''
+**[[w:Characters_in_Atlas_Shrugged|Orren Boyle]] meets with [[w:Characters_in_Atlas_Shrugged|James Taggart]] about the Mexican disaster.  They can't believe [[w:Characters_in_Atlas_Shrugged|Francisco d'Anconia]] was swindled out of fifteen million dollars, and they assume he must know something they don't know.  Taggart tries to make an appointment with Francisco but he refuses to see him, because Francisco finds him &quot;boring&quot;.
+
+
+*'''The following [[w:Places_in_Atlas_Shrugged|Places in Atlas Shrugged]] are used as settings in this section:'''
+**James Taggart's office.
+
+*'''The following [[w:Characters_in_Atlas_Shrugged|Characters in Atlas Shrugged]] appear in this section:'''
+**Francisco d'Anconia - mentioned
+**James Taggart
+**Orren Boyle
+**James Taggart's Secretary
+
+----
+
+===Section 145: Part 1, Chapter 4, Section 5===
+
+*'''Plot summary:'''
+**The [[w:Things_in_Atlas_Shrugged|National Alliance of Railroads]] passes the [[w:Things_in_Atlas_Shrugged|Anti-dog-eat-dog Rule]] which gives them the power to dictate which railroads can operate in which regions of the country; specifically, the railroad with seniority gets precedence in a competitive area to eliminate dog-eat-dog competition.  The rule is crafted by [[w:Characters_in_Atlas_Shrugged|Orren Boyle]] with the purpose of driving the [[w:Companies_in_Atlas_Shrugged|Phoenix-Durango]] out of [[w:Places_in_Atlas_Shrugged|Colorado]], so [[w:Companies_in_Atlas_Shrugged|Taggart Transcontinental]] would not have to compete with them any longer. (It is part of a &quot;friendship&quot; made earlier with Taggart - I do your dirty work; you do mine.)  After the vote, [[w:Characters_in_Atlas_Shrugged|James Taggart]] storms into [[w:Characters_in_Atlas_Shrugged|Dagny Taggart]]'s office and gloats about how he has ruined their competitor, Dan Conway, which in his mind is a victory over Dagny.  She calls him a rotten bastard and rushes out.
+
+
+*'''The following [[w:Places_in_Atlas_Shrugged|Places in Atlas Shrugged]] are used as settings in this section:'''
+**A meeting of the [[w:Things_in_Atlas_Shrugged|National Alliance of Railroads]]
+**The office of Dagny Taggart.
+
+*'''The following [[w:Characters_in_Atlas_Shrugged|Characters in Atlas Shrugged]] appear in this section:'''
+**Board of Directors
+**Dagny Taggart
+**Dan Conway
+**James Taggart
+**Orren Boyle
+**Mike Jones
+
+----
+
+===Section 146: Part 1, Chapter 4, Section 6===
+
+*'''Plot summary:'''
+**[[w:Characters_in_Atlas_Shrugged|Dagny Taggart]] visits [[w:Characters_in_Atlas_Shrugged|Dan Conway]] in order to try to persuade him to fight the [[w:Things_in_Atlas_Shrugged|Anti-dog-eat-dog Rule]], and to discuss morality.  [[w:Characters_in_Atlas_Shrugged|Conway]] admits the ruling is not fair, but he doesn't feel he has any right to fight the will of the majority.  He meekly resigns himself to running his railroads in [[w:Places_in_Atlas_Shrugged|Arizona]], or perhaps, pursuing reclusive pastimes such as fishing.  Conway states, &quot;I suppose somebody's got to be sacrificed.  If it turned out to be me, I have no right to complain.&quot;  This is an important passage because it is the first explicit statement of the concept of the [[w:Atlas Shrugged#&quot;Sanction of the Victim&quot;|Sanction of the Victim]]. Moreover, the term &quot;looters&quot; referring to the villain is first introduced in the context of the excuse of &quot;public welfare.&quot;
+
+*'''The following [[w:Places_in_Atlas_Shrugged|Places in Atlas Shrugged]] are used as settings in this section:'''
+** A meeting in an unspecified location, presumably in [[w:Places_in_Atlas_Shrugged|New York]].
+
+*'''The following [[w:Characters_in_Atlas_Shrugged|Characters in Atlas Shrugged]] appear in this section:'''
+** Dagny Taggart
+** Dan Conway
+** Ellis Wyatt - mentioned.
+** James Taggart - mentioned.
+
+----
+
+===Section 147: Part 1, Chapter 4, Section 7===
+
+*'''Plot summary:'''
+**[[w:Characters_in_Atlas_Shrugged|Ellis Wyatt]] appears suddenly and unexpectedly in [[w:Characters_in_Atlas_Shrugged|Dagny Taggart's]] office.  He issues an ultimatum, saying if [[w:Companies_in_Atlas_Shrugged|Taggart Transcontinental]] fails to run trains the way his business requires, his business will fail - and he will drag them down with him. Wyatt had expected a spiel of excuses, as any well-educated looter would have given. However, [[w:Characters_in_Atlas_Shrugged|Dagny]] surprises him by quietly assuring him, without excuses or explanations, that he will get the service he requires. Dagny knows full well Wyatt's basis from which to question Taggart Transcontinental's ability to service him. [[w:Characters_in_Atlas_Shrugged|Wyatt]] states, &quot;You expect to feed off me while you can and to find another carcass to pick dry after you have finished mine.&quot;  He understands that the parasites are dependent upon him, and when he issues his ultimatum, he is refusing to grant the [[w:Atlas Shrugged#&quot;Sanction of the Victim&quot;|Sanction of the Victim]].  Thus [[w:Characters_in_Atlas_Shrugged|Ellis Wyatt]] is a sharp contrast to [[w:Characters_in_Atlas_Shrugged|Dan Conway]] in the previous section.  The responses of these two men to the [[w:Things_in_Atlas_Shrugged|Anti-dog-eat-dog Rule]] represent opposite sides of the book's central conflict - one accedes to being a victim, one refuses.
+
+
+*'''The following [[w:Places_in_Atlas_Shrugged|Places in Atlas Shrugged]] are used as settings in this section:'''
+** [[w:Characters_in_Atlas_Shrugged|Dagny Taggart's]] office at [[w:Companies_in_Atlas_Shrugged|Taggart Transcontinental]].
+
+*'''The following [[w:Characters_in_Atlas_Shrugged|Characters in Atlas Shrugged]] appear in this section:'''
+** Dagny Taggart
+** Ellis Wyatt
+** Hank Rearden - mentioned.
+
+----
+
+===Section 148: Part 1, Chapter 4, Section 8===
+
+*'''Plot summary:'''
+**Dagny Taggart meets with Hank Rearden at his steel mill to tell him that, because of the Anti-dog-eat-dog Rule she will need her rails in nine months instead of twelve.  She asks Rearden if he can deliver the order in time, and he tells her he will.  Dagny acknowledges that Rearden now holds Taggart Transcontinental in his power - if he fails to deliver, the railroad might collapse.  But, Rearden needs this project to succeed as well because it will prove the value of Rearden Metal, creating new markets for him.  They stand together in silence, watching as the first load of Rearden Metal is loaded onto the trains, both knowing what this new invention represents.  The two talk about business as if one business' success creates opportunities for another, which is in sharp contrast to the talk about &quot;destructive competition&quot; that was used to justify the Anti-dog-eat-dog Rule earlier in this chapter. 
+**The first traces of Dagny and Rearden's relationship becomes apparent, as Dagny has an epiphany. &quot;If joy is the aim and the core of existence, and if that which has the power to give one joy is always guarded as one's deepest secret, then they had seen each other naked in that moment.&quot; Rearden, however, is extremely stoic, and although this realization of joy is mutual, Rearden replies with, &quot;We're a couple of blackguards, aren't we?&quot; This disturbs Dagny and foreshadows the guilt that will plague Rearden, make him believe that his pleasure is depraved, and eventually undermine Rearden's ownership of Rearden Metal. 
+**There is an apparent plot hole as to why Dagny did not buy the rail from Conway and skip the trouble of meeting a near impossible schedule. This hole is filled in later in the novel. Dagny has an argument with James Taggart, her brother, when he mentions he tries to purchase the rail from Dan Conway, who states in anger that not one foot of his rail will ever be sold to Taggart Transcontinental.  He later sells the dismembered pieces of his railroad at a huge discount to anyone - except Taggart Transcontinental.
+**The chapter ends with the extension of the metaphor that the chapter opens with: Rearden states that &quot;we are the movers,&quot; thereby transferring the strength and burden of the skyscraper of Taggart Transcontinental to earthly flesh. Though machines rust when neglected, the movers - people like Rearden and Dagny - can adapt and are a self-sufficient source of fuel. They do not give up when disasters happen - they are the immovable movers. 
+
+
+*'''The following Places in Atlas Shrugged are used as settings in this section:'''
+**Hank Rearden's office at Rearden Steel.
+
+*'''The following Characters in Atlas Shrugged appear in this section:'''
+**Dagny Taggart
+**Dan Conway
+**Ellis Wyatt
+**Hank Rearden
+**James Taggart
+**Looters - mentioned
+**Moochers - mentioned (term first introduced to describe those who would expect others to be in business purely for their convenience)
+
+----
+----
+
+==CHAPTER FIVE: THE CLIMAX OF THE D'ANCONIAS==
+
+===Section 151: Part 1, Chapter 5, Section 1===
+
+*'''Plot summary:'''
+**After the government of [[w:Places_in_Atlas_Shrugged|Mexico]] suddenly nationalizes the [[w:Things_in_Atlas_Shrugged|San Sebastian Mines]] thinking they would be a great new source of revenue for the state, they discover that the mines are completely worthless--there was never any chance of mining copper there, so Francisco d'Anconia must have known all along the project was doomed to failure.  Eddie Willers shows the news report to Dagny Taggart, who tries to figure out how this could be, and finally tells Eddie to get her an appointment with &quot;the bastard.&quot;  Eddie warns about meeting him in a way that indicates the emotional significance seeing Francisco will hold for Dagny.
+
+*'''The following [[w:Places_in_Atlas_Shrugged|Places in Atlas Shrugged]] are used as settings in this section:'''
+**Dagny's office at [[w:Companies_in_Atlas_Shrugged|Taggart Transcontinental]].
+
+*'''The following [[w:Characters_in_Atlas_Shrugged|Characters in Atlas Shrugged]] appear in this section:'''
+**Dagny Taggart
+**Eddie Willers
+**Francisco d'Anconia - mentioned
+----
+
+===Section 152: Part 1, Chapter 5, Section 2===
+
+*'''Plot summary:'''
+In this long section, Dagny walks to the [[w:Things_in_Atlas_Shrugged|Wayne-Falkland Hotel]] to confront Francisco d'Anconia.  While walking, she reminisces her childhood with Francisco and we learn why this man is so significant to her.
+**Francisco had been a childhood friend of Dagny and Eddie Willers.  He spent his childhood all over the world, because his father wanted him to know the world as his domain.  But for one month every summer he visited the Taggart estate, and his visit was the highlight of Dagny and Eddie's year.  Francisco had an unlimited capacity for joy, and he loved tackling new challenges - and he performed each superlatively, as to him, a job done, is a job done well.  Following the tradition of each d'Anconia heir in increasing the family fortune, Francisco's great goal for his life was to run [[Atlas Shrugged/Companies|d'Anconia Copper]] so well it would double in size.  He talked to Dagny about their great futures running their respective family businesses - this was the vision of the future Dagny came to expect. Yet, throughout this idyllic recollection, mention is made of James Taggart, who represents the evil in the world. Though Francisco disregards him as an irrelevant object, rather than a person, the evil which Taggart represents will be an obstacle. 
+**When Dagny was sixteen she began working as a night-operator at the Rockdale Station of [[Atlas Shrugged/Companies|Taggart Transcontinental]], much to her mother's chagrin.  Her mother was worried that Dagny showed no interest in boys, or in feminine things in general.  She decided to throw Dagny a coming out party at the Wayne-Falkland Hotel.  Dagny loved the idea, and stepped into the ball with the eager expectation of finding people who were as filled with joy as Francisco, but instead she found they were lifeless fools who believed that it was the lighting that made things brilliant, the decorations that made things happy.  In later years Dagny would discover her vision of the future was mistaken in the same way, and she would often think back to this party and wonder why people seemed incapable of living life in joy, why they lived instead with a constant undertone of fear and unhappiness.  Where were the men of joy?  Where were the men who were appropriate for life on earth?
+**That summer, when Francisco returned, he and Dagny discovered they were in love, and spent the summer going off together and making love in the cellar of an abandoned log cabin, where no one could discover them.  They kept it secret not out of guilt - they knew not that such joy could be sin - but because they felt it was too personal and too special to share with anyone else.
+**The romance continued for eight years, as Francisco rose to become head of d'Anconia Copper and Dagny finished college and began her rise at Taggart Transcontinental. Then, when she was 24, Francisco unexpectedly invited her to his suite at the Wayne-Falkland Hotel.  She was shocked to see, for the first time, pain in his face, and that he was torn by the obvious struggle within him that he could not explain to her.  They made love for what will be the last time, and Francisco was stricken with a burden unbecoming of him, a grief and bitterness at odds with his usual happiness.  He begged Dagny to help him fight him (Galt's opus) even though he's right.  He regained his composture and warned her not to be shocked or hurt by the things he will do, and told her not to wait for him.
+**After that night, she did not hear anything about Francisco for a year, and then she began to hear the stories of a new Francisco, a worthless, irresponsible playboy, with no apparent interest in his work.  At first she could not believe these things, but as the years passed and the stories piled up, she had no choice.  Time deadened her pain, but she never found another man to love -- another man for whom life was joy.
+**When she arrives at the Wayne-Falkland and confronts Francisco, she accuses him of deliberately plotting the swindle of the [[w:Things_in_Atlas_Shrugged|San Sebastian Mines]].  She tries to determine his motives, and he leads her on, eventually telling her that he is deliberately trying to destroy the producers, that his goal in the San Sebastian Mines was to waste millions of dollars, and that Ellis Wyatt will be next one to be destroyed and Taggart Transcontinental will collapse as well; he tells her that she is the one he must fight.  She could never believe he had become so corrupt, but since she does not see the full truth of his motive, she has no choice but to believe it now.
+
+*'''The following [[w:Places_in_Atlas_Shrugged|Places in Atlas Shrugged]] are used as settings in this section:'''
+** Downtown New York
+**On and around the Taggart Estate in Dagny's childhood
+**Oakdale Station
+**Abandoned log cabin
+**The Wayne-Falkland Hotel.
+
+*'''The following [[w:Characters_in_Atlas_Shrugged|Characters in Atlas Shrugged]] appear in this section:'''
+** Dagny's Father
+** Dagny's Mother
+** Dagny Taggart
+** Eddie Willers
+** A Math Professor (who comments that Francisco has too much capacity for joy, that it would be a tragedy when he finds that the world hasn't many occasion for such.)
+** A Literature Professor (who chastises Francisco that a man of his stature should not waste his time in the junkyards, but should read and become familiar with the culture of the world.)
+** Ellis Wyatt - mentioned
+** Francisco d'Anconia
+** Francisco's Father
+** Francisco's statement that he has made only 2 friends in college
+** James Taggart
+** Mrs. Gilbert Vail - mentioned
+** Nathaniel Taggart - mentioned
+** Orren Boyle - mentioned
+** Richard Halley - mentioned
+** Sebastian d'Anconia
+
+*'''Quotations:'''
+**&quot;When I die, I hope to go to heaven - whatever the hell that is - and I want to be able to afford the price of admission&quot; &quot;Virtue is the price of admission.&quot; &quot;That's what I mean, James. So I want to be prepared to claim the greatest virtue of them all - that I was a man who made money.&quot; (94) - Francisco and James Taggart
+**&quot;It is not advisable, James, to venture unsolicitated opinions. You should spare yourself the embarrassing discovery of their exact value to your listener.&quot; (97) - Francisco d'Anconia
+**&quot;Francisco, what's the most depraved type of human being?&quot; &quot;The man without a purpose.&quot; (98) - Dagny and Francisco
+**&quot;Well, I've always been unpopular in school and it didn't bother me, but now I've discovered the reason. It's an impossible kind of reason. They dislike me, not because I do things badly, but because I do them well. They dislike me because I've always had the best grades in class. I don't even have to study. I always get A's. Do you suppose I should try to get D's for a change and become the most popular girl in school?&quot; Francisco stopped, looked at her [Dagny] and slapped her face. (98)
+----
+
+{{Atlas Shrugged/Synopsis}}</text>
+      <sha1>mxrj7ls4ttajv3j7sy4oz175kehens2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

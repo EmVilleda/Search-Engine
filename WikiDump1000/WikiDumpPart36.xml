@@ -1,0 +1,1505 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Slovio</title>
+    <ns>0</ns>
+    <id>1319</id>
+    <revision>
+      <id>2539027</id>
+      <parentid>2520304</parentid>
+      <timestamp>2013-06-24T19:28:15Z</timestamp>
+      <contributor>
+        <ip>184.64.136.188</ip>
+      </contributor>
+      <text xml:space="preserve">
+'''Slovio''' is a newly-constructed language created by linguist Mark Hučko.  It is an international auxiliary language primarily created to help Slavic speakers communicate.  The grammar of Slovio is similar to Esperanto, but the vocabulary is derived from the most common words from Slavic languages, that of the largest European-language group. 
+
+It also includes many internationally-understandable words from Latin, English, French, German, and Spanish. As soon as one learns Slovio one can communicate with over 400 million people in such countries as: [[w:Poland|Poland]], [[w:Russia|Russia]], [[w:Ukraine|Ukraine]], [[w:Czech Republic|Czech Republic]], [[w:Bulgaria|Bulgaria]], [[w:Slovakia|Slovakia]], [[w:Croatia|Croatia]], [[w:Macedonia|Macedonia]], [[w:Bosnia|Bosnia]], [[w:Slovenia|Slovenia]], [[w:Kazakhstan|Kazakhstan]], [[w:Belarus|Belarus]], [[w:Lithuania|Lithuania]], [[w:Latvia|Latvia]],  [[w:Moldavia|Moldavia]], [[w:Serbia|Serbia]], [[w:Montenegro|Montenegro]] and so on. 
+
+The name of the language, '''Slovio''', comes from the old-Slavic word '''&quot;slovo&quot;''' which means '''&quot;word&quot;'''.
+
+Table of contents:
+* [[Slovio/Introduction]]
+* [[Slovio/Basics]]
+** [[Slovio/Alphabet and pronunciation]]
+** [[Slovio/Introducing yourself]]
+** [[Slovio/Asking questions]]
+
+==External links==
+
+* [http://www.slovio.com/ Official Slovio webpage]
+* [http://groups.google.com/group/slovio-jazika Slovio Google group]
+
+{{Subjects|Constructed languages}}
+{{alphabetical|S}}
+{{status|25%}}
+
+[[pl:Slovio]]
+[[sk:Slovio]]</text>
+      <sha1>8tn5cflfj5enyphnjhr5lbs4cvymnmh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:High School Mathematics Extensions</title>
+    <ns>1</ns>
+    <id>1320</id>
+    <revision>
+      <id>2092698</id>
+      <parentid>2092697</parentid>
+      <timestamp>2011-05-05T17:32:04Z</timestamp>
+      <contributor>
+        <username>Petercorless</username>
+        <id>445509</id>
+      </contributor>
+      <minor />
+      <comment>/* Context? */</comment>
+      <text xml:space="preserve">__NOTOC__
+I feel a bit ambivalent about this page; most of the content is in other sections which is not really a bad thing in itself because of the way this is presented as a extension topic thing, but I think this should be different; perhaps as a [[Mathematics extension topics]], for students at all levels, not just high school?
+
+What do we think? [[User:Dysprosia|Dysprosia]] 10:20, 29 Sep 2003 (UTC)
+
+The work on the included pages looks great to me. Lets not bother the author with strictures. If the work can be used later in other spots then so be it but redundancy is not a problem. Let him be free to write as he desires, especially now in such early stages. --[[User:Karl Wick|Karl Wick]]
+
+
+Well, Dysprosia, I think each book has its intended audience. The online book on High school extensions are aimed at 14-18 year olds. The language we'll use to write the book are more accessible to high schools student with no university-type rigour. For this reason we need new material written just for the high school students, with the appropriate theme, tone, register and whatever else. I totally disagree with what you did to the project! I will be converting it back to what it was like. A new book aimed at 14 -- 18 year olds. [[User:Xiaodai|Xiaodai]]
+
+Ok, sorrysorrysorry''sorrysorry''... [[User:Dysprosia|Dysprosia]] 06:53, 30 Sep 2003 (UTC)
+
+Ok, you are forgiven. We are trying our best to contribute. That's good to see.[[User:Xiaodai|Xiaodai]]
+
+To Whoever wrote the Crytography basic thing: I'm not familiar with the cryptography side of things, so if you wrote a section on it and it will be great.
+----
+
+Would the proof for the infinitude of primes fit in the chapter on Primes or in the chapter on Mathematical proofs? [[User:Lord Emsworth|Lord Emsworth]] 01:45, 29 Oct 2003 (UTC)
+
+Give it in the primes page.
+----
+
+== Content removed? ==
+
+Why was so much content removed from the front page? I don't mind reading that the first two chapters are easier than the rest, nor that Australian high schools may not offer enough material. What happened?
+
+:The reason why I removed them is because I didn't want people to think I'm bossy and that to edit this book they need to follow all those rules. I want this to be more rules-free, so anyone can contribute without having to worry too much about what they write or how they go about writing it.
+
+== Premise ==
+
+Hmm...not sure I understand the intended premise of this book.  Is it simply a collection of math topics not covered by the Australian school system?  Or is there a more continuous thread running through it? --[[User:Spikey|Spikey]] 19:48, 14 Dec 2003 (UTC)
+
+:This online-book is intended to be a &quot;teach yourself&quot; kind of book. High school students are its intended audience. This textbook covers topics not taught in Australian high schools, and it's not meant to be taught, it's meant to be read. &lt;br&gt;To answer your question regarding ''thread'', this book may seem disconnected, but it does have a few interesting things that are threaded e.g. Fibonacci numbers in Matrices, Infinite Processes and Mathematical programming; ''Logic'' and ''Mathematical Proofs'' come hand in hand; also Probabilities &amp; counting is connected with Infinite processes. Modular arithmetic together with Matrices will make an interesting section on cryptography. As you can see, the chapters, although independent on their own, are connected, or if you liked threaded. Is that what you meant by a ''thread''? -- [[User:Xiaodai|Xiaodai]] GMT+10:00 11:53 (15 Dec 03)
+
+::Yeah, that explains it.  Thanks!  Sounds like something I'd love to work on.  --[[User:Spikey|Spikey]] 02:04, 20 Dec 2003 (UTC)
+
+== Navigation ==
+
+Can we decide on something along the lines of [[High school extensions|Contents]] on the top of each chapter? Meanwhile though, just type HSE into the top bar and press Go - it's a redirect. [[User:R3m0t|r3m0t]] 21:57, 1 Jan 2004 (UTC)
+
+&lt;div align=&quot;center&quot;&gt;
+{| width=&quot;75%&quot;
+|style=&quot;background-color: #f2fff2; border: solid 1px #bfffbf; padding: 0.5em; font-size: small; text-align: center;&quot; valign=top|
+[[High school extensions]]&lt;br&gt;&lt;br&gt;[[HSE Primes|Primes AND Modular Arithmetic]] | [[HSE Logic|Logic]] | [[HSE Mathematical proofs|Mathematical proofs]] | [[HSE Infinity and infinite processes|Infinity and infinite processes]] | [[HSE Counting and Generating functions|Counting and Generating functions]] | [[HSE Matrices|Matrices]] | [[HSE Mathematical programming|Mathematical programming]] | [[HSE Further modular arithmetic|Further modular arithmetic]] | [[HSE Complex number|Complex numbers AND Number systems]]
+|}
+&lt;/div&gt;
+
+Too big, what can I do? Also I'll change it to blue... [[User:R3m0t|r3m0t]] [[Special:Contributions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 11:55, 26 Mar 2004 (UTC)
+
+Well, I'm going to add a simple nav... [[User:R3m0t|r3m0t]] [[Special:Contributions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 11:45, 27 Mar 2004 (UTC)
+
+== Raven paradox ==
+
+Can we fit this in somewhere? *grin* [[en:Raven paradox]] [[User:R3m0t|r3m0t]] 23:15, 3 Jan 2004 (UTC)
+:I dont know enough about it to write it, maybe someone more knowledgeable (perhaps you) could add it. [[User:Xiaodai|Xiaodai]]
+
+== &quot;Further modular arithmetic&quot;? ==
+
+What's this, and why is it on the Topics list (haven't noticed it before) without being in the Plan section? [[User:R3m0t|r3m0t]] 19:57, 4 Jan 2004 (UTC)
+
+:The modular arithmetic section didn't go far enough into this beautiful subject. So i thought an extension would be nice, just haven't written up a plan. [[User:Xiaodai|Xiaodai]] 07:59, 5 Jan 2004 (UTC)
+
+==Puzzle==
+
+Anybody tell the area of the rectangle inside this other rectangle of area 1?
+
+[[Image:diagaam.gif]] (grrr won't let me move the page)
+
+The two midpoints are, well, midpoints, and the lines are perpendicular where obvious. [[User:R3m0t|r3m0t]] [[Special:Contibutions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 10:57, 5 Feb 2004 (UTC)
+
+In short, the answer is... variable. --[[User:Lemontea|Lemontea]] 09:29, 23 Feb 2005 (UTC)
+
+
+ah hell i met that question in a math comp i put between 3/8 and 7/16, is it right???
+
+-protecter
+
+: I'm going to agree with Lemontea. It's not at all obvious what the height/width aspect ratio of the outer rectangle is. If the aspect ratio is very small (short and wide), the area of the inner rectangle could be nearly 1/2 the outer rectangle. If the aspect ratio is exactly 2:1 (tall and narrow), the inner rectangle is exactly square with area 1/4 the outer rectangle.
+: So ... I suppose we could specify the height and width of the outer rectangle, and then solve for the area for that one aspect ratio. Or we could change the question and ask for a formula for the area as a function of the height/width aspect ratio. --[[User:DavidCary|DavidCary]] ([[User talk:DavidCary|talk]]) 08:35, 12 December 2008 (UTC)
+
+== Problems with coming up with problems ==
+I've enormous trouble coming up with (hard) problems for this book. Can you guys please contribute some problems? Please. [[User:Xiaodai|Xiaodai]] 06:03, 14 Jul 2004 (UTC)
+
+== curved geometry ==
+
+sorry for asking but i really want to learn basic curved geometry, is it possible that you people can add it? or do you know any place that gives a introduction?
+
+:Sorry for not being able to answer this q for so long. I think most high school will teach that sooner or later, so i have no plan to do a chapter on it. But if later one of the chapters requires Cartesian geometry then i will add a supplementary section. So no plan to write such a section yet. 
+:If you want to learn more the topic then search google for &quot;coordinate geometry&quot;, &quot;cartesian plane&quot;, &quot;graphing functions&quot; should turn up some useful pages. [[User:Xiaodai|Xiaodai]] 8 July 2005 11:21 (UTC)
+
+
+don't you think that modulo chapter is still difficult for beginners
+-- registered in wikipedia as &quot;kushal_one&quot;
+
+Yeah. Everything can be improved. Maybe i will review the material once i have time. [[User:Xiaodai|Xiaodai]] 12:59, 29 May 2006 (UTC)
+
+== Proposals for new topics? ==
+
+After an overview of this wikibook (a very clever idea by the way), I observed that it mainly focuses on many algebraic topics. What about some extension topics more ''geometry-oriented'', interesting topics. Examples:
+-Vectors (possibly with basic elements of Vector Analysis)
+-Elementary Topological Concepts
+. I am aware that this is a ''High School'' extension wikibook on maths but I believe that if a student is interested in maths, he or she will have a better and mainly broader understanding of what mathematics exists beyond high school books by exploring such topics.
+Could anyone provide any similar proposals?
+
+:Sounds like a good idea, although it will take lots of work. Go for it if you have the time. I am too busy doing my uni studies to do anything with book until perhaps next year.[[User:Xiaodai|Xiaodai]] 02:49, 29 June 2006 (UTC)
+
+== Primes and Goldbach's Conjecture ==
+
+As with Riemann's hypothesis, a lot of theory has been built presuming Goldbach's is correct.  Some may be worth mentioning somewhere.  For example, Schinzel proof that Goldbach's conjecture implies that every odd integer
+larger than 17 is the sum of three distinct primes.--[[User:Billymac00|Billymac00]] 04:07, 14 June 2007 (UTC)
+
+== Context? ==
+
+There's a lot of information here, but personally I found it all too disjointed. It reads less like a book and more like scrap notes and collected stray thoughts. There's also a lot of information that is entirely unexplained. For instance, a large &quot;X&quot; with a bar over it. How is a student to understand what that is all about without any explanation? Step back and try to imagine it from a ''student's'' viewpoint. [[User:Petercorless|Petercorless]] ([[User talk:Petercorless|discuss]] • [[Special:Contributions/Petercorless|contribs]]) 17:31, 5 May 2011 (UTC)</text>
+      <sha1>6i2xawhkxurnm3d07qcfc1ss64hdf9a</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Discrete Mathematics/Modular arithmetic</title>
+    <ns>0</ns>
+    <id>1321</id>
+    <revision>
+      <id>2103703</id>
+      <parentid>2103592</parentid>
+      <timestamp>2011-05-23T21:00:02Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <text xml:space="preserve">We have already considered moduli and modular arithmetic back in [[../Number theory/]], however in this section we will take a more in depth view of modular arithmetic.
+
+For revision, you should review the material in [[../Number theory|number theory]] if you choose.
+
+== Simultaneous equations ==
+When we speak of simultaneous equations with relation to modular arithmetic, we are talking about simultaneous solutions to sets of equations in the form
+: ''x'' &amp;equiv; ''a''&lt;sub&gt;1&lt;/sub&gt; (mod m&lt;sub&gt;1&lt;/sub&gt;)
+: :
+: :
+: ''x'' &amp;equiv; ''a''&lt;sub&gt;k&lt;/sub&gt; (mod m&lt;sub&gt;k&lt;/sub&gt;)
+
+There are two principal methods we will consider, ''successive substitution'' and the ''Chinese remainder theorem''.
+
+=== Successive substitution ===
+The method of successive substitution is that where we use the definition of the modulus to rewrite these simultaneous equations, and then successively make substitutions.
+
+It will probably be best to motivate the idea with an example.
+
+'''Example:''' Solve 3''x'' &amp;equiv; 10 (mod 19), and ''x'' &amp;equiv; 19 (mod 21) using successive substitution.
+
+First:
+
+:3''x'' &amp;equiv; 10 (mod 19)
+Find the inverse of 3 in '''Z'''&lt;sub&gt;19&lt;/sub&gt;; 3&lt;sup&gt;-1&lt;/sup&gt;=-6, then
+: ''x'' &amp;equiv; -60 (mod 19)
+: ''x'' &amp;equiv; 16 (mod 19)
+: ''x'' = 16 + 19''j'' &amp;exist; ''j''&amp;isin;'''Z''' (*)
+
+Substitute in the second equation
+: (16+19''j'') &amp;equiv; 19 (mod 21)
+: 19''j'' &amp;equiv; 3 (mod 21)
+
+Find the inverse of 19 in '''Z'''&lt;sub&gt;21&lt;/sub&gt;; 19&lt;sup&gt;-1&lt;/sup&gt;=10
+
+
+: ''j'' = 30 (mod 21)
+
+: ''j'' = 9 (mod 21)
+
+Writing in the equivalent form
+: ''j'' = 9 + 21''k'' &amp;exist; ''k''&amp;isin;'''Z'''
+
+Substituting back j in (*)
+: ''x'' = 16 + 19(9+21''k'')
+: ''x'' = 187+399''k''
+
+Writing back in the first form
+: ''x'' &amp;equiv; 187 (mod 399)
+
+which is our solution.
+
+=== Chinese remainder theorem ===
+The ''Chinese remainder theorem'' is a method for solving simultaneous linear congruences '''when the moduli are coprime'''. 
+
+Given the equations 
+: ''x'' &amp;equiv; ''a''&lt;sub&gt;1&lt;/sub&gt; (mod m&lt;sub&gt;1&lt;/sub&gt;)
+: :
+: :
+: ''x'' &amp;equiv; ''a''&lt;sub&gt;k&lt;/sub&gt; (mod m&lt;sub&gt;k&lt;/sub&gt;)
+
+multiply the moduli together, i.e. N=m&lt;sub&gt;1&lt;/sub&gt;m&lt;sub&gt;2&lt;/sub&gt;...m&lt;sub&gt;k&lt;/sub&gt;,
+then write n&lt;sub&gt;1&lt;/sub&gt;=N/m&lt;sub&gt;1&lt;/sub&gt;, ..., n&lt;sub&gt;k&lt;/sub&gt;=N/m&lt;sub&gt;k&lt;/sub&gt;.
+
+We then set y&lt;sub&gt;i&lt;/sub&gt; be the inverse of n&lt;sub&gt;i&lt;/sub&gt; mod m&lt;sub&gt;i&lt;/sub&gt; for all i, so y&lt;sub&gt;i&lt;/sub&gt;n&lt;sub&gt;i&lt;/sub&gt;=1 mod m&lt;sub&gt;i&lt;/sub&gt;.
+
+Our solution will be
+:x &amp;equiv; a&lt;sub&gt;1&lt;/sub&gt;y&lt;sub&gt;1&lt;/sub&gt;n&lt;sub&gt;1&lt;/sub&gt;+...+a&lt;sub&gt;k&lt;/sub&gt;y&lt;sub&gt;k&lt;/sub&gt;n&lt;sub&gt;k&lt;/sub&gt;  (mod N)
+
+To see why this works consider what values x mod m&lt;sub&gt;k&lt;/sub&gt; takes. The term a&lt;sub&gt;k&lt;/sub&gt;y&lt;sub&gt;k&lt;/sub&gt;n&lt;sub&gt;k&lt;/sub&gt; mod m&lt;sub&gt;k&lt;/sub&gt; becomes equal to a&lt;sub&gt;k&lt;/sub&gt; as y&lt;sub&gt;k&lt;/sub&gt;n&lt;sub&gt;k&lt;/sub&gt;=1 mod m&lt;sub&gt;k&lt;/sub&gt;, and all the terms a&lt;sub&gt;j&lt;/sub&gt;y&lt;sub&gt;j&lt;/sub&gt;n&lt;sub&gt;j&lt;/sub&gt; mod m&lt;sub&gt;k&lt;/sub&gt; become equal to zero as when &lt;math&gt;j \neq k&lt;/math&gt; m&lt;sub&gt;k&lt;/sub&gt; is a factor of n&lt;sub&gt;j&lt;/sub&gt;.
+
+
+&lt;!-- This needs an example...I'll work out the above example on paper using CRT and post it up later --&gt;
+The Chinese Remainder Theorem is of immense practical use, as if we wish to solve an equation mod M for some large M, we can instead solve it mod p for every prime factor of M and use CRT to obtain a solution mod M.
+
+== Powers and roots ==
+This section deals with looking powers of numbers modulo some modulus. We look at efficient ways of calculating
+: ''a''&lt;sup&gt;''b''&lt;/sup&gt; (mod ''m'')
+
+If we tried to calculate this normally - by calculating ''a''&lt;sup&gt;''b''&lt;/sup&gt; and then taking the modulus - it would take an ''exorbitant'' amount of time.  However some of the theory behind modular arithmetic allows us a few shortcuts.
+
+We will look at some of these and the theory involved with them.
+
+=== Fermat's (little) Theorem ===
+Fermat's theorem allows us to see where ''a''&lt;sup&gt;''b''&lt;/sup&gt; (mod ''m'') is 1. This has an application in disproving primality.
+
+It states
+:If p is prime, and gcd(a,p)=1, then, in '''Z'''&lt;sub&gt;p&lt;/sub&gt;
+:''a''&lt;sup&gt;''p''-1&lt;/sup&gt;=1.
+
+So, for example, 13&lt;sup&gt;10&lt;/sup&gt;=1 in '''Z'''&lt;sub&gt;11&lt;/sub&gt;.
+
+=== Primitive elements ===
+If in '''Z'''&lt;sub&gt;n&lt;/sub&gt;, can we write some elements as powers of an element? This is conceivably possible. 
+
+Let's look at '''Z'''&lt;sub&gt;3&lt;/sub&gt;. 
+:2&lt;sup&gt;0&lt;/sup&gt;=1
+:2&lt;sup&gt;1&lt;/sup&gt;=2
+:2&lt;sup&gt;2&lt;/sup&gt;=1
+
+The elements {1,2} constitute in fact :'''Z'''&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;*&lt;/sup&gt;.
+
+Generally, we have
+:If ''p'' prime, then there is an element ''g''&amp;isin;'''Z'''&lt;sub&gt;p&lt;/sub&gt;&lt;sup&gt;*&lt;/sup&gt; such that every element of '''Z'''&lt;sub&gt;p&lt;/sub&gt;&lt;sup&gt;*&lt;/sup&gt; is a power of g.
+
+=== Orders ===
+We can express this idea in a different way, using the concept of the ''order''. 
+We denote the order of ''a'' &amp;isin; '''Z'''&lt;sub&gt;n&lt;/sub&gt;&lt;sup&gt;*&lt;/sup&gt; by the smallest integer ''k'' written O&lt;sub&gt;n&lt;/sub&gt;(a) such that
+: ''a''&lt;sup&gt;''k''&lt;/sup&gt;=1 in '''Z'''&lt;sub&gt;n&lt;/sub&gt;.
+
+For example, O&lt;sub&gt;n&lt;/sub&gt;(-1)=2 for all n except 2, since
+:(-1)&lt;sup&gt;2&lt;/sup&gt;=1
+
+except when n = 2, since in that field -1 = 1 and thus has order 1.
+
+'''Note''' if gcd(''a'',''n'')&amp;ne;1, that is, ''a'' &amp;notin; '''Z'''&lt;sub&gt;n&lt;/sub&gt;&lt;sup&gt;*&lt;/sup&gt;, the order ''is not defined''. 
+&lt;!-- put some more examples in --&gt;
+
+==== Properties of orders ====
+The orders obey some properties, the first of which was originally proven by Lagrange:
+
+If p prime, gcd(a,p)=1,
+* O&lt;sub&gt;p&lt;/sub&gt;(a) divides p-1
+* a is primitive iff O&lt;sub&gt;p&lt;/sub&gt;(a)=p-1
+
+=== Orders and finding primitive elements ===
+Given these facts above, we can find primitive elements in '''Z'''&lt;sub&gt;p&lt;/sub&gt; for ''p'' &gt; 2 fairly easily. 
+
+Using the above facts, we only need to check ''a''&lt;sup&gt;(''p''-1)/''p''&lt;sub&gt;i&lt;/sub&gt;&lt;/sup&gt;=''x''&lt;sub&gt;i&lt;/sub&gt; in '''Z'''&lt;sub&gt;p&lt;/sub&gt; for all ''i'', where the ''p''&lt;sub&gt;i&lt;/sub&gt; are the prime factors of ''p''-1. If any of the ''x''&lt;sub&gt;i&lt;/sub&gt; are 1, ''a'' is not a primitive element, if none are, it is.
+
+'''Example:''' Find a primitive element of '''Z'''&lt;sub&gt;11&lt;/sub&gt;.
+
+Try 2. ''p''-1 = 10 = 2 . 5
+Check:
+: 2&lt;sup&gt;10/2&lt;/sup&gt;=2&lt;sup&gt;5&lt;/sup&gt;=10
+: 2&lt;sup&gt;10/5&lt;/sup&gt;=2&lt;sup&gt;2&lt;/sup&gt;=4
+
+Neither is 1, so we can say that 2 is a primitive element in '''Z'''&lt;sub&gt;11&lt;/sub&gt;.
+
+====Problem set ====
+Given the above, answer the following. (Answers follow to even-numbered questions)
+# Is 4 primitive in '''Z'''&lt;sub&gt;13&lt;/sub&gt;?
+# Is 5 primitive in '''Z'''&lt;sub&gt;23&lt;/sub&gt;?
+# Find a primitive element of '''Z'''&lt;sub&gt;5&lt;/sub&gt;.
+# Find a primitive element of '''Z'''&lt;sub&gt;19&lt;/sub&gt;.
+=====Answers=====
+:2. Yes: In '''Z'''&lt;sub&gt;23&lt;/sub&gt;, (23-1)=2*11, and 5&lt;sup&gt;22/11&lt;/sup&gt;=2, 5&lt;sup&gt;22/2&lt;/sup&gt;=22 and then 5&lt;sup&gt;22&lt;/sup&gt;=1. No lesser base gives this.
+:4. 2. Check: (19-1) has distinct prime factors 2 and 3. In '''Z'''&lt;sub&gt;19&lt;/sub&gt;, 2&lt;sup&gt;18/2&lt;/sup&gt;&amp;ne;1 and 2&lt;sup&gt;18/3&lt;/sup&gt;&amp;ne;1 but 2&lt;sup&gt;18&lt;/sup&gt;=1 so 2 is primitive.
+
+=== Euler's totient function ===
+Euler's totient function is a special function that allows us to generalize Fermat's little theorem above. 
+
+It is defined as
+: &amp;phi;(n) = |'''Z'''&lt;sub&gt;n&lt;/sub&gt;&lt;sup&gt;*&lt;/sup&gt;|
+::=|{a&amp;isin;'''Z'''|1 &amp;le; ''a'' &amp;le; ''n'' and gcd(a,n) = 1}|
+::''that is the number of elements that have inverses in '''Z'''&lt;sub&gt;n&lt;/sub&gt;''
+
+==== Some results ====
+We have the following results leading on from previous definitions.
+# &amp;phi;(''p'') = ''p'' - 1
+# &amp;phi;(''p''&lt;sup&gt;k&lt;/sup&gt;) = ''p''&lt;sup&gt;k&lt;/sup&gt;-''p''&lt;sup&gt;k-1&lt;/sup&gt;
+# &amp;phi;(''mn'')=&amp;phi;(''m'')&amp;phi;(''n'') for gcd(''m'',''n'')=1
+# For any integer n, the sum of the totient values of each of its divisors equals n.
+In other symbols:
+&lt;math&gt;\sum_{d\ divisor\ of\ n} \phi(d) = n&lt;/math&gt;.
+
+''Proof of 2.'': There are ''p''&lt;sup&gt;k&lt;/sup&gt; elements in '''Z'''&lt;sub&gt;''p''&lt;sup&gt;k&lt;/sup&gt;&lt;/sub&gt;. The non-invertible elements in '''Z'''&lt;sub&gt;''p''&lt;sup&gt;k&lt;/sup&gt;&lt;/sub&gt; are the multiples of ''p'' and there are ''p''&lt;sup&gt;k-1&lt;/sup&gt; of them: ''p'', 2''p'', 3''p'', ..., (''p''&lt;sup&gt;k-1&lt;/sup&gt;-1)''p'', ''p''&lt;sup&gt;k&lt;/sup&gt;. Removing the non-invertible elements from the invertible ones leaves ''p''&lt;sup&gt;k&lt;/sup&gt;-''p''&lt;sup&gt;k-1&lt;/sup&gt; left. ∎
+
+
+''Corollary to 1, 2 and 3'': 
+If ''n'' has distinct prime factors (i.e. not counting powers) ''p''&lt;sub&gt;i&lt;/sub&gt; for i=1,...,r we have
+:&lt;math&gt;\phi(n)=n\prod_{i=1}^r (1-\frac{1}{p_i})&lt;/math&gt;
+For example:
+:16=2&lt;sup&gt;4&lt;/sup&gt;, so &amp;phi;(16)=(16)(1-1/2)=16/2=8
+:&amp;phi;(11)=(11)(1-1/11)=(11)(10/11)=10 
+::''(confirm from before 11 prime so &amp;phi;(11)=11-1=10)''.
+
+''Proof of 3.'': We can prove this equality using a special case of the Chinese Remainder Theorem, where the CRT is now just a system of 2 congruences, namely:
+:x == a&lt;sub&gt;1&lt;/sub&gt; (mod m)
+:x == a&lt;sub&gt;2&lt;/sub&gt; (mod n)
+
+(remember that the CRT is applicable here because m and n are assumed coprime in the equality).
+
+Note that a&lt;sub&gt;1&lt;/sub&gt; can take on m values (from 0 to m-1), and a&lt;sub&gt;2&lt;/sub&gt; can take on n values (from 0 to n-1). Also note that, for each and everyone of the m*n (a&lt;sub&gt;1&lt;/sub&gt;, a&lt;sub&gt;2&lt;/sub&gt;) tuples, there is a unique solution x that is strictly smaller than m*n. Moreover, for each x strictly smaller than m*n, there is a unique tuple (a&lt;sub&gt;1&lt;/sub&gt;, a&lt;sub&gt;2&lt;/sub&gt;) verifying the congruence system (these two assertions are a component of the Chinese Remainder Theorem: a solution to the congruence system is unique modulo m*n).
+
+With this bijective uniqueness property in mind, the proof is simple. Go through each x, from 0 to m*n-1, and show that if x is a totient of m*n (i.e., gcd (x,m*n) = 1), then a&lt;sub&gt;1&lt;/sub&gt; is a totient of m and a&lt;sub&gt;2&lt;/sub&gt; is a totient of n. Furthermore, you must also show that if a&lt;sub&gt;1&lt;/sub&gt; and a&lt;sub&gt;2&lt;/sub&gt; are totients of m and n respectively, then it follows that x must be a totient of m*n.
+
+If gcd (x,m*n) = 1, then according to Bezout's identity, there exist X and Y integers such that x*X + m*n*Y = 1. Furthermore, we have:
+
+:x = a&lt;sub&gt;1&lt;/sub&gt; + k*m
+:x = a&lt;sub&gt;2&lt;/sub&gt; + q*n
+
+Therefore, a&lt;sub&gt;1&lt;/sub&gt;*X + m*(k + n*Y) = 1, &lt;br&gt;&lt;b&gt; should this be a&lt;sub&gt;1&lt;/sub&gt;*X + m*(k*X + n*Y) = 1 ?? &lt;br&gt;&lt;/b&gt;
+so gcd (a&lt;sub&gt;1&lt;/sub&gt;,m) = 1, and therefore a&lt;sub&gt;1&lt;/sub&gt; is a totient of m. Proceed similarly to prove that a&lt;sub&gt;2&lt;/sub&gt; is a totient of n.
+
+Proving the other direction is very similar in that it requires some simple replacement algebra.
+
+So what have we shown? In the above we have shown that for every totient x of m*n, there is a unique tuple of totients of m on the one hand and n on the other hand. Furthermore, that for each tuple of totients of m on the one hand and n on the other hand, there is a unique totient of m*n. Therefore, phi(m*n) = phi(m)*phi(n).
+
+''Proof of 4.'': Let Q(g) be the set of all integers between 1 and n inclusive, such that
+gcd(x,n) = g. Q(g) is nonempty if and only if g divides n. If g doesn't divide n, then good luck
+finding an x such that g is the greatest common DIVISOR of x and n. Secondly, if x belongs to
+Q(g) for a given g, then it can't belong to another Q(...), since, if n is fixed, then
+gcd(x,n) is unique, by definition of the GREATEST common divisor. Thirdly, for all x between
+1 and n inclusive, there exists a g such that gcd (x,n) = g (in the &quot;worst&quot; case, it's 1).
+Put together, these three properties imply that the union of all the Q(g) sets (for each g a
+divisor of n), which are pairwise mutually exclusive, is the set {1,2,3,...,n}. And therefore, the sum of the cardinalities of each Q(g) equals n.
+
+Now we show that |Q(g)| = &amp;phi;(n/g).
+
+One direction: Let x be an arbitrary member of Q(g) for some g. Therefore, we have that
+gcd (x,n) = g =&gt; gcd (x/g, n/g) = 1 =&gt; x/g belongs to the set of numbers coprime to n/g (whose cardinality of course is &amp;phi;(n/g)). For diff\
+erent x's, the two values x&lt;sub&gt;1&lt;/sub&gt;/g and x&lt;sub&gt;2&lt;/sub&gt;/g are distinct. So for each x in Q(g), there is a correspondingly unique x/g in
+the set of numbers coprime to n/g.
+
+Other direction: Let x be an arbitrary member of the set of numbers coprime to n/g. This implies
+gcd (x,n/g) = 1 =&gt; gcd (xg,n) = g =&gt; xg belongs to Q(g). For different x's, the two values
+x&lt;sub&gt;1&lt;/sub&gt;g and x&lt;sub&gt;2&lt;/sub&gt;g are distinct. So for each x in the set of numbers coprime to
+n/g, there is a correspondingly unique xg in Q(g).
+
+Therefore, |Q(g)| = &amp;phi;(n/g).
+
+=== Euler's theorem ===
+We can now generalize Fermat's theorem to extend past just '''Z'''&lt;sub&gt;n&lt;/sub&gt;.
+
+Euler's theorem says: 
+: If a &amp;isin; '''Z'''&lt;sub&gt;n&lt;/sub&gt;&lt;sup&gt;*&lt;/sup&gt;, in '''Z'''&lt;sub&gt;n&lt;/sub&gt;&lt;sup&gt;*&lt;/sup&gt;,
+:: a&lt;sup&gt;&amp;phi;(''n'')&lt;/sup&gt;=1
+: equivalently if gcd(''a'',''n'')=1, 
+:: a&lt;sup&gt;&amp;phi;(''n'')&lt;/sup&gt;&amp;equiv;1 (mod ''n'')
+
+'''Example:''' Find 3&lt;sup&gt;216&lt;/sup&gt; in '''Z'''&lt;sub&gt;14&lt;/sub&gt;.
+We need to calculate firstly &amp;phi;(14)=&amp;phi;(7)&amp;phi;(2)=(7-1)(2-1)=6.
+Then write the exponent as: 216 = 6 &amp;times; 36
+So: 3&lt;sup&gt;216&lt;/sup&gt;=(3&lt;sup&gt;6&lt;/sup&gt;)&lt;sup&gt;36&lt;/sup&gt;
+
+But Euler's theorem tells us 3&lt;sup&gt;6&lt;/sup&gt;=1 in '''Z'''&lt;sub&gt;14&lt;/sub&gt; (i.e., mod 14) since 3&lt;sup&gt;&amp;phi;(14)&lt;/sup&gt;=1 in '''Z'''&lt;sub&gt;14&lt;/sub&gt; as above.
+So we have: 3&lt;sup&gt;216&lt;/sup&gt;=1&lt;sup&gt;36&lt;/sup&gt;=1.
+
+=== Calculating large powers efficiently ===
+When Euler's or Fermat's theorem fails us in the calculation of a high power, there is a way to decompose an exponent down so calculation is still easy.
+
+Let us work through an example as motivation.
+
+'''Example.''' 5&lt;sup&gt;28&lt;/sup&gt; in '''Z'''&lt;sub&gt;4&lt;/sub&gt;.
+
+First write 28 in base 2 = (11100)&lt;sub&gt;2&lt;/sub&gt; = 2&lt;sup&gt;4&lt;/sup&gt;+2&lt;sup&gt;3&lt;/sup&gt;+2&lt;sup&gt;2&lt;/sup&gt; = 16 + 8 + 4
+
+Now 5&lt;sup&gt;28&lt;/sup&gt; = 5&lt;sup&gt;16+8+4&lt;/sup&gt; = 5&lt;sup&gt;16&lt;/sup&gt; 5&lt;sup&gt;8&lt;/sup&gt; 5&lt;sup&gt;4&lt;/sup&gt; 
+Now rewrite these powers of 2 as repeated exponents:
+: (((5&lt;sup&gt;2&lt;/sup&gt;)&lt;sup&gt;2&lt;/sup&gt;)&lt;sup&gt;2&lt;/sup&gt;)&lt;sup&gt;2&lt;/sup&gt; &amp;times; ((5&lt;sup&gt;2&lt;/sup&gt;)&lt;sup&gt;2&lt;/sup&gt;)&lt;sup&gt;2&lt;/sup&gt; &amp;times; (5&lt;sup&gt;2&lt;/sup&gt;)&lt;sup&gt;2&lt;/sup&gt;
+
+When you calculate each exponent, reduce mod 4 each time.
+
+==== Problem set ====
+Given the above, calculate the following powers. (Answers follow to even-numbered questions)
+# 3&lt;sup&gt;12&lt;/sup&gt; (mod 13)
+# 2&lt;sup&gt;42&lt;/sup&gt; (mod 43)
+# 6&lt;sup&gt;168&lt;/sup&gt; (mod 30)
+# 2&lt;sup&gt;252&lt;/sup&gt; (mod 19)
+# 2&lt;sup&gt;61&lt;/sup&gt; (mod 22)
+# 8&lt;sup&gt;13&lt;/sup&gt; (mod 5)
+# 11&lt;sup&gt;10&lt;/sup&gt; (mod 11) (''Tricky!'')
+=====Answers=====
+:2. Since gcd(2,43)=1 and the exponent is one less than the modulus, use Fermat's theorem - the answer is 1
+:4. Observe that &amp;phi;(19)=18 and 18|252. 252/18=14. Decompose the exponent then as 2&lt;sup&gt;18&amp;times;14&lt;/sup&gt;=(2&lt;sup&gt;18&lt;/sup&gt;)&lt;sup&gt;14&lt;/sup&gt;=1.
+:6. Use fast exponentiation by squaring: the answer is 3
+
+{{BookCat}}</text>
+      <sha1>ic7pesa6zyhx2kp1nb2cubv5k8942tu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Electricity multiple choice question 2 diagram.png</title>
+    <ns>6</ns>
+    <id>1323</id>
+    <revision>
+      <id>636326</id>
+      <parentid>153441</parentid>
+      <timestamp>2006-11-04T10:56:12Z</timestamp>
+      <contributor>
+        <username>Theresa knott</username>
+        <id>93</id>
+      </contributor>
+      <text xml:space="preserve">Drawn by Theresa Knott
+
+{{GFDL}}
+{{Cc-by-sa-2.5}}</text>
+      <sha1>fmeelzb8uvpie3ty7eth8xx1b2szbo9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 2</title>
+    <ns>0</ns>
+    <id>1324</id>
+    <revision>
+      <id>491260</id>
+      <parentid>381440</parentid>
+      <timestamp>2006-06-18T07:36:11Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">[[Image:Electricity_multiple_choice_question_2_diagram.png]] 
+
+Look at the diagram above. What is the potential difference across the  4&amp;Omega; resistor and each of the 2&amp;Omega; resistors ?
+
+*[[GCSE Science/Electricity multiple choice practice question 2 answer 1|The 4&amp;Omega; has 6V, the 2&amp;Omega; have 3V each]]
+*[[GCSE Science/Electricity multiple choice practice question 2 answer 2|The 4&amp;Omega; has 6V, the 2&amp;Omega; have 6V each]]
+*[[GCSE Science/Electricity multiple choice practice question 2 answer 3|The 4&amp;Omega; has 3V, the 2&amp;Omega; have 6V each]]
+*[[GCSE Science/Electricity multiple choice practice question 2 answer 4|The 4&amp;Omega; has 3V, the 2&amp;Omega; have 3V each]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>dannuvo0w0ntu2lbdxjv6v6490yjq2z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 2 answer 2</title>
+    <ns>0</ns>
+    <id>1325</id>
+    <revision>
+      <id>491262</id>
+      <parentid>381439</parentid>
+      <timestamp>2006-06-18T07:36:26Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">I'm sorry but this is the wrong answer. The 4&amp;Omega; resistor gets the full 6V and the two 2&amp;Omega; resistors have to share the 6V between them because they are in '''series'''. They therefore get 3V each.
+
+[[GCSE Science/Electricity multiple choice practice question 3|On to the next question]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>aldn0v5tobseitxawtui4vrctxettfh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 2 answer 3</title>
+    <ns>0</ns>
+    <id>1326</id>
+    <revision>
+      <id>491263</id>
+      <parentid>381441</parentid>
+      <timestamp>2006-06-18T07:37:00Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">I'm sorry but this is the wrong answer. The 4&amp;Omega; resistor gets the full 6V and the two 2&amp;Omega; resistors have to share the 6V between them because they are in '''series'''. They therefore get 3V each.
+
+[[GCSE Science/Electricity multiple choice practice question 3|On to the next question]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>aldn0v5tobseitxawtui4vrctxettfh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 2 answer 4</title>
+    <ns>0</ns>
+    <id>1327</id>
+    <revision>
+      <id>491264</id>
+      <parentid>381442</parentid>
+      <timestamp>2006-06-18T07:37:00Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">I'm sorry but this is the wrong answer. The 4&amp;Omega; resistor gets the full 6V and the two 2&amp;Omega; resistors have to share the 6V between them because they are in '''series'''. They therefore get 3V each.
+
+[[GCSE Science/Electricity multiple choice practice question 3|On to the next question]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>aldn0v5tobseitxawtui4vrctxettfh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 2 answer 1</title>
+    <ns>0</ns>
+    <id>1328</id>
+    <revision>
+      <id>491261</id>
+      <parentid>381438</parentid>
+      <timestamp>2006-06-18T07:36:21Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">Well done! this is the correct answer.
+
+
+[[GCSE Science/Electricity multiple choice practice question 3|On to the next question]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>i6vv7mof2hcxpd0yr93ioxflbkik5xs</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 3</title>
+    <ns>0</ns>
+    <id>1329</id>
+    <revision>
+      <id>491265</id>
+      <parentid>381599</parentid>
+      <timestamp>2006-06-18T07:37:06Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">[[Image:Electricity multiple choice question 2 diagram.png]]
+
+This is the same circuit as in question 3. But this time you are being asked to work out the current through each resistor.
+
+*[[GCSE Science/Electricity multiple choice practice question 3 answer 1|The 4&amp;Omega; resistor has '''1.5A''' and the 2&amp;Omega; resistors each have '''3A''']]
+*[[GCSE Science/Electricity multiple choice practice question 3 answer 2|The 4&amp;Omega; resistor has '''1.5A''' and the 2&amp;Omega; resistors each have '''1.5A''']]
+*[[GCSE Science/Electricity multiple choice practice question 3 answer 3|The 4&amp;Omega; resistor has '''3A''' and the 2&amp;Omega; resistors each have '''3A''']]
+*[[GCSE Science/Electricity multiple choice practice question 3 answer 4|The 4&amp;Omega; resistor has '''3A''' and the 2&amp;Omega; resistors each have '''1.5A''']]
+
+[[Category:GCSE Science]]</text>
+      <sha1>s3bg84k1tioi72gjkpi08f9orj7xirg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Botany</title>
+    <ns>1</ns>
+    <id>1330</id>
+    <revision>
+      <id>2257358</id>
+      <parentid>766841</parentid>
+      <timestamp>2012-01-27T07:40:22Z</timestamp>
+      <contributor>
+        <ip>119.152.222.23</ip>
+      </contributor>
+      <comment>/* anatomy */ new section</comment>
+      <text xml:space="preserve">Marshman, what do you think if we classify this page into a textbook instead of a study guide for the sake of listing it on the front page ? Even though it is a study guide format in terms of brevity, it isn't a study guide in the sense of notes relating to another book. How can we classify these different things ? Your comments plz. --[[User:Karl Wick|Karl Wick]]
+:I certainly have no problem either way.  I see the Study Guide as a way to eventually get to a textbook, and it is a Guide only in the sense that it is meant to guide one through Wikipedia; could, of course supplement any other text books, but is not a guide specific to any other text.  It could be a &quot;Botany text in formation&quot;. I would keep the title the same for now, just because the sense of a guide to Wikipedia articles is presently the central concept. But could move it to Science Books and I woill rethink the title - [[User:Marshman|Marsh]] 00:11, 30 Sep 2003 (UTC)
+
+== Need to correct chapter link text ==
+
+The chapter links on each page show two chapter 12's.
+:You are right, but I can no longer recall how to get to that page. Will take some reasearch to fix. - [[User:Marshman|Marsh]] 19:08, 23 Sep 2004 (UTC)
+
+== Very nice book ==
+
+I like your book very much! The chapters starting from 7 need to be adjusted (chapter numbers on the pages don`t fit the number of the contents). I fixed some chapter renumbering in chapters 4 and 5. --[[User:Andreas Ipp|Andreas Ipp]] 22:15, 11 Jan 2005 (UTC)
+:Thanks.  I did add in some chapters, and that required chapter number changes.  I guess I did not catch them all. Really appreciate your attention to such details - [[User:Marshman|marsh]] 18:34, 12 Jan 2005 (UTC)
+
+== good sources ==
+
+Where can we find good public domain sources for references?
+I am not even a graduate student, so I do not have too much credability in things I say just out of my head, I usually type the term I'm looking for information on with the term &quot;.gov&quot; into google to see if nasa or the FWS have anything to say about it. 
+
+http://www.biocrawler.com/ is a biology wiki, but they aren't especially in the habit of having public domain sources.
+
+Of course, wikipedia is a fantastic source. - [[User:Lotusduck|Lotusduck]] 02:01, 4 November 2005 (UTC)lotusduck
+:I'm not sure what your question is.  Are you looking for sources (references) to back up things that you &quot;know&quot; and want to write about at Wikibooks? Although sources are always a great addition to facts you provide, they are not absolutely necessary.  The quality of your writing is the real test.  If you introduce &quot;facts&quot; that others then question, be prepared to provide outside sources for the information, but those sources can typically be as simple a textbook. You still may lose an &quot;argument&quot;, but most of what you contribute is not going to be questioned heavily (but may be edited) unless you are a complete flake 8^) - [[User:Marshman|marsh]] 04:16, 4 November 2005 (UTC)
+
+==Botany Introduction Botany merger==
+This isn't worth merging, just junk it, it doesn't contain any really useful info, and is hopelessly local-POV biased - [[User:82.39.130.135|82.39.130.135]] 23:29, 22 August 2006 (UTC)
+
+== secret wishes ==
+
+I have always dreamed that when this book is &quot;finished&quot; a version of it will be frozen (while leaving this version still wiki format) and certified, backed by some university like ordinary textbooks are. Then schools could print this book royalty free instead of going the extra costs of publishers. That frozen version would be the &quot;first edition&quot; and whenever a professor decided that enough new, good changes had occured on this botany wikibook, a new version would be frozen and offered for printing that would be the second printing, similar to new editions of textbooks. 
+In many ways the wiki format is a great learning tool. In other ways it is not. If students were all asked to copy a lab from this wikibook on a large scale, it would have to be 100% reliable 100% of the time. But then that reliability and un-chang-ability would also have negative consequences. I think that some day soon we can have it both ways. We can have the learning benefits of a hard copy and of a wiki for botany. 
+Thank you. [[User:128.101.70.97|128.101.70.97]] 15:57, 26 September 2006 (UTC)
+
+::Why not do it now?
+You just need to make a downloadable pdf version with a date and update it as changes occur.
+There is already an icon for this [[image:Exquisite-print printer.png]]
+
+[[User:Rozzychan|Rozzychan]] 23:39, 25 February 2007 (UTC)
+
+== anatomy ==
+
+== Heading text ==</text>
+      <sha1>exa2md42w1cx5rwf4ruhytz4ikko06r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>United States Government/Civics Glossary</title>
+    <ns>0</ns>
+    <id>1332</id>
+    <revision>
+      <id>695821</id>
+      <parentid>541624</parentid>
+      <timestamp>2006-12-24T15:30:16Z</timestamp>
+      <contributor>
+        <ip>67.139.62.77</ip>
+      </contributor>
+      <comment>Spelling correction</comment>
+      <text xml:space="preserve">{{USConstitionAndGovtTOC}}
+----
+'''Act''': A Bill that has been passed by Congress and become law. (Note: &quot;Act&quot; refers to a bill that has become law. &quot;Act of Congress&quot; refers to a bill passed by Congress but has not yet become law. &quot;Act of the Senate&quot; or &quot;Act of the House&quot; refers to a bill passed by one house only.)
+
+'''Amendment''': A change to a Constitution or to a bill.
+
+'''Anti-Federalist''': One who opposed the ratification of the Constitution.
+
+'''Bill''': Proposed legislation.
+
+'''Bicameral''': Having two branches of a legislature. 
+
+'''Bill of Rights''': The first ten amendments to the United States Constitution.
+
+'''Checks and Balances''': A system whereby the different branches of government balance each other so that one branch does not gain too much power.
+
+'''Commerce''': Trade or exchange of goods and money. 
+
+'''Concurrent Powers''': Powers shared by both the federal and the state governments.
+
+'''Delegate''': A representative entitled to exercise powers on behalf of a government, such as a in a convention.
+
+'''Equal Representation''': System under which all political entities such as states receive representation in the legislature equal to each other.
+
+'''Executive Branch''': The branch of government in charge of enforcing and executing the laws.
+
+'''Federalism''': System under which a national government as well as regional governments (the states) have certain powers of legislation.
+
+'''Federalist''': One who supported the ratification of the Constitution.
+
+'''Impeachment''': An accusation made by a legislature, or part of legislature, against an executive or judicial officer. The Impeachment is only the accusation and does not indicate guilt, which is determined at a trial in the other part of the legislature.
+
+'''Judicial Branch/ Judiciary''': The branch of government in charge of interpreting the laws; the courts.
+
+'''Judicial Review''': The power of a court to rule laws unconstitutional and therefore null and void.
+
+'''Legislative Branch/ Legislature''': The branch of government in charge of making the laws and overseeing their enforcement.
+
+'''Probable Cause''': Cause (for an action such as searching a home) that has a reasonable basis.
+
+'''Proportional Representation''': System under which a political entity such as a state recieves representation in the legislature in proportion with its population.
+
+'''Quarter''': To provide room and board for. Usually used in the context of boarding soldiers.
+
+'''Ratification''': 1. the approval of a constitution or an amendment by a state through a legislature, convention, or other method. 2. the executive act of approving a treaty. In the US, the President may ratify treaties, but only with the advice and consent of two-thirds of the Senate.
+
+'''Subpoena''': A court order commanding a person or entity either to surrender documents to the court or to testify.
+
+'''Veto''': The rejection of a bill by the executive.
+
+----
+{{USConstitionAndGovtTOC}}
+
+[[Category:United States Government]]</text>
+      <sha1>qcd2bsdydiasecpbebt79tbhf6i2eoi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Lord Emsworth</title>
+    <ns>3</ns>
+    <id>1333</id>
+    <revision>
+      <id>1150435</id>
+      <parentid>1150297</parentid>
+      <timestamp>2008-03-29T20:09:39Z</timestamp>
+      <contributor>
+        <username>Neoptolemus</username>
+        <id>77154</id>
+      </contributor>
+      <minor />
+      <comment>/* UK Constitution and Government: Contents/List of British monarchs */ fix link</comment>
+      <text xml:space="preserve">Hail, Lord Emsworth! Welcome to Wikibooks! I noticed your page [[Glossary]] for either American history or civics - can you rename it to a more book-scoped title, such as [[American history:glossary]] or [[Glossary of American History terms]]? Many other books will probably have glossaries, too, and they would conflict if they were all called [[Glossary]]. [[User:Geoffrey|Geoffrey]] 23:23, 29 Sep 2003 (UTC)
+
+Lord Emsworth, keep up the good work and I hope you find as much fun and satisfaction here as I do. --[[User:Karl Wick|Karl Wick]]
+
+Wow! I'm gone for just a few days and suddenly the US History text is full of writing. :) Well, glad to have you on board. I hope to do some stuff in bits and pieces as I get free time(I'm a student so that's essentially never) I guess now I'll have to contribute something now. :) Anyways, nice work. [[User:Etothex|Etothex]] 05:42, 4 Oct 2003 (UTC)
+
+==US Constitution and Government ==
+I wanted to read the whole [[US Constitution and Government|book]] before commenting but that may take a while and I've read a good part. Its exciting for a person to get up so much content so quickly, and have it be relatively good too. Could you add a bit more content to [[The United States under Great Britain]] ? The lead paragraph gives a lot of leads that could use followup. Eventually I would like to get some pictures up there .. there has to be some public domain imagery that we could include of Philadelphia, the Continental Congress, etc. But if you can flesh out a bit of content there I think we can declare the book essentially &quot;done.&quot; 
+
+As for further work, I see you are active on the [[US History]] page as well as [[French]]. If you subscribe to the wikibooks email list then I suggest you ask the group what you could work on in terms of new material. It would help to know what your other areas of expertise are. I prefer personally to work on what is fun for me. 
+
+Oh yeah, I thought you should have a user page, so I wrote anything that sounded like it meant something even if it really didnt mean anything. I am guessing that you use Internet Explorer, which is technically property of Micro$oft and just lent to you for use. Its what I use until I get my Linux box back from my friends house, and figure out why it isnt connecting to the 'Net. --[[User:Karl Wick|Karl Wick]]
+
+Dude, can I pay you ? You deserve to be payed. --[[User:Karl Wick|Karl Wick]]
+
+==US History standards==
+Lord E, what would you think about using a set of official high school standards from CA for a reference for this book ? We are in touch with a schools rep out there and he is eager to get these books in use in the schools there. He is convinced that we can have the books inthe hands of &quot;hundreds of millions&quot; of students if we adhere to the CA standards. I have not compared them to the AP standards that you are using but I will give you the link. What do you think ?
+
+Here is the link for 12th grade US History.
+
+http://www.cde.ca.gov/cdepress/Hist_SocSci_Stnd.pdf
+
+Here is also a more general standards-related document. My contact person says that the particularly applicable pages are 28 and 155 as they talk about history.
+
+http://www.cde.ca.gov/cdepress/hist-social-sci-frame.pdf
+
+--[[User:Karl Wick|Karl Wick]]
+
+:I don't know what the CA content standards say, but I know the AP is made to be as &quot;generic&quot; as possible, because the 'US History 101' classes aren't the same at all universities, so they need to be applicable to all of their syllabuses(syllabi?) Plus they have AP US History classes in CA so I assume the AP syllabus is more 'inclusive' of topics than the CA standards. [[User:Etothex|Etothex]] 02:00, 11 Oct 2003 (UTC)
+
+:We have an associate who is working diligently to get one of our textbooks accepted for use in the CA schools. If we follow the CA standards he can help us get our foot in the door in a public way. --[[User:Karl Wick|Karl Wick]]
+
+Lord Emsworth, what parts do you hail from ? Are you a grad student or just very well informed on topics of history ? Its obvious that you know your stuff inside and out. --[[User:Karl Wick|Karl Wick]]
+
+----
+==Quel jour est-il?==
+Hello, I'm french, and I was reading [[French Lesson 3]] you wrote.
+
+You wrote :
+  Quel jour est-il?  	What day is it?
+and then :
+  Quel jour sommes-nous? is equivalent to Quel jour est-il?.
+
+While I'm quite sure that : '''Quel jour sommes-nous?''' is the only right sentence.
+
+You can notice that '''Quel jour est-il venu ?''' is correct however. (form ''être'' + ''participe passé'')
+
+  --[[User:AGiss|AGiss]] 22:59, 19 Oct 2003 (UTC)
+
+:While you are French, I am not. I remember being taught ''Quel jour est-il?'' Perhaps this is not proper usage any longer, or my references were mistaken. Feel free to correct the sentences in error. Thank you for pointing this out. [[User:Lord Emsworth|Lord Emsworth]] 23:30, 19 Oct 2003 (UTC)
+
+----
+
+If you want to be a Wikibooks admin/sysop, reply at [[Wikibooks:Requests for adminship]], as you have been nominated there. Becoming an admin would mean that you can edit all of the protected pages (which I don't think there are any of yet), and delete nonsense pages (which I think there only has been one of so far). [[User:Cyp|Cyp]] 23:16, 20 Oct 2003 (UTC)
+----
+Hi Lord Emsworth, you seem to be making fewer edits lately. Care for a bit of virtual lemonade to help regain your forces ? You are one of the &quot;power users&quot; who has already done a lot. You singlehandedly wrote two of the history books and have done a lot of work on the Elements of Style. I saw once where some &quot;anonymous coward&quot; wrote a disparaging comment about some historical trivia, but don't let that get to you. You have laid the groundwork for books that will be used some day by thousands of people around the globe. [[User:Karl Wick|Karl Wick]]
+----
+Hi Lord Emsworth. You're Constitution/Government book is great, and I'm using it as a model printed book. As I'll be typesetting it, I'd like to know your real name, so I credit you-- I presume to call you a &quot;lead editor&quot;, just for technicalty sake. You can e-mail me at beaubeaver@yahoo.co.uk, or tell me at [[w:user:zanimum]] Again, great work on your books! - [[user:zanimum]]
+
+----
+Hi, you're now a [[Wikibooks:Administrators|sysop]]!  Congratulations are in order.  [[User:Pakaran|Pakaran]] 02:30, 7 Feb 2004 (UTC)
+
+----
+He lives ! --[[User:Karl Wick|Karl Wick]]
+
+
+
+== [[UK Constitution and Government/Contents/List of British monarchs]] ==
+
+Great work on UK Consitution book. Are you planning to create the pages about each monarch linked in the above page? If not then I will replace them with links to wikipedia as at the moment there is just a bunch of red links and a few pages of nonsense. Thanks, -- [[meta:User:Mattrix|mattrix]] 14:37, 7 Feb 2005 (UTC)
+
+== Simple Eng. Wikibooks needs an admin ==
+
+I've just started working on Wikibooks in Simple English. We need to make someone an administrator. With very few other users (at the moment!) how can I become one and so start getting the project running? Any help would be great. Cheers [[User:Charlie123|Charlie123]] 14:20, 22 Jun 2005 (UTC)
+
+== Wikilinks ==
+
+Sire, I'm reading your UK government wikibook and I notice there's few or none wikilinks. May I wikilink it? --[[User:San Martin|San Martin]] 17:41, 26 July 2005 (UTC)
+
+== image copyright ==
+
+
+== Copyright problem with [[:Image:1919 US Woman Suffrage.PNG]] ==
+{{mbox|type=warning|msg=
+Thanks for uploading [[:Image:1919 US Woman Suffrage.PNG]]. The [[w:Wikimedia Foundation|Wikimedia Foundation]] is very careful about what Wikibooks includes because of [[w:United States copyright law|copyright law]], and requires that we maintain a strict [[Wikibooks:Copyright|copyright policy]]. [[:Image:1919 US Woman Suffrage.PNG]] and other files you uploaded may soon be deleted unless we can determine the copyright holder and status. The copyright holder is usually the creator, the creator's employer, or the last person who was transferred ownership rights. Please take the time to read [[Wikibooks:Media]] to learn more about what copyright information is required to satisfy our requirements and remember to include this important information for every file that you upload in the future as well. If you have any questions, feel free to contact me, or ask another Wikibookian at the [[Wikibooks:Study help desk|help desk]].
+
+See {{UserImages}} for a complete list of your uploads which may get deleted soon.&lt;br/&gt;Thank you. {{{2|}}}}}
+ --[[User:Derbeth|Derbeth]] [[User talk:Derbeth|&lt;sup&gt;talk&lt;/sup&gt;]] 10:00, 30 November 2005 (UTC)
+
+== De-Adminship vote. ==
+
+A vote is being held to remove your sysop privileges.  The basis for this vote is lack of use of these privileges.  You may want to participate at [[Wikibooks:Requests_for_adminship#Lord_Emsworth_.28_talk_.7C_email_.7C_contribs_.29]].  See also the discussion at [[Wikibooks:Staff_lounge#Removing_Sysop_Status]]. --[[User:JMRyan|JMRyan]] 22:43, 17 February 2006 (UTC)
+
+== Your De-Adminship ==
+
+Hello. I would like to inform you that you will have your sysop rights removed here on 1 Nov 2006 due to inactivity. If you would like to discuss the matter, please see [[WB:RFA]]. You can re-apply for adminship at a later date if you wish. Thanks. -[[User:Withinfocus|&lt;font color=&quot;#000000&quot;&gt;'''within'''&lt;/font&gt;]][[User talk:Withinfocus|&lt;font color=&quot;#7A7A7A&quot;&gt;'''focus'''&lt;/font&gt;]] 21:30, 1 October 2006 (UTC)
+
+
+== Copyright problem with [[:Image:WilliamI.JPG]] ==
+
+Thanks for uploading [[:Image:WilliamI.JPG]]. The [[w:Wikimedia Foundation|Wikimedia Foundation]] is very careful about what Wikibooks includes because of [[w:United States copyright law|copyright law]], and requires that we maintain a strict [[Wikibooks:Copyright|copyright policy]]. [[:Image:WilliamI.JPG]] and other files you uploaded may soon be deleted unless we can determine the copyright holder and status. The copyright holder is usually the creator, the creator's employer, or the last person who was transferred ownership rights. Please take the time to read [[Wikibooks:Media]] to learn more about what copyright information is required to satisfy our requirements and remember to include this important information for every file that you upload in the future as well. If you have any questions, feel free to contact me, or ask another Wikibookian at the [[Wikibooks:Study help desk|help desk]]. Thank you.
+
+See {{UserImages}} for a complete list of your uploads which may get deleted soon.
+
+'''&amp;ndash; [[User:Mike.lifeguard|&lt;font color=&quot;Indigo&quot;&gt;Mike.lifeguard&lt;/font&gt;]]''' | &lt;sup&gt;[[User talk:Mike.lifeguard|&lt;font color=&quot;Indigo&quot;&gt;talk&lt;/font&gt;]]&lt;/sup&gt; 00:40, 21 September 2007 (UTC)</text>
+      <sha1>n4rypeiqt7b6gsndd2uq05epo7isw7v</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>The Once and Future King/The Sword in the Stone/Chapter 21</title>
+    <ns>0</ns>
+    <id>1336</id>
+    <revision>
+      <id>2671120</id>
+      <parentid>2671119</parentid>
+      <timestamp>2014-06-07T21:25:36Z</timestamp>
+      <contributor>
+        <username>Xania</username>
+        <id>40302</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/72.81.252.10|72.81.252.10]] ([[User talk:72.81.252.10|talk]]) to last version by Xania</comment>
+      <text xml:space="preserve">[[The Once and Future King]] - Book I: [[The Sword in the Stone]] - '''Chapter 21'''
+
+==Plot summary==
+[[Arthur (OaFK)|Wart]] is sad, because Kay is being made a knight, and he will be only Kay's squire. [[Merlyn (OaFK)|Merlyn]] suggests that the Wart learn something, mentioning on the side the worthlessness of education to a laborer. As he warns that this is the last use of his magic, he turns Wart into a badger. Wart picks on a hedgehog and threatens to eat it, and the hedgehog asks for mercy by singing. Finally, when the hedgehog reveals he is one that was in Merlyn's hut, the Wart agrees to let the hedgehog go. Then, the Wart goes to see Badger, who tells a myth about how, when God was about to shape the embryos of the species, most animals requested specialization of their parts to help them. Man, though, said he would settle for the embryo shape, because God must have some plan in His mind. After God reveals man has solved the riddle, he gives them dominion over the other animals. Badger continues, questioning Man's ability at this leadership; he mentions he can only think of seven species that war against themselves. When the Wart protests, he asks, &quot;Which did you like best, the ants or the wild geese?&quot;
+
+==Analysis==
+'''Animals as governments''' - Badger ends by asking Wart whether he preferred the species that made war or the species that kept peace. Though Wart sees war as possibly noble, Badger reminds him that peace can accomplish much more. Badger also questions if humanity really holds the mankind is taken as an animal species.
+
+[[Category:The Once and Future King]]</text>
+      <sha1>kqmcw9n7tl7v0se4wiw8k0juir0jrkz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>The Once and Future King/Templates</title>
+    <ns>0</ns>
+    <id>1337</id>
+    <revision>
+      <id>1961030</id>
+      <parentid>1799577</parentid>
+      <timestamp>2010-10-28T20:20:20Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>Reverted edits by [[Special:Contributions/90.231.234.193|90.231.234.193]] ([[User talk:90.231.234.193|talk]]) to last revision by [[User:Jguk|Jguk]]</comment>
+      <text xml:space="preserve">__NOTOC__
+'''For a chapter:'''
+
+[[The Once and Future King]] - Book N: [[../The Book Title/]] - '''Chapter X'''
+
+==Plot summary==
+[[../Arthur/]] does something.
+
+==Analysis==
+'''Topic''' - 
+----
+&lt;pre&gt;&lt;nowiki&gt;
+[[The Once and Future King]] - Book N: [[../The Book Title/]] - '''Chapter X'''
+
+==Plot summary==
+[[../Arthur/]] does something.
+
+==Analysis==
+'''Topic''' - 
+&lt;/nowiki&gt;&lt;/pre&gt;
+----
+'''For a book:'''
+
+''[[The Once and Future King]]'' - Book N: '''''The Book Title'''''
+
+Book N covers topics with some [[../Character|characters]].
+
+*[[../Book N, Chapter X|Chapter X]]
+----
+&lt;pre&gt;&lt;nowiki&gt;
+''[[The Once and Future King]]'' - Book N: '''''The Book Title'''''
+
+Book N covers topics with some [[Character (OaFK)|characters]].
+
+*[[Book N, Chapter X (OaFK)|Chapter X]]
+&lt;/nowiki&gt;&lt;/pre&gt;
+
+[[Category:The Once and Future King]]</text>
+      <sha1>mfmotvv235df3795zoepgl8wchhtm8q</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>High School Mathematics Extensions/Supplementary/Complex Numbers</title>
+    <ns>0</ns>
+    <id>1339</id>
+    <revision>
+      <id>2697419</id>
+      <parentid>2658108</parentid>
+      <timestamp>2014-09-04T16:17:41Z</timestamp>
+      <contributor>
+        <ip>207.207.22.50</ip>
+      </contributor>
+      <comment>svg</comment>
+      <text xml:space="preserve">{{High_School_Mathematics_Extensions TOC}}
+
+==Introduction==
+{{High_School_Mathematics_Extensions/Supplementary/TOC}}
+
+Although the real numbers can, in some sense, represent any natural quantity, they are in another sense incomplete. We can write certain types of equations with real number coefficients which we desire to solve, but which have no real number solutions. The simplest example of this is the equation:
+:&lt;math&gt;
+\begin{matrix}
+x^2 + 1 &amp;=&amp; 0 \\
+x^2 &amp;=&amp; -1 \\
+x &amp;=&amp; \sqrt {-1}
+\end{matrix}
+&lt;/math&gt;
+Your high school math teacher may have told you that there is no solution to the above equation. He/she may have even emphasised that there is no ''real'' solution. But we can, in fact, extend our system of numbers to include the ''complex'' numbers by declaring the solution to that equation to exist, and giving it a name: the ''imaginary unit'', &lt;math&gt;i&lt;/math&gt;.
+
+Let's ''imagine'' for this chapter that &lt;math&gt;i = \sqrt{-1}&lt;/math&gt; exists. Hence ''x'' = ''i'' is a solution to the above question, and &lt;math&gt;i^2 = -1 &lt;/math&gt;.
+
+A valid question that one may ask is &quot;Why?&quot;. Why is it important that we be able to solve these quadratics with this seemingly artificial construction? It is interesting delve a little further into the reason why this imaginary number was introduced in the first place - it turns out that there was a valid reason why mathematicians realized that such a construct was useful, and could provide deeper insight. 
+
+The answer to the question lies not in the solution of quadratics, but rather in the solution of the intersection of a cubic and a line. The mathematician Cardano managed to come up with an ingenious method of solving cubics - much like the quadratic formula, there is also a formula that gives us the roots of cubic equations, although it is far more complicated. Essentially, we can express the solution of a cubic &lt;math&gt;x^3 = 3px + 2q&lt;/math&gt; in the form 
+
+&lt;math&gt;x=\sqrt[3]{q + \sqrt{q^2 - p^3}} + \sqrt[3]{q - \sqrt{q^2-p^3}}&lt;/math&gt;
+
+An unsightly expression, indeed!
+
+You should be able to convince yourself that the line &lt;math&gt;y = 3px + 2q&lt;/math&gt; must always hit the cubic &lt;math&gt;y=x^3&lt;/math&gt;. But try solving some equation where &lt;math&gt;q^2 &lt; p^3&lt;/math&gt;, and you run into a problem - the problem is that we are forced to deal with the square root of a negative number. But, we know that in fact there is a solution for x; for example, &lt;math&gt;x^3 = 15x + 4&lt;/math&gt; has the solution x = 4.
+
+It became apparent to the mathematician Bombelli that there was some piece of the puzzle that was missing - something that explained how this seemingly perverse operation of taking a square root of a negative number would somehow simplify to a simple answer like 4. This was in fact the motivation for considering imaginary numbers, and opened up a fascinating area of mathematics.
+
+The topic of '''Complex numbers''' is very much concerned with this number ''i''. Since this number doesn't exist in this real world, and only lives in our imagination, we call it the ''imaginary unit''. (Note that &lt;math&gt;i&lt;/math&gt; is not typically chosen as a variable name for this reason.)
+
+===The imaginary unit===
+
+As mentioned above
+:&lt;math&gt;
+\begin{matrix}
+i^2 &amp; = &amp; -1
+\end{matrix}
+&lt;/math&gt;.
+
+Let's compute a few more powers of ''i'':
+:&lt;math&gt;
+\begin{matrix}
+i^1 &amp; = &amp; i \\
+i^2 &amp; = &amp; -1 \\
+i^3 &amp; = &amp; -i\\
+i^4 &amp; = &amp; 1\\
+i^5 &amp; = &amp; i\\
+i^6 &amp; = &amp; -1\\
+&amp;\mbox{...}&amp;
+\end{matrix}
+&lt;/math&gt;
+
+As you may see, there is a pattern to be found in this.
+
+===Exercises===
+# Compute &lt;math&gt;i^{25}&lt;/math&gt;
+# Compute &lt;math&gt;i^{100}&lt;/math&gt;
+# Compute &lt;math&gt;i^{1000}&lt;/math&gt;
+:[[/Solutions|Exercise Solutions]]
+
+===Complex numbers as solutions to quadratic equations===
+
+Consider the quadratic equation:
+:&lt;math&gt;
+\begin{matrix}
+x^2 - 6x + 13 &amp; =&amp; 0 \\
+x &amp; = &amp; \frac{6 \pm \sqrt{36 - 4 \times 13}}{2}  \\
+x &amp; = &amp; \frac{6 \pm \sqrt{-16}}{2} \\
+x &amp; = &amp; \frac{6 \pm \sqrt{-1}\sqrt{16}}{2} \\
+x &amp; = &amp; \frac{6 \pm 4i}{2} \\
+x &amp; = &amp; 3 + 2i \ , \ 3 - 2i\\ 
+\end{matrix}
+&lt;/math&gt;
+The ''x'' we get as a solution is what we call a complex number. (To be nitpicky, the solution set of this equation actually has two complex numbers in it; either is a valid value for x.) It consists of ''two'' parts: a ''real'' part of 3 and an ''imaginary'' part of &lt;math&gt;\pm 2&lt;/math&gt;. Let's call the real part ''a'' and the imaginary part ''b''; then the sum &lt;math&gt;a+bi = 3 \pm 2i&lt;/math&gt; is a complex number.
+
+Notice that by merely defining the square root of negative one, we have already given ourselves the ability to assign a value to a much more complicated, and previously unsolvable, quadratic equation. It turns out that 'any' polynomial equation of degree &lt;math&gt;n&lt;/math&gt; has exactly &lt;math&gt;n&lt;/math&gt;  zeroes if we allow complex numbers; this is called the [[w:Fundamental theorem of algebra|Fundamental Theorem of Algebra]].
+
+We denote the ''real'' part by ''Re''. E.g.:
+:&lt;math&gt;\mathrm{Re}(x) = 3&lt;/math&gt;
+&lt;!-- There seems to be a bug in the LaTeX rendering here. It shows the above as text sometimes and LaTeX other times, but the below is always rendered as LaTeX. --&gt;
+and the ''imaginary'' part by ''Im''. E.g.:
+:&lt;math&gt;\mathrm{Im}(x) = \pm 2&lt;/math&gt;
+
+Let's check to see whether &lt;math&gt;x = 3 + 2i&lt;/math&gt; really is solution to the equation:
+:&lt;math&gt;
+\begin{matrix}
+x &amp; = &amp;3 + 2i &amp;\\
+x^2 &amp; = &amp; (3)^2 + 2(3)(2i) + (2i)^2 \\
+&amp; = &amp; 5 + 12i\\
+x^2 - 6x + 13 &amp;=&amp; 5 + 12i - 6(3+2i) + 13\\
+&amp;=&amp; 0\\ 
+\end{matrix}
+&lt;/math&gt;
+
+=== Exercises ===
+# Convince yourself that ''x = 3 - 2i''  is also a solution to the equation.
+# Plot the points A(3, 2) and B(3, -2) on a XY plane. Draw a line for each point joining them to the origin.
+# Compute the length of AO (the distance from point A to the Origin) and BO. Denote them by r&lt;sub&gt;1&lt;/sub&gt; and r&lt;sub&gt;2&lt;/sub&gt; respectively. What do you observe?
+# Compute the angle between each line and the x-axis and denote them by &lt;math&gt;\phi_1&lt;/math&gt; and &lt;math&gt;\phi_2&lt;/math&gt;. What do you observe?
+# Consider the complex numbers:
+:&lt;math&gt;
+\begin{matrix}
+z &amp; = &amp; r_1 \cdot (\cos{\phi_1} + i\sin{\phi_1})\\
+w &amp; = &amp; r_2 \cdot (\cos{\phi_2} + i\sin{\phi_2})\\
+\end{matrix}
+&lt;/math&gt;
+Substitute ''z'' and ''w'' into the quadratic equation above using the values you have computed in Exercise 3 and 4. What do you observe? What conclusion can you draw from this?
+# Find the complex solutions to the equation &lt;math&gt;x^2-2x+2=0&lt;/math&gt;. Perform the same steps as above. What can you conclude here?
+
+==Arithmetic with complex numbers==
+
+===Addition and multiplication===
+Adding and multiplying two complex number together turns out to be quite straightforward. Let's illustrate with a few examples. Let ''x''  =  3 - 2''i'' and ''y''  =  7 + 11''i'', and we do addition first
+:{|-
+|&lt;math&gt; x + y \!&lt;/math&gt; || &lt;math&gt;= \!&lt;/math&gt; || &lt;math&gt;(3+7) + (-2+11)i  \!&lt;/math&gt;
+|-
+|                       || &lt;math&gt;= \!&lt;/math&gt; || &lt;math&gt; 10 + 9i  \!&lt;/math&gt;
+|}
+and now multiplication
+:{|-
+|&lt;math&gt; x \times y \!&lt;/math&gt; || &lt;math&gt;= \!&lt;/math&gt; || &lt;math&gt;(3 - 2i) (7 + 11i) \!&lt;/math&gt;
+|-
+|                            || &lt;math&gt;= \!&lt;/math&gt; || &lt;math&gt;3\cdot 7 + 3\cdot 11i - 2i\cdot 7 - 2\cdot 11 i^2\!&lt;/math&gt;
+|-
+|                            ||&lt;math&gt;= \!&lt;/math&gt;  || &lt;math&gt;43 + 19i\!&lt;/math&gt;
+|}
+Let's summarise the results here.
+* When adding complex numbers we add the real parts with real parts, and add the imaginary parts with imaginary parts.
+* When multiplying two complex numbers together, we use normal expansion. Whenever we see ''i''&lt;sup&gt;2&lt;/sup&gt; we put in its place -1. We then collect like terms.
+
+But how do we calculate:
+:&lt;math&gt;\frac{3 + 2i} {7 - \sqrt{5}i}&lt;/math&gt;
+Note that the square root is only above the 5 and not the ''i''. This is a little bit tricky, and we shall cover it in the next section.
+
+===Exercises:===
+:&lt;math&gt;
+\begin{matrix}
+x &amp;=&amp; 3 - 2i \\
+y &amp;=&amp; 3 + 2i
+\end{matrix}
+&lt;/math&gt;
+
+Compute:
+# x + y
+# x - y
+# x&lt;sup&gt;2&lt;/sup&gt;
+# y&lt;sup&gt;2&lt;/sup&gt;
+# xy
+# (x + y)(x - y)
+
+===Division===
+One way to calculate:
+:&lt;math&gt;
+\frac{1}{2\sqrt{3}+\sqrt{2}}
+&lt;/math&gt;
+is to rationalise the denominator:
+
+:&lt;math&gt;
+\frac{1}{2\sqrt{3}+\sqrt{2}}=
+\frac{2\sqrt{3}-\sqrt{2}}{(2\sqrt{3}+\sqrt{2})(2\sqrt{3}-\sqrt{2})}=
+\frac{2\sqrt{3}-\sqrt{2}}{10}
+&lt;/math&gt;
+
+Utilising a similar idea, to calculate
+:&lt;math&gt;
+\frac{3 + 2i} {7 - \sqrt{5}i}
+&lt;/math&gt;
+we ''real''ise the denominator.
+
+:&lt;math&gt;
+z \ = \ \frac{3 + 2i} {7 - \sqrt{5}i}
+&lt;/math&gt;
+:&lt;math&gt;
+z \ = \ \frac{3 + 2i} {7 - \sqrt{5}i} \times \frac{7 + \sqrt{5}i} {7 +\sqrt{5}i}
+&lt;/math&gt;
+The denominator is the sum of two squares. We get:
+:&lt;math&gt;
+z \ = \ \frac{(3 + 2i) \times (7 + \sqrt{5}i)} {49 + 5}
+&lt;/math&gt;
+:&lt;math&gt;
+z \ = \ \frac{21 - 2\sqrt{5}}{54} + \frac {14+3\sqrt{5}} {54}i
+&lt;/math&gt;
+
+If somehow we can always find a complex number whose product with the denominator is a real number, then it's easy to do divisions.
+
+If
+:&lt;math&gt;
+z \ = \ a + ib
+&lt;/math&gt;
+and
+:&lt;math&gt;
+w \ = \ a - ib
+&lt;/math&gt;
+Then ''zw'' is a real number. This is true for any 'a' and 'b' (provided they are real numbers).
+
+===Exercises===
+Convince yourself that the product of ''zw'' is always a real number.
+
+===Complex Conjugate===
+The exercise above leads to the idea of a complex conjugate. The complex conjugate of ''a'' + ''ib'' is  ''a'' - ''ib''. For example, the conjugate of ''2 + 3i'' is ''2 - 3i''. It is a simple fact that the product of a complex number and its conjugate is always a real number. If ''z'' is a complex number then its conjugate is denoted by &lt;math&gt;\bar{z}&lt;/math&gt;. Symbolically if 
+:z = a + ib
+then,
+:&lt;math&gt;\bar{z} = a - ib&lt;/math&gt;
+
+The conjugate of 
+''3 - 9i'' 
+is 
+''3 + 9i''.
+
+The conjugate of 
+''100'' 
+is 
+''100''.
+
+The conjugate of 
+''9i - 20'' 
+is 
+''-20 - 9i''.
+
+''' Conjugate laws '''
+
+Here are a few simple rules regarding the complex conjugate
+:&lt;math&gt;\overline{z + w}= \bar{z} + \bar{w}&lt;/math&gt;
+and 
+:&lt;math&gt;\overline{zw}= \bar{z}  \bar{w}&lt;/math&gt;
+
+The above laws simply says that the sum of conjugates equals the conjugate of the sum; and similarly, the conjugate of the product equals the product of the conjugates.
+
+Consider this example:
+:&lt;math&gt;(3 + 2i) + (89 - 100i) = 92 - 98i&lt;/math&gt;
+and we can see that
+:&lt;math&gt;\overline{92 - 98i} = 92 + 98i&lt;/math&gt;
+which equals to
+:&lt;math&gt;\overline{3 + 2i} + \overline{89 - 100i} = 3 - 2i + 89 + 100i = 92 + 98i&lt;/math&gt;
+This confirms the addition conjugate law.
+
+===Exercise===
+:Convince yourself that the multiplication law is also true.
+
+==The complex root==
+Now that you are equipped with all the basics of complex numbers, you can tackle the more advanced topic of root finding.
+
+Consider the question: 
+:&lt;math&gt;
+\begin{matrix}
+z &amp; = &amp; -3 + 4i \\
+w &amp; = &amp; \sqrt{z}
+\end{matrix}
+&lt;/math&gt;
+
+Express ''w'' in the form of ''a + ib''.
+
+That is easy enough.
+:&lt;math&gt;
+\begin{matrix}
+w &amp; = &amp; \sqrt{z}\\
+w^2 &amp; = &amp; z\\
+
+w &amp;=&amp; a + ib\\
+w^2 &amp;=&amp; a^2 - b^2 + 2abi\\
+\\
+-3 &amp;=&amp; a^2 - b^2 &amp;\mbox{(1)}&amp;\\
+4 &amp;=&amp;  2ab &amp;\mbox{(2)}&amp;\\
+\end{matrix}
+&lt;/math&gt;
+Solve (1) and (2) simultaneously to work out ''a'' and ''b''.
+
+Observe that if, after solving for ''a'' and ''b'', we replace them with -''a'' and -''b'' respectively, then they would still satisfy the two simultaneous equations above, we can see that (as expected) if ''w'' = ''a'' + ''ib'' satisfies the equation ''w''&lt;sup&gt;2&lt;/sup&gt; = ''z'', then so will ''w'' = -(''a'' + ''ib''). With real numbers, we always take the non-negative answer and call the solution &lt;math&gt;\sqrt{x}&lt;/math&gt;. However, since there is no notion of &quot;greater than&quot; or &quot;less than&quot; with complex numbers, there is no such choice of &lt;math&gt;\sqrt{z}&lt;/math&gt;. In fact, which square root to take as &quot;the&quot; value of &lt;math&gt;\sqrt{z}&lt;/math&gt; depends on the circumstances, and this choice is very important to some calculations.
+
+===info -- Finding the square root===
+&lt;blockquote style=&quot;padding: 1em; border: 2px dotted purple;&quot;&gt;
+Finding the root of a real number is a very difficult problem to start with. Most people have no hope of finding a close estimate of &lt;math&gt;\sqrt{2}&lt;/math&gt; without the help of a calculator. The modern method of approximating roots involves an easy to understand and ingenius piece of mathematics called the Taylor series expansion. The topic is usually covered in first year university maths as it requires an elementary understanding of an important branch of mathematics called calculus.
+
+The Newton-Raphson method of root finding is also used extensively for this purpose.
+&lt;/blockquote&gt;
+
+Now consider the problem
+:&lt;math&gt;
+\begin{matrix}
+z &amp;=&amp; -2 + 2i \\
+w &amp;=&amp; z^{1/3} 
+\end{matrix}
+&lt;/math&gt;
+Express ''w'' in the form of &quot;''a'' + ''ib''&quot;.
+
+Using the methodology developed above we proceed as follows,
+:&lt;math&gt;
+\begin{matrix}
+w &amp;=&amp; z^{1/3} \\
+w^3 &amp;=&amp; z \\
+\\
+w &amp;=&amp; (a + ib)\\
+w^3 &amp;=&amp; (a^2 - b^2 + 2abi) \times (a + ib)\\
+z &amp;=&amp; (a^3 - 3ab^2) + i(3a^2b - b^3)\\
+\\
+-2 &amp;=&amp; a^3 - 3ab^2 \qquad (1)\\
+2 &amp;=&amp; 3a^2b - b^3 \qquad (2)\\
+\end{matrix}
+&lt;/math&gt;
+
+It turns out that the simultaneous equations (1) &amp; (2) are hard to solve. Actually, there is an easy way to calculate the roots of complex numbers called the De Moivre's theorem, it allows us to calculate the ''n''th root of any complex number with ease. But to set the method, we need understand the geometric meaning of a complex number and learn a new way to ''represent'' a complex number.
+
+===Exercises===
+# Find (3 + 3i)&lt;sup&gt;1/2&lt;/sup&gt;
+# Find (1 + 1i)&lt;sup&gt;1/2&lt;/sup&gt;
+# Find i&lt;sup&gt;1/3&lt;/sup&gt;
+
+==The complex plane==
+===Complex numbers as ordered pairs===
+It is worth noting, at this point, that every complex number, ''a'' + ''bi'', can be completely specified with exactly two real numbers: the ''real part'' ''a'', and the ''imaginary part'' ''b''. This is true of ''every'' complex number; for example, the number 5 has real part 5 and imaginary part 0, while the number 7''i'' has real part 0 and imaginary part 7. We can take advantage of this to adopt an alternative scheme for writing complex numbers: we can write them as ordered pairs, in the form ''(a, b)'' instead of ''a+bi''.
+
+&lt;!-- This thing doesn't seem to speak non-math-mode LaTeX, so I don't know what to do about the ugly column headers below. --&gt;
+
+:&lt;math&gt;
+\begin{matrix}
+\mbox{Instead of}  &amp; \mbox{We could write} \\
+5+4i&amp;(5, 4) \\
+3i&amp;(0, 3) \\
+\frac{4+5i}{3}&amp;(\frac{4}{3}, \frac{5}{3}) \\
+42&amp;(42, 0) \\
+\sqrt{2}+\sqrt{2}i&amp;(\sqrt{2}, \sqrt{2}) \\
+\end{matrix}
+&lt;/math&gt;
+These should look familiar: they are exactly like the ordered pairs we use to represent points in the plane. In fact, we can use them that way; the plane which results is called the ''complex plane''. We refer to its x axis as the ''real axis'', and to its y axis as the ''imaginary axis''.
+
+===The complex plane===
+We can see from the above that a single complex number is a point in the complex plane. We can also represent ''sets'' of complex numbers; these will form ''regions'' on the plane. For example, the set
+:&lt;math&gt;\{a+bi | -1 \le a \le 1, -1 \le b \le 1\}&lt;/math&gt;
+is a square of edge length 2 centered at the origin (See following diagram).  [[Image:Region on complex plane.PNG]]
+
+===Complex-valued functions===
+Just as we can make functions which take ''real'' values and output ''real'' values, so we can create functions from complex numbers to real numbers, or from complex numbers to complex numbers. These latter functions are often referred to as ''complex-valued'' functions, because they evaluate to (output) a complex number; it is implicit that their argument (input) is complex as well. 
+
+Since complex-valued functions map complex numbers to other complex numbers, and we have already seen that complex numbers correspond to points on the complex plane, we can see that a complex-valued function can turn regions on the complex plane into other regions. A simple example: the function
+
+&lt;math&gt;f(z) = z + (0+1i)&lt;/math&gt;
+
+takes a point in the complex plane and shifts it up by 1. If we apply it to the set of points making up the square above, it will move the entire square up one, so that it &quot;rests&quot; on the x-axis.
+
+{To make more complicated examples, I will first have to go back and introduce the polar representation of complex numbers. Makes for much more interesting functions, :-)  You can use the diagrams below or modify them to make new diagrams.  I will make links to these diagrams in other places in Wikibooks:math.  In the 2nd diagram showing the point, r=4 and theta= 50 degrees.  These types of diagrams can be used to introduce phasors, which are notations for complex numbers used in electrical engineering.}
+
+[[File:Polar coordinates grid.svg]]  
+[[File:Point in Polar coordinates grid.svg]]
+
+==de Moivre's Theorem==
+If&lt;br&gt;
+&lt;math&gt;{z = r e^{i\theta} = r(\cos(\theta)+i\sin(\theta))}&lt;/math&gt;&lt;br&gt;
+then&lt;br&gt;
+&lt;math&gt;{z^n = r^n(\cos(n\theta)+i\sin(n\theta))}&lt;/math&gt;
+
+==Complex root of unity==
+The complex roots of unity to the nth degree is the set of solutions to the equation &lt;math&gt;x^{n} = 1&lt;/math&gt;. Clearly they all have magnitude 1. They form a cyclic group under multiplication. For any given &lt;math&gt;n&lt;/math&gt;, there are exactly &lt;math&gt;n&lt;/math&gt; many of them, and they form a regular n-gon in the complex plane over the unit circle.
+
+A closed form solution can be given for them, by use of Euler's formula: 
+
+&lt;math&gt;u^n = \cos(2\pi\cdot j/n)+i\sin(2\pi\cdot j/n) \quad 0 \leq j &lt; n&lt;/math&gt;
+
+The sum of the &lt;math&gt;n&lt;/math&gt;th roots of unity is equal to 0, except for &lt;math&gt;n=1&lt;/math&gt;, where it is equal to 1.
+
+The product of the &lt;math&gt;n&lt;/math&gt;th roots of unity alternates between -1 and 1.
+
+=Problem set=
+Simplify: (1-i)&lt;sup&gt;2i&lt;/sup&gt;
+Ans: 2&lt;sup&gt;i&lt;/sup&gt;e&lt;sup&gt;&lt;math&gt;\pi&lt;/math&gt;/2&lt;/sup&gt;</text>
+      <sha1>b2uausvy9d76ukudh2roxudtsbwdf95</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 3 answer 2</title>
+    <ns>0</ns>
+    <id>1350</id>
+    <revision>
+      <id>491267</id>
+      <parentid>381602</parentid>
+      <timestamp>2006-06-18T07:37:14Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">Well done! This is the correct answer.
+
+Applying Ohm's law to the top branch:
+
+I=V/R
+
+=6/4 A
+
+=1.5A
+
+Applying Ohm's law to the bottom branch:
+I=V/R
+
+=6/(2+2) A
+
+=1.5A
+
+[[GCSE Science/Electricity multiple choice practice question 4|On to the next question&gt;&gt;]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>i09z2iqd1otejhzbkqv8w4uwjltqnbj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 3 answer 1</title>
+    <ns>0</ns>
+    <id>1351</id>
+    <revision>
+      <id>491266</id>
+      <parentid>381604</parentid>
+      <timestamp>2006-06-18T07:37:10Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">I'm sorry but this is the wrong answer.
+Remember that each branch has the entire voltage across it.
+
+Applying Ohm's law to the top branch:
+
+I=V/R
+
+=6/4 A
+
+=1.5A
+
+The lower branch has a combined resistance of 4&amp;Omega; because the two resistirs are in series.
+
+Applying Ohm's law to the bottom branch:
+I=V/R
+
+=6/(2+2) A
+
+=1.5A
+
+[[GCSE Science/Electricity multiple choice practice question 4|On to the next question&gt;&gt;]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>il0lufwoxes1ty2s1o099l484kz8vr8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 3 answer 3</title>
+    <ns>0</ns>
+    <id>1353</id>
+    <revision>
+      <id>491268</id>
+      <parentid>381611</parentid>
+      <timestamp>2006-06-18T07:37:18Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">I'm sorry but this is the wrong answer.
+Remember that each branch has the entire voltage across it.
+
+Applying Ohm's law to the top branch:
+
+I=V/R
+
+=6/4 A
+
+=1.5A
+
+The lower branch has a combined resistance of 4&amp;Omega; because the two resistirs are in series.
+
+Applying Ohm's law to the bottom branch:
+I=V/R
+
+=6/(2+2) A
+
+=1.5A
+
+[[GCSE Science/Electricity multiple choice practice question 4|On to the next question&gt;&gt;]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>il0lufwoxes1ty2s1o099l484kz8vr8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 3 answer 4</title>
+    <ns>0</ns>
+    <id>1354</id>
+    <revision>
+      <id>491269</id>
+      <parentid>381606</parentid>
+      <timestamp>2006-06-18T07:37:22Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">I'm sorry but this is the wrong answer.
+Remember that each branch has the entire voltage across it.
+
+Applying Ohm's law to the top branch:
+
+I=V/R
+
+=6/4 A
+
+=1.5A
+
+The lower branch has a combined resistance of 4&amp;Omega; because the two resistirs are in series.
+
+Applying Ohm's law to the bottom branch:
+I=V/R
+
+=6/(2+2) A
+
+=1.5A
+
+[[GCSE Science/Electricity multiple choice practice question 4|On to the next question&gt;&gt;]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>il0lufwoxes1ty2s1o099l484kz8vr8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

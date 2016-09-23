@@ -1,0 +1,1234 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Computer Programming/Authors</title>
+    <ns>0</ns>
+    <id>41</id>
+    <revision>
+      <id>1543745</id>
+      <parentid>1543637</parentid>
+      <timestamp>2009-06-22T17:31:43Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>moved [[Computer Programming Principles/Appendixes/Contributors]] to [[Computer Programming/Authors]] over redirect: Won't be applicable to target book since only one page will be merged.</comment>
+      <text xml:space="preserve">==List of Authors==
+
+''&quot;You always need someone to blame.&quot;''
+
+* The WikiCommunity
+* [[User:Krischik|Martin Krischik]] ([[Special:Contributions/Krischik|Contributions]])
+* Josh Ferguson
+* Brian Mitchell
+* Gregory Pietsch
+* [[User:LittleDan|LittleDan]] for the XHTML tutorial
+* [[User:Kwhitefoot|Kevin Whitefoot]] the more obscure parts of [[Programming:Visual Basic Classic]]
+
+{{BookCat}}</text>
+      <sha1>9y38l23xskvo3n5tii2y61ykqfnbjdv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Policy/Recipe template</title>
+    <ns>102</ns>
+    <id>43</id>
+    <revision>
+      <id>2402833</id>
+      <parentid>2364622</parentid>
+      <timestamp>2012-09-01T05:01:52Z</timestamp>
+      <contributor>
+        <username>Bignose</username>
+        <id>662</id>
+      </contributor>
+      <comment>more readable standard wiki markup</comment>
+      <text xml:space="preserve">__NOTOC__{{Cookbook help page}}
+
+&lt;div style=&quot;border: 1px solid black; padding: 20px; background-color: #DDEEFF&quot;&gt;
+'''This is a template page. Please do not add recipes here .'''
+
+This is a recommended template for recipes that are submitted to the cookbook.  Please note that this is only a guideline. Feel free to add more sections, or omit some (although the recipe needs to be useful).
+
+The five dot system is used to represent the relative difficulty of a recipe.  Please keep these descriptions in mind when assigning a difficulty score.
+
+* [[Image:1o5dots.svg|You can boil water, right?]] - You can boil water, right?
+* [[Image:2o5dots.svg|Fairly easy]] - Fairly easy
+* [[Image:3o5dots.svg|Medium difficulty]] - Medium difficulty
+* [[Image:4o5dots.svg|Fairly hard]] - Fairly hard
+* [[Image:5o5dots.svg|Are you the Iron Chef?]] - Are you the Iron Chef?
+
+These image pages are useful in that clicking on them brings you to a list of recipes of a particular difficulty.  Note, we borrowed these images from the German Cookbook ([[:de:Kochbuch|Kochbuch]]), which has since been moved to the [[:de:|de:wikibooks.org]] domain, but there still may be a few German language recipes floating around.
+
+Here is a list of sample recipes using the template.
+
+* [[Cookbook:Beef and Barley Stew|Beef and Barley Stew]]
+* [[Cookbook:Chocolate Mousse|Chocolate Mousse]]
+* [[Cookbook:Tarbes Salad|Tarbes Salad]]
+
+&lt;/div&gt;
+
+=== Template for recipe submissions ===
+
+{{recipe}} | Cuisine | Type of course
+
+ */ A short description of the recipe should go here;
+ anywhere from one sentence to a paragraph or two is
+ acceptable.  Describe who uses the dish, and how, as
+ well as anything normally prepared with it.  Stories
+ of the recipe's creation or other anecdotes are perfectly
+ acceptable.
+ 
+ A photo of the completed dish would be helpful, and
+ should be in the lead section, perhaps attached to the
+ table somehow. /*
+
+== Ingredients ==
+
+* 1 [[Cookbook:Cup|cup]] (240 [[Cookbook:mL|mL]]) item one
+* 1 [[Cookbook:Tablespoon|tablespoon]] (15 mL) item 2
+* etc.
+* (but '''not on this template page -- make a new page with a new name''')
+
+ */ The ingredients should be listed in the order they
+ are called for in the procedure below. The ingredients 
+ should be linked to using the &quot;pipe trick&quot;, ie
+ &lt;nowiki&gt;[[Cookbook:carrot|]]&lt;/nowiki&gt;, which produces [[Cookbook:carrot|carrot]].
+ If optional ingredients and substitutions would make 
+ this list less readable, place them in the notes, tips, 
+ or variations section instead (if they are specific to
+ some different cooking  procedure) or place them in a 
+ second list after the first one. Otherwise, simply 
+ mark them &quot;(optional)&quot;. Consider using separate lists 
+ for filling and shell, meat and sauce, and so on. /*
+
+ */ Quantities should be listed in whichever system (imperial
+ or metric) the recipe was created in, with the other system's
+ equivalent values listed immediately after, in &quot;()&quot;.  This
+ lets users know which units are &quot;original&quot; and which are
+ estimated conversions. Always provide volume measurements.
+ In some countries, kitchens are simply not equipped to measure
+ by mass or weight. (yes, they lack a balance or scale)
+ Do not specify the size of normal chicken eggs; &quot;Large&quot; in
+ the USA is similar to &quot;size M&quot; (not size L) in the EU, and
+ other countries will surely have their own ideas as well. /*
+
+== Procedure ==
+
+# Step one
+# Step two
+# etc.
+# (but '''not on this template page -- make a new page with a new name''')
+
+ */ Photos of the procedures as they are completed should
+ be in |thumb| format, so a caption identifying what step
+ is being performed can be included in the pic. /*
+
+== Notes, tips, and variations ==
+
+* Note 1
+* Tip 1
+* Variation 1
+* etc.
+
+ */ This area can be used for any additional information
+ that doesn't fit in other areas of the  recipe module. /*
+
+== Warnings ==
+
+* Warning 1
+* Warning 2
+* etc.
+
+== External links ==
+
+* Wikipedia link
+
+{| border=&quot;1&quot; cellspacing=&quot;0&quot; cellpadding=&quot;3&quot;
+|-
+! What to type !! What it makes !! Where&amp;nbsp;it&amp;nbsp;goes
+|-
+| &lt;nowiki&gt;{{&lt;/nowiki&gt;[[Template:Wikipedia|Wikipedia]]}} &lt;br&gt; [[Template talk:Wikipedia|Talk]]
+|
+{{Wikipedia}}
+|Bottom of Page
+|}
+
+* Other relevant link
+
+{| border=&quot;1&quot; cellspacing=&quot;0&quot; cellpadding=&quot;3&quot;
+|-
+! What to type !! What it makes !! Where&amp;nbsp;it&amp;nbsp;goes
+|-
+| &lt;nowiki&gt;{{&lt;/nowiki&gt;[[Template:1881|1881]]}} &lt;br&gt; [[Template talk:1881|Talk]]
+|
+{{1881}}
+|Bottom of Page
+|-
+| &lt;nowiki&gt;{{&lt;/nowiki&gt;[[Template:Oscookbook|Oscookbook]]}} &lt;br&gt; [[Template talk:Oscookbook|Talk]]
+|
+{{Oscookbook}}
+|Bottom of Page
+|-
+| &lt;nowiki&gt;{{&lt;/nowiki&gt;[[Template:Decameron|Decameron]]}} &lt;br&gt; [[Template talk:Decameron|Talk]]
+|
+{{Decameron}}
+|Bottom of Page 
+|}
+
+More cookbook-related templates can be found in the [[Cookbook:Policy|Cookbook policy module]].
+
+
+ */ Categories and interlanguage links can be placed
+ here. To see the category scheme for recipes, go to:
+ [[:Category:Recipes]]. /*
+
+&lt;div style=&quot;border: 1px solid black; padding: 20px; background-color: #DDEEFF&quot;&gt;
+'''This is a template page. Please do not add recipes here.'''
+&lt;/div&gt;
+
+[[mk:Готвач:Шаблон за полиса/рецепт]]
+[[nl:Kookboek/Receptsjabloon]]
+[[ru:Образец рецепта]]</text>
+      <sha1>mnmes2c43tk11pop7ewki7b5zn52t6z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure</title>
+    <ns>0</ns>
+    <id>47</id>
+    <revision>
+      <id>2547984</id>
+      <parentid>2547983</parentid>
+      <timestamp>2013-08-07T00:17:26Z</timestamp>
+      <contributor>
+        <username>LlamaAl</username>
+        <id>716551</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/203.104.11.7|203.104.11.7]] ([[User talk:203.104.11.7|talk]]) to last version by 41.220.69.108</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Organic Chemistry/Foundational concepts of organic chemistry/History_of_organic_chemistry|&lt; History]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Electronegativity|Electronegativity &gt;]]
+----
+&lt;/noinclude&gt;
+
+
+{| align=&quot;right&quot;
+|-
+| [[Image:Simple atom (lithium).png]]
+|-
+| ''A simple model of a lithium atom.&lt;br&gt; Not to scale!''
+|}
+
+==Atomic Structure==
+
+Atoms are made up of a '''nucleus''' and '''electrons''' that orbit the nucleus. The nucleus consists of protons and neutrons. An atom in its natural, uncharged state has the same number of electrons as protons.
+
+===The nucleus===
+
+The nucleus is made up of  '''protons''', which are positively charged, and '''neutrons''', which have no charge.  Neutrons and protons have about the same mass, and together account for most of the mass of the atom.
+
+===Electrons===
+
+The electrons are negatively charged particles. The mass of an electron is about 2000 times smaller than that of a proton or neutron at 0.00055 amu. Electrons circle so fast that it cannot be determined where electrons are at any point in time. The image depicts the old Bohr model of the atom, in which the electrons inhabit discrete &quot;orbitals&quot; around the nucleus much like planets orbit the sun. This model is outdated. Current models of the atomic structure hold that electrons occupy fuzzy clouds around the nucleus of specific shapes, some spherical, some dumbbell shaped, some with even more complex shapes.
+
+==Shells and Orbitals==
+
+===Electron shells===
+Electrons orbit atoms in clouds of distinct shapes and sizes. The electron clouds are layered one inside the other into units called '''shells''', with the electrons occupying the simplest orbitals in the innermost shell having the lowest '''energy state''' and the electrons in the most complex orbitals in the outermost shell having the highest energy state. The higher the energy state, the more '''energy''' the electron has, just like a rock at the top of a hill has more potential energy than a rock at the bottom of a valley. The main reason why electrons exist in higher energy orbitals is because only two electrons can exist in any orbital. So electrons fill up orbitals, always taking the lowest energy orbitals available. An electron can also be pushed to a higher energy orbital, for example by a photon. Typically this is not a stable state and after a while the electron descends to lower energy states by emitting a photon spontaneously. These concepts will be important in understanding later concepts like optical activity of chiral compounds as well as many interesting phenomena outside the realm of organic chemistry (for example, how lasers work).
+
+===Electron orbitals===
+
+Each different shell is subdivided into one or more '''orbitals''', which also have different energy levels, although the energy difference between orbitals is less than the energy difference between shells.
+
+Longer wavelengths have less energy; the s orbital has the longest wavelength allowed for an electron orbiting a nucleus and this orbital is observed to have the lowest energy.
+
+Each orbital has a characteristic shape which shows where electrons most often exist.  The orbitals are named using letters of the alphabet.  In order of increasing energy the orbitals are: '''s''', '''p''', '''d''', and '''f''' orbitals.
+
+As one progresses up through the shells (represented by the principal quantum number '''n''') more types of orbitals become possible. The shells are designated by numbers. So the 2s orbital refers to the s orbital in the second shell.
+
+===S orbital===
+
+The '''s orbital''' is the orbital lowest in energy and is spherical in shape. Electrons in this orbital are in their fundamental frequency.  This orbital can hold a maximum of two electrons.
+
+[[Image:S-orbital.png]]
+
+===P orbital===
+
+The next lowest-energy orbital is the '''p orbital'''. Its shape is often described as like that of a dumbbell.  There are three p-orbitals each oriented along one of the 3-dimensional coordinates x, y or z.  Each of these three &quot;p&quot; orbitals can hold a maximum of two electrons.
+
+[[Image:P-orbital.png]]
+
+These three different p orbitals can be referred to as the p&lt;sub&gt;x&lt;/sub&gt;, p&lt;sub&gt;y&lt;/sub&gt;, and p&lt;sub&gt;z&lt;/sub&gt;.
+
+The '''s''' and '''p''' orbitals are important for understanding most of organic chemistry as these are the orbitals that are occupied in the type of atoms that are most common in organic compounds.
+
+===D and F orbitals===
+----
+There are also D and F orbitals. D orbitals are present in transition metals. Sulphur and phosphorus have empty D orbitals. Compounds involving atoms with D orbitals do come into play, but are rarely part of an organic molecule. F are present in the elements of the lanthanide and actinide series. Lanthanides and actinides are mostly irrelevant to organic chemistry.
+
+==Filling electron shells==
+&lt;div class=&quot;noprint&quot; style=&quot;border:1px solid gold; background:cornsilk; padding: 4px; text-align: center; float: right;&quot;&gt;&lt;small&gt;
+''On WP:'' &lt;br&gt; [[w:Electron configuration|Electron configuration]]
+&lt;/small&gt;&lt;/div&gt;
+
+When an atom or ion receives electrons into its orbitals, the orbitals and shells fill up in a particular manner.
+
+There are three principles that govern this process:
+#'''the Pauli exclusion principle''',
+#'''the Aufbau (build-up) principle''', and
+#'''Hund's rule'''.
+
+=== Pauli exclusion principle ===
+&lt;div class=&quot;noprint&quot; style=&quot;border:1px solid gold; background:cornsilk; padding: 4px; text-align: center; float: right;&quot;&gt;&lt;small&gt;
+''On WP:'' [[w:Pauli exclusion principle|Pauli]]&lt;br&gt; [[w:Pauli exclusion principle|exclusion principle]]
+&lt;/small&gt;&lt;/div&gt;
+
+No two electrons in an atom can have all four quantum numbers the same.  What this translates to in terms of our pictures of orbitals is that each orbital can only hold two electrons, one &quot;spin up&quot; and one &quot;spin down&quot;.
+
+=== Hund's rule ===
+
+This states that filled and half-filled shells tend to have additional stability.  In some instances, then, for example, the 4s orbitals will be filled before the 3d orbitals.
+
+&lt;div class=&quot;noprint&quot; style=&quot;border:1px solid gold; background:cornsilk; padding: 4px; text-align: center; float: right;&quot;&gt;&lt;small&gt;
+''On WP:'' &lt;br&gt; [[w:Hund's rule of Maximum Multiplicity|Hund's rule]]
+&lt;/small&gt;&lt;/div&gt;
+
+This rule is applicable only for those elements that have d electrons, and so is less important in organic chemistry (though it is important in organometallic chemistry).
+
+==Octet rule==
+
+The '''octet rule''' states that atoms tend to prefer to have eight electrons in their valence shell, so will tend to ''combine'' in such a way that each atom can have eight electrons in its valence shell, similar to the electronic configuration of a noble gas. In simple terms, molecules are more stable when the outer shells of their constituent atoms are empty, full, or have eight electrons in the outer shell.
+
+
+
+The main exception to the rule is helium, which is at lowest energy when it has two electrons in its valence shell.
+
+Other notable exceptions are aluminum and boron, which can function well with six valence electrons; and some atoms beyond group three on the periodic table that can have over eight electrons, such as sulfur. Additionally, some noble gasses can form compounds when expanding their valence shell.
+
+==Hybridization==
+&lt;div class=&quot;noprint&quot; style=&quot;border:1px solid gold; background:cornsilk; padding: 4px; text-align: center; float: right;&quot;&gt;&lt;small&gt;
+''On WP:'' &lt;br&gt; [[w:Orbital hybridisation|Orbital hybridization]]
+&lt;/small&gt;&lt;/div&gt;
+
+'''Hybridization''' refers to the combining of the orbitals of two or more covalently bonded atoms. Depending on how many free electrons a given atom has and how many bonds it is forming, the electrons in the s and the p orbitals will combine in certain manners to form the bonds.
+
+It is easy to determine the hybridization of an atom given a Lewis structure. First, you count the number of pairs of free electrons and the number of ''sigma'' bonds (single bonds). Do not count double bonds, since they do not affect the hybridization of the atom. Once the total of these two is determined, the hybridization pattern is as follows:
+
+ Sigma Bonds + Electron Pairs     Hybridization
+               2                       sp
+               3                       sp&lt;sup&gt;2&lt;/sup&gt;
+               4                       sp&lt;sup&gt;3&lt;/sup&gt;
+
+The pattern here is the same as that for the electron orbitals, which serves as a memory guide.
+
+
+&lt;noinclude&gt;
+----
+[[Organic Chemistry/Foundational concepts of organic chemistry|&lt;&lt; Foundational concepts]] | [[Organic Chemistry/Foundational concepts of organic chemistry/History of organic chemistry|&lt; History]] | Atomic Structure | [[Organic Chemistry/Foundational concepts of organic chemistry/Electronegativity|Electronegativity &gt;]] | [[Organic Chemistry/Alkanes|Alkanes &gt;&gt;]]
+&lt;/noinclude&gt;
+
+{{BookCat}}</text>
+      <sha1>83j05if5y47gga2p9xr4wxgdi84ocbh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Programming:c</title>
+    <ns>0</ns>
+    <id>48</id>
+    <redirect title="C Programming" />
+    <revision>
+      <id>510411</id>
+      <parentid>152243</parentid>
+      <timestamp>2006-07-02T22:17:03Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <comment>Redirecting to [[C Programming]]</comment>
+      <text xml:space="preserve">#REDIRECT [[C Programming]]</text>
+      <sha1>os5eah4k79fvk3ghr98c61wi4ae82ib</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Mrquick</title>
+    <ns>2</ns>
+    <id>50</id>
+    <revision>
+      <id>152245</id>
+      <timestamp>2003-07-14T07:28:28Z</timestamp>
+      <contributor>
+        <username>Mrquick</username>
+        <id>16</id>
+      </contributor>
+      <minor />
+      <comment>Now, I have my own page.  What fun.  Yeah, its late, I'm board.</comment>
+      <text xml:space="preserve">I'm working on the programming textbook.  I'm in college.  I'll most likely be a programmer when I get out.  Yep.  And I have lots of experience messing with programming.  Yep.  Tis good.</text>
+      <sha1>g2l8cz58htdqfwilpdovhze9gg3kvgb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks talk:Long articles</title>
+    <ns>5</ns>
+    <id>51</id>
+    <revision>
+      <id>152246</id>
+      <timestamp>2003-07-14T12:21:56Z</timestamp>
+      <contributor>
+        <username>Nanobug</username>
+        <id>9</id>
+      </contributor>
+      <comment>?</comment>
+      <text xml:space="preserve">According to the Page History, it appears as if I created this page, but I didn't (I had never seen the page until just now). Does anyone know what is going on here? [[User:Nanobug|Nanobug]] 12:21 14 Jul 2003 (UTC)</text>
+      <sha1>nlvqn47liy5nvbal4ol6hmv840c09xz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/Bonding</title>
+    <ns>0</ns>
+    <id>53</id>
+    <revision>
+      <id>1748943</id>
+      <parentid>1748942</parentid>
+      <timestamp>2010-04-01T19:52:49Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>Restoring current version</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Organic Chemistry/Foundational concepts of organic chemistry/Electronegativity|&lt; Electronegativity]] | [[Organic_Chemistry/Foundational_concepts_of_organic_chemistry/Electron_dot_structures|Electron dot structure &gt;]]
+----
+&lt;/noinclude&gt;
+
+== Ionic Bonding ==
+[[Image:Sodium_chloride_crystal.png|thumb|right|The Sodium Chloride Crystal Structure.  Each atom has six nearest neighbors, with octahedral geometry.  This arrangement is known as ''cubic close packed'' (ccp).  &lt;br&gt;
+Light blue = Na&lt;sup&gt;+&lt;/sup&gt;&lt;br&gt;
+Dark green = Cl&lt;sup&gt;-&lt;/sup&gt;]]
+
+'''Ionic bonding''' is when positively and negatively charged '''ions''' stick to each other through electrostatic force. These bonds are '' slightly weaker than [[#Covalent Bonding|covalent bonds]]'' and stronger than Van der Waals bonding or hydrogen bonding.
+
+In ionic bonds the [[Organic Chemistry/Foundational concepts of organic chemistry/Electronegativity|electronegativity]] of the negative ion is so much stronger than the electronegativity of the positive ion that the two ions do not share electrons. Rather, the more electronegative ion assumes full ownership of the electron(s).
+
+Sodium chloride forms crystals with cubic symmetry. In these, the larger chloride ions are arranged in a cubic close-packing, while the smaller sodium ions fill the octahedral gaps between them.  Each ion is surrounded by six of the other kind.  This same basic structure is found in many other minerals, and is known as the halite structure.
+
+Perhaps the most common example of an ionically bonded substance is NaCl, or table salt. In this, the [[w:sodium|sodium (Na)]] atom gives up an electron to the much more electronegative [[w:chlorine|chlorine (Cl)]] atom, and the two atoms become ions, Na&lt;sup&gt;+&lt;/sup&gt; and Cl&lt;sup&gt;-&lt;/sup&gt;.The electrostatic bonding force between the two oppositely charged ions extends outside the local area attracting other ions to form giant crystal structures. For this reason most ionically bonded materials are solid at room temperature.
+
+== Covalent Bonding ==
+'''Covalent bonding''' is close to the heart of organic chemistry. This is where two atoms '''share electrons''' in a bond. The goal of each atom is to ''fill its octet'' as well as have a ''formal charge of zero''. To do this, atomic nuclei share electrons in the space between them. This sharing also allows the atoms to reach a '''lower energy state''', which '''stabilizes''' the molecule. Most reactions in chemistry are due to molecules achieving a lower energy state. Covalent bonds are most frequently seen between atoms with similar electronegativity.  In molecules that only have one type of atom, e.g. H&lt;sub&gt;2&lt;/sub&gt; or O&lt;sub&gt;2&lt;/sub&gt; , the electronegativity of the atoms is necessarily identical, so they cannot form ionic bonds. They always form covalent bonds.
+
+Carbon is especially good at covalent bonding because its electronegativity is intermediate relative to other atoms. That means it can give as well as take electrons as needs warrant.
+
+Covalently bonded compounds have strong internal bonds but weak attractive forces between molecules. Because of these weak attractive forces, the melting and boiling points of these compounds are much lower than compounds with [[Organic Chemistry/Foundational concepts of organic chemistry/Ionic bonding|ionic bond]]s. Therefore, such compounds are much more likely to be liquids or gases at room temperature than ionically bonded compounds.
+
+In molecules formed from two atoms of the same element, there is no difference in the electronegativity of the bonded atoms, so the electrons in the covalent bond are shared equally, resulting in a completely '''non-polar covalent''' bond.  In covalent bonds where the bonded atoms are different elements, there is a difference in electronegativities between the two atoms.  The atom that is more electronegative will attract the bonding electrons more toward itself than the less electronegative atom.  The difference in charge on the two atoms because of the electrons causes the covalent bond to be polar.  Greater differences in electronegativity result in more polar bonds.  Depending on the difference in electronegativities, the [[polarity]] of a bond can range from non-polar covalent to ionic with varying degrees of '''polar covalent''' in between.  An overall imbalance in charge from one side of a molecule to the other side is called a '''dipole moment'''.  Such molecules are said to be '''polar'''. For a completely symmetrical covalently bonded molecule, the overall dipole moment of the molecule is zero.  Molecules with larger dipole moments are more polar.  The most common polar molecule is water.
+
+==Bond Polarity and Dipole Moment==
+
+[[Image:Ch4-structure.png|thumb|right|Methane]]
+
+The ideas of bond polarity and dipole moment play important roles in organic chemistry.
+
+If you look at the image of methane on the right, the single most important aspect of it in terms of bond polarity is that it is a symmetric molecule. It has 4 hydrogens, all bonded at 109.5° from the other, and all with precisely the same bond angle. Each carbon-hydrogen bond is slightly polar (hydrogen has an electronegativity of 2.1, carbon 2.5), but because of this symmetry, the polarities cancel each other out and overall, methane is a non-polar molecule.
+
+The distinction is between '''Bond Polarity''' and '''Molecular polarity'''. The total polarity of a molecule is measured as '''Dipole Moment'''. The actual calculation of dipole moment isn't really necessary so much as an understanding of what it means. Frequently, a guesstimate of dipole moment is pretty easy once you understand the concept and until you get into the more advanced organic chemistry, exact values are of little value.
+
+Basically, the molecular polarity is, essentially, the summation of the vectors of all of the bond polarities in a molecule.
+
+== Van der Waals Bonding ==
+Van der Waals bonding is the collective name for three types of interactions:
+
+#'''Permanent Dipole interactions:''' these are the electrostatic attractive forces between two dipoles, these are responsible for fluromethane's (CH3F) high boiling point (about -15 deg C) compared to Nitrogen (about -180 deg C).
+#'''Permanent dipole / induced dipole:''' these are the interactions between a permanent dipole and another molecule, causing the latter molecule's electron cloud to be distorted and thus have an induced dipole itself.  These are much weaker than the permanent dipole / dipole interactions.  These forces occur in permanent dipole-molecules, and in mixtures of permanent dipole and dipole free molecules.
+#'''Instantaneous dipole / induced dipole:''' At any specific moment the electron cloud is not necesarily symetrical, this instantaneous dipole then induces a dipole in another molecule and they are attracted, this is the weakest of all molecular interactions.
+
+A Dipole is caused by an atom or molecule fragment having a higher electronegativity (this is a measure of its effective nuclear charge, and thus the attraction of the nucleus by electrons) than one to which it is attached.  This means that it pulls electrons closer to it, and has a higher share of the electrons in the bond.  Dipoles can cancel out by symmetry, eg: Carbon dioxide (O=C=O) is linear so there is no dipole, but the charge distribution is asymmetric causing a quadripole moment (this acts similarly to a dipole, but is much weaker).
+
+== Organometallic Compounds and Bonding ==
+Organometallic chemistry combines aspects of inorganic chemistry and organic chemistry, because organometallic compounds are  chemical compounds containing bonds between carbon and a metal or metalloid element.  Organometallic bonds are different from other bonds in that they are not either truly covalent or truly ionic, but each type of metal has individual bond character.  Cuprate (copper) compounds, for example, behave quite differently than Grignard reagents (magnesium), and so beginning organic chemists should concentrate on how to use the most basic compounds mechanistically, while leaving the explanation of exactly what occurs at the molecular level until later and more in-depth studies in the subject.
+
+Basic organometallic interactions are discussed fully in a later chapter.
+
+&lt;noinclude&gt;
+----
+[[Organic Chemistry/Foundational concepts of organic chemistry|&lt;&lt; Foundational concepts]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Electronegativity|&lt; Electronegativity]] | Bonding | [[Organic Chemistry/Foundational concepts of organic chemistry/Electron dot structures|Electron dot structures &gt;]] | [[Organic Chemistry/Alkanes|Alkanes  &gt;&gt;]]
+&lt;/noinclude&gt;
+
+{{BookCat}}</text>
+      <sha1>6kojjn6mkdjgswtrmplhinxl5k5m6as</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/Resonance</title>
+    <ns>0</ns>
+    <id>54</id>
+    <revision>
+      <id>1740734</id>
+      <parentid>1543582</parentid>
+      <timestamp>2010-03-21T05:45:17Z</timestamp>
+      <contributor>
+        <ip>69.90.50.97</ip>
+      </contributor>
+      <comment>/* Resonance */</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Organic Chemistry/Foundational concepts of organic chemistry/Electron dot structures|&lt;&lt; Electron dot structures]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases|Acids and bases &gt;&gt;]]
+----
+&lt;/noinclude&gt;
+
+==Resonance ==
+
+'''Resonance''' refers to structures that are not easily represented by a single electron dot structure but that are intermediates between two or more drawn structures.
+
+Resonance is easily misunderstood in part because of the way certain chemistry textbooks attempt to explain the concept.  In science, analogies can provide an aid to understanding, but analogies should not be taken too literally.  It is sometimes best to use analogies to introduce a topic, but then explain the differences and inevitable complications as further details on a complicated subject.  This is the case for resonance.
+
+&lt;/blockquote&gt;
+
+Just as entropic principles cannot be applied to individual molecules, it is impossible to say whether or not any given individual molecule with a resonance structure is literally in one configuration or another.  The actual situation on the molecular scale is that each configuration of the molecule contributes a percentage to the possible configurations, resulting in a &quot;blend&quot; of the possible structures.  Changes in molecular shape occur so rapidly, and on such a tiny scale, that the '''actual physical locations of individual electrons cannot be precisely known''' (due to Heisenberg's Uncertainty Principle).  The result of all that complexity is simply this: molecules with resonance structures are treated as mixtures of their multiple forms, with a greater percentage of probability given to the most stable configurations.
+
+The '''nuclei of the atoms are not moving''' when they are represented by resonance structure drawings.  Rather, the electrons are portrayed as if they were moving instead.  The true situation is that no one can say for certain exactly where any individual electron is at any specific moment, but rather electron location can be expressed as a probability only.  What a dot structure is actually showing is where electrons almost certainly are located, therefore resonance structures indicate a split in those same probabilities.  Chemists are absolutely certain where electrons are located when one carbon bonds four hydrogens (methane), but it is less certain where precisely any given electron is located when six carbons bond six hydrogens in a ring structrue (benzene).  Resonance is an expression of this uncertainty, and is therefore the average of probable locations.
+
+Resonance structures are '''stabilizing''' in molecules because they allow electrons to lengthen their wavelengths and thereby '''lower their energy'''.  This is the reason that benzene (C&lt;sub&gt;6&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt;) has a lower heat of formation than organic chemists would predict, not accounting for resonance.  Other aromatic molecules have a similar stability, which leads to an overall entropic preference for aromaticity (a subject that will be covered fully in a later chapter).  Resonance stability plays a major role in organic chemistry due to resonant molecules' lower energy of formation, so students of organic chemistry should understand this effect and practice spotting molecules stabilized by resonant forms.
+
+&lt;blockquote&gt;
+[[image:Resonance_example2.PNG|Carbonate]]
+&lt;br&gt;
+In the Lewis structures above, carbonate (CO&lt;sub&gt;3&lt;/sub&gt;) has a resonance structure. Using laboratory procedures to measure the bond length of each bond, we do not find that one bond is shorter than the two others (remember, double bonds are shorter than single bonds), but instead that all bonds are of the same length somewhere between the length of typical double and single bonds.
+&lt;/blockquote&gt;
+
+== Resonance Structures ==
+[[Image:Benz3.png|200px|frame|right|Scheme 1. Resonance structures of Benzene]]
+&lt;!--More diagrams welcome--&gt;
+'''Resonance structures''' are diagrammatic tools used predominately in [[w:organic chemistry|organic chemistry]] to symbolize '''resonant bonds''' between [[w:atom|atom]]s in [[w:molecule|molecule]]s. The electron density of these bonds is spread over the molecule, also known as the [[w:delocalization|delocalization]] of [[w:electron|electron]]s.  Resonance contributors for the same molecule all have the same [[w:chemical formula|chemical formula]] and same sigma framework, but the pi electrons will be distributed differently among the atoms.  Because [[w:Lewis dot diagram|Lewis dot diagram]]s often cannot represent the true electronic structure of a molecule, resonance structures are often employed to approximate the true electronic structure. Resonance structures of the same molecule are connected with a double-headed arrow. While organic chemists use resonance structures frequently, they are also used in inorganic structures, with [[w:nitrate|nitrate]] as an example.
+
+== Key characteristics ==
+The key elements of resonance are:
+*Resonance occurs because of the overlap of [[w:atomic orbital|orbital]]s.  Double bonds are made up of [[w:pi bond|pi bonds]], formed from the overlap of 2p [[w:atomic orbital|orbital]]s. The electrons in these pi orbitals will be spread over more than two atoms, and hence are delocalized.
+*Both paired and unshared electrons may be delocalized, but all the electrons must be conjugated in a pi system.
+*If the orbitals do not overlap (such as in [[w:orthogonal|orthogonal]] orbitals) the structures are not true resonance structures and do not mix.
+*Molecules or species with resonance structures are generally considered to be more stable than those without them.  The delocalization of the electrons lowers the orbital energies, imparting this stability.  The resonance in benzene gives rise to the property of [[w:aromaticity|aromaticity]]. The gain in stability is called the '''resonance energy'''.
+*All resonance structures for the same molecule must have the same sigma framework ([[w:Sigma bond|sigma bond]]s form from the &quot;head on&quot; overlap of hybridized orbitals).  Furthermore, they must be correct [[w:Lewis structure|Lewis structure]]s with the same number of electrons (and consequent [[w:Electric charge|charge]]) as well as the same number of unpaired electrons.  Resonance structures with arbitrary separation of charge are unimportant, as are those with fewer covalent bonds. These unimportant resonance structures only contribute minimally (or not at all) to the overall bonding description; however, they are important in some cases such as for a [[w:Carbonyl|carbonyl]] group.
+* The '''hybrid structure''' is defined as the superposition of the resonance structures.  A benzene ring is often shown with a circle inside a hexagon (in American texts) rather than alternating double bonds &amp;mdash; the latter example misrepresents the electronic structure. Bonds with broken [[w:Bond order|bond order]]s are often displayed as double bonds with one solid and one dashed line.
+
+== What resonance is not ==
+Significantly, resonance structures do not represent different, isolatable structures or compounds.  In the case of benzene, for example, there are two important resonance structures - which can be thought of as cyclohexa-1,3,5-trienes.  There are other resonance forms possible, but because they are higher in energy than the triene structures (due to charge separation or other effects) they are less important and contribute less to the &quot;real&quot; electronic structure (average hybrid).  However, this does not mean there are two different, interconvertable forms of benzene; rather, the true electronic structure of benzene is an average of the two structures.  The six carbon-carbon bond lengths are identical when measured, which would be invalid for the cyclic triene.
+Resonance should also not be confused with a [[w:Chemical equilibrium|chemical equilibrium]] or [[w:Tautomerism|tautomerism]] which are equilibria between  compounds that have different sigma bonding patterns. [[w:Hyperconjugation|Hyperconjugation]] is a special case of resonance.
+
+== History ==
+The concept of resonance was introduced by [[w:Linus Pauling|Linus Pauling]] in 1928. He was inspired by the [[w:Quantum mechanics|quantum mechanical]] treatment of the H&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt; ion in which an electron is located between two hydrogen nuclei. The alternative term '''mesomerism''' popular in German and French publications with the same meaning was introduced by [[w:Christopher Ingold|Christopher Ingold]] in 1938 but did not catch on in the English literature. The current concept of [[w:Mesomeric effect|Mesomeric effect]] has taken on a related but different meaning. The double headed arrow was introduced by the German chemist Arndt (also responsible for the [[w:Arndt-Eistert synthesis|Arndt-Eistert synthesis]]) who preferred the German phrase ''zwischenstufe'' or ''intermediate phase''.
+
+Due to confusion with the physical meaning of the word ''[[w:Resonance|resonance]]'', as no elements do actually appear to be resonating, it is suggested to abandon the term ''resonance'' in favor of ''delocalization''  {{Ref|Kerber}}. Resonance energy would become delocalization energy and a ''resonance structure'' becomes '''contributing structure'''. The double headed arrows would get replaced by commas.
+
+== Examples ==
+[[Image:Resonance examples.png|thumb|center|400px|Scheme 2. Examples of resonance ozone, benzene and the allyl cation]]
+
+The [[w:ozone|ozone]] molecule is represented by two resonance structures in the top of ''scheme 2''. In reality the two terminal oxygen atoms are equivalent and the hybrid structure is drawn on the right with a charge of -1/2 on both oxygen atoms and partial double bonds.
+The concept of benzene as a hybrid of two conventional structures (middle ''scheme 2'') was a major breakthrough in chemistry made by [[w:Kekule|Kekule]], and the two forms of the ring which together represent the total resonance of the system are called ''Kekule structures''. In the hybrid structure on the right the circle replaces three double bonds.
+The [[w:allyl|allyl]] [[w:cation|cation]] (bottom ''scheme 2'') has two resonance forms and in the hybrid structure the positive charge is delocalized over the terminal methylene groups.
+
+==See also==
+* [[w:Delocalization|Delocalization]]
+
+== References ==
+# {{Note|Kerber}} ''If It's Resonance, What Is Resonating?''  Kerber, Robert C. . J. Chem. Educ. '''2006''' 83 223. [http://www.jce.divched.org/Journal/Issues/2006/Feb/abs223.html Abstract]
+# (Much of this text originally from http://en.wikipedia.org/w/index.php?title=Resonance_%28chemistry%29&amp;oldid=41962377
+
+&lt;noinclude&gt;
+----
+[[Organic Chemistry/Foundational concepts of organic chemistry|&lt;&lt; Foundational concepts]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Electron dot structures|&lt;&lt; Electron dot structures]] | Resonance | [[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases|Acids and bases &gt;&gt;]] | [[Organic Chemistry/Alkanes|Alkanes &gt;&gt;]]
+&lt;/noinclude&gt;
+
+{{BookCat}}</text>
+      <sha1>ttp8ivmvmv8n5wqvq6zvkws1c7zke5x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases</title>
+    <ns>0</ns>
+    <id>55</id>
+    <revision>
+      <id>2372178</id>
+      <parentid>1110340</parentid>
+      <timestamp>2012-07-02T20:53:36Z</timestamp>
+      <contributor>
+        <username>Vchorozopoulos</username>
+        <id>364440</id>
+      </contributor>
+      <minor />
+      <comment>/* Brønsted-Lowry Acids and Bases: Proton donors and acceptors */</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Organic Chemistry/Foundational concepts of organic chemistry/Resonance|&lt;&lt; Resonance]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Nomenclature|Nomenclature &gt;&gt;]]
+----
+&lt;/noinclude&gt;
+
+==Arrhenius Definition: Hydroxide and Hydronium Ions==
+
+The first and earliest definition of acids and bases was proposed in the 1800's by Swedish scientist Svante Arrhenius, who said that an '''acid''' was anything that dissolved in water to yield '''H&lt;sup&gt;+&lt;/sup&gt; ions''' (like stomach acid HCl, hydrochloric acid), and a '''base''' was anything that dissolved in water to give up '''OH&lt;sup&gt;-&lt;/sup&gt; ions''' (like soda lye NaOH, sodium hydroxide).  Acids and bases were already widely used in various occupations and activities of the time, so Arrhenius' definition merely attempted to explained well-known and long-observed phenomenon.
+
+Although simple, at the time this definition of the two types of substances was significant.  It allowed chemists to explain certain reactions as ion chemistry, and it also expanded the ability of scientists of the time to predict certain chemical reactions.  The definition left a great deal wanting, however, in that many types of reactions that did not involve hydroxide or hydronium ions directly remained unexplained.
+
+Many general chemistry classes (especially in the lower grades or introductory levels) still use this simple definition of acids and bases today, but modern organic chemists make further distinctions between acids and bases than the distinctions provided under Arrhenius's definition.
+
+==Brønsted-Lowry Acids and Bases: Proton donors and acceptors==
+
+A new definition for acids and bases, building upon the one already proposed by Arrhenius, was brought forth independently by Johannes Nicolaus Brønsted and Thomas Martin Lowry in 1923.  The new definition did not depend on a substance's dissolution in water for definition, but instead suggested that a substance was acidic if it readily donated a proton (H&lt;sup&gt;+&lt;/sup&gt;) to a reaction and a substance was basic if it accepted a proton in a reaction.
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;H2&gt;Definiton of Brønsted-Lowry Acid and Base&lt;/H2&gt;
+
+An '''acid''' is any '''proton donor''' and a '''base''' is any '''proton acceptor'''.
+|}
+
+The major advantage of the updated definition was that it was not limited to aqueous solution.  This definition of acids and bases allowed chemists to explain a great number of reactions that took place in protic or aprotic solvents that were not water, and it also allowed for gaseous and solid phase reactions (although those reactions are more rare).
+
+For example, the hypothetical acid HA will disassociate into H&lt;sup&gt;+&lt;/sup&gt; and A&lt;sup&gt;-&lt;/sup&gt;:
+
+&lt;p align=&quot;center&quot;&gt;&lt;math&gt;HA \overrightarrow\longleftarrow H^+ + A^-&lt;/math&gt;&lt;/p&gt;
+
+
+The Brønsted-Lowry definiton of acids and bases is one of two definitions still in common use by modern chemists.
+
+==Lewis Acids and Bases: Electron donors and acceptors==
+
+The second definition in widespread use deals not with a molecule's propensity for accepting or donating protons but rather with accepting or donating electrons, thereby demonstrating a slightly different emphasis and further broadening the explanatory and predictive powers of acid-base chemistry.
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;top&quot; |
+
+&lt;H2&gt;Definition of Lewis Acids and Bases&lt;/H2&gt;
+
+A Lewis '''acid''' is an '''electron acceptor''' and a Lewis '''base''' is an '''electron donor'''.
+|}
+
+
+Probably the most important aspect of Lewis acids and bases is which types of atoms can donate electrons, and which types of atoms can receive them.  Essentially atoms with lone pairs, i.e. unshared pairs of electrons in an outer shell, have the capability of using those lone pairs to attract electron-deficient atoms or ions.  This is why ammonia can bond a fourth hydrogen ion to create the ammonium ion; its lone pair of electrons can attract and bond to a free H&lt;sup&gt;+&lt;/sup&gt; ion in solution and hold on to it.  For the same reason, methane cannot become methanium ion under ordinary circumstances, because the carbon in methane does not have any unshared pairs of electrons orbiting its nucleus.  Generally speaking, Lewis acid are in the nitrogen, oxygen or halogen groups of the periodic table.
+
+==Nucleophiles and Electrophiles==
+
+Whether or not an atom can donate or accept electrons it can be called a nucleophile or electrophile, respectively.  '''Electrophiles''' (literally, &quot;lovers of electrons&quot;) are attracted to electrons. Electrophiles therefore seek to pair with unshared electrons of other atoms. '''Nucleophiles''', or &quot;nucleus lovers&quot;, seek positively charged nuclei such as those available in acidic solutions as hydronium ions.  It is important to note that electrophiles and nucleophiles are often '''ions''', but sometimes they are not. 
+
+Understanding '''electrophiles''' and '''nucleophiles''' goes beyond simply ideas of acids and bases. They are, in a majority of cases, the major players in organic reactions. As we will, over and over again, find reactions that are the result of nucleophiles ''attacking'' electrophiles. Keep in mind that the idea of nucleophiles and electrophiles is very related to the ideas of acids and bases in the Lewis context.
+
+But it is also important to understand that, while they are related, they are not exactly the same thing either. An ion or molecule can be a strong nucleophile and a weak base (e.g. N&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;-&lt;/sup&gt;, RS&lt;sup&gt;-&lt;/sup&gt;, I&lt;sup&gt;-&lt;/sup&gt;, Br&lt;sup&gt;-&lt;/sup&gt; and CN&lt;sup&gt;-&lt;/sup&gt;). Another ion can be a poor nucleophile and a strong base ((CH&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;CO&lt;sup&gt;-&lt;/sup&gt;, R&lt;sub&gt;2&lt;/sub&gt;N&lt;sup&gt;-&lt;/sup&gt;). And yet others are strong nucleophiles and strong bases (R&lt;sub&gt;3&lt;/sub&gt;C&lt;sup&gt;-&lt;/sup&gt;, RO&lt;sup&gt;-&lt;/sup&gt;, HO&lt;sup&gt;-&lt;/sup&gt;) and poor nucleophiles and poor bases (RCO&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;-&lt;/sup&gt;, ROH, NH&lt;sub&gt;3&lt;/sub&gt;).
+
+This will all be discussed in greater detail as the topics of specific reactions and reaction mechanisms are covered. In the meantime, try to bear in mind that nucleophiles are basic and electrophiles are acidic.
+
+==pK&lt;sub&gt;a&lt;/sub&gt; and Acidity ==
+
+The acid dissociation constant of a substance is commonly called its pK&lt;sub&gt;a&lt;/sub&gt;, and it is a measure of the negative log of the K value of an acid dissociation reaction.  (The K value refers to the equilibrium calculations you learned how to perform in general chemistry -- if you have forgotten your K's and Q's, now would be a good time to [http://en.wikipedia.org/wiki/PKa refresh your memory] on the topic.)
+
+:&lt;math&gt;pK_a = -\log(K_a)&lt;/math&gt;
+
+The lower the pK&lt;sub&gt;a&lt;/sub&gt; value is, the more acidic (and consequently, less basic) a substance is.  There is also a pK&lt;sub&gt;b&lt;/sub&gt; value for all relevant substances, but it is common in organic chemistry to use pK&lt;sub&gt;a&lt;/sub&gt; exclusively, even when discussing bases.  This is because extremely high pK&lt;sub&gt;a&lt;/sub&gt; values correlate exactly to extremely low pK&lt;sub&gt;b&lt;/sub&gt; values, so there is no need to use both kinds of measurements.  Any pK&lt;sub&gt;a&lt;/sub&gt; value higher than seven means that a substance is not acidic when placed in water, but '''it does not mean that substance cannot be an acid'''.  Alcohols are a good example of this: they can donate a hydrogen ion in chemical reactions but they do not do so readily, which makes them acidic but only very weakly so.  Many of the acids in organic chemistry are considerably weaker than acids used for inorganic chemistry, so discussion of acid-base chemistry in organic reactions may not necessarily relate well to your previous understanding of the topic.
+
+&lt;noinclude&gt;
+----
+[[Organic Chemistry/Foundational concepts of organic chemistry|&lt;&lt; Foundational concepts]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Resonance|&lt;&lt; Resonance]] | Acids and bases | [[Organic Chemistry/Foundational concepts of organic chemistry/Nomenclature|Nomenclature &gt;&gt;]] | [[Organic Chemistry/Alkanes|Alkanes &gt;&gt;]]
+&lt;/noinclude&gt;
+
+{{BookCat}}</text>
+      <sha1>c9kimhdmx1hi725cf3il80itwywf4jc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/Electron dot structures</title>
+    <ns>0</ns>
+    <id>56</id>
+    <revision>
+      <id>2464649</id>
+      <parentid>2462334</parentid>
+      <timestamp>2012-12-17T22:25:22Z</timestamp>
+      <contributor>
+        <username>Recent Runes</username>
+        <id>66908</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/117.204.179.247|117.204.179.247]] ([[User talk:117.204.179.247|talk]]) to last version by Adrignola</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Organic Chemistry/Foundational concepts of organic chemistry/Bonding|&lt;&lt; Bonding]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Resonance|Resonance &gt;&gt;]]
+----
+&lt;/noinclude&gt;
+
+== Electron Dot Structures ==
+&lt;div class=&quot;noprint&quot; style=&quot;border:1px solid gold; background:cornsilk; padding: 4px; text-align: center; float: right;&quot;&gt;&lt;small&gt;
+''On WP:'' &lt;br&gt; [[w:Lewis structures|Lewis structures]]
+&lt;/small&gt;&lt;/div&gt;
+'''Electron dot structures''', also called ''Lewis structures'', give a representation of the valence electrons surrounding an atom.
+
+Each valence electron is represented by one dot, thus, a lone atom of hydrogen would be drawn as an ''H'' with one dot, whereas a lone atom of Helium would be drawn as an ''He'' with two dots, and so forth.
+
+Representing two atoms joined by a covalent bond is done by drawing the atomic symbols near to each other, and drawing a single line to represent a shared pair of electrons.  It is important to note: a single valence electron is represented by a dot, whereas a pair of electrons is represented by a line.
+
+The covalent compound hydrogen fluoride, for example, would be represented by the symbol ''H'' joined to the symbol ''F'' by a single line, with three pairs (six more dots) surrounding the symbol ''F''.  The line represents the two electrons shared by both hydrogen and fluorine, whereas the six paired dots represent fluorine's remaining six valence electrons.
+
+Dot structures are useful in illustrating simple covalent molecules, but the limitations of dot structures become obvious when diagramming even relatively simple organic molecules.  The dot structures have no ability to represent the actual physical orientation of molecules, and they become overly cumbersome when more than three or four atoms are represented.
+
+Lewis dot structures are useful for introducing the idea of covalence and bonding in small molecules, but other model types have much more capability to communicate chemistry concepts.
+
+
+===Drawing electron dot structures===
+[[Image:Lewis_diatomic_hydrogen.gif|Lewis Dot Structure of Diatomic Hydrogen Molecule]]
+[[Image:Lewis_diatomic_helium.gif|Lewis Dot Structure of Diatomic Helium Molecule]]
+[[Image:Lewis_diatomic_fluorine.gif|Lewis Dot Structure of Diatomic Fluorine Molecule]]
+[[Image:Lewis_hydrogen_fluoride.gif|Lewis Dot Structure of an Hydrofluoric Acid Molecule]]&lt;br&gt;
+Some examples of electron dot structures for a few commonly encountered molecules from inorganic chemistry.
+
+
+==== A note about Gilbert N. Lewis ====
+&lt;div class=&quot;noprint&quot; style=&quot;border:1px solid gold; background:cornsilk; padding: 4px; text-align: center; float: right;&quot;&gt;&lt;small&gt;
+''On WP:'' &lt;br&gt; [[w:Gilbert N. Lewis|Gilbert N. Lewis]]yo
+&lt;/small&gt;&lt;/div&gt;
+Lewis was born in Weymouth, Massachusetts as the son of a Dartmouth-graduated lawyer/broker.  He attended the University of Nebraska at age 14, then three years later transferred to Harvard.  After showing an initial interest in Economics, Gilbert Newton Lewis earned first a B.A. in Chemistry, and then a Ph.D. in Chemistry in 1899.
+
+For a few years after obtaining his doctorate, Lewis worked and studied both in the United States and abroad (including Germany and the Philippines) and he was even a professor at M.I.T. from 1907 until 1911.  He then went on to U.C. Berkeley in order to be Dean of the College of Chemistry in 1912.
+
+In 1916 Dr. Lewis formulated the idea that a covalent bond consisted of a shared pair of electrons.  His ideas on chemical bonding were expanded upon by Irving Langmuir and became the inspiration for the studies on the nature of the chemical bond by Linus Pauling.
+
+In 1923, he formulated the electron-pair theory of acid-base reactions. In the so-called Lewis theory of acids and bases, a &quot;Lewis acid&quot; is an electron-pair acceptor and a &quot;Lewis base&quot; is an electron-pair donor.
+
+In 1926, he coined the term &quot;photon&quot; for the smallest unit of radiant energy.
+
+Lewis was also the first to produce a pure sample of deuterium oxide (heavy water) in 1933. By accelerating deuterons (deuterium nuclei) in Ernest O. Lawrence's cyclotron, he was able to study many of the properties of atomic nuclei.
+
+During his career he published on many other subjects, and he died at age 70 of a heart attack while working in his laboratory in Berkeley.  He had one daughter and two sons; both of his sons became chemistry professors themselves.
+
+== Formal Charge ==
+&lt;div class=&quot;noprint&quot; style=&quot;border:1px solid gold; background:cornsilk; padding: 4px; text-align: center; float: right;&quot;&gt;&lt;small&gt;
+''On WP:'' &lt;br&gt; [[w:Lewis_structure#Formal_Charge|Formal charge]]
+&lt;/small&gt;&lt;/div&gt;
+
+The '''formal charge''' of an atom is the charge that it would have if every bond were 100% covalent (non-polar). Formal charges are computed by using a set of rules and are useful for accounting for the electrons when writing a reaction mechanism, but they don't have any intrinsic physical meaning. They may also be used for qualitative comparisons between different resonance structures (see below) of the same molecule, and often have the same sign as the partial charge of the atom, but there are exceptions.
+
+The formal charge of an atom is computed as the difference between the number of valence electrons that a neutral atom would have and the number of electrons that &quot;belong&quot; to it in the Lewis structure when one counts lone pair electrons as belonging fully to the atom, while electrons in covalent bonds are split equally between the atoms involved in the bond. The total of the formal charges on an ion should be equal to the charge on the ion, and the total of the formal charges on a neutral molecule should be equal to zero.
+
+For example, in the hydronium ion, H&lt;sub&gt;3&lt;/sub&gt;O&lt;sup&gt;+&lt;/sup&gt;, the oxygen atom has 5 electrons for the purpose of computing the formal charge—2 from one lone pair, and 3 from the covalent bonds with the hydrogen atoms. The other 3 electrons in the covalent bonds are counted as belonging to the hydrogen atoms (one each). A neutral oxygen atom has 6 valence electrons (due to its position in group 16 of the periodic table); therefore the formal charge on the oxygen atom is 6 – 5 = +1. A neutral hydrogen atom has one electron. Since each of the hydrogen atoms in the hydronium atom has one electron from a covalent bond, the formal charge on the hydrogen atoms is zero. The sum of the formal charges is +1, which matches the total charge of the ion.
+
+: Formal Charge: number of valence electrons for an atom - (number of lone pair electrons + number electrons in bonds/2)
+: &lt;math&gt;FC = N_{valence} - \left( N_{lone pairs} + \frac{N_{electrons}}{2} \right)&lt;/math&gt;
+
+In chemistry, a formal charge (FC) on an atom in a molecule is defined as:
+
+: FC = number of valence electrons of the atom - ( number of lone pair electrons on this atom + total number of electrons participating in covalent bonds with this atom / 2).
+: &lt;math&gt;FC = N_{valence} - \left( N_{lone pairs} + \frac{N_{participating electrons}}{2} \right)&lt;/math&gt;
+
+When determining the correct Lewis structure (or predominant resonance structure) for a molecule, the structure is chosen such that the formal charge on each of the atoms is minimized.
+
+===Examples===
+; carbon in methane : &lt;math&gt;FC = 4 - \left( 0 + \frac{8}{2} \right) = 0&lt;/math&gt;
+; Nitrogen in &lt;math&gt;NO_2^{-}&lt;/math&gt; : &lt;math&gt;FC = 5 - \left( 2 + \frac{6}{2} \right) = 0&lt;/math&gt;
+; double bonded oxygen in &lt;math&gt;NO_2^{-}&lt;/math&gt; : &lt;math&gt;FC = 6 - \left( 4 + \frac{4}{2} \right) = 0&lt;/math&gt;
+; single bonded oxygen in &lt;math&gt;NO_2^{-}&lt;/math&gt; : &lt;math&gt;FC = 6 - \left( 6 + \frac{2}{2} \right) = -1&lt;/math&gt;
+
+{|
+|-
+|valign=&quot;top&quot;| [[Image:Methane-3D-balls.png|thumb|250px|Methane (&lt;math&gt;CH_4&lt;/math&gt;): black is carbon, white is hydrogen]]
+|valign=&quot;top&quot;| [[Image:Nitrogen-dioxide-3D-vdW.png|thumb|250px|Nitrogen dioxide (&lt;math&gt;NO_2&lt;/math&gt;): blue is nitrogen, red is oxygen]]
+|}
+
+&lt;noinclude&gt;
+----
+[[Organic Chemistry/Foundational concepts of organic chemistry|&lt;&lt; Foundational concepts]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Bonding|&lt;&lt; Bonding]] | Electron dot structures | [[Organic Chemistry/Foundational concepts of organic chemistry/Resonance|Resonance &gt;&gt;]] | [[Organic Chemistry/Alkanes|Alkanes &gt;&gt;]]
+&lt;/noinclude&gt;
+
+{{BookCat}}</text>
+      <sha1>1on4p7osh81rjyqqwzt37umlm98wnq8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Introduction to reactions/Overview of addition, elimination, substitution and rearrangement reactions</title>
+    <ns>0</ns>
+    <id>57</id>
+    <revision>
+      <id>961182</id>
+      <parentid>705456</parentid>
+      <timestamp>2007-09-07T18:34:50Z</timestamp>
+      <contributor>
+        <username>Whiteknight</username>
+        <id>10714</id>
+      </contributor>
+      <minor />
+      <comment>removing all sub-pages from [[Category:Chemistry]], reformatting book main pages to use {{Subject}}</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Organic Chemistry/Cycloalkanes|&lt;&lt; Cycloalkanes]] | [[Organic Chemistry/Introduction to reactions/Polar and radical reactions|Next &gt;&gt;]]
+----
+&lt;/noinclude&gt;
+The real heart of organic chemistry is the reactions. Everything that you study is geared to prepare you for organic syntheses and other chemical transformations performed in the lab. This chapter gives you the basic tools to begin looking at these reactions.
+
+==Some basic reaction types==
+One way to organize organic reactions places them into a few basic categories:
+
+*'''addition reactions'''
+*'''elimination reactions'''
+*'''substitution reactions'''
+*'''rearrangement reactions'''
+
+Other categories include:
+*'''Oxidations '''
+*'''Reductions'''
+*'''Alkylations'''
+
+Sometimes one reaction can fall into more than one category. These classifications are just a tool and are not rigid.
+
+==Addition reaction==
+
+Something is added to something else to produce a third thing.
+
+:A + B → C
+
+''Note: the letters A, B and C here represent any atomic, ionic or molecular species which can undergo this type of reaction.''
+
+== Elimination reaction ==
+
+Something comes off of a molecule, resulting in two products.
+
+:A → B + C
+
+==Substitution reactions==
+
+This involves the exchange of one group for another.
+
+:AB + CD → AC + BD
+
+Common reaction types include
+*radical reactions and
+*nucleophilic substitutions
+**S&lt;sub&gt;N&lt;/sub&gt;1, Unimolecular nucleophilic substitution
+**S&lt;sub&gt;N&lt;/sub&gt;2, Bimolecular nucleophilic substitution
+
+==Rearrangement reactions==
+
+A molecule shifts or otherwise rearranges to form a different molecule.
+
+:A → B
+
+This typically happens when one molecule changes into an isomer of itself.
+&lt;noinclude&gt;
+----
+[[Organic Chemistry/Alkanes|&lt;&lt; Alkanes]] | [[Organic Chemistry/Cycloalkanes|&lt;&lt; Cycloalkanes]] | Overview of reactions | [[Organic Chemistry/Introduction to reactions/Polar and radical reactions|Polar and radical reactions &gt;&gt;]] | [[Organic Chemistry/Introduction to functional groups|Intro to functional groups &gt;&gt;]]
+&lt;/noinclude&gt;
+
+{{BookCat}}</text>
+      <sha1>s1cvmebdwygla9va3xi3cm4hoyzfnza</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Introduction to reactions/Polar and radical reactions</title>
+    <ns>0</ns>
+    <id>58</id>
+    <revision>
+      <id>1020172</id>
+      <parentid>961177</parentid>
+      <timestamp>2007-11-04T17:19:43Z</timestamp>
+      <contributor>
+        <username>Shalom Yechiel</username>
+        <id>69275</id>
+      </contributor>
+      <comment>/* Polar reactions */</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Organic Chemistry/Introduction to reactions/Overview of addition, elimination, substitution and rearrangement reactions|&lt;&lt; Overview of reactions]] | [[Organic Chemistry/Introduction to reactions/Redox reactions|Redox reactions &gt;&gt;]] 
+----
+&lt;/noinclude&gt;
+===Homolytic vs heterolytic cleavage===
+Two bonded atoms can come apart from each other in one of two ways. Either 
+#each atom gets away with half of the shared electrons, or 
+#one of the atoms leaves with more of the shared electrons than the other. 
+
+In '''homolytic cleavage''', each atom leaves with one-half of the shared electrons (one electron for a single bond, or two for double bonds). 
+
+A—B --&gt; A* + B*
+
+&lt;small&gt; A* and B* represent uncharged radicals. The &quot;*&quot; represents an unbonded, unpaired valence electron.&lt;/small&gt;
+
+In '''heterolytic cleavage''', one atom leaves with all of the previously shared electrons and the other atom gets none of them. 
+
+A—B --&gt; A&lt;sup&gt;-&lt;/sup&gt; + B&lt;sup&gt;+&lt;/sup&gt;
+
+''same'' indicates that each atom leaves with the same number of electrons from the bond. ''different'', refers to the fact that the atoms each end up with a different number of electrons.
+
+==Polar reactions==
+'''Polar reactions''' occur when two bonded atoms come apart, one taking more of the shared electrons than the other. They involve '''heterolytic cleavage'''.  The result is two charged species&amp;mdash;one cation and one anion.
+
+==Radical reactions==
+'''Radical reactions''' don't deal with charged particles but with radicals. '''Radicals''' are uncharged atoms or molecules with an incomplete octet of valence electrons. 
+
+When a molecule comes apart by '''homolytic cleavage''' the result is two radicals. Although uncharged, radicals are usually very reactive because the unfilled octet is unstable and the radical can lower its energy by forming a bond in a way that allows it to fill its valence shell while avoiding any electrostatic charge..
+
+{{BookCat}}</text>
+      <sha1>l55y1r03kds8g7gy73jaitlg76vjuv5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Cehjohnson</title>
+    <ns>2</ns>
+    <id>60</id>
+    <revision>
+      <id>152255</id>
+      <parentid>121</parentid>
+      <timestamp>2003-07-16T13:22:53Z</timestamp>
+      <contributor>
+        <username>Cehjohnson</username>
+        <id>18</id>
+      </contributor>
+      <comment>Edited intermediary steps. Uploaded images to fix math bugs</comment>
+      <text xml:space="preserve">&lt;div style=&quot;padding: 30px; font-family: Arial; font-size: 10pt; background-color: #ffffff&quot;&gt;
+
+== Problem ==
+
+A rectangular pizza is placed on a tray. The sides of the tray extend by 4 units to the right and left and by 3 units (x) above and below. Calculate a value of x such that the area of the tray protruding is as small as possible.
+
+[[Image:pizza.png|Pizza image]]
+
+== Answer ==
+
+The solution to this problem lies in differential calculus. Looking at the diagram below, we can see that the area of the tray extending from the pizza is given by
+
+[[Image:1st-eq.png|math subst image]]
+
+Substituting:
+
+&lt;math&gt;{\mathrm y} = \frac{60}x&lt;/math&gt;
+
+&lt;math&gt;A = (\frac{60}x + 6)(x + 8) - 60&lt;/math&gt;
+
+&lt;math&gt;A = \frac{60x}x + 6x + \frac{480}{x} - 60&lt;/math&gt;
+
+&lt;math&gt;A = 6x + \frac{480}{x}&lt;/math&gt;
+
+[[Image:x-1.png|math subst image]]
+
+[[Image:x-2b.png|math subst image]]
+
+&lt;math&gt;\frac{{\mathrm d}A}{{\mathrm d}x} = 6 - \frac{480}{x^2}&lt;/math&gt;
+
+Since the area should be at a minimum:
+
+&lt;math&gt;0 = 6 - \frac{480}{x^2}&lt;/math&gt;
+
+&lt;math&gt;x = \sqrt80&lt;/math&gt;
+
+&lt;/div&gt;</text>
+      <sha1>l6ewb13ed0tus29o4on3i4kxelf05bj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Introduction to functional groups</title>
+    <ns>0</ns>
+    <id>64</id>
+    <revision>
+      <id>1940383</id>
+      <parentid>961116</parentid>
+      <timestamp>2010-09-28T15:56:57Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>fixed links</comment>
+      <text xml:space="preserve">#[[../Overview of Functional Groups/]]
+#[[../Alcohols/]] 
+#[[../Phenols/]] 
+#[[../Ethers/]] 
+#[[../Epoxides/]] 
+#[[../Ketones and aldehydes/]] 
+#[[../Carboxylic Acids/]] 
+#[[../Carboxylic acid derivatives/]]
+----
+[[../Introduction to reactions|&lt;&lt; Introduction to reactions]] | Introduction to functional groups | [[../Overview of Functional Groups|Overview of Functional Groups &gt;&gt;]] | [[../Alkenes|Alkenes &gt;&gt;]]
+
+{{BookCat}}</text>
+      <sha1>q3kmbvqnkl94mta8v6je70vk8rx37gw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/History of organic chemistry/Vital force theory</title>
+    <ns>0</ns>
+    <id>69</id>
+    <revision>
+      <id>961209</id>
+      <parentid>521495</parentid>
+      <timestamp>2007-09-07T18:35:20Z</timestamp>
+      <contributor>
+        <username>Whiteknight</username>
+        <id>10714</id>
+      </contributor>
+      <minor />
+      <comment>removing all sub-pages from [[Category:Chemistry]], reformatting book main pages to use {{Subject}}</comment>
+      <text xml:space="preserve">[[Organic Chemistry/Foundational concepts of organic chemistry|&lt;&lt; Foundational concepts]] | [[Organic Chemistry/Foundational concepts of organic chemistry/History of organic chemistry/Synthesis of urea|Synthesis of urea &gt;&gt;]] 
+----
+Long ago, people observed the differences between compounds that were derived from living things and those that were not. There seemed to be an impassable gap between the properties of the two groups. Someone proposed the '''vital force theory''' to explain the difference. The theory said that there was a something called a vital force that dwelled within the organic material that did not exist in the nonorganic materials. However, to echo the words of President Ronald Reagan, it was &quot;only&quot; a theory.
+
+[[Organic Chemistry/Foundational concepts of organic chemistry/History of organic chemistry/Synthesis of urea|Synthesis of urea &gt;&gt;]]
+
+{{BookCat}}</text>
+      <sha1>21fuq3ow96eq6qeyan9qud98pn8ic5z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/History of organic chemistry/Synthesis of urea</title>
+    <ns>0</ns>
+    <id>70</id>
+    <revision>
+      <id>961210</id>
+      <parentid>853798</parentid>
+      <timestamp>2007-09-07T18:35:21Z</timestamp>
+      <contributor>
+        <username>Whiteknight</username>
+        <id>10714</id>
+      </contributor>
+      <minor />
+      <comment>removing all sub-pages from [[Category:Chemistry]], reformatting book main pages to use {{Subject}}</comment>
+      <text xml:space="preserve">[[Organic Chemistry/Foundational concepts of organic chemistry/History of organic chemistry/Vital force theory|&lt;&lt; Vital force theory]] | [[Organic Chemistry/Foundational concepts of organic chemistry/History of organic chemistry/Organic vs inorganic chemistry|Organic vs inorganic chemistry &gt;&gt;]]
+
+{{BookCat}}</text>
+      <sha1>mnpfa30eg9x6v0s992ga2nkacatlltp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/History of organic chemistry/Organic vs inorganic chemistry</title>
+    <ns>0</ns>
+    <id>71</id>
+    <revision>
+      <id>961211</id>
+      <parentid>521492</parentid>
+      <timestamp>2007-09-07T18:35:22Z</timestamp>
+      <contributor>
+        <username>Whiteknight</username>
+        <id>10714</id>
+      </contributor>
+      <minor />
+      <comment>removing all sub-pages from [[Category:Chemistry]], reformatting book main pages to use {{Subject}}</comment>
+      <text xml:space="preserve">[[Organic Chemistry/Foundational concepts of organic chemistry/History of organic chemistry/Synthesis of urea|&lt;&lt; Synthesis of urea]] | [[Organic chemistry/Foundational concepts of organic chemistry/Atomic structure|Atomic structure &gt;&gt;]]
+
+{{BookCat}}</text>
+      <sha1>97fk8y9x1hckds8auwv9x4k1g4d1185</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Nucleus and electrons</title>
+    <ns>0</ns>
+    <id>72</id>
+    <revision>
+      <id>1150563</id>
+      <parentid>1150462</parentid>
+      <timestamp>2008-03-30T00:33:14Z</timestamp>
+      <contributor>
+        <username>Webaware</username>
+        <id>27565</id>
+      </contributor>
+      <minor />
+      <comment>Revert to revision 961217 dated 2007-09-07 18:35:30 by Whiteknight using [[:en:Wikipedia:Tools/Navigation_popups|popups]]</comment>
+      <text xml:space="preserve">[[Organic chemistry/Foundational concepts of organic chemistry/Atomic structure|&lt;&lt; Atomic structure]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Shells and orbitals|Shells and orbitals &gt;&gt;]] 
+----
+
+{| align=&quot;right&quot;
+|-
+| [[Image:Simple atom (lithium).png]]
+|-
+| ''A simple model of a lithium atom.&lt;br&gt; Not to scale!''
+|}
+Atoms are made up of a '''nucleus''' and '''electrons''' that orbit the nucleus. An atom in its natural, uncharged state has the same number of electrons as protons. If it gains or loses electrons, the atom is then referred to as an '''ion'''.
+
+===The nucleus===
+
+The nucleus is made up of '''protons''', which each have a positive charge, and '''neutrons''', which have no charge.  Neutrons and protons have about the same mass, and together account for most of the mass of the atom. Each of these particles is made up of even smaller particles, though the existence of these particles do not come into play at the energies and time spans in which most chemical reactions occur.
+
+===Electrons===
+
+The electrons are negatively charged and fly around the nucleus of an atom at something like light speed. We cannot determine exactly where electrons are at any point in time, rather, we can only guess at the probability of finding an electron at a point in space relative to a nucleus at any point in time. The image depicts the Bohr model of the atom, in which the electrons inhabit discrete &quot;orbitals&quot; around the nucleus much like planets orbit the sun.  Current models of the atomic structure hold that electrons occupy fuzzy clouds around the nucleus of specific shapes, some spherical, some dumbbell shaped, some with even more complex shapes.  Even though the simpler Bohr model of atomic structure has been superseded, we still refer to these electron clouds as &quot;orbitals&quot;.  The number of electrons and the nature of the orbitals they occupy greatly influence the reactivity of atoms in organic chemistry.
+
+----
+[[Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure|&lt;&lt; Atomic structure]] | Nucleus and electrons | [[Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Shells and orbitals|Shells and orbitals &gt;&gt;]]
+{{BookCat}}</text>
+      <sha1>j9rs7hla7bzfa1xb30bmiz7vcttk0k6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Shells and orbitals</title>
+    <ns>0</ns>
+    <id>73</id>
+    <revision>
+      <id>2215029</id>
+      <parentid>1633449</parentid>
+      <timestamp>2011-11-20T13:37:38Z</timestamp>
+      <contributor>
+        <ip>141.0.8.136</ip>
+      </contributor>
+      <comment>/* P orbital */</comment>
+      <text xml:space="preserve">[[Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Nucleus and electrons|&lt;&lt; Nucleus and electrons]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Filling electron shells|Filling electron shells &gt;&gt;]] 
+----
+===Electron orbitals===
+Electrons orbit atoms in clouds of distinct shapes and sizes. The electron clouds are layered one inside the other into units called '''shells''' (think nested Russian dolls), with the electrons occupying the smallest, innermost shell having the lowest '''energy state''' and the electrons in the largest, outermost shell having the highest energy state. The higher the energy state, the more '''potential energy''' the electron has, just like a rock at the top of a hill has more potential energy than a rock at the bottom of a valley. These concepts will be important in understanding later concepts like optical activity of chiral compounds as well as many interesting things outside the realm of organic chemistry (like how lasers work).
+
+===Wave nature of electrons===
+
+Electrons behave as particles but also as waves. (Work by Albert Einstein and others revealed that in fact, light and all matter behaves with this dual nature, and it is most clearly observed in the tiniest particles.) One of the results of this observation is that electrons are not just in simple orbit around the nucleus as we imagine the moon to circle the earth, but instead occupy space as if they were a wave on the surface of a sphere.  
+
+If you jump a jumprope you could imagine that the wave in the rope is in its fundamental frequency.  The high and low points fall right in the middle, and the places where the rope doesn't move much (the '''nodes''') occur only at the two ends. If you shake the rope fast enough in a rythmic way, using more energy than you would just jumping rope, you might be able to make the rope vibrate with a wavelength shorter than the fundamental.  You them might see that the rope has more than one place along its length where it vibrates from its highest spot to its lowest spot.  Furthermore, you'll see that there is one or more places (or nodes) along its length where the rope seems to move very little, if at all. 
+
+Or consider stringed musical instruments.  The sound made by these instruments comes from the different ways, or '''modes''' the strings can vibrate.  We can refer to these different patterns or modes of vibrations as '''linear harmonics.'''  Going from there, we can recognize that a drum makes sound by vibrations that occur across the 2-dimensional surface of the drumhead.  Extending this now into three dimensions, we think of the electron as vibrating across a 3-dimensional sphere, and the patterns or modes of vibration are referred to as '''spherical harmonics'''.  The mathematical analysis of spherical harmonics were worked out by the French mathematician Legendre long before anyone started to think about the shapes of electron orbitals.  The algebraic expressions he developed, known as Legendre polynomials, describe the three dimension shapes of electron orbitals in much the same way that the expression '''x&lt;sup&gt;2&lt;/sup&gt;+y&lt;sup&gt;2&lt;/sup&gt; = z''' describes a circle (or, for that matter, a drumhead).  Many organic chemists need never actually work with these equations, but it helps to understand where the pictures we use to think about the shapes of these orbitals come from.  
+
+===Electron shells===
+
+Each different shell is subdivided into one or more '''orbitals''', which also have different energy levels, although the energy difference between orbitals is less than the energy difference between shells.
+
+Longer wavelengths have less energy; the s orbital has the longest wavelength allowed for an electron orbiting a nucleus and this orbital is observed to have the lowest energy.
+
+Each shell in an orbital has a characteristic shape, and are named by a letter. They are: '''s''', '''p''', '''d''', and '''f'''.
+
+As one progresses up through the shells (represented by the principle quantum number '''n''') more types of orbitals become possible.
+
+===S orbital===
+
+The '''s orbital''' is the orbital lowest in energy and is spherical in shape. Electrons in this orbital are in their fundamental frequency. 
+
+[[Image:S-orbital.png]]
+
+===P orbital===
+
+The next lowest-energy orbital is the '''p orbital'''. Its shape is often described as like that of a dumbbell.  There are three p-orbitals each oriented along one of the 3-dimensional coordinates x, y or z.
+
+[[Image:P-orbital.png]]
+
+These three different p orbitals can be referred to as the p&lt;sub&gt;x&lt;/sub&gt;, p&lt;sub&gt;y&lt;/sub&gt;, and p&lt;sub&gt;z&lt;/sub&gt;.
+
+The '''s''' and '''p''' orbitals are important for understanding most of organic chemistry as these are the orbitals that are occupied by the type of atoms that are most common in organic compounds.
+
+===D orbital===
+[[Image	     	
+
+configuration 	species 	excited states
+	Ca+2, Ti+4, Sc+3 	0
+	Ti+3 	1
+	V+3 	3
+	Cr+3 	3
+	Mn+3 	1
+	Mn+2, Fe+3 	0
+	Fe+2 	1
+	Co+2 	3
+	Ni+2 	3
+	Cu+2 	1
+	Zn+2 	0
+
+*Jahn-Teller distortion breaks the expected degeneracy. :]]
+
+There are 5 types of '''d''' orbitals.  Three of them are roughly X-shaped, as shown here, and might be viewed as being shaped like a crossed pair of dumbbells .  They are referred to as d&lt;sub&gt;xy&lt;/sub&gt;, d&lt;sub&gt;xz&lt;/sub u&gt;, and d&lt;sub&gt;yz&lt;/sub&gt;.  Like the p-orbitals, these three d orbitals have a node at the origin of the coordinate system where the three axes all come together.  Unlike the p orbitals, however, these three d orbitals are not oriented along the x, y, or z axes, but instead are oriented in between them.  The d&lt;sub&gt;xy&lt;/sub&gt; orbital, for instance, lies in the xy plane, but the lobes of the orbital point out in between the x and y axes.
+
+===F orbital and beyond===
+
+There are 7 kinds of F orbitals, but we will not discuss their shapes here.  F orbitals are filled in the elements of the lanthanide and actinide series, although electrons in these orbitals rarely come into play in organometallic reactions involving these elements.
+
+{{BookCat}}</text>
+      <sha1>h3oo7077i5alvekv50858af9k0bel5p</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Filling electron shells</title>
+    <ns>0</ns>
+    <id>74</id>
+    <revision>
+      <id>1634129</id>
+      <parentid>1634128</parentid>
+      <timestamp>2009-09-24T00:07:18Z</timestamp>
+      <contributor>
+        <ip>173.61.0.45</ip>
+      </contributor>
+      <comment>/* Building atoms with quantum mechanics (advanced topic) */</comment>
+      <text xml:space="preserve">[[Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Shells and orbitals|&lt;&lt; Shells and orbitals]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Octet rule and exceptions|Octet rule and exceptions &gt;&gt;]] 
+----
+
+
+When an atom or ion receives electrons into its orbitals, the orbitals and shells fill up in a particular manner.
+
+There are three principles that govern this process: 1) the Aufbau (build-up) principle, 2) the Pauli exclusion principle, and 3) Hund's rule.
+
+
+=== Exclusion principle ===
+
+No more than one electron can have all four quantum numbers the same.  What this translates to in terms of our pictures of orbitals is that each orbital can only hold two electrons, one &quot;spin up&quot; and one &quot;spin down&quot;.
+
+=== Build-up principle ===
+
+You may consider an atom as being &quot;built up&quot; from a naked nucleus by gradually adding to it one electron after another, until all the electrons it will hold have been added.  Much as one fills up a container with liquid from the bottom up, so also are the orbitals of an atom filled from the lowest energy orbitals to the highest energy orbitals.  
+
+However, the three p orbitals of a given shell all occur at the same energy level.  So, how are they filled up?  Is one of them filled full with the two electrons it can hold first?  Or do each of the three orbitals receive one electron apiece before the any single orbital is double occupied.  As it turns out, the latter situation occurs.
+
+=== Hund's rule ===
+
+This rule is applicable only for those elements that have d electrons, and so is less important in organic chemistry (though it is important in organometallic chemistry).  It says that filled and half-filled shells tend to have additional stability.  In some instances, then, for example, the 4s orbitals will be filled before the 3d orbitals.
+
+
+=== Building atoms with quantum mechanics (advanced topic) ===
+
+The equations (like the Legendre polynomials that describe spherical harmonics, and thus the shapes of orbitals) of quantum mechanics are distinguished by four types of numbers.  The first of these '''quantum numbers''' is referred to as the principal quantum number, and is indicated by '''n'''.  This merely represents which shell electrons occupy, and shows up in the periodic chart as the rows of the periodic chart.  It has integral values, n=1,2,3 . . . .   The highest energy electrons of the atoms in the first row all have n=1.  Those in the atoms in the second row all have n=2.  As one gets into n=3, Hund's rule mixes it up a little bit, but when one gets to the end of the third row, at least, the electrons with the highest energy have n=3.
+
+The next quantum number is indicated by the letter '''m''' and indicates how many different types of shells an atom can have.  Those elements in the first row can have just one, the s orbital.  The elements in the second row can have two, the s and the p orbitals.  The elements in the third row can have three, the s, p, and d orbitals.  And so on.  It may be funny to think of s, p and d as 
+&quot;numbers&quot;, but these are used as an historical and geometrical convenience.
+
+The third kind of quantum number '''m&lt;sub&gt;l&lt;/sub&gt;''' specifies, for those kinds of orbitals that can have different shapes, which of the possible shapes one is referring to.  So, for example, a 2p&lt;sub&gt;z&lt;/sub&gt; orbital indicates three quantum numbers, represented respectively by the 2, the p and the z.  
+
+Finally, the fourth quantum number is the '''spin''' of the electron.  It has only two possible values, +1/2 or -1/2.
+
+
+Pretty much only computational chemists have to treat quantum numbers as numbers per se is equations.  But it helps to know that the wide variety of elements of the periodic table and the different shapes and other properties of electron orbitals have a unifying principle--the proliferation of different shapes is not completely arbitrary, but is instead bounded by very specific rules.
+
+{{BookCat}}
+Afbau Principle (it means 'building up'):-
+It states that the orbitals should be filled according to their increasing energies
+Thus the lowest energy orbital which is available is filled first. The increasing order
+of energies of the various orbitals is:-
+ 1s,2s,2p,3s,3p,4s,3d,4p,5s,4d,5p,6s,4f,5d,6p,7s,5f......
+The order of increasing of energy of orbitals can be calc. from(n+l) rule or 'Bohr bury rule' 
+According to this rule, the value of n+l is the energy of the orbital and such 
+on orbital will be filled up first. e.g. 
+4s orbital having lower value of(n+l) has lower energy than 3d orbital and hence 4s orbital
+is filled up first.
+For 4s orbital, n+l=4+0=4
+For 3d orbital, n+l=3+2=5,therefore 4s orbital will be filled first.</text>
+      <sha1>sxafc4dn6qlla0110oq8c3nrsk8j23n</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

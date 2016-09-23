@@ -1,0 +1,1754 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Organic Chemistry/Alkanes/Methane</title>
+    <ns>0</ns>
+    <id>208</id>
+    <revision>
+      <id>2613939</id>
+      <parentid>2613938</parentid>
+      <timestamp>2014-03-04T14:04:39Z</timestamp>
+      <contributor>
+        <username>Stryn</username>
+        <id>390608</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/182.185.175.99|182.185.175.99]] ([[User talk:182.185.175.99|talk]]) to last version by 98.210.210.193</comment>
+      <text xml:space="preserve">[[Organic Chemistry/Foundational concepts of organic chemistry|&lt;&lt; Foundational concepts]] | [[Organic Chemistry/Alkanes/Ethane|Ethane &gt;&gt;]]
+----
+'''Methane''', CH&lt;sub&gt;4&lt;/sub&gt; is the simplest organic molecule. It is a gas at [http://www.wikipedia.org/wiki/STP standard temperature and pressure] and is a carbon atom with four hydrogen atoms bonded to it in a tetrahedral shape.
+
+
+{|
+|-
+|
+|-
+| ''Methane''
+|}
+
+This is a flattened, two-dimensional representation of methane that you will see commonly. The true three-dimensional form of methane does not have any 90 degree angles between bonded hydrogens. The bonds point to the four corners of a tetrahedron, forming cos&lt;sup&gt;−1&lt;/sup&gt;(−1/3) ≈ 109.5 degree bond angles.
+
+[[Image:sp3.jpg]]
+----
+[[Organic Chemistry/Foundational concepts of organic chemistry|&lt;&lt; Foundational concepts]] | [[Organic Chemistry/Alkanes|&lt;&lt; Alkanes]] | Methane | [[Organic Chemistry/Alkanes/Ethane|Ethane &gt;&gt;]] | [[Organic Chemistry/Introduction to reactions|Introduction to reactions &gt;&gt;]]
+
+{{BookCat}}</text>
+      <sha1>pw3xnn4no3gnp2iz7sgq54ccwj83p3y</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Alkanes/Ethane</title>
+    <ns>0</ns>
+    <id>209</id>
+    <revision>
+      <id>961121</id>
+      <parentid>654661</parentid>
+      <timestamp>2007-09-07T18:33:15Z</timestamp>
+      <contributor>
+        <username>Whiteknight</username>
+        <id>10714</id>
+      </contributor>
+      <minor />
+      <comment>removing all sub-pages from [[Category:Chemistry]], reformatting book main pages to use {{Subject}}</comment>
+      <text xml:space="preserve">[[Organic Chemistry/Alkanes/Methane|&lt;&lt; Methane]] | [[Organic Chemistry/Alkanes/Propane thru decane|Propane thru decane &gt;&gt;]]
+----
+Ethane is the second simplest hydrocarbon molecule. It is pretty much just two methane molecules attached to each other, less two hydrogens.
+
+&lt;img&gt;
+
+===Number of hydrogens to carbons===
+This equation describes the relationship between the number of hydrogen and carbon atoms in alkanes:
+
+:'''H = 2C + 2'''
+
+where &quot;C&quot; and &quot;H&quot; are used to represent the number of carbon and hydrogen atoms present in one molecule. If C = 2, then H = 6.
+
+Many textbooks put this in the following format:
+
+:'''C&lt;sub&gt;N&lt;/sub&gt;H&lt;sub&gt;2N+2&lt;/sub&gt;'''
+
+where &quot;C&lt;sub&gt;N&lt;/sub&gt;&quot; and &quot;H&lt;sub&gt;2N+2&lt;/sub&gt;&quot; represent the number of carbon and hydrogen atoms present in one molecule. If C&lt;sub&gt;N&lt;/sub&gt; = 3, then H&lt;sub&gt;2N+2&lt;/sub&gt; = 2(3) + 2 = 8. (For this formula look to the &quot;N&quot; for the number, the &quot;C&quot; and the &quot;H&quot; letters themselves do not change.)
+----
+[[Organic chemistry|&lt;&lt; Organic chemistry]] | [[Organic Chemistry/Alkanes|&lt;&lt; Alkanes]] | [[Organic Chemistry/Alkanes/Methane|&lt;&lt; Methane]] | Ethane | [[Organic Chemistry/Alkanes/Propane thru decane|Propane thru decane &gt;&gt;]] | [[Organic Chemistry/Introduction to reactions|Introduction to reactions &gt;&gt;]]
+
+{{BookCat}}</text>
+      <sha1>52qooq0gw29adn1rdnzwpc326lmzutq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Mrquick</title>
+    <ns>3</ns>
+    <id>211</id>
+    <revision>
+      <id>152402</id>
+      <parentid>2070</parentid>
+      <timestamp>2003-08-27T06:10:57Z</timestamp>
+      <contributor>
+        <username>Dysprosia</username>
+        <id>32</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">Hello and welcome! Is [[Programming:Perl]] going to be chapter in the Programming textbook? If not then a link to the Wikipedia article on the [[en:Perl programming language]] article would be best - the ''last'' thing we want to do is recreate Wikipedia here! :-) --[[User:Maveric149|Maveric149]] 09:16 22 Jul 2003 (UTC)
+
+Welcome! It will be as soon as someone who knows Perl (not me) decides to write it.  Until that though, a link to Wikipedia would be acceptable; not a replacement though because a textbook is written differently than an encyclopedia. --Josh
+
+:Ah - I see now. Good everything is self-contained within the single book - that's what I like to see. Oh and you could use the Wikipedia article to start such a chapter: just make sure to say &quot;From Wikipedia&quot; in the edit summary - a mention on the &quot;Authors page&quot; would also be nice (doing both of those combined with the fact that we are all part of the Wikimedia family should be good enough for the GFDL...). --mav
+
+----
+Re: [[programmingc:ch1_cpp]] (an impossible name to remember, btw) Are you using an automated HTML syntax coloring program? I &lt;font color=&quot;#0000FF&quot;&gt;do&lt;/font&gt; not like the colors appearing in the &lt;font color=&quot;#0000FF&quot;&gt;main&lt;/font&gt; text (not the programs); you shouldn't &lt;font color=&quot;#009900&quot;&gt;include&lt;/font&gt; that text in your syntax-colorer input.
+
+Also, the namespace problem can be fixed by leaving out the .h from iostream. Only in ancient (nonstandard) compilers does &lt;iostream&gt; not exist (as opposed to &lt;iostream.h&gt;), and in all &lt;iostream&gt;-compatible compilers the file's contents are in std. If a compiler does not support the non-h syntax (and the other thirty-odd standard headers), it's not a good one to learn from. [[User:Geoffrey|Geoffrey]] 03:50 28 Jul 2003 (UTC)
+
+I'll try that namespace thing... Yeah, that colored thing isn't that good.  I wrote something myself to do the conversion, having things colored in the text didn't bother me, as long as it was actually a command (but if the consensus is not to do it, I won't).  That &quot;do&quot; thing, I don't know why its not working?  Take, &quot;if&quot;, and &quot;while&quot;, they don't just turn blue in the text, my program searches for the accompaying paranthesis, but for some reason it won't do that for &quot;do&quot;.  I can't figure out why... Its probably due to some weird mistake I made when I programmed the parser at ultra high speed... so I'm writing a new parser... [[User:Mrquick|Mrquick]] 18:09 28 Jul 2003 (UTC)
+----
+I just wanted to call you attention to a discussion I hope I've started at the staff lounge regarding namespaces. No disrespect, but I'm recommending against your approach, and I think we ought to keep a record of the our reasoning, so the Lounge archive will do it. [[User:LouI|LouI]] 18:10 1 Aug 2003 (UTC)
+
+----
+
+Is there some way I can or an admin have the server email me my password now, instead of waiting for I think a half of a month.  I kind of forgot what it was :(. Josh
+
+Lucky me, I figured it out, I didn't see the email myself a new password button. [[User:Mrquick|Mrquick]] 05:00, 15 Aug 2003 (UTC)
+
+----
+Hello :) Nice work in restructuring [[Computer programming]], but I disliked your choice of the suffix &quot;in programming&quot;, as it was very cumbersome for other titles.
+
+By the way, if you've been active at the Wikipedia, the same syntax works here too. To create a tab indent, write a &lt;nowiki&gt;:&lt;/nowiki&gt;, to create bullets, use successive &lt;nowiki&gt;*&lt;/nowiki&gt;s, if you have an article in the form &lt;nowiki&gt;[[Namespace:Article]], you can just write [[Namespace:Article|]]&lt;/nowiki&gt; and it'll show up without the Namespace: part. Leaving a space as the first character of the line forces the rest of the line to be in fixed-width font, perfect for code.
+
+Thanks :) [[User:Dysprosia|Dysprosia]] 09:55, 20 Aug 2003 (UTC)
+
+----
+
+Hello, It seems I've dissappeared for a bit.  I just went off to college and the local college ethernet is down.  After one day viruses killed it.  Not fun.  I should become active again as soon as I have a permanent, or semi-permanent, internet solution.  Josh</text>
+      <sha1>c1uymxokn450ejv02b3ycm5ifw9sdw9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Optics</title>
+    <ns>0</ns>
+    <id>212</id>
+    <revision>
+      <id>2478935</id>
+      <parentid>2478933</parentid>
+      <timestamp>2013-01-18T00:08:49Z</timestamp>
+      <contributor>
+        <username>Evan.oltmanns</username>
+        <id>734596</id>
+      </contributor>
+      <minor />
+      <comment>Update front graphic</comment>
+      <text xml:space="preserve">{{B3D:N2P/Hidden begin|title=For how to help with this book, click &quot;show&quot;.}}
+* Do add new material and examples and make corrections.  It all helps.
+
+All help is welcome. 
+
+{{Hidden end}}
+
+&lt;!--Spacer--&gt;
+
+[[File:Refraction_-_Huygens-Fresnel_principle.svg|350px|right]]
+
+{{warning|The '''structure''' of this book is still '''being developed'''. 
+
+The pages marked with a * are not currently accessed when reading the book in 'next page' order.}} 
+
+
+{{stages}}
+
+==Optics==
+
+&lt;!--Many of the pages have closely related free/YouTube.  This is by design.  Many students find the video presentation helpful with learning this material.--&gt;
+''about this book''
+
+==Contents==
+*[[/Light/]] {{stage|50%}}
+** [[/Nature of light/]] {{stage|25%}}
+*** [[/Waves/]] {{stage|0%}}
+*** [[/Evidence for wave properties of light/]] {{stage|0%}}
+*** [[/Evidence for light as a stream of particles/]] {{stage|0%}}
+** [[/Features of a wave/]] {{stage|0%}}
+* [[/Propagation of light/]] {{stage|0%}}
+** [[/Fermat's Principle/]] {{stage|25%}}
+** [[/Refraction/]] {{stage|25%}}
+** [[/Total internal reflection/]] {{stage|25%}}
+*[[/Fibre optics/]] {{stage|25%}}
+*[[/Images/]] {{stage|25%}}
+** Images {{stage|0%}}
+*** Real images {{stage|0%}}
+*** Virtual images {{stage|0%}}
+** Curved mirrors {{stage|0%}}
+** The mirror equation {{stage|0%}}
+*[[/Lenses/]] {{stage|0%}}
+** Introduction  {{stage|0%}}
+** Refraction at a spherical interface {{stage|0%}}
+** A lens {{stage|0%}}
+*** Locating the image {{stage|0%}}
+*** The lensmaker’s equation {{stage|0%}}
+*** Converging and diverging lenses {{stage|0%}}
+* Optical instruments using lenses {{stage|0%}}
+** Single-lens systems {{stage|0%}}
+*** A magnifying glass {{stage|0%}}
+** Compound optical systems {{stage|0%}}
+** The refracting telescope {{stage|0%}}
+* Interference and diffraction {{stage|0%}}
+** Wave phenomena {{stage|0%}}
+** [[/Huygens’ Principle/]] {{stage|0%}}
+*** Introduction {{stage|0%}}
+*** Interference {{stage|0%}}
+*** Diffraction {{stage|0%}}
+** Summary of formulas in this chapter {{stage|0%}}
+
+*Small angle approximation {{stage|0%}}
+**Small angle approximation {{stage|0%}}
+*Derivations for the Module 7 exam {{stage|0%}}
+**Derivations for the Module 7 exam {{stage|0%}}
+
+X-ray optics {{stage|0%}}
+
+[[/Authors/]]
+
+==External Resources==
+*[http://diffractive-optics.org/ Diffractive optics] papers and patents. 
+* Also available [http://d4ap.com/optics/] and [http://leakway.org/optics/] news and events.
+*[http://grin-optics.org Gradient-index optics] reviews, theory and ideas
+
+{{Subjects|Atomic, molecular, and optical physics}}
+{{alphabetical|O}}
+{{status|0%}}
+__NOTOC__ __NOEDITSECTION__
+[[de:Optik]]
+[[es:Física/Óptica]]
+[[fr:Optique]]
+[[nl:Fysica/Optica]]
+[[pt:Introdução à Física/Óptica]]
+[[sv:Fysik A/Optik]]</text>
+      <sha1>hc1wv1jpm15mpda5dk996pgaiwks2yy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Textbook planning</title>
+    <ns>4</ns>
+    <id>214</id>
+    <revision>
+      <id>1967988</id>
+      <parentid>1967968</parentid>
+      <timestamp>2010-11-06T23:06:34Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>/* Reference links */ fixed link</comment>
+      <text xml:space="preserve">{{Historical project page}}
+
+Note: See also [[Wikiversity]] page for discussion of Wikiversity / WikiU.
+----
+The following areas were [http://mail.wikipedia.org/pipermail/textbook-l/2003-July/000164.html recently suggested in the mailing list] as important to resolve in regards to the [[Main_Page|textbook project]].
+
+When applicable, list your username to vote for (a) particular opinion(s).
+(This is a &quot;vote&quot; only in the sense of a show of support; no decision has been taken to count votes in any particular way, or even at all, to make final choices.)
+Write arguments for your position after the list of options; also add more options if you like.
+If there's not a list of options, but instead a list of points needing discussion, then you can list more points or give sublists of options for a particular point of discussion.
+Et cetera.
+
+== Name of the project ==
+* &quot;Open Textbook Project&quot; -- http://www.opentextbook.org - [[User:Karl Wick|Karl Wick]]
+* &quot;Free Textbook Project&quot; --
+* &quot;Wikimedia Textbooks&quot; -- [[User:Kpjas|Kpjas]]
+* &quot;Wikipedia Textbooks&quot; --
+* &quot;Wikibooks&quot; (mav owns the urls and plans to transfer them to Wikimedia) -- [[User:maveric149|mav]], [[User:Toby Bartels|Toby Bartels]], [[User:Kpjas|Kpjas]], [[User:LouI|LouI]], [[User:LittleDan|LittleDan]], [[User:ThomasStrohmann|Thomas]], [[User:Dhum Dhum|Dhum Dhum]]
+* &quot;Wikitext&quot; -- [[User:Toby Bartels|Toby Bartels]],
+
+The URL could also be http://wikibooks.wikimedia.org/ (owned by the Foundation already). -- [[User:Toby Bartels|Toby Bartels]] 08:14 27 Jul 2003 (UTC)
+
+We should avoid entering the philosophical debate between &quot;open&quot; and &quot;free&quot; in our name. -- [[User:Toby Bartels|Toby Bartels]] 08:14 27 Jul 2003 (UTC)
+
+We should continue the tradition of having &quot;wiki&quot; in our name since that is what defines us the most - even more than the free license. --[[User:Maveric149|mav]] 19:44 28 Jul 2003 (UTC)
+:I agree completely with that one. [[User:Dhum Dhum|Dhum Dhum]] 20:11 5 Aug 2003 (UTC) 
+
+We should not limit ourselves to being a textbook-only shop - all non-fiction books should be allowed. --[[User:Maveric149|mav]] 19:44 28 Jul 2003 (UTC)
+:Or even fiction books, that would be interesting [[User:LittleDan|LittleDan]]
+::If you are talking about stuff like Huck Finn with annotation and wikified words going to encyclopedia articles, then yes. But we should ''not'' be in the business of creating our own fictional worlds. That is a different project. --[[User:Maveric149|mav]] 17:24 1 Aug 2003 (UTC)
+
+== Types of content that are to be covered ==
+* Traditional textbook content -- Presumably everybody supports this!
+** Do realize that the effort may be futile, no matter the resulting quality. One would need to make a snapshot for some unusually brave (solidly tenured) professors to try, then supply an errata list and print many copies. A live wiki is too unstable to teach a class from. --[[User:AlbertCahalan|AlbertCahalan]] 20:29, 13 Feb 2005 (UTC)
+** ''Non traditional textbooks'', there are some subjects (especially in science on post-graduate levels) for which there are no traditional textbooks. In such a book its dynamics are not a problem. --[[User:Iztok.jeras|IzI]] 18:07, 25 August 2005 (UTC)
+* Possible other book content:
+** How-to directions like cookbooks -- [[User:Toby Bartels|Toby Bartels]],
+*** Well, the envisioned Wikibooks' Cookbook might turn out to be a general book about cooking in different cultures with historical background and some conscious consumerism threads
+*** The Cookbook is doing very well. It does suffer from problems with: [http://meta.wikimedia.org/wiki/Deletionism deletionism], case-sensitivity and the Cookbook: prefix ruining normal wiki ease-of-use (&lt;nowiki&gt;normal [[easy linking]] is unusable&lt;/nowiki&gt;), lack of [[Special:Specialpages]] specific to the Cookbook, and a sidebar [[Main_Page]] link that doesn't go to the main page of the cookbook. --[[User:AlbertCahalan|AlbertCahalan]] 20:29, 13 Feb 2005 (UTC)
+**Manuals to use certain things (such as a software program) 
+***Should be textbook-oriented in presentation. --[[User:Maveric149|Maveric149]]
+**A broad travel guide covering the entire world. -- [[User:Dhum Dhum|Dhum Dhum]]
+***The people at http://www.wikitravel.org are going to fill that role. Our focus here should be in ''instructing'' students - travel guides are informative (like an encyclopedia), not instructive (like a textbook). --[[User:Maveric149|mav]]
+**Other non-fiction works
+**Fiction books. [[User:LittleDan|LittleDan]]
+*** Something like a &quot;[[w:cliffs notes|Cliff's Notes]]&quot; possibly? --[[User:Neolux|Neolux]] 15:28 1 Aug 2003 (UTC)
+***Absolutely ''not'' newly-created fiction (that is a different project; &quot;Wiktion&quot;). But we should have public domain fiction of already established works (with annotation; such as the works of Mark Twain). We can also have ''Cliff's Notes''-type extensive summaries of works. That would be neat. --[[User:Maveric149|mav]] 17:20 1 Aug 2003 (UTC)
+***Fiction study that does not go very deeply into criticism.  Major themes that are universally accepted seem to be the order in textbooks I've dealt with. --[[User:Jdl32579|Jdl32579]] 12:57, 14 Jun 2004 (UTC)
+* Remixes and compilations of free content (Wikipedia, ...). Sometimes all the knowledge is already freely available, all it has to be done is to organize it into a book (thought its not that simple). --[[User:Iztok.jeras|IzI]] 18:07, 25 August 2005 (UTC)
+* I really favor -footnotes-, similar to those found along with biblical texts; I find myself having the need to use 'symbols' [e.g. (†), (‡), and (*)] to use for reference-''like'' footnotes.[[User:RekonDog|RekonDog]] ([[User talk:RekonDog|talk]]) 10:10, 23 August 2009 (UTC)
+
+== Key policies ==
+* While a name hasn't been settled, we'll need a sort of &quot;Wiki&quot; policies for our developer interaction separate from any policies that affect the texts themselves:
+* A proposed outline of [[Wikibooks:textbook considerations|textbook considerations]] is available for Wiki development and discussion.
+* A short outline proposal for a description of processes is open for comment or update at [[Wikibooks:textbook development process|textbook development process]].
+
+== Timetable for setting things up ==
+* As it gets done
+* Schedules are for proprietary encyclopedias. [[User:LittleDan|LittleDan]]
+
+== Resources and techniques useful in creating educational content ==
+* [[Textbook Figures and Diagrams]] -- I've created a page for the discussion of resources to support the creation of figures and diagrams for wiki textbooks. --[[User:StevenBrewer|StevenBrewer]] 14:11, 17 October 2005 (UTC)
+* photographic images
+* diagrams
+* maps
+* chemical/mathematical formulae
+* Javascript quizzes
+**Practise problems in traditional format
+* Flash quizzes
+** I could make some, however, Flash is [en:Proprietary]. It's something we should think about before we dive in head-first. [[User:KirbyMeister|KirbyMeister]] 20:14, 7 May 2004 (UTC)
+* Java applets
+* cookies
+* flashcards: free version of [http://www.flashcardexchange.com/ Flashcard Exchange]
+* [http://www.studystack.com/ flashcards, matching, wordsearch, and hangman from StudyStack.com]
+* Request Tracker (List of requests) - Some of us can make useful drawings/diagrams/photos in subjects that we wouldn't be qualified to write textbooks for
+
+== GNU GPL Server Software to draw ideas from==
+* '''Moodle''' - PHP software that aims to make quality online courses (eg distance education) easy to develop and conduct. Learning and development are guided using a social constructionist philosophy. 
+[http://moodle.org/sites Implemented on thousands of sites and in 30 languages].
+See [http://moodle.org website] and [http://sourceforge.net/projects/moodle development site].
+
+* [http://lon-capa.org/ lon-capa] might be a better model to support on-line courses.  You can create extremely rich interactive problems and easily integrate many different kinds of resources. --[[User:StevenBrewer|StevenBrewer]] 14:11, 17 October 2005 (UTC)
+
+== Potential changes that need to be made to the software ==
+* Compiling many pages into one large document:
+** A standard book structure (sections) could be created that could be easily translated into LaTeX and further into PDF (with a table of contents and a cover picture). --[[User:Iztok.jeras|IzI]] 17:47, 25 August 2005 (UTC)
+* Automating navigation links within textbooks:
+** [http://mail.wikipedia.org/pipermail/textbook-l/2003-July/000088.html Mav's suggestion] on the mailing list for modular URLs -- [[User:maveric149|mav]],
+** It would be nice if when one comes to the end of a textbook page which one had accessed by clicking on a table of contents entry,  one could go on to the next page of the book without having to go back to the table of contents and select the next page from there. On other websites one often sees this done with ''NEXT'' buttons; or ''PREVIOUS'' for going backwards. -- rew 
+**Mav's suggestion as [http://mail.wikipedia.org/pipermail/textbook-l/2003-July/000099.html modified by Toby] -- [[User:Toby Bartels|Toby Bartels]], [[User:Maveric149|mav]] (I very much like Toby's improvements)
+**WikiGroups has already been developed with another php/GPL wiki; [http://mail.wikipedia.org/pipermail/textbook-l/2003-July/000222.html] - this will allow us to have one TOC/Index per Wikibook but I think we can tweak that software to make it possible to have more than one TOC/Index per book (the trick would be to add the TOC/Index's name after a ? to every link on the TOC/Index page - then when you click on a link to a module, the WikiGroup code on that page will know which %trail% to dispaly. Those links in turn would have the TOC/Index's name after a ? but only for links in the %trail%). 
+** Karl's idea to [http://mail.wikipedia.org/pipermail/textbook-l/2003-July/000102.html nest URLs] in a way that reflects the structure of the book
+** [[meta:Wikibooks extension|Yet another proposal]] from [[User:Magnus Manske|Magnus Manske]]
+** In a related note an automatically generated index (cached!?) would make any textbook more useful [[User:m.linger|m.linger]]
+* separation of books' contents from each other and from meta information (or rather a means to filter thing out) 
+**This should be possible when categories are implemented for Wikipedia.
+* Wikipedia namespace moved to Wikibooks: or something like that when the name is settled
+
+== Proposal ==
+The project '''wikibooks''' does not seem to be enjoying the same sort of growth that the original '''wikipedia''' did.  There are probably a number of reasons for this.  I shall give a few reasons I think are important and then follow up with some suggestions for the action that could be taken to remedy this.
+
+1) Wikibooks requires a different logon to wikipedia.  IMHO it would be better for the project if existing wikipedia developers could be automatically part of wikibooks.  This would allow more free movement of labour from wikipedia to wikibooks.  A strong motivating factor for people developing in wikipedia is the racking up of credit in the form of edited articles.  Why not allow create a contributions page that gives credit to all material worked on in any wiki project?
+
+2) Wikibooks is not interconnected in the same way that wikipedia is.  There is a clear need for a different structure to the books as they are meant to be (at least eventually) printed and should therefore have a linear style.  However, if links were made in such a way that they could deleted without interfering with the quality of the text then we could have the same interconnection that wikipedia has without that necessarily causing problems with the style of the books.
+
+* We need a way to designate sections as being developer areas (but within the actual text itself) We could produce a special heading &quot;Developer's notes and links&quot; which has a template (to ensure consistent usage.
+
+* We need a special link type that represents a temporary link for development purposes.  This would allow the developer links and comments necessary to speed up development.  But at the same time would allow these links to be removed with ease when the wikibook is downloaded.  (Of course links just to wikipedia should be fairly easy to remove automatically although it might help if they appeared in a different colour to remind developers that that material reffered to will not be available to the readers of printed versions.
+
+3) Also links can be made from relevent pages of wikipedia to wikibooks.  This should draw in much more labour to liven up wikibooks.  This is one thing that I can implement on my own. So I shall start introducing a section on some selected wikipedia pages entitled &quot;relevent wikibooks&quot;.  I may also start links to wikibooks in the main text of some articles in wikipedia.  However, without 2) we may find that people learn to ignore links to wikibooks as they are deadends.
+
+Please comment on these proposals.
+[[User:82.43.185.179|82.43.185.179]] 11:44, 27 Aug 2004 (UTC) (Barnaby dawson)
+
+At least one wikibook is interconnected in the same way that wikipedia is. The [[Cookbook]] is highly self-connected. If anything, some connections need to be severed. At the bottom of most recipes you will find a Categories link. This should list all the categories in the cookbook. Unfortunately, it lists all sorts of other random unrelated stuff. Cookbook info is drowned out by the noise. --[[User:AlbertCahalan|AlbertCahalan]] 20:40, 13 Feb 2005 (UTC)
+
+Is #2 really the case?  I tend to think that Wikibooks should be created to best serve the user.  If that best way is by creating a non-linear book, so be it.  Let's use the medium we have and not be tied to an old communication medium. [[User:Liblamb|liblamb]] 05:28, 14 Feb 2005 (UTC)
+
+Learning a new topic needs to be linear (at least to an extent). For example, learning about ionic bonding in chemistry before learning about the periodic table would be very difficult. Coming back to a topic you have already learnt is when non-linear content is generally more useful (which is where GOOD appendices and indices come in).
+[[User:m.linger|m.linger]] 02:06, 06 Jul 2005 (UTC)
+
+:Maybe the most important thing is increasing the ability for this 'free movement of labour' from wikipedia. There is vast untapped potential for all those experts to get interested in and excited about wikibooks. The two best ways, which I think have been floated around as nebulous proposals for some time, are as mentioned above - automatic or connected logon for existing wikipedia editors, and very simply, far more links to wikibooks for the click-happy wikipediholics! Is there anywhere on Wikipedia fairly heavily trafficked by people with the technical knowhow that could support or rubbish these suggestions? [[User:Mark Lewis|Mark Lewis]] 22:21, 14 Jun 2005 (UTC)
+
+== Internationalization ==
+Yes, please!
+
+== Participants in textbook planning ==
+You who are reading this, and anyone else.
+* [[User:maveric149|maveric149]]
+* [[User:Karl Wick|Karl Wick]]
+* [[User:Toby Bartels|Toby Bartels]] [I'm not active, although I still like my suggestion listed in [[#Potential changes that need to be made to the software]].]
+* [[User:Kpjas|Kpjas]]
+* [[User:Cyp|Cyp]] (Only made one real edit so far.)
+* [[User:Neolux|Neolux]]
+* [[User:LouI|LouI]]
+* [[User:Mrquick|Josh]]
+* [[User:LittleDan|LittleDan]]
+* [[User:ThomasStrohmann|Thomas]]
+* [[User:Emperorbma|Emperorbma]]
+* [[User:Zanimum|Zanimum]]
+* [[User:Jdl32579|Jdl32579]]
+* [[User:Frankie Roberto|Frankie Roberto]] - mostly interested in [[Linguistics]] and planning issues
+* [[User:209.182.169.166|209.182.169.166]] 17:24, 16 Dec 2004 (UTC)
+* [[User:Yann|Yann]]
+* [[User:Nct|Nct]]
+* [[User:Everlong|Everlong]]
+
+See also: [[Wikibooks:Wikibookians]]
+
+=== Reference links ===
+
+* [[Wikibooks:Files to be harvested|Reference works to use to build books]]
+* [[Wikibooks:Media]]
+* [[Wikibooks:Boilerplate request for permission]]
+
+--[[User:Karl Wick|Karl Wick]] 02:15 30 Jul 2003 (UTC)</text>
+      <sha1>77xx2zed1vsoswnbu0gc874p6hppk2f</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Computer Programming/Tools</title>
+    <ns>0</ns>
+    <id>215</id>
+    <revision>
+      <id>2064254</id>
+      <parentid>1493225</parentid>
+      <timestamp>2011-03-04T19:34:34Z</timestamp>
+      <contributor>
+        <username>Avicennasis</username>
+        <id>314063</id>
+      </contributor>
+      <minor />
+      <comment>[[WP:AWB/T|Typo fixing]], typos fixed: specfically → specifically, ie  → i.e. using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">{{Computer_Programming_Navigation|Tools}}
+__TOC__
+
+==Wikify==
+
+Wikify is a program written by Josh Ferguson specifically designed to turn a standard text file into a html/wiki format.  It is being used to do the color syntax highlighting for the C++ code in the C++ section of this textbook.
+
+Author's Statement:
+Wikify can not yet wikify itself, due to the fact that it has html codes in it, which confuses itself.  I plan to rewrite it soon so it can wikify itself.  Right now though, it works good with simple code.  And it can be modified to work with other languages by changing the variables in it.  Later on I'll probably move all the important variables into text files so it will be more easy to change things for other languages (i.e. by changing the text files, or extension checks), etc...
+
+The code was written really fast, so the code isn't perfect, even though the author stubbornly maintains that it is close.
+
+Code Snapshot as of 7-22-03
+----
+
+The escape sequences in the code give the wikiscript problems, so here is a link to it.  Click on it, and it will take you to a page, where you can click on it, and it will come up.
+
+This should be compilable by any standard C++ compiler.
+
+[[Category:Computer Programming|Tools]]</text>
+      <sha1>c1rjy7fkz0edrpv3uqhu5mkzvo0evvu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>BASIC Programming</title>
+    <ns>0</ns>
+    <id>217</id>
+    <revision>
+      <id>2714212</id>
+      <parentid>2713945</parentid>
+      <timestamp>2014-10-16T09:37:40Z</timestamp>
+      <contributor>
+        <username>Syum90</username>
+        <id>1499881</id>
+      </contributor>
+      <minor />
+      <comment>Undid revision 2713945 by [[Special:Contributions/205.202.225.189|205.202.225.189]] ([[User talk:205.202.225.189|discuss]])</comment>
+      <text xml:space="preserve">'''BASIC''' was developed in 1963 at Dartmouth College in Hanover, New Hampshire as a teaching language. The acronym BASIC stands for '''B'''eginner's '''A'''ll-Purpose '''S'''ymbolic '''I'''nstruction '''C'''ode.
+
+== Programming Preliminaries ==
+Anybody can write a program. A background in mathematics or science is not required. Patience, practice, and an interest in the subject matter should suffice, along with the required software and hardware.
+
+Understanding programs can appear daunting at first, but their reliance on logical operations allow for easy learning of commands which you will commonly see in many programs.
+
+A program itself is merely a series of commands in the order in which they are to be executed. That is to say, that the first line is the beginning of the program!
+
+All programs a user uses from day to day, including browsers (Internet Explorer, Firefox, etc.) and operating systems (Windows, *nix and MacOS) are separate sets of lines of code, which aim to fulfill tasks. the amount of code is dependent on how simple the task generally, and different types of code may be used for the advantages they give. BASIC is considered an excellent starting point for moving onto other languages, and can be useful for simple programs.
+
+=== Programming Languages ===
+
+Programming languages allow people to give instructions to a computer with commands that both the computer and the programmer can understand.  Different programming languages use different commands and different rules for entering those commands; similar to the way people speak different words to each other with the same meaning.  One person may say &quot;hello&quot;, while another says &quot;hola&quot;, which, although express the same thought, appear different.
+
+Similarly other human languages, such as French and Spanish, are similar to each other, as computer programming languages can be also.  Programming languages that are similar are usually referred to as related languages.  Once a person learns a programming language, it is easier to then learn other programming languages especially those related to the first one, as many similarities in structure are shared between languages, especially those with a common ancestor.
+ 
+
+The language taught here, BASIC, is easier to learn than others as its commands are similar to English and has a simple set of rules for entering them.
+
+== Beginning BASIC ==
+''Section for chapters detailing the basics of BASIC; i.e. data types, control structures...''
+#[[BASIC Programming/Beginning BASIC/Your First Program|Your First Program]]
+#[[BASIC Programming/Beginning BASIC/PRINT, CLS, and END|PRINT, CLS, and END]]
+#[[BASIC Programming/Beginning BASIC/Variables and Data Types|Variables and Data Types]]
+#[[BASIC Programming/Beginning BASIC/User Input|User Input]]
+#[[BASIC Programming/Beginning BASIC/Documentation|Documentation]]
+=== Control Structures ===
+#[[BASIC Programming/Beginning BASIC/Control Structures/IF...THEN...ELSEIF...ELSE|IF...THEN...ELSEIF...ELSE]]
+#[[BASIC Programming/Beginning BASIC/Control Structures/WHILE...WEND|WHILE...WEND]]
+#[[BASIC Programming/Beginning BASIC/Control Structures/FOR...NEXT|FOR...NEXT]]
+#[[BASIC Programming/Beginning BASIC/Control Structures/DO...LOOP|DO...LOOP]]
+#[[BASIC Programming/Beginning BASIC/Control Structures/GOTO|GOTO]]
+
+== Intermediate BASIC  ==
+
+#[[/Random Number Generation/]]
+#[[/Subroutines and Functions/]]
+
+== Advanced BASIC ==
+#[[/External Libraries|External Libraries]]
+
+== Further reading ==
+* [[Chipmunk Basic help|Chipmunk Basic Wikibook]]
+* [http://freebasic.net/wiki/ FreeBASIC manual and wiki]
+* [[Gambas|Gambas Wikibook]]
+* [http://qb64.net/ QB64 website]
+* [[Programming:Visual_Basic_Classic|Visual Basic Classic Wikibook]]
+
+{{Subjects|BASIC programming language}}
+{{alphabetical|B}}
+{{status|50%}}
+
+[[ja:BASIC]]
+[[nl:Programmeren in BASIC]]</text>
+      <sha1>p53w28sks9rrxxh4ehset36p3bei964</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Pascal Programming</title>
+    <ns>0</ns>
+    <id>218</id>
+    <revision>
+      <id>2704441</id>
+      <parentid>2506130</parentid>
+      <timestamp>2014-09-27T03:14:45Z</timestamp>
+      <contributor>
+        <username>Wickorama</username>
+        <id>176370</id>
+      </contributor>
+      <comment>Remove resource site that no longer exists and was not captured by Internet Archive</comment>
+      <text xml:space="preserve">Pascal is an influential computer programming language named after the mathematician [[Wikipedia:Blaise Pascal|Blaise Pascal]].  It was invented by [[Wikipedia:Niklaus Wirth|Niklaus Wirth]] in 1968 as a research project into the nascent field of compiler theory.
+
+== Contents ==
+* Standard Pascal
+** [[Pascal Programming/Getting started|Starting up]] {{stage short|00%}}
+** [[Pascal Programming/Beginning|Beginning Pascal]] {{stage short|25%}}
+** [[Pascal Programming/Variables and Constants|Variables and Constants]] {{stage short|50%}}
+** [[Pascal Programming/Input and Output|Input and Output]] {{stage short|50%}}
+** [[Pascal Programming/Boolean Expressions and Control Flow|Boolean Expressions and Control Flow]] {{stage short|25%}}
+** [[Pascal Programming/Syntax and functions|Pascal syntax and functions]] {{stage short|25%}}
+** [[Pascal Programming/Enumerations|Enumerations]] {{stage short|75%}}
+** [[Pascal Programming/Sets|Sets]]
+** [[Pascal Programming/Arrays|Arrays/Lists]] {{stage short|25%}}
+** [[Pascal Programming/Strings|Strings]]
+** [[Pascal Programming/Records|Records]] {{stage short|50%}}
+** [[Pascal Programming/Pointers|Pointers]] {{stage short|25%}}
+** [[Pascal Programming/Files|Files]]
+* Extensions
+** [[Pascal Programming/Units|Units]]
+** [[Pascal Programming/Object_oriented|Object Oriented Programming]] {{stage short|25%}}
+** [[Pascal Programming/Libraries|Exporting to libraries]]
+** [[Pascal Programming/Foreign_function_interfaces|Foreign function interfaces]]
+*** [[Pascal Programming/Objective_Pascal|Objective Pascal]]
+** [[Pascal Programming/Generics|Generics]]
+** [[Pascal Programming/Miscellaneous|Miscellaneous extensions]]
+* [[Pascal Programming/Preprocessor|Preprocessor functionality]]
+* [[Pascal Programming/Cheatsheet|Syntax cheat sheet]]
+* [[Pascal Programming/Appendix|Appendix]]
+
+== Alternative resources ==
+{{Wikipedia|Pascal programming language}}
+* http://www.taoyue.com/tutorials/pascal/index.html
+* http://wiki.freepascal.org/
+
+{{Subjects|Computer programming languages}}
+{{alphabetical|P}}
+{{status|25%}}
+__NOTOC__ __NOEDITSECTION__
+
+[[de:GNU-Pascal in Beispielen]]
+[[es:Programación en Pascal]]
+[[fr:Programmation Pascal]]
+[[ko:파스칼 프로그래밍]]
+[[it:Pascal]]
+[[he:פסקל]]
+[[nl:Programmeren in Pascal]]
+[[pl:Object Pascal]]
+[[pt:Pascal]]
+[[uk:Pascal]]</text>
+      <sha1>cok2mkjvg49hi1bd546ud1xxpk2z8bq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Octet rule and exceptions</title>
+    <ns>0</ns>
+    <id>220</id>
+    <revision>
+      <id>961216</id>
+      <parentid>644909</parentid>
+      <timestamp>2007-09-07T18:35:29Z</timestamp>
+      <contributor>
+        <username>Whiteknight</username>
+        <id>10714</id>
+      </contributor>
+      <minor />
+      <comment>removing all sub-pages from [[Category:Chemistry]], reformatting book main pages to use {{Subject}}</comment>
+      <text xml:space="preserve">[[Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Filling electron shells|&lt;&lt; Filling electron shells]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Molecular orbitals|Molecular orbitals &gt;&gt;]]
+----
+The '''octet rule''' refers to the tendency of atoms to prefer to have eight electrons in their valence shell.
+
+The main exception to the rule is hydrogen, which is at lowest energy when it has two electrons in its valence shell. 
+
+Other notable exceptions are aluminum and boron, which can function well with six valence electrons; and some atoms beyond group three on the periodic table that can have over 8 electrons, including sulfur.  Additionally, some noble gasses can form compounds when expanding their valence shell.
+
+The other tendency of atoms with regard to their electrons is to maintain a neutral charge. Only the noble gasses have zero charge with filled valence octets. All of the other elements have a charge when they have eight electrons all to themselves. The result of these two guiding principles is the explanation for much of the reactivity and bonding that is observed within atoms; atoms seeking to share electrons in a way that minimizes charge while fulfilling an octet in the valence shell.
+----
+[[Organic Chemistry/Foundational concepts of organic chemistry|&lt;&lt; Foundational concepts]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Filling electron shells|&lt;&lt; Filling electron shells]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Molecular orbitals|Molecular orbitals &gt;&gt;]]
+
+{{BookCat}}</text>
+      <sha1>ohbv9x1hausei5k5uauw0wppt35vwwk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases/Proton donors and acceptors</title>
+    <ns>0</ns>
+    <id>221</id>
+    <revision>
+      <id>961220</id>
+      <parentid>654504</parentid>
+      <timestamp>2007-09-07T18:35:35Z</timestamp>
+      <contributor>
+        <username>Whiteknight</username>
+        <id>10714</id>
+      </contributor>
+      <minor />
+      <comment>removing all sub-pages from [[Category:Chemistry]], reformatting book main pages to use {{Subject}}</comment>
+      <text xml:space="preserve">[[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases|&lt;&lt; Acids and bases]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases/Electron donors and acceptors|Electron donors and acceptors &gt;&gt;]]
+----
+The first and earliest definition of acids and bases was proposed in the 1800's by Swedish scientist Svante Arrhenius, who said that an '''acid''' was anything that dissolved in water to give up '''H+ ions''',Such as hydrochloric acid and a '''base''' was anything that dissolved in water to give up '''OH- ions''' such a sodium hydroxide.
+
+The '''Brønsted-Lowry definiton''' of 1923 broadened this idea a bit:
+
+:an '''acid''' is any '''proton donor''', and a '''base''' is any '''proton acceptor'''.
+
+The focus of this definition is on donating and accepting protons, and is not limited to aqueous solution.
+
+The Brønsted-Lowry definiton of acids and bases is one of two definitions we commonly use. The second definition deals not with protons but with electrons, and has a slightly different emphasis.
+----
+[[Organic Chemistry/Foundational concepts of organic chemistry|&lt;&lt; Foundational concepts]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Resonance|&lt;&lt; Resonance]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases|&lt;&lt; Acids and bases]] | Proton donors and acceptors | [[Organic Chemistry/Alkanes|Alkanes &gt;&gt;]]
+
+{{BookCat}}</text>
+      <sha1>1ci5bfk4zxttqbfifmmprjuemz9w0hk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure/Molecular orbitals</title>
+    <ns>0</ns>
+    <id>222</id>
+    <revision>
+      <id>961218</id>
+      <parentid>521485</parentid>
+      <timestamp>2007-09-07T18:35:31Z</timestamp>
+      <contributor>
+        <username>Whiteknight</username>
+        <id>10714</id>
+      </contributor>
+      <minor />
+      <comment>removing all sub-pages from [[Category:Chemistry]], reformatting book main pages to use {{Subject}}</comment>
+      <text xml:space="preserve">In organic chemistry we look at the hybridization of electron orbitals in to something called '''molecular orbitals'''. 
+
+[[Image:Sp3.jpg]]
+
+The '''s''' and '''p''' orbitals in a carbon atom combine into four hybridized orbitals that repel each other in a shape much like that of four balloons tied together.
+
+Remember what a tetrahedron looks like ?
+
+[[Image:Tetrahedralpyramid.gif]]
+
+I knew you did ...
+----
+[[Image:Sp2.jpg]]
+
+[[Image:Pxpypz.jpg|p&lt;sub&gt;x&lt;/sub&gt;p&lt;sub&gt;y&lt;/sub&gt;p&lt;sub&gt;z&lt;/sub&gt;]]
+
+{{BookCat}}</text>
+      <sha1>isat4159uf9ucpc5ygj9c0k3tr7amno</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Calculus/Functions</title>
+    <ns>1</ns>
+    <id>223</id>
+    <revision>
+      <id>2372002</id>
+      <parentid>2372000</parentid>
+      <timestamp>2012-07-02T12:08:51Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/182.185.102.138|182.185.102.138]] ([[User talk:182.185.102.138|talk]]) to last version by Thenub314</comment>
+      <text xml:space="preserve">== Kids Section ==
+The final section about &quot;Algebraic manipulation&quot; is really strange , i think the author must assume that the reader of that advanced topic &quot;Calculus&quot; already have this very basic knowledge introduced in that section.
+i suggest omitting it to make the book more concise and aiming
+
+----
+
+Would it be worth noting in the Graphing Functions section that graphs are usually of the form y=mx+b, rather than the example which used x=my+b? i.e.:
+
+Functions may be graphed by finding the value of f for various y and plotting the points (y, f(y)) in a Cartesian plane...
+
+------------------------------------------------
+
+2(x+2)/2 = x+2. That's not incorrect. Maybe you meant 2x+2/2 ≠ 2 (x+2)/2 = x+2? 
+
+Is a function considered a variable or a rule? f(z) doesn't vary with x; f(x) doesn't vary with z. f(x) may be a variable, but f by itself is a rule or a mapping (or a &quot;machine&quot;, as textbooks say). y is a dependent variable because it is understood to vary with x -- y(x) is never used.
+
+What's the plus function doing? + is more common; plus(2,2) is almost never used except in Lisp or something. At least call them add, subtract, divide, multiply instead. Using plus(plus(x,y),z) is not the best way to show grouping because (x+y)+z is more common. Even you use 1/(x+2) at the bottom (instead of divide(1,plus(x,2))). --[[User:Geoffrey|Geoffrey]] 15:37 23 Jul 2003 (UTC)
+
+== Points ==
+You have some good points (and one misreading):
+
+I did not write &quot;2(x+2)/2 = x + 2&quot;, but rather &quot;2(x+2)/2 = (x+2)/2&quot;, and the latter ''is'' incorrect.
+
+As for the issue of a function being a variable or rule, I do not make a distinction in these informal pages between the 'rule' (i.e., function), or the result of the rule (i.e., the value of the function).  The value of the function is indeed a variable.  Making a big deal about distinguishing the two (very different) concepts may only confuse the matter, but an astute reader make take things 'too' literally and notice inconsistancies as you did.  The best way of teaching functions is a matter of opinion.  Arguably, one should teach functions in a nonstandard way to expose readers to different perspectives or methods, but also arguably, the standard way of teaching functions is standard because of its superiority.
+
+The use of functions plus(x, y) and times(x, y) is to emphasize that the reader has already been doing functions for a long time, and to give the reader something firm to latch onto to relate abstract concepts of arbitrary functions to specific, familar functions.  In particular, the composition of functions is confusing, but most people can compose the 'plus' and 'times' functions with ease.  Of course, writing out 'plus' and 'times' is somewhat unnecessary.
+
+At [[User Talk:Eric119]] is some more discussion about [[Calculus/Functions]].
+
+If you see anything that needs modification, just go ahead and modify it!
+
+-- [[User:IntMan|IntMan]]
+
+------------------------------------------------
+''A graph is a locus of points in the Cartesian plane''
+
+I think that the majority of people who can understand the phrase &quot;locus of points in the Cartesian plane&quot; probably already know what a graph is. I think the fact that the majority of us have done maths to a university or higher level is causing us to use language that may be over-complex for our target audience.
+
+
+
+--[[User:Imran|Imran]] 12:50 27 Jul 2003 (UTC)
+
+:Good point.  Also, thanks for the exercises. -- [[User:IntMan|IntMan]]
+
+
+----
+Hey, why take out my Example section in basic Calculus??
+
+: Reverted to get rid of the lines, but reverted too far. Sorry. [[User:129.94.6.30|129.94.6.30]] 22:17, 11 Feb 2004 (UTC) ([[User:Dysprosia]], logged out)
+
+Ok, thanks :)  The lines aren't formatting ppl want?
+--LWM
+: Horizontal rules aren't pretty, and should be used sparingly. Nice exercise, by the way... [[User:Dysprosia|Dysprosia]] 20:49, 12 Feb 2004 (UTC)
+
+-----------------
+Could someone please clarify the following?:
+:''For instance, say that f is the function whose domain contains all positive real numbers that give you a square root of the input.
+
+&lt;hr&gt;
+I had something written, but I retract the question.  It was a really dumb question.  I really did need to brush up my calculus.  GEez
+
+don't know meaning of symbols:
+I took algebra 2 not too long ago and i have no idea what some of these symbols mean. for example the last function in the table of examples that ends in &quot;Takes an input and uses it as boundary values for an integration.&quot; the thing that sort of looks like a sideways 8, and the exact meaning of these [] when in this form: (a,b];[a,b). Any chance of adding the meaning of these? or at least tell me a place where i can find them?--[[User:V2os|V2os]] 04:04, 31 July 2005 (UTC)
+
+:I think the last function on the table will be explained later. The sideways 8 stands for infinity. (a,b] is interval notation (first hit on google: http://id.mind.net/~zona/mmts/miscellaneousMath/intervalNotation/intervalNotation.html). And for the Set Notation the funny R means real numbers, and the funny E means the thing on the left is an element of the set on the right (x is an element of the set of real numbers). (disclaimer: I didn't know most of this before today ;) [[User:4.228.240.29|4.228.240.29]]
+
+----------
+
+Hrmm... but what happens with:
+
+{|
+|-
+|&lt;math&gt;\frac{(x+2)(x+3)}{x+3}&lt;/math&gt;
+|-
+|}
+
+When x is -3?  Isn't the function undefined at that point?
+----------------------------------------------------------
+&quot;A function f(x) has an inverse function if and only if f(x) is one-to-one.&quot; Is this true? It has to be onto function as well, isn't it?
+
+== ? ==
+
+it seemse that wiki may have some problems... Look at the section on function manipulation. The formatting seems to have gone all wonky, and I have no idea why. THere is one part where it randomly substitutes a formula from the top of the page, instead of what is written there. If anyone has thoughts on how to fix, please do!
+
+== Problem sets ==
+
+If this is supposed to be a textbook, where are the problem sets? It can be difficult to just read this and remember it all. I have half a mind to write a problem set. In fact, here's a few problems to get started (I'll leave the finishin' of it to someone more qualified... unless I get fed up):
+
+Find the inverse of the following functions:
+
+:1. &lt;math&gt;f(x) = 3x^{2} + 4x&lt;/math&gt;
+:2. &lt;math&gt;f(x) = \frac{1+x}{2+x}&lt;/math&gt;
+
+Evaluate:
+
+:3.
+::&lt;math&gt;(f\circ g)(x)&lt;/math&gt; where
+:::&lt;math&gt;f(x) = \sqrt{x}&lt;/math&gt; and
+:::&lt;math&gt;g(x) = 2x^{2}+3&lt;/math&gt;
+[[Special:Contributions/216.215.128.84|216.215.128.84]] ([[User talk:216.215.128.84|talk]]) 06:57, 15 December 2007 (UTC)
+
+
+== Length ==
+Anyone else think this page is too long?[[User:Tiled|Tiled]] ([[User talk:Tiled|talk]]) 21:22, 17 November 2009 (UTC)
+
+== Translation left/right ==
+
+Reading this, I got kind of a headache:
+
+Horizontal translation by &lt;math&gt;a&lt;/math&gt; units '''left''' : &lt;math&gt;f(x + a)&lt;/math&gt;
+
+Horizontal translation by &lt;math&gt;a&lt;/math&gt; units '''right''': &lt;math&gt;f(x - a)&lt;/math&gt;
+
+Is it possible that left and right have been interchanged? Please help me out ?
+
+[[User:Andre anckaert|Andre anckaert]] ([[User talk:Andre anckaert|talk]]) 15:41, 15 January 2010 (UTC)
+:It's a little tricky to get your head around. Take f(x) = x&lt;sup&gt;2&lt;/sup&gt;. Now, translate it left (you'll see): f(x + 1). What does x have to equal for y to equal zero (for the function to return zero)? It has to be -1, meaning, when y = 0, x must be -1, so the function was translated left. That's the best way I can think to explain it, hope it helped if you were still confused. [[User:DrSturm|DrSturm]] ([[User talk:DrSturm|talk]]) 16:38, 26 May 2010 (UTC)
+
+== important functions - quadratic ==
+
+I am no mathematician and so will not consider editing this myself but the text as it is at present reads:
+
+&quot; A polynomial of the second degree. Its graph is a parabola, unless a = 0. (Don't worry if you don't know what this is.) &quot;
+
+I suspect the parenthesis text is reassuring the reader that knowledge of the parabola is not important, rather than not understanding when a=0 so it would be better written as: 
+
+&quot;A polynomial of the second degree. Its graph is a parabola, (Don't worry if you don't know what a parabola is.) unless a = 0.&quot;
+
+--[[User:JohnH99|JohnH99]] ([[User talk:JohnH99|talk]]) 19:37, 18 April 2010 (UTC)
+
+:Your edit would be fine!  Trust yourself and be bold, there are very few mathematicians around here.  Nothing invalidates the mathematics you know and every editor here (or on any wikimedia project) is on equal footing. Holding a mathematics degree gains you no additional credit or influence.  People are supposed to be judged solely on the quality of their edits, and I have found many non-mathematicians do a really great job editing math articles.  It seems they still remember how to explain the confusing parts, where if you've been studying it for 20 years, you forget which parts were confusing.   And if you make a mistake then (hopefully) someone will fix and and be civil in doing so. [[User:Thenub314|Thenub314]] ([[User talk:Thenub314|talk]]) 20:09, 18 April 2010 (UTC)
+
+== Bijective and surjective ==
+41.222.2.22 correctly points out these ideas are notable absent form this page and should probably be added. [[User:Thenub314|Thenub314]] ([[User talk:Thenub314|talk]]) 16:44, 5 June 2010 (UTC)</text>
+      <sha1>9fsnic1g7ifcftrs8w73rl6if0fz3y0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>D Programming</title>
+    <ns>0</ns>
+    <id>224</id>
+    <revision>
+      <id>2407421</id>
+      <parentid>2259939</parentid>
+      <timestamp>2012-09-13T12:10:23Z</timestamp>
+      <contributor>
+        <username>Deronnax</username>
+        <id>395633</id>
+      </contributor>
+      <minor />
+      <comment>update LDC links (ldc has moved to Github)</comment>
+      <text xml:space="preserve">{{wikipedia|D programming language}}
+
+The goal for this book is to create a complete, free, open-content, well-organized online book for the D programming language.
+
+D is a programming language being designed as a successor to C++.  Until this page gets better written and more informative, the D home can be found [http://dlang.org here].
+
+==Introduction==
+This book aims at beginners learning D language. It will cover all the language basics and some design aspects. In addition it will introduce topics like multi-threading, GUI programming and standard library to get you started with real-world applications.
+
+==Overview==
+To quote [[w:Walter_Bright|Walter Bright]], the author of the D Programming Language:
+&lt;blockquote&gt;
+D is a general purpose systems and applications programming language. It is a higher level language than [[w:C++|C++]], but retains the ability to write high performance code and interface directly with the [[w:operating system|operating system]] [[w:API|API's]] and with [[w:hardware|hardware]]. D is well suited to writing medium to large scale million line programs with teams of developers. D is easy to learn, provides many capabilities to aid the programmer, and is well suited to [[w:aggressive compiler optimization technology|aggressive compiler optimization technology]]. 
+
+D is not a [[w:scripting language|scripting language]], nor an [[w:interpreted language|interpreted language]]. It doesn't come with a VM, a religion, or an overriding philosophy. It's a practical language for practical programmers who need to get the job done quickly, reliably, and leave behind maintainable, easy to understand code. 
+
+D is the culmination of decades of experience implementing compilers for many diverse languages, and attempting to construct large projects using those languages. D draws inspiration from those other languages (most especially C++) and tempers it with experience and real world practicality.
+&lt;/blockquote&gt;
+
+
+D is a [[w:Strongly-typed programming language|statically-typed]], [[w:multiparadigm programming language|multi-paradigm]] language supporting [[w:imperative programming|imperative programming]], [[w:object-oriented programming|object-oriented programming]], and [[w:Template metaprogramming|template metaprogramming]]. It also supports [[w:generic programming|generics]] and [[w:Design by contract|design by contract]].
+
+{{sectstub}}
+
+==Main features of D==
+
+D has many features not seen in C++, implementing [[w:design by contract|design by contract]], [[w:unit testing|unit testing]], true [[w:module (programming)|modules]], [[w:garbage collection (computer science)|automatic memory management]] (garbage collection), first class [[w:array|array]]s, [[w:associative array|associative array]]s, [[w:dynamic array|dynamic array]]s, [[w:array slicing|array slicing]], [[w:nested function|nested function]]s, [[w:inner class|inner class]]es, [[w:Closure (computer science)|closure]]s (anonymous functions), and has a reengineered [[w:Template (programming)|template]] syntax. D retains C++'s ability to do [[w:Low-level programming language|low-level coding]], and adds to it with support for an integrated [[w:inline assembler|inline assembler]]. C++ [[w:multiple inheritance|multiple inheritance]] is replaced by [[w:single inheritance|single inheritance]] with [[w:Interface (computer science)|interfaces]] and [[w:mixin|mixin]]s. D's declaration, statement and expression [[w:syntax|syntax]] closely matches that of C++.
+
+The [[w:inline assembler|inline assembler]] typifies the differentiation between D and application languages like Java and C#. An inline assembler allows a programmer to enter machine-specific [[w:assembly|assembly]] code alongside standard D code&amp;mdash;a technique often used by systems programmers to access the low-level features of the [[w:central processing unit|processor]] needed to run programs that interface directly with the underlying [[w:computer hardware|hardware]], such as [[w:operating system|operating system]]s and [[w:device driver|device driver]]s.
+
+Built into the language is a [[w:documentation generator|documentation generator]] called [[w:Ddoc|Ddoc]].
+
+===Memory management===
+Memory is usually managed with [[w:garbage collection (computer science)|garbage collection]], but specific objects can be finalized immediately when they go out of scope. Explicit memory management is possible using the [[w:Operator overloading|overloaded operators]] new and delete, as well as simply calling [[w:C programming language|C]]'s [[w:malloc|malloc]] and free directly. It is also possible to disable garbage collection for individual objects, or even for the entire program if more control over memory management is desired.
+
+===Interaction with other systems===
+[[w:C programming language|C]]'s [[w:Application binary interface|ABI (Application Binary Interface)]] is supported as well as all of C's fundamental and derived types, enabling direct access
+to existing C code and libraries. C's standard [[w:library (computer science)|library]] is part of standard D.
+
+In D 1.0, C++'s ABI is not supported, although it can access C++ code that is written to the C ABI, and can access C++ [[w:Component Object Model|COM (Component Object Model)]] code. D 2 already supports some interaction with the C++ ABI.
+
+===Implementation===
+Current D implementations [[w:compile|compile]] directly into [[w:native code|native code]] for efficient execution.
+
+==Getting and installing D==
+The Digital Mars D compiler can be obtained from the digital mars website. http://www.digitalmars.com/d/download.html You will need the two files dmd.zip and dmc.zip.  According to the manual both files should be extracted into a root directory or one without spaces or other special characters.  The location of link.exe should then be added to the path.  D programs can now be compiled by calling 'dmd'.
+
+===Win32: Example of configuration 1 (dmd)===
+
+Create a batch file &quot;dmd_vars.bat&quot; and move it to a directory that is included in the path:
+
+&lt;source lang=&quot;winbatch&quot;&gt;
+@echo off
+
+echo Setting up a dmd environment...
+
+set PATH=c:\dm\bin;c:\dmd\bin
+rem ;%SystemRoot%\System32
+set LIB=c:\dmd\lib;c:\dm\lib
+
+echo PATH set to %PATH%
+&lt;/source&gt;
+
+Then:
+
+*Open a Command Window (cmd.exe)
+*Call &quot;dmd_vars.bat&quot; before compiling something
+*Call &quot;dmd hello.d -ofhello_world&quot; for example, which creates &quot;hello_world.exe&quot;
+
+Note: This works well, even if you have other compilers/tools installed (which might also have link.exe/make.exe etc.)
+
+==Your first D programs==
+
+[[/First Program Examples/]]
+
+With Tango library the classic hello world program is:
+
+ &lt;source lang=&quot;D&quot;&gt;
+ import tango.io.Console;
+ void main() 
+ { 
+  Cout(&quot;Hello, World&quot;).newline;
+ }
+ &lt;/source&gt;
+
+[[/Alternate Program Examples/]]
+
+With the Phobos library the classic hello world program is:
+ &lt;source lang=&quot;D&quot;&gt;
+ import std.stdio;
+ void main() 
+ { 
+  writefln(&quot;Hello, World&quot;);
+ }
+ &lt;/source&gt;
+
+==Compilation==
+
+Compiling hello world:
+
+===dmd===
+
+&lt;source lang=&quot;bash&quot;&gt;
+dmd hello.d -ofhello
+&lt;/source&gt;
+
+===gdc===
+
+&lt;source lang=&quot;bash&quot;&gt;
+gdc hello.d -o hello
+&lt;/source&gt;
+
+==Reference manual to D==
+*The official website
+**http://www.digitalmars.com/d/
+*Other websites
+**http://www.prowiki.org/wiki4d/wiki.cgi?FrontPage
+*[[/Quick Reference Card/]]
+
+==All D features==
+
+This is an incomplete list of all D features. It is specifically created to show and teach the D programming language with lots of examples.
+
+* [[/Lexical/]]
+* [[/Modules/]]
+* [[/Declarations/]]
+* [[/Types/]]
+* [[/Properties/]]
+* [[/Attributes/]]
+* [[/Pragmas/]]
+* [[/Expressions/]]
+* [[/Statements/]]
+* [[/Arrays/]]
+* [[/Structs/]]
+* [[/Classes/]]
+* [[/Unions/]]
+* [[/Enums/]]
+* [[/Functions/]]
+* [[/Interfaces/]]
+* [[/Operator overloading/]]
+* [[/Templates/]]
+* [[/Mixins/]]
+* [[/Contracts/]]
+* [[/Conditional compilation/]]
+* [[/Exceptions/]]
+* [[/Garbage collection/]]
+* [[/Memory management/]]
+* [[/Floating point/]]
+* [[/Inline assembler/]]
+* [[/Documentation comments/]]
+* [[/Interfacing to C/]]
+* [[/Portability guide/]]
+* [[/Embedding D in HTML/]]
+* [[/Named character entities/]]
+* [[/Application Binary Interface/]]
+
+==D compilers==
+* [[/GNU D Compiler/]] (GDC)
+* [[/Digital Mars D compiler/]] (DMD)
+* [http://github.com/ldc-developers/ldc LLVM D Compiler] (LDC)
+
+==D libraries==
+
+*Libraries
+**[[/Phobos/|Phobos - Standard D Runtime Library]]
+**[[/Tango/|Tango - D Runtime Library (beta)]]
+
+*Platform
+**Programming D in Windows
+**Programming D in Linux
+**Programming D in Macintosh
+**Programming D in xBSD
+
+==D GUI libraries==
+
+*[[/D Forms Library/|DFL - D Forms Library]]
+*[[/DUI/|gtkD - Wrapper for GTK+ (previously known as DUI)]]
+*[[/wxD/|wxD - Wrapper for wxWidgets]]
+*[[/DWT/|DWT - A D port of Java's SWT Toolkit]]
+*[http://www.dsource.org/projects/qtd QtD - Wrapper for Qt Toolkit]
+
+==Special==
+*[[/Garbage collector/|The D garbage collector]]
+*[[/RTAI/|Using the Linux Realtime Application Interface (RTAI)]]
+
+{{Subjects|D programming language}}
+{{alphabetical|D}}
+{{status|0%}}
+
+[[ja:D言語]]
+[[pl:D]]
+[[ru:Язык программирования D]]</text>
+      <sha1>hdxzvat6a59jiaojruytti7tj463l1k</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Alkanes/Propane thru decane</title>
+    <ns>0</ns>
+    <id>227</id>
+    <revision>
+      <id>2605043</id>
+      <parentid>2605042</parentid>
+      <timestamp>2014-01-29T19:35:44Z</timestamp>
+      <contributor>
+        <username>Savh</username>
+        <id>385809</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/178.149.13.246|178.149.13.246]] ([[User talk:178.149.13.246|talk]]) to last version by Ahazred8</comment>
+      <text xml:space="preserve">[[Organic Chemistry/Alkanes/Ethane|&lt;&lt; Ethane]] | [[Organic Chemistry/Alkanes/Stereoisomers|Stereoisomers &gt;&gt;]]
+----
+Many more linear alkanes can be formed by adding one additional carbon to the end of a chain of carbons. Ethane is the shortest chain with two carbons but DNA is known to have carbon chains containing millions of linked carbons.
+
+Alkanes are named based on the number of carbons in their longest chain:
+
+===Naming carbon chains up to ten===
+*[[Organic Chemistry/Alkanes/Methane|methane]] (1 carbon)
+*[[Organic Chemistry/Alkanes/Ethane|ethane]] (2 carbons)
+*propane (3 carbons)
+*butane (4 carbons)
+*pentane (5 carbons)
+*hexane (6 carbons)
+*heptane (7 carbons)
+*octane (8 carbons)
+*nonane (9 carbons)
+*decane (10 carbons)
+
+The prefixes on the first four are from an obscure system but you should be familiar with the rest.
+
+'''Propane''' and '''butane''' are gases at standard temerature and pressure and are used commonly in lighters. '''Pentane''' on down the list are liquids at STP. '''Octane''' is the same as the octane in your gas tank.
+
+You may also want to name hydrocarbon chains of more then ten carbons. Here is a list for your reference:
+
+===Naming longer carbon chains===
+*undecane (11 carbons)
+*dodecane (12 carbons)
+*tridecane (13 carbons)
+*tetradecane (14 carbons)
+*pentadecane (15 carbons)
+*hexadecane (16 carbons)
+*heptadecane (17 carbons)
+*octadecane (18 carbons)
+*nonadecane (19 carbons)
+*icosane (20 carbons)
+*henicosane (21 carbons)
+*docosane (22 carbons)
+*tricosane (23 carbons)
+........
+*triacontane (30 carbons)
+*tetracontane (40 carbons)
+*pentacontane (50 carbons)
+
+etc...
+
+As the carbon chains get longer, molecules get relatively heavier and tend to move from being gases at [[Standard Temperature and Pressure|STP]] to liquids to waxy solids.
+----
+[[Organic Chemistry/Foundational concepts of organic chemistry|Foundational concepts &gt;&gt;]] | [[Organic Chemistry/Alkanes|&lt;&lt; Alkanes]] | [[Organic Chemistry/Alkanes/Ethane|&lt;&lt; Ethane]] | Propane thru decane | [[Organic Chemistry/Alkanes/Drawing alkanes|Drawing alkanes &gt;&gt;]] | [[Organic Chemistry/Introduction to reactions|Introduction to reactions &gt;&gt;]]
+
+{{BookCat}}</text>
+      <sha1>l8c338mf3fy1w11g3eh6dwda4sbzkxi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Alkanes</title>
+    <ns>0</ns>
+    <id>228</id>
+    <revision>
+      <id>2714093</id>
+      <parentid>2693354</parentid>
+      <timestamp>2014-10-15T21:09:37Z</timestamp>
+      <contributor>
+        <username>Kopiersperre</username>
+        <id>657653</id>
+      </contributor>
+      <comment>SVG ([[Commons:Commons:GlobalReplace|GlobalReplace v0.3]])</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Image:Go To Organic Chemistry Contents .png]]
+&lt;/noinclude&gt;
+
+Alkanes are the simplest organic molecules, consisting of only carbon and hydrogen and with only single bonds between carbon atoms. Alkanes are used as the basis for naming the majority of organic compounds (their '''nomenclature''').  Alkanes have the general formula C&lt;sub&gt;n&lt;/sub&gt;H&lt;sub&gt;2n+2&lt;/sub&gt;.  
+
+=Introduction=
+
+[[image:Dimethylpropane.png|thumb|2,2-dimethylpropane or neopentane.&lt;br /&gt;An example of an alkane]]
+Alkanes are the simplest and least reactive [[w:hydrocarbon|hydrocarbon]] species containing only carbons and hydrogens.  They are commercially very important, being the principal constituent of gasoline and lubricating oils and are extensively employed in organic chemistry; though the role of pure alkanes (such as hexanes) is delegated mostly to solvents.
+
+The distinguishing feature of an alkane, making it distinct from other compounds that also exclusively contain carbon and hydrogen, is its lack of [[w:unsaturation|unsaturation]].  That is to say, it contains no double or triple bonds, which are highly reactive in organic chemistry.
+
+Though not totally devoid of reactivity, their lack of reactivity under most laboratory conditions makes them a relatively uninteresting, though very important component of organic chemistry.  As you will learn about later, the energy confined within the carbon-carbon bond and the carbon-hydrogen bond is quite high and their rapid oxidation produces a large amount of heat, typically in the form of fire.
+
+As said it is important, not considered very important component in the chemistry.
+
+== Introductory Definitions ==
+'''Organic compounds''' contain '''carbon''' and '''hydrogen''' by definition and usually other elements (e.g. '''nitrogen''' and '''oxygen''') as well. (CO&lt;sub&gt;2&lt;/sub&gt; is not an organic compound because it has no hydrogen).
+
+'''Hydrocarbons''' are organic compounds that contain carbon and hydrogen only.
+
+'''Alkanes''' are hydrocarbons or organic compounds made up of only carbon-carbon single bonds (as opposed to double and triple bonds).  The simplest alkane is '''[[w:methane|methane]].'''
+
+==Methane==
+&lt;div class=&quot;noprint&quot; style=&quot;border:1px solid gold; background:cornsilk; padding: 4px; text-align: center; float: right;&quot;&gt;&lt;small&gt;
+''On WP:'' &lt;br&gt; [[w:Alkane#Molecular_geometry|Alkanes]]
+&lt;/small&gt;&lt;/div&gt;
+Methane, (CH&lt;sub&gt;4&lt;/sub&gt;, one carbon bonded to four hydrogens) is the simplest organic molecule. It is a gas at [[w:Standard_conditions_for_temperature_and_pressure|standard temperature and pressure (STP)]].
+
+
+{|
+|-
+|[[File:Methane-2D-flat-small.png|150px]]
+|-
+| Methane
+|}
+
+This is a flattened, two-dimensional representation of methane that you will see commonly. The true three-dimensional form of methane does not have any 90 degree angles between bonded hydrogens. The bonds point to the four corners of a [[w:Tetrahedron|tetrahedron]], forming cos&lt;sup&gt;-1&lt;/sup&gt;(-1/3) ≈ 109.5 degree bond angles.
+[[Image:Sp3.jpg|right|thumb|300px|A balloon model of the electron clouds repelling each other in a molecule of methane.]]
+
+==Ethane==
+Two carbons singly bonded to each other with six hydrogens is called '''[[w:Ethane|ethane]]'''.
+
+[[Image:Ethane-flat.png|80px]]
+
+Ethane is the second simplest hydrocarbon molecule. It can be thought of as two methane molecules attached to each other, but with two fewer hydrogen atoms.
+
+There are several common methods to draw organic molecules. You will use them interchangeably although sometimes one will work better for one situation or another.
+
+=Drawing alkanes=
+When writing out the alkane structures, you can use different levels of shorthand depending on the needs at hand in hand. For example, pentane can be written out. Its formula is C&lt;sub&gt;5&lt;/sub&gt;H&lt;sub&gt;12&lt;/sub&gt;.
+
+[[File:Pentane.svg|150px]],
+
+or CH&lt;sub&gt;3&lt;/sub&gt;&amp;ndash;CH&lt;sub&gt;2&lt;/sub&gt;&amp;ndash;CH&lt;sub&gt;2&lt;/sub&gt;&amp;ndash;CH&lt;sub&gt;2&lt;/sub&gt;&amp;ndash;CH&lt;sub&gt;3&lt;/sub&gt;,
+
+or CH&lt;sub&gt;3&lt;/sub&gt;(CH&lt;sub&gt;2&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;CH&lt;sub&gt;3&lt;/sub&gt;,
+
+or minimized to [[File:Pentane-2D-Skeletal.svg|100px]]
+
+==Line drawing shorthand==
+Although non-cyclic alkanes are called straight-chain alkanes they are technically made of kinked chains. This is reflected in the line-drawing method. Each ending point and bend in the line represents one carbon atom and each short line represents one single carbon-carbon bond. Every carbon is assumed to be surrounded with a maximum number of hydrogen atoms unless shown otherwise.
+
+{|
+|-
+| [[File:Propane-2D-Skeletal.svg|60px]] [[File:Butane_simple.svg|85px]] [[File:Pentane-2D-Skeletal.svg|100px]]
+|-
+| ''Propane, butane, pentane''hexane,heptane
+|}
+
+=Conformations=
+
+'''Conformers''', also called '''conformational isomers''', or '''rotational isomers''', are arrangements of the same molecule made transiently different by the rotation in space about one or more single bonds.
+
+Other types of isomer can only be converted from one form to another by ''breaking'' bonds, but conformational isomers can be made simply by ''rotating'' bonds.
+
+==Newman projections==
+
+Newman projections are drawings used to represent different positions of parts of molecules relative to each other in space. Remember that single bonds can rotate in space if not impeded. Newman projections represent different positions of rotating molecule parts.
+
+{|
+|-
+| Conformers interconvert readily, normally thousands of times a second as parts of molecules spin.
+| [[Image:Spinningnewman.png]]
+|-
+| In the following drawings, methyl groups are on the front and back ends of the molecule and a circle represents all that lies between.
+| &lt;div align=center&gt;[[Image:Methylnewman.png]]&lt;small&gt; ''Note: This is how methyl groups are represented in Newman projections'' &lt;/small&gt;&lt;/div&gt;
+|}
+&lt;center&gt;
+{| CELLPADDING=&quot;4&quot;
+|-
+|
+&lt;center&gt;[[Image:Staggerednewmanprojection.png]]&lt;/center&gt;
+|
+&lt;center&gt;[[Image:Eclipsednewmanprojection.png]]&lt;/center&gt;
+|-
+|
+&lt;center&gt;'''Staggered conformation'''&lt;/center&gt;
+|
+&lt;center&gt;'''Eclipsed conformation'''&lt;br&gt; (front end overlaps the back)&lt;/center&gt;
+|}&lt;/center&gt;
+
+==Conformations and energy==
+Different conformations have different potential energies. The staggered conformation is at a lower potential energy than the eclipsed conformation, and is favored. In ethane, the barrier to rotation is approximately 25 kJ/mol, indicating that each pair of eclipsed hydrogens raises the energy by about 8 kJ/mol. This number also applies to other organic compounds which have hydrogen atoms at similar distances from each other. At very low temperatures all conformations revert to the stabler, lower energy staggered conformation.
+
+==Steric effects==
+Steric effects have to do with size. Two bulky objects run into each other and invade each others space. If we replace one or more hydrogen atoms on the above Newman projections with a methyl or other group, the potential energy goes up especially for the eclipsed conformations.
+
+Lets look at a Newman projection of butane as it rotates counterclockwise around its axes.
+
+&lt;center&gt;
+{| CELLPADDING=&quot;2&quot;
+|-
+| &lt;center&gt;[[Image:Newmanprojection1.png]]&lt;/center&gt;
+| [[Image:Arrows.png]]
+| &lt;center&gt;[[Image:Newmanprojection2.png]]&lt;/center&gt;
+| [[Image:Arrows.png]]
+| &lt;center&gt;[[Image:Newmanprojection3.png]]&lt;/center&gt;
+| [[Image:Arrows.png]]
+| &lt;center&gt;[[Image:Newmanprojection4.png]]&lt;/center&gt;
+|-
+| &lt;center&gt;Anti&lt;/center&gt; || || &lt;center&gt;Eclipsed&lt;/center&gt;
+|
+ || &lt;center&gt;Gauche&lt;/center&gt; ||
+ || &lt;center&gt;Eclipsed&lt;/center&gt;
+|}
+&lt;/center&gt;
+&lt;/center&gt;
+
+
+When the larger groups overlap they repel each other more strongly than do hydrogen, and the potential energy goes up.
+
+==Entropy==
+Entropy, represented as a '''&amp;Delta;S''', is a mathematical construct that represents disorder or probability. Natural systems want to find the lowest energy or organization possible, which translates to the highest entropy.
+
+''A note about potential energy: If you are rusty on this, remember the analogy of a big rock pushed to the top of a hill. At the top it has a maximum of potential energy. When you push it and allow it to roll down the hill the potential energy stored in it is transformed into kinetic energy that can be used to generate heat or smash something. ''
+
+Notice that statistically, the ethane molecule has twice as many opportunities to be in the gauche conformation as in the anti conformation. However, because the Gauche configuration brings the methyl groups closer together in space, this generates high energy steric interactions and do not occur without the input of energy. Thus, the butane molecules shown will almost never be found in such unfavorable conformations.
+
+= Preparation of Alkanes =
+===Wurtz reaction===
+Wurtz reaction is coupling of haloalkanes using sodium metal in solvent like dry ether&lt;p&gt; 
+
+&lt;B&gt; 2R-X + 2Na →  R-R + 2Na&lt;sup&gt;+&lt;/sup&gt;X&lt;sup&gt;−&lt;/sup&gt;&lt;/B&gt;&lt;p&gt;
+=====Mechanism=====
+
+The reaction consists of a halogen-metal exchange involving the free radical species R• (in a similar fashion to the formation of a Grignard reagent and then the carbon-carbon bond formation in a nucleophilic substitution reaction.)
+
+One electron from the metal is transferred to the halogen to produce a metal halide and an alkyl radical.
+:R-X + M → R• + M&lt;sup&gt;+&lt;/sup&gt;X&lt;sup&gt;−&lt;/sup&gt;
+
+The alkyl radical then accepts an electron from another metal atom to form an alkyl anion and the metal becomes cationic. This intermediate has been isolated in a several cases.
+:R• + M → R&lt;sup&gt;−&lt;/sup&gt;M&lt;sup&gt;+&lt;/sup&gt;
+
+The nucleophilic carbon of the alkyl anion then displaces the halide in an S&lt;sub&gt;N&lt;/sub&gt;2 reaction, forming a new carbon-carbon covalent bond.
+:R&lt;sup&gt;−&lt;/sup&gt;M&lt;sup&gt;+&lt;/sup&gt; + R-X → R-R + M&lt;sup&gt;+&lt;/sup&gt;X&lt;sup&gt;−&lt;/sup&gt;
+
+===Clemmensen reduction===
+Clemmensen reduction is a reduction of ketones (or aldehydes) to alkanes using zinc amalgam and hydrochloric acid
+[[Image:Clemmensen Reduction Scheme.png|center|300px|The Clemmensen reduction]]
+The Clemmensen reduction is particularly effective at reducing aryl-alkyl ketones. With aliphatic or cyclic ketones, zinc metal reduction is much more effective&lt;p&gt;
+The substrate must be stable in the strongly acidic conditions of the Clemmensen reduction. Acid sensitive substrates should be reacted in the Wolff-Kishner reduction, which utilizes strongly basic conditions; a further, milder method is the Mozingo reduction. As a result of Clemmensen Reduction, the carbon of the carbonyl group involved is converted from sp&lt;sup&gt;2&lt;/sup&gt; hybridisation to sp&lt;sup&gt;3&lt;/sup&gt; hybridisation. The oxygen atom is lost in the form of one molecule of water.
+===Wolff-Kishner reduction===
+[[Image:Wolff-Kishner Summary V.1.svg|center|400px|The Wolff-Kishner reduction]]
+The Wolff–Kishner reduction is a chemical reaction that fully reduces a ketone (or aldehyde) to an alkane. Condensation of the carbonyl compound with hydrazine forms the hydrazone, and treatment with base induces the reduction of the carbon coupled with oxidation of the hydrazine to gaseous nitrogen, to yield the corresponding alkane.
+=====Mechanism=====
+
+[[Image:Wolff-Kishner-Huang Reduction.png|center|600px|The mechanism of the Wolff-Kishner reduction]]
+
+The mechanism first involves the formation of the hydrazone in a mechanism that is probably analogous to the formation of an imine. Successive deprotonations eventually result in the evolution of nitrogen. The mechanism can be justified by the evolution of nitrogen as the thermodynamic driving force. This reaction is also used to distinguish between aldehydes and ketones.
+
+===Mozingo Reduction===
+A thioketal is first produced by reaction of the ketone with an appropriate thiol. The product is then hydrogenolyzed to the alkane, using Raney nickel
+[[Image:Mozingo reaction.svg|center|600px]]
+
+= Properties of Alkanes =
+&lt;div class=&quot;noprint&quot; style=&quot;border:1px solid gold; background:cornsilk; padding: 4px; text-align: center; float: right;&quot;&gt;&lt;small&gt;
+''On WP:'' &lt;br&gt; [[w:Alkane#Properties|Alkane properties]]
+&lt;/small&gt;&lt;/div&gt;
+Alkanes are '''not very reactive''' when compared with other chemical species. This is because the backbone carbon atoms in alkanes have attained their octet of electrons through forming four covalent bonds (the maximum allowed number of bonds under the octet rule; which is why carbon's valence number is 4). These four bonds formed by carbon in alkanes are sigma bonds, which are more stable than other types of bond because of the greater overlap of carbon's atomic orbitals with neighboring atoms' atomic orbitals. To make alkanes react, the input of additional energy is needed; either through heat or radiation.
+
+Gasoline is a mixture of the alkanes and unlike many chemicals, can be stored for long periods and transported without problem. It is only when ignited that it has enough energy to continue reacting. This property makes it difficult for alkanes to be converted into other types of organic molecules. (There are only a few ways to do this).  Alkanes are also '''less dense than water''', as one can observe, oil, an alkane, floats on water.
+
+Alkanes are '''non-polar solvents'''. Since only C and H atoms are present, alkanes are nonpolar. Alkanes are [[w:Miscible|immiscible]] in water but freely miscible in other non-polar solvents.
+
+Because alkanes contain only carbon and hydrogen, combustion produces compounds that contain only carbon, hydrogen, and/or oxygen. Like other hydrocarbons, combustion under most circumstances produces mainly carbon dioxide and water. However, alkanes require more heat to combust and do not release as much heat when they combust as other classes of hydrocarbons. Therefore, combustion of alkanes produces higher concentrations of organic compounds containing oxygen, such as aldehydes and ketones, when combusting at the same temperature as other hydrocarbons.
+
+The general formula for alkanes is C&lt;sub&gt;N&lt;/sub&gt;H&lt;sub&gt;2N+2&lt;/sub&gt;; the simplest possible alkane is therefore methane, CH&lt;sub&gt;4&lt;/sub&gt;. The next simplest is ethane, C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt;; the series continues indefinitely. Each carbon atom in an alkane has sp³ hybridization.
+
+Alkanes are also known as paraffins, or collectively as the paraffin series. These terms are also used for alkanes whose carbon atoms form a single, unbranched chain. Branched-chain alkanes are called isoparaffins.
+
+'''Methane''' through '''Butane''' are very flammable gases at standard temperature and pressure (STP). '''Pentane''' is an extremely flammable liquid boiling at 36 °C and boiling points and melting points steadily increase from there; octadecane is the first alkane which is solid at room temperature. Longer alkanes are waxy solids; candle wax generally has between C&lt;sub&gt;20&lt;/sub&gt; and C&lt;sub&gt;25&lt;/sub&gt; chains. As chain length increases ultimately we reach polyethylene, which consists of carbon chains of indefinite length, which is generally a hard white solid.
+
+== Chemical properties ==
+Alkanes react only very poorly with ionic or other polar substances. The pKa values of all alkanes are above 50, and so they are practically inert to acids and bases. This inertness is the source of the term paraffins (Latin para + affinis, with the meaning here of &quot;lacking affinity&quot;). In crude oil the alkane molecules have remained chemically unchanged for millions of years.
+
+However redox reactions of alkanes, in particular with oxygen and the halogens, are possible as the carbon atoms are in a strongly reduced condition; in the case of methane, the lowest possible oxidation state for carbon (−4) is reached. Reaction with oxygen leads to combustion without any smoke; with halogens, substitution. In addition, alkanes have been shown to interact with, and bind to, certain transition metal complexes.
+
+Free radicals, molecules with unpaired electrons, play a large role in most reactions of alkanes, such as cracking and reformation where long-chain alkanes are converted into shorter-chain alkanes and straight-chain alkanes into branched-chain isomers.
+
+In highly branched alkanes and cycloalkanes, the bond angles may differ significantly from the optimal value (109.5°) in order to allow the different groups sufficient space. This causes a tension in the molecule, known as steric hinderance, and can substantially increase the reactivity.
+
+=Introduction to Nomenclature=
+
+Before we can understand reactions in organic chemistry, we must begin with a basic knowledge of naming the compounds. The [[w:IUPAC|IUPAC]] [[wikt:nomenclature|nomenclature]] is a system on which most organic chemists have agreed to provide guidelines to allow them to learn from each others' works. Nomenclature, in other words, provides a foundation of language for organic chemistry.
+
+The names of all alkanes end with ''-ane''.  Whether or not the carbons are linked together end-to-end in a ring (called ''cyclic alkanes'' or ''cycloalkanes'') or whether they contain side chains and branches, the name of every carbon-hydrogen chain that lacks any double bonds or functional groups will end with the suffix ''-ane''.
+
+Alkanes with unbranched carbon chains are simply named by the number of carbons in the chain.  The first four members of the series (in terms of number of carbon atoms) are named as follows:
+# CH&lt;sub&gt;4&lt;/sub&gt; = '''methane''' = one hydrogen-saturated carbon
+# C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt; = '''ethane''' = two hydrogen-saturated carbons
+# C&lt;sub&gt;3&lt;/sub&gt;H&lt;sub&gt;8&lt;/sub&gt; = '''propane''' = three hydrogen-saturated carbons
+# C&lt;sub&gt;4&lt;/sub&gt;H&lt;sub&gt;10&lt;/sub&gt; = '''butane''' = four hydrogen-saturated carbons
+
+Alkanes with five or more carbon atoms are named by adding the suffix ''-ane'' to the appropriate numerical multiplier, except the terminal ''-a'' is removed from the basic numerical term. Hence, C&lt;sub&gt;5&lt;/sub&gt;H&lt;sub&gt;12&lt;/sub&gt; is called ''pentane'', C&lt;sub&gt;6&lt;/sub&gt;H&lt;sub&gt;14&lt;/sub&gt; is called ''hexane'', C&lt;sub&gt;7&lt;/sub&gt;H&lt;sub&gt;16&lt;/sub&gt; is called ''heptane'' and so forth. 
+
+Straight-chain alkanes are sometimes indicated by the prefix ''n-'' (for normal) to distinguish them from branched-chain alkanes having the same number of carbon atoms. Although this is not strictly necessary, the usage is still common in cases where there is an important difference in properties between the straight-chain and branched-chain isomers: e.g. ''n-hexane'' is a neurotoxin while its branched-chain isomers are not.
+
+==Number of hydrogens to carbons==
+This equation describes the relationship between the number of hydrogen and carbon atoms in alkanes:
+
+:'''H = 2C + 2'''
+
+where &quot;C&quot; and &quot;H&quot; are used to represent the number of carbon and hydrogen atoms present in one molecule. If C = 2, then H = 6.
+
+Many textbooks put this in the following format:
+
+:'''C&lt;sub&gt;n&lt;/sub&gt;H&lt;sub&gt;2n+2&lt;/sub&gt;'''
+
+where &quot;C&lt;sub&gt;n&lt;/sub&gt;&quot; and &quot;H&lt;sub&gt;2n+2&lt;/sub&gt;&quot; represent the number of carbon and hydrogen atoms present in one molecule. If C&lt;sub&gt;n&lt;/sub&gt; = 3, then H&lt;sub&gt;2n+2&lt;/sub&gt; = 2(3) + 2 = 8. (For this formula look to the &quot;n&quot; for the number, the &quot;C&quot; and the &quot;H&quot; letters themselves do not change.)
+
+Progressively longer hydrocarbon chains can be made and are named systematically, depending on the number of carbons in the longest chain.
+
+==Naming carbon chains up to twelve==
+*methane (1 carbon)
+*ethane (2 carbons)
+*propane (3 carbons)
+*butane (4 carbons)
+*pentane (5 carbons)
+*hexane (6 carbons)
+*heptane (7 carbons)
+*octane (8 carbons)
+*nonane (9 carbons)
+*decane (10 carbons)
+*undecane(11 carbons)
+*dodecane(12 carbons)
+
+The prefixes of the first three are the contribution of a German Chemist, August Wilhelm Hoffman, who also suggested the name quartane for 4 carbons in 1866. However, the but- prefix had already been in use since the 1820s and the name quartane never caught on. He also recommended the endings to use the vowels, a, e, i (or y), o, and u, or -ane, -ene, -ine or -yne, -one, and -une. Again, only the first three caught on for single, double, and triple bonds and -one was already in use for ketones. Pent, hex, hept, oct, and dec all come from the ancient Greek numbers (penta, hex, hepta, octa, deka) and oddly, non, from the Latin novem. For longer-chained alkanes we use the special IUPAC multiplying affixes. For example, pentadecane signifies an alkane with 5+10 = 15 carbon atoms. For chains of length 30, 40, 50, and so on the basic prefix is added to -contane. For example, C&lt;sub&gt;57&lt;/sub&gt;H&lt;sub&gt;116&lt;/sub&gt; is named as heptapentacontane. When the chain contains 20-29 atoms we have an exception. C&lt;sub&gt;20&lt;/sub&gt;H&lt;sub&gt;42&lt;/sub&gt; is known as icosane, and then we have, e.g. tetracosane (eliding the &quot;i&quot; when necessary). For the length 100 we have &quot;hecta&quot; but for 200, 300 ... 900 we have &quot;dicta&quot;, &quot;tricta&quot;, and so on, eliding the &quot;i&quot; on &quot;icta&quot; when necessary; for 1000 we have &quot;kilia&quot; but for 2000 and so on, &quot;dilia&quot;, &quot;trilia&quot;, and so on, eliding the &quot;i&quot; on &quot;ilia&quot; when necessary.
+
+We then put all of the prefixes together in reverse order. The alkane with 9236 carbon atoms is then hexatridinoniliane.
+
+== Isomerism ==
+The atoms in alkanes with more than three carbon atoms can be arranged in many ways, leading to a large number of potential different configurations (isomers). So-called &quot;normal&quot; alkanes have a linear, unbranched configuration, but the ''n-'' isomer of any given alkane is only one of potentially hundreds or even possibly millions of configurations for that number of carbon and hydrogen atoms in some sort of chain arrangement.&lt;br&gt;Isomerism is defined as the compound having same moleculer formula the formula which present the different moleculer formula arrangement are called as Isomerism.&lt;br&gt;e.g.- The molecular formula for butane is C&lt;sub&gt;4&lt;/sub&gt;H&lt;sub&gt;10&lt;/sub&gt;.
+
+The number of isomers increases rapidly with the number of carbon atoms in a given alkane molecule; for alkanes with as few as 12 carbon atoms, there are over three hundred and fifty-five possible forms the molecule can take!
+
+:{| class=&quot;wikitable&quot;
+|-
+! # Carbon Atoms !! # Isomers of Alkane
+|-
+| 1
+| 1
+|-
+| 2
+| 1
+|-
+| 3
+| 1
+|-
+| 4
+| 2
+|-
+| 5
+| 3
+|-
+| 6
+| 5
+|-
+| 7
+| 9
+|-
+| 8
+| 18
+|-
+| 9
+| 35
+|-
+| 10
+| 75
+|-
+| 11
+| 159
+|-
+| 12
+| 355
+|}
+
+==Branched chains==
+Carbon is able to bond in all four directions and easily forms strong bonds with other carbon atoms. When one carbon is bonded to more than two other carbons it forms a branch. 
+{|
+|[[File:Isobutane-numbered-2D.png|200px|thumb|Isobutane]] || [[File:Neopentane-2D.png|200px|thumb|Neopentane]]
+|}
+
+Above you see a carbon bonded to three and four other carbons. 
+
+:Note: a methane group is called a '''methyl''' group when it is bonded to another carbon instead of a fourth hydrogen. &amp;ndash;CH&lt;sub&gt;3&lt;/sub&gt;
+
+The common system has naming convention for carbon chains as they relate to branching. 
+
+:'''n-alkanes''' are linear
+:'''iso-alkanes''' have one branch R&lt;sub&gt;2&lt;/sub&gt;CH—
+:'''neo-alkanes''' have two branches R&lt;sub&gt;3&lt;/sub&gt;C—
+
+''Note: &quot;R&quot; in organic chemistry is a placeholder that can represent any carbon group.
+
+==Constitutional isomers==
+
+One of the most important characteristics of carbon is its ability to form '''several relatively strong bonds''' per atom. It is for this reason that many scientists believe that carbon is the only element that could be the basis for the many complicated molecules needed to support a living being.
+
+One carbon atom can have attached to it not just the one or two other carbons needed to form a single chain but can bond to up to four other carbons. It is this ability to bond multiply that allows isomerism.
+
+'''Isomers''' are two molecules with the same molecular formula but different physical arrangements. '''Constitutional isomers'''  have their atoms arranged in a different order. A constitutional isomer of butane has a main chain that is forked at the end and one carbon shorter in its main chain than butane.
+
+{| 
+| [[File:Butan_Lewis.svg|thumb|Butane]] || [[File:Isobutane 1.svg|100px|thumb|Isobutane (2-methyl-propane)]]
+|}
+
+== Naming Alkanes ==
+There are several ways or systems for the '''nomenclature''', or naming, of organic molecules, but just two main ones.
+
+#The traditional, non-systematic names. Many of these linger on, especially for simpler or more common molecules.
+#The systematic '''[http://www.wikipedia.org/wiki/IUPAC IUPAC]''' (''eye-YOU-pack (International Union of Pure And Applied Chemistry)'') names.
+
+The IUPAC system is necessary for complicated organic compounds. It gives a series of unified rules for naming a large compound by conceptually dividing it up into smaller, more manageable nameable units.
+
+Many traditional (non-IUPAC) names are still commonly used in industry, especially for simpler and more common chemicals, as the traditional names were already entrenched.
+
+==IUPAC naming rules==
+&lt;div class=&quot;noprint&quot; style=&quot;border:1px solid gold; background:cornsilk; padding: 4px; text-align: center; float: right;&quot;&gt;&lt;small&gt;
+''On WP:'' &lt;br&gt; [[w:IUPAC nomenclature of organic chemistry|IUPAC naming]]
+&lt;/small&gt;&lt;/div&gt;
+#Find the longest carbon chain, identify the end near which the most [[Wikipedia:substituent|substituents]] are located, and number the carbons sequentially from that end. This will be the parent chain.
+#Consider all other carbon groups as substituents.
+#Alphabetize the substituents.
+#Number the substituents according to the carbon to which they are attached. If numbering can be done in more than one way, use the numbering system that results in the smallest numbers.
+
+Substituents are named like a parent, and replacing the ''-ane'' ending with ''-yl''.
+
+===Numbering===
+[[Image:237trimethyloctanelines.png]]
+
+The above molecule is numbered as follows:
+
+[[Image:237trimethyloctane.png]]
+
+2,3,7-Trimethyloctane
+
+[[Image:267trimethyloctane.png]]
+
+'''Not''' 2,6,7-Trimethyloctane.
+Remember, number so as to give the smallest numbers to the substituents.
+
+===Alphabetizing===
+[[Image:3ethyl3methylpentane.png]]
+
+3-Ethyl-3-methylpentane
+
+''Ethyl'' is listed before ''methyl'' for alphabetizing purposes.
+
+== Branched Substituents ==
+===Naming branched substituents===
+[[Image:3-(1-methylethyl)-2,4-dimet.png]]
+
+3-(1-methylethyl)-2,4-dimethylpentane
+
+The main chain in the drawing is numbered 1-5. The main part of the branched substituent, an ethyl group, is numbered 1' and 2'. The methyl substituent off of the ethyl substituent is not numbered in the drawing.
+
+To name the compound, put the whole branched substituent name in parentheses and then number and alphabetize as if a simple substituent.
+
+== Common system ==
+Some prefixes from the common system are accepted in the IUPAC system.
+
+For alphabetization purposes, '''iso-''' and '''neo-''' are considered part of the name, and alphabetized. '''Sec-''' and '''tert-''' are not considered an alphabetizable part of the name.
+
+(In the following images, the '''R-''' represents any carbon structure.)
+
+=== Iso- ===
+
+[[Image:Iso-.png]]
+
+'''Iso-''' can be used for substituents that branch at the second-to-last carbon and end with two methyls. An isobutyl has four carbons total:
+
+[[Image:Isobutyl.png]] ''Isobutyl''
+
+=== Sec- ===
+
+[[Image:Sec-.png]]
+
+'''Sec-''' can be used for substituents that branch at the first carbon .
+
+=== Neo- ===
+[[Image:Neo-.png]]
+
+'''Neo-''' refers to a substituent whose second-to-last carbon of the chain is trisubstituted (has three methyl groups attached to it). A neo-pentyl has five carbons total.
+
+[[Image:Neopentyl.png]] ''Neopentyl''
+
+=== Tert- ===
+
+[[Image:Tert-.png]]
+
+'''Tert-''' is short for '''tertiary''' and refers to a substituent whose first carbon has three other carbon groups attached to it.
+
+=See also=
+
+#[[Organic Chemistry/Alkanes/Cycloalkanes|Cycloalkanes]] {{stage short|100%|Jan 12, 2005}}
+
+----
+&lt;noinclude&gt;
+[[Image:Go To Organic Chemistry Contents .png]] || [[Organic Chemistry/Foundational concepts of organic chemistry|&lt;&lt; Foundational concepts]] | Alkanes | [[Organic Chemistry/Stereochemistry|Stereochemistry &gt;&gt;]]
+&lt;/noinclude&gt;
+
+{{BookCat}}
+
+[[pl:Chemia_organiczna/Alkany]]</text>
+      <sha1>s40iimj3u4ycals930ys4xcol1bjvao</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases/Electron donors and acceptors</title>
+    <ns>0</ns>
+    <id>230</id>
+    <revision>
+      <id>961223</id>
+      <parentid>654509</parentid>
+      <timestamp>2007-09-07T18:35:38Z</timestamp>
+      <contributor>
+        <username>Whiteknight</username>
+        <id>10714</id>
+      </contributor>
+      <minor />
+      <comment>removing all sub-pages from [[Category:Chemistry]], reformatting book main pages to use {{Subject}}</comment>
+      <text xml:space="preserve">[[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases/Proton donors and acceptors|Proton donors and acceptors &gt;&gt;]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases/Electrophiles and nucleophiles|Electrophiles and nucleophiles &gt;&gt;]]
+----
+The '''Lewis definition of acids and bases''' describes an '''acid''' as an '''electron acceptor''' and a base as an '''electron donator'''.
+----
+[[Organic Chemistry/Foundational concepts of organic chemistry|&lt;&lt; Foundational concepts]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases|&lt;&lt; Acids and bases]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases/Proton donors and acceptors|Proton donors and acceptors &gt;&gt;]] | Electron donors and acceptors | [[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases/Electrophiles and nucleophiles|Electrophiles and nucleophiles &gt;&gt;]] | [[Organic Chemistry/Alkanes|Alkanes &gt;&gt;]]
+
+{{BookCat}}</text>
+      <sha1>85m7ta72q7m6y7vli4dma39utkuwwdq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases/Electrophiles and nucleophiles</title>
+    <ns>0</ns>
+    <id>231</id>
+    <revision>
+      <id>961222</id>
+      <parentid>654508</parentid>
+      <timestamp>2007-09-07T18:35:37Z</timestamp>
+      <contributor>
+        <username>Whiteknight</username>
+        <id>10714</id>
+      </contributor>
+      <minor />
+      <comment>removing all sub-pages from [[Category:Chemistry]], reformatting book main pages to use {{Subject}}</comment>
+      <text xml:space="preserve">[[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases/Electron donors and acceptors|&lt;&lt; Electron donors and acceptors]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases/PKa and acidity|pKa and acidity &gt;&gt;]]
+----
+'''Electrophiles''' are &quot;electron-lovers&quot;. (The suffix -phile means &quot;lover of&quot;, as ''bibliophile'' means &quot;lover of books&quot;). Electrophiles seek electrons.
+
+'''Nucleophiles''', or &quot;nucleus lovers&quot;, seek positively charged nuclei.
+
+Electrophiles and nucleophiles are often '''ions''', but sometimes not.
+----
+[[Organic Chemistry/Foundational concepts of organic chemistry|&lt;&lt; Foundational concepts]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases|&lt;&lt; Acids and bases]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases/Electron donors and acceptors|Electron donors and acceptors &gt;&gt;]] | Electrophiles and nucleophiles | [[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases/PKa and acidity|pKa and acidity &gt;&gt;]] | [[Organic Chemistry/Alkanes|Alkanes &gt;&gt;]]
+
+{{BookCat}}</text>
+      <sha1>06zdfm47spymprfh0zoht0rjyeaxr4d</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases/PKa and acidity</title>
+    <ns>0</ns>
+    <id>232</id>
+    <revision>
+      <id>961221</id>
+      <parentid>654510</parentid>
+      <timestamp>2007-09-07T18:35:36Z</timestamp>
+      <contributor>
+        <username>Whiteknight</username>
+        <id>10714</id>
+      </contributor>
+      <minor />
+      <comment>removing all sub-pages from [[Category:Chemistry]], reformatting book main pages to use {{Subject}}</comment>
+      <text xml:space="preserve">[[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases/Electrophiles and nucleophiles|&lt;&lt; Electrophiles and nucleophiles]] | [[Organic Chemistry/Alkanes|Alkanes &gt;&gt;]]
+----
+To measure acid strength of a compound, scientist typically use a quantity called '''pKa'''. It is defined as
+
+&lt;math&gt; pKa = -log(Ka)&lt;/math&gt;
+
+where Ka is the acid dissocation constant.  Stronger acids have small pKa values, where as weaker acids have higher pKa values.
+----
+[[Organic Chemistry/Foundational concepts of organic chemistry|&lt;&lt; Foundational concepts]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases|&lt;&lt; Acids and bases]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases/Electrophiles and nucleophiles|Electrophiles and nucleophiles &gt;&gt;]] | pKa and acidity | [[Organic Chemistry/Alkanes|Alkanes &gt;&gt;]]
+
+{{BookCat}}</text>
+      <sha1>pbyqozhbpov29w8ouj4nsdrwn0tgkfz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Alkanes/Stereoisomers</title>
+    <ns>0</ns>
+    <id>233</id>
+    <revision>
+      <id>2432957</id>
+      <parentid>2353010</parentid>
+      <timestamp>2012-11-03T06:42:14Z</timestamp>
+      <contributor>
+        <username>Cool.dude.sagnik</username>
+        <id>790665</id>
+      </contributor>
+      <comment>/* Stereoisomers */</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;
+--[[Organic Chemistry/Alkanes/Cycloalkanes/Conformations|&lt;&lt; Conformations]]
+----
+&lt;/noinclude&gt;
+
+= Stereoisomers =
+
+'''Stereoisomers''' are a type of isomer where the order of the atoms in the two molecules is the same but their arrangement in space is different.
+
+To understand this we need to take a look at the ways that organic molecules can and cannot move. Again, usingthree-dimensional models is a great tool to visualize this and almost essential for most people to grasp these concepts clearly. 
+
+With cyclo-alkanes, we observe that a group placed on one side of a ring stays on that same side. Except in very large rings (13+ carbons) the carbons are not free to rotate all of the way around their axes. This means that a group that is axial will not move into an equatorial position, and vice versa.
+
+'''Stereoisomerism''' is the arrangement of atoms in molecules whose connectivity remains the same but their arrangement in space is different in each isomer.
+
+The two main types of stereoisomerism are:
+* DiaStereomerism (including 'cis-trans isomerism')
+* Optical Isomerism (also known as 'enantiomerism' and 'chirality')
+
+== Cis-trans Isomerism ==
+''Main article:'' [[Organic_Chemistry/Chirality/Diastereomers|Diastereomers]]
+
+Cis/trans isomerism occurs when a double bond is present, because the pi bond involved prevents that bond from being &quot;twisted&quot; the same way that a single bond can be.  A good example is 1,2-dichloroethene: C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;2&lt;/sub&gt;Cl&lt;sub&gt;2&lt;/sub&gt;. Consider the two examples below:
+[[Image:Dichloroethene.png|center|200px|Dichloroethene isomers]]
+The two molecules shown above are ''cis''-1,2-dichloroethene and ''trans''-1,2-dichloroethene.
+
+This is more specifically an example of diastereomerism. These two molecules are stereoisomers because the two carbon atoms cannot be rotated relative to each other, due to the rigidity caused by the pi bond between them. Therefore, they are not &quot;superimposeable&quot; - they are not identical, and cannot take each other's place. However, the isomers are not mirror images of one another, so they are not enantiomers; therefore they must be diastereomers.
+
+Diastereomers usually have different chemical and physical properties and can exhibit dramatically different biological activity.
+
+[[Image:Cis-2-butene.PNG|right|frame|Cis-2-butene]][[Image:Trans-2-butene.PNG|right|frame|Trans-2-butene]]
+
+There are two forms of these isomers; the ''cis'' and ''trans'' versions. The form in which the substituent hydrogen atoms are on the same side of the bond that doesn't allow rotation is called ''cis''; the form in which the hydrogens are on opposite sides of the bond is called ''trans''. An example of a small hydrocarbon displaying cis-trans isomerism is 2-butene.
+
+Alicyclic compounds can also display cis-trans isomerism. As an example of a geometric isomer due to a ring structure, consider 1,2-dichlorocyclohexane:
+
+== Optical Isomerism ==
+
+''Main article:'' [[Organic_Chemistry/Chirality|Chirality]]
+
+Optical isomers are stereoisomers formed when asymmetric centers are present, for example, a carbon with four different groups bonded to it. Enantiomers are two optical isomers (i.e. isomers that are reflections of each other). Every stereocenter in one isomer has the opposite configuration in the other.
+
+Compounds that are enantiomers of each other have the same physical properties, except for the direction in which they rotate polarized light and how they interact with different optical isomers of other compounds.
+
+In nature, most biological compounds, such as amino acids, occur as single enantiomers. As a result, different enantiomers of a compound may have substantially different biological effects.
+
+When a molecule has more than one source of asymmetry, two optical isomers may be neither perfect reflections of each other nor superimposeable: some but not all stereocenters are inverted. These molecules are diastereomers, not enantiomers. Diastereomers seldom have the same physical properties.
+
+[[Image:Chiral molecures example.svg|right|thumbnail|300px|The two enantiomers of bromochlorofluoromethane and their relationship.]]
+Optical isomerism is a form of isomerism (specifically stereoisomerism) where the two different isomers are the same in every way except being non-superposable [1] mirror images of each other. Optical isomers are known as chiral molecules (pronounced ki-rall) .
+
+&lt;noinclude&gt;
+----
+[[Organic Chemistry/Foundational concepts of organic chemistry|&lt;&lt; Foundational concepts]] | [[Organic Chemistry/Alkanes|&lt;&lt; Alkanes]] | [[Organic Chemistry/Alkanes/Cycloalkanes/Naming cycloalkanes|&lt;&lt; Naming cycloalkanes]] | Stereoisomers | [[Organic Chemistry/Introduction to reactions|Introduction to reactions &gt;&gt;]]
+&lt;/noinclude&gt;
+
+{{BookCat}}</text>
+      <sha1>qnyhpog3l07wqs7n6bdmqwnwp418bzp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Places to buy organic chemistry models</title>
+    <ns>0</ns>
+    <id>234</id>
+    <revision>
+      <id>1613808</id>
+      <parentid>402495</parentid>
+      <timestamp>2009-08-21T16:46:21Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <comment>Added category and removed bad notice and incorrect navigation</comment>
+      <text xml:space="preserve">The links below will search on the named sites for the terms &quot;organic chemistry model kit&quot;: 
+* [http://www.google.com/search?hl=en&amp;lr=&amp;ie=ISO-8859-1&amp;q=organic+chemistry+model+kit on Google]
+*[http://froogle.google.com/froogle?q=organic%20chemistry%20model%20kit&amp;num=20&amp;hl=en&amp;lr=&amp;safe=off&amp;sa=N&amp;tab=wf on Froogle]
+* [http://search.ebay.com/search/search.dll?cgiurl=http%3A%2F%2Fcgi.ebay.com%2Fws%2F&amp;krd=1&amp;from=R8&amp;MfcISAPICommand=GetResult&amp;ht=1&amp;SortProperty=MetaEndSort&amp;query=organic+chemistry+model+kit  on Ebay]
+* [http://www.amazon.com/exec/obidos/search-handle-form/002-5670554-5195223 on Amazon]
+
+{{BookCat}}</text>
+      <sha1>flkpgqa9d5jx4d1zoyrbjyllqzxduv7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

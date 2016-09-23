@@ -1,0 +1,2327 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Graphic Design/Type</title>
+    <ns>0</ns>
+    <id>2098</id>
+    <revision>
+      <id>2083593</id>
+      <parentid>2083583</parentid>
+      <timestamp>2011-04-18T03:27:54Z</timestamp>
+      <contributor>
+        <username>Jomegat</username>
+        <id>12605</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/117.89.34.30|117.89.34.30]] ([[User talk:117.89.34.30|talk]]) to last version by 153.2.246.33</comment>
+      <text xml:space="preserve">=Typography=
+
+Typeforms are an integral part of modern communication. Since the invention of the printing press, people have used printed —and more recently— electronic type to communicate. Could you imagine a newspaper or magazine where all the articles were handwritten and copied? Imagine how difficult it would be to compose an e-mail or use desktop publishing software to create party invitations without the existence of typefaces. 
+
+Typefaces are used in print and electronic media not just to communicate a legible message, but as an expressive tool of the author or designer. Each typeface can be used to convey a different style or atmosphere. There are typefaces evocative of Art Deco, The old American West, Weddings and other traditionally formal ceremonies, childhood, The Middle Ages, handwritten text, and an endless variety of other styles.
+
+It is almost imperative as a graphic designer, and ''absolutely'' imperative as a typographer, to develop an appreciation and understanding of both modern and historic [[typography]]. In everyday life, one should pay attention to the stylistic and practical uses of typefaces in various kinds of media. Note what feelings the designer was hoping to convey, or what style they were attempting to mimic.
+
+==Classification==
+
+A '''typeface''' is a style of lettering, such as Helvetica or Times. A '''font''' is the set of a typeface, used to produce the letters. On a computer, it is a file used by the system.  People often confuse &quot;font&quot; with &quot;typeface&quot;.  For example, Helvetica, point 12 is a different font from Helvetica, point 14, even though both are of the same typeface.  
+
+A set of similar typefaces is called a &quot;family.&quot; Within a family, typefaces are categorized as parent (e.g. Times, Helvetica) or relative (e.g. bold, italic). Typefaces are categorized also according to style (e.g. italic, book), weight (e.g. bold or light), and width (e.g. expanded).  
+
+Type is measured in points, from top to bottom of the letters' invisible bounding boxes. Since each letter fills up a percentage of that bounding box, when the size of the box is increased, the letter size increases.
+
+The divisions you may already be familiar with are the '''serif''' and &lt;font face=&quot;arial&quot;&gt; '''sans-serif'''&lt;/font&gt; fonts. Serif fonts, like Times, have the little feet and variable line width characters which make them easy to read. Sans-serif fonts, like Helvetica and Verdana, are drawn with more even-width lines and don't have the little feet, which gives them a clean, modern feel.
+
+==Usage in Design==
+
+Text can have a number of different purposes in a design. It can be used for pure graphic appeal —or aesthetically— a case in which legibility may be less important than aesthetics. An example of graphical use of text is possibly that of major titles.  Text may also, more commonly, be used for communication on a linguistic basis rather than visual, in which case, legibility is always the priority of the designer. A few examples of usage of text for linguistic communication are: the body text of an article or book, the text of a restaurant menu, or in product descriptions in a catalog.
+
+A font may be used either successfully or poorly, depending on its degree of relevance in the project and the skill of the designer. The designer must pay careful attention to letter, word, and line spacing as well as the size of the typeface and its stylistic contribution to the overall aesthetic of the project.  He or she must optimize the properties of the text for its purpose in the overall design (aesthetic or communicative) and maintain legibility where it is necessary, and the designer is also expected to add visual variety with formatting and layout, as well as possible font changes where applicable.
+
+=== Choosing a Font ===
+
+A designer has to choose a font that is not only appropriate to the mood of the design, but that is appropriate for the text's purpose in the design.
+For example, there are many kinds of decorative typefaces that one would not want to set an entire article in. This is because a purely decorative typeface tends to be distracting to the content of the message and tire the reader's eyes when used in large portions. Our eyes are most comfortable reading less idiosyncratic typefaces. Decorative typefaces are better suited for display type (greater than 14 points), while simpler type is better used for text (less than 14 points). To maintain readability in large blocks of text —such as in an article— stay consistent, and use only one family.
+
+==== Readability in Different Media ====
+
+Standard graphic design wisdom holds that of the categories of serif and sans-serif, serif fonts are easier to read. This is because when reading, the eye quickly scans the tops of the letterforms, and a serif font has more immediately recognizable features thanks to the tiny 'eye-holds' provided by the serifs. There is a notion slowly gaining acceptance, that, for the purposes of purely electronic design, the reverse is sometimes true. Sans-serif fonts are more readable in this case because a screen has a lower resolution than a printed page, so the serifs only serve to smudge the letter forms.
+
+Some typefaces such as Times, originally designed for the London Times newspaper, or Futura, designed as a letterpress (raised plate) type for printing on paper, were intended for the printed page. Others such as Georgia and Verdana were designed for the lower resolution of text on a screen. The shapes of these typefaces are developed to optimize visibility in smaller sizes on a computer monitor. In larger sizes, these differences don't matter as much. 
+
+''For maximum readability on the page: Serif; On the screen: Sans.''
+
+=== Typeface Sizing ===
+
+Keep the typeface at a reasonable size for reading. The numbered size of a typeface may reflect the overall height of the lines that stick out of the type, but not the readability size that relates to the inner dimensions of the letters. The type size should be chosen on a visual basis, and not purely on that of font size numbers. Usually, type that is proportioned so that the lower case size is larger in proportion to the overall height of the font, can produce a greater amount of legible words into an equivalent space.
+
+=== Typeface Spacing ===
+
+Word spacing should be so that the reader is aware of the beginnings and endings of words with little or no difficulty. Experiment with spacing settings to find the best one. Letter spacing and line spacing may be used to expand on the expressivity of the font. Leave enough space between the lines so that the text is legible. Experimentation is important here, too. The reader's eyes should be pulled to the next word as they read, not to the lines above and below. The letter spacing should be that so the reader can easily differentiate between different characters. Yet again: experiment, experiment, experiment.
+
+; Kerning
+: Kerning is the horizontal spacing between exactly 2 [[w:glyph|glyph]]s. When you are hand kerning text (logotype or headline text usually) try to imagine that the [[w:baseline|baseline]] and glyph shapes make a container, and imagine pouring water in. Try to make the [[w:negative space|negative space]] between each pair of glyphs hold the same amount of water.
+; Tracking 
+: Tracking is the horizontal space added to or subtracted from the space between each and every pair of glyphs in a selection. In other words tracking adds to or subtracts from the kerning of all pairs of glyphs in a selection.
+; Leading
+: Leading is the vertical spacing between separate lines of type. There is a relationship between the length of the line and the amount of leading needed for easy legibility. Longer lines need more leading to prevent the reader's eye from slipping up or down when moving from the end of one line to the beginning of the next. It then logically follows that short lines are preferable if information density is important as in a newspaper.
+; Typographic Color
+: Typographic Color is something of a misnomer in that it is only concerned with one aspect of color: value. The darkness or lightness of a block of text on average is the typographic color of that block of text. Typographic color is strongly influenced by spacing. Consider the difference in the emotions aroused by a dark block of text (long lines with little tracking and leading as seen in many legal agreements) and a light block of text with lots of space. 
+
+=== When to Break Rules ===
+
+With text used purely for graphical or display purposes, spacing, fonts, or colors that would be considered otherwise unreasonable can be utilized to create a visually appealing effect. The legibility rules that are extremely important in body text aren't as critical to effect the larger typeface size. Make sure that before deciding to use more untraditional methods of formatting text, you consider the desires of your client, and/or the stylistic effect the formatting will have on the overall design. Is it supposed to be a classic, elegant wedding invitation, or is this a layout for a skateboarding magazine article? Consider the circumstances and break or follow the rules of tradition appropriately. Remember that a common amateur mistake is to break too many —or the wrong— formatting rules in rebellion of the idea that aesthetics have constraints. Then, they end up with a horrible mess of a design that looks good under no circumstances. ''The purpose of a graphic designer is to merge optimal form and function''. Remember: anything can be art, but not anything can look good!
+
+==Layout==
+
+A good layout is one that shows good use of the elements and principles of design. Most importantly, a designer should use the principles of design to draw the reader's eye both to and through the design easily. The elements of design are: color, value, texture, shape, form, space, and line. The principles of design are: contrast, emphasis, balance, unity, pattern, movement, and rhythm. The specifics of both the principles and elements vary from source to source, but the idea remains the same. If you haven't studied the principles and elements of design before, read more in the chapter [[Graphic Design/Principles of Design|Principles of Design]], or scroll down to view the external links.
+
+=External Links=
+*[http://www.markboulton.co.uk/journal/comments/five-simple-steps-to-better-typography Five Simple Steps to Better Typography] -- Mark Boulton
+
+*[http://www.indexbook.com/books/typography.php Books on Typography] -- By Index Book publishing.
+
+*[http://www.typographi.com/ Typographica.] A Journal of Typography.
+
+*[http://www.digital-web.com/articles/principles_of_design/ The Principles of Design] -- Digital Web Magazine
+
+*[http://www.digital-web.com/articles/elements_of_design/ The Elements of Design] -- Digital Web Magazine
+
+*[http://www.examplemag.com/ Design examples] -- Design Examples Online Magazine
+
+[[Category:Graphic Design]]</text>
+      <sha1>r7g74oqvq30g47uww0epxkdlmlxv18l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Graphic Design/Photography</title>
+    <ns>0</ns>
+    <id>2099</id>
+    <revision>
+      <id>510269</id>
+      <parentid>463208</parentid>
+      <timestamp>2006-07-02T21:12:37Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">Like drawing, you can skip photography and still be a salary-earning graphic design professional. However, some familiarity with the craft will make you an even better designer.
+
+Kids today have many more options open to them than we did back when I graduated three years ago. That is, you can take digital pictures and save the money and time needed to develop the film.
+
+[[Category:Graphic Design]]</text>
+      <sha1>ejs2ia1482tj7g6ctfagansobp44knu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Graphic Design/Form and Function</title>
+    <ns>0</ns>
+    <id>2100</id>
+    <revision>
+      <id>2601105</id>
+      <parentid>2601103</parentid>
+      <timestamp>2014-01-16T17:14:12Z</timestamp>
+      <contributor>
+        <username>Savh</username>
+        <id>385809</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/209.51.184.15|209.51.184.15]] ([[User talk:209.51.184.15|talk]]) to last version by 210.212.253.226</comment>
+      <text xml:space="preserve">
+=Form and function=
+Just like in architecture, one of the fundamental debates in graphic design is between form and function.
+
+'''Form''' is defined as the shape or visual quality of something. It refers to aesthetics, how a piece looks. Much of graphic design centers on how to make a work appealing (or unappealing, or any other quality depending on the project goals). 
+
+'''Function''' relates to getting the job done. Function is pragmatic and business-oriented. Printing newspaper on glossy magazine paper is too expensive, and printing it on tissue paper would fall apart. An artistic photograph of a mountain may not convey a message appropriate to an Arctic cruise.
+
+[[Category:Graphic Design]]</text>
+      <sha1>n95636o3t6ygeng3ozpkijcpx0lxsu9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Graphic Design/Statistics about graphic designers</title>
+    <ns>0</ns>
+    <id>2101</id>
+    <revision>
+      <id>1144904</id>
+      <parentid>1144903</parentid>
+      <timestamp>2008-03-24T12:28:34Z</timestamp>
+      <contributor>
+        <ip>141.218.228.133</ip>
+      </contributor>
+      <comment>/* Statistics */</comment>
+      <text xml:space="preserve">=Statistics=
+Looking at designers as a whole, only about 60 percent of entering designers stay in the field after two years. By five years, about 30 percent are left. [http://www.princetonreview.com/cte/profiles/dayInLife.asp?careerID=74 Princeton Review]
+
+[[Category:Graphic Design]]</text>
+      <sha1>bxl23ed08vhgyv2iji6hz3uiw4585pr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Graphic Design/Authors</title>
+    <ns>0</ns>
+    <id>2102</id>
+    <revision>
+      <id>510262</id>
+      <parentid>426560</parentid>
+      <timestamp>2006-07-02T21:11:39Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">This book was started by [[User:Karl Wick|Karl Wick]], a graduate of the acclaimed [http://www.uc.edu/ University of Cincinnati] College of Design, Architecture, Art and Planning ([http://www.daap.uc.edu/ DAAP]).
+
+==Note from the author==
+There are not many textbooks published on the discipline of graphic design. Perhaps this is due in part to the abstract, subjective nature of many of its aspects, and the fact that there are few universally-agreed-upon rules like there are for mathematics or the hard sciences. 
+
+This book is an attempt to formalize some of the concepts that were taught to me while in design school. The material was difficult and sometimes even overwhelming for me at the time. I did not graduate at the top of my class. However DAAP is a widely respected school and I did receive the vigorous training that characterizes its graphic design department. In this book I will try to break down in a simple and understandable way the basics of what I learned.
+
+[[Category:Graphic Design]]</text>
+      <sha1>rncmf06g8r5gpzfjkevc16j732p6oq7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Chemistry bookshelf</title>
+    <ns>4</ns>
+    <id>2106</id>
+    <redirect title="Wikibooks:Natural sciences bookshelf" />
+    <revision>
+      <id>1527378</id>
+      <parentid>501267</parentid>
+      <timestamp>2009-06-10T18:22:52Z</timestamp>
+      <contributor>
+        <username>Matthias M.</username>
+        <id>49695</id>
+      </contributor>
+      <comment>#Chemistry</comment>
+      <text xml:space="preserve">#REDIRECT [[Wikibooks:Natural sciences bookshelf#Chemistry]]</text>
+      <sha1>953qj014dsu33vyps9xy6xibkabw2sg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Geometry/Congruency and Similarity</title>
+    <ns>0</ns>
+    <id>2107</id>
+    <revision>
+      <id>2453725</id>
+      <parentid>1375752</parentid>
+      <timestamp>2012-12-05T23:09:50Z</timestamp>
+      <contributor>
+        <username>FlashingYoshi</username>
+        <id>452886</id>
+      </contributor>
+      <text xml:space="preserve">==Congruency==
+''Congruent'' shapes are the same size with corresponding lengths and angles equal. In other words, they are exactly the same size and shape. They will fit on top of each other perfectly. Therefore if you know the size and shape of one you know the size and shape of the others. For example:
+
+[[Image:CongruentTriangles.png|(Three congruent triangles)]]
+
+Each of the above shapes is congruent to each other. The only difference is in their orientation, or the way they are rotated. If you traced them onto paper and cut them out, you could see that they fit over each other exactly.
+
+[[Image:Congruent2.png|(Two similar but non-congruent triangles, redrawn to show them the same orientation)]]
+
+Having done this, right away we can see that, though the angles correspond in size and position, the sides do not. Therefore it is proved the triangles are '''not''' congruent.
+
+==Similarity==
+''Similar'' shapes are like congruent shapes in that they must be the same shape, but they don't have to be the same size. Their corresponding angles are congruent and their corresponding sides are in proportion.
+
+[[Image:Similar1.png|(Two similar triangles, with side lengths written in)]]
+
+{{GeometryTOC2}}
+[[Category:Geometry (book)]]</text>
+      <sha1>rf6dbxlw1qp2g25evgcuz0m3vc9cvhj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Generating electricity</title>
+    <ns>0</ns>
+    <id>2117</id>
+    <revision>
+      <id>1526979</id>
+      <parentid>890581</parentid>
+      <timestamp>2009-06-10T11:06:49Z</timestamp>
+      <contributor>
+        <username>Trulywelsh</username>
+        <id>232340</id>
+      </contributor>
+      <text xml:space="preserve">[[GCSE Science/Electricity]]
+----
+On the [[GCSE Science/Induction|last]] page we looked at induction. That is how the motor effect acting on electrons in wires causes them to move and create a current. On this page we will look at some practical uses of induction and how electricity is made in power stations.
+
+
+Look at the diagram of an electric motor. As the coil rotates it cuts the field lines in a downwards direction then an upwards direction. This means that the electricity produced alternates. The current flows one way then the other. The frequency depends on the speed of rotation.
+
+'''Q1)''' A motor is rotated manually to produce a current. An oscilloscope is used to investigate this current and produces a trace like the one shown. The time is on the x axis and voltage is on the y axis.
+
+[[Image:Alternating_current_on_a_'scope.png]]
+
+
+The motor is speeded up. Which one of the following shows the new trace?
+
+[[Image:Alternating_current_question.Pos_Answers.png]]
+
+==Alternating Current==
+
+In the section above you learned that a dynamo produces a.c. If you've ever looked closely at a school power pack you will probably have noticed that it has a.c. and d.c. outputs. D.c. stands for direct current. The current flows in one direction only and (apart from when it is switched on or off) doesn't change in value. A.c. constantly changes. An a.c. curve is typically that of a sine wave. The current switches back and forth and the value of the current is constantly changing.(This fact is important when we come to study transformers.)
+
+Some devices work equally well with either a.c. or d.c. Others must have the correct type or they won't work. For example think about a child's train on a track.
+
+[[Image:Train on track.png]]
+
+If a.c. electricity is used the train will not go anywhere! This is because the current is 'telling'  the motor to go forwards, go backwards, no, go forwards and so on. Anything with a small electric motor in it has to use d.c. (Special electric motors which use a.c. do exist. However, the ones you'll come across in school or in any toy application will almost certainly be '''d.c.''' motors.)
+
+On the other hand a bulb has no problem working on a.c. This is because a bulb converts the energy of the electric current to heat and light. It makes no difference which way the current flows, the energy is still there. So bulbs, electric fires, cookers and so on do not care if they use a.c. or d.c. 
+
+Transformers (which we will study in the next section) will only work with a.c. This is because a transformer needs to have a constantly varying current, and d.c. only varies when it is switched on or off.
+
+:'''Q2)''' Name a source of a.c. Name a source of d.c.
+:'''Q3)''' Name a device that only works with d.c. Name a device which will work with a.c. or d.c.
+:'''Q4)''' A hair dryer contains a heating element and a fan. Will it work best with a.c. or d.c.? Explain your answer.
+:'''Q5)''' An engineer has an idea about the toy train. He thinks, &quot;If I pass the a.c. through a certain useful electric component, I can get rid of the backward direction current and keep the forward direction current. Like this:
+
+[[Image:Question_on_rectification_diagram.png]]
+
+What useful electrical component was the engineer thinking of?----
+[[GCSE Science/Generating_electricity_answers|Answers]] | [[GCSE Science/Transformers|Transformers&gt;&gt;]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>girpcj5q5mnbf5cyvqhupkfzyx0dqxv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Thbz</title>
+    <ns>2</ns>
+    <id>2119</id>
+    <revision>
+      <id>235437</id>
+      <parentid>154163</parentid>
+      <timestamp>2005-09-17T18:41:56Z</timestamp>
+      <contributor>
+        <ip>84.100.22.225</ip>
+      </contributor>
+      <text xml:space="preserve">See http://fr.wikipedia.org/wiki/User:Thbz</text>
+      <sha1>a4e4pkgnj9opg7hlptqrs9xollcmgq8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>English in Use/Verbs</title>
+    <ns>0</ns>
+    <id>2120</id>
+    <revision>
+      <id>2627814</id>
+      <parentid>2627813</parentid>
+      <timestamp>2014-04-07T21:46:58Z</timestamp>
+      <contributor>
+        <username>Le Cybeaurge</username>
+        <id>971333</id>
+      </contributor>
+      <comment>/* See also */ I've deleted one link that was the same with the second link</comment>
+      <text xml:space="preserve">{{English in Use}}
+'''Verbs''' are often called action words that show what the subject (a noun or pronoun) is doing. A verb is a word that signifies to be, to act, or to be acted on: as, ''I am, I rule, I am ruled, I love, you love, he loves''. Verbs are so called, from the Latin ''verbum'', a word; because the verb is that word which most essentially contains what is said in any clause or sentence. Although described as &quot;action words&quot;, they can describe abstract concepts. They are a requirement of any sentence. Verbs have modifications of four kinds: moods, tenses, persons and numbers.
+
+
+==Morphological forms==
+
+An English verb has four morphological forms (forms of word formation) ever needful to be ascertained in the first place: the present, the past, the present participle, and the past participle. The third person singular is the fifth morphological form.
+
+The '''present''' is that form of the verb, which is the root of all the rest; the verb itself; or that simple term which we should look for in a dictionary: as, ''be, act, rule, love, defend, terminate''.
+
+The '''past''' is that simple form of the verb, which denotes time past; and which is always connected with some noun or pronoun, denoting the subject of the assertion: as, ''I was, I acted, I ruled, I loved, I defended''.
+
+The '''present participle''' is that form of the verb, which ends commonly in ''ing'', and implies a continuance of the being, action, or passion: as, ''being, acting, ruling, loving, defending, terminating''.
+
+The '''past participle''' is that form of the verb, which ends commonly in ''d'' or ''ed'', and implies what has taken place: as, ''been, acted, ruled, loved''.
+
+==Regularity==
+
+English, like many Germanic languages, contains both strong (or irregular, which is not ''quite'' the same as strong) and weak (regular) verbs. Irregular verbs are one of the most difficult aspects of learning English. Each [[wikt:Appendix:Irregular verbs:English|irregular verb]] must be memorized, because they are not often easy to identify otherwise.
+
+Verbs are divided, with respect to their regularity, into four classes: regular and irregular, redundant and defective.
+
+A '''regular verb''' is a verb that forms the past and the past participle by assuming ''d'' or ''ed'': as, ''love, loved, loving, loved''.
+
+An '''irregular verb''' is a verb that does not form the past and the past participle by assuming ''d'' or ''ed'': as, ''see, saw, seeing, seen''.
+
+A '''redundant verb''' is a verb that forms the past or the past participle in two or more ways, and so as to be both regular and irregular: as, ''thrive, thrived or throve, thriving, thrived or thriven''.
+
+A '''defective verb''' is a verb that forms no participles, and is used in but few of the moods and tenses: as, ''beware, ought, quoth''.
+
+==Persons and numbers==
+
+The person and number of a verb are those modifications in which it agrees with its subject. There are three persons and two numbers: thus,
+
+#Singular first person. I love.
+#Singular third person. He loves.
+#Plural first person. We love.
+#Plural second person. You love.
+#Plural third person. They love.
+
+Where the verb is varied, the '''third person singular''' in the present tense, is regularly formed by adding ''s'' or ''es'': as, ''I see, he sees; I give, he gives; I go, he goes; I fly, he flies; I vex, he vexes; I lose, he loses''.
+
+Where the verb is not varied to denote its person and number, these properties are inferred from its subject: as, ''if I love, if he love; if we love, if you love, if they love''.
+
+==Tenses==
+
+Tenses are those modifications of the verb, which distinguish time. There are six tenses; the present, the past, the perfect, the past perfect, the first-future, and the second-future. One could even say there are twelve tenses because each of those comes in simple and in progressive forms, which have different meaning.
+
+The past tense is sometimes called imperfect, but the names perfect and imperfect do not fit their meaning. These names were derived from Latin where they were correct.
+
+The '''[[../Present Simple Tense|present tense simple]]''' is that which expresses what now exists, is normal or correlated to senses. It is used with adverbs like ''always'', ''generally''.
+
+*&quot;There is a house in New Orleans.&quot;
+*&quot;I read a book every week.&quot;
+*&quot;I hear a noise.&quot;
+
+The '''present tense continuous''' is that which expresses what is temporary:
+
+*&quot;I am reading a letter.&quot;
+*&quot;The car is running at high speed.&quot;
+*&quot;Someone is always working.&quot;
+
+The '''past tense simple''' is that which expresses what took place in time fully past. It is used with adverbs like ''yesterday'', '' last week''.
+
+*&quot;Last week, I read several of Shaw's novels.&quot;
+
+The '''past tense continuous''' is that which expresses what was taking place when (suddenly) something else occurred.
+
+*&quot;I saw him yesterday, and hailed him as he was passing.&quot;
+*&quot;I was giving a presentation when the microphone broke.&quot;
+
+The '''present perfect tense simple''' is that which expresses what has taken place, within some period of time not yet fully past, or is still valid. It is used with adverbs like ''ever'', ''never'', ''today'', ''this week''.
+
+*&quot;I have read several of Shaw's novels.&quot;
+*&quot;I have seen him today; something must have detained him.&quot;
+*&quot;Have you ever tried fugu fish?&quot;
+
+The '''present perfect tense continuous''' is that which which started in the past and has not yet finished.
+
+*&quot;Since I have been standing here, five planes took off.&quot;
+
+The '''past perfect tense simple''' is that which expresses what had taken place, at some past time mentioned, before something other happened.
+
+*&quot;I had seen him, when I met you.&quot;
+*&quot;As soon as my car had been repaired, I could continue my trip.&quot;
+
+The '''past perfect tense continuous''' is that which expresses what had started before and was still going on, when something else occurred.
+
+*&quot;I had been listening to the radio when she dropped in.&quot;
+
+The '''first-future tense simple''' is that which expresses what will take place hereafter.
+
+*&quot;I shall see him again, and I will inform him.&quot;
+
+The '''first-future tense continuous''' is that which expresses what will be currently taking place at a certain time in future.
+
+*&quot;I will be swimming in the sea by the time you'll awake.&quot;
+
+The '''second-future tense simple''' is that which expresses what will have taken place at some future time mentioned.
+
+*&quot;I shall have seen him by tomorrow noon.&quot;
+
+The '''second-future tense continuous''' is that which expresses what will have started at some time and will still be ongoing, at some future time mentioned.
+
+*&quot;I will have been swimming in the sea for four hours by the time you'll awake tomorrow.&quot;
+
+==Signification==
+
+An '''active verb''' is a verb in an active sentence, in which the subject performs the verb: as,
+
+*&quot;I ''hit'' the dog.&quot;
+
+An active verb can be transitive or intransitive, but not passive or neuter.
+
+Verbs are divided again, with respect to their signification, into four classes: transitive, intransitive, passive, and neuter.
+
+A '''transitive verb''' is a verb that expresses an action which has some person or thing for its object: as, 
+
+*&quot;Cain slew Abel.&quot;
+*&quot;Cassius loved Brutus.&quot;
+
+An '''intransitive verb''' is a verb that expresses an action which has no person or thing for its object: as, 
+
+*&quot;John walks.&quot;
+*&quot;Jesus wept.&quot;
+
+A '''passive verb''' is a verb in a passive sentence (passive voice) that represents its subject, or what the nominative expresses, as being acted on: as,
+
+*&quot;I am compelled.&quot;
+*&quot;Caesar was slain.&quot;
+
+In a passive sentence, the action is performed on the subject.
+
+*&quot;I ''hit'' the dog,&quot;
+*&quot;The dog was ''hit'' by me.&quot;
+
+These sentences have the same denotative meaning, but their connotative meaning is quite different; active verbs are much more powerful and personal.
+
+A '''neuter verb''' or impersonal passive verb is a verb that expresses neither action nor passion, but simply being, or a state of being: as,
+
+*&quot;There was light.&quot;
+*&quot;The babe sleeps.&quot;
+
+==Voice==
+
+Voice of speech can be active or passive. Principally in '''passive voice''' the same tenses can be used as in '''active voice'''. There are two forms of passive voice (the second form is preferred):
+
+*&quot;He gave me the book.&quot; =&gt;
+*&quot;The book was given to me,&quot;
+*&quot;I was given the book.&quot;
+
+There are however some things to note.
+
+*&quot;They build a house.&quot;
+*&quot;The house is built.&quot;
+
+Here active and passive do not really have the same meaning. If for example you describe a picture where people build a house, the first sentence is perfectly correct. The second sentence however will be interpreted as the static perfect of the sentence
+
+*&quot;The house has been built&amp;mdash;it is built now.&quot;
+
+This is, the house is now ready and not under construction. So the correct passive form is
+
+*&quot;The house is being built.&quot;
+
+Passive voice can be built quite formally by adhering to some rules. You will however not find normally all tenses as in active voice. Formal rules will lead you to monstrosities like the following, you will certainly never hear (already the active sentence is quite monstrous):
+
+*&quot;The speech will have been being held for four hours when finally you'll arrive.&quot;
+*&quot;The president will have been holding a speech for four hours when finally you'll arrive.&quot;
+
+==Moods==
+
+Moods are different forms of the verb, each of which expresses the being, action, or passion, in some particular manner.
+
+There are five moods; the infinitive, the indicative, the potential, the subjunctive, and the imperative.
+
+The '''infinitive''' mood is that form of the verb, which expresses the being, action, or passion, in an unlimited manner, and without person or number: as,
+
+*&quot;To die,&amp;mdash;to sleep;&amp;mdash;to sleep!&amp;mdash;perchance, to dream!&quot;&amp;mdash;from Hamlet by William Shakespeare.
+
+The '''indicative''' mood is that form of the verb, which simply indicates or declares a thing: as,
+
+*&quot;I write,&quot;
+*&quot;You know.&quot;
+
+or asks a question: as,
+
+*&quot;Do you know?&quot;
+*&quot;Know you not?&quot;
+
+The '''potential''' mood is that form of the verb which expresses the power, liberty, possibility, or necessity, of the being, action, or passion: as,
+
+*&quot;I can walk.&quot;
+*&quot;He may ride.&quot;
+*&quot;We must go.&quot;
+
+The '''subjunctive''' mood is that form of the verb, which represents the being, action, or passion, as conditional, doubtful, and contingent: as,
+
+*&quot;If you go, see that you offend not.&quot;
+*&quot;See you do it not.&quot;&amp;mdash;Rev., xix, 10.
+*&quot;God save the queen.&quot;
+*&quot;It is a requirement that ... be done.&quot;
+*&quot;It's high time you were in bed.&quot;
+*&quot;If I were you,...&quot;
+
+The '''imperative''' mood is that form of the verb which is used in commanding, exhorting, entreating, or permitting: as,
+
+*&quot;Depart you.&quot;
+*&quot;Be comforted.&quot;
+*&quot;Forgive me.&quot;
+*&quot;Go in peace.&quot;
+
+==Conjugation==
+
+The conjugation of a verb is a regular arrangement of its moods, tenses, persons, numbers, and participles.
+
+An '''auxiliary''', or a '''sign''' of a verb, is a short verb prefixed to one of the morphological forms of another verb, to express some particular mode and time of the being, action, or passion. The auxiliaries are ''do, be, have, shall, will, may, can'', and ''must'', with their variations. ''Do'', ''be'', and ''have'' express the indicative mood.
+
+Most often, the auxiliaries are used in the following way:
+
+* When talking about actions that take place in the future, add the word ''will'' before the verb.
+* To describe an action that is temporary, add the appropriate form of the verb ''[[wikt:be|be]]'' before the verb and add ''ing'' to the end of the verb root.
+* To describe an action that has taken place, put the verb in the past tense and add the appropriate form of the verb ''[[wikt:have|have]]'' before the verb.
+* You can combine the previous two auxiliaries by putting the appropriate form of ''have'' before ''been'', and putting both of them before the verb.
+
+===Do===
+
+*Present tense, sign of the present. I do, he does, we do, you do, they do.
+*Past tense, sign of the past. I did, he did, we did, you did, they did.
+
+===Be===
+
+*Present tense, sign of the present. I am, he is, we are, you are, they are.
+*Past tense, sign of the past. I was, he was, we were, you were, they were.
+
+===Have===
+
+*Present tense, sign of the perfect. I have, he has, we have, you have, they have.
+*Past tense, sign of the past perfect. I had, he had, we had, you had, they had.
+
+===Shall and will===
+
+Often confused with each other in modern English. These auxiliaries have distinct meanings, and, as signs of the future, they are interchanged thus:
+
+Present tense, sign of the indicative first-future.
+
+*Simply to express a future action or event: I shall, he will, we shall, you will, they will.
+*To express a promise, command, or threat: I will, he will, we will, you will, they will.
+
+Past tense, sign of '''aorist''', or indefinite.
+
+*Used with reference to duty or expediency: I should, he should, we should, you should, they should.
+*Used with reference to volition or desire: I would, he would, we would, you would, they would.
+
+'''See also:''' [[w:Shall and will|Shall and will]] by Wikipedia
+
+===May===
+
+*Present tense, sign of the potential present. I may, he may, we may, you may, they may.
+*Past tense, sign of the potential past. I might, he might, we might, you might, they might.
+
+===Can===
+
+*Present tense, sign of the potential present. I can, he can, we can, you can, they can.
+*Past tense, sign of the potential past. I could, he could, we could, you could, they could.
+
+===Must===
+
+*Present tense, sign of the potential present. I must, he must, we must, you must, they must.
+
+If ''must'' is ever used in the sense of the past tense, the form is the same as that of the present: this word is entirely invariable.
+
+===Is being===
+
+English grammar has changed,
+
+*&quot;The house is being built.&quot;
+
+no longer means the same as
+
+*&quot;The house is built.&quot;
+
+The first sentence refers to an ongoing action, the second to a completed one.
+
+*&quot;If the expression, 'Is being built,' be a correct form of the present indicative passive, then it must be equally correct to say in the perfect, 'Has been being built;' in the past perfect, 'Had been being built;' in the present infinitive, 'To be being built;' in the perfect infinitive, 'To have been being built;' and in the present participle, 'Being being built;' which all will admit to be expressions as incorrect as they are inelegant, but precisely analogous to that which now begins to prevail.&quot;&amp;mdash;Bullions's Principles of English Gram., p. 58.
+
+===Forms of conjugation===
+
+Verb may be conjugated in four ways:
+
+*'''Affirmatively''': as, I write, I do write, or, I am writing; and so on.
+*'''Negatively''': as, I write not, I do not write, or, I am not writing.
+*'''Interrogatively''': as, write I? do I write? or, am I writing?
+*'''Interrogatively and negatively''': as, write I not? do I not write? or, am I not writing?
+
+The verbs would be conjugated affirmatively, unless said otherwise.
+
+==Love, conjugated in simple form==
+
+The verb ''love'' is a regular active verb.
+
+===Simple form, active or neuter===
+
+The simplest form of an English conjugation, is that which makes the present and past tenses without auxiliaries; but, even in these, auxiliaries are required for the potential mood, and are often preferred for the indicative.
+
+===Morphological forms===
+&lt;center&gt;
+{| border=1 cellspacing=0 cellpadding=5
+ |'''Present'''  
+ |'''Past  '''  
+ |'''Present Participle'''  
+ |'''Past Participle'''
+ |-
+ |Love    
+ |Loved  
+ |Loving             
+ |Loved
+ |}
+&lt;/center&gt;
+
+===Participles===
+&lt;center&gt;
+{| border=1 cellspacing=0 cellpadding=5
+ |-
+ !Present  
+ |'''Past'''    
+ |'''Past Perfect'''
+ |-
+ |Loving  
+ |Loved  
+ |Having loved.
+ |}
+&lt;/center&gt;
+
+===Infinite mood===
+
+The infinitive mood is that form of the verb, which expresses the being, action, or passion, in an unlimited manner, and without person or number. It is used only in the present and perfect tenses.
+
+====Present tense====
+
+This tense is the root, or radical verb; and is usually preceded by the preposition to, which shows its relation to some other word: thus,
+
+*To love.
+
+====Perfect tense====
+
+This tense prefixes the auxiliary have to the past participle; and, like the infinitive present, is usually preceded by the preposition to: thus,
+
+*To have loved.
+
+===Indicative mood===
+
+The indicative mood is that form of the verb, which simply indicates or declares a thing, or asks a question. It is used in all the tenses.
+
+====Present tense====
+
+The present indicative, in its simple form, is essentially the same as the present infinitive, or '''radical verb'''; except that the verb ''be'' has ''am'' in the indicative.
+
+The simple form of the present tense is varied thus:
+
+*I love, he loves, we love, you love, they love.
+
+This tense may also be formed by prefixing the auxiliary ''do'' to the verb: thus,
+
+*I do love, he does love, we do love, you do love, they do love.
+
+====Past tense====
+
+This tense, in its simple form is the past; which, in all regular verbs, adds ''d'' or ''ed'' to the present, but in others is formed variously.
+
+The simple form of the past tense is varied thus:
+
+*I loved, he loved, we loved, you loved, they loved,
+
+This tense may also be formed by prefixing the auxiliary ''did'' to the present: thus,
+
+*I did love, he did love, we did love, you did love, they did love.
+
+====Perfect tense====
+
+This tense prefixes the auxiliary ''have'' to the past participle: thus,
+
+*I have loved, he has loved, we have loved, you have loved, they have loved.
+
+====Past perfect tense====
+
+This tense prefixes the auxiliary ''had'' to the past participle: thus,
+
+*I had loved, he had loved, we had loved, you had loved, they had loved.
+
+====First-future tense====
+
+This tense prefixes the auxiliary ''shall or will'' to the present: thus,
+
+*Simply to express a future action or event: I shall love, he will love, we shall love, you will love, they will love.
+*To express a promise, volition, command, or threat: I will love, he shall love, we will love, you shall love, they shall love.
+
+====Second-future tense====
+
+This tense prefixes the auxiliaries ''shall have or will have'' to the past participle: thus,
+
+*I shall have loved, he will have loved, we shall have loved, you will have loved, they will have loved.
+
+===Potential mood===
+
+The potential mood is that form of the verb, which expresses the power, liberty, possibility, or necessity of the being, action, or passion. It is used in the first four tenses; but the potential past is properly an aorist: its time is very indeterminate: as,
+
+*&quot;He would be devoid of sensibility were he not greatly satisfied.&quot;&amp;mdash;Lord Kames, El. of Crit., Vol. i, p. 11.
+
+====Present tense====
+
+This tense prefixes the auxiliary ''may, can, or must'', to the radical verb: thus,
+
+*I may love, he may love, we may love, you may love, they may love.
+
+====Past tense====
+
+This tense prefixes the auxiliary ''might, could, would, or should'', to the radical verb: thus,
+
+*I might love, he might love, we might love, you might love, they might love.
+
+====Perfect tense====
+
+This tense prefixes the auxiliaries, ''may have, can have, or must have'', to the past participle: thus,
+
+*I may have loved, he may have loved, we may have loved, you may have loved, they may have loved.
+
+====Past perfect tense====
+
+This tense prefixes the auxiliaries, ''might have, could have, would have, or should have'', to the past participle: thus,
+
+*I might have loved, he might have loved, we might have loved, you might have loved, they might have loved.
+
+===Subjunctive mood===
+
+The subjunctive mood is that form of the verb, which represents the being, action, or passion, as conditional, doubtful, or contingent. This mood is generally preceded by a conjunction: as, ''if, that, though, lest, unless, except''. But sometimes, especially in poetry, it is formed by a mere placing of the verb before the nominative: as,
+
+*&quot;Were I,&quot; for, &quot;If I were;&quot;
+*&quot;Had he,&quot; for, &quot;If he had;&quot;
+*&quot;Fall we&quot; for, &quot;If we fall;&quot;
+*&quot;Knew they,&quot; for, &quot;If they knew.&quot;
+
+It does not vary its termination at all, in the different persons. It is used in the present, and sometimes in the past tense; rarely, and perhaps never properly, in any other. As this mood can be used only in a dependent clause, the time implied in its tenses is always relative, and generally indefinite: as,
+
+*&quot;It shall be in eternal restless change, self-fed, and self-consumed: if this fail, the pillared firmament is rottenness.&quot;&amp;mdash;Milton, Comus, l. 596.
+
+====Present tense====
+
+This tense is generally used to express some condition on which a future action or event is affirmed. It is therefore erroneously considered by some grammarians, as an elliptical form of the future.
+
+*If I love, if he love, if we love, if you love, if they love.
+
+In this tense, the auxiliary ''do'' is sometimes employed: as,
+
+*&quot;If you do prosper my way.&quot;&amp;mdash;Genesis, xxiv, 42.
+*&quot;If he do not utter it.&quot;&amp;mdash;Leviticus, v, 1.
+*&quot;If he do but intimate his desire.&quot;&amp;mdash;Murray's Key, p. 207.
+*&quot;If he do promise, he will certainly perform.&quot;&amp;mdash;Ib., p.  208.
+*&quot;An event which, if it ever do occur, must occur in some future period.&quot;&amp;mdash;Hiley's Gram., 3d Ed., Lond., p. 89.
+*&quot;If he do but promise, you are safe.&quot;&amp;mdash;Ib., 89.
+*&quot;Until old experience do attain to something like prophetic strain.&quot;&amp;mdash;Milton: Il Penseroso.
+
+====Past tense====
+
+*If I loved, if he loved, if we loved, if you loved, if they loved.
+
+This tense, like the past of the potential mood, with which it is frequently connected, is properly an aorist, or indefinite tense; for it may refer to time past, present, or future: as,
+
+*&quot;If therefore perfection were by the Levitical priesthood, what further need was there that an other priest should rise?&quot;&amp;mdash;Heb., vii, 11.
+*&quot;They must be viewed exactly in the same light, as if the intention to purchase now existed.&quot;&amp;mdash;Murray's Parsing Exercises, p. 24.
+*&quot;If it were possible, they shall deceive the very elect.&quot;&amp;mdash;Matt., xxiv, 24.
+*&quot;If the whole body were an eye, where were the hearing?&quot;&amp;mdash;1 Corinthians, xii, 17.
+*&quot;If the thankful refrained, it would be pain and grief to them.&quot;&amp;mdash;Atterbury.
+
+===Imperative mood===
+
+The imperative mood is that form of the verb, which is used in commanding, exhorting, entreating, or permitting. It is commonly used only in the second person of the present tense.
+
+*Love [you,] or do you love.
+
+==See, conjugated in simple form==
+
+The verb ''see'' is an irregular active verb.
+
+===Morphological forms===
+{|
+|-
+! Present !! Past !! Present Participle !! Past Participle
+|-
+| See.|| Saw.|| Seeing.|| Seen.
+|}
+
+===Participles===
+
+ Present  Past   Past Perfect
+ Seeing.  Seen.  Having seen.
+
+===Infinitive mood===
+
+*Present tense. To see.
+*Perfect tense. To have seen.
+
+===Indicative mood===
+
+*Present tense. I see, he sees, we see, you see, they see.
+*Past tense. I saw, he saw, we saw, you saw, they saw.
+*Perfect tense. I have seen, he has seen, we have seen, you have seen, they have seen.
+*Past perfect tense. I had seen, he had seen, we had seen, you had seen, they had seen.
+*First-future tense. I shall see, he will see, we shall see, you will see, they will see.
+*Second-future tense. I shall have seen, he will have seen, we shall have seen, you will have seen, they will have seen.
+
+===Potential mood===
+
+*Present tense. I may see, he may see, we may see, you may see, they may see.
+*Past tense. I might see, he might see, we might see, you might see, they might see.
+*Perfect tense. I may have seen, he may have seen, we may have seen, you may have seen, they may have seen.
+*Past perfect tense. I might have seen, he might have seen, we might have seen, you might have seen, they might have seen.
+
+===Subjunctive mood===
+
+*Present tense. If I see, if he see, if we see, if you see, if they see.
+*Past tense. If I saw, if he saw, if we saw, if you saw, if they saw.
+
+===Imperative mood===
+
+*Present tense. See [you,] or do you see.
+
+==Be, conjugated in simple form==
+
+The verb ''be'' is an irregular neuter verb.
+
+===Morphological forms===
+
+ Present  Past  Present Participle  Past Participle.
+ Be.      Was.  Being.              Been.
+
+===Participles===
+
+ Present  Past   Past Perfect
+ Being.   Been.  Having been.
+
+===Infinitive mood===
+
+*Present tense. To be.
+*Perfect tense. To have been.
+
+===Indicative mood===
+
+*Present tense. I am, he is, we are, you are, they are.
+*Past tense. I was, he was, we were, you were, they were.
+*Perfect tense. I have been, he has been, we have been, you have been, they have been.
+*Past perfect tense. I had been, he had been, we had been, you had been, they had been.
+*First-future tense. I shall be, he will be, we shall be, you will be, they will be.
+*Second-future tense. We shall have been, he will have been, we shall have been, you will have been, they will have been.
+
+===Potential mood===
+
+*Present tense. I may be, he may be, we may be, you may be, they may be.
+*Past tense. I might be, he might be, we might be, you might be, they might be.
+*Perfect tense. I may have been, he may have been, we may have been, you may have been, they may have been.
+*Past perfect tense. I might have been, he might have been, we might have been, you might have been, they might have been.
+
+===Subjunctive mood===
+
+*Present tense. If I be, if he be, if we be, if you be, if they be.
+*Past tense. If I were, if he were, if we were, if you were, if they were.
+
+===Imperative mood===
+
+*Present tense. Be [you,] or do you be.
+
+==Read, conjugated in progressive form==
+
+The verb ''read'' is an irregular active verb.
+
+===Compound or progressive form===
+
+Active and neuter verbs may also be conjugated, by adding the present participle to the auxiliary verb ''be'', through all its changes: as,
+
+*&quot;I am writing a letter.&quot;
+*&quot;He is sitting idle.&quot;
+*&quot;They are going.&quot;
+
+This form of the verb denotes a continuance of the action or state of being, and is, on many occasions, preferable to the simple form of the verb.
+
+===Morphological forms of the simple verb===
+
+ Present  Past   Present Participle  Past Participle
+ Read.    Read.  Reading.            Read.
+
+===Participles===
+
+ Present         Past      Past Perfect
+ Being reading.  &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;  Having been reading.
+
+===Infinitive mood===
+
+*Present tense. To be reading.
+*Perfect tense. To have been reading.
+
+===Indicative mood===
+
+*Present tense. I am reading, he is reading, we are reading, you are reading, they are reading.
+*Past tense. I was reading, he was reading, we were reading, you were reading, they were reading. 
+*Perfect tense. I have been reading, he has been reading, we have been reading, you have been reading, they have been reading.
+*Past perfect tense. I had been reading, he had been reading, we had been reading, you had been reading, they had been reading.
+*First-future tense. I shall be reading, he will be reading, we shall be reading, you will be reading, they will be reading.
+*Second-future tense. I shall have been reading, he will have been reading, we shall have been reading, you will have been reading, they will have been reading.
+
+===Potential mood===
+
+*Present tense. I may be reading, he may be reading, we may be reading, you may be reading, they may be reading.
+*Past tense. I might be reading, he might be reading, we might be reading, you might be reading, they might be reading.
+*Perfect tense. I may have been reading, he may have been reading, we may have been reading, you may have been reading, they may have been reading.
+*Past perfect tense. I might have been reading, he might have been reading, we might have been reading, you might have been reading, they might have been reading.
+
+===Subjunctive mood===
+
+*Present tense. If I be reading, if she be reading, if we be reading, if you be reading, if they be reading.
+*Past tense. If I were reading, if he were reading, if we were reading, if you were reading, if they were reading.
+
+===Imperative mood===
+
+*Be you reading, or do you be reading.
+
+==Be loved, conjugated in simple form==
+
+The verb ''be loved'' is a regular passive verb.
+
+===Form of passive verbs===
+
+Passive verbs, in English, are always of a progressive form; being made from transitive verbs, by adding the past participle to the auxiliary verb ''be'', through all its changes: thus from the active transitive verb ''love'', is formed the passive verb ''be loved''.
+
+===Morphological forms of the active verb===
+&lt;center&gt;
+{|border=1 cellspacing=1 cellpadding=5
+ |'''Present''' 
+ |'''Past'''    
+ |'''Present''' 
+ |'''Participle'''  
+ |'''Past Participle'''
+ |-
+ |Love    
+ |Loved  
+ |Loving             
+ |Loved
+ |Loving 
+ |}
+&lt;/center&gt;
+
+===Infinitive mood===
+
+*Present tense. To be loved.
+*Perfect tense. To have been loved.
+
+===Indicative mood===
+
+*Present tense. I am loved, he is loved, we are loved, you are loved, they are loved.
+*Past tense. I was loved, he was loved, we were loved, you were loved, they were loved. 
+*Perfect tense. I have been loved, he has been loved, we have been loved, you  have been loved, they have been loved.
+*Past perfect tense. I had been loved, he had been loved, we had been loved, you had been loved, they had been loved.
+*First-future tense. I shall be loved, he will be loved, we shall be loved, you will be loved, they will be loved.
+*Second-future tense. I shall have been loved, he will have been loved, we shall have been loved, you will have been loved, they will have been loved.
+
+===Potential mood===
+
+*Present tense. I may be loved, he may be loved, we may be loved, you may be loved, they may be loved.
+*Past tense. I might be loved, he might be loved, we might be loved, you might be loved, they might be loved.
+*Perfect tense. I may have been loved, he may have been loved, we may have been loved, you  may have been loved, they may have been loved.
+*Past perfect tense. I might have been loved, he might have been loved, we might have been loved, you might have been loved, they might have been loved.
+
+===Subjunctive mood===
+
+*Present tense. If I be loved, if he be loved, if we be loved, if you be loved, if they be loved.
+*Past tense. If I were loved, if he were loved, if we  were loved, if you  were loved, if they were loved.
+
+===Imperative mood===
+
+*Present tense. Be you loved, or do you be loved.
+
+==Love, conjugated negatively==
+
+===Form of negation===
+
+A verb is conjugated negatively, by placing the adverb ''not'' and participles take the negative first: as, not to love, not to have loved; not loving, not loved, not having loved.
+
+===First person singular===
+
+*Indicative. I love not, or I do not love; I loved not, or I did not love; I have not loved; I had not loved; I shall not, or will not, love; I shall not, or will not, have loved.
+*Potential. I may, can, or must not love; I might, could, would, or should not love; I may, can, or must not have loved; I might, could, would, or should not have loved,
+*Subjunctive. If I love not, if I loved not, if they loved.
+
+===Third person singular===
+
+*Indicative. He loves not, or he does not love; he loved not, or he did not love; he has not loved; he had not loved; he shall not, or will not, love; he shall not, or will not, have loved.
+*Potential. He may, can, or must not love; he might, could, would, or should not love; he may, can, or must not have loved; he might, could, would, or should not have loved.
+*Subjunctive. If he love not, if he loved not.
+
+==Love, conjugated interrogatively==
+
+===Form of question===
+
+A verb is conjugated interrogatively, in the indicative and potential moods, by placing the nominative after it, or after the first auxiliary: as,
+
+===First person singular===
+
+*Indicative. Love I? or do I love? loved I? or did I love? have I loved? had I loved? shall I love? shall I have loved?
+*Potential. May, can, or must I love? might, could, would, or should I love? may, can, or must I have loved? might, could, would, or should I have loved?
+
+===Third person singular===
+
+*Indicative. Loves he? or does he love? loved he? or did he love? has he loved? had he loved? shall or will he love? will he have loved?
+*Potential. May, can, or must he love? might, could, would, or should he love? may, can, or must he have loved? might, could, would, or should he have loved?
+
+==Love, conjugated interrogatively and negatively==
+
+===Form of question with negation===
+
+A verb is conjugated interrogatively and negatively, in the indicative and potential moods, by placing the nominative and the adverb ''not'' after the verb, or after the first auxiliary: as,
+
+===First person plural===
+
+*Indicative. Love we not? or do we not love? loved we not? or did we not love? have we not loved? had we not loved? shall we not love? shall we not have loved?
+*Potential. May, can, or must we not love? might, could, would, or should we not love? may, can, or must we not have loved? might, could, would, or should we not have loved?
+
+===Third person plural===
+
+*Indicative. Are they not loved? were they not loved? have they not been loved? had they not been loved? shall or will they not be loved? will they not have been loved?
+*Potential. May, can, or must they not be loved? might, could, would, or should they not be loved? may, can, or must they not have been loved? might, could, would, or should they not have been loved?
+
+==Irregular verbs==
+
+An irregular verb is a verb that does not form the past and the past participle by assuming ''d'' or ''ed'': as, ''see, saw, seeing, seen''. Of this class of verbs there are about one hundred and ten, beside their several derivatives and compounds. 
+
+Methods of learning irregular verbs:
+
+* '''To remember verbs:'''
+
+# Learn them by heart.
+# Write a reference lists of verbs.
+# Say the verbs aloud (not silently).
+# Set yourself targets, e.g. learn one verb a day.
+# Learn these verbs in groups.
+# Test yourself.
+
+* '''To learn how to use them:'''
+
+# Write your own example sentences.
+# Collect some examples of use for each verb, e.g. from books, magazines or newspapers.
+# Use an English grammar.
+
+List of the top irregular verbs:
+
+{|class=&quot;wikitable&quot;
+|-
+!Present!!Past!!Present Participle!!Past Participle
+|-
+|Awake || awoke || awaking || awoken
+|-
+|Arise || arose || arising || arisen
+|-
+|Be || was,were || being || been
+|-
+|Bear || bore || bearing || borne
+|-
+|Begin || began || beginning || begun
+|-
+|Bend || bent || bending || bent
+|-
+|Blow || blew || blowing || blown
+|-
+|Break || broke || breaking || broken
+|-
+|Bring || brought || bringing || brought
+|-
+|Build || built || building || built
+|-
+|Buy || bought || buying || bought
+|-
+|Catch || caught || catching || caught
+|-
+|Choose || chose || choosing || chosen
+|-
+|Come || came || coming || come
+|-
+|Cost || cost || costing || cost
+|-
+|Cut || cut || cutting || cut
+|-
+|Do || did || doing || done
+|-
+|Draw || drew || drawing || drawn
+|-
+|Drink || drank || drinking || drunk
+|-
+|Drive || drove || driving || driven
+|-
+|Eat || ate || eating || eaten
+|-
+|Fall || fell || falling || fallen
+|-
+|Feel || felt || feeling || felt
+|-
+|Fight || fought ||fighting || fought
+|-
+|Find ||found ||finding ||found
+|-
+|Fly ||flew ||flying ||flown
+|-
+|Forget ||forgot || forgetting || forgotten
+|-
+|Forgive ||forgave ||forgiving || forgiven
+|-
+|Get ||got ||getting ||gotten
+|-
+|Give ||gave ||giving ||given
+|-
+|Go ||went ||going ||gone
+|-
+|Grow ||grew ||growing ||grown
+|-
+|Have ||had ||having ||had
+|-
+|Hear ||heard ||hearing ||heard
+|-
+|Hide ||hid ||hiding ||hidden or hid
+|-
+|Hit ||hit ||hitting ||hit
+|-
+|Hold ||held ||holding ||held
+|-
+|Keep ||kept ||keeping ||kept
+|-
+|Know ||knew ||knowing ||known
+|-
+|Lay ||laid ||laying || laid 
+|-
+|Lead ||led ||leading || led 
+|-
+|Leave ||left ||leaving ||left
+|-
+|Lend ||lent ||lending ||lent
+|-
+|Let ||let ||letting ||let
+|-
+|Lie ||lay ||lying ||lain
+|-
+|Lose ||lost ||losing ||lost
+|-
+|Make ||made ||making ||made
+|-
+|Mean ||meant ||meaning || meant 
+|-
+|Meet ||met ||meeting ||met
+|-
+|Pay ||paid ||paying || paid
+|-
+|Put ||put ||putting ||put
+|-
+|Read ||r~ead ||reading ||r~ead
+|-
+|Rend ||rent ||rending ||rent
+|-
+|Ride ||rode ||riding ||ridden
+|-
+|Ring ||rung or rang ||ringing ||rung
+|-
+|Rise ||rose ||rising ||risen
+|-
+|Run ||ran ||running ||run
+|-
+|Say ||said ||saying ||said
+|-
+|See ||saw || seeing ||seen
+|-
+|Seek ||sought ||seeking ||sought
+|-
+|Sell ||sold ||selling ||sold
+|-
+|Send ||sent ||sending ||sent
+|-
+|Set ||set ||setting ||set
+|-
+|Shake ||shook ||shaking || shook
+|-
+|Shine ||shone ||shining || shone
+|-
+|Shoot ||shot ||shooting ||shot
+|-
+|Show ||showed ||showing || shown
+|-
+|Sing ||sang ||singing ||sung
+|-
+|Sit ||sat ||sitting ||sat
+|-
+|Sleep ||slept ||sleeping || slept
+|-
+|Speak ||spoke ||speaking || spoken
+|-
+|Spend ||spent ||spending ||spent
+|-
+|Stand ||stood ||standing ||stood
+|-
+|Steal ||stole ||stealing ||stolen
+|-
+|Strike ||struck ||striking ||struck
+|-
+|Swim ||swam ||swimming ||swum
+|-
+|Take ||took ||taking ||taken
+|-
+|Teach ||taught ||teaching ||taught
+|-
+|Tell ||told ||telling ||told
+|-
+|Think ||thought ||thinking ||thought
+|-
+|Throw ||threw ||throwing || thrown 
+|-
+|Wake ||woke ||waking || woken 
+|-
+|Wear ||wore ||wearing ||worn
+|-
+|Win ||won ||winning ||won
+|-
+|Write ||wrote ||writing ||written
+|}
+* [[wikt:Appendix:Irregular verbs:English|English irregular verbs]]
+
+==Redundant verbs==
+
+A redundant verb is a verb that forms the past or the past participle in two or more ways, and so as to be both regular and irregular: as, ''thrive, thrived or throve, thriving, thrived or thriven''. Of this class of verbs, there are about ninety-five, beside sundry derivatives and compounds.
+
+List of the redundant verbs:
+{| class=&quot;wikitable&quot;
+|-
+! Present !! Past !! Present Participle !! Past Participle
+|-
+| Abide || abode or abided || abiding || abode or abided
+|-
+| Awake || awaked or awoke || awaking || awaked or awoke
+|-
+| Belay || belayed or belaid || belaying || belayed or belaid
+|-
+| Bend || bent or bended || bending || bent or bended
+|-
+| Bereave || bereft or bereaved || bereaving || bereft or bereaved
+|-
+| Beseech || besought or beseeched || beseeching || besought or beseeched
+|-
+| Bet|| betted or bet|| betting|| betted or bet
+|-
+| Betide|| betided or betid|| betiding|| betided or betid
+|-
+| Bide|| bode or bided|| biding|| bode or bided
+|-
+| Blend|| blended or blent|| blending|| blended or blent
+|-
+| Bless|| blessed or blest|| blessing|| blessed or blest
+|-
+| burn || burnt or burned || burning || burnt or burned
+|-
+| Clothe|| clothed or clad|| clothing|| clothed or clad
+|-
+| Crow|| crew or crowed|| crowing|| crew or crowed
+|-
+| Curse|| curst or cursed|| cursing|| curst or cursed
+|-
+|Dare|| dared or durst|| daring|| dared or durst
+|-
+| Dive|| dove or dived|| diving|| diven or dived
+|-
+| dream|| dreamt or dreamed|| dreaming|| dreamt or dreamed
+|-
+| Dress|| drest or dressed|| dressing|| drest or dressed
+|-
+|Geld|| gelt or gelded|| gelding|| gelt or gelded
+|-
+| Gild|| gilt or gilded|| gilding|| gilt or gilded
+|-
+|Gird|| girt or girded|| girding|| girt or girded
+|-
+| Grave|| graved|| graving|| graven or graved
+|-
+| Hang|| hung or hanged|| hanging|| hung or hanged
+|-
+| Heat|| het or heated|| heating|| het or heated
+|-
+| Heave|| hove or heaved|| heaving|| hoven or heaved
+|-
+| Hew|| hewed|| hewing|| hewn or hewed
+|-
+| Knit|| knit or knitted|| knitting|| knit or knitted
+|-
+| lean || leant or leaned|| leaning|| leant or leaned
+|-
+| Leap|| leapt or leaped|| leaping|| leapt or leaped
+|-
+| learn || learnt or learned|| learning|| learnt or learned
+|-
+| light|| lit or lighted|| lighting|| lit or lightied
+|-
+| melt|| melted|| melting|| molten or melted
+|-
+| Mulct|| mulct or mulcted|| mulcting|| mulct or mulcted
+|-
+| Pass|| past or passed|| passing|| past or passed
+|-
+| Pen|| pent or penned|| penning|| pent or penned
+|-
+| Plead|| pled or pleaded|| pleading|| pled or pleaded
+|-
+| Prove|| proved|| proving|| proven or proved
+|-
+| quit || quit or quitted|| quitting|| quit or quitted
+|-
+| Rap|| rapt or rapped|| rapping|| rapt or rapped
+|-
+| Reave|| reft or reaved|| reaving|| reft or reaved
+|-
+| Roast|| roasted or roast|| roasting|| roasted or roast
+|-
+| rot|| rotted|| rotting|| rotten or rotted
+|-
+| seethe|| seethed|| seething|| sodden
+|-
+| Shape|| shaped|| shaping|| shapen or shaped
+|-
+| Shave|| shaved|| shaving|| shaven or shaved
+|-
+| Shear|| shore or sheared|| shearing|| shorn or sheared
+|-
+| shred || shred or shredded || shredding || shred or shredded
+|-
+| Smell|| smelt or smelled|| smelling|| smelt or smelled
+|-
+| Sow|| sowed|| sowing|| sown or sowed
+|-
+| Speed|| sped or speeded|| speeding|| sped or speeded
+|-
+| spell || spelt or spelled || spelling || spelt or spelled
+|-
+| spill || spilt or spilled || spilling || spilt or spilled
+|-
+| Spoil || spoilt or spoiled || spoiling || spoilt or spoiled
+|-
+| Stave|| stove or staved|| staving|| stove or staved
+|-
+| strew || strewed || strewing || strewn or strewed
+|-
+| Strow|| strowed|| strowing,   || strown or strowed
+|-
+| Sweat|| sweat or sweated|| sweating|| sweat or sweated
+|-
+| Swell|| swelled|| swelling|| swollen or swelled
+|-
+| Thrive|| throve or thrived|| thriving|| thriven or thrived
+|-
+| Wake || woke or waked|| waking|| woke or waked
+|-
+| Wax || waxed|| waxing|| waxen or waxed
+|-
+| Wed || wed or wedded|| wedding|| wed or wedded
+|-
+| Wet || wet or wetted|| wetting|| wet or wetted
+|-
+| Whet || whet or whetted|| whetting|| whet or whetted
+|-
+| Wont|| wont or wonted|| wonting|| wont or wonted
+|-
+| Work|| worked or wrought|| working|| worked or wrought
+|}
+
+==Defective verbs==
+
+A defective verb is a verb that forms no participles, and is used in but few of the moods and tenses: as, ''beware, ought, quoth''.
+
+List of the defective verbs:
+
+{|class=&quot;wikitable&quot;
+|-
+!Present !! Past
+|-
+|Beware||&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;
+|-
+|Can|| could
+|-
+|May|| might
+|-
+|Methinks|| methought
+|-
+|Must|| must
+|-
+|Ought|| ought
+|-
+|Shall|| should
+|-
+|Will|| would
+|-
+|Quoth|| quoth
+|-
+|Wis|| wist
+|-
+|Wit|| wot
+|}
+
+==A short syntax==
+
+The finite verb must agree with its subject, as &quot;The birds fly&quot;, except the following cases: the conjunction ''and'', as &quot;Rhetoric and logic are allied,&quot; one person or thing, as &quot;Flesh and blood has not revealed it,&quot; empathy, as &quot;Consanguinity, and not affinity, is the ground,&quot; ''each'', ''every'', or ''no'', as &quot;No one is the same,&quot; and the conjunction ''or'', as &quot;Fear or jealousy affects him.&quot;
+
+==References==
+
+*A part of the text in this article, was taken from the public domain English grammar [http://www.gutenberg.net/etext/11615 &quot;The Grammar of English Grammars&quot;] by Goold Brown, 1851.
+
+==See also==
+
+*[http://www.helloworld.com.es/english/quick%20reference/verbs/englishverblist.htm English Verbs Fully Conjugated] - 665 Regular and Irregular English verb list. Conjugated in various tenses.
+*[http://www.conjugation.com conjugation.com] English Verb Conjugation. 15 000 English verbs conjugated in all 3 forms, affirmative, interrogative, and negative, in all tenses and persons.</text>
+      <sha1>9oe0uj6r8uw24r9h7svwo1h82jwz6bz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Alternating current on a 'scope.png</title>
+    <ns>6</ns>
+    <id>2121</id>
+    <revision>
+      <id>636422</id>
+      <parentid>154165</parentid>
+      <timestamp>2006-11-04T10:59:51Z</timestamp>
+      <contributor>
+        <username>Theresa knott</username>
+        <id>93</id>
+      </contributor>
+      <text xml:space="preserve">Diagram drawn by theresa knott
+
+{{GFDL}}
+{{Cc-by-sa-2.5}}</text>
+      <sha1>gai8qhx5xhxbgljl09sizl82of3p10e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Alternating current question.Pos Answers.png</title>
+    <ns>6</ns>
+    <id>2122</id>
+    <revision>
+      <id>636414</id>
+      <parentid>154166</parentid>
+      <timestamp>2006-11-04T10:57:46Z</timestamp>
+      <contributor>
+        <username>Theresa knott</username>
+        <id>93</id>
+      </contributor>
+      <text xml:space="preserve">Diagram showing pos traces on a scope. Drawn by theresa knott
+
+{{GFDL}}
+{{Cc-by-sa-2.5}}</text>
+      <sha1>0z9dp6y2ecmpd9gkmvqidb1w98dhhps</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Easy Sequence 7/Solution</title>
+    <ns>0</ns>
+    <id>2123</id>
+    <revision>
+      <id>502303</id>
+      <parentid>502282</parentid>
+      <timestamp>2006-06-27T06:58:56Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <comment>[[Easy Sequence 7 - Solution]] moved to [[Puzzles/Easy Sequence 7/Solution]]</comment>
+      <text xml:space="preserve">&lt; [[Puzzles:Number sequences|Number sequences]]
+
+They are the sum of two numbers before (also known as the Fibonacci-sequence):
+
+2 3 5 8 13 21 &lt;b&gt; 34 55 89 &lt;/b&gt;
+
+That is, 2 + 3 = 5, 3 + 5 = 8, 5 + 8 = 13 and so on...
+
+[[Category:Puzzles]]</text>
+      <sha1>s3jjjitm4ttdl70ukeevnv8c81z4i1e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Easy Sequence 9/Solution</title>
+    <ns>0</ns>
+    <id>2124</id>
+    <revision>
+      <id>502307</id>
+      <parentid>502284</parentid>
+      <timestamp>2006-06-27T06:59:15Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <comment>[[Easy Sequence 9 - Solution]] moved to [[Puzzles/Easy Sequence 9/Solution]]</comment>
+      <text xml:space="preserve">These numbers are sorted by reverse alphabet:
+
+two, three, six, seven, one, nine, four, five, eight
+
+2 3 6 7 1 9 4 5 8
+
+[[Category:Puzzles]]</text>
+      <sha1>3oqlem480tod924uwwnu0nwmbt8wphc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Insolentsia</title>
+    <ns>2</ns>
+    <id>2125</id>
+    <revision>
+      <id>154169</id>
+      <timestamp>2003-11-18T23:48:55Z</timestamp>
+      <contributor>
+        <ip>66.27.77.86</ip>
+      </contributor>
+      <text xml:space="preserve">I am interested in filling in the gaps in the Physics and Mathematics wikibooks. I will likely start out by elaborating on the existing Electricity and Magentism content, my current area of speciality.
+
+I am currently an undergraduate majoring in physics, philosophy, and bioengineering at UCSD. Although I am a second year, I am taking upper division and graduate courses in physics, and I have taught (informally) and tutored lower division courses in physics. Meanwhile, I've written sections of a physics study guide in modern vernacular. It is called The Slacker's Guide to Physics. (Google it.)
+
+I look forward to adding to wikibooks in my remaining spare time...
+You can contact me via AIM via insolentsia.</text>
+      <sha1>ocnjv6uy4kesm5f3h1tgpem7cdjadem</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Physics with Calculus</title>
+    <ns>0</ns>
+    <id>2126</id>
+    <revision>
+      <id>2581706</id>
+      <parentid>2292404</parentid>
+      <timestamp>2013-11-15T02:45:08Z</timestamp>
+      <contributor>
+        <username>Guy vandegrift</username>
+        <id>1104069</id>
+      </contributor>
+      <comment>/* Electromagnetism */ You can't do field energy until you do voltage.  See my work on wikipedia https://en.wikipedia.org/w/index.php?title=Electrostatics&amp;action=history</comment>
+      <text xml:space="preserve">This textbook is designed for use with first- and second-year college level physics for engineers and scientists. While the content is not mathematically complicated or very advanced, the students are expected to be familiar with differential calculus and some integral calculus.
+
+Unlike the [[Modern Physics]] textbook, this textbook will stay with the traditional order in presentation of topics in mechanics, thermodynamics, electromagnetism, and geometric optics. These consist the first two semesters and perhaps first few weeks of the third semester. The topics in modern physics, which can be covered during the third semester in the remaining time, can be presented or read in any order.
+
+In keeping with maintaining the orthodox order, we will also maintain the traditional chapter-section organization. A few suggested break points between semesters are shown below as well. These break points are marked by a horizontal line between chapters.
+
+''(Note to editors: For the purpose of hierarchical organization, at least until the organization of the book is settled down, it should be: &quot;Physics with Calculus/General Topic/Specific Topic&quot;, where &quot;General Topic&quot; is any of the following: Mechanics, Thermodynamics, Waves, Electromagnetism, Optics, Modern. No additional &quot;general topic&quot; should be necessary. &quot;Specific Topic&quot; is what it sounds like it is. It can be as specific as necessary, such as &quot;Conservation of Angular Momentum in Spin-Orbit Coupling&quot;, or as general as necessary, such as &quot;Newton's Laws&quot;. More specific information, such as ordering of chapters will be kept in this module only. This should minimize the need to rename books each time one section moves from one chapter to another, without the unclear &quot;Part I&quot; or &quot;Unit I&quot;.)''
+
+== Introductions ==
+* [[Physics with Calculus/Introduction/Textbook|Introduction to Textbook]]
+* [[Physics with Calculus/Introduction/Physics|Introduction to Physics (general)]]
+* [[Physics with Calculus/Introduction/For Engineers|Introduction for Engineers]]
+* [[Physics with Calculus/Introduction/For Chemists|Introduction for Chemists]]
+* [[Physics with Calculus/Introduction/For Geologists|Introduction for Geologists]]
+* [[Physics with Calculus/Introduction/For Biologists|Introduction for Biologists]]
+* [[Physics with Calculus/Introduction/For Mathematicians|Introduction for Mathematicians]]
+
+== Newtonian mechanics: force, motion, and waves ==
+=== [[Physics with Calculus/Mechanics/Measurement|Measurement]] ===
+# [[Physics with Calculus/Mechanics/The SI Unit System|The SI Unit System]]
+# [[Physics with Calculus/Mechanics/Scalar and Vector Quantities|Scalar and Vector Quantities]]
+# [[Physics with Calculus/Mechanics/Significant Figures|Significant Figures]]
+
+=== [[Physics with Calculus/Mechanics/Kinematics|Kinematics]] ===
+# [[Physics with Calculus/Mechanics/Motion in One Dimension|Motion in One Dimension]]
+# [[Physics with Calculus/Mechanics/Motion in Two Dimensions|Motion in Two Dimensions]]
+# [[Physics with Calculus/Mechanics/Projectile Motion|Projectile Motion]]
+# [[Physics with Calculus/Mechanics/Relative Motion|Relative Motion]]
+# [[/Mechanics/Velocity and Acceleration|Velocity and Acceleration]]
+
+=== [[/Mechanics/Newton's Laws|Newton's Laws]] ===
+# [[/Mechanics/Newton's First Law|Newton's First Law]]
+# [[/Mechanics/Newton's Second Law|Newton's Second Law]]
+# [[/Mechanics/Newton's Third Law|Newton's Third Law]]
+# [[/Mechanics/Center of Mass|Center of Mass]]
+# [[/Mechanics/Linear Motion and Statics|Linear Motion and Statics]]
+
+=== [[Physics with Calculus/Mechanics/Energy|Energy]] ===
+# [[Physics with Calculus/Mechanics/Work and Energy|Work and Energy]]
+# [[Physics with Calculus/Mechanics/Energy and Conservation of Energy|Energy and Conservation of Energy]]
+
+=== [[Physics with Calculus/Mechanics/Gravity|Gravity]] ===
+# [[Physics with Calculus/Mechanics/Newton's Law of Gravitation and Weight|Newton's Law of Gravitation and Weight]]
+# [[Physics with Calculus/Mechanics/Gravitational Potential Energy|Gravitational Potential Energy]]
+
+===Other Topics===
+# [[Physics with Calculus/Mechanics/Momentum and Conservation of Momentum|Momentum and Conservation of Momentum]]
+# [[Physics with Calculus/Mechanics/Rotational Motion|Rotational Motion]]
+# [[Physics with Calculus/Mechanics/Linear-Rotational Analogs|Linear-Rotational Analogs]]
+# [[Physics with Calculus/Mechanics/Fluid Mechanics|Fluid Mechanics]]
+# [[Physics with Calculus/Mechanics/Harmonic Motion, Waves, and Sounds|Harmonic Motion, Waves, and Sounds]]
+
+== Thermodynamics==
+# [[Physics with Calculus/Thermodynamics/Pressure and Temperature|Pressure and Temperature]]
+# [[Physics with Calculus/Thermodynamics/The Ideal Gas|The Ideal Gas]]
+# [[Physics with Calculus/Thermodynamics/Intrinsic and Extrinsic Properties|Intrinsic and Extrinsic Properties]]
+# [[Physics with Calculus/Thermodynamics/Entropy|Entropy]]
+
+==Electromagnetism==
+# [[Physics with Calculus/Electromagnetism/Electric Charge and Coulomb's Law|Electric Charge and Coulomb's Law]]
+# [[Physics with Calculus/Electromagnetism/Electric Fields|Electric Fields]]
+# [[Physics with Calculus/Electromagnetism/Continuous Charge Distributions|Continuous Charge Distributions]]
+# [[Physics with Calculus/Electromagnetism/Gauss' Law|Gauss' Law]]
+# [[Physics with Calculus/Electromagnetism/Voltage|Voltage]]
+# [[Physics with Calculus/Electromagnetism/Field Energy|Field Energy]]
+# [[Physics with Calculus/Electromagnetism/Capacitance, Inductance, LRC Circuits|Capacitance, Inductance, LRC Circuits]]
+# [[Physics with Calculus/Electromagnetism/Current and Circuits|Current and Circuits]]
+# [[Physics with Calculus/Electromagnetism/Resistance|Resistance]]
+# [[Physics with Calculus/Electromagnetism/Magnetic fields|Magnetic fields]]
+# [[Physics with Calculus/Electromagnetism/Ampere's Law|Ampere's Law]]
+# [[Physics with Calculus/Electromagnetism/Electromagnetic Induction|Electromagnetic Induction]]
+# [[Physics with Calculus/Electromagnetism/AC Circuits|AC Circuits]]
+# [[Physics with Calculus/Electromagnetism/Maxwell's Equations|Maxwell's Equations]]
+# [[Physics with Calculus/Electromagnetism/Electromagnetic Waves|Electromagnetic Waves]]
+
+== Optics ==
+# [[Physics with Calculus/Optics/Light|Light]]
+# [[Physics with Calculus/Optics/Geometric Optics|Geometric Optics]]
+# [[Physics with Calculus/Optics/Wave Properties of Light|Wave Properties of Light]]
+
+==Modern Physics==
+# [[Physics with Calculus/Modern/Relativity|Relativity]]
+# [[Physics with Calculus/Modern/Special Relativity|Special Relativity]]
+# [[Physics with Calculus/Modern/Quantum Mechanics|Quantum Mechanics]]
+# [[Physics with Calculus/Modern/Atoms|Atoms]]
+# [[Physics with Calculus/Modern/The Bohr Model|The Bohr Model]]
+# [[Physics with Calculus/Modern/The Schroedinger Equation|The Schroedinger Equation]]
+
+==Indices and appendices==
+* [[Physics with Calculus/Glossary|Glossary]]
+* [[Physics with Calculus/Appendix 1/Derivatives|Appendix 1: Derivatives]]
+** [[Physics with Calculus/Appendix 2/Examples of Derivatives| Appendix 2: Examples of Derivatives]]
+
+== See Also ==
+* [http://www.lightandmatter.com/area1sn.html Simple Nature], an online physics textbook licensed under CC-BY-SA license.
+
+{{Alphabetical|P}}
+{{Subjects|Physics}}
+{{status|50%}}</text>
+      <sha1>2wxfjiksz2ky26cyro12o06lict1dwn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:66.27.77.86</title>
+    <ns>3</ns>
+    <id>2127</id>
+    <revision>
+      <id>154171</id>
+      <parentid>7543</parentid>
+      <timestamp>2003-11-19T07:02:38Z</timestamp>
+      <contributor>
+        <username>Dysprosia</username>
+        <id>32</id>
+      </contributor>
+      <minor />
+      <comment>pipe</comment>
+      <text xml:space="preserve">You probably need to [[Special:Userlogin|log in]] if you want the user name &quot;Insolentsia&quot;. Thanks [[User:Dysprosia|Dysprosia]] 07:02, 19 Nov 2003 (UTC)</text>
+      <sha1>raxted5sapofrw3roq31fcjcx0r4qyt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Question on rectification diagram.png</title>
+    <ns>6</ns>
+    <id>2128</id>
+    <revision>
+      <id>636420</id>
+      <parentid>154172</parentid>
+      <timestamp>2006-11-04T10:59:18Z</timestamp>
+      <contributor>
+        <username>Theresa knott</username>
+        <id>93</id>
+      </contributor>
+      <text xml:space="preserve">diagram showing  effect of simple rectification of a.c. current. Drawn by theresa knott
+
+{{GFDL}}
+{{Cc-by-sa-2.5}}</text>
+      <sha1>q3247nyiybadcx8qe468m9dmr8y59d2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Train on track.png</title>
+    <ns>6</ns>
+    <id>2129</id>
+    <revision>
+      <id>636318</id>
+      <parentid>154173</parentid>
+      <timestamp>2006-11-04T10:53:02Z</timestamp>
+      <contributor>
+        <username>Theresa knott</username>
+        <id>93</id>
+      </contributor>
+      <text xml:space="preserve">drawing of a train on a track to demonstrate a.c. (Some parts of this drawing were adapted from clipart I hope that's ok)
+
+
+
+{{GFDL}}
+{{Cc-by-sa-2.5}}</text>
+      <sha1>taql65hj5hvhdzfqp5y04buwbngasaq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>C Programming/Control</title>
+    <ns>0</ns>
+    <id>2131</id>
+    <revision>
+      <id>2675445</id>
+      <parentid>2655371</parentid>
+      <timestamp>2014-06-21T11:45:52Z</timestamp>
+      <contributor>
+        <username>JackPotte</username>
+        <id>99248</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">{{C Programming/Navigation|Further math|Procedures and functions}}
+
+Very few programs follow exactly one control path and have each instruction stated explicitly. In order to program effectively, it is necessary to understand how one can alter the steps taken by a program due to user input or other conditions, how some steps can be executed many times with few lines of code, and how programs can appear to demonstrate a rudimentary grasp of logic. C constructs known as conditionals and loops grant this power.
+
+From this point forward, it is necessary to understand what is usually meant by the word ''block''. A block is a group of code statements that are associated and intended to be executed as a unit. In C, the beginning of a block of code is denoted with { (left curly), and the end of a block is denoted with }. It is not necessary to place a semicolon after the end of a block. Blocks can be empty, as in {}. Blocks can also be nested; i.e. there can be blocks of code within larger blocks.
+
+== Conditionals==
+
+There is likely no meaningful program written in which a computer does not demonstrate basic decision-making skills. It can actually be argued that there is no meaningful human activity in which some sort of decision-making, instinctual or otherwise, does not take place. For example, when driving a car and approaching a traffic light, one does not think, &quot;I will continue driving through the intersection.&quot; Rather, one thinks, &quot;I will stop if the light is red, go if the light is green, and if yellow go only if I am traveling at a certain speed a certain distance from the intersection.&quot; These kinds of processes can be simulated in C using conditionals.
+
+A conditional is a statement that instructs the computer to execute a certain block of code or alter certain data only if a specific condition has been met. The most common conditional is the If-Else statement, with conditional expressions and Switch-Case statements typically used as more shorthanded methods.
+
+Before one can understand conditional statements, it is first necessary to understand how C expresses logical relations. C treats logic as being arithmetic. The value 0 (zero) represents false, and '''''all other values''''' represent true. If you chose some particular value to represent true and then compare values against it, sooner or later your code will fail when your assumed value (often 1) turns out to be incorrect. Code written by people uncomfortable with the C language can often be identified by the usage of #define to make a &quot;TRUE&quot; value.
+&lt;ref&gt;
+[http://www.c-faq.com/bool/bool2.html C FAQ]
+&lt;/ref&gt;
+
+Because logic is arithmetic in C, arithmetic operators and logical operators are one and the same. Nevertheless, there are a number of operators that are typically associated with logic:
+
+===Relational and Equivalence Expressions:===
+; a &lt; b: 1 if '''a''' is less than '''b''', 0 otherwise.
+; a &gt; b: 1 if '''a''' is greater than '''b''', 0 otherwise.
+; a &lt;= b: 1 if '''a''' is less than or equal to '''b''', 0 otherwise.
+; a &gt;= b: 1 if '''a''' is greater than or equal to '''b''', 0 otherwise.
+; a == b: 1 if '''a''' is equal to '''b''', 0 otherwise.
+; a != b: 1 if '''a''' is not equal to '''b''', 0 otherwise
+
+New programmers should take special note of the fact that the &quot;equal to&quot; operator is ==, not =. This is the cause of numerous coding mistakes and is often a difficult-to-find bug, as the expression &lt;code&gt;(a = b)&lt;/code&gt; sets &lt;code&gt;a&lt;/code&gt; equal to &lt;code&gt;b&lt;/code&gt; and subsequently evaluates to &lt;code&gt;b&lt;/code&gt;; but the expression &lt;code&gt;(a == b)&lt;/code&gt;, which is usually intended, checks if &lt;code&gt;a&lt;/code&gt; is equal to &lt;code&gt;b&lt;/code&gt;. It needs to be pointed out that, if you confuse = with ==, your mistake will often not be brought to your attention by the compiler. A statement such as &lt;code&gt; if ( c = 20) {}&lt;/code&gt; is considered perfectly valid by the language, but will always assign 20 to &lt;code&gt;c&lt;/code&gt; and evaluate as true. A simple technique to avoid this kind of bug (in many, not all cases) is to put the constant first. This will cause the compiler to issue an error, if == got misspelled with =.
+
+Note that C does not have a dedicated boolean type as many other languages do. 0 means false and anything else true. So the following are equivalent:
+
+&lt;source lang=&quot;c&quot;&gt;
+ if (foo()) {
+   //do something
+ }
+&lt;/source&gt;
+
+and
+
+&lt;source lang=&quot;c&quot;&gt;
+ if (foo() != 0) {
+   //do something
+ }
+&lt;/source&gt;
+
+Often &lt;code&gt;#define TRUE 1&lt;/code&gt; and &lt;code&gt;#define FALSE 0&lt;/code&gt; are used to work around the lack of a boolean type. This is bad practice, since it makes assumptions that do not hold. It is a better idea to indicate what you are actually expecting as a result from a function call, as there are many different ways of indicating error conditions, depending on the situation.
+
+&lt;source lang=&quot;c&quot;&gt;
+ if (strstr(&quot;foo&quot;, bar) &gt;= 0) {
+   //bar contains &quot;foo&quot;
+ } 
+&lt;/source&gt;
+
+Here, &lt;code&gt;strstr&lt;/code&gt; returns the index where the substring foo is found and -1 if it was not found. Note that this would fail with the &lt;code&gt;TRUE&lt;/code&gt; definition mentioned in the previous paragraph. It would also not produce the expected results if we omitted the &lt;code&gt; &gt;= 0&lt;/code&gt;.
+
+One other thing to note is that the relational expressions do not evaluate as they would in mathematical texts. That is, an expression &lt;code&gt;myMin &lt; value &lt; myMax &lt;/code&gt; does not evaluate as you probably think it might. Mathematically, this would test whether or not ''value'' is between ''myMin'' and ''myMax''. But in C, what happens is that ''value'' is first compared with ''myMin''. This produces either a 0 or a 1. It is this value that is compared against myMax.  Example:
+ 
+&lt;source lang=&quot;c&quot;&gt;
+ int value = 20;
+ /* ... */
+ if ( 0 &lt; value &lt; 10) { // don't do this! it always evaluates to &quot;true&quot;!
+    /* do some stuff */
+ }
+&lt;/source&gt;
+
+Because ''value'' is greater than 0, the first comparison produces a value of 1. Now 1 is compared to be less than 10, which is true, so the statements in the if are executed. This probably is not what the programmer expected.  The appropriate code would be
+
+&lt;source lang=&quot;c&quot;&gt;
+ int value = 20;
+ /* ... */
+ if ( 0 &lt; value &amp;&amp; value &lt; 10) {   // the &amp;&amp; means &quot;and&quot;
+  /* do some stuff */
+ }
+&lt;/source&gt;
+
+===Logical Expressions===
+; a || b: when EITHER '''a''' or '''b''' is true (or both), the result is 1, otherwise the result is 0.
+; a &amp;&amp; b: when BOTH '''a''' and '''b''' are true, the result is 1, otherwise the result is 0.
+; !a: when '''a''' is true, the result is 0, when '''a''' is 0, the result is 1.
+
+Here's an example of a larger logical expression. In the statement:
+   e = ((a &amp;&amp; b) || (c &gt; d));
+e is set equal to 1 if a and b are non-zero, or if c is greater than d. In all other cases, e is set to 0.
+
+C uses short circuit evaluation of logical expressions. That is to say, once it is
+able to determine the truth of a logical expression, it does no further evaluation. This is often useful as in the following:
+
+ int myArray[12];
+ ....
+ if ( i &lt; 12 &amp;&amp; myArray[i] &gt; 3) { 
+ ....
+
+In the snippet of code, the comparison of i with 12 is done first.  If it evaluates to 0 (false), '''i''' would be out of bounds as an index to '''myArray'''.  In this case, the program never attempts to access '''myArray[i]''' since the truth of the expression is known to be false. Hence we need not worry here about trying to access an out-of-bounds array element if it is already known that i is greater than or equal to zero.
+A similar thing happens with expressions involving the or || operator.
+
+ while( doThis() || doThat()) ...
+
+doThat() is never called if doThis() returns a non-zero (true) value.
+
+===Bitwise Boolean Expressions===
+
+The bitwise operators work bit by bit on the operands. The operands must be of integral type (one of the types used for integers). The six bitwise operators are &amp; (AND), | (OR), ^ (exclusive OR, commonly called XOR), ~ (NOT, which changes 1 to 0 and 0 to 1), &lt;&lt; (shift left), and &gt;&gt; (shift right). The negation operator is a unary operator which precedes the operand. The others are binary operators which lie between the two operands. The precedence of these operators is lower than that of the relational and equivalence operators; it is often required to parenthesize expressions involving bitwise operators.
+
+For this section, recall that a number starting with '''0x''' is hexadecimal, or hex for short. Unlike the normal decimal system using powers of 10 and digits 0123456789, hex uses powers of 16 and digits 0123456789abcdef. Hexadecimal is commonly used in C programs because a programmer can quickly convert it to or from binary (powers of 2 and digits 01). C does not directly support binary notation, which would be really verbose anyway.
+
+; a &amp; b :  bitwise boolean and of '''a''' and '''b'''
+: 0xc &amp; 0xa produces the value 0x8 (in binary, 1100 &amp; 1010 produces 1000)
+
+; a | b :  bitwise boolean or of '''a''' and '''b'''
+: 0xc | 0xa produces the value 0xe (in binary, 1100 | 1010 produces 1110)
+
+; a ^ b :  bitwise xor of '''a''' and '''b'''
+: 0xc ^ 0xa produces the value 0x6 (in binary, 1100 ^ 1010 produces 0110)
+
+; ~a    :  bitwise complement of '''a'''.
+: ~0xc produces the value -1-0xc (in binary, ~1100 produces ...11110011 where &quot;...&quot; may be many more 1 bits)
+
+; a &lt;&lt; b :  shift '''a''' left by '''b''' (multiply a by &lt;math&gt;2^b&lt;/math&gt;)
+: 0xc &lt;&lt; 1 produces the value 0x18 (in binary, 1100 &lt;&lt; 1 produces the value 11000)
+
+; a &gt;&gt; b :  shift '''a''' right by '''b''' (divide a by &lt;math&gt;2^b&lt;/math&gt;)
+: 0xc &gt;&gt; 1 produces the value 0x6 (in binary, 1100 &gt;&gt; 1 produces the value 110)
+
+===The If-Else statement ===
+
+If-Else provides a way to instruct the computer to execute a block of code only if certain conditions have been met. The syntax of an If-Else construct is:
+
+&lt;source lang=&quot;c&quot;&gt;
+   if (/* condition goes here */) {
+      /* if the condition is non-zero (true), this code will execute */
+   } else {
+      /* if the condition is 0 (false), this code will execute */
+   }
+&lt;/source&gt;
+
+The first block of code executes if the condition in parentheses directly after the ''if'' evaluates to non-zero (true); otherwise, the second block executes.
+
+The ''else'' and following block of code are completely optional. If there is no need to execute code if a condition is not true, leave it out.
+
+Also, keep in mind that an ''if'' can directly follow an ''else'' statement. While this can occasionally be useful, chaining more than two or three if-elses in this fashion is considered bad programming practice. We can get around this with the Switch-Case construct described later.
+
+Two other general syntax notes need to be made that you will also see in other control constructs: First, note that there is no semicolon after ''if'' or ''else''. There could be, but the block (code enclosed in { and }) takes the place of that. Second, if you only intend to execute one statement as a result of an ''if'' or ''else'', curly braces are not needed. However, many programmers believe that inserting curly braces anyway in this case is good coding practice.
+
+The following code sets a variable c equal to the greater of two variables a and b, or 0 if a and b are equal.
+
+&lt;source lang=&quot;c&quot;&gt;
+   if(a &gt; b) {
+      c = a;
+   } else if(b &gt; a) {
+      c = b;
+   } else {
+      c = 0;
+   }
+&lt;/source&gt;   
+
+Consider this question: why can't you just forget about ''else'' and write the code like:
+
+&lt;source lang=&quot;c&quot;&gt;
+ if(a &gt; b) {
+    c = a;
+ }
+ 
+ if(a &lt; b) {
+   c = b;
+ }
+ 
+ if(a == b) {
+   c = 0;
+ }
+&lt;/source&gt;
+
+There are several answers to this. Most importantly, if your conditionals are not mutually exclusive, ''two'' cases could execute instead of only one. If the code was different and the value of a or b changes somehow (e.g.: you reset the lesser of a and b to 0 after the comparison) during one of the blocks? You could end up with multiple ''if'' statements being invoked, which is not your intent. Also, evaluating ''if'' conditionals takes processor time. If you use ''else'' to handle these situations, in the case above assuming (a &gt; b) is non-zero (true), the program is spared the expense of evaluating additional ''if'' statements.  The bottom line is that it is usually best to insert an ''else'' clause for all cases in which a conditional will not evaluate to non-zero (true).
+
+==== The conditional expression ====
+
+A conditional expression is a way to set values conditionally in a more shorthand fashion than If-Else. The syntax is:
+
+ (/* logical expression goes here */) ? (/* if non-zero (true) */) : (/* if 0 (false) */)
+
+The logical expression is evaluated. If it is non-zero (true), the overall conditional expression evaluates to the expression placed between the ? and :, otherwise, it evaluates to the expression after the :. Therefore, the above example (changing its function slightly such that c is set to b when a and b are equal) becomes:
+
+ c = (a &gt; b) ? a : b;
+
+Conditional expressions can sometimes clarify the intent of the code. Nesting the conditional operator should usually be avoided.  It's best to use conditional expressions only when the expressions for a and b are simple. Also, contrary to a common beginner belief, conditional expressions do not make for faster code. As tempting as it is to assume that fewer lines of code result in faster execution times, there is no such correlation.
+
+=== The Switch-Case statement ===
+
+Say you write a program where the user inputs a number 1-5 (corresponding to student grades, A(represented as 1)-D(4) and F(5)), stores it in a variable '''grade''' and the program responds by printing to the screen the associated letter grade. If you implemented this using If-Else, your code would look something like this:
+
+&lt;source lang=&quot;c&quot;&gt;
+ if(grade == 1) {
+    printf(&quot;A\n&quot;);
+ } else if(grade == 2) {
+    printf(&quot;B\n&quot;);
+ } else if /* etc. etc. */
+&lt;/source&gt;
+
+Having a long chain of if-else-if-else-if-else can be a pain, both for the programmer and anyone reading the code. Fortunately, there's a solution: the Switch-Case construct, of which the basic syntax is:
+
+&lt;source lang=&quot;c&quot;&gt;
+ switch(/* integer or enum goes here */) {
+   case /* potential value of the aforementioned int or enum */:
+      /* code */
+   case /* a different potential value */:
+      /* different code */
+   /* insert additional cases as needed */
+   default: 
+      /* more code */
+ }
+&lt;/source&gt;
+
+The Switch-Case construct takes a variable, usually an int or an enum, placed after ''switch'', and compares it to the value following the ''case'' keyword. If the variable is equal to the value specified after ''case'', the construct &quot;activates&quot;, or begins executing the code after the case statement. Once the construct has &quot;activated&quot;, there will be no further evaluation of ''case''s. 
+
+Switch-Case is syntactically &quot;weird&quot; in that no braces are required for code associated with a ''case''.
+
+'''''Very important''''':
+Typically, the last statement for each case is a break statement. This causes program execution to jump to the statement following the closing bracket of the switch statement, which is what one would normally want to happen.  However if the break statement is omitted, program execution continues with the first line of the next case, if any.  This is called a ''fall-through''.  When a programmer desires this action, a comment should be placed at the end of the block of statements indicating the desire to fall through. Otherwise another programmer maintaining the code could consider the omission of the 'break' to be an error, and inadvertently 'correct' the problem.  Here's an example:
+ 
+&lt;source lang=&quot;c&quot;&gt;
+ switch ( someVariable ) {
+ case 1:
+    printf(&quot;This code handles case 1\n&quot;);
+    break;
+ case 2:
+    printf(&quot;This prints when someVariable is 2, along with...\n&quot;);
+    /* FALL THROUGH */
+ case 3:
+    printf(&quot;This prints when someVariable is either 2 or 3.\n&quot; );
+    break;
+ }
+&lt;/source&gt;
+
+If a ''default'' case is specified, the associated statements are executed if none of the other cases match. A ''default'' case is optional.  Here's a switch statement that corresponds to the sequence of if - else if statements above.
+
+Back to our example above. Here's what it would look like as Switch-Case:
+
+&lt;source lang=&quot;c&quot;&gt;
+ switch (grade) {
+ case 1:
+    printf(&quot;A\n&quot;);
+    break;
+ case 2:
+    printf(&quot;B\n&quot;);
+    break;
+ case 3:
+    printf(&quot;C\n&quot;);
+    break;
+ case 4:
+    printf(&quot;D\n&quot;);
+    break;
+ default:
+    printf(&quot;F\n&quot;);
+    break;
+ }
+&lt;/source&gt;
+
+A set of statements to execute can be grouped with more than one value of the variable
+as in the following example. (the fall-through comment is not necessary here because the intended behavior is obvious)
+
+&lt;source lang=&quot;c&quot;&gt;
+ switch (something) {
+ case 2:
+ case 3:
+ case 4:
+    /* some statements to execute for 2, 3 or 4 */
+    break;
+ case 1:
+ default:
+    /* some statements to execute for 1 or other than 2,3,and 4 */
+    break;
+ } 
+&lt;/source&gt;
+
+Switch-Case constructs are particularly useful when used in conjunction with user defined ''enum'' data types. Some compilers are capable of warning about an unhandled enum value, which may be helpful for avoiding bugs.
+
+== Loops ==
+
+Often in computer programming, it is necessary to perform a certain action a certain number of times or until a certain condition is met. It is impractical and tedious to simply type a certain statement or group of statements a large number of times, not to mention that this approach is too inflexible and unintuitive to be counted on to stop when a certain event has happened. As a real-world analogy, someone asks a dishwasher at a restaurant what he did all night. He will respond, &quot;I washed dishes all night long.&quot; He is not likely to respond, &quot;I washed a dish, then washed a dish, then washed a dish, then...&quot;. The constructs that enable computers to perform certain repetitive tasks are called loops.
+
+=== While loops ===
+
+A while loop is the most basic type of loop.  It will run as long as the condition is non-zero (true). For example, if you try the following, the program will appear to lock up and you will have to manually close the program down. A situation where the conditions for exiting the loop will never become true is called an infinite loop. 
+
+&lt;source lang=&quot;c&quot;&gt;
+ int a=1;
+ while(42) {
+    a = a*2;
+ }
+&lt;/source&gt;
+
+Here is another example of a while loop. It prints out all the powers of two less
+than 100.
+
+&lt;source lang=&quot;c&quot;&gt;
+ int a=1;
+ while(a&lt;100) {
+    printf(&quot;a is %d \n&quot;,a);
+    a = a*2;
+ }
+&lt;/source&gt;
+
+The flow of all loops can also be controlled by '''break''' and '''continue''' statements.  A break statement will immediately exit the enclosing loop.  A continue statement will skip the remainder of the block and start at the controlling conditional statement again.  For example:
+
+&lt;source lang=&quot;c&quot;&gt;
+ int a=1;
+ while (42) { // loops until the break statement in the loop is executed
+    printf(&quot;a is %d &quot;,a);
+    a = a*2;
+    if(a&gt;100) {
+        break;
+    } else if(a==64) {
+        continue;  // Immediately restarts at while, skips next step
+    }
+    printf(&quot;a is not 64\n&quot;);
+ }
+&lt;/source&gt;
+
+In this example, the computer prints the value of a as usual, and prints a notice that a is not 64 (unless it was skipped by the continue statement).
+
+Similar to If above, braces for the block of code associated with a While loop can be omitted if the code consists of only one statement, for example:
+
+&lt;source lang=&quot;c&quot;&gt;
+ int a=1;
+ while(a &lt; 100) a = a*2;
+&lt;/source&gt;
+
+This will merely increase a until a is not less than 100.
+
+When the computer reaches the end of the while loop, it always goes back to the while statement at the top of the loop, where it re-evaluates the controlling condition.
+If that condition is &quot;true&quot; at that instant -- even if it was temporarily 0 for a few statements inside the loop -- then the computer begins executing the statements inside the loop again; otherwise the computer exits the loop.
+The computer does not &quot;continuously check&quot; the controlling condition of a while loop during the execution of that loop.
+It only &quot;peeks&quot; at the controlling condition each time it reaches the &lt;code&gt;while&lt;/code&gt; at the top of the loop.
+
+It is very important to note, once the controlling condition of a While loop becomes 0 (false), the loop will not terminate until the block of code is finished and it is time to reevaluate the conditional. If you need to terminate a While loop immediately upon reaching a certain condition, consider using '''break'''.
+
+A common idiom is to write:
+
+&lt;source lang=&quot;c&quot;&gt;
+ int i = 5;
+ while(i--) {
+    printf(&quot;java and c# can't do this\n&quot;);
+ }
+&lt;/source&gt;
+
+This executes the code in the while loop 5 times, with i having values that range from 4 down to 0 (inside the loop). Conveniently, these are the values needed to access every item of an array containing 5 elements.
+
+=== For loops ===
+
+For loops generally look something like this:
+
+ for(''initialization''; ''test''; ''increment'') {
+    /* code */
+ }
+
+The ''initialization'' statement is executed exactly once - before the first evaluation of the ''test'' condition.  Typically, it is used to assign an initial value to some variable, although this is not strictly necessary. The ''initialization'' statement can also be used to declare and initialize variables used in the loop.
+
+The ''test'' expression is evaluated each time before the code in the ''for'' loop executes. If this expression evaluates as 0 (false) when it is checked (i.e. if the expression is not true), the loop is not (re)entered and execution continues normally at the code immediately following the FOR-loop.  If the expression is non-zero (true), the code within the braces of the loop is executed. 
+
+After each iteration of the loop, the ''increment'' statement is executed. This often is used to increment the loop index for the loop, the variable initialized in the initialization expression and tested in the test expression.  Following this statement execution, control returns to the top of the loop, where the ''test'' action occurs. If a ''continue'' statement is executed within the ''for'' loop, the increment statement would be the next one executed. 
+
+Each of these parts of the for statement is optional and may be omitted.  Because of the free-form nature of the for statement, some fairly fancy things can be done with it. Often a for loop is used to loop through items in an array, processing each item at a time. 
+ 
+&lt;source lang=&quot;c&quot;&gt;
+ int  myArray[12];
+ int ix;
+ for (ix = 0; ix&lt;12; ix++) {
+    myArray[ix] = 5 * ix + 3;
+ }
+&lt;/source&gt;
+
+The above for loop initializes each of the 12 elements of myArray.
+The loop index can start from any value. In the following case it starts from 1.
+
+&lt;source lang=&quot;c&quot;&gt;
+ for(ix = 1; ix &lt;= 10; ix++) {
+    printf(&quot;%d &quot;, ix);
+ }
+&lt;/source&gt;
+
+which will print
+ '''1 2 3 4 5 6 7 8 9 10 '''
+
+You will most often use loop indexes that start from 0, since arrays are indexed at zero, but you will sometimes use other values to initialize a loop index as well.
+
+The ''increment'' action can do other things, such as ''decrement''.  So this kind of loop is common:
+
+&lt;source lang=&quot;c&quot;&gt;
+ for (i = 5; i &gt; 0; i--) {
+    printf(&quot;%d &quot;,i);
+ }
+&lt;/source&gt;
+
+which yields
+ '''5 4 3 2 1 '''
+
+Here's an example where the test condition is simply a variable. If the variable
+has a value of 0 or NULL, the loop exits, otherwise the statements in the body of
+the loop are executed.
+ 
+&lt;source lang=&quot;c&quot;&gt;
+ for (t = list_head; t; t = NextItem(t) ) {
+   /*body of loop */
+ }
+&lt;/source&gt;
+
+A WHILE loop can be used to do the same thing as a FOR loop, however a FOR loop is a more condensed way to perform a set number of repetitions since all of the necessary information is in a one line statement.
+
+A FOR loop can also be given no conditions, for example:
+
+&lt;source lang=&quot;c&quot;&gt;
+ for(;;) {
+   /* block of statements */
+ }
+&lt;/source&gt;
+
+This is called an infinite loop since it will loop forever unless there is a break statement within the statements of the for loop. The empty test condition effectively evaluates as true.
+
+It is also common to use the comma operator in for loops to execute multiple statements. 
+ 
+&lt;source lang=&quot;c&quot;&gt;
+ int i, j, n = 10;
+ for(i = 0, j = 0; i &lt;= n; i++,j+=2) {
+      printf(&quot;i = %d , j = %d \n&quot;,i,j);
+ }
+&lt;/source&gt;
+
+
+Special care should be taken when designing or refactoring the conditional part, especially whether using &lt; or &lt;= , whether start and stop should be corrected by 1, and in case of prefix- and postfix-notations. ( On a 100 yards promenade with a tree every 10 yards there are 11 trees. )
+
+&lt;source lang=&quot;c&quot;&gt;
+ int i, n = 10;
+ for(i = 0; i &lt; n; i++) printf(&quot;%d &quot;,i); // processed n times =&gt; 0 1 2 3 ... (n-1)
+ printf(&quot;\n&quot;);
+ for(i = 0; i &lt;= n; i++) printf(&quot;%d &quot;,i); // processed (n+1) times =&gt; 0 1 2 3 ... n 
+ printf(&quot;\n&quot;);
+ for(i = n; i--;) printf(&quot;%d &quot;,i); // processed n times =&gt; (n-1) ...3 2 1 0 
+ printf(&quot;\n&quot;);
+ for(i = n; --i;) printf(&quot;%d &quot;,i); // processed (n-1) times =&gt; (n-1) ...4 3 2 1 
+ printf(&quot;\n&quot;);
+&lt;/source&gt;
+
+=== Do-While loops ===
+
+A DO-WHILE loop is a post-check while loop, which means that it checks the condition after each run.  As a result, even if the condition is zero (false), it will run at least once.  It follows the form of:
+
+&lt;source lang=&quot;c&quot;&gt;
+ do {
+    /* do stuff */
+ } while (condition);
+&lt;/source&gt;
+
+Note the terminating semicolon.  This is required for correct syntax.  Since this is also a type of while loop,  '''break''' and '''continue''' statements within the loop function accordingly. A '''continue''' statement causes a jump to the test of the condition and a ''break'' statement exits the loop.
+
+It is worth noting that Do-While and While are functionally almost identical, with one important difference: Do-While loops are always guaranteed to execute at least once, but While loops will not execute at all if their condition is 0 (false) on the first evaluation.
+
+== One last thing: goto ==
+
+'''goto''' is a very simple and traditional control mechanism. It is a statement used to immediately and unconditionally jump to another line of code. To use goto, you must place a label at a point in your program. A label consists of a name followed by a colon (:) on a line by itself. Then, you can type &quot;goto ''label'';&quot; at the desired point in your program. The code will then continue executing beginning with ''label''. This looks like:
+
+&lt;source lang=&quot;c&quot;&gt;
+   MyLabel:
+      /* some code */
+   goto MyLabel;
+&lt;/source&gt;
+
+The ability to transfer the flow of control enabled by gotos is so powerful that, in addition to the simple if, all other control constructs can be written using gotos instead. Here, we can let &quot;S&quot; and &quot;T&quot; be any arbitrary statements:
+
+&lt;source lang=&quot;c&quot;&gt;
+   if (''cond'') {
+     S;
+   } else {
+     T;
+   }
+   /* ... */
+&lt;/source&gt;
+
+The same statement could be accomplished using two gotos and two labels:
+
+&lt;source lang=&quot;c&quot;&gt;
+ if (''cond'') goto Label1;
+   T;
+   goto Label2;
+ Label1:
+   S;
+ Label2:
+   /* ... */
+&lt;/source&gt;
+
+Here, the first goto is conditional on the value of &quot;cond&quot;. The second goto is unconditional. We can perform the same translation on a loop:
+
+&lt;source lang=&quot;c&quot;&gt;
+   while (''cond1'') {
+      S;
+      if (''cond2'') break;
+      T;
+   }
+   /* ... */
+&lt;/source&gt;
+
+Which can be written as:
+
+&lt;source lang=&quot;c&quot;&gt;
+ Start:
+   if (!''cond1'') goto End;
+   S;
+   if (''cond2'') goto End;
+   T;
+   goto Start;
+ End:
+   /* ... */
+&lt;/source&gt;
+
+As these cases demonstrate, often the structure of what your program is doing can usually be expressed without using gotos. Undisciplined use of gotos can create unreadable, unmaintainable code when more idiomatic alternatives (such as if-elses, or for loops) can better express your structure. Theoretically, the goto construct does not ever ''have'' to be used, but there are cases when it can increase readability, avoid code duplication, or make control variables unnecessary. You should consider first mastering the idiomatic solutions, and use goto only when necessary.  Keep in mind that many, if not most, C style guidelines ''strictly forbid'' use of '''goto''', with the  only common exceptions being the following examples.
+
+One use of goto is to break out of a deeply nested loop. Since '''break''' will not work (it can only escape one loop), '''goto''' can be used to jump completely outside the loop. Breaking outside of deeply nested loops without the use of the goto is always possible, but often involves the creation and testing of extra variables that may make the resulting code far less readable than it would be with '''goto'''. The use of '''goto''' makes it easy to undo actions in an orderly fashion, typically to avoid failing to free memory that had been allocated.
+
+Another accepted use is the creation of a state machine. This is a fairly advanced topic though, and not commonly needed.
+
+== Examples ==
+&lt;source lang=&quot;c&quot;&gt;
+
+#include &lt;errno.h&gt;
+#include &lt;stdio.h&gt;
+#include &lt;stdlib.h&gt;
+
+int main(void)
+{
+	int years;
+
+	printf(&quot;Enter your age in years : &quot;);
+	fflush(stdout);
+	errno = 0;
+	if(scanf(&quot;%d&quot;, &amp;years) != 1 || errno)
+		return EXIT_FAILURE;
+	printf(&quot;Your age in days is %d\n&quot;, years * 365);
+	return 0;
+}
+
+&lt;/source&gt;
+
+== Further reading ==
+
+{{reflist}}
+
+[[de:C-Programmierung: Kontrollstrukturen]]
+[[et:Programmeerimiskeel C/Keelestruktuurid]]
+[[fr:Programmation C/Tests]]
+[[pl:C/Instrukcje sterujące]]
+[[pt:Programar em C/Controle de fluxo]]
+[[fi:C/Ohjausrakenteet]]
+{{C Programming/Navigation|Further math|Procedures and functions}}</text>
+      <sha1>cplbc5kxd52b00w7fl7bvupcz5sqs2t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

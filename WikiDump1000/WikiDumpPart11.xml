@@ -1,0 +1,1372 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Wikibooks:Contact us</title>
+    <ns>4</ns>
+    <id>372</id>
+    <revision>
+      <id>2691512</id>
+      <parentid>2691464</parentid>
+      <timestamp>2014-08-15T10:33:43Z</timestamp>
+      <contributor>
+        <username>Pi zero</username>
+        <id>75960</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/Blown Fuse|Blown Fuse]] ([[User talk:Blown Fuse|talk]]) to last version by White Master King</comment>
+      <text xml:space="preserve">{{TOC right}}
+: ''Welcome to Wikibooks! If you are new to Wikibooks please visit [[Wikibooks:Welcome|our welcome page]] for a quick introduction to the project.''
+
+Most general discussion takes place on-wiki in the reading rooms. See '''[[Wikibooks:Reading room]]''' for an overview of these.
+
+If your question or comment is about a particular page, then use the ''[[Help:Talk page|Discussion]]'' link that is displayed when you are viewing that page (it is by default in one of the tabs near the top-left of the page). 
+
+If you are the ''owner of content'' that is being used on Wikibooks without your permission, please read our [[Wikibooks:Copyrights#Copyright infringements|copyrights policy]] for information about how to have the issue resolved.
+
+== IRC ==
+Real-time conversation takes place on several [[Internet Technologies/IRC|IRC]] channels at [[w:Freenode|Freenode]]. This is often the fastest way to contact other contributors.  Keep in mind that IRC conversations aren't archived. Consider discussing things that need consensus on-wiki so that others can read up on and understand the rationale for decisions made.
+
+Connect to &lt;tt&gt;irc.freenode.net&lt;/tt&gt; with your IRC client and &lt;tt&gt;/join&lt;/tt&gt; one or more of the channels listed below. If you don't already have one, consider [http://freenode.net/faq.shtml#nicksetup registering a freenode nickname]. Opera users can simply click on the link which will then open the integrated IRC client. Firefox users can try [http://www.mozilla.org/projects/rt-messaging/chatzilla/ ChatZilla]. Wikipedia has a large [[w:comparison of IRC clients|comparison of IRC clients]].  If you're behind a proxy or want to connect within any browser, you can use freenode's [http://webchat.freenode.net/ web chat] page.
+
+Learn more by reading the [[Internet Technologies/IRC|IRC]] chapter in our very own [[Internet Technologies]] book.
+
+* '''[[freenode:wikibooks|#wikibooks]]''' is the main channel. 
+* [[freenode:cvn-wb-en|#cvn-wb-en]] reports possible vandalisms in recent changes. If there is no bot in the channel, ask for one at [[freenode:countervandalism|#countervandalism]]. [[m:CVN/Bots|CVN/Bots]] provides help on using counter-vandalism bots.
+* [[rcirc:en.wikibooks|#en.wikibooks on irc.wikimedia.org]] tracks recent changes.
+
+; Related project channels 
+
+* [[freenode:wikimedia|#wikimedia]] is for discussions concerning the Wikimedia Foundation
+* [[freenode:wikimedia-admin|#wikimedia-admin]] is for cross-wiki admin cooperation (private; ask [[User:Az1568|Az1568]] for access)
+* [[freenode:wikimedia-tech|#wikimedia-tech]] is for discussing issues with the wikimedia servers
+* [[freenode:wikimedia-toolserver|#wikimedia-toolserver]] is for discussions concerning the [[m:toolserver|Toolserver]].
+* [[freenode:mediawiki|#mediawiki]] is for [[mw:|MediaWiki]] software development and support.
+* [[freenode:mediawiki-es|#mediawiki-es]] is for [[mw:|MediaWiki]] support in spanish.
+
+== Mailing Lists ==
+The Wikimedia Foundation maintains several mailing lists that can be used to discuss the Wikibooks projects and other issues.
+
+Reporters and others who wish to get in touch with the project are encouraged to send an email to our mailing list. Many people subscribe to the mailing lists who do not check messages on Wikibooks regularly. You must be subscribed to the mailing list if you wish to send emails to it.
+
+Wikibooks has two mailing lists for general users and administrators. Mailing lists are available in a number of formats: via a web archive, by email, or by [[w:NNTP|NNTP]] using the mail-to-news gateway [[w:GMANE|GMANE]]. Mailing list posts are indexed by search engines such as [[w:Google|Google]].
+
+Offsite archives of Wikibooks's mailing lists can be found at [http://www.gmane.org/ GMANE] and [http://marc.theaimsgroup.com MARC].
+
+* [[mail:textbook-l|textbook-l]] ([[mailarchive:textbook-l|archive]], [news://news.gmane.org/gmane.org.wikimedia.textbook via NNTP]) - for discussing Wikibooks in general
+* [[mail:foundation-l|foundation-l]] ([[mailarchive:foundation-l|archive]], [news://news.gmane.org.wikimedia.foundation via NNTP]) - for high-traffic discussions concerning the Wikimedia Foundation and all the projects.
+
+
+;Technical mailing lists
+
+* [[mail:wikitech-l|wikitech-l]] ([[mailarchive:wikitech-l|archive]], [news://news.gmane.org/gmane.science.linguistics.wikipedia.technical via NNTP]) - for software development and Wikimedia maintenance
+* [[mail:mediawiki-announce|mediawiki-announce]] ([[mailarchive:mediawiki-announce|archive]], [news://news.gmane.org.wikimedia.mediawiki.announce via NNTP]) - for low-traffic announcements of new MediaWiki releases and security updates. (read-only)
+* [[mail:mediawiki-l|mediawiki-l]] ([[mailarchive:mediawiki-l|archive]], [news://news.gmane.org.wikimedia.mediawiki via NNTP]) - for announcement and help for people using the software to run other wikis
+
+
+The Wikimedia Foundation operates a number of other mailing lists as well: http://mail.wikipedia.org
+
+== Email ==
+You can send questions, notifications of copyright problems, and other issues to info{{@}}wikibooks.org.
+
+== Bug Reports and Feature Requests ==
+You should first [[MediaZilla:query.cgi|search existing entries]] to get started. You can then [[MediaZilla:|report bugs and suggest features]] related to the [[mw:|MediaWiki software]]. MediaWiki uses a customized version of [[w:Bugzilla|Bugzilla]] to track bug reports ([[w:Wikipedia:Bug reports and feature requests|learn more]]). Bugs and feature requests not directly related to the MediaWiki software should be discussed in the [[WB:TECH|technical reading room]].
+
+[[Category:Wikibooks|Contact us]]
+
+[[da:Wikibooks:Kontakt os]]
+[[hu:Wikikönyvek/Levelezőlisták]]
+[[pl:Wikibooks:Lista dyskusyjna]]
+[[pt:Wikibooks:Contatos]]
+[[de:Wikibooks:Chat]]
+[[it:Wikibooks:Canale IRC]]
+[[pl:Wikibooks:Kanał IRC]]</text>
+      <sha1>rqodjlfj75o248vw6mj6y8jbj8mitas</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Current events</title>
+    <ns>0</ns>
+    <id>374</id>
+    <redirect title="Wikibooks:Community Portal" />
+    <restrictions>edit=sysop:move=sysop</restrictions>
+    <revision>
+      <id>344889</id>
+      <parentid>327390</parentid>
+      <timestamp>2006-01-24T08:23:23Z</timestamp>
+      <contributor>
+        <username>Spam cleanup script</username>
+        <id>17972</id>
+      </contributor>
+      <comment>Cleaning up links to 94939.D.90d7.info</comment>
+      <text xml:space="preserve">#REDIRECT [[Wikibooks:Community Portal]]</text>
+      <sha1>m9x1ykw264wxjvetr6up6ath0l6vs7q</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Reading room/Bulletin Board</title>
+    <ns>4</ns>
+    <id>375</id>
+    <restrictions>edit=autoconfirmed:move=sysop</restrictions>
+    <revision>
+      <id>2673276</id>
+      <parentid>2673273</parentid>
+      <timestamp>2014-06-14T17:34:25Z</timestamp>
+      <contributor>
+        <username>Dirk Hünniger</username>
+        <id>343292</id>
+      </contributor>
+      <text xml:space="preserve">{{Discussion Rooms}} {{shortcut|WB:BB}}
+[[File:Bulletinboard5.jpg|left|200px]]
+:Have a significant announcement?  Post it!  See an announcement that is wrong?  Edit it!
+[[File:Thumbtacks color.jpg|right|145px]]
+{{clear}}
+
+==Latest Bulletins==
+{{dynamic navigation|expand=yes|title=June 2014|body=
+There is a [http://mediawiki2latex.wmflabs.org/ website]  on the  WikiMedia Foundation Labs that lets you create PDF Versions of Wikibooks. The PDFs are generated by xelatex which is the same technology as the one used for the print on demand versions you can buy using the wikibooks book generator, with the advantage that you can actually access the PDF document as well as the xelatex file for free instead of just the printed book for a fee.  --[[User:Dirk Hünniger|Dirk Hünniger]] ([[User talk:Dirk Hünniger|discuss]] • [[Special:Contributions/Dirk Hünniger|contribs]]) 17:30, 14 June 2014 (UTC)
+}}
+{{dynamic navigation|expand=yes|title=April 2014|body=
+A discussion about Xania's Check User nomination is taking place at [[Wikibooks:Requests_for_permissions#Xania_.28discuss.C2.A0.C2.B7_contribs.C2.A0.C2.B7_count.C2.A0.C2.B7_logs.C2.A0.C2.B7_block.C2.A0log.C2.A0.C2.B7_rfps.C2.A0.C2.B7_rights_.5Bchange.5D.29_.28CheckUser.29|Requests for permissions]]. Wikibooks users are invited to participate.
+}}
+{{dynamic navigation|expand=yes|title=June 2013|body=
+I've created a [[mw:Requests for comment/Book management|Request for Comment]] on my planned extension for my Google Summer of Code project ([[meta:Book management|&quot;Improve support for book structures&quot;]]). Any feedback on this would be much appreciated! &lt;span style=&quot;font-family: Georgia&quot;&gt;– [[User:GorillaWarfare|GorillaWarfare]] &lt;small&gt;[[User talk:GorillaWarfare|(talk)]]&lt;/small&gt;&lt;/span&gt; 19:35, 24 June 2013 (UTC)
+}}
+{{dynamic navigation|expand=yes|title=January 2013|body=
+*I've launched a discussion in the [[Wikibooks:Reading_room/Proposals|proposals reading room]] talking about the possibility of implementing LRMI and schema.org metadata on Wikibooks.  More details to be found [[Wikibooks:Reading_room/Proposals|here]] :) [[User:Maximilian.Klein.LRMI|Maximilian.Klein.LRMI]] ([[User talk:Maximilian.Klein.LRMI|discuss]] • [[Special:Contributions/Maximilian.Klein.LRMI|contribs]]) 18:45, 15 January 2013 (UTC)
+}}
+
+
+[[Category:Reading room|Bulletin board]]
+
+[[de:Wikibooks:Rundschau]]
+[[ms:Wikibooks:Pengumuman]]
+[[pl:Wikibooks:Tablica ogłoszeń]]</text>
+      <sha1>hh4cl98j3hyalh24cqpkzto4hny87jb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:ThomasStrohmann</title>
+    <ns>2</ns>
+    <id>376</id>
+    <revision>
+      <id>791789</id>
+      <parentid>294425</parentid>
+      <timestamp>2007-03-19T07:02:44Z</timestamp>
+      <contributor>
+        <username>ThomasStrohmann</username>
+        <id>47</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">I joined Wikibooks on Aug 1, 2003 and started the [[Spanish]] and the [[Puzzles]] Wikibooks. Other
+books I've contributed to is so far just the [[German]] one.
+
+If you want to leave me a message, please visit my [[User talk:ThomasStrohmann | Talk]] page. 
+
+Cheers, [[User:ThomasStrohmann | Thomas]]
+
+My university home page: http://ml.cs.colorado.edu/~strohman</text>
+      <sha1>0kjp3ngpooog19lk8z6dgs8q5b6wahr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:ThomasStrohmann</title>
+    <ns>3</ns>
+    <id>377</id>
+    <revision>
+      <id>993632</id>
+      <parentid>976923</parentid>
+      <timestamp>2007-10-05T03:38:41Z</timestamp>
+      <contributor>
+        <username>Mike.lifeguard</username>
+        <id>55262</id>
+      </contributor>
+      <minor />
+      <comment>/* Copyright problem with Image:The days of the week.ogg */ update</comment>
+      <text xml:space="preserve">Hello and Welcome! As you can see this is a very new and experimental project - pardon the mess while we get settled-in. You might be interested in [[Textbook planning]] or more casual discussion about the project in our [[Wikibooks:Staff lounge|Staff lounge]]. Cheers! --[[User:Maveric149|mav]] 09:24 2 Aug 2003 (UTC)
+
+----
+
+Just a note, I am very excited to get an open content Spanish textbook started because it is a big need worldwide to teach people new languages, and you have just started the first of many language textbooks. I am almost as excited about the book you started as the [[organic chemistry]] one that I started to kick off the new site. Welcome aboard de todos modos y estoy muy contento de tenerlo aca. (Perdon, me considero bilingue pero ya tengo un rato de no estar hablando cada dia y se me esta echando a perder el espanol ... ) --[[User:Karl Wick|Karl Wick]] 03:12 4 Aug 2003 (UTC)
+
+----
+
+Hey Thomas, what do you think of this page: [[Spanish contents]] ? Its a compact alternative I created of the main [[Spanish]] page .. --[[User:Karl Wick|Karl Wick]]
+
+----
+
+Hey Thomas, you are the one uploading [[Mariela Riva]]'s stuff for her, right ? I ask because some people were talking about this sound file format, the ogg. Have you heard of it ? Do you have the capability to produce that kind of file ? It is all the same to me but they did have some good arguments on why to use that particular format .... -- [[User:Karl Wick|Karl Wick]] 03:00 7 Aug 2003 (UTC)
+
+----
+
+I applied the contents page to the [[Spanish]] page. If this was unexpected or unwelcome to you I will defer to your preference. A revert is quick and easy. By the way, check out how you were a trendsetter and led the way with the language textbooks, now there is a [[Japanese]] one that started up! Oh yeah, what do you think of the pictures ? With time we can match pictures to textbook topics, I jsut uploaded a couple I had of Mexican friends .. --[[User:Karl Wick|Karl Wick]]
+
+----
+
+I created an [[Spanish/Contributors|authors]] page for the book and included my name on it per your suggestion. [[User:Karl Wick|Karl Wick]]
+:Visit http://www.vorbis.com/download.psp to get ogg players and encoders. --[[User:Maveric149|mav]] 03:35 7 Aug 2003 (UTC)
+
+----
+
+I really appreciate all the work you are doing man, I think it is great. I am now officially more excited about the [[Spanish]] book than I am about my own [[Organic Chemistry]] one. -- [[User:Karl Wick|Karl Wick]]
+
+----
+
+Thomas, I have created a few Spanish grammar comments. You can see it in [[User:Wintermute/drafts|here]]. I'm not very sure where it should go in the textbook, but these are very basical stuff. Tell me if you want that I paste that in any place or fell free of pick up that yourself. My English is not the best at world, so, maybe (well.. sure) there are errors in the sentences. Regards.
+
+[[User:Wintermute|Wintermute]] 19:21, 12 Aug 2003 (UTC)
+
+----
+
+I was just thinking about how to get some good photos of hispanic people to liven up the pages .. huh so you studied a bit of French too ? I always wanted to visit Africa and thought French would be a good tool. So you speak English, some French and Spanish, and German ? It sounds like you've got the memory of two men. --[[User:Karl Wick|Karl Wick]]
+
+----------
+
+Your &quot;nicer arrows&quot; cannot be viewed on many browsers. Please use the old ASCII arrows. --[[User:Maveric149|mav]]
+
+----
+
+Just an idea. I see you have created &quot;Web resources&quot; in the Spanish course, how
+about creating &quot;software resources&quot; ? I guess, there are downloadable (free) dictionaries and conjugators.&lt;br&gt;Kpjas
+
+----
+
+Thomas, I have written [[User:Wintermute/drafts|two pronouns exercices]] for lesson 1 but I don't see clear where it should be paste. Is there one exercice page for every concept? for every lesson?.
+Tell me where it should be or fell free yourself for paste it.
+Regards.
+
+[[User:Wintermute|Wintermute]] 22:26, 26 Aug 2003 (UTC)
+----
+
+Hey Thomas, hows it going with the Spanish studies ? Any plans to visit a Spanish-speaking place soon ? --[[User:Karl Wick|Karl Wick]]
+
+----
+
+Thomas, sorry, I didn't see your apendix E for the solutions. I can change the solutions to the lesson 1 exercises there if you think that is a better idea.
+
+[[User:Wintermute|Wintermute]] 06:16, 18 Sep 2003 (UTC)
+-----------
+
+Dude I missed seeing you around, welcome back ! --[[User:Karl Wick|Karl Wick]]
+
+==Admin==
+Thomas I want to nominate you to be an admin, as soon as I can find the nomination page. --[[User:Karl Wick|Karl Wick]]
+
+----
+Thanks for keeping tabs on the German.  I've not used it in about 20 years. I thought that ''mit mein Brudder''  needed a different case, but had not tracked it down in the grammer book. Hope it comes back to mind soon! Also, I left off the definite articles on that first intro page because they (articles) are not introduced until lesson 1. Although not exactly grammatically correct, the point there was just to show word comparisons, and not &quot;translate&quot; words. - [[User:Marshman|Marsh]] 07:33, 24 Oct 2003 (UTC)
+
+:I agree with your reasoning on the inclusion of articles in the introduction page.  As long as you do not think they will confuse the first-time reader - [[User:Marshman|Marsh]] 01:29, 25 Oct 2003 (UTC)
+
+Man, you were right there with the alphabet tape! Great addition. Did you already have it in the wings waiting for the text to appear? Is it dialect or my ear, but the 'B' and 'E' sound a bit English to me - [[User:Marshman|Marsh]] 08:58, 28 Oct 2003 (UTC)
+----
+
+Thomas. How did you make those tables in the Spanish Book that are laid out nicely, and appear as if enclosed in &amp;LT;pre&amp;GT;&amp;LT;/pre&amp;GT; tags, but are not (no tags of anykind evident in edit mode)? - [[User:Marshman|Marsh]] 01:22, 6 Nov 2003 (UTC)
+
+==Learning Project==
+Hej Thomas,
+I saw you contributed to the Spanish and German wikibooks, so I thought you might be interested in this. I have written a [http://amor.rz.hu-berlin.de/~h0444e1w/vokeng.htm program for learning vocabulary]. I think for this purpose a program is more useful than a website, although maybe one day we can make this a java project.
+It is based on the belief that it is best to learn foreign words by learning typical sentences. The program can also be used for learning other stuff that works with the question/answer scheme, e.g. the theory for the driving licence or anatomy. Unfortunately I wrote it in qbasic, which can be downloaded [http://download.microsoft.com/download/win95upg/tool_s/1.0/W95/EN-US/olddos.exe here]. It also uses images and sound files for alternation and in order to work on the pronunciation. Let me know what you think about it. I currently have files in English, French (with sound), Spanish, and [[Portugiesisch:_numerais|Portuguese]]. Catalan is in the planning. Corrections or additions are very welcome. The easiest thing to start with for improvements would be adding new vocabulary, sound files or images. A guide to the program will follow soon, although I think it is rather self-explanatory. In the long run the program should be rewritten in a better language. Afterwards it should be possible to switch languages within the program. Up to now there is a different version of the program for each language. [[User:Get-back-world-respect|Get-back-world-respect]] 23:15, 23 Apr 2004 (UTC)
+
+
+I TRY TO CONTACT WITH THOMAS
+
+juani.franco@terra.es
+
+== Spanish textbook ==
+
+Hi, I was wondering who to talk to about the Spanish textbook. I have Spanish textbooks from the 1910s and '20s that are in the public domain; I plan to digitize them for [http://www.gutenberg.org/ Project Gutenberg] and wonder whether their content might be incorporated into the Spanish Wikibook. -- [[User:Tetraminoe|Tetraminoe]] 21:28, 30 Apr 2005 (UTC)
+
+== Wikibooks in Simple Eng. needs an administrator ==
+
+I've just started working on Wikibooks in Simple English. We need to make someone an administrator. With very few other users (at the moment!) how can I become one and so start getting the project started? Any help would be great. Cheers [[User:Charlie123|Charlie123]] 14:19, 22 Jun 2005 (UTC)
+
+== Copyright tags ==
+
+Could you please insert license information to files you have uploaded to Wikibooks? I would like to move Spanish dialogues to Commons, but they don't have any license, so it's forbidden. You can check [[Wikibooks:Template messages/Image namespace]] for availables licenses. Thank you. --[[User:Derbeth|Derbeth]] 18:50, 2 October 2005 (UTC)
+
+== Your De-Adminship ==
+
+Hello. I would like to inform you that you will have your sysop rights removed here on 1 Nov 2006 due to inactivity. If you would like to discuss the matter, please see [[WB:RFA]]. You can re-apply for adminship at a later date if you wish. Thanks. -[[User:Withinfocus|&lt;font color=&quot;#000000&quot;&gt;'''within'''&lt;/font&gt;]][[User talk:Withinfocus|&lt;font color=&quot;#7A7A7A&quot;&gt;'''focus'''&lt;/font&gt;]] 21:31, 1 October 2006 (UTC)
+
+
+
+== Copyright problem with [[:Image:The days of the week.ogg]] ==
+{{mbox|type=warning|msg=
+Thanks for uploading [[:Image:The days of the week.ogg]]. The [[w:Wikimedia Foundation|Wikimedia Foundation]] is very careful about what Wikibooks includes because of [[w:United States copyright law|copyright law]], and requires that we maintain a strict [[Wikibooks:Copyright|copyright policy]]. [[:Image:The days of the week.ogg]] and other files you uploaded may soon be deleted unless we can determine the copyright holder and status. The copyright holder is usually the creator, the creator's employer, or the last person who was transferred ownership rights. Please take the time to read [[Wikibooks:Media]] to learn more about what copyright information is required to satisfy our requirements and remember to include this important information for every file that you upload in the future as well. If you have any questions, feel free to contact me, or ask another Wikibookian at the [[Wikibooks:Study help desk|help desk]].
+
+See {{UserImages}} for a complete list of your uploads which may get deleted soon.&lt;br/&gt;Thank you. '''&amp;ndash; [[User:Mike.lifeguard|&lt;font color=&quot;Indigo&quot;&gt;Mike.lifeguard&lt;/font&gt;]]''' &amp;#124; &lt;sup&gt;[[User talk:Mike.lifeguard|&lt;font color=&quot;Indigo&quot;&gt;talk&lt;/font&gt;]]&lt;/sup&gt; 03:38, 5 October 2007 (UTC)}}
+
+
+== Copyright problem with [[:Image:Spanish alphabet.ogg]] ==
+{{mbox|type=warning|msg=
+Thanks for uploading [[:Image:Spanish alphabet.ogg]]. The [[w:Wikimedia Foundation|Wikimedia Foundation]] is very careful about what Wikibooks includes because of [[w:United States copyright law|copyright law]], and requires that we maintain a strict [[Wikibooks:Copyright|copyright policy]]. [[:Image:Spanish alphabet.ogg]] and other files you uploaded may soon be deleted unless we can determine the copyright holder and status. The copyright holder is usually the creator, the creator's employer, or the last person who was transferred ownership rights. Please take the time to read [[Wikibooks:Media]] to learn more about what copyright information is required to satisfy our requirements and remember to include this important information for every file that you upload in the future as well. If you have any questions, feel free to contact me, or ask another Wikibookian at the [[Wikibooks:Study help desk|help desk]].
+
+See {{UserImages}} for a complete list of your uploads which may get deleted soon.&lt;br/&gt;Thank you. '''&amp;ndash; [[User:Mike.lifeguard|&lt;font color=&quot;Indigo&quot;&gt;Mike.lifeguard&lt;/font&gt;]]''' &amp;#124; &lt;sup&gt;[[User talk:Mike.lifeguard|&lt;font color=&quot;Indigo&quot;&gt;talk&lt;/font&gt;]]&lt;/sup&gt; 22:42, 21 September 2007 (UTC)}}</text>
+      <sha1>2mfnihc2hr0uz5svfbc27dm4h3g3l30</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Etiquette</title>
+    <ns>4</ns>
+    <id>378</id>
+    <revision>
+      <id>2544919</id>
+      <parentid>2544900</parentid>
+      <timestamp>2013-07-23T13:16:23Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <comment>It wasn't a grammar error, it was a spelling error</comment>
+      <text xml:space="preserve">{{draft|WB:ET}}
+
+Wikibookians have different backgrounds and hold widely different views. When interacting with respect, users can cooperate effectively to develop free educational textbooks.  In the vast majority of cases, people seem to get along, but occasionally people bump up against one another.
+
+Like any community, Wikibookians have developed among themselves a certain etiquette 
+to facilitate productive cooperation.
+
+== The community ==
+
+Wikibooks is divided into a large number of books.  Many of these have no active editors and most never see more than a single active contributor at any given time.  There are, however, instances where multiple users find themselves working on the same book.  In most cases the team-work that grows out of the interaction leads to better content as they bounce ideas off each other.
+
+Given the open nature of the wiki, anyone is free (and encouraged) to start editing any page in any book they think is worth contributing to. In some cases a contributor will start editing pages that one or more editors had until then been alone with. As new ideas can rock the status quo, disagreements can arise.
+
+While the community isn't the goal of the project, a well functioning one helps. Don't limit interactions to the negative: If you see people doing good work, let them know. Do your best to avoid conflicts and resolve those that arise. Don't hold grudges, bury the hatchet and give people a chance to redeem themselves.
+
+Tread softly around your fellow Wikibookians. Contributors have often put a considerably amount of work into the content they have uploaded and can become offended when it is subjected to criticism. [[Help:Pages#Deleting]] has some advice on how to properly approach contributors to pages that are out of scope.
+
+== Conflict avoidance and resolution ==
+
+;[[Wikibooks:Assume good faith|Assume good faith]]
+: This is an extremely useful principle. Rather than assume that other users are out to get you or &quot;your&quot; content, understand that the content [[Wikibooks:Ownership|isn't yours]] and they are editing the book out of a desire to help. Listen to what they have to say, communicate your thoughts and start a dialogue to figure out the best way forward.
+;Ask questions
+: Rather than just trying to convince your counterpart(s), ask them questions of their views and invite them to convince you. You cannot argue against a viewpoint you don't fully understand. Furthermore, there might well be something useful in their position.
+;Leave your pride at the door
+: No matter how long you've been at Wikibooks or editing a specific book, you're going to make mistakes. Acknowledge any mistakes and make apologies when you are wrong or being unfair. Don't get offended.
+;[[Wikibooks:Staying cool when the editing gets hot|Stay calm]] or take a break
+: Most edits are easily reversible. If you're not making progress, just take a break for a while to calm yourself and let the dust settle.
+
+
+{{Wikibooks policies and guidelines}}
+
+[[pl:Wikibooks:Wikietykieta]]
+[[hu:Wikikönyvek/Wikietikett]]</text>
+      <sha1>quopdsdhndths0kzs0eef64w2czo74j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks talk:Etiquette</title>
+    <ns>5</ns>
+    <id>381</id>
+    <revision>
+      <id>2031628</id>
+      <parentid>1698491</parentid>
+      <timestamp>2011-02-16T21:35:37Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>substituting Template:Unsigned</comment>
+      <text xml:space="preserve">== Adaptation and Resurrection ==
+Initial text adapted from [[en:Wikipedia:Wikiquette]]. --[[User:Maveric149|mav]] 10:00 2 Aug 2003 (UTC)
+
+
+...And as such, it is out of date (and not even recommended here as a guideline). I recommend resurrecting this guideline, as I think it is core to working in a cooperative environment like a wiki.
+
+[[w:Wikipedia:Etiquette]] is a guideline on Wikipedia, whereas [[w:Wikipedia:Civility]] is a policy - I don't exactly know why. My guess is that, in a Wikimedia context, etiquette is about particular instances of niceness or rudeness, whereas civility is about a whole attitude which is based on etiquette, no personal attacks, and so on. Perhaps the distinction is a pragmatic one; we can ''enforce'' a policy of civility (ie ban someone if they are generally repeatedly uncivil), but we can ''suggest'' a guideline of etiquette. I'm suggesting we do the same here on Wikibooks - enforce a civil environment, but in general, simply suggest getting everyone to cooperate. It's the softest way, but it is strong if needs be (ie if someone is really kicking up a fuss).
+
+This page here is missing a few things, I think. It is generally concerned with refraining from being offensive, and being nice if possible. But fundamentally, as it says right at the top, etiquette is about treating people with respect. There isn't really any explicit mention of this (or certain aspects of this) in the breakdown of what etiquette is. Specifically, I'm referring to things like listening to other people, trying to see where they are coming from, answering questions politely (even answering questions in the first place and not deleting them), and acknowledging and apologising when you're wrong or being unfair. I think these are absolutely basic to working with other people, and I think we need to be clear about this with all participants, especially newcomers.
+
+Sure, i'll &quot;just fix&quot; this policy. But I'd also like to raise its profile in the project in general. What do other people think? [[User:Cormaggio|Cormaggio]] 09:57, 20 March 2006 (UTC)
+
+: I suggest that we abandon this page (unless someone volunteers to completely replace it) and instead add a brief paragraph to [[WB:WIW]], indicating that Wikibooks is not for bad behaviour against users. One wiki does this with &quot;WikiFur is not intended to hurt anyone&quot;, [[Wikicities:c:Furry:WikiFur:What_WikiFur_is_not|WikiFur:What_WikiFur_is_not]].
+
+: I dislike having all these extra pages copied from Wikipedia (where I am not familiar with most of the policies). --[[User:Kernigh|Kernigh]] 20:21, 21 March 2006 (UTC)
+
+::I strongly disagree with abandoning this page - I have already volunteered to do work on it and I've already started. I can't see how this would be usefully integrated into [[WB:WIW]], without destroying all its meaning - you need to spell it out for some people, and even on the example you give, that part of their policy is a red link, meaning they intend on expanding it there. But we have a perfectly good ''start'', at least, of a policy here. Also, it ''was'' originally copied from Wikipedia (back in 2003), but that doesn't make it irrelevant to Wikibooks. Of course, it doesn't automatically make it relevant either, but I think it is very relevant, fundamental even - for the very simple reason that this is a collaborative site and in order to get along here, we need to be nice to each other. [[User:Cormaggio|Cormaggio]] 21:47, 21 March 2006 (UTC)
+
+::For what it's worth, that policy was intended to apply to the people that WikiFur talked about, as well as its users. [[User:68.40.114.223|68.40.114.223]] 17:27, 26 August 2006 (UTC)
+
+: The reason that I wanted to abandon the page, was because I thought it was a bad way to establish a policy against aggravating users. I now believe that it can work as a non-policy page, if we do not abandon it. Actually, I did some work on [[Wikibooks:Assume good faith]] earlier, even though that page is also marked as a proposed policy. --[[User:Kernigh|Kernigh]] 21:34, 30 March 2006 (UTC)
+
+== Policy or guideline? ==
+I really don't see this as policy material.  Proposed policies are or should be intended to become enforced eventually.  I can just see the future arbitrations: &quot;He wasn't say something nice when he could have&quot;, &quot;No I couldn't, there just wasn't anything nice to say.&quot;  Yikes!  It's not that &quot;Say nice things when you can&quot; is a bad idea or that it shouldn't be included or that it should be changed.  Rather, it's that much of good etiquette just can't be made sufficiently precise and objective to enshrine into a policy.  I suggest making this a guideline. &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[w:Wikipedia:Signatures|unsigned]] comment added by [[User:JMRyan|JMRyan]] ([[User talk:JMRyan|discuss]] • [[Special:Contributions/JMRyan|contribs]]) 00:15, 22 March 2006&lt;/span&gt;&lt;/small&gt;
+
+: I agree. I think though, we need to make civility a policy (across all projects), and then to specify what that is in &quot;sub&quot; policies or guidelines, like no personal attacks and etiquette. I've also opened this discussion on the foundation-l mailing list. [[User:Cormaggio|Cormaggio]] 14:16, 22 March 2006 (UTC)
+
+:: I remove the {{tl|draft}} tag from the page, so it is not proposed as a policy. --[[User:Kernigh|Kernigh]] 21:34, 30 March 2006 (UTC)</text>
+      <sha1>3gphaged47x93pow8347qa1ta91zdyl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Deletion policy</title>
+    <ns>4</ns>
+    <id>383</id>
+    <revision>
+      <id>2710812</id>
+      <parentid>2710597</parentid>
+      <timestamp>2014-10-06T20:56:13Z</timestamp>
+      <contributor>
+        <username>Pi zero</username>
+        <id>75960</id>
+      </contributor>
+      <comment>/* Copyright violations */ copyedit</comment>
+      <text xml:space="preserve">{{policy|WB:DP}}
+{{branch unstable}}
+
+Wikibookians are expected to follow this policy when performing deletion-related activities (including undeletion requests).
+
+Only [[Wikibooks:Administrators|Administrators]] can delete and restore pages. Deletion removes access and undeletion restores access to a page's content and revision history. Keeping track of deletions can be hard if done too casually. Deletion decisions are not to be taken lightly.
+
+Deletion are not be confused with page blanking which adds an entry in the page's history and anyone can undo.  Page blanking might be vandalism, an attempt to deal with vandalism, or an attempt to delete a page for whatever reasons.  The first two can be fixed by restoring a revision free of vandalism.  The last may qualify for speedy deletion depending on the situation; if you want a second opinion, you may make a [[#Requests for deletion|request for deletion]].
+
+== General guidelines ==
+* In general, '''keep stubs''' that can be improved on, but delete stubs that are too narrowly defined or do not have a decent definition of what they are about.
+* In general, '''keep''' modules that need heavy editing, but delete pages with no ''meaningful content''.
+* In general, '''delete''' modules that will simply never become educational resource modules. This includes idiosyncratic non-topics such as &quot;Teaching 100 monkeys to type the works of Shakespeare&quot;.
+
+== Meaningful content ==
+{{Shortcut|WB:NMC}}
+Content is not ''meaningful'' if it does not add value to readers or otherwise contribute to the project. What is considered &quot;meaningful content&quot; depends on the namespace. Under this criteria, you'll have to be careful when nominating or deleting pages. In doubt, put it under a [[Wikibooks:Requests for deletion|deletion discussion]].
+
+Absence of meaningful content includes, but is not limited to:
+* Spam and [[WB:DWV|vandalism]].
+* Test edits and nonsense.
+* Abandoned pages displaying intent, but no actual content.
+
+You can leave {{tl|query}} on the page to check whether the user is intending to develop the page further.
+
+== Speedy deletions ==
+{{shortcut|WB:SPEEDY}}
+
+Speedy deletion is a deletion request where reasonable opposition is not expected or possible. Anyone can request speedy deletion and anyone who objects or believes more discussion is needed can turn a speedy deletion candidate into a [[#Requests for deletion|request for deletion]]. Speedy deletion requests made in bad faith can be removed by anyone.
+
+Add {{tlx|delete|reasons for speedy deleted}} to the top of a page to request speedy deletion. That page will then appear in [[:Category:Candidates for speedy deletion]] for administrators to address whenever time is available.
+
+Pages that satisfy any of the following criteria can be considered for speedy deletion:
+
+# Pages nominated for speedy deletion by the only significant contributor.
+# Pages in the nominator's user namespace (their user page, talk page, or any sub-page thereof).
+# Pages with no [[#Meaningful content|meaningful content]]. Always check and revert if good content in the revision history was replaced.
+# Pages in a book where current book contributors support deletion. Always link to the discussion page where consensus was reached.
+# Pages that cannot comply with the [[Wikibooks:What is Wikibooks|scope]] or [[Wikibooks:Policies and guidelines|policies]] of the project. Should there be '''any''' doubt, [[#Requests for deletion|get community consensus]].
+# Orphaned redirects that do not conform with [[Wikibooks:Naming policy]] or where the names are unlikely to be inadvertently searched for by anyone.
+# A repost of work previously deleted as a result of a [[Wikibooks:Requests for deletion|requested for deletion]] that has not successfully gone through [[Wikibooks:Requests for deletion#Undeletion|requests for undeletion]].
+
+== Requests for deletion ==
+If you disagree with the reason given in a speedy deletion nomination, or if you believe a work that does not satisfy any of the speedy deletion criteria should still be deleted, you can discuss deleting the work with your fellow community members at [[Wikibooks:Requests for deletion]]. Please sign/date your reasoning and be prepared to defend it.
+
+Next you should add {{tlx|rfd}} to the top of the work, which will add the page to [[:Category:Requests for deletion]].  At this time, the discussion process begins. 
+
+Every registered Wikibooks user can participate in the discussion process to decide what to do with the work in question. Please explain your reasoning, sign/date your comments, and be ready defend your position. For convenience please include a [[Template:Icon|discussion icon]] to help other participants quickly review what the overall position of the participants is. If your reasoning changes, please ''strikeout'' (&lt;nowiki&gt;&lt;s&gt;old text&lt;/s&gt;&lt;/nowiki&gt;) any part of your stance that you wish to change, before (optionally) declaring a different position.
+
+One week after the last comment if participants have mostly reached consensus about what to do, action will be taken by an administrator. Otherwise discussion may continue until consensus is reached. Deciding whether consensus has been reached and what consensus is should occur according to [[Wikibooks:Decision making|the decision-making guideline]] for [[Wikibooks:Decision making#High impact decisions|high impact decisions]].  Per this guideline, any position declaration is an aid to discussion and not a vote; the decision isn't based on quantity but on quality.
+
+Discussion may be terminated early and any outcome ignored if the discussion is believed to be the [[Wikibooks:Vandalism in progress|result of vandalism]] or part of an edit war between two contributors who may not like each other. If later serious objections are raised, discussion may resume.
+
+You should be especially sensitive to discussions about brand-new works, particularly by new contributors to Wikibooks. Unless there are obvious problems that are unlikely to be rectified, your time would be better spent mentoring new contributors and trying to help clean up new works, even if the work is currently a blatant violation of current procedures. Remember you were once a new contributor too.
+
+If the decision is that the page should be deleted, an [[Wikibooks:Administrators|administrator]] will do so, and it will show up on the page [[Special:Log/delete]]. Either way, the section should be archived for historical reference.
+
+== Copyright violations ==
+{{shortcut|WB:COPYVIO}}
+
+Violations of copyright (usually determined by running a [[Help:Glossary#Google test|Google test]]), should have {{tlx|copyvio|&amp;lt;source URL or description of source&gt;}} added to the top of the offending page, which adds the page to [[:Category:Copyright violations]].
+
+The user who submitted the work has one week from this date to prove that they had permission to post the work, otherwise it will be deleted.
+
+== Transwiki ==
+First of all, if the page looks okay, but it's just on the wrong wiki (e.g. wrong language, wrong type of content), add {{tlx|transwiki|&lt;suggested wiki&gt;}} to the top of the page, which add the page to [[:Category:Pages for transwiki]].
+
+== Guidelines for admins ==
+Here are some guidelines that those tasked with removing pages from the database can generally be expected to follow in making the decision to delete or not:
+
+# As a general rule, ''don't'' delete pages you nominate for deletion if there are a number of comments in favor of keeping. Let someone else do it.
+# Simply deleting a page does ''not'' automatically delete its talk page or any subpages. Please delete these pages too.
+# If another solution has been found for some of these pages than deletion, leave them listed on [[Wikibooks:Requests for deletion]] for a short while, so the original poster can see why it wasn't deleted, and what did happen to it. This will prevent reposting of the same item. Alternately, leave a message on their user page explaining the verdict of the deletion process.
+# Use common sense and respect the judgment and feelings of other Wikibooks participants.
+# When in doubt, don't delete.
+# Don't hesitate to turn a speedy delete into a [[Wikibooks:Requests for deletion|RfD discussion]].  It is better to get community input on deleting a page than indiscriminate deleting on the part of admins.
+# Where the content is such that it might usefully be moved elsewhere (for example, another wiki or that the authors might want a copy for their own records) give some time for them to do this before deleted (or alternatively email them a copy of the text).
+# '''Copyright''': See [[Wikibooks:Copyrights]] for deletion policy on copyright infringement (and [[m:Wikipedia and copyright issues]] and [[m:Avoid Copyright Paranoia]] for perspective).
+#Administrators necessarily must use their best judgment, attempting to be as impartial as is possible for a fallible human, to determine when rough consensus has been reached. For example, administrators can disregard comments if they feel that there is strong evidence that they were not made in good faith. Such &quot;bad faith&quot; comments include those being made by sock puppets, being made anonymously, or being made using a new userid whose only edits are to the article in question and the voting on that article.
+
+Ideally, when an admin deletes a test page or other page with no useful content, it is a good idea to put a note on the author's talk page explaining things, pointing them to the [[Wikibooks:Sandbox|sandbox]] in cases of tests. Be friendly! Everyone was new once. In the case of anon IP users this is not as important as they have likely moved on or their IPs changed since that edit.
+
+== Frequently asked questions ==
+;This book is totally biased! What gives?
+: See [[Wikibooks:NPOV dispute]]. You don't need the RfD page for that.
+;Where'd my page go?!
+: Check the [[Special:Log/delete|deletion log]] and head over to [[Wikibooks:Requests for undeletion]] if you believe that a page may have been deleted without proper grounds.
+
+==See also==
+* [[Wikibooks:Templates/Deletion]]
+
+
+{{Wikibooks policies and guidelines}}
+
+[[es:Wikilibros:Política de borrado]]
+[[ja:Wikibooks:削除の方針]]</text>
+      <sha1>8ucagc4e10qm2wq9drq1sk8fgii5dgr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Requests for deletion</title>
+    <ns>4</ns>
+    <id>385</id>
+    <restrictions>move=sysop</restrictions>
+    <revision>
+      <id>2715049</id>
+      <parentid>2712738</parentid>
+      <timestamp>2014-10-18T21:11:12Z</timestamp>
+      <contributor>
+        <username>Robert Dell</username>
+        <id>1269807</id>
+      </contributor>
+      <comment>/* Deleted recipe */</comment>
+      <text xml:space="preserve">__NEWSECTIONLINK__
+[[Category:Wikibooks deletion|{{PAGENAME}}]]
+{{Discussion Rooms}}
+[[ja:Wikibooks:削除依頼]]
+[[ms:Wikibooks:Permohonan memadam laman]]
+{{TOCleft}}
+{{Requests for deletion/Archives}}
+{{Requests for deletion/Using Template:Icon}}
+{{clear}}
+
+=Undeletion=
+
+{{shortcut|WB:RFU}}
+{{Requests for deletion/New undeletion}} 
+{{Requests for deletion/Undeletion intro}}
+
+== Deleted recipe ==
+
+I have had to delete the recipe you added as it was copied from another website that has a copyright notice. You will need to prove you own the copyright in order to add it to Wikibooks. Thanks [[User:QuiteUnusual|QuiteUnusual]] ([[User talk:QuiteUnusual|discuss]] • [[Special:Contributions/QuiteUnusual|contribs]]) 09:04, 9 September 2014 (UTC)
+-----
+now, THIS was my own recipe.  I uploaded it to allrecipes.com but alas it will not be kitchen approved due to my user name and nobody can bring it up.  I then uploaded it to food.com who then added some nutritional information I don't care about.  I then added some pictures to my recipe that I took myself with my tablet.  I then added it to wikibooks by using the recipe template.  I came back and found this idiot can't even READ the name of the submitter here and at food.com and notice it is in fact the same person.
+
+I cannot find it in discussions or in any log entries.
+
+It is raisin-cinnamon yeast raised doughnuts.  I may not have had &quot;yeast raised&quot; in the title.  It also fixes problems that most folks have with ingredients killing yeast.  odd that a recipe that was donated to the public domain by me has been deleted because there's some stupid copyright notice someplace.  the copyright is on the collection of recipes not individual ones and they also hold the copyright of the nutritional information which I did NOT provide here.
+[[User:Robert Dell|Robert Dell]] ([[User talk:Robert Dell|discuss]] • [[Special:Contributions/Robert Dell|contribs]]) 00:48, 25 September 2014 (UTC)
+:As apparently I am an &quot;idiot&quot; I decline to act on this request - another administrator will consider it. I will note however that having a username on one website that is the same as the username on another website is zero evidence that you are in fact (a) the same user and (b) actually the copyright holder. Or are you implying that you are the one and only Robert Dell in the whole world? There are specific instructions on how to provide evidence of ownership and I suggest to the closing administrator that they ensure you follow those before undeleting. [[User:QuiteUnusual|QuiteUnusual]] ([[User talk:QuiteUnusual|discuss]] • [[Special:Contributions/QuiteUnusual|contribs]]) 09:14, 25 September 2014 (UTC)
+:: {{comment}} The user would need to prove they have the legal right to publish the recipe here.  It seems the user either failed to realize the difficulty of determining identity across the internet, or the user is pretending not to realize; we have, of course, no way to distinguish between these eminently plausible hypotheses without the aforementioned proof (or, improbably, proof to the contrary).  --[[User:Pi zero|Pi zero]] ([[User talk:Pi zero|discuss]] • [[Special:Contributions/Pi zero|contribs]]) 14:52, 25 September 2014 (UTC)
+::: &quot;There are specific instructions on how to provide evidence of ownership&quot;  where?  the internet is a very big place and so is wikipedia and wikibooks.  you say there are specific instructions, let me see them.
+
+by the way, read the note on the food.com recipe and you'll see something else added that only the original recipe submitter could add which is &quot;I also hereby grant myself permission to post this recipe to wikibooks as I already donated it to the public domain.&quot;
+[[User:Robert Dell|Robert Dell]] ([[User talk:Robert Dell|discuss]] • [[Special:Contributions/Robert Dell|contribs]]) 16:15, 25 September 2014 (UTC)
+
+::::I got a response from food.com
+
+::::Thank you for contacting Food.com.
+
+
+
+::::This sounds like something you need to ask Wikibooks. Members own the rights to their own recipes on our site.
+
+
+::::Customer Support
+::::Food.com: Home of the Home Cook
+::::http://www.food.com
+
+-----
+::::Original Message-----
+::::From: dellr007@yahoo.com (dellr007@yahoo.com)
+::::Sent: Sep 24, 2014 9:17:09 PM
+::::Subject: Comment/Suggestion
+
+::::I posted one of my recipes here and posted it as well on wikibooks. My recipe on wikibooks was summarily deleted simply because your site has a copyright notice on it.
+
+::::precisely WHAT is copyrighted? surely not my own recipe by itself. if that's the case then it's a super easy way to steal others' work.
+
+::::I imagine that you copyright the look and feel of the site, the collection of recipes (not a single recipe), and the nutritional information information that you add.
+
+::::by the way, can you folks kindly remove this from my page? I don't intend to subscribe as my inbox is too full already. I can't see underneath it.
+
+::::Free Weekly Newsletter
+
+::::Get the latest recipes and tips delivered right to your inbox.
+::::Your e-mail is safe. Privacy Policy
+
+::::[[User:Robert Dell|Robert Dell]] ([[User talk:Robert Dell|discuss]] • [[Special:Contributions/Robert Dell|contribs]]) 11:43, 3 October 2014 (UTC)
+
+::::: Robert note that the above conversation does not prove anything to anyone, its only your word that things are as described, that is not enough to clarify any dispute. &lt;s&gt;Since you haven't replied if anyone (or who) objected to your inclusion of the content I can't go further than I already have.&lt;/s&gt; On Wikibooks we act pro-actively to prevent copyright infringement, but note that any copyright violation is really only valid if formalized by the copyright owner or if it goes into a community deletion process (it should be a distinct process but that has been the norm) and the content is removed as the better avenue to resolve any perceived threat.  --[[User:Panic2k4|Panic]] ([[User talk:Panic2k4|discuss]] • [[Special:Contributions/Panic2k4|contribs]]) 13:31, 3 October 2014 (UTC)
+
+::::: As I only noticed now this undeletion request I think that several issues require a comment. Robert shouldn't insult a fellow volunteer, I guess that it was done out of a feeling of impotence and due to not knowing how the project works. In any case I see that the proper avenue of resolution is to request another admin. to look at the simple fact that both parties of the dispute can't prove or disprove that the content isn't valid and a) revert the deletion b) start a discussion for deletion on the grounds of copyright violation if Robert's explanations did not suffice. Of course that it someone contact the copyright owner and validates/refutes it this wouldn't be necessary.
+::::: I have also a question. I assume that the content wasn't tagged with a copyvio (7 days) and was summarily deleted and a message posted on the user talk page, is this right ? If so that seems the root for Robert (that we should assume is correct and considering the content under discussion I see no major issue) being distressed by the action.
+::::: I also note that &quot;You will need to prove you own the copyright in order to add it to Wikibooks&quot; is not correct, that is, as far as anyone needs to prove that a contributor hasn't the right to some content to Wikibooks, like if a request from a verified copyright holder materializes.
+::::: We normally act pro-actively and raise the proper concerns and QuiteUnusual was acting on those grounds, but considering the expedited deletion and the history of Robert on the project, alienating the user without better grounds seems a disservice.
+::::: One could argue for the undeletion but after the input from Robert we should be discussing to obtain the consensus for deletion.  --[[User:Panic2k4|Panic]] ([[User talk:Panic2k4|discuss]] • [[Special:Contributions/Panic2k4|contribs]]) 08:38, 4 October 2014 (UTC)
+
+:::::: I'm not comfortable with the suggestion that a blatant copyright violation mightn't be subject to speedy deletion.  This strikes me as gratuitous [[wikt:red tape|red tape]].  Granted, &quot;blatant copyright violation&quot; doesn't appear explicitly on the list of en.wb speedy deletion criteria (unlike en.wn, where it ''does'' appear explicitly on our list &amp;mdash; necessarily, because competing news sites care most about copyright violation during the short time when the news is fresh, and are famous for aggressively going after copyright-violating websites to get them shut down); however, if you want to nit-pick policies, [[WB:SPEEDY]] ''does'' list &quot;Pages that cannot comply with the scope or policies of the project.&quot;  That seems to me to cover this case.  Afaics there's no disagreement that it's the same recipe; the outstanding question is establishing that the copy is authorized.  So, given that the copying has been established and the authorization has not, it doesn't belong here until and unless the authorization ''is'' established.
+
+:::::: It is unfortunate that Robert Dell needlessly alienated the one (in my experience, helpful and friendly) admin who was already well familiar with all the nuances of the case and would therefore presumably have been most easily able to assess the adequacy of additional measures.  Any other admin will have to invest a bunch of volunteer time and effort in getting up to speed on the details of the matter, which may slow things down quite a lot (especially since alienating one admin likely won't make other admins especially eager to tangle with the case).  --[[User:Pi zero|Pi zero]] ([[User talk:Pi zero|discuss]] • [[Special:Contributions/Pi zero|contribs]]) 17:29, 4 October 2014 (UTC)
+
+::::::: What most of the adminship fails to realize is that due process is required to avoid (detect)) and correct for errors (order of actions), that administrators are averse to bureaucratic processes seems a contradiction as they are the ones that must strongly rely on them as their safeguards to exercise fair judgment and operate impartially and correctly, it is not by chance that the highest level of an administrator is the bureaucrat. I have no problem of skipping processes if respecting the basic rule that, opposition to any action results in undoing the action until consensus is established... so what I'm not comfortable is when people refuse to recognize that the admin tools are no exception and should not to be abused, even unintentionally, to reverse the positions on any dispute.
+::::::: By your own assertion the speedy deletion was not kosher (it wouldn't be a problem, if the acting admin would simply reverse the action facing a valid opposition, as you know there are very few oppositions to copyright violations).
+::::::: I fail to see how copyright has been established at best you can say that a strong case of previous ownership of the content was demonstrated, but the contributor of the content also provided a valid response to that (he is a registered user and there is no previous record of vandalism), the only reason I do not grant Robert more credit is because a) it was his first contribution b) he does not have a registered email on his account but even so proper order of precesses should be fallowed even when we have high suspicions as to protect all involved.
+::::::: There is a fragility on how we execute our pro-active copyright enforcement, I have made a long diatribe about this several years ago to then admin WhiteKnight (in fact the book I was working on was put on copyvio due to it, and other shenanigans). In this case to establish the copyright the admin. would have needed to contact the proposed author (there shouldn't be any difference to establish or refute copyright ownership, even if we initially skew the play-field against suspicious contributions).   --[[User:Panic2k4|Panic]] ([[User talk:Panic2k4|discuss]] • [[Special:Contributions/Panic2k4|contribs]]) 03:27, 5 October 2014 (UTC)
+
+:::::::: We all have failings; one of yours is that you're overly fond of bureaucracy.  (It did not escape my attention that in another recent discussion you were so focused on your claim to be the victim of improper procedure that you actively sought to prevent your own substantive concerns from being addressed so they wouldn't distract from your procedural complaint.)  A good admin acts for the good of the project; it follows from that, that they would seek to be fair and follow proper procedure, as both of those things are in the best interests of the project.  If proper procedure becomes the ''driving'' force behind their actions, then the good of the project suffers.  Wikipedia is prone to excessive red tape; other sister projects often have policies that cut down on the red tape, and I've found en.wb is one such.  Admin policies should not be allowed to suffer from instruction creep.
+
+:::::::: I did '''not''' say what you attribute to me.  I said the speedy deletion '''was''' kosher, and it should stand until and unless an admin determines that the concern behind the speedy deletion has been eliminated.  A determination, one way or another, as to whether or not the concern has been eliminated, would have happened already if Robert Dell hadn't make the poor tactical decision to treat as an enemy the person most likely to help him.  --[[User:Pi zero|Pi zero]] ([[User talk:Pi zero|discuss]] • [[Special:Contributions/Pi zero|contribs]]) 04:03, 6 October 2014 (UTC)
+
+::::::::: No fond but respectful, bureaucracy is simply the name given to the fallowing of rules that guide the function of a system, the more complex the system it fallow the more rules it requires to operate. Bureaucracy isn't intrinsically evil as I said a bureaucrat is an administrator (even more so on Wikimedia projects).
+::::::::: On Wikibooks we do have very little rules and regulations and even less procedural obligations, I guess one needs to be technically inclined to understand how procedures exist to curb errors and inefficiencies and a bit of politically aware to see how spiking, ignoring and creating exceptions is always a dangerous thing. So call me a stickler for what we have, one don't particularly need to like or dislike it but I see a need to call out when we deviate from them or require common acceptance that we should do so as to establish how it ought to be done next time.
+::::::::: Kosher = ritually clean (or simply clean) since we give copyvio 7 days to contest as we jumped that stage it was clearly not the required process. This ultimately lead to the undeletion process being initiated by QU (the better option would have been to undelete and start a deletion discussion) that's the point I'm attempting to pass (considering the specific content and contributor).  --[[User:Panic2k4|Panic]] ([[User talk:Panic2k4|discuss]] • [[Special:Contributions/Panic2k4|contribs]]) 12:24, 6 October 2014 (UTC)
+:::::::::: I know what the word ''kosher'' means.  I also know what ''bureaucracy'' means, and you're missing the point of what I said about it.  Bureaucracy is not inherently beneficial (despite your attempt to define it so), and too much of it is commonly referred to as ''red tape'', a very bad thing.  I'm saying you're too fond of it, which leads to red tape.  Two different admins have explained why leaving this copyvio lying around for a week would have been neither procedurally necessary, nor common-sensically appropriate, nor legally wise.
+:::::::::: Btw, the use of the word &quot;bureaucrat&quot; for a level of wiki privileges has no deep metaphysical significance; a set of privs was conceived, it needed a name, that name was assigne to it.  --[[User:Pi zero|Pi zero]] ([[User talk:Pi zero|discuss]] • [[Special:Contributions/Pi zero|contribs]]) 21:23, 6 October 2014 (UTC)
+
+::::::::: Wikibooks is policy light and has a large number of &quot;holes&quot; where discretion is required based on custom and practice. So, while [[WB:COPYVIO]] states that possible copyright violations get a week for the editor to prove they have permission it also states that the deletion policy for copyright can be found at [[Wikibooks:Copyrights]]. To anyone familiar with the way policies are worded this is clearly intended to mean that the policy that is directly relevant is [[Wikibooks:Copyrights]] and in the case of inconsistency I would tend to prefer the latter policy. At [[Wikibooks:Copyrights#Contributors.27_rights_and_obligations]] it makes it very clear that the importing of text is never permitted without proven permission - so the policy is violated as soon as the import occurs. It also does not state that there is a mandatory waiting period before deletion should occur. Indeed, as any copyright lawyer will tell you, declining to act as soon as a violation is detected makes the offence more serious. Turning to this specific case, this discussion is going all over the place and missing the point. All the editor needs to do is provide proof of ownership to an administrator's satisfaction. I was perfectly happy to do that before the editor decide that my contributions here were idiotic. This project has less than 3 active administrators who do anything outside of the occasional obvious vandalism delete or block. That puts the whole admin load on them (and it is usually me who is the only person here every day clearing up the spam). There also aren't any editors willing to do much to help other people. How many people are here keeping the class projects in order, restructuring all the new books when the pages get put in the wrong place, categorising pages, inserting reference lists, maintaining the subjects? None of those either - that's pretty much just me. And how many Reviewers are there dealing with the backlog of pending changes? Yes, that's me again. Don't believe it? Check [https://tools.wmflabs.org/xtools/adminstats/?project=en.wikibooks.org&amp;begin=2013-01-01&amp;end= here] to see who does 80% of the admin work. No surprise there's the occasional error, but when I mess something up, I apologise as anyone who has been here any length of time will know. [[User:QuiteUnusual|QuiteUnusual]] ([[User talk:QuiteUnusual|discuss]] • [[Special:Contributions/QuiteUnusual|contribs]]) 08:04, 6 October 2014 (UTC)
+
+:::::::::: Regarding &quot;It also does not state that there is a mandatory waiting period before deletion should occur.&quot; - all actions have a default 7 days period for opposition, be bold, that was later enshrined as a policy, empowers the deletion to occur but it shouldn't be used to force a position (shifting the discussion, or redefine the status quo), that has been the rule of thumb (with some few exceptions that have often lead to conflict). This time span for reaction, and proper order of action was even a topic of the discussion regarding the last process involving Mike Lifeguard IIRC.
+:::::::::: In relation to &quot;as any copyright lawyer will tell you, declining to act as soon as a violation is detected makes the offense more serious.&quot; the assertion is incorrect as you were not acting on a notice from the copyright owner, you were acting under your own suspicion (based on circumstantial evidences but nothing more) in that regard you are not moved above the considerations granted to the original contributor (as I said it is a conflict of opinion). Permitting a registered Wikibookian time to retort should be norm, even after the speedy the right course of action would be to undelete and gather consensus for the deletion. No rationalization can supplant the righteousness of the process, unless you diminish the considerations that should be granted to the initial contributor.
+:::::::::: In any case even if I agree with you that this subject may be closed (and of a minor importance) we should strive to keep up with the proper way of doing things as to avoid unnecessary escalation and alienating people. --[[User:Panic2k4|Panic]] ([[User talk:Panic2k4|discuss]] • [[Special:Contributions/Panic2k4|contribs]]) 12:28, 6 October 2014 (UTC)
+:::::::::::While accepting your point in principle re the &quot;proper way of doing things&quot; the reality is that there are not enough people willing to help in order to do this. For example, to follow a process like on Wikipedia of tagging every candidate for speedy deletion; warning every vandal four times before blocking; warning the creator of tagging pages and so on then it would be between 4 and 9 times as much work as it is today - and we barely stay on top of it as it is. The fact that there is a project to contribute at all that isn't stuffed full of spam and vandalism is down to a couple of local admins and the efforts of the global sysops / rollbackers. I came back from a 1 week vacation to find 400 pending changes, 50 pages of spam and a whole stack of vandalism that nobody had dealt with while I was away. I'm afraid there's a balance to find here between what we'd all like and the reality of the situation where nobody can be bothered to help.[[User:QuiteUnusual|QuiteUnusual]] ([[User talk:QuiteUnusual|discuss]] • [[Special:Contributions/QuiteUnusual|contribs]]) 13:57, 6 October 2014 (UTC)
+
+:::::::::::: Thanks for understanding part of it and I must point out that I did not go beyond regretting that you decided to start a precess for undeletion. I think that your deletion was right, even if you could have opted to tagg it, I understand the workload and even the validity of the analysis of the contributor.
+:::::::::::: One issue that goes beyond this discussion but run parallel to my opposition to lose speedy deletions, is that the general community hasn't access to any logs of what is deleted or way to oversee it (to my understanding, hope it is not out-of-date, not even admins can look into the content once deleted, it always requires an undeletion and then there seem to be a bug of name collisions, multiple pages deleted under the same name). Another is the way copyvio is often used to delete content (that only requires proper attribution) or as a way to expedite real discovery work and legalese.
+:::::::::::: I'm glad that we aren't Wikipedia but note that as I said those procedures exist in part (they seem excessive indeed) due to the complexity of the system (the number of actions and the need protect all parties). As for our lack of admins I guess that the problem is that we have raised our requirements for adminship a lot and on the other hand we have lost many committed Wikibookians, even the number of new projects/productivity has been diminishing there is also a relation to the times we are living...
+:::::::::::: PS: I do my bit when I can and be certain that I appreciate your work, it is also because I care that I participate.  --[[User:Panic2k4|Panic]] ([[User talk:Panic2k4|discuss]] • [[Special:Contributions/Panic2k4|contribs]]) 16:17, 6 October 2014 (UTC)
+
+::::::::::::: This is not a complicated situation.  The recipe was an unauthorized copy, therefore copyvio, speedily deleted.  Now that we know there's a copyright problem, we can't host it until and unless we establish in an iron-clad way that there's legal permission.  If we do establish that, we can host it.  Simple.  More than 90% of this thread is unnecessary; I'd estimate if Robert Dell had limited things to a polite, factual discussion the whole thing could have taken maybe 20 lines of text, 30 at the outside.  --[[User:Pi zero|Pi zero]] ([[User talk:Pi zero|discuss]] • [[Special:Contributions/Pi zero|contribs]]) 21:23, 6 October 2014 (UTC)
+
+::::::::::::::&quot;You will need to prove you own the copyright in order to add it to Wikibooks&quot;  If this is true then it's impossible for me to add anything I create to wikibooks as everything I create is automatically donated into the public domain (even THIS text).  The bureaucracy of wiki in this project AND other projects (undoing my edits for correctness about the Mahoning river which I live nearby in wikipedia for example) leads me to the one single conclusion that wiki is not good enough to have my content installed.  It's not that my content is not good enough for wiki, it's the other way around that wiki isn't good enough to have my content installed.  Do what you wish, keep it deleted or include it.  I provided you with enough information for you to determine the origin of the recipe is in fact me and there is no copyright I hold for that recipe so there can be no proof that I hold any copyright for something that has no copyright.  All I can do is prove that I originated the recipe and then donated it to the public domain.  All you have to do is look up the recipe in food.com and see (unloess you think I hacked that site in order to fake a notice for something that nobody will ever complain about).
+
+::::::::::::::Enjoy! [[User:Robert Dell|Robert Dell]] ([[User talk:Robert Dell|discuss]] • [[Special:Contributions/Robert Dell|contribs]]) 00:17, 8 October 2014 (UTC)
+
+::::::::::::::After checking the &quot;cc-by-sa license&quot;, I found out that &quot;public domain&quot; is incompatable with the wikipedia's &quot;cc-by-sa license&quot; simply because it is not copyrighted.  Under that and that alone, I hereby request that my contributions never be allowed into wikibooks (That is IF I am correct in my assumptions).[[User:Robert Dell|Robert Dell]] ([[User talk:Robert Dell|discuss]] • [[Special:Contributions/Robert Dell|contribs]]) 00:49, 8 October 2014 (UTC)
+
+::::::::::::::: That was badly worded, but it is valid on the context (under a copyvio dispute). In general you are correct PD is the absence of copyright and PD is compatible with relicensing (in fact you are relicensing PD content when you contribute it, under your ownership on Wikimedia projects). The issue of relicensing PD was what motivated the first wave of free licenses, that and to avoid profiteering.
+::::::::::::::: Can you provide a way anyone can verify that your account here is the same that posted the content ? (I haven't checked the site) One way would be that both accounts shared the same email, that would solve it...   --[[User:Panic2k4|Panic]] ([[User talk:Panic2k4|discuss]] • [[Special:Contributions/Panic2k4|contribs]]) 04:26, 8 October 2014 (UTC)
+::::::::::::::::just click [this link|http://www.food.com/recipe/raisin-cinnamon-yeast-doughnuts-518277] and you will go directly to the recipe at the site in question.  read the note (click more) and it will tell all.  I'm actually shocked nobody did this. [[User:Robert Dell|Robert Dell]] ([[User talk:Robert Dell|discuss]] • [[Special:Contributions/Robert Dell|contribs]]) 21:11, 18 October 2014 (UTC)
+
+We seem to be getting a little sidetracked here.
+
+QuiteUnusual vaguely alludes to &quot;specific instructions on how to provide evidence of ownership&quot;.
+If there is some specific instruction that you wish people would follow,
+it would help everyone if someone would post a direct link to that instruction.
+
+QuiteUnusual vaguely alludes to &quot;another website&quot; --
+are you perhaps referring to the recipe that Robert Dell posted to
+http://www.food.com/recipe/raisin-cinnamon-yeast-doughnuts-518277
+?
+That page now does in fact say ''&quot;Robert Dell's Note: ... I also hereby grant myself permission to post this recipe to wikibooks&quot;'', which as far as I can see is all the confirmation and verification that anyone in this thread has asked for.
+
+Robert Dell, many people will be surprised and skeptical to hear that that &quot;public domain&quot; is allegedly incompatible with the wikipedia's &quot;cc-by-sa license&quot;.
+The many people posting public-domain works at
+http://wikisource.org/
+and
+https://commons.wikimedia.org/
+see no such incompatibility -- those sites have the same &quot;cc-by-sa license&quot; as Wikibooks.
+
+Robert Dell, you may be surprised to learn that @ceoSteveJobs, @JPMorganCEO, @KimKierkegaardashian, @SeinfeldToday, and @Seinfeld2000 are not, in fact, Steve Jobs, Jamie Dimon, Kim Kardashian, Søren Kierkegaard, or Jerry Seinfeld.
+--[[User:DavidCary|DavidCary]] ([[User talk:DavidCary|discuss]] • [[Special:Contributions/DavidCary|contribs]]) 04:46, 9 October 2014 (UTC)
+:We have such a large problem with copyright violations in the Cookbook (I would estimate nearly 500 in the last two years, that there is a specific editnotice that reads &quot;If you are about to copy a recipe you found on the Internet then STOP NOW. You are about to commit a copyright violation and it WILL BE DELETED and you might be BLOCKED.&quot; Despite this the problem continues. The food.com site was where the receipe in question was copied from but the notice on it you are referring to was not in place when it was copied. On the &quot;how to prove&quot; question, it appears that the instructions aren't clear. The main guideline is at [[WB:DONATE]] but misses a couple of steps that are available in the Wikipedia equivalent and need to be included here - so I will update accordingly. [[User:QuiteUnusual|QuiteUnusual]] ([[User talk:QuiteUnusual|discuss]] • [[Special:Contributions/QuiteUnusual|contribs]]) 08:03, 9 October 2014 (UTC)
+
+=Deletion=
+{{shortcut|WB:RFD}}
+{{Requests for deletion/New deletion}}
+{{Requests for deletion/Deletion intro}}
+{{clear}}
+&lt;!-- New nominations go at the bottom of page --&gt;
+
+== [[US History/Vikings]] ==
+
+[[US History/European History#Viking Exploration of North America|Erik the Red and Leif Erikson]] are discussed in the section on European history. [[US History/Vikings#Eric &quot;the Red&quot; and his Children|Erik's other children]], and [[US History/Vikings#Snorri Sturluson|Snorri Sturluson]], seem irrelevant. [[User:Pittsburgh Poet|Pittsburgh Poet]] ([[User talk:Pittsburgh Poet|discuss]] • [[Special:Contributions/Pittsburgh Poet|contribs]]) 22:45, 26 May 2014 (UTC)
+
+: Are you nominating the whole page, or just two sections for deletion? Normally what to include or not in a book is decided through consensus by the book contributors on the book's or page's discussion page. --&lt;span style=&quot;font: bold 10pt 'courier new', comic, sans, ms;&quot;&gt;[[User:Darklama|&lt;font color=&quot;midnightblue&quot;&gt;dark&lt;/font&gt;]][[User_talk:Darklama|&lt;font color=&quot;green&quot;&gt;lama&lt;/font&gt;]]&lt;/span&gt; 01:41, 27 May 2014 (UTC)
+
+I am nominating the orphaned chapter US History/Vikings under the section ''Orphans'' in &quot;Discussion.&quot; I'll go to the book's discussion page, then. Thank you. [[User:Pittsburgh Poet|Pittsburgh Poet]] ([[User talk:Pittsburgh Poet|discuss]] • [[Special:Contributions/Pittsburgh Poet|contribs]]) 10:56, 30 May 2014 (UTC)
+:It's almost 4 years since the last contribution to that page (not sure how active other pages of the book are though) so you could make the edits as you see fit provided you explain your rationale in the Edit Summary.  The fact that the information is already included elsewhere in the book seems a good enough reason.--[[User:Xania|ЗAНИA]] [[Image:Flag_of_Estonia.svg|15px]][[User talk:Xania|&lt;sup&gt;talk&lt;/sup&gt;]] 20:29, 30 May 2014 (UTC)
+
+== [[Corset/Popular culture]] ==
+A virtually random and pointless list of women wearing a particular garment. What educational purpose could this serve? —[[User:Koavf|Justin (&lt;span style=&quot;color:grey&quot;&gt;ko'''a'''vf&lt;/span&gt;)]]&lt;span style=&quot;color:red&quot;&gt;❤[[User talk:Koavf|T]]☮[[Special:Contributions/Koavf|C]]☺[[Special:Emailuser/Koavf|M]]☯&lt;/span&gt; 17:35, 31 August 2014 (UTC)
+
+[[File:Symbol keep vote.svg|15px|alt=|link=]] '''Keep''' - The list is on topic and serves a purpose inside the work it belong to, this is not Wikipedia.  --[[User:Panic2k4|Panic]] ([[User talk:Panic2k4|discuss]] • [[Special:Contributions/Panic2k4|contribs]]) 22:46, 1 September 2014 (UTC)</text>
+      <sha1>22wcbyggy3idirbceihoygo86el5orv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Requests for undeletion</title>
+    <ns>4</ns>
+    <id>387</id>
+    <redirect title="Wikibooks:Requests for deletion" />
+    <revision>
+      <id>1826763</id>
+      <parentid>1826303</parentid>
+      <timestamp>2010-06-06T23:15:43Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <comment>redirect to [[Wikibooks:Requests for deletion#Undeletion]]</comment>
+      <text xml:space="preserve">#REDIRECT[[Wikibooks:Requests for deletion#Undeletion]]</text>
+      <sha1>s3fmeve5rweeunhysx9qokeiuowel9a</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks talk:Requests for undeletion</title>
+    <ns>5</ns>
+    <id>388</id>
+    <redirect title="Wikibooks talk:Requests for deletion" />
+    <revision>
+      <id>1826713</id>
+      <parentid>1659320</parentid>
+      <timestamp>2010-06-06T22:28:38Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <comment>redirect to [[Wikibooks talk:Requests for deletion]]</comment>
+      <text xml:space="preserve">#REDIRECT[[Wikibooks talk:Requests for deletion]]</text>
+      <sha1>2bxjjoofnxvn7g6vv5jj6q2hv9kzeod</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Protected page</title>
+    <ns>4</ns>
+    <id>392</id>
+    <revision>
+      <id>2357382</id>
+      <parentid>2357381</parentid>
+      <timestamp>2012-05-29T17:06:06Z</timestamp>
+      <contributor>
+        <username>Liam987</username>
+        <id>582918</id>
+      </contributor>
+      <comment>/* Types and levels of page protection */ anchors for links</comment>
+      <text xml:space="preserve">{{policy|WB:PP|WB:PROTECT}}
+{{Branch unstable}}
+
+[[Wikibooks]] [[Wikibooks:Administrators|Administrators]] have the ability to &quot;protect&quot; pages such that editing of those pages is restricted. This ability is only to be used in limited circumstances, as described in this policy.
+
+==Appropriate use==
+This ability is used semi-permanently in some cases:
+* Protecting the highly visible pages like [[Main Page]] from [[WB:DWV|vandalism]].
+* Maintaining the integrity of the [[Wikibooks:Copyright|copyright]] and [[WB:GFDL|license]] pages.
+* Protecting certain ''&quot;system administration&quot;'' pages.
+* Maintaining the integrity of past press releases. (not needed yet)
+
+This ability is also intended to be used temporarily in some cases:
+* Enforcing a &quot;cool down&quot; period to stop an edit war, upon request (see below).
+* Protecting a page that has been a recent target of ''persistent'' vandalism or ''persistent'' edits by a banned user.
+* Preventing changes to a page while investigating a possible bug.
+
+Admins should not protect pages when they have been involved in the edit war in question (either by actively editing the page or by holding strong opinions about the content). Administrative tools are not editor privileges - administrators act as servants to the user community at large. If you are an admin and you want a page in an edit war in which you are somehow involved to be protected, you should contact another admin and ask them to protect the page for you.
+
+In general, pages should not be left protected for very long, and discussion pages should be left open. Indefinite page protection should almost ''never'' be used.
+
+==Types and levels of page protection==
+;Levels of protection
+#Full protection{{anchor|full}}
+#:Only administrators may make changes
+#Semi protection{{anchor|semi}}
+#:Users must wait until autoconfirmed to make changes
+
+;Types of protection
+#Create protection{{anchor|create}}
+#:Restricts page ''creation''
+#Edit protection{{anchor|edit}}
+#:Restricts page ''editing''
+#Move protection{{anchor|move}}
+#:Restricts page ''moving''
+#Cascading protection{{anchor|cascade}}
+#:Can only be used with full edit and move protection. This protects the page, and all pages transcluded into it, and all images used on it (if they are local).
+
+Administrators can also edit [[MediaWiki:Titleblacklist]], which can [[mw:Extension:Title blacklist|block]] uploads, edits, page move, and page creation matching [[w:regex|regex]] entries.
+
+== Editing protected pages ==
+
+Administrators should be cautious in editing semi-permanently protected pages, and do so in accordance with consensus and any specific guidelines on the subject. In many cases it is appropriate for an administrator to first raise the issue on the relevant talk page, as any other user would have to do.
+
+In cases of temporary page protection, administrators should refrain from editing pages while they are protected. They ''should not'' continue editing content while people with different points of view who are not admins are unable to do so. There are, however, a few times when it maybe appropriate to edit such a page:
+* Adding a link to [[Wikibooks:Accuracy dispute]] or [[Wikibooks:NPOV dispute]], or a similar disclaimer about the current state of a page.
+* Reverting to an old version of the page from a week or so before the controversy started (see [[m:The Wrong Version|The Wrong Version]])
+
+== List of temporarily protected pages ==
+*[[Special:ProtectedPages]] provides a dynamic list of protected pages.
+*For create-protected pages, see [[Special:ProtectedTitles]].
+
+
+{{Wikibooks policies and guidelines}}
+
+[[es:Wikilibros:Protected page]]
+[[ja:Wikibooks:保護の方針]]</text>
+      <sha1>8t3k0b6ypa61kc71lzvm7kfyjqkoxe4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Beginning C</title>
+    <ns>0</ns>
+    <id>395</id>
+    <revision>
+      <id>2514166</id>
+      <parentid>2403061</parentid>
+      <timestamp>2013-04-18T12:12:53Z</timestamp>
+      <contributor>
+        <username>Boivie</username>
+        <id>11849</id>
+      </contributor>
+      <comment>/* Your First Program */ color for the code</comment>
+      <text xml:space="preserve">{{mergeto|C Programming}}
+
+
+Like most programming languages, C is able to use and process named variables and their contents. Since C is a low-level programming language, it is necessary for a C program to claim the memory needed to store variables before using the memory. This is done by '''defining''' variables, the way in which a C program shows the number of variables it needs and what they are going to be named.
+
+Within the C programming language, when we manage and work with variables, it is important for us to know the ''type'' of our variables and the ''size'' of these types. This is because C is a sufficiently low-level programming language that these aspects of its working can be hardware specific.
+
+'''All''' variables in C are typed.
+
+== Your First Program ==
+Your first program, like in every other language, is going to display the text, &quot;Hello World!&quot;  There is a problem, though: C does not have any input or output statements.  The solution: we must call a function to do the work.  This is called ''printf'' and is implemented in the standard C library.
+
+In C, functions are defined in ''headers'', which have an extension of ''*.h''.  (You will learn that the same is true in C++.)  These header files are imported into your code with the preprocessing directive ''#include''.  This statement essentially cuts and pastes the functions into your code.  (Yes, this is legal.  Don't worry about copyrights in this case.)
+
+Here is how to use an #include directive to get the ''printf'' function, which is in the ''&lt;stdio.h&gt;'' header:
+&lt;syntaxhighlight lang=&quot;c&quot;&gt;
+ #include &lt;stdio.h&gt;
+&lt;/syntaxhighlight&gt;
+Good!  You have the ''printf'' function, as well as many others that do input, output and the like.  Now, it is time to code!
+
+C programs start with a function called ''main''.  In programming terms, this is called the ''entry point'' of the program.  Since the C program is fairly simple, this will be the only function we will write.
+
+To start the function, type the following code:
+&lt;syntaxhighlight lang=&quot;c&quot;&gt;
+ int main(void) {
+&lt;/syntaxhighlight&gt;
+The int specifies that the function will return an integer.  This will be the program's exit code.  Main is the name of the entry point function, and the parentheses surround the ''parameters'' of the program.  You do not want parameters in this program, but future programs will possibly use this to get command line arguments.
+
+The open bracket means that the function's code is starting here.
+
+Inside the function, type the following code:
+&lt;syntaxhighlight lang=&quot;c&quot;&gt;
+  printf(&quot;Hello, World!&quot;);
+  return 0;
+ }
+&lt;/syntaxhighlight&gt;
+The first line is a function call.  ''printf'' is the name of the function, and like in ''main'', the parentheses surround the arguments.  &quot;Hello, World!&quot; is a ''string'', which is a bunch of text surrounded by quotes.
+
+All statements, whether they are declarations, function calls or another type, end in semicolons.  This is like a period in an English sentence.  ''return 0;'' ends the function and gives a return value.  The value of 0 means that everything went okay.  Finally, the } ends the function.
+
+Your code should look like this:
+&lt;syntaxhighlight lang=&quot;c&quot;&gt;
+ #include &lt;stdio.h&gt;
+ 
+ int main(void) {
+  printf(&quot;Hello, World!&quot;);
+  return 0;
+ }
+&lt;/syntaxhighlight&gt;
+Compile this, and enjoy!!
+
+== Simple C types ==
+
+In C, there are a small key set of types. The rest are modifiers, arrays and other such low-level data structures. The keywords for these types are '''&lt;tt&gt;int&lt;/tt&gt;''', '''&lt;tt&gt;char&lt;/tt&gt;''' and '''&lt;tt&gt;float&lt;/tt&gt;'''.
+
+When we wish to store an integer, we use an integer type. The C name for this type is called &lt;tt&gt;int&lt;/tt&gt;. Ints usually require 4 bytes per variable. 
+
+When we wish to store a single character or byte, we use a character type. The C name for this type is called &lt;tt&gt;char&lt;/tt&gt;. Chars always use one byte each.
+
+When we wish to store a floating-point (non-integer) value, we use either a single precision or a double precision floating point type. For single precision, C terms this type &lt;tt&gt;float&lt;/tt&gt;. For double, &lt;tt&gt;double&lt;/tt&gt;. Variables of type &lt;tt&gt;float&lt;/tt&gt; usually use 4 bytes of memory and those of type &lt;tt&gt;double&lt;/tt&gt;, 8.
+
+There is no fundamental predefined string type in C. Strings in C are more complicated (they are ''arrays'' of chars), requiring manual handling, and we will deal with them later.
+
+== Other type keywords ==
+
+'''&lt;tt&gt;long&lt;/tt&gt;''' is a type specifier for numeric variables (those of type &lt;tt&gt;int&lt;/tt&gt; or type &lt;tt&gt;double&lt;/tt&gt;) which (possibly) allocates more memory for the variable, allowing it to contain and process larger numeric values than usual. Some C implementations allow this modifier to be used twice ('&lt;tt&gt;long long&lt;/tt&gt;') to define even larger variables. However, this is not in standard C, unless you use the 1999 standard (which currently (2003) has very meager support by implementations.)
+
+'''&lt;tt&gt;short&lt;/tt&gt;''' is a type specifier that may only be applied to derivatives of &lt;tt&gt;int&lt;/tt&gt;. This might allocate less memory than a normal ''int''.
+
+'''&lt;tt&gt;signed&lt;/tt&gt;''' is a type specifier which explicitly allows a variable to have either positive or negative values at the expense of a smaller possible range of values. By default all variables in a C program are defined as 'signed' variables (except for &lt;tt&gt;char&lt;/tt&gt;, which is either signed or unsigned by default.)
+
+'''&lt;tt&gt;unsigned&lt;/tt&gt;''' is a type modifier which allows a variable to only have nonnegative values (zero or greater). However, it allows a range of values twice as large as that of the equivalent &lt;tt&gt;signed&lt;/tt&gt; variable.
+
+When &lt;tt&gt;long&lt;/tt&gt;, &lt;tt&gt;short&lt;/tt&gt;, &lt;tt&gt;signed&lt;/tt&gt; or &lt;tt&gt;unsigned&lt;/tt&gt; are used without specifying a base type, the type is &lt;tt&gt;int&lt;/tt&gt;. In some cases you can get away with using absolutely no keywords, but this is considered bad style, and is invalid in the 1999 standard (&quot;C99&quot;).
+
+'''&lt;tt&gt;register&lt;/tt&gt;''' is a hint to the compiler to attempt to optimise the storage of the given variable by storing it in a register of the computer's CPU when the program is run. Most modern optimising compilers do this anyway, so use of this keyword is often unnecessary.
+
+'''&lt;tt&gt;volatile&lt;/tt&gt;''' is a special type modifier which informs the compiler that the value of the variable may be changed by external entities other than the program itself. This is necessary for certain programs compiled with optimisations - if a variable were not defined &lt;tt&gt;volatile&lt;/tt&gt; then the compiler may assume that certain operations involing the variable were safe to optimise away when in fact they aren't.
+
+'''&lt;tt&gt;const&lt;/tt&gt;''' specifies that the variable may not be modified.
+
+Arrays could be considered an extension of an existing variable's type: arrays cannot exist as a type on their own but act just to extend an existing variable. An array applied to a variable implies not a single variable but a series of variables of a single type indexed by integers starting from zero. The characters used to indicate an array are '[&lt;var&gt;x&lt;/var&gt;]' where '&lt;var&gt;x&lt;/var&gt;' is the number of variables in the series. For example, a single integer variable would be defined by &lt;tt&gt;int&lt;/tt&gt;, but an array (series) of seven integer variables could be defined by &lt;tt&gt;int[7]&lt;/tt&gt;. Assuming this variable had the name &lt;var&gt;a&lt;/var&gt;, the individual integer variables could be accessed as &lt;tt&gt;a[0]&lt;/tt&gt;, &lt;tt&gt;a[1]&lt;/tt&gt;, &lt;tt&gt;a[2]&lt;/tt&gt; and so on until &lt;tt&gt;a[6]&lt;/tt&gt;. The integer used to index the series of variables is also known as a ''subscript''.
+
+== Declaring variables ==
+
+All type declarations using the above simple types follow a standard format
+:&lt;tt&gt;type_name variable_name&lt;/tt&gt;
+where &lt;tt&gt;type_name&lt;/tt&gt; represents one of the C type names, and variable name a generic name for the variable. 
+
+For example, if we want to declare a variable called &lt;tt&gt;number&lt;/tt&gt; and of type &lt;tt&gt;int&lt;/tt&gt;, we write
+:&lt;tt&gt;int number;&lt;/tt&gt;.
+
+In C, all declarations are terminated by semicolons. If we wish to declare a number of variables of the same type, we can write
+:&lt;tt&gt;int variable1, variable2, variable3;&lt;/tt&gt;
+which delcares all &lt;tt&gt;variable1&lt;/tt&gt;, &lt;tt&gt;variable2&lt;/tt&gt;, and &lt;tt&gt;variable3&lt;/tt&gt; to be of type integer.
+
+== Control structures ==
+C is an imperative language, that is it requires a sequence of steps to be followed in order to solve a problem. 
+
+We will need certain C constructs in order to achieve a certain result; we will need to make ''decisions'' and to perform steps over and over again in a certain way, ''iteration''.
+
+=== Decisions ===
+Decisions are important to programming. When we want to consider different actions for different values, we need to make a decision. For example, say if we are writing a program to calculate the square root of a number. C does not contain capabilities to calculate the square root of negative numbers. So we wish to make a decision to return an error message if we get a negative number, and to calculate the square root otherwise. 
+
+C provides two ''main'' capabilities of making decisions:
+* &lt;tt&gt;if..else&lt;/tt&gt;
+* &lt;tt&gt;switch&lt;/tt&gt;
+
+==== if and else ====
+The &lt;tt&gt;if..else&lt;/tt&gt; construct allows us to make a ''binary'' decision, that is, a decision that can go two ways (binary) -- one way or the other.
+
+We write this construct:
+ if (''condition'')
+ {
+  ''statements''
+ }
+ else
+ {
+  ''statements''
+ }
+
+
+If there is only one statement, the braces may be removed.
+
+==== switch ====
+The &lt;tt&gt;switch&lt;/tt&gt; construct allows us to make a decision based upon an expression and multiple possible values for it.
+
+The construct is written:
+ switch (''expression'')
+ {
+   case expression_1:
+     ''statements''
+     break;
+
+   /* more case statements if desired */
+
+   default:
+     ''statements''
+     break;
+
+ }
+
+When the &lt;tt&gt;switch&lt;/tt&gt; statement is encountered, the value of the expression given as an argument is calculated. The calculated value is then compared with each of the subsequent expressions given as arguments to the 'case' statements in order. If the value of the &lt;tt&gt;switch&lt;/tt&gt; expression matches that of a &lt;tt&gt; case&lt;/tt&gt; expression, the statements subsequent from the corresponding &lt;tt&gt;case&lt;/tt&gt; statement are executed until the &lt;tt&gt;break&lt;/tt&gt; statement.
+
+If the value of the &lt;tt&gt;switch&lt;/tt&gt; expression is not equal to any of those of the &lt;tt&gt;case&lt;/tt&gt; statements, the statements between the &lt;tt&gt;default&lt;/tt&gt; statement and its corresponding &lt;tt&gt;break&lt;/tt&gt; statement are executed.
+
+=== Iteration ===
+
+&lt;!-- Unlike some strict functional programming languages which require all looping to be done by recursion, --&gt; 
+C has a number of control structures to perform iteration:
+
+* &lt;tt&gt;while&lt;/tt&gt; loops
+* &lt;tt&gt;for&lt;/tt&gt; loops
+* &lt;tt&gt;do..while&lt;/tt&gt; loops
+
+{{Subjects|C programming language}}
+{{alphabetical|B}}
+{{status|0%}}</text>
+      <sha1>hhboaesy5xwn3nqld77r83ljif8t5ug</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Dysprosia</title>
+    <ns>2</ns>
+    <id>396</id>
+    <redirect title="User talk:Dysprosia" />
+    <revision>
+      <id>152556</id>
+      <parentid>25330</parentid>
+      <timestamp>2004-04-13T07:09:39Z</timestamp>
+      <contributor>
+        <username>Dysprosia</username>
+        <id>32</id>
+      </contributor>
+      <minor />
+      <comment>#REDIRECT [[User talk:Dysprosia]]</comment>
+      <text xml:space="preserve">#REDIRECT [[User talk:Dysprosia]]</text>
+      <sha1>8zgrhdszen9jlw6yrxiwb6f8fxfcs9l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Algebra/Arithmetic/Numerical Axioms</title>
+    <ns>0</ns>
+    <id>403</id>
+    <revision>
+      <id>2053319</id>
+      <parentid>1493042</parentid>
+      <timestamp>2011-02-22T03:00:38Z</timestamp>
+      <contributor>
+        <username>Avicennasis</username>
+        <id>314063</id>
+      </contributor>
+      <minor />
+      <comment>clean up, typos fixed: E.g, → E.g., using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">{{Algebra Page}}
+
+== Numerical Axioms ==
+
+It is possible to define a regular set of numbers in a formal fashion. The set of ''Peano axioms'' define the series of numbers known as the natural numbers. They are as follows:
+
+&lt;blockquote style=&quot;padding: 1em; border: thin solid purple;&quot;&gt;
+# There is a whole number 0.
+# Every natural number ''a'' has a successor, denoted by ''a'' + 1.
+# There is no natural number whose successor is 0.
+# Distinct natural numbers have distinct successors: if ''a'' &lt;&gt; ''b'', then ''a'' + 1 &lt;&gt; ''b'' + 1.
+# If a property is possessed by 0 and also by the successor of every natural number it is possessed by, then it is possessed by all natural numbers.
+&lt;/blockquote&gt;
+
+Let us attempt to motivate these axioms. We want these axioms to eliminate any set which is not the natural numbers. E.g., any set fulfilling the above should at least be infinite.
+
+The first two are obvious properties of the natural numbers (and of integers) as we know them. Note that some prefer to use 1 as the lowest number. The reason for choosing zero has root in [set theory], in which the first natural number is chosen as the empty set &lt;math&gt;\emptyset&lt;/math&gt;. 
+
+The 3rd axiom prevents circularity. If this axiom was not included, defining &lt;math&gt;0 + 1 = 0&lt;/math&gt; would trivially fulfill the remaining axioms --- prove this for yourself by considering each remaining axiom!
+
+The 4th prevents a partial loop. Consider a the set &lt;math&gt;\{0,1\}&lt;/math&gt; and set &lt;math&gt;0+1=1&lt;/math&gt; and &lt;math&gt;1+1=1&lt;/math&gt;. This set fulfills every axiom but the 4th --- prove this for yourself.
+
+The 5th is sometimes called the induction axiom. It ensures that the set is ''connected'', i.e. that we can reach any number by using the 2nd axiom repeatedly on 0. An example of a set that fulfills every axiom but the 5th is &lt;math&gt;\left\{0, \frac{1}{2}, 1, \frac{3}{2}, \dots\right\}&lt;/math&gt; with the usual meaning of +1. 
+
+
+From this we can deduce the existence of a series of quantities like this:
+
+*0
+*0 + 1
+*0 + 1 + 1
+*0 + 1 + 1 + 1
+*0 + 1 + 1 + 1 + 1
+*0 + 1 + 1 + 1 + 1 + 1
+*and so on
+
+where '0' is a constant and the first natural number and '1' is a constant natural number equivalent to the difference in value between two consecutive natural numbers.
+
+This set is sufficient for counting. However, it is inconvenient to refer to a large natural number as '0' followed by the requisite large number of '+ 1' expressions. Due to this, each of the natural numbers is given a label, and to make the labelling easier another axiom is introduced:
+
+&lt;blockquote style=&quot;padding: 1em; border: thin solid purple;&quot;&gt;
+'0 + 1' is equivalent to '1'.
+&lt;/blockquote&gt;
+
+Thus the series of natural numbers may be written so for some brevity:
+
+*0
+*1
+*1 + 1
+*1 + 1 + 1
+*1 + 1 + 1 + 1
+*1 + 1 + 1 + 1 + 1
+*and so on
+
+Once this is done, giving each quantity its own label is trivial. And so the series of natural numbers can then be written:
+
+*0
+*1
+*2
+*3
+*4
+*5
+*and so on</text>
+      <sha1>khdap7kijcu1y9loc2w36va9c55xw90</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Discrete Mathematics</title>
+    <ns>0</ns>
+    <id>404</id>
+    <revision>
+      <id>2510764</id>
+      <parentid>2476793</parentid>
+      <timestamp>2013-04-09T05:35:29Z</timestamp>
+      <contributor>
+        <ip>68.2.230.149</ip>
+      </contributor>
+      <comment>sp</comment>
+      <text xml:space="preserve">Discrete mathematics is the study of mathematical structures that are fundamentally discrete rather than continuous.
+
+== Contents ==
+* [[/Introduction/]]
+__NOTOC__ __NOEDITSECTION__
+===Introductory discrete mathematics ===
+* [[/Set theory/]] &lt;!-- complete --&gt;
+* [[/Functions and relations/]] &lt;!-- complete --&gt;
+* [[/Number theory/]] &lt;!-- complete --&gt;
+* [[/Logic/]]
+* [[/Enumeration/]]
+* [[/Graph theory/]]
+* [[/Recursion/]]
+* [[/Semigroup/]]
+===Upper-level discrete mathematics===
+
+====Upper-level set theory ====
+*[[/Axiomatic set theory/]]
+*[[/Zermelo-Frankel Axioms/]]
+*[[/Topoi/]]
+&lt;!-- Axiom of choice should be in the above, unless a lot can be discussed about it --&gt;
+
+====Upper-level number theory====
+*[[/Number representations/]] &lt;!-- complete --&gt;
+*[[/Modular arithmetic/]]
+*[[/Polynomials/]]
+*[[/Finite fields/]]
+*[[/Arithmetic Functions/]]
+*[[/Analytic Number Theory/]]
+
+====Upper-level logic====
+*[[/Godel's incompleteness theorem/]]
+*[[/Second order logic/]]
+
+====Upper-level Combinatorics====
+
+&lt;!-- [[/Elementary theorems/]]--&gt;
+
+=== Abstract algebra ===
+==== Abstract algebraic systems ====
+* [[Abstract Algebra/Group Theory|Groups]]
+* [[Abstract Algebra/Lattice theory|Lattice theory]]
+* [[Abstract Algebra/Matroids|Matroids]]
+* [[Abstract Algebra/Boolean algebra|Boolean algebra]]
+* [[Abstract Algebra/Category theory|Category theory]]
+
+==== Algebra over other number systems====
+* [[Abstract Algebra/Hypercomplex numbers|Hypercomplex numbers]]
+* [[Abstract Algebra/Rings|Rings, fields and modules]]
+
+=== Others ===
+* [[/Combinatory logic/]]
+* [[/Languages and grammars/]]
+
+=== Automata ===
+* [[/Finite state automata/]]
+* [[/Pushdown automata/]]
+* [[/Turing machines/]]
+* [[/Cellular automata/]]
+
+=== Further problems===
+* [[/Selected problems/]]
+
+===Unordered pages===
+* [[/Axiom of choice/]]
+* [[/Naive set theory/]]
+* [[/Sieve of Eratosthenes/]]
+
+{{wikipedia}}
+
+{{Subjects|Discrete mathematics|University level mathematics books}}
+{{Alphabetical|D}}
+{{status|50%}}
+
+[[fi:Diskreetti matematiikka]]</text>
+      <sha1>gsikxnz58gqgpfettp8q4yjxpjxw1z8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Discrete Mathematics/Introduction</title>
+    <ns>0</ns>
+    <id>405</id>
+    <revision>
+      <id>2379605</id>
+      <parentid>2379385</parentid>
+      <timestamp>2012-07-19T21:31:33Z</timestamp>
+      <contributor>
+        <username>Recent Runes</username>
+        <id>66908</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/Jack the Leprechaun|Jack the Leprechaun]] ([[User talk:Jack the Leprechaun|talk]]) to last version by The enemies of god</comment>
+      <text xml:space="preserve">Mathematics can help you solve many problems by training you to think well.  This book will help you think well about '''discrete''' problems: problems like chess, in which the moves you make are exact, problems where tools like [[calculus]] fail because there's no continuity, problems that appear all the time in games, puzzles, and computer science.
+
+We hope you'll enjoy discovering discrete mathematics here, and we hope you'll find this a good reference for quickly picking up the details you'll forget with time.
+
+[[../Set theory/]] &gt;
+
+----
+&lt;small&gt;Notice to contributors: If you wish to contribute images of any kind that contains labels, please use the Arial font, italic, at 16pts for consistency.&lt;/small&gt;
+
+{{BookCat}}</text>
+      <sha1>nmts5kasy3qjxx1ky1v42x60u1yzplp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Dysprosia/Archive</title>
+    <ns>3</ns>
+    <id>406</id>
+    <revision>
+      <id>998371</id>
+      <parentid>152563</parentid>
+      <timestamp>2007-10-10T13:09:17Z</timestamp>
+      <contributor>
+        <username>Darklama</username>
+        <id>7662</id>
+      </contributor>
+      <minor />
+      <comment>minor tweaks in preparation of WB:SL move</comment>
+      <text xml:space="preserve">'''I will not be here from the 23rd of December to the 26th of January.'''
+----
+Hello and Welcome! You might be interested in checking out [[Help:Textbook planning|Textbook planning]] or the [[Wikibooks:Staff lounge|Staff lounge]]. --[[User:Maveric149|mav]] 06:32 3 Aug 2003 (UTC)
+
+: Thanks mav :) [[User:Dysprosia|Dysprosia]] 11:42, 19 Aug 2003 (UTC)
+
+Dysprosia: Don't want to sound rude, but your change on the [[Algebra I]] page isn't correct. A surd is not specifically a radical. More accurately, it's an irrational number-any irrational number. &lt;math&gt;\sqrt {3}&lt;/math&gt; is a surd and a radical, &lt;math&gt;\pi&lt;/math&gt; is a surd but not a radical...Surd is an outdated term anyway. Every Algebra I book I've ever seen calls them 'irrational numbers'.
+: [[User:Etothex|Etothex]] 01:21, 12 Sep 2003 (UTC)
+:Oh damn, you're right! I better go and fix all this. [[User:Dysprosia|Dysprosia]] 07:05, 12 Sep 2003 (UTC)
+----
+&lt;shamefaced&gt;Thanks for fixing all those multiple choice pages. I misspelled it once,never noticed, then copied and pasted it for all thew other pages (so I only had to change the numbers)&lt;/shamefaced&gt; [[User:Theresa knott|Theresa knott]] 11:47, 25 Sep 2003 (UTC)
+
+No problem :) [[User:Dysprosia|Dysprosia]] 12:08, 25 Sep 2003 (UTC)
+
+----
+Why are you changing all the page names in the German text and others? I was not aware that we had settled on a style and I prefer spaces (i.e. German: Lesson 1) as it reads better at the top of the page - [[User:Marshman|Marsh]] 09:20, 3 Nov 2003 (UTC)
+
+: It's convention by default, really - sorry if changing them upset you. If you look at how it's done in all other name spaces, such as User talk:, Wikibooks:, User:, there are no spaces between the colon and article name. 
+: Maybe I'm being pernickety and should just let others do their thing. Revert/move back if you prefer (with my apologies). [[User:Dysprosia|Dysprosia]] 11:25, 3 Nov 2003 (UTC)
+::I'll have to think about it. Not upset, but I had just finished changing over the few old way pages.  There was some discussion on standarding these things (Staff Lounge), but that has not gone too far. Don't you think it looks better at the top of each book page to have '''German: Lesson 1''' rather than '''German:Lesson 1''' (convention or not)? - [[User:Marshman|Marsh]] 17:00, 3 Nov 2003 (UTC)
+:::I don't really have a preference :) [[User:Dysprosia|Dysprosia]] 06:19, 4 Nov 2003 (UTC)
+
+----
+
+Dysprosia - Good working with you on the C book.  I'm using my experiences teaching at the university to guide my thinking, so I'll probably tend to be pretty retentive based on the common problems I see from my students.  But my main goal is to get a usable text book, and that transcends all other desires.  Good input - glad to be able to open source this!
+[[User:Maffu|Maffu]] 23:33, 10 Nov 2003 (UTC)
+----
+Thanks for the welcome. :) I just wander round here when I feel like a change from Wikipedia. [[User:Angela|Angela]]
+----
+Thanks for the welcome; I thought it would be a fun change.  :)  I think I have a lot to learn about what style is used here though, so I'm trying not to change too much at first. - [[User:Hephaestos|Hephaestos]] 01:28, 20 Nov 2003 (UTC)
+: Well, if you like, stick with Wikipedia style, but for math I use my own idiosyncratic variant lol - it's logical to me - but if others want to change it to conform to WP style I won't really argue with them :) [[User:Dysprosia|Dysprosia]] 03:41, 20 Nov 2003 (UTC)
+
+----
+
+== Style ==
+I like your teaching style (e.g., [[Discrete mathematics:Finite fields]]). It contains some casual questions and some transitions and comparisons. Very professional. Keep up the good work! --[[User:Menchi|Menchi]] 01:43, 27 Nov 2003 (UTC)
+
+: Thanks, it's kind of you to say so :) [[User:Dysprosia|Dysprosia]] 03:51, 27 Nov 2003 (UTC)
+
+
+
+----
+Dysprosia -
+Flushing buffers may not always work; but it does work for many applications and it resolves many troubles with beginning programmers.  The fflush() function is quite simple and allows new C coders the chance to work on other issues in their course instead of trying to figure out why scanf() doesn't seem to work right.  I know this because I've seen these students wrestle with it.  fflush() does the job.
+
+I'm willing to concede that further discussion is appropriate; however, deleting mention of this topic entirely is wrong -- students need to know where to begin their search for help.  If you insist on deleting this reference, I suggest that you either offer an alternative method or we seek additional ideas, because students need to know how to handle code that seems to bypass their scanf() calls.
+
+[[User:Maffu|Maffu]] 01:43, 29 Nov 2003 (UTC)
+
+: Some implementations/compilers of C will let you fflush(stdin) and have the behaviour as expected but it's not really legal C (check K&amp;R - fflush(stdin) is undefined) as you can only reliably fflush output streams. Have a look on the web too, many discourage fflush(stdin). fflush(stdin)'s behaviour is not portable, either. We should be emphasizing portability and legality - that's what makes good C programs.
+: The other way to have behaviour that will act like fflush(stdin) is to chuck characters away until a newline is reached, but this won't work for all situations. There's no real reliable way, otherwise.
+: I apologize if I was a little bull-headed in removing the reference, and I'll try and add a compromise in the text. [[User:Dysprosia|Dysprosia]] 04:43, 29 Nov 2003 (UTC)
+
+::I agree with most of what you say.  I personally would sacrifice portability for functionality at this level.  And K&amp;R is primarily a grammar reference for me; functional applications can't possibly be dictated in a language spec - there would be no way to cover all angles.  I haven't reviewed K&amp;R for this, but will shortly.  Unless the language explicitly forbids this type of application, I don't consider it &quot;illegal&quot; - although a caveat on portability would certainly be appropriate.
+:: I'm content with the wording you've inserted and appreciate the compromise.  I'm sure there is a &quot;proper&quot; method for clearing the buffer.  I'll try to find that method so that we can offer what the student needs.
+::[[User:Maffu|Maffu]] 04:51, 30 Nov 2003 (UTC)
+
+::: Ok, cool. By the way, K&amp;R doesn't explicitly forbid fflush(stdin), but undefined code is really ''never'' a good thing. [[User:Dysprosia|Dysprosia]] 06:51, 30 Nov 2003 (UTC)
+
+
+----
+
+==NPOV?==
+
+Hi there! Nice edit on [[Computer Programming]]... but one minor question.  Is the NPOV all that important on Wikibooks?  Sure, for history and govt, cultural stuff I'd understand, but we're talking technical stuff not ideological stuff right?  If our main goal is to teach, aren't we inevitably forced to have some POV and to do just a teensy weensy little bit of steering?  This is not a protest, but a minor ponder on the issue.  Best, -- [[User:Kowey|Kowey]] 17:01, 19 Dec 2003 (UTC)
+
+----
+-- You say we haven't discussed scope yet. We have, see Basic Concepts. [[User:Thunderbunny|Thunderbunny]] 01:20, 20 Dec 2003 (UTC)
+: Sorry, missed that. But there is a lot more that could be said about scope, but Ill be away for a while... [[User:Dysprosia|Dysprosia]]
+
+-- Okay. Sorry we had to have that editing war, but with regards to const vs. #define, const doesn't require any more memory accesses/register loading than #define. The compiler should find-and-replace each occurrence of the const with its value, just like #define does. And const obeys all the scope laws that #define doesn't. The K&amp;R seems to back me up on this.
+
+Also, it's definitely worth leaving all the stuff about unsigned, long, float and short in. Speaking as somebody with a lot of experience with embedded systems, there are lots of cases where having a floating-point variable that is one word in size would be useful. Also, unsigneds and longs are convenient when you need to express values that can't be represented with no qualifiers. [[User:Thunderbunny|Thunderbunny]] 02:56, 20 Dec 2003 (UTC)
+
+: That's okay :) I didn't know that about const, and if you have K&amp;R by your side, I believe you :) 
+: It would be nice if you mentioned that kinda stuff about unsigned and longs and such, to motivate/enforce their importance.
+: Thanks for your help in the C book! :) [[User:Dysprosia|Dysprosia]] 03:00, 20 Dec 2003 (UTC)
+----
+
+I have a question for you; I've noted that you are also involved in Wikipedia. After a quick search I noticed no entry for grape seed oil. While my grape seed oil document is currently a stub, should it be contributed? [[User:Dbroadwell|Dbroadwell]] 03:04, 22 Dec 2003 (UTC)
+
+: If you wish, you should, but you may need to rewrite or reword it appropriately first to match the article style. [[User:Dysprosia|Dysprosia]] 03:32, 22 Dec 2003 (UTC)
+
+:: Thought so. There is little hope of me writing it into a book, so that gives the freedom for annother to do so. It will take a bit more research. Thanks. [[User:Dbroadwell|Dbroadwell]] 05:05, 22 Dec 2003 (UTC)</text>
+      <sha1>4p2frg5o8abxp3xb1avd8zb3zquhsep</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Geoffrey</title>
+    <ns>3</ns>
+    <id>408</id>
+    <revision>
+      <id>152565</id>
+      <parentid>3716</parentid>
+      <timestamp>2003-09-30T00:21:58Z</timestamp>
+      <contributor>
+        <username>Lord Emsworth</username>
+        <id>131</id>
+      </contributor>
+      <text xml:space="preserve">Hi Geoffrey - Welcome to Wikibooks! --[[User:Maveric149|mav]] 06:38 3 Aug 2003 (UTC)
+
+:Where's the &quot;We hope you decide to stay. Look at the Sandbox and our editing hints...&quot;? :-) [[User:Geoffrey|Geoffrey]] 20:42 6 Aug 2003 (UTC)
+----
+Hey Geoffrey - what stuff have you written under other licenses that we could use on the textbook site ? -- [[User:Karl Wick|Karl Wick]]
+
+:Directly? Not much, off the top of my head - that statement was mainly for textbooks that wanted to be relicenced, if the other contributors put the same statement on their pages. Look at my [http://www.wikipedia.org/w/wiki.phtml?title=Special:Contributions&amp;target=Geoffrey Wikipedia contributions] if you need something, but most of the stuff that can be relicensed into textbooks is/will be my contributions here. I am voluntarily allowing relicensing of my edits under CCSA, etc.; if other people follow suit that would help. --[[User:Geoffrey|Geoffrey]] 03:49 7 Aug 2003 (UTC)
+----
+I have moved factor &amp; remainder theorem, Permutation and Combination and trigo to [[Algebra II]]. --[[User:Formulax|Formulax]] 09:38, 25 Sep 2003 (UTC)
+----
+To the user Geoffrey, Greetings.
+
+One has found the wisdom in the advice you have tendered. The link to &quot;Glossary&quot; has been amended to &quot;Civics Glossary&quot;.  -- [[User:Lord Emsworth|Lord Emsworth]] 29 September 2003.</text>
+      <sha1>towo0eizf3dfaw6w09fjp26msvnln37</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Quercusrobur</title>
+    <ns>2</ns>
+    <id>409</id>
+    <revision>
+      <id>152566</id>
+      <timestamp>2003-08-03T14:12:54Z</timestamp>
+      <contributor>
+        <username>Quercusrobur</username>
+        <id>51</id>
+      </contributor>
+      <text xml:space="preserve">[[en:User:Quercusrobur]]</text>
+      <sha1>nojl4i94pm1hsexh43ul7ek0a00rept</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

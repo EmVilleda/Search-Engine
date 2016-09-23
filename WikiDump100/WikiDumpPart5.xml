@@ -1,0 +1,677 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Cell Biology</title>
+    <ns>0</ns>
+    <id>75</id>
+    <revision>
+      <id>2596825</id>
+      <parentid>2159511</parentid>
+      <timestamp>2013-12-29T11:22:04Z</timestamp>
+      <contributor>
+        <username>Dirk Hünniger</username>
+        <id>343292</id>
+      </contributor>
+      <text xml:space="preserve">== Contents ==
+{{Print version}}
+{{PDF version}}
+
+[[File:Epithelial-cells.jpg|right|frame|Keratin in epithelial cells]]
+*Glossary and Guide
+*#[[/Glossary|Glossary Alphabetically]]
+*#[[/Glossary By Lesson| Glossary By Lesson]]
+*#[[/How to edit this book | How to edit this book]]
+
+=== Beginning Cell Biology ===
+
+*Introduction
+*#[[/Introduction/Introduction to Cell Biology | Introduction to Cell Biology]] {{stage short|100%|Jan 11, 2005}}
+*#[[/Introduction/What is living|What is living?]] {{stage short|75%|Jan 11, 2005}}
+*#[[/Introduction/What is a cell|What is a cell?]] {{stage short|75%|Jan 11, 2005}}
+*#[[/Introduction/Cell size|Size of cells]] {{stage short|75%|Jan 11, 2005}}
+*#[[/Introduction/The great ancestor|The Great Ancestor]] {{stage short|75%|Jan 11, 2005}}
+*#[[/Introduction/Cells Under Microscopes|Cells Under Microscopes]] {{stage short|25%|Jan 11, 2005}}
+*#[[/Introduction/The elements of life|Chemical elements necessary for life]] {{stage short|100%|Jan 11, 2005}}
+
+* Types of cells
+*#[[/Cell types/Prokaryotes|Prokaryotes]] {{stage short|100%|Jan 11, 2005}}
+*##[[/Cell types/Introduction to Bacteria|Bacteria]] {{stage short|75%|Jan 11, 2005}}
+*##[[/Cell types/Archaea|Archaea]] {{stage short|75%|Jan 11, 2005}}
+*#[[/Cell types/Eukaryotes|Eukaryotes]] {{stage short|100%|Jan 11, 2005}}
+
+* Preliminary Glimpse at Organelles
+*#[[/Organelles/Nucleus|Nucleus]] {{stage short|75%|Jan 11, 2005}}
+*#[[/Organelles/Mitochondria|Mitochondria]] {{stage short|100%|Jan 11, 2005}}
+*#[[/Organelles/Chloroplasts|Chloroplasts]] {{stage short|75%|Jan 11, 2005}}
+*#[[Cell Biology/Membranes|Membranes]] {{stage short|50%|Jan 11, 2005}}
+*#[[Cell Biology/Organelles|Other Organelles]] {{stage short|100%|Jan 11, 2005}}
+*#[[/Cell types/Plant cells|Unique Properties of Plant Cells]]
+
+* Preliminary Glimpse at Cytoskeleton
+*#[[/Cytoskeleton/Actin Filaments|Actin filaments]] {{stage short|75%|Jan 11, 2005}}
+*#[[/Cytoskeleton/Intermediate Filaments|Intermediate filaments]] {{stage short|75%|Jan 11, 2005}}
+*#[[/Cytoskeleton/Microtubules|Microtubules]] {{stage short|75%|Jan 11, 2005}}
+
+* Models for Cell Biology Research
+*#[[/Models/Introduction|How do we know how cells function]] {{stage short|50%|Jan 11, 2005}}
+*#[[/Models/E. coli|Escherichia coli]] {{stage short|50%|Jan 11, 2005}}
+*#[[/Models/Yeasts|Yeasts (Saccharomyces cerevisae)]] {{stage short|50%|Jan 11, 2005}}
+*#[[/Models/Worms|Worms (Caenorhabditis elegans)]] {{stage short|50%|Jan 11, 2005}}
+*#[[/Models/Flies|Flies (Drosophila melanogaster)]] {{stage short|50%|Jan 11, 2005}}
+*#[[/Models/Mice|Mice]] {{stage short|25%|Jan 11, 2005}}
+*#[[/Models/Plant|Cress (Arabidopsis thaliana)]] {{stage short|25%|Jan 11, 2005}}
+*#[[/Models/Human|Human]] {{stage short|25%|Jan 11, 2005}}
+
+*Cell division
+*#[[/Cell division/Cell cycle|Cell cycle]] {{stage short|100%|Jan 11, 2005}}
+*#[[/Cell division/Meiosis|Meiosis]] {{stage short|100%|Jan 11, 2005}}
+*#[[/Cell division/Mitosis|Mitosis]] {{stage short|100%|Jan 11, 2005}}
+*#[[/Cell division/Cell Mass and Growth Rate|Cell Mass and Growth Rate]] {{stage short|100%|Jan 11, 2005}}
+*Genes
+*#[[/Genes/Gene expression|Expression]] {{stage short|75%|Jan 11, 2005}}
+*#[[/Genes/Gene translation|Translation]] {{stage short|75%|Jan 11, 2005}}
+
+==Resources==
+{{wikiversity}}
+*[[wikipedia:Cell biology|Cell biology]] article at wikipedia
+*[[wikipedia:Category:Cell biology|Cell biology category]] at wikipedia
+*[http://www.ncbi.nlm.nih.gov:80/books/bv.fcgi?call=bv.View..ShowTOC&amp;rid=cooper.TOC&amp;depth=2  Cooper textbook] ''The Cell'' (online)
+*[http://www.ncbi.nlm.nih.gov:80/books/bv.fcgi?call=bv.View..ShowTOC&amp;rid=mcb.TOC Lodish textbook] ''Molecular Cell Biology'' (online)
+*[http://www.ncbi.nlm.nih.gov:80/books/bv.fcgi?call=bv.View..ShowTOC&amp;rid=cell.TOC&amp;depth=2 Alberts textbook] ''Molecular Biology of the Cell''  (online)
+*[http://www.cellsalive.com/toc.htm CellsAlive animations]
+*[http://actomyosin.narod.ru/history/history.htm The History of Cell Biology]
+*[http://publications.nigms.nih.gov/insidethecell/index.html Inside the cell] - National Institute of General Medical Sciences
+*[http://www.ucmp.berkeley.edu/glossary/gloss4cell.html UCMP glossary]
+*[http://cellimages.ascb.org/cdm4/browse.php?CISOROOT=/p4041coll11 Landmark Papers in Cell Biology] Gall JG, McIntosh JR, eds. (online in The American Society for Cell Biology's [http://cellimages.ascb.org/ Image &amp; Video Library])
+*[http://www.textbooksfree.org/Biology%20Internet%20Library.htm Biology Internet Library] - has a cellular biology section.
+
+== Meta ==
+*[[Cell Biology/Authors]]
+
+{{Alphabetical|C}}
+{{Subjects|Cell biology}}
+{{status|50%}}
+
+[[bg:Клетъчна биология]]
+[[de:Biologie für Mediziner]]
+[[es:Biología celular]]
+[[fr:Biologie cellulaire]]
+[[ja:細胞生物学]]</text>
+      <sha1>sg1j9vy0lfm7o6sjjkeif1lo9ze8x50</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Modern Physics</title>
+    <ns>0</ns>
+    <id>76</id>
+    <revision>
+      <id>2393292</id>
+      <parentid>2393291</parentid>
+      <timestamp>2012-08-14T16:58:20Z</timestamp>
+      <contributor>
+        <ip>106.77.116.135</ip>
+      </contributor>
+      <comment>/* Table of contentss */</comment>
+      <text xml:space="preserve">{{ModernPhysicsTOC}}
+== Table of contents ==
+__NOTOC__
+*[[Modern Physics/Introduction|Introduction]]
+*[[Modern Physics/For Contributors|Note For Contributors]]
+*[[Modern Physics/Page List|Page List]]
+
+== Books and chapters ==
+
+*[[Waves]] 
+*[[Mechanics]] 
+*[[Special Relativity]] 
+*[[Quantum Mechanics]] 
+*[[/Gravity/]] 
+*[[Electrodynamics|Electromagnetism]]
+*[[Thermodynamics]]
+*[[Nuclear Physics]]
+
+=== Appendices ===
+
+*[[/Constants/]]
+*[[Modern Physics/Table of nuclides|Table of nuclides]]
+
+{{Subjects|Physics}}
+{{alphabetical|M}}
+{{status|100%}}
+
+[[el:Σύγχρονη Φυσική]]</text>
+      <sha1>ldc4g9aqdeu1g5pdov3zm6e6aqeskit</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Modern Physics</title>
+    <ns>1</ns>
+    <id>77</id>
+    <revision>
+      <id>1067553</id>
+      <parentid>820777</parentid>
+      <timestamp>2007-12-24T11:57:48Z</timestamp>
+      <contributor>
+        <username>Novakyu</username>
+        <id>3504</id>
+      </contributor>
+      <comment>/* Aim of text */</comment>
+      <text xml:space="preserve">I agree that this is a stunning piece of work! However, having found his email (raymond@kestrel.nmt.edu), I am loath to contact him personally. Perhaps we could construct a letter of appreciation and an invitation over here from all of us. Forgive me if I take the liberty of starting the ball rolling - I think it should include:
+*thanks for his work
+*request that we continue to publish it (just for politness sake, I know it's GNU FDL)
+*an invitation to visit Wikibooks, Wikipedia, Wikiversity etc. --[[User:Mark Lewis|Mark Lewis]] 23:55, 12 Jan 2005 (UTC)
+----
+
+This is great! Let's make sure we give this guy proper credit per the GNU FDL
+and also make him aware of what we are doing. [[User:Maveric149|Maveric149]]
+
+Hey Mav, there are more things like this one [http://www.opencursus.be/modules.php?name=Downloads here] with the GNU FDL license and everything .. I started one up for Cell Bio but there are many more to harvest. [[User:Karl Wick|Karl Wick]]
+----
+I've done an initial conversion of [http://kestrel.nmt.edu/~raymond/classes/ph13xbook/node11.html this page]:
+
+===Beats===
+
+Suppose two sound waves of different frequency impinge on your ear at the same time. The displacement perceived by your ear is the superposition of these two waves, with time dependence
+&lt;math&gt; A(t) = \sin ( \omega_1 t) + \sin ( \omega_2 t) = 2 \sin ( \omega_0 t) \cos ( \Delta \omega t) , &lt;/math&gt; (2.19)
+
+where we now have &lt;math&gt;\omega_0 = ( \omega_1 + \omega_2 )/2&lt;/math&gt; and &lt;math&gt;\Delta \omega = ( \omega_2 - \omega_1 )/2&lt;/math&gt;. What you actually hear is a tone with angular frequency &lt;math&gt;\omega_0&lt;/math&gt; which fades in and out with period
+&lt;math&gt;T_{beat} = \pi / \Delta \omega = 2 \pi / ( \omega_2 - \omega_1 ) = 1 / ( f_2 - f_1 ) . &lt;/math&gt; (2.20)
+
+The ''beat frequency'' is simply
+&lt;math&gt; f_{beat} = 1/T_{beat} = f_2 - f_1 . &lt;/math&gt; (2.21)
+
+Note how beats are the time analog of wave packets -- the mathematics are the same except that frequency replaces wavenumber and time replaces space.
+
+Is this generally acceptable? -- [[User:Jimregan|Jimregan]] 18:41 17 Jul 2003 (UTC)
+
+----
+Why don't you add other sections of your textbook here? I'm more interested in editing the more &quot;fun&quot; section than elementary wave theory/geometric optics.
+
+:Why don't you help out and add some other sections yourself.  [[User:Dgrant|dave]] 22:50, 11 Sep 2003 (UTC)
+
+----
+Do you realize the presence of a partially ported textbook which no one seems to bother to completely transfer is actually hampering the creation of a textbook? If you'd never thought of porting over a textbook, by now, I'm pretty sure we'd have more material!
+
+:Why don't you help out and add some other sections yourself.  [[User:Dgrant|dave]] 22:50, 11 Sep 2003 (UTC)
+
+
+----
+Two questions:
+
+# If we make changes to this textbook and the original author makes changes, there is no easy way to &quot;merge&quot; them like in CVS for example.  How complete is his work?  If it is 99% complete physics textbook then that's fine.  I guess we could also entice him to work on this &quot;fork&quot; of his textbook once we port it over.
+
+:We could try, but anyway I don't think it matters if they diverge.[[User:Theresa knott|Theresa knott]]
+
+# Should all the graphics be changed to have a white background?  The grey looks horrid.  [[User:Dgrant|dave]] 22:59, 11 Sep 2003 (UTC)
+:I agree, or why not make it transparent, that way if we ever change the colour of the page w wonlt have go and change all the graphics. [[User:Theresa knott|Theresa knott]]
+
+
+-----
+About TeX/HTML:
+
+Over at www.wikipedia.org, on a few articles I've helped out with, I've been pushing for italic HTML in the text regions, and TeX for indented formulas, so like the following:
+
+So, a great physicist proved that ''a = b + c'' except when ''e &lt; d''.  Here is the proof of that:
+
+:&lt;math&gt;a &lt; b,&lt;/math&gt;
+
+so,
+
+:&lt;math&gt;e + d + c + a &gt; b&lt;/math&gt;
+
+Sorry I was stumped for a good example.  Anyways, TeX in the text looks really bad, unless the PNG is made smaller by a future version of wikipedia.  [[User:Dgrant|dave]] 23:22, 11 Sep 2003 (UTC)
+
+----
+Great book ! I'll give a hand to porting it here. BTW, has anyone reached the author ? [[User:R|R]] 19:07, 13 Jan 2004 (UTC)
+----
+===Aim of text===
+
+Popped on over here from Wikipedia and couldn't help but check out the books in my field.  My question though is what type of course this is supposed to be a text for.  
+
+:None, specifically. Textbooks don't have to be tied to courses.  This text is based on http://kestrel.nmt.edu/~raymond/classes/ph13xbook/index.html. It should give an introduction to the basic principles and methods of physics, with emphasis on the underlying unity. [[User:Carandol|Carandol]]
+
+It seems like way too much material for one semester, but each chapter is too little material, too.  
+
+:That depends quite a bit on the university, and the country - one of the reasons why this text is not being tailored for a specific course. [[User:Carandol|Carandol]]
+
+Specifically, I'm looking at the Quantum Mechanics.  It looks like it's going to be on a level of what is usually (at the schools I've been at) called Quantum Physics, which is a second year undergraduate course.  But if it solves the Hydrogen atom (there's a Hydrogen Atom section at least),
+
+:The source text doesn't give a full solution. It uses the uncertainty principle to estimate the ground state. [[User:Carandol|Carandol]]
+
+then it looks like it's trying to be a text for a junior/senior-level Quantum Mechanics course, in which case it needs many more sections on Dirac notation, spin, angular momentum, the harmonic oscillator, path integrals, and maybe time-independent perturbation theory.  
+
+:I'd put all that into a separate undergraduate comprehensive QM book, which should also include time-dependant perturbations, scattering and quantum thermodynamics, everything short of postgrad. [[User:Carandol|Carandol]] 05:43, 3 Sep 2004 (UTC)
+
+The latter is the stuff I think is interesting and would be into working on.  So yeah, what is this textbook trying to be?  -Laura Scudder
+
+I got the same feeling as Laura above. If all the topics mentioned on [[Modern Physics]] covered with any reasonable depth, it should actually cover the full 4 year of physics major education (taking UC Berkeley as example, Intro (mere skimming surface, except for mechanics and E&amp;M) to each of those topics would cover the first 3 semesters (7A - C), Quantum mechanics would cover 137A and B, E&amp;M would cover 110A and B, Mechanics would cover 105. Nuclear physics and relativity (special and general) would cover a year (or two courses) of electives. The only thing it's missing is statistical mechanics and a lab course! I think [[Modern Physics]] needs to be clear (on the front page somewhere) regarding its aims, esp. whether it actually intends to cover all mentioned topics in depth (essentially forming what is comparable to Landau's course on theoretical physics), or whether it intends to simply give the student a quick taste of each without going into details.
+
+I'm making this request because people seem to be suggesting often that other advanced textbooks be merged into this project, and if this project doesn't intend to cover all these topics in depth (and essentially forming a *complete* physics education for physics majors) ... well, it should be clearly out in the open. [[User:Novakyu|novakyu]] ([[User talk:Novakyu|talk]]) 11:57, 24 December 2007 (UTC)
+
+== Thanks to Flonejek ==
+Flonejek, you are doing a great service in working on this book. It may not be overtly glamorous work at the onset but the result will be very helpful to many people. Thank you. --[[User:Karl Wick|Karl Wick]]
+
+Cool, thanks --[[User:Flonejek|flonejek]] 07:49, 22 Mar 2004 (UTC)
+
+---
+The various contents pages have some of the subsections in a different order to the source book.
+
+If we're keeping this as a single coherent course (even if possibly in multiple volumes) many of them will need returning to the original order, to preserve logical dependance.
+
+If we're going to convert the source book into a set of stand-alone books, most of the chapters will need considerably more expansion and some reordering.
+
+I'll do it the first way, unless anyone objects.  [[User:Carandol|Carandol]]
+---
+
+== I'm Back :) ==
+
+Had some tough times at school, but now i'm back, and hope to be making at least one edit/addition a week --[[User:Flonejek|flonejek]] 04:38, 24 Sep 2004 (UTC)
+
+:Be nice to have people editing this book. You may notice I've made some changes to some of the chapters, and added some extra material, both to reflect the previous changes in chapter order from the base text and to enhance the presentation of pysics as a subject with a underlying unity, not just a random collection of formulas.
+
+:This does mean that half the [[Modern Physics:Accelerated Reference Frames|chapter]] you just uploaded has already been incorporated into other chapters, and the the rest will need some revision, with 'Event horizons' being folded into it, that being rather a short chapter to stand alone and material that will work best closer to its diagram. :)
+
+:Since we're both working on this book, perhaps it'll be best if we both keep an eye on what the other is doing, to make sure the book retains its unity. [[User:Carandol|Carandol]] 06:17, 24 Sep 2004 (UTC)
+
+::Ok, I agree with that, especially the re-orientation away from a formula based text, I had a bit of a struggle understanding most of them myself. For now I'm going to read over whats been written already, and then I'll start adding/editing stuff again, mostly on weekends. I like the changes you made as well, though I might redraw a few of those diagrams in inkscape, at the moment they look a bit straggly. --[[User:Flonejek|flonejek]] 00:11, 26 Sep 2004 (UTC)
+
+:: Hey, I'd be quite keen to help out on some physics books here. I started by deriving the time-independent Shrôdinger equation and correcting a couple of mistakes in the Operators page. Is that cool or am I being a bit too formula-y? [[User:Spitvalve|Spitvalve]] 22:27, 12 October 2005 (UTC)
+
+== Another source ==
+
+Another source available is http://www.physicsforfree.com, which has three &quot;copyright free&quot; textbooks.  --[[User:Laurascudder|Laura Scudder]] | [[User talk:Laurascudder|Talk]] 02:27, 15 July 2005 (UTC)
+
+== Navigation Template ==
+
+I'm going to be doing alot of work and contributing to the electromagnetics section of this book, and I've created a handy template that (i think) we should employ throughout this book: {{tl|ModernPhysicsNav}}. This template creates a backlink to the main page if no arguments are provided, and it will provide a link to a section page if an argument is provided. More information about this template, and the way to use it can be found [[Template:ModernPhysicsNav|On the template page itself, HERE]]. --[[User:Whiteknight|Whiteknight]]&lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 14:11, 30 June 2006 (UTC)
+
+:It would take the same amount of time to rename a page to create automatic backlinks as it would using this template, so I personally don't see it as being needed.  What I find to be a lot more useful are links to the next chapter of a book, rather than back to the contents page. See {{tl|Chess/Navigation}} for an example. The format would be &lt;nowiki&gt;{{Modern Physics nav|previous subpage name|next subpage name}}&lt;/nowiki&gt; on the bottom of each page. --[[User:Hagindaz|hagindaz]] 07:00, 1 July 2006 (UTC)
+
+:I see it's already been added. Nevermind then! No need to redo everything. :) --[[User:Hagindaz|hagindaz]] 07:05, 1 July 2006 (UTC)
+
+::Sorry, I was a little hasty, perhaps. I got very frustrated very quickly by the lack of page navigation in this book. If you go to [[Modern Physics:Waves:Contents|The Waves Chapter]], you can see that people have already provided individual navigation templates for pages in an individual section. I propose that we extend that idea to cover each individual section in this book. --[[User:Whiteknight|Whiteknight]]&lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 13:36, 3 July 2006 (UTC)
+
+::As per your suggestion, Hagindaz, I'll edit the navigation template to optionally take 2 more parameters: A link to the previous page, and a link to the next page. In this way, we can add this kind of navigation on a per-page basis, if we want to, or let other navigation templates do the job, such as on the [[Modern Physics:Waves:Contents|Waves]] section. --[[User:Whiteknight|Whiteknight]]&lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 14:23, 3 July 2006 (UTC)
+
+:::I am in favour of each section of this book being written as a book in its own right. Published modern physics textbooks are usually 2 or more volumes with at least 1000 pages. Perhaps the template could be used in each subsidiary book ie: Quantum physics : Heisenberg uncertainty principle. rather than Modern physics: Quantum Physics: Heisenberg etc. Each template would have a link to the Modern Physics introductory page. [[User:RobinH|RobinH]] 14:42, 17 July 2006 (UTC)
+
+== Stub Template ==
+
+I created a specific template for use in marking stubs for this book: {{tl|ModernPhysicsStub}}. This template automatically puts all stub pages of this book into [[:Category:Modern Physics/Stubs]], which is a sub-category of [[:Category:Modern Physics]]. We can use this template and these categories to quickly find all stub pages in this book that require attention. --[[User:Whiteknight|Whiteknight]]&lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 17:42, 30 June 2006 (UTC)
+
+:Combined, here is a list of available templates and category designations that are specifically designed for use with this book:
+
+*[[Template:ModernPhysicsTOC]]
+*[[Template:ModernPhysicsNav]]
+*[[Template:ModernPhysicsStub]]
+*[[:Category:Modern Physics]]
+*[[:Category:Modern Physics/Stubs]]
+
+:All of these tools are explained on their respective module and talk pages. --[[User:Whiteknight|Whiteknight]]&lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 19:04, 30 June 2006 (UTC)
+
+== Contributors ==
+
+These people were listed as &quot;Contributors&quot; on the front page, but none of them have been active on wikibooks for at least 1 year (and in some cases much more). I have removed the names from the front page, therefore, and put them here. I don't think that we need to list contributors (especially not on the front page), but we could create a separate page for it (or a separate section on this talk page) if we really wanted to --[[User:Whiteknight|Whiteknight]]&lt;small&gt;([[User talk:Whiteknight|talk]]) ([[User:Whiteknight/Proposed Books|projects]])&lt;/small&gt; 19:24, 7 July 2006 (UTC)
+
+*[[User:Carandol|Carandol]] Has done the majority of the usability formatting, current main contributor
+*[[User:Flonejek|Flonejek]] Improved navigation and copied over a few chapters 
+:: I'm still in highschool, and as such this wikibook is a bit of a struggle for me to keep working on, mainly because its too complex for me and I'm too lazy to currently try and comprehend the next few chapters that need work... --[[User:Flonejek|flonejek]] 06:20, 28 Nov 2004 (UTC)
+*[[User:Frontier|Frontier]] Has written chapters for a number of sections
+*[[User:Hfs|Hfs]] ???</text>
+      <sha1>c7snohad7at7488ei0z1b75owi4qbyi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Linear Algebra</title>
+    <ns>0</ns>
+    <id>82</id>
+    <revision>
+      <id>2546700</id>
+      <parentid>2415012</parentid>
+      <timestamp>2013-07-31T15:17:46Z</timestamp>
+      <contributor>
+        <username>Fabartus</username>
+        <id>23543</id>
+      </contributor>
+      <comment>removed per talk discussion after 7 mos., 31 Jul 2013 {{Outdated}}</comment>
+      <text xml:space="preserve">__NOTOC__
+{{book title|Linear Algebra|An Introduction to Mathematical Discourse}}
+&lt;!-- removed per talk discussion after 7 mos., 31 Jul 2013 {{Outdated}} --&gt;
+{{ambox
+|type=notice
+|style=float:right;margin-left:10px;margin-right:0px;
+|textstyle=padding:5px;font-size:120%;line-height:120%;
+|small=left
+|text=This book requires that you are familiar with calculus.  This subject is covered by the wikibook [[Calculus]].}}
+{{Book search}}
+{{collection}}
+{{mbox-side|type=growth|image=Printer.svg|text=A printable version of [[Linear Algebra]] is available in two parts.  [[Linear Algebra/Print version/Part 1|Part&amp;nbsp;1]]&lt;sup&gt;[{{fullurl:Linear Algebra/Print version/Part 1|action=edit}} edit]&lt;/sup&gt; contains everything from the beginning of the book through Chapter III. [[Linear Algebra/Print version/Part 2|Part&amp;nbsp;2]]&lt;sup&gt;[{{fullurl:Linear Algebra/Print version/Part 2|action=edit}} edit]&lt;/sup&gt; contains everything from Chapter IV through the end of the book.}}
+
+The book was designed specifically for students who had not previously been exposed to mathematics as mathematicians view it.  That is, as a subject whose goal is to ''rigorously'' prove theorems starting from clear consistent definitions.  This book attempts to build students up from a background where mathematics is simply a tool that provides useful calculations to the point where the students have a grasp of the clear and precise nature of mathematics.  A more detailed discussion of the prerequisites and goal of this book is given in the introduction.
+
+== Table of Contents ==
+{{Algebra}}
+*[[Linear Algebra/Cover|Cover]]
+*[[Linear Algebra/Notation|Notation]]
+*[[Linear Algebra/Introduction|Introduction]]
+
+=== Linear Systems ===
+&lt;ol type=I&gt;
+&lt;li&gt;[[Linear Algebra/Solving Linear Systems|Solving Linear Systems]]{{stage|100%|Jul 13, 2009}}
+#[[Linear Algebra/Gauss' Method|Gauss' Method]] {{stage|100%|Jul 13, 2009}}
+#[[Linear Algebra/Describing the Solution Set|Describing the Solution Set]] {{stage|100%|Jul 13, 2009}}
+#[[Linear Algebra/General = Particular + Homogeneous|General = Particular + Homogeneous]] {{stage|100%|Jul 13, 2009}}
+#[[Linear Algebra/Comparing Set Descriptions|Comparing Set Descriptions]] {{stage|100%|Jul 13, 2009}}
+#[[Linear Algebra/Automation|Automation]] {{stage|100%|Jul 13, 2009}}
+&lt;li&gt;[[Linear Algebra/Linear Geometry of n-Space|Linear Geometry of ''n''-Space]] {{stage|100%|Jul 13, 2009}}
+#[[Linear Algebra/Vectors in Space|Vectors in Space]] {{stage|100%|Jul 13, 2009}}
+#[[Linear Algebra/Length and Angle Measures|Length and Angle Measures]] {{stage|100%|Jul 13, 2009}}
+&lt;li&gt;[[Linear Algebra/Reduced Echelon Form|Reduced Echelon Form]] {{stage|100%|Jul 13, 2009}}
+#[[Linear Algebra/Gauss-Jordan Reduction|Gauss-Jordan Reduction]] {{stage|100%|Jul 13, 2009}}
+#[[Linear Algebra/Row Equivalence|Row Equivalence]] {{stage|100%|Jul 13, 2009}}
+&lt;li&gt;[[Linear Algebra/Topic: Computer Algebra Systems|Topic: Computer Algebra Systems]] {{stage|100%|Jul 13, 2009}}
+&lt;li&gt;[[Linear Algebra/Topic: Input-Output Analysis|Topic: Input-Output Analysis]] {{stage|100%|Jul 13, 2009}}
+&lt;li&gt;[[Linear Algebra/Input-Output Analysis M File|Input-Output Analysis M File]] {{stage|100%|Mar 24 2008}}
+&lt;li&gt;[[Linear Algebra/Topic: Accuracy of Computations|Topic: Accuracy of Computations]] {{stage|100%|Jul 13, 2009}}
+&lt;li&gt;[[Linear Algebra/Topic: Analyzing Networks|Topic: Analyzing Networks]] {{stage|100%|Jul 13, 2009}}
+&lt;li&gt;[[Linear Algebra/Topic: Speed of Gauss' Method|Topic: Speed of Gauss' Method]] {{stage|50%|Mar 24, 2008}}
+&lt;/ol&gt;
+
+=== [[Linear Algebra/Vector Spaces|Vector Spaces]] {{stage|100%|Apr 17, 2009}} ===
+&lt;ol type=I&gt;
+&lt;li&gt;[[Linear Algebra/Definition of Vector Space|Definition of Vector Space]]{{stage|100%|Apr 17, 2009}}
+#[[Linear Algebra/Definition and Examples of Vector Spaces|Definition and Examples]]{{stage|100%|Jun 18, 2009}}
+#[[Linear Algebra/Subspaces and Spanning sets|Subspaces and Spanning sets]]{{stage|100%|Jun 18, 2009}}
+&lt;li&gt;[[Linear Algebra/Linear Independence|Linear Independence]]{{stage|100%|Apr 17, 2009}}
+#[[Linear Algebra/Definition and Examples of Linear Independence|Definition and Examples]]{{stage|100%|Apr 17, 2009}}
+&lt;li&gt;[[Linear Algebra/Basis and Dimension|Basis and Dimension]]{{stage|100%|Apr 17, 2009}}
+#[[Linear Algebra/Basis|Basis]]{{stage|100%|Jun 18, 2009}}
+#[[Linear Algebra/Dimension|Dimension]]{{stage|100%|Apr 17, 2009}}
+#[[Linear Algebra/Vector Spaces and Linear Systems|Vector Spaces and Linear Systems]]{{stage|100%|Apr 17, 2009}}
+#[[Linear Algebra/Combining Subspaces|Combining Subspaces]]{{stage|100%|Apr 17, 2009}}
+&lt;li&gt;[[Linear Algebra/Topic: Fields|Topic: Fields]]{{stage|100%|Apr 17, 2009}}
+&lt;li&gt;[[Linear Algebra/Topic: Crystals|Topic: Crystals]]{{stage|100%|Apr 17, 2009}}
+&lt;li&gt;[[Linear Algebra/Topic: Voting Paradoxes|Topic: Voting Paradoxes]]{{stage|100%|Apr 17, 2009}}
+&lt;li&gt;[[Linear Algebra/Topic: Dimensional Analysis|Topic: Dimensional Analysis]]{{stage|100%|Apr 17, 2009}}
+&lt;/ol&gt;
+
+=== Maps Between Spaces ===
+
+&lt;ol type=&quot;I&quot;&gt;
+&lt;li&gt;[[Linear Algebra/Isomorphisms|Isomorphisms]]{{stage|100%|Jun 21, 2009}}
+#[[Linear Algebra/Definition and Examples of Isomorphisms|Definition and Examples]]{{stage|100%|July 19, 2009}}
+#[[Linear Algebra/Dimension Characterizes Isomorphism|Dimension Characterizes Isomorphism]]{{stage|100%|Jun 21, 2009}}
+&lt;li&gt;[[Linear Algebra/Homomorphisms|Homomorphisms]]{{stage|100%|Jun 21, 2009}}
+#[[Linear Algebra/Definition of Homomorphism|Definition of Homomorphism]]{{stage|100%|Jun 21, 2009}}
+#[[Linear Algebra/Rangespace and Nullspace|Rangespace and Nullspace]]{{stage|100%|Jun 21, 2009}}
+&lt;li&gt;[[Linear Algebra/Computing Linear Maps|Computing Linear Maps]]{{stage|100%|Jun 21, 2009}}
+#[[Linear Algebra/Representing Linear Maps with Matrices|Representing Linear Maps with Matrices]]{{stage|100%|Jun 21, 2009}}
+#[[Linear Algebra/Any Matrix Represents a Linear Map|Any Matrix Represents a Linear Map]]{{stage|100%|Jun 21, 2009}}
+&lt;li&gt;[[Linear Algebra/Matrix Operations|Matrix Operations]]{{stage|100%|Jun 21, 2009}}
+#[[Linear Algebra/Sums and Scalar Products|Sums and Scalar Products]]{{stage|100%|Jun 21, 2009}}
+#[[Linear Algebra/Matrix Multiplication|Matrix Multiplication]]{{stage|100%|Jun 21, 2009}}
+#[[Linear Algebra/Mechanics of Matrix Multiplication|Mechanics of Matrix Multiplication]]{{stage|100%|Jun 21, 2009}}
+#[[Linear Algebra/Inverses|Inverses]]{{stage|100%|Jun 21, 2009}}
+&lt;li&gt;[[Linear Algebra/Change of Basis|Change of Basis]]{{stage|100%|Jun 21, 2009}}
+#[[Linear Algebra/Changing Representations of Vectors|Changing Representations of Vectors]]{{stage|100%|Jun 21, 2009}}
+#[[Linear Algebra/Changing Map Representations|Changing Map Representations]]{{stage|100%|Jun 21, 2009}}
+&lt;li&gt;[[Linear Algebra/Projection|Projection]]{{stage|100%|Jun 21, 2009}}
+#[[Linear Algebra/Orthogonal Projection Onto a Line|Orthogonal Projection Onto a Line]]{{stage|100%|Jun 21, 2009}}
+#[[Linear Algebra/Gram-Schmidt Orthogonalization|Gram-Schmidt Orthogonalization]]{{stage|100%|Jun 21, 2009}}
+#[[Linear Algebra/Projection Onto a Subspace|Projection Onto a Subspace]]{{stage|100%|Jun 21, 2009}}
+&lt;li&gt;[[Linear Algebra/Topic: Line of Best Fit|Topic: Line of Best Fit]]{{stage|100%|Jun 21, 2009}}
+&lt;li&gt;[[Linear Algebra/Topic: Geometry of Linear Maps|Topic: Geometry of Linear Maps]]{{stage|100%|Jun 21, 2009}}
+&lt;li&gt;[[Linear Algebra/Topic: Markov Chains|Topic: Markov Chains]]{{stage|100%|Jun 21, 2009}}
+&lt;li&gt;[[Linear Algebra/Topic: Orthonormal Matrices|Topic: Orthonormal Matrices]]{{stage|100%|Jun 21, 2009}}
+&lt;/ol&gt;
+
+=== [[Linear Algebra/Determinants|Determinants]]{{stage|100%|Jun 21, 2009}} ===
+&lt;ol type=&quot;I&quot;&gt;
+&lt;li&gt;[[Linear Algebra/Definition of Determinant|Definition]]{{stage|100%|Jun 21, 2009}}
+#[[Linear Algebra/Exploration|Exploration]]{{stage|100%|Jun 21, 2009}}
+#[[Linear Algebra/Properties of Determinants|Properties of Determinants]]{{stage|100%|Jun 21, 2009}}
+#[[Linear Algebra/The Permutation Expansion|The Permutation Expansion]]{{stage|100%|Jun 21, 2009}}
+#[[Linear Algebra/Determinants Exist|Determinants Exist]]{{stage|100%|Jun 21, 2009}}
+&lt;li&gt;[[Linear Algebra/Geometry of Determinants|Geometry of Determinants]]{{stage|100%|Jun 21, 2009}}
+#[[Linear Algebra/Determinants as Size Functions|Determinants as Size Functions]]{{stage|100%|Jun 21, 2009}}
+&lt;li&gt;[[Linear Algebra/Other Formulas for Determinants|Other Formulas for Determinants]]{{stage|100%|Jun 21, 2009}}
+#[[Linear Algebra/Laplace's Expansion|Laplace's Expansion]]{{stage|100%|Jun 21, 2009}}
+&lt;li&gt;[[Linear Algebra/Topic: Cramer's Rule|Topic: Cramer's Rule]]{{stage|100%|Jun 21, 2009}}
+&lt;li&gt;[[Linear Algebra/Topic: Speed of Calculating Determinants|Topic: Speed of Calculating Determinants]]{{stage|100%|Jun 21, 2009}}
+&lt;li&gt;[[Linear Algebra/Topic: Projective Geometry|Topic: Projective Geometry]]{{stage|100%|Jun 21, 2009}}
+&lt;/ol&gt;
+
+=== [[Linear Algebra/Introduction to Similarity|Similarity]]{{stage|100%|Jun 24, 2009}} ===
+&lt;ol type=&quot;I&quot;&gt;
+&lt;li&gt;[[Linear Algebra/Complex Vector Spaces|Complex Vector Spaces]]{{stage|100%|Jun 24, 2009}}
+#[[Linear Algebra/Factoring and Complex Numbers: A Review|Factoring and Complex Numbers: A Review]]{{stage|100%|Jun 24, 2009}}
+#[[Linear Algebra/Complex Representations|Complex Representations]]{{stage|100%|Jun 24, 2009}}
+&lt;li&gt;Similarity
+# [[Linear Algebra/Definition and Examples of Similarity|Definition and Examples]]{{stage|100%|Jun 24, 2009}}
+#[[Linear Algebra/Diagonalizability|Diagonalizability]]{{stage|100%|Jun 24, 2009}}
+#[[Linear Algebra/Eigenvalues and Eigenvectors|Eigenvalues and Eigenvectors]]{{stage|100%|Jun 24, 2009}}
+&lt;li&gt;[[Linear Algebra/Nilpotence|Nilpotence]]{{stage|100%|Jun 24, 2009}}
+#[[Linear Algebra/Self-Composition|Self-Composition]]{{stage|100%|Jun 24, 2009}}
+#[[Linear Algebra/Strings|Strings]]{{stage|100%|Jun 24, 2009}}
+&lt;li&gt;[[Linear Algebra/Jordan Form|Jordan Form]]{{stage|100%|Jun 24, 2009}}
+#[[Linear Algebra/Polynomials of Maps and Matrices|Polynomials of Maps and Matrices]]{{stage|100%|Jun 24, 2009}}
+#[[Linear Algebra/Jordan Canonical Form|Jordan Canonical Form]]{{stage|100%|Jun 24, 2009}}
+&lt;li&gt;[[Linear Algebra/Topic: Geometry of Eigenvalues|Topic: Geometry of Eigenvalues]]{{stage|50%|Jun 24, 2009}}
+&lt;li&gt;[[Linear Algebra/Topic: The Method of Powers|Topic: The Method of Powers]]{{stage|100%|Jun 24, 2009}}
+&lt;li&gt;[[Linear Algebra/Topic: Stable Populations|Topic: Stable Populations]]{{stage|100%|Jun 24, 2009}}
+&lt;li&gt;[[Linear Algebra/Topic: Linear Recurrences|Topic: Linear Recurrences]]{{stage|100%|Jun 24, 2009}}
+&lt;/ol&gt;
+
+=== [[Linear Algebra/Appendix|Appendix]] ===
+
+*[[Linear Algebra/Propositions|Propositions]]
+*[[Linear Algebra/Quantifiers|Quantifiers]]
+*[[Linear Algebra/Techniques of Proof|Techniques of Proof]]
+*[[Linear Algebra/Sets, Functions, Relations|Sets, Functions, Relations]]
+
+=== Resources And Licensing ===
+
+*[[Linear Algebra/Licensing And History|Licensing And History]]
+*[[Linear Algebra/Resources|Resources]]
+*[[Linear Algebra/Bibliography|Bibliography]] (see individual pages for references)
+*[[Linear Algebra/Index|Index]]{{stage|100%|Apr 22, 2010}}
+
+&lt;noinclude&gt;
+{{Subjects|Algebra|University level mathematics books}}
+{{alphabetical|L}}
+{{status|100%}}
+[[Category:Books with print version]]
+
+[[ar:جبر خطي]]
+[[de:Mathematik: Lineare Algebra]]
+[[es:Álgebra Lineal]]
+[[fr:Algèbre linéaire]]
+[[he:אלגברה לינארית]]
+[[hu:Lineáris algebra]]
+[[ja:線型代数学]]
+[[pt:Álgebra linear]]
+[[zh:線性代數]]
+&lt;/noinclude&gt;</text>
+      <sha1>07df4bk566u2mmwtxxdg9gksgjjzuto</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Jimregan</title>
+    <ns>2</ns>
+    <id>84</id>
+    <revision>
+      <id>152275</id>
+      <parentid>208</parentid>
+      <timestamp>2003-07-18T01:04:26Z</timestamp>
+      <contributor>
+        <username>Jimregan</username>
+        <id>20</id>
+      </contributor>
+      <minor />
+      <comment>c chapters</comment>
+      <text xml:space="preserve">See [[en:User:Jimregan]]
+
+[[User:Jimregan/Introductory Physics: Preface]]
+[[User:Jimregan/Introductory Physics: Waves in one Dimension]]
+
+
+[[User:Jimregan/C Primer chapter 1]]
+[[User:Jimregan/C Primer chapter 2]]
+[[User:Jimregan/C Primer chapter 3]]
+[[User:Jimregan/C Primer chapter 4]]
+[[User:Jimregan/C Primer chapter 5]]
+[[User:Jimregan/C Primer chapter 6]]
+[[User:Jimregan/C Primer chapter 7]]</text>
+      <sha1>f7afan8eeuz4i0vdpvxrprgwo4ffeiu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Programming:c</title>
+    <ns>1</ns>
+    <id>85</id>
+    <revision>
+      <id>152276</id>
+      <parentid>130868</parentid>
+      <timestamp>2005-05-23T04:33:33Z</timestamp>
+      <contributor>
+        <username>Darkdna</username>
+        <id>7268</id>
+      </contributor>
+      <minor />
+      <comment>Begat?</comment>
+      <text xml:space="preserve">There's a nice public domain C/C++ primer available [http://www.vectorsite.net/tscpp.html here]; there are also two FDL licensed books on http://savannah.gnu.org which I'll dig up if there's interest, and a C++ wiki, linked from the [[en:C plus plus|Wikipedia C++]] article.
+
+Would it be a good idea to integrate these as a basis? I'd go with the first link for the general basis, as it covers both languages. I'll do the conversion if people agree that it's a good idea. -- [[User:Jimregan|Jimregan]] 17:53 17 Jul 2003 (UTC)
+
+:I don't like the general idea of C/C++ being taught as one - printf() and scanf() are not useful/recommended in C++ and cout&lt;&lt; and cin&gt;&gt; are invalid in C. Vectorsite (your first link) covers C with a footnote on C++ at the end. File methods are different, memory allocation is different, string manipulation is different (I'd love to be using std::string if I knew it better than the char* methods)...if not separate C and C++ books, there should be C- and C++-specific variants of some sections/chapters. Even Bjarne Stroustrop mentions somewhere on his website he doesn't like the phrase &quot;C/C++&quot; - the languages are too different. [[User:Geoffrey|Geoffrey]] 00:11 18 Jul 2003 (UTC)
+
+
+I agree with the C/C++ problem.  I've decided that it might be good to just do a version of each chapter.  And then a third chapter that will compare the differences between each language. What do you guys think? [[User:Mrquick|Josh]]
+
+Well, when I said use them as a basis, that's what I meant. The languages have many differences, yes, but they also have a lot in common. I've put a wikified version of the vectorsite stuff in my user namespace; I would use them as a basis, and split them out - it's a primer, not a textbook proper. 
+
+We could easily have textbooks for different angles; C++ for beginners, C++ for C programmers, or C for C++ programmers. There's a lot of overlap here, articles could be shared, others adapted for a different approach. For example, the introduction to classes in C++ would be the same for absolute beginners as it would be for C programmers interested in C++. I think it's better to start with something than to start from scratch, and the vectorsite stuff gives that. And if nothing else, the quick reference would make a good appendix.
+
+-- [[User:Jimregan|Jimregan]] 17:37 18 Jul 2003 (UTC)
+
+I think that the vectorsite stuff could make a good reference, but I don't like its methods. I remember that when I was originally learning how to program that I read some of those books, but they never really helped me a lot. I never really got good at programming until I actually tried to write some semi-big programs.  So I was thinking of trying to teach it, and introduce all of the concepts through the use in programming something.  For example, I've written a really small game, Pitfall (you an ASCII character falling down a pit of ascii characters), that can be programmed to introduce most of the beginning concepts of programming. I don't just plan to give it to them, and then explain it line by line, I was thinking I'd walk them through the process of programming (introduce them to the mind set of programming) it.
+
+-- [[User:Mrquick|Josh]] /time
+
+The languages are only really common at core syntax. C++ includes C functionality, but it is expected that most of it is not used. Completely different approaches are taken to the same tasks. For example, #define versus const. A &quot;dual&quot; approach will have to explain that in C, const variables can't be used in constant expressions. Beyond the most basic things, C++ does things differently than C: printf versus cout, malloc versus new, pointer versus reference, array versus vector, char* versus string, and so on. The basic syntax is similar but that is hardly grounds for the whole languages being similar. (Occasionally, the lower-level C things like #define's are proper and necessary, but they'll still not the usual C++ way.)
+
+Also, those who only want to learn one or the other will be annoyed with all the extraneous information.
+
+I think we should have separate textbooks for each language, which do not closely parallel each other. (Many C++ things don't have any C parallels, anyway.)
+
+[[User:Eric119|Eric119]] 22:19 20 Jul 2003 (UTC)
+
+Can the title &quot;[[Programming:c]]&quot; be changed to &quot;[[Programming:C]]&quot; ? [[User:Lfwlfw|Lfwlfw]] 02:53 24 Jul 2003 (UTC)
+
+== Begat? ==
+
+Why say that (for example) A begat B; B begat C etc... Rather than using a less archaic word?</text>
+      <sha1>st5bc4iisk3l0j3pw2klj5zv2y86rbc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Introductory Physics fig 1.3.png</title>
+    <ns>6</ns>
+    <id>89</id>
+    <revision>
+      <id>2699285</id>
+      <parentid>435141</parentid>
+      <timestamp>2014-09-10T18:01:43Z</timestamp>
+      <contributor>
+        <username>JackBot</username>
+        <id>396820</id>
+      </contributor>
+      <minor />
+      <comment>File is now available on [[:commons:File:Introductory Physics fig 1.3.png|Wikimedia Commons]].</comment>
+      <text xml:space="preserve">{{GFDL}}
+Introductory Physics, figure 1.3 Copyright 1998, 2000, 2001, 2003 David J. Raymond, under GNU FDL{{Now Commons|1=Introductory Physics fig 1.3.png}}</text>
+      <sha1>5bt1r3ai67po0ovqs2v6c8vq5c4kl0i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Introductory Physics fig 1.4.png</title>
+    <ns>6</ns>
+    <id>90</id>
+    <revision>
+      <id>2699287</id>
+      <parentid>904354</parentid>
+      <timestamp>2014-09-10T18:02:24Z</timestamp>
+      <contributor>
+        <username>JackBot</username>
+        <id>396820</id>
+      </contributor>
+      <minor />
+      <comment>File is now available on [[:commons:File:Introductory Physics fig 1.4.png|Wikimedia Commons]].</comment>
+      <text xml:space="preserve">Introductory Physics, figure 1.4 Copyright 1998, 2000, 2001, 2003 David J. Raymond, under GNU FDL
+
+==Licensing==
+{{GFDL}}{{Now Commons|1=Introductory Physics fig 1.4.png}}</text>
+      <sha1>h1t5dyanihikyte4c9guc34wd3xzukl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Introductory Physics fig 1.5.png</title>
+    <ns>6</ns>
+    <id>91</id>
+    <revision>
+      <id>2699294</id>
+      <parentid>904355</parentid>
+      <timestamp>2014-09-10T18:32:39Z</timestamp>
+      <contributor>
+        <username>JackBot</username>
+        <id>396820</id>
+      </contributor>
+      <minor />
+      <comment>File is now available on [[:commons:File:Introductory Physics fig 1.5.png|Wikimedia Commons]].</comment>
+      <text xml:space="preserve">Introductory Physics, figure 1.5 Copyright 1998, 2000, 2001, 2003 David J. Raymond, under GNU FDL
+
+==Licensing==
+{{GFDL}}{{Now Commons|1=Introductory Physics fig 1.5.png}}</text>
+      <sha1>3n26lsti6gnow8sc6av7h690u8v5eqq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Introductory Physics fig 1.6.png</title>
+    <ns>6</ns>
+    <id>92</id>
+    <revision>
+      <id>904357</id>
+      <parentid>900241</parentid>
+      <timestamp>2007-06-20T08:41:30Z</timestamp>
+      <contributor>
+        <username>Webaware</username>
+        <id>27565</id>
+      </contributor>
+      <comment>licensing</comment>
+      <text xml:space="preserve">Introductory Physics, figure 1.6 Copyright 1998, 2000, 2001, 2003 David J. Raymond, under GNU FDL
+
+==Licensing==
+{{GFDL}}</text>
+      <sha1>fjhf3m5jgijefro54pbobuur28vepc7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

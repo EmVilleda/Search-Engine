@@ -1,0 +1,2264 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Spanish/Third Conjugation Verb</title>
+    <ns>0</ns>
+    <id>3388</id>
+    <revision>
+      <id>616164</id>
+      <parentid>532461</parentid>
+      <timestamp>2006-10-18T04:26:41Z</timestamp>
+      <contributor>
+        <username>Guanabot</username>
+        <id>5478</id>
+      </contributor>
+      <minor />
+      <comment>User-controlled Bot: table syntax updated</comment>
+      <text xml:space="preserve">Verb '''partir''' (to leave ''or'' to cut)
+
+This is the typical example of a regular third conjugation verb in Spanish.
+
+==Formas simples==
+
+
+{| border=&quot;1&quot;
+|-
+| &amp;nbsp; || colspan=&quot;5&quot; | Indicativo || colspan=&quot;3&quot; | Subjuntivo
+| Imperativo
+|-
+| &amp;nbsp; || Presente || Pretérito&lt;br&gt;
+imperfecto
+| Pretérito&lt;br&gt;perfecto&lt;br&gt;
+simple
+| Futuro || Condicional || Presente || Pretérito&lt;br&gt;
+imperfecto
+| Futuro || Presente
+|-
+| yo || parto || partía || partí || partiré
+| partiría || parta || partiera / partiese
+| partiere || ---
+|-
+| tú || partes || partías || partiste || partirás
+| partirías || partas || partieras / partieses
+| partieres || parte
+|-
+| él || parte || partía || partió || partirá
+| partiría || parta || partiera / partiese
+| partiere || parta
+|-
+| nosotros || partimos || partíamos || partimos || partiremos
+| partiríamos
+| partamos || partiéramos / partiésemos
+| partiéremos || partamos
+|-
+| vosotros || partís || partíais || partisteis || partiréis
+| partiríais || partáis || partierais / partieseis
+| partiereis || partid
+|-
+| ellos || parten || partían || partieron || partirán
+| partirían || partan || partieran / partiesen
+| partieren || partan
+|}
+
+==Formas no personales==
+*'''Infinitivo''': partir
+*'''Gerundio''': partiendo
+*'''Participio''': partido
+
+[[Category:Spanish]]</text>
+      <sha1>m06xhwzaurw18lo29xnjn299hbkwp7o</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Botany/Phycology</title>
+    <ns>0</ns>
+    <id>3391</id>
+    <revision>
+      <id>2599477</id>
+      <parentid>2599476</parentid>
+      <timestamp>2014-01-09T15:13:56Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <comment>/* Cyanobacteria */</comment>
+      <text xml:space="preserve">&lt;small&gt;&lt;&lt; [[Botany#Contents|Contents Page]] | &lt;&lt; [[Botany/Microbes|Chapter 8]] | &lt;/small&gt;Chapter 9&lt;small&gt; | [[Botany/Mycology|Chapter 10]] &gt;&gt;|&lt;/small&gt;
+----
+
+The term algae is used to collectively refer to a wide range (20,000-30,000 spp.) of very simple photosynthetic organisms. While this term is no longer used as a taxonomic grouping, it is still useful for referring informally to these photosynthetic protists. (Protists are diverse eukaryotes which are neither fungi, animals nor plants.)
+
+The earliest multicellular alga known is the red fossil alga Bangiomorpha (at right), found in 1,200 million year old rocks in Arctic Canada. What's more this is the first known organism to show sexual reproduction.== Chapter 9. Phycology ~ The Algae ==
+The '''algae''' (singular: '''alga''') comprise several different groups of plant-like organisms, some of which are (and some are not) regarded as members of the Kingdom Plantae. All algae lack true leaves, roots, flowers, and other structures found in the higher plants. They are distinguished from bacteria and protozoa mainly in that they are autotrophic, obtaining energy through photosynthesis. Although no longer considered a natural group, the term ''algae'' is still used for convenience. The botanical discipline concerned with the study of algae is called '''Phycology''' (or sometimes, Algology); and the environments most phycologists (or algologists) focus on are the marine intertidal/shallow subtidal regions of the world oceans. It is in these environments that the diversity of structurally complex algae (called '''seaweeds''') reaches its pinnacle. 
+
+[[Image:Seaweed (Westerland).jpg|thumb|right]]
+As a grouping, the algae cut across even the prokaryote/eukaryote divide: the so-called &quot;Blue-green algae&quot; are cyanobacteria.  All other algae are eukaryotes. Green Algae (different from Blue-green algae) are considered to be the ancestors of green plants. Other kinds of algae on the other hand are distinct from green plants and from each other in having different and unrelated accessory pigments. These pigments are responsible for the ways different algae absorb light, providing advantage to each individual type of alga to compete best at a water depth where its preferred wavelength is perhaps strongest.
+
+* Read [[Wikipedia:en:Phycology|Phycology]] &lt;small&gt;(article not developed yet)&lt;/small&gt;
+* Read [[Wikipedia:en:Alga|Algae]]
+
+== Cyanobacteria ==
+
+The cyanobacteria comprise the structurally simplest algae, and presumably are closely related to the oldest photosynthetic organisms on the planet. Although capable of extracting energy from sunlight through photosynthesis, these algae are related to bacteria as evidenced by their prokaryotic cell structure. Yet, some Blue-greens have developed multi-cellular thalli that approach eukaryotic algal forms, and thus their traditional inclusion within the &quot;algae.&quot;   
+
+* Read [[Wikipedia:en:Cyanobacteria|Cyanobacteria]]
+
+''Questions''
+
+8.1 How do we know that the different algae are not monophyletic?
+
+8.2 What do the different algae have in common that they are grouped together as algae?
+
+8.3 What are 3 similarities between the green algae and green plants?
+
+8.4 Define endosymbiosis. Did photosynthetic cyanobacteria exist before or after photosynthetic organelles? Why or why not?
+----
+
+&lt;center&gt;
+{{BotanyTOC2}}
+&lt;/center&gt;
+
+{{BookCat}}</text>
+      <sha1>mk16ftjprrh27ybb01bman8hk8kj8c0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>High School Mathematics Extensions/Solutions to Problem Sets</title>
+    <ns>0</ns>
+    <id>3392</id>
+    <revision>
+      <id>1519278</id>
+      <parentid>1519274</parentid>
+      <timestamp>2009-06-04T04:18:18Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>Added project template.</comment>
+      <text xml:space="preserve">{{High School Mathematics Extensions/TOC}}
+==Primes and Modular Arithmetic==
+
+===Factorisation Exercises===
+
+Factorise the following numbers. (note: I know you didn't have to, this is just for those who are curious)
+
+#&lt;math&gt;13 = 13 \cdot 1&lt;/math&gt;
+#&lt;math&gt;26 = 13 \cdot 2&lt;/math&gt;
+#&lt;math&gt;59 = 59 \cdot 1&lt;/math&gt;
+#&lt;math&gt;82 = 41 \cdot 2&lt;/math&gt;
+#&lt;math&gt;101 = 101 \cdot 1&lt;/math&gt;
+#&lt;math&gt;121 = 11 \cdot 11&lt;/math&gt;
+#&lt;math&gt;2187 = 3 \cdot 3 \cdot 3 \cdot 3 \cdot 3 \cdot 3 \cdot 3&lt;/math&gt;
+
+===Recursive Factorisation Exercises===
+
+Factorise using recursion.
+
+#&lt;math&gt;45 = 3 \cdot 3 \cdot 5&lt;/math&gt;
+#&lt;math&gt;4050 = 2 \cdot 3 \cdot 3 \cdot 3 \cdot 3 \cdot 5 \cdot 5&lt;/math&gt;
+#&lt;math&gt;2187 = 3 \cdot 3 \cdot 3 \cdot 3 \cdot 3 \cdot 3 \cdot 3&lt;/math&gt;
+
+===Prime Sieve Exercises===
+
+#Use the above result to quickly work out the numbers that still need to be crossed out in the table below, knowing 5 is the next prime:
+
+:&lt;math&gt;
+\begin{matrix}
+X &amp; 2_p &amp; 3_p &amp; X &amp; 5 &amp;X &amp;7&amp; X&amp; X&amp; X \\
+11 &amp; X &amp; 13 &amp; X&amp; X&amp; X&amp;17 &amp;X&amp; 19&amp; X\\
+X&amp; X&amp; 23 &amp; X&amp; 25 &amp;X&amp;X&amp;X&amp;29&amp; X\\
+31 &amp;X&amp; X&amp; X&amp; 35 &amp;X&amp;37&amp; X&amp; X&amp; X\\
+41 &amp; X&amp; 43 &amp; X&amp; X&amp;X&amp;47&amp; X&amp; 49&amp; X\\
+\end{matrix}
+&lt;/math&gt;
+
+:The next prime number is 5. Because 5 is an unmarked prime number, and 5 * 5 = 25, cross out 25. Also, 7 is an unmarked prime number, and 5 * 7 = 35, so cross off 35. However, 5 * 11 = 55, which is too high, so mark 5 as prime ad move on to 7. The only number low enough to be marked off is 7 * 7, which equals 35. You can go no higher.
+
+2. Find all primes below 200.
+
+:The method will not be outlined here, as it is too long. However, all primes below 200 are:
+
+2      3      5      7     11     13     17     19     23     29 
+31     37     41     43     47     53     59     61     67     71 
+73     79     83     89     97    101    103    107    109    113 
+127    131    137    139    149    151    157    163    167    173 
+179    181    191    193    197    199
+
+===Modular Arithmetic Exercises===
+
+#&lt;math&gt;(-1) \cdot (-5)\mod{11} = 5&lt;/math&gt;
+#&lt;math&gt;3 \cdot 7 \mod{11} = 21 = 10&lt;/math&gt;
+#&lt;math&gt;2^1 = 2, 2^2 = 4, 2^3 = 8, 2^4 = 16 = 5&lt;/math&gt;&lt;br&gt;&lt;math&gt; 2^5 = 32 = 10, 2^6 = 64 = 9, 2^7 = 128 = 7&lt;/math&gt;&lt;br&gt;&lt;math&gt; 2^8 = 256 = 3, 2^9 = 512 = 6, 2^{10} = 1024 = 1&lt;/math&gt;&lt;br&gt;An easier list: 2, 4, 8, 5, 10, 9, 7, 3, 6, 1</text>
+      <sha1>ldtsc31yl5qejpojbmjk9w79uf0kzqu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:High School Mathematics Extensions/Solutions to Problem Sets</title>
+    <ns>1</ns>
+    <id>3393</id>
+    <revision>
+      <id>1519276</id>
+      <parentid>155319</parentid>
+      <timestamp>2009-06-04T04:17:44Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>moved [[Talk:HSE Solutions to Problem sets]] to [[Talk:High School Mathematics Extensions/Solutions to Problem Sets]]:&amp;#32;Moving into book.</comment>
+      <text xml:space="preserve">My original intention was for this chapter to be reserved for the ''hard'' exercises listed in &quot;Problem Set&quot; section of each chapter, not the easy exercises. You might like to provide solutions only to questions that appear in the &quot;Problem Set&quot; section of each chapter, so that this chapter is not bloated. 
+Your efforts are appreciated. I have created a new section called Solutions to Exercises, the solutions you provided will be moved there.[[User:Xiaodai|Zhuo Jia Dai]] 8:20, 20 Dec 03</text>
+      <sha1>j9w9io2ixr7a4z0ti6lluk384pnq1m2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>High School Mathematics Extensions/Primes/Solutions</title>
+    <ns>0</ns>
+    <id>3394</id>
+    <revision>
+      <id>2053536</id>
+      <parentid>1519174</parentid>
+      <timestamp>2011-02-22T03:25:22Z</timestamp>
+      <contributor>
+        <username>Avicennasis</username>
+        <id>314063</id>
+      </contributor>
+      <minor />
+      <comment>clean up, typos fixed: acutally → actually using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">{{High School Mathematics Extensions/TOC}}
+{{High School Mathematics Extensions/Primes/TOC}}
+
+==HSE Primes|Primes and Modular Arithmetic==
+{{High_School_Mathematics_Extensions/Solutions/TOC}}
+
+===Factorisation Exercises===
+
+Factorise the following numbers. (note: I know you didn't have to, this is just for those who are curious)
+
+#13 is prime
+#&lt;math&gt;26 = 13 \cdot 2&lt;/math&gt;
+#59 is prime
+#&lt;math&gt;82 = 41 \cdot 2&lt;/math&gt;
+#101 is prime
+#&lt;math&gt;121 = 11 \cdot 11&lt;/math&gt;
+#&lt;math&gt;2187 = 3 \cdot 3 \cdot 3 \cdot 3 \cdot 3 \cdot 3 \cdot 3&lt;/math&gt;
+
+===Recursive Factorisation Exercises===
+
+Factorise using recursion.
+
+#&lt;math&gt;45 = 3 \cdot 3 \cdot 5&lt;/math&gt;
+#&lt;math&gt;4050 = 2 \cdot 3 \cdot 3 \cdot 3 \cdot 3 \cdot 5 \cdot 5&lt;/math&gt;
+#&lt;math&gt;2187 = 3 \cdot 3 \cdot 3 \cdot 3 \cdot 3 \cdot 3 \cdot 3&lt;/math&gt;
+
+===Prime Sieve Exercises===
+
+#Use the above result to quickly work out the numbers that still need to be crossed out in the table below, knowing 5 is the next prime:
+
+:&lt;math&gt;
+\begin{matrix}
+X &amp; 2_p &amp; 3_p &amp; X &amp; 5 &amp;X &amp;7&amp; X&amp; X&amp; X \\
+11 &amp; X &amp; 13 &amp; X&amp; X&amp; X&amp;17 &amp;X&amp; 19&amp; X\\
+X&amp; X&amp; 23 &amp; X&amp; 25 &amp;X&amp;X&amp;X&amp;29&amp; X\\
+31 &amp;X&amp; X&amp; X&amp; 35 &amp;X&amp;37&amp; X&amp; X&amp; X\\
+41 &amp; X&amp; 43 &amp; X&amp; X&amp;X&amp;47&amp; X&amp; 49&amp; X\\
+\end{matrix}
+&lt;/math&gt;
+
+:The next prime number is 5. Because 5 is an unmarked prime number, and 5 * 5 = 25, cross out 25. Also, 7 is an unmarked prime number, and 5 * 7 = 35, so cross off 35. However, 5 * 11 = 55, which is too high, so mark 5 as prime ad move on to 7. The only number low enough to be marked off is 7 * 7, which equals 49. You can go no higher.
+
+2. Find all primes below 200.
+
+:The method will not be outlined here, as it is too long. However, all primes below 200 are:
+
+2      3      5      7     11     13     17     19     23     29 
+31     37     41     43     47     53     59     61     67     71 
+73     79     83     89     97    101    103    107    109    113 
+127    131    137    139    149    151    157    163    167    173 
+179    181    191    193    197    199
+
+===Modular Arithmetic Exercises===
+
+#&lt;math&gt;(-1) \cdot (-5)\mod{11} = 5&lt;/math&gt;alternatively, -1 = 10, -5 = 6: 10 &amp;times; 6 = 60 = 5&amp;times 11 + 5 = 5
+#&lt;math&gt;3 \cdot 7 \mod{11} = 21 = 10&lt;/math&gt;
+#&lt;math&gt;2^1 = 2, 2^2 = 4, 2^3 = 8, 2^4 = 16 = 5&lt;/math&gt;&lt;br/&gt;&lt;math&gt; 2^5 = 32 = 10, 2^6 = 64 = 9, 2^7 = 128 = 7&lt;/math&gt;&lt;br/&gt;&lt;math&gt; 2^8 = 256 = 3, 2^9 = 512 = 6, 2^{10} = 1024 = 1&lt;/math&gt;&lt;br/&gt;An easier list: 2, 4, 8, 5, 10, 9, 7, 3, 6, 1 &lt;br/&gt; Notice that it is not necessary to actually &lt;br/&gt;compute &lt;math&gt;2^{10}&lt;/math&gt; to find &lt;math&gt;2^{10}&lt;/math&gt; mod 11.  &lt;br/&gt;If you know &lt;math&gt;2^9&lt;/math&gt; mod 11 = 6.  &lt;br/&gt;You can find &lt;math&gt;2^{10}&lt;/math&gt; mod 11 = (2*(&lt;math&gt;2^9&lt;/math&gt; mod 11)) mod 11 = 2*6 mod 11 = 12 mod 11 = 1.  &lt;br/&gt; We can note that 2&lt;sup&gt;9&lt;/sup&gt; = 6 and 2&lt;sup&gt;10&lt;/sup&gt; = 1, we can calculate 6&lt;sup&gt;2&lt;/sup&gt; easily: 6&lt;sup&gt;2&lt;/sup&gt; = 2&lt;sup&gt;18&lt;/sup&gt; = 2^8 = 3. OR by the above method &lt;br/&gt;&lt;math&gt;6^1 = 6, 6^2 = 36 = 3, 6^3 = 6*3 = 18 = 7, &lt;/math&gt;&lt;br/&gt;&lt;math&gt;6^4 = 6*7 = 42 = 9, 6^5 = 6*9 = 54 = 10, 6^6 = 6*10 = 60 = 5, &lt;/math&gt;&lt;br/&gt;&lt;math&gt;6^7 = 6*5 = 30 = 8, 6^8 = 6*8 = 48 = 4, 6^9 = 6*4 = 24 = 2, 6^{10} = 6*2 = 12 = 1.&lt;/math&gt;&lt;br/&gt;An easier list: 6, 3, 7, 9, 10, 5, 8, 4, 2, 1.
+#0&lt;sup&gt;2&lt;/sup&gt; = 0, 1&lt;sup&gt;2&lt;/sup&gt; = 1, 2&lt;sup&gt;2&lt;/sup&gt; = 4, 3&lt;sup&gt;2&lt;/sup&gt; = 9,&lt;br/&gt; 4&lt;sup&gt;2&lt;/sup&gt; = 16 = 5, 5&lt;sup&gt;2&lt;/sup&gt; = 25 = 5, 6&lt;sup&gt;2&lt;/sup&gt; = 36 = 3, 7&lt;sup&gt;2&lt;/sup&gt; = 49 = 3,&lt;br/&gt; 8&lt;sup&gt;2&lt;/sup&gt; = 64 = 9, 9&lt;sup&gt;2&lt;/sup&gt; = 81 = 4, 10&lt;sup&gt;2&lt;/sup&gt; = 100 = 1&lt;br/&gt;An easier list: 0, 1, 4, 9, 5, 3, 3, 5, 9, 4, 1&lt;br/&gt;Thus&lt;math&gt;\sqrt{4}=2\mbox{ and }\sqrt{4}=9&lt;/math&gt;
+#x&lt;sup&gt;2&lt;/sup&gt; = -2 = 9&lt;br/&gt;Just look at the list above and you'll see that&lt;math&gt;\sqrt{-2}=8\mbox{ and }\sqrt{-2}=3&lt;/math&gt;
+
+===Division and Inverses Exercises===
+
+1.
+:&lt;math&gt;x = 2^{-1} = 4&lt;/math&gt;
+:&lt;math&gt;x = 3^{-1} = 5&lt;/math&gt;
+:&lt;math&gt;x = 4^{-1} = 2&lt;/math&gt;
+:&lt;math&gt;x = 5^{-1} = 3&lt;/math&gt;
+:&lt;math&gt;x = 6^{-1} = 6&lt;/math&gt;
+:&lt;math&gt;x = 7^{-1} = 0^{-1}&lt;/math&gt; therefore the inverse does not exist
+
+2. &lt;math&gt;x = \frac{28}{7} = 4 \ \ \mbox{(mod 29)}&lt;/math&gt;
+:&lt;math&gt;7^{-1}  = 25 \ \ \mbox{(mod 29)}&lt;/math&gt;
+:&lt;math&gt;x = 28\cdot 25 = 4 \ \ \mbox{(mod 29)}&lt;/math&gt;
+
+3.
+:&lt;math&gt;x = 5^{99} \times (40 + \frac{1}{3})  \ \ \mbox{(mod 11)}&lt;/math&gt;
+:&lt;math&gt;x = 5^{99} \times (40 + 4)  \ \ \mbox{(mod 11)}&lt;/math&gt;
+:&lt;math&gt;x = 5^{99} \times 0  \ \ \mbox{(mod 11)}&lt;/math&gt;
+:&lt;math&gt;x =  0  \ \ \mbox{(mod 11)}&lt;/math&gt;
+
+4.
+{| border=&quot;1&quot;
+|-
+| 0 || 1 || 2 || 3 || 4 || 5 || 6 || 7
+| 8 || 9 || 10 || 11 || 12 || 13 || 14 || 15 || 16 || 17
+| 18 ||
+|-
+|
+ || 1 || ||  || ||  ||
+ || 
+|
+ ||  || ||  ||
+ || 
+|
+ ||  || ||  ||
+ || mod 2
+|-
+|
+ || 1 || 2 ||
+ || 
+|
+ ||  || ||  ||
+ ||  ||
+| || ||  ||
+ || 
+|
+ ||  || mod 3
+|-
+|
+ || 1 || || 3 || ||  ||
+ || 
+|
+ ||  || ||  ||
+ || 
+|
+ ||  || ||  ||
+ || mod 4
+|-
+|
+ || 1 || 3 || 2 || 4 ||
+ ||  ||
+| ||
+ ||  ||
+| || ||  ||
+ || 
+|
+ ||  || mod 5
+|-
+|
+ || 1 || ||  || || 5 ||
+ || 
+|
+ ||  || ||  ||
+ || 
+|
+ ||  || ||  ||
+ || mod 6
+|-
+|
+ || 1 || 4 || 5 || 2 || 3 || 6 || ||  ||
+ ||  ||
+| || ||  ||
+ || 
+|
+ ||  || mod 7
+|-
+|
+ || 1 || || 3 || || 5 ||
+ || 7
+|
+ ||  || ||  ||
+ || 
+|
+ ||  || ||  ||
+ || mod 8
+|-
+|
+ || 1 || 5 ||
+ || 7
+| 2 ||
+ || 4
+| 8 ||
+ ||  ||
+| || ||  ||
+ || 
+|
+ ||  || mod 9
+|-
+|
+ || 1 || || 7 || ||  ||
+ || 3
+|
+ || 9 || ||  ||
+ || 
+|
+ ||  || ||  ||
+ || mod 10
+|-
+|
+ || 1 || 6 || 4 || 3 || 9 || 2 || 8 || 7 || 5 || 10 ||
+| || ||  ||
+ || 
+|
+ ||  || mod 11
+|-
+|
+ || 1 || ||  || || 5 ||
+ || 7
+|
+ ||  || || 11 ||
+ || 
+|
+ ||  || ||  ||
+ || mod 12
+|-
+|
+ || 1 || 7 || 9 || 10 || 8 || 11 || 2
+| 5 || 3 || 4 || 6 || 12 || ||  ||
+ || 
+|
+ ||  || mod 13
+|-
+|
+ || 1 || || 5 || || 3 ||
+ || 
+|
+ || 11 || || 9 ||
+ || 13
+|
+ ||  || ||  ||
+ || mod 14
+|-
+|
+ || 1 || 8 ||
+ || 4
+|
+ ||  || 13 || 2 ||
+ ||  || 11
+|
+ || 7 || 14 ||
+ || 
+|
+ ||  || mod 15
+|-
+|
+ || 1 || || 11 || || 13 ||
+ || 7
+|
+ || 9 || || 3 ||
+ || 5
+|
+ || 15 || ||  ||
+ || mod 16
+|-
+|
+ || 1 || 9 || 6 || 13 || 7 || 3 || 5
+| 15 || 2 || 12 || 14 || 10 || 4 || 11 || 8 || 16 ||
+| || mod 17
+|-
+|
+ || 1 || ||  || || 11 ||
+ || 13
+|
+ ||  || || 5 ||
+ || 7
+|
+ ||  || || 17 ||
+ || mod 18
+|-
+|
+ || 1 || 10 || 13 || 5 || 4 || 16 || 11
+| 12 || 17 || 2 || 7 || 8 || 3 || 15 || 14 || 6 || 9
+| 18 || mod 19
+|}
+===Coprime and greatest common divisor Exercises===
+1.
+:1.
+::
+{| border=&quot;1&quot; cellpadding=&quot;2&quot;
+|-
+! smaller
+! larger
+|-
+| 5050 || 5051
+|-
+| 1 || 5050
+|-
+| 0 || '''1'''
+|}
+::5050 and 5051 are coprime
+:2.
+::
+{| border=&quot;1&quot; cellpadding=&quot;2&quot;
+|-
+! smaller
+! larger
+|-
+| 59 || 78
+|-
+| 19 || 59
+|-
+| 2 || 19
+|-
+| 1 || 2
+|-
+| 0 || '''1'''
+|}
+::59 and 79 are coprime
+:3.
+::
+{| border=&quot;1&quot; cellpadding=&quot;2&quot;
+|-
+! smaller
+! larger
+|-
+| 111 || 369
+|-
+| 36 || 111
+|-
+| 3 || 36
+|-
+| 0 || '''3'''
+|}
+::111 and 369 are not coprime
+:4.
+::
+{| border=&quot;1&quot; cellpadding=&quot;2&quot;
+|-
+! smaller
+! larger
+|-
+| 2021 || 4032
+|-
+| 2011 || 2021
+|-
+| 10 || 2011
+|-
+| 1 || 10
+|-
+| 0 || '''1'''
+|}
+::2021 and 4032 are coprime
+2.We first calculate the gcd for all combinations
+
+{| border=&quot;1&quot; cellpadding=&quot;2&quot;
+|-
+! smaller
+! larger
+|-
+| 15 || 510
+|-
+| 0 || '''15'''
+|}
+
+{| border=&quot;1&quot; cellpadding=&quot;2&quot;
+|-
+! smaller
+! larger
+|-
+| 15 || 375
+|-
+| 0 || '''15'''
+|}
+
+{| border=&quot;1&quot; cellpadding=&quot;2&quot;
+|-
+! smaller
+! larger
+|-
+| 375 || 510
+|-
+| 135 || 375
+|-
+| 105 || 135
+|-
+| 30 || 105
+|-
+| 15 || 30
+|-
+| 0 || '''15'''
+|}
+:The gcd for any combination of the numbers is 15 so the gcd is 15 for the three numbers.
+===Diophantine equation Exercises===
+1.
+:&lt;math&gt;
+\begin{matrix}
+216x &amp;=&amp; 1 + 816b\\
+216c &amp;=&amp; 1 + 168b\\
+48c &amp;=&amp; 1 + 168d\\
+48e &amp;=&amp; 1 + 24d\\
+24e &amp;=&amp; 1 + 24f\\
+\end{matrix}
+&lt;/math&gt;
+:There is no solution, because can never become an integer.
+2.
+:&lt;math&gt;
+\begin{matrix}
+42x &amp;=&amp; 7 + 217b\\
+42c &amp;=&amp; 7 + 7b\\
+7c &amp;=&amp; 0 + 7d\\
+\end{matrix}
+&lt;/math&gt;
+:We choose d=1, then x=26.
+3.
+:(a)
+::
+{| border=&quot;1&quot; cellpadding=&quot;2&quot;
+|-
+! smaller
+! larger
+! PQ
+|-
+| 33 || 101
+! 3
+|-
+| 2 || 33
+! 16
+|-
+| 1 || 2
+! 2
+|-
+| 0 || 1
+!
+|}
+
+{| border=&quot;1&quot; cellpadding=&quot;2&quot;
+|-
+|
+ || 
+! 3
+! 16
+! 2
+|-
+&lt;td&gt;0
+&lt;td&gt;1
+&lt;td&gt;3
+&lt;td&gt;49
+&lt;td&gt;101
+|-
+&lt;td&gt;1
+&lt;td&gt;0
+&lt;td&gt;1
+&lt;td&gt;16
+&lt;td&gt;33
+|}
+:(b) ''To be added''
+4.
+:(a)
+
+{| border=&quot;1&quot; cellpadding=&quot;2&quot;
+|-
+! smaller
+! larger
+! PQ
+|-
+| 17 || 317
+! 18
+|-
+| 11 || 17
+! 1
+|-
+| 6 || 11
+! 1
+|-
+| 5 || 6
+! 1
+|-
+| 1 || 5
+! 5
+|-
+| 0 || 1
+!
+|}
+
+{| border=&quot;1&quot; cellpadding=&quot;2&quot;
+|-
+|
+ || 
+! 18
+! 1
+! 1
+! 1
+! 5
+|-
+&lt;td&gt;0
+&lt;td&gt;1
+&lt;td&gt;18
+&lt;td&gt;19
+&lt;td&gt;37
+&lt;td&gt;56
+&lt;td&gt;317
+|-
+&lt;td&gt;1
+&lt;td&gt;0
+&lt;td&gt;1
+&lt;td&gt;1
+&lt;td&gt;2
+&lt;td&gt;3
+&lt;td&gt;17
+|}
+::(b) To be added
+
+===Chinese remainder theorem exercises===
+1.
+:&lt;math&gt;
+\begin{matrix}
+3x &amp;\equiv&amp; 5 \pmod{14}\\
+x &amp;\equiv&amp; 11 \pmod{14}\\
+x &amp;=&amp; 11 + 14 a\\
+2x &amp;=&amp; 2(11 + 14a) &amp;\equiv&amp; -3 \pmod{17}\\
+  &amp; &amp;  22 + 28 a &amp;\equiv&amp; -3 \pmod{17}\\
+  &amp; &amp;  11 a &amp;\equiv&amp; -8 \pmod{17}\\
+  &amp; &amp;  a &amp;=&amp; 7 + 17b\\
+x &amp;=&amp; 11 + 14(7 + 17b) &amp;\equiv&amp; 6 \pmod{15}\\
+  &amp;=&amp; 109 + 238b &amp;\equiv&amp; 6 \pmod{15}\\
+  &amp;=&amp; 4 + 13b &amp;\equiv&amp; 6 \pmod{15}\\
+  &amp;=&amp; 13b &amp;\equiv&amp; 2 \pmod{15}\\
+  &amp;&amp; b &amp;\equiv&amp; 14 \pmod{15}\\
+  &amp;&amp; b &amp;= &amp;14 + 15c\\
+x  &amp;=&amp; 109 + 238(14 + 15c)\\
+x  &amp;=&amp; 3441 + 3570c
+\end{matrix}
+&lt;/math&gt;
+
+===Question 1===
+Show that the divisible-by-3 theorem works for any 3 digits numbers (Hint: Express a 3 digit number as 100a + 10b + c, where a, b and c are ≥ 0 and &lt; 10)
+
+Solution 1
+Any 3 digits integer ''x'' can be expressed as follows
+:x = 100a + 10b + c
+where a, b and c are positive integer between 0 and 9 inclusive.
+Now
+:&lt;math&gt;
+x \equiv 100a + 10b + c \equiv a + b + c \pmod{3}
+&lt;/math&gt;
+:&lt;math&gt;
+x \equiv 0 \pmod{3}
+&lt;/math&gt;
+if and only if a + b + c = 3k for some k. But a, b and c are the digits of x.
+
+===Question 2===
+&quot;A number is divisible by 9 if and only if the sum of its digits is divisible by 9.&quot; True or false? Determine whether 89, 558, 51858, and 41857 are divisible by 9. Check your answers.
+
+Solution 2
+The statement is true and can be proven as in question 1.
+
+===Question 4===
+The prime sieve has been applied to the table of numbers above. Notice that every number situated directly below 2 and 5 are crossed out. Construct a rectangular grid of numbers running from 1 to 60 so that after the prime sieve has been performed on it, all numbers situated directly below 3 and 5 are crossed out. What is the width of the grid?
+
+Solution 4
+The width of the grid should be 15 or a multiple of it.
+
+=== Question 6 ===
+Show that n - 1 has itself as an inverse modulo n.
+
+Solution 6
+:(n - 1)&lt;sup&gt;2&lt;/sup&gt; = n&lt;sup&gt;2&lt;/sup&gt; - 2n + 1 = 1 (mod n)
+Alternatively
+:(n - 1)&lt;sup&gt;2&lt;/sup&gt; = (-1)&lt;sup&gt;2&lt;/sup&gt; = 1 (mod n)
+
+===Question 7===
+Show that 10 does not have an inverse modulo 15.
+
+Solution 7
+Suppose 10 does have an inverse ''x'' mod 15,
+:10x = 1 (mod 15)
+:2&amp;times;5x = 1 (mod 15)
+:5x = 8 (mod 15)
+:5x = 8 + 15k
+for some integer k
+:x = 1.6 + 3k
+but now ''x'' is not an integer, therefore 10 does not have an inverse</text>
+      <sha1>texfizch0e5r1ncxfc1eeoqqjforaq7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:General Chemistry/Properties of matter</title>
+    <ns>1</ns>
+    <id>3397</id>
+    <revision>
+      <id>393438</id>
+      <parentid>213814</parentid>
+      <timestamp>2006-03-09T12:47:41Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Properties of matter (General Chemistry)]] moved to [[Talk:General Chemistry/Properties of matter]]: naming convention</comment>
+      <text xml:space="preserve">Format formulas with bold italics and scripts.
+
+----
+
+I think this goes too in-depth for a general chemistry course - I will completely reformat the page. Feel free to revert if you wish. [[User:140.247.240.69|140.247.240.69]] 21:50, 15 August 2005 (UTC)</text>
+      <sha1>41inaeqsklzlh3c5ub6j0gz3a0tiimb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Mapping that's not a function.png</title>
+    <ns>6</ns>
+    <id>3401</id>
+    <revision>
+      <id>636428</id>
+      <parentid>155326</parentid>
+      <timestamp>2006-11-04T11:02:10Z</timestamp>
+      <contributor>
+        <username>Theresa knott</username>
+        <id>93</id>
+      </contributor>
+      <text xml:space="preserve">Diagram drawn by Theresa knott
+
+{{GFDL}}
+{{Cc-by-sa-2.5}}</text>
+      <sha1>7clkhk907c02ou60105tkuygs5u93zq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Potato Recipes</title>
+    <ns>102</ns>
+    <id>3404</id>
+    <revision>
+      <id>2687052</id>
+      <parentid>1784905</parentid>
+      <timestamp>2014-07-31T22:22:10Z</timestamp>
+      <contributor>
+        <username>Koavf</username>
+        <id>16549</id>
+      </contributor>
+      <minor />
+      <comment>Koavf moved page [[Cookbook:Potato recipes]] to [[Cookbook:Potato Recipes]]</comment>
+      <text xml:space="preserve">{{cookwork}}
+
+{{1881}}
+
+'''General Instructions'''.--The vegetable kingdom affords no food more wholesome, more easily prepared, or less expensive than the potato, yet, although this most useful vegetable is dressed almost every day, in almost every family-for one plate of potatoes that comes to table as it should, ten are spoiled. 
+
+Be careful in your choice of potatoes; no vegetable varies so much in color, size, shape, consistence and flavor. 
+
+Choose those of a large size, free from blemishes, and fresh, and buy them in the mould; they must not be wetted till they are cleaned to be cooked. Protect them from the air and frost by laying them in heaps in a cellar, covering them with mats or burying them in sand or in earth. The action of frost is most destructive, if it be considerable, the life of the vegetable is destroyed, and the potato speedily rots. 
+
+# '''Potatoes boiled'''.--Wash them, but do not pare or cut them unless they are very large; fill a saucepan half full of potatoes of equal size (or make them so by dividing the larger ones), put to them as much cold water as will cover them about an inch: they are sooner boiled, and more savory than when drowned in water; most boiled things are spoiled by having too little water, but potatoes are often spoiled by too much; they must merely be covered, and a little allowed for waste in boiling) so that they may be just covered at the finish. &lt;p&gt;Set them on a moderate fire till they boil, then take them off, and set them by the side of the fire to simmer slowly till they are soft enough to admit a fork (place no dependence on the usual test of their skin cracking, which, if they are boiled fast, will happen to some potatoes when they are not half done, and the inside is quite hard); then pour the water off (if you let the potatoes remain in the water a moment after they are done enough they will become waxy and watery), uncover the saucepan, and set it at such a distance from the fire as will secure it from burning; their superfluous moisture will evaporate, and the potatoes will be perfectly dry and mealy. &lt;p&gt;You may afterwards place a napkin, folded up to the size of the saucepan's diameter, over the potatoes, to keep them hot and mealy till wanted. &lt;p&gt;This method of managing potatoes is in every respect equal to steaming them; and they are dressed in half the time. &lt;p&gt;There is such an infinite variety of sorts and sizes of potatoes, that it is impossible to say how long they will take to cook; the best way is to try them with a fork. Moderate sized potatoes will generally be done in fifteen or twenty minutes. &lt;p&gt;
+# '''Cold Potatoes Fried'''.--Put a bit of clean dripping into a fryingpan; when it is melted slice in your potatoes with a little pepper and salt, put them on the fire, keep stirring them; when they are quite hot they are ready. &lt;p&gt;
+# '''Potatoes Boiled and Broiled'''.--Dress your potatoes as before directed, and put them on a gridiron over a very clear and brisk fire; turn them till they are brown all over, and send them up dry, with melted butter in a cup. &lt;p&gt;
+# '''Potatoes Fried in Slices or Shavings'''.--Peel large potatoes, slice them about a quarter of an inch thick, or cut them in shavings round and round as you would peel a lemon. Dry them well in a clean cloth, and fry them in lard or dripping. Take care that your fat and frying pan are quite clean; put the pan on a quick fire, watch it, and as soon as the lard boils, and is still, put in the slices of potatoes, and keep moving them till they are crisp; take them up and lay them to drain on a sieve: send them up with a very little salt sprinkled over them. &lt;p&gt;
+# '''Potatoes Fried Whole'''.-When nearly boiled enough, as directed in No. 1, put them into a stewpan with a bit of butter, or some nice clean beef drippings; shake them about often (for fear of burning them) till they are brown and crisp; drain them from the fat. &lt;p&gt;It will be an improvement to the three last receipts, previously to frying or broiling the potatoes, to flour them and dip them in the yolk of an egg, and then roll them in fine sifted breadcrumbs. &lt;p&gt;
+# '''Potatoes Mashed'''.--When your potatoes are thoroughly boiled, drain dry, pick out every speck, etc., and while hot rub them through a colander into a clean stewpan, to a pound of potatoes put about half an ounce of butter, and a tablespoonful of milk; do not make them too moist; mix them well together. &lt;p&gt;
+# '''Potatoes Mashed with Onions'''.--Prepare some boiled onions, by putting them through a sieve, and mix them with potatoes. In proportioning the onions to the potatoes, you will be guided by your wish to have more or less of their flavor. &lt;p&gt;
+# '''Potatoes Excaloped'''.--Mash potatoes as directed in No. 6, then butter some nice clean scallop shells, or pattypans; put in your potatoes, make them smooth at the top, cross a knife over them, strew a few fine bread-crumbs on them, sprinkle them with a paste brush with a few drops of melted butter, and then set them in a Dutch oven; when they are browned on the top, take them carefully out of the shells, and brown the other side. &lt;p&gt;
+# '''Colcannon'''.--Boil potatoes and greens, or spinach, separately; mash the potatoes, squeeze the greens dry, chop them quite fine, and mix them with the potatoes with a little butter, pepper and salt; put it into a mould, greasing it well first; let it stand in a hot oven for ten minutes &lt;p&gt;
+# '''Potatoes Roasted'''.--Wash and dry your potatoes (all of a size), and put them in a tin Dutch oven, or cheese toaster; take care not to put them too near the fire, or they will get burnt on the outside before they are warmed through. Large potatoes will require two hours to roast them. &lt;p&gt;
+# '''Potatoes Roasted under Meat'''.--Half boil large potatoes, drain the water from them, and put them into an earthern dish, or small tin pan under meat that is roasting, and baste them with some of the dripping when they are browsed on one side, turn them and brown the other; send them up round the meat, or in a small dish &lt;p&gt;
+# '''Potato Balls'''.--Mix mashed potatoes with the yolk of an egg, roll them into balls, flour them, or egg and breadcrumb them, and fry them in clean drippings, or brown them in a Dutch oven. &lt;p&gt;
+# '''Potato Snow'''.--The potatoes must be free from spots, and the whitest you can pick out; put them on in cold water; when they begin to crack strain the water from them, and put them into a dean stewpan by the side of the fire till they are quite dry and fall to pieces; rub them through a wire sieve on the dish they are to be sent up in and do not disturb them afterwards. &lt;p&gt;
+# '''Potato Pie'''.--Peel and slice your potatoes very thin into a pie dish. Between each layer of potatoes put a little chopped onion (three-quarters of an ounce of onion is sufficient for a pound of potatoes), between each layer sprinkle a little pepper and salt, put in a little water and cut about two ounces of fresh butter into little bits and lay it on The top, cover it close with puff paste. It will take about an hour and a half to bake it.
+
+[[Category:Potato recipes|{{PAGENAME}}]]</text>
+      <sha1>qawx3ht9mpzvunljwn98hb3pql9wgpw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Swiss Pudding</title>
+    <ns>102</ns>
+    <id>3410</id>
+    <revision>
+      <id>2687264</id>
+      <parentid>1844938</parentid>
+      <timestamp>2014-07-31T23:05:23Z</timestamp>
+      <contributor>
+        <username>Koavf</username>
+        <id>16549</id>
+      </contributor>
+      <minor />
+      <comment>Koavf moved page [[Cookbook:Swiss pudding]] to [[Cookbook:Swiss Pudding]]</comment>
+      <text xml:space="preserve">{{recipe}}
+
+== Ingredients ==
+
+* 4 or 5 apples
+* Bread crumbs
+* Small amount of butter nutmeg
+* Sugar
+
+== Procedure ==
+
+#Butter your dish; lay in it a layer of bread crumbs, grated very fine
+#Boil 4 or 5 apples very tender, add a little butter nutmeg, and fine sifted sugar.
+#Mix all up together, and lay on the bread-crumbs, then another layer of the crumbs; then add pieces of fresh butter on the top, and bake in a slow oven for a quarter of an hour, until it becomes a delicate brown.
+#It may be eaten hot or cold.
+
+{{1881}}
+
+[[Category:Swiss recipes|{{PAGENAME}}]]
+[[Category:Apple recipes|{{PAGENAME}}]]
+[[Category:Dessert recipes|{{PAGENAME}}]]
+[[Category:Recipes_with_metric_units|{{PAGENAME}}]]</text>
+      <sha1>9dmcctk4psq5zfv50vlwa1w059kbzd3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Transwiki log</title>
+    <ns>0</ns>
+    <id>3413</id>
+    <redirect title="Wikibooks:Transwiki log" />
+    <revision>
+      <id>155338</id>
+      <timestamp>2003-12-20T23:28:48Z</timestamp>
+      <contributor>
+        <username>Gentgeen</username>
+        <id>279</id>
+      </contributor>
+      <comment>moved to &quot;Wikibooks:Transwiki_log&quot;</comment>
+      <text xml:space="preserve">#REDIRECT [[Wikibooks:Transwiki_log]]
+</text>
+      <sha1>ngkdmf6d1oz259wbxlet6x3wecmjv16</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:How to Write an Essay</title>
+    <ns>1</ns>
+    <id>3414</id>
+    <revision>
+      <id>1624508</id>
+      <parentid>510636</parentid>
+      <timestamp>2009-09-04T18:20:57Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>moved [[Talk:How to write an essay]] to [[Talk:How to Write an Essay]]: Title casing.</comment>
+      <text xml:space="preserve">Is it worth putting in a chapter about Referencing standards (Harvard)?  I could make a chapter about writing science... --[[User:81.98.81.9|81.98.81.9]] 01:23, 21 Dec 2003 (UTC) (http://en.wikipedia.org/User:Steinsky)
+
+:A chapter on referencing standards sounds great to me, as well as how to write science (that may just help me write my [[Organic chemistry]] book and others better). I look forward to seeing what you have to say.  --[[User:Karl Wick|Karl Wick]]
+
+Isn't this fairly POV?
+
+== Links ==
+
+The first link (Research and preparation) links to the same page as the second link.
+
+Why is there a link to the contents page on the contents page?? [[User:BenC7|BenC7]] 06:33, 3 July 2006 (UTC)</text>
+      <sha1>ldyy7hdqj60s8bexdyq8ixolvm5z5y7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Botany/Microbes</title>
+    <ns>0</ns>
+    <id>3421</id>
+    <revision>
+      <id>2063486</id>
+      <parentid>1330324</parentid>
+      <timestamp>2011-03-04T17:59:25Z</timestamp>
+      <contributor>
+        <username>Avicennasis</username>
+        <id>314063</id>
+      </contributor>
+      <minor />
+      <comment>[[WP:AWB/T|Typo fixing]], typos fixed: persued → pursued (3) using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">&lt;small&gt;&lt;&lt; [[Botany#Contents|Contents Page]] | &lt;&lt; [[Botany/Kinds_of_plants|Chapter 7]] | &lt;/small&gt;Chapter 8&lt;small&gt; | [[Botany/Phycology|Chapter 9]] &gt;&gt;|&lt;/small&gt; 
+----
+&lt;center&gt;
+&lt;big&gt;&lt;big&gt;Chapter 8. Microbiology&lt;/big&gt;&lt;/big&gt;  
+&lt;/center&gt;
+
+==Microbes==
+
+'''Microbes''' are extremely small organisms or quasi-living particles traditionally studied by botanists, but now treated within the more specialized field of '''Microbiology'''. As a specialized field, Microbiology has its own methodologies and terminologies often very different from those used by botanists. Nonetheless, there is value for beginning botany students to learn something of these organisms&amp;mdash;to gain understanding of their presumably more primitive nature and significance as the causes of plant diseases.   
+ 
+==Bacteria==
+===Overview===
+A '''bacterium''' (plural: bacteria) is a single celled organism belonging to the '''Domain Bacteria''', in the three domain scheme. It can also be a type of organism belonging to one of the three major branches of life. Traditionally classified as one of the five kingdoms, bacteria are microscopic and relatively simple cells, called '''prokaryotes'''. These cells lack the nucleus and organelles of the more complex cells called '''eukaryotes''' that plants are constructed of.  However, like the cells of plants, most bacteria possess a carbohydrate-based cell wall. In common speech, &quot;bacteria&quot; still refers also to archaeabacteria, although the latter recently have been classified as an independent branch or &quot;domain&quot; of life. 
+
+True bacteria are the oldest organisms on Earth, with the possible exception of the Archaea, and they are also the most abundant. Bacteria exist in soil, water, and as parasites of other organisms. Species and strains of bacteria cause many if not most non-hereditary diseases. They are the target of the drugs known as antibiotics.
+
+* Read [[Wikipedia:en:Bacterium|Bacterium]] (&lt;small&gt;Links need not be pursued at this time&lt;/small&gt;)
+
+==Viruses==
+
+===Overview===
+
+A '''virus''' is an obligate cellular parasite that is completely dependent on the host cell for its replication. The genome of the virus may consist of single stranded or double stranded DNA or RNA. The size of viral genomes varies widely and may encode between one and 250 genes. Of most interest within the study of Botany are viruses that are '''plant pathogens'''. The majority of plant viruses have single-stranded, messenger-sense RNA genomes (Class IV) and encode only between one and 12 proteins. These proteins function in virus transmission, in replication, cell-to-cell and systemic movement, in the structure of the virus, and in the suppression of plant host defense mechanisms. In many cases, virus replication takes place in distinct virus-induced regions of the cell, the so-called viroplasms, and induces the synthesis of a pool of virus components followed by assembly of many virus particles from this pool.
+
+Viruses can usually be horizontally transmitted between hosts. In many cases the transmission is dependent on insects, nematodes, fungi or other vectors. However, some other viruses, for example ''Tobacco mosaic virus'' (TMV), are transmitted mechanically by physical contact between plant tissue and virus-contaminated surfaces. Once the virus is transmitted and has successfully entered into the plant cell, it moves locally from cell to cell until it enters the phloem, which allows the virus to enter distant tissue to cause a systemic infection.
+
+Even smaller than viruses are '''viroids''' . Viroids are infectious agents that consist of single-stranded RNA, which does not encode any proteins.
+
+* Read (&lt;small&gt;Links need not be pursued at this time&lt;/small&gt;):
+**[[wikipedia:en:Virus|Virus]]
+**[[wikipedia:en:Viral classifications|Viral classifications]]
+**[[wikipedia:en:Pathogen|Pathogen]]
+**[[wikipedia:en:Viroid|Viroid]]
+
+
+===History===
+
+The first virus to be identified was TMV. A. E. Mayer was a professor at the Agricultural College in Wageningen, the Netherlands that was establishment in 1876. Soon after he was asked by farmers to investigate a highly contagious disorder in tobacco, which he called ''mosaic disease''. In 1898, M. W. Beijerinck in the Netherlands concluded that the tobacco mosaic disease-causing agent was neither a bacterium nor any corpuscular body, but rather a contagium vivum fluidum, an infectious fluid. The next big step was made in 1935, when TMV was chemically purified by Nobel prizewinner Wendell M. Stanley in the United States. This was followed soon after in 1939 by the first visual observation of the rod shaped TMV particles by '''electron microscopy''' by Kausche, Pfankuch and Ruska in Germany. For a long time electron microscopy remained a main tool in virology, and many viruses were isolated and visualized. The study of the mechanisms of viral infection cycles became more important after '''molecular biology''' tools became available.
+
+* Read (&lt;small&gt;Links need not be pursued at this time&lt;/small&gt;):
+**[[wikipedia:en:Electron microscope|Electron microscope]]
+**[[wikipedia:en:Molecular biology|Molecular Biology]] 
+
+===Links to external portals / webpages ===
+
+*[http://www.virology.net/garryfavwebplant.html All the Virology on the WWW - Plant viruses]
+*[http://image.fs.uidaho.edu/vide/ Plant Viruses Online]
+&lt;br&gt;
+----
+&lt;center&gt;
+{{BotanyTOC2}}
+&lt;/center&gt;
+
+[[Category:Botany]]</text>
+      <sha1>4ztupbgprinytlh1623qqp7yozb3lul</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks talk:Contact us</title>
+    <ns>5</ns>
+    <id>3422</id>
+    <revision>
+      <id>2389399</id>
+      <parentid>2389344</parentid>
+      <timestamp>2012-08-10T17:18:01Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/Scrapeboxmurah|Scrapeboxmurah]] ([[User talk:Scrapeboxmurah|talk]]) to last version by Xania</comment>
+      <text xml:space="preserve">{{warning|
+'''This page is for discussing [[Wikibooks:Contact us]] only; not for general questions about Wikibooks'''&lt;br/&gt;Please do not make general inquiries here. Instead, look at the [[Wikibooks:Contact us|project page]] to see the various ways of contacting us. If you post here, chances are that nobody will see it.
+}}
+
+== Technologically ignorant... ==
+
+Could someone explain to me how to use IRC? Every time I attempt to follow a link, I am met with some sort of error. Thanks, [[User:Neoptolemus|Νεοπτόλεμος]] 02:01, 25 December 2007 (UTC)
+: OK, 4 years too late but it may help others.  In most cases you will need a program like [http://www.mirc.com miRC] to use the IRC.  If you use the [http://www.opera.com Opera] web browser then you can simply click on the link because IRC is included within the web browser.--[[User:Xania|ЗAНИA]] [[Image:Flag_of_Italy.svg|15px]][[User talk:Xania|&lt;sup&gt;talk&lt;/sup&gt;]] 13:09, 18 December 2011 (UTC)
+
+== http://en.wikibooks.org/wiki/A-level_Physics_(Advancing_Physics)/The_Standard_Model/Worked_Solutions ==
+
+http://en.wikibooks.org/wiki/A-level_Physics_(Advancing_Physics)/The_Standard_Model/Worked_Solutions
+5. The antiparticle of the electron (e-) is the positron. What is the charge and rest mass of a positron?
+
+Charge: +1.6 x 10-19C
+
+Mass: 0.511 MeV = 8.176 x 10-14 kg
+==================================
+Is the rest mass actually the same of that of the electron?:
+9.10938215(45)×10−31 kg
+=======================
+as per:
+http://en.wikipedia.org/wiki/Positron
+{{unsigned|86.17.231.68}}
+:This isn't the best place for such a question because nobody will ever read it, certainly not anybody familiar with the A-Level Physics book.  It would be better to post this question on the Talk page of [[A-level_Physics_(Advancing_Physics)]].  I have now copied your question to [[Talk:A-level Physics (Advancing Physics)]] where somebody might be able to help.--[[User:Xania|ЗAНИA]] [[Image:Flag_of_Italy.svg|15px]][[User talk:Xania|&lt;sup&gt;talk&lt;/sup&gt;]] 13:14, 18 December 2011 (UTC)</text>
+      <sha1>n6mo3uwe1txk1o9gw6htu2u3ygc5pyr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Trigonometry/Archive 1</title>
+    <ns>1</ns>
+    <id>3423</id>
+    <revision>
+      <id>2007818</id>
+      <parentid>2007816</parentid>
+      <timestamp>2010-12-23T13:53:19Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>moved [[Talk:Trigonometry/Archive1]] to [[Talk:Trigonometry/Archive 1]]: convention</comment>
+      <text xml:space="preserve">==Level of Course==
+: &quot;''is trig really considered a subject for *advanced* HS students?''&quot;. This will differ between places and some school systems don't parallel particularly well with the (standard?) US one.  --[[User:Swift|Swift]] 04:09, 17 October 2006 (UTC)
+
+::Most states' high school curriculum, advanced average or basic, typically require up to Algebra II (Pre-Algebra, Algebra I, Geometry, Algebra II) to be completed. However, all high schools attempt to motivate the kids to take up to Pre-Calculus/Trigonometry and the advanced kids to take Calculus. So, for normal/basic students they would reach Trigonometry. For advanced, they'd reach Calculus. At least, that's how it is in Florida, Illinois, Wisconsin, Ohio, Indiana, Iowa, and Michigan. Probably more states too. --[[User:Mathos|Jaden Mathos]] 04:23, 12 July 2006 (UTC)
+
+== Problems from a precalculus book ==
+
+[[User:Robinson0120|Robinson0120]] Hey, all. I have a Precalculus textbook at the moment and I noticed that there weren't any problems in this Wikibook. Should I take a few out of the textbook and put them on the page with answers and explanations? I haven't really contributed anything yet and it looks like something I could do. If there's a heads up, I'll go ahead and do it. Thanks!
+
+: Problems are a good idea, but the ones in your book are probably copyrighted. See [[Wikibooks:Copyrights]] for details. --[[User:Swift|Swift]] 04:09, 17 October 2006 (UTC)
+
+[[User:Robinson0120|Robinson0120]] That's not a problem, I could just change a few of the numbers and alter a few of the situations. They can't have a copyright on the concept, right? I'll go ahead and get started.
+
+: I'd be '''very''' careful here. Textbook authors usually include examples that have proven to work on their students. That involves a lot of work. Let's not show them the disrespect of leaching off their work. Copying them in any way is a violation of their copyright.
+: These problems are very simple to make up (I'll help you if you'd like) but if there are a number that look simlar to a book, then we might be in trouble. I recommend you '''not''' to use the book for anything more than glancing through to get ideas. --[[User:Swift|Swift]] 01:40, 18 October 2006 (UTC)
+
+::Very well, Swift. I don't have the book anymore anyways; I'm going to go ahead and think some up right now. I need some help in deciding how to implement the problems though. Should we have a separate page with problems and answers, or add it to the wikibook page?[[User:Robinson0120|Robinson0120]] 00:43, 25 December 2006 (UTC)
+
+::: Depends on the number. There is no need for a seperate page if there will only be a few of them. As the number grows, split the page up by moving them to a seperate page. --[[User:Swift|Swift]] 06:17, 25 December 2006 (UTC)
+
+== Standardized Problems and Solutions ==
+
+Hey all. I just found a great template that I think we should standardize and use for all questions and solutions. The template looks like this:
+
+  |{| class=&quot;navbox collapsible collapsed&quot; style=&quot;text-align: left; border: 0px; margin-top: 0.2em;&quot;
+  |-
+  ! style=&quot;background-color: #B4CDCD;&quot; | 
+  |-
+  | style=&quot;border: solid 1px silver; padding: 8px; background-color: white;&quot; |
+  |}
+
+Just disregard the first |; I put that in so that I could put lines around the text. In any event, it looks like a great way to present problems. Here's one I made: 
+
+{| class=&quot;navbox collapsible collapsed&quot; style=&quot;text-align: left; border: 0px; margin-top: 0.2em;&quot;
+|-
+! style=&quot;background-color: #B4CDCD;&quot; | Question: Convert &lt;math&gt;\frac{\pi}{2}&lt;/math&gt; into degree form.
+|-
+| style=&quot;border: solid 1px silver; padding: 8px; background-color: white;&quot; | '''Solution:''' '''90&amp;deg;'''
+|}
+
+(NOTE: To see the way it actually looks on the page, follow this link to my talk page and look at &quot;Template Example&quot;: http://en.wikipedia.org/wiki/User_talk:Robinson0120)
+
+http://www.december.com/html/spec/color.html has a number of hexadecimal colors to choose from for the question and answer background, too. 
+
+So, what does everybody think? [[User:Robinson0120|Robinson0120]] 03:13, 25 December 2006 (UTC)
+
+: Sure, it looks like a good way to display problems and solutions. --[[User:Swift|Swift]] 06:20, 25 December 2006 (UTC)
+
+::Looks fine and all, but having the problem immediately followed by the solution could be very annoying for a student who's actually trying to apply their mind to the problem, the answer waving in their face and all.  I have a statistics self-study book like that, and it's my least favorite of all the math book I've ever used.  In fact, I despise it.  I do think that providing extensive problem sets for each topic is an invaluable addition that we really need to work on.  It's the difference between a sketchy summary and a useful textbook, IMO. --[[User:Fyedernoggersnodden|Fyedernoggersnodden]] 19:20, 4 November 2007 (UTC)
+
+== Front cover created for this book ==
+
+[[Image:OpenTrigonometry.png|thumb|right]]
+I'm planning to expand this book quite significantly and then make an actual book from it, which looks like an actual textbook. Here's the front cover, thus far. Careful, the file is gigantic :-P [[User:James.Spudeman|James.Spudeman]] 01:20, 20 February 2007 (UTC)
+:I like the idea, but I must comment that (a) this is the same background image being used at the head of the [[Calculus]] wikibook, and (b) while the nautilus is a wonderful and elegant example of the beauty of mathematics, it's doesn't really scream &quot;Trigonometry&quot; to me.  I could, however, go for an illustration of waves (Lots of artistic potential there!) or even, if we must be ordinary, triangles. ''--someone unsigned''
+:Well we could overlay a right-triangle spiral ''and'' get some real and imaginary waves, ocean and graphed, onto the cover.  That would be in keeping with the sea shell motif.  All we need now is a talented mathematical artist.[[User:JamesCrook|JamesCrook]] ([[User talk:JamesCrook|talk]]) 12:51, 16 October 2010 (UTC)
+
+== Moving trig out of algebra ==
+
+Is it true that a college algebra book, or high school algebra book, or whatever, has no trig in it?  So, I am new here but I don't understand why this part of the book had to be moved out of an algebra book just because it is trig?  And, I don't understand why the message saying it was removed is in the book and not in the discussion section.  Isn't this what a discussion section is for? [[User:NumberTheorist|NumberTheorist]] ([[User talk:NumberTheorist|talk]]) 17:21, 10 February 2010 (UTC)
+
+: An algebra book may contain a little trigonometry, but doesn't specialize in it (at most, it may just reference ''sin'' as a function).  A book on Trigonometry places a specific focus on the topic, and will include more detailed descriptions of appropriate functions or equations.  (e.g. the law of cosines may not be suitable for a simple algebra book.) --[[User:Sigma 7|Sigma 7]] ([[User talk:Sigma 7|talk]]) 15:13, 11 February 2010 (UTC)
+
+== A third book? ==
+
+The intended structure seems to be an elementary book that moves slowly step by step and an advanced book that assumes a knowledge of calculus and complex numbers.  Should there be another book, between or after them, that assumes some sophistication, so can move rapidly, but not the more advanced stuff?  This new book could include the stuff for enthusiasts and the sections I am adding about associated circles, plus material like the formula for sin 18º.--[[User:Wisden|Wisden]] ([[User talk:Wisden|talk]]) 19:09, 4 December 2010 (UTC)
+
+: You could put the various circles and sin 18º in the 'for enthusiasts' section, but if in book one I think you would still have to assume that algebraic manipulations need to be done step by step.  So I guess, yes, I am OK with a third book that takes the algebra a lot faster, but that still does not depend on calculus or complex numbers.  I very much like the core/enthusiasts division within a book so don't want to lose that.  If you want to make a book 'between' 1 and 2, and take some of the enthusiasts pages into it (as enthusiast pages) that is fine.  Delaunay triangulation would certainly belong with the circumcircle page. -- [[User:JamesCrook|JamesCrook]] ([[User talk:JamesCrook|talk]]) 15:08, 5 December 2010 (UTC)
+
+: You might also want to pick up some topics from [[Trigonometry/Teachers_Notes/Khan_Academy_Videos]] (such as polar coordinates) that are not in book 1. -- [[User:JamesCrook|JamesCrook]] ([[User talk:JamesCrook|talk]]) 15:57, 5 December 2010 (UTC)</text>
+      <sha1>3kry8d64gxz9ag7sk6n42c8mgc4x7s7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Trigonometry/Prerequisites and Basics</title>
+    <ns>0</ns>
+    <id>3424</id>
+    <revision>
+      <id>1617423</id>
+      <parentid>1443874</parentid>
+      <timestamp>2009-08-27T18:38:53Z</timestamp>
+      <contributor>
+        <ip>165.196.163.43</ip>
+      </contributor>
+      <comment>syntax cleanup</comment>
+      <text xml:space="preserve">To be able to study Trigonometry successfully, it is recommended that students complete [[Geometry]] and [[Algebra]] prior to digging in to the course material. Students should also be familiar with the arithmetic of the real number system. It is helpful to have a graphing calculator and graph paper on hand to be able to follow along as well. If one is not available, software available on sites such as [http://www.graphcalc.com/ GraphCalc] or [http://www.geogebra.org/cms/ GeoGebra] may be helpful. Geometric constructions proposed in the text can be drawn using [http://www.cpan.org/authors/id/P/PR/PRBRENAN/geops-1.2.pl Geops], free software for performing geometric constructions in the manner of the Ancient Greeks.
+
+''Next Page: [[Trigonometry/In simple terms|In simple terms]]''&lt;br /&gt;
+&lt;br /&gt;
+&lt;small&gt;Home: [[Trigonometry]]&lt;/small&gt;
+
+[[Category:Trigonometry]]</text>
+      <sha1>bczl54mmrugdgwxil5j7zqa3nv0ht32</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>William Shakespeare's Works/The Life of William Shakespeare</title>
+    <ns>0</ns>
+    <id>3427</id>
+    <revision>
+      <id>2611389</id>
+      <parentid>2608691</parentid>
+      <timestamp>2014-02-23T20:39:55Z</timestamp>
+      <contributor>
+        <username>Recent Runes</username>
+        <id>66908</id>
+      </contributor>
+      <comment>Rejected the last 3 text changes (by [[Special:Contributions/2001:5B0:21FF:2CF0:0:0:0:31|2001:5B0:21FF:2CF0:0:0:0:31]] and [[Special:Contributions/38.117.84.194|38.117.84.194]]) and restored revision 2085984 by Simon Peter Hughes</comment>
+      <text xml:space="preserve">Who do we mean when we speak of this person, Shakespeare?
+
+Shakespeare is William Shakespeare, one of the English-speaking world's greatest playwrights and poets, who possessed a great knowledge of human nature and transformed the English theatre. 
+
+Yet many facts of his life remain a mystery. Some have been acquired from painstaking looks at the records of the time, so that this summary is based on generally agreed facts. It has been said that we only know three things about Shakespeare: that he was born, married and died.
+
+He was baptised on April 26, 1564; we do not know his birth date, but many scholars believe it was April 23, 1564.
+
+His father was John Shakespeare (who was a glover and leather merchant) and his mother Mary Arden (who was a landed local heiress). John had a remarkable run of success as a merchant, alderman, and high bailiff of Stratford, during William's early childhood. His fortunes declined, however, in the late 1570s.
+
+William lived for most of his early life in Stratford-upon-Avon. We do not know exactly when he went to London but he is said to have arrived in 1592.
+
+There is great conjecture about Shakespeare's childhood years, especially regarding his education. It is surmised by scholars that Shakespeare attended the free grammar school in Stratford, which at the time had a reputation to rival that of Eton. While there are no records extant to prove this claim, Shakespeare's knowledge of Latin and Classical Greek would tend to support this theory.  In addition, Shakespeare's first biographer, Nicholas Rowe, wrote that John Shakespeare had placed William &quot;for some time in a free school.&quot; John Shakespeare, as a Stratford official, would have been granted a waiver of tuition for his son. As the records do not exist, we do not know how long William attended the school, but certainly the literary quality of his works suggest a solid education. What is certain is that William Shakespeare never proceeded to university schooling, which has stirred some of the debate concerning the authorship of his works.
+
+In November 28, 1582, when he was 18, he married Anne Hathaway, who was 26. They had a daughter named Susanna, who was baptised on May 26, 1583. Later they had twins, a son named Hamnet and a daughter named Judith. Hamnet died while he was still a child on August 11, 1596. Due to the early death of his only son, Shakespeare does not have any direct descendants.
+
+For the seven years that followed the birth of his twins, William Shakespeare disappeared from all records, and then, turned up again in London some time in 1592. This period, which is known as the &quot;Lost Years,&quot; has sparked as much controversy about Shakespeare's life as any period.
+
+When he was in London, he worked in repetory companies, and became part of the Lord Chamberlain's Men as an actor, playwright and shareholder.
+
+In 1599 he became an part-owner of the Globe Theater in Southwark.
+
+In 1603 James I became king and issued a royal licence to Shakespeare's acting company, who then became the King's Men, the foremost acting company in London at the time.
+
+In 1608 they leased a building called Blackfriars, which they converted to an indoor playhouse. It had some advantgeous features like lighting and possibly heating. The Globe continued as their primary theater.
+
+From 1599 to 1608 he wrote several comedies and nearly all the famous tragedies. The year after (1609), his sonnets were published.
+
+William Shakespeare wrote his will in 1611, bequeathing his properties to his daughter Susanna (married in 1607 to Dr. John Hall). To his younger daughter Judith, he left £300, and to his wife Anne left &quot;my second best bed.&quot; According to tradition, William Shakespeare died on his 52nd birthday, April 23, 1616.
+
+On his grave are the haunting words:
+
+''Good friend, for Jesus' sake forbeare''
+
+''To dig the dust enclosed here''
+
+''Blessed be the man that spares these stones,''
+
+''And cursed be he that moves my bones.''
+
+It took over 100 years for some of his bones to be stolen.
+
+After his death, in 1623, his friends published the First Folio, the first authorized collection of his works and a main source for the texts of his plays,
+
+{{BookCat}}</text>
+      <sha1>e3h20yu9zm4ajwc7x9heyzos1n5zaw0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Mass Media</title>
+    <ns>0</ns>
+    <id>3428</id>
+    <revision>
+      <id>2255552</id>
+      <parentid>1938562</parentid>
+      <timestamp>2012-01-22T22:41:55Z</timestamp>
+      <contributor>
+        <username>Addihockey10 (automated)</username>
+        <id>502783</id>
+      </contributor>
+      <minor />
+      <comment>Bot : Replacing raster images with vectorized equivalents - [[File:25%.png]] → [[File:25%.svg]]</comment>
+      <text xml:space="preserve">{{center|''Welcome to the Wikibook on''&lt;br /&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;'''Mass Media'''&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;}}
+__NOTOC__ __NOEDITSECTION__
+==Table of contents==
+[[File:0081TIARA_P1000519.JPG|right|400px|Newspaper stands]]
+*[[/Preface/]] [[Image:25%.svg]]
+*[[/Introduction/]] [[Image:25%.svg]]
+*[[/History/]]
+*[[/Conglomerates|Major Media Conglomerates]]
+
+===[[/Theories|Theories of media]]===
+*[[/Influence of Media/]]
+*[[/Ethics of Media/]]
+*[[/Future of Media/]]
+
+===[[/Forms|Mass media forms]]===
+====Visual Media====
+*[[/Television/]]
+*[[/Posters/]]
+*[[/Billboards/]]
+*[[/Cinema/]]
+
+====Audio media====
+*[[/Radio/]]
+
+====Print media====
+*[[/Books/]]
+*[[/Newspapers/]]
+*[[/Magazines/]]
+*[[/Essays/]]
+*[[/Reviews/]]
+
+====Internet media====
+*[[/World Wide Web, Newsgroups and Discussion Groups/]]
+*[[/Digital Television/]]
+
+===Working with media===
+*[[/Journalism/]]
+*[[/Editing/]]
+*[[/Design and Advertising/]]
+*[[/Independent Magazines (zines)/]]
+*[[/Web Design/]]
+
+===Learning more about media===
+*[[/Resources/]]
+*[[/Organizations/]]
+*[[/Courses/]]
+
+===Appendices===
+*[[/Bibliography/]]
+*[[/Glossary/]]
+*[[/Authors|Authors and Contributors]] [[Image:25%.svg]]
+
+==External links==
+:*[http://www.acmi.net.au/AIC/WINSTON.html Winston, Brian: Adventures in Cybersound: How are Media Born?]
+
+{{Alphabetical|M}}
+{{Subjects|Communication}}
+{{status|0%}}</text>
+      <sha1>4zde63nnzo4vfm9yba4fyrm5q1ubpx2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Loukoumas</title>
+    <ns>102</ns>
+    <id>3429</id>
+    <revision>
+      <id>1740357</id>
+      <parentid>1051050</parentid>
+      <timestamp>2010-03-20T23:32:44Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <comment>rem &quot;warning&quot; re hot oil - this isn't for children.</comment>
+      <text xml:space="preserve">{{recipesummary|Dessert recipes|6|45 minutes|3}}
+{{recipe}} | [[Cookbook:Cuisine of Greece|Greece]] | [[Cookbook:Dessert|Dessert]]
+
+'''Loukoumas''' is a Greek fried pastry, similar to a doughnut.
+
+==Ingredients==
+* 1.36 kg (48 oz. = 6 cups) [[Cookbook:Flour|flour]]
+* 1 teaspoon [[Cookbook:Vanilla|vanilla extract]]
+* 2 cups undiluted [[Cookbook:Condensed milk|evaporated milk]]
+* 1 cup [[Cookbook:Sugar|sugar]]
+* 2 tablespoons [[Cookbook:Baking Powder|baking powder]]
+* Soy or [[Cookbook:Corn Oil|corn oil]] for frying
+* 4 teaspoons [[Cookbook:Yeast|dry yeast]] dissolved in half a cup of warm water
+* ground [[Cookbook:Cinnamon|cinnamon]]
+* 4 [[Cookbook:Egg|eggs]]
+* [[Cookbook:Honey|honey]]
+* ½ teaspoon [[Cookbook:Salt|salt]]
+
+==Procedure==
+# In a large mixing bowl, mix the flour, salt, milk, eggs, baking powder, sugar and vanilla. 
+# Mix the yeast and water together. 
+# Add the yeast mixture to the other ingredients and stir.  The mixture should look like smooth cake batter. 
+# Cover the bowl and leave it for four hours. 
+# Place five centimetres of oil in a pot and heat it up. 
+# With a tablespoon drop the mixture in and roll. Loukoumades should be sphere-shaped, fried and should look golden or brown from all sides. 
+# After they are fried, remove them and pour honey over them. Use the cinnamon for extra flavour. You can also use sesame seeds for flavour.
+
+{{Wikipedia}}
+
+[[Category:Dessert recipes|Loukoumas]]
+[[Category:Greek recipes|Loukoumas]]
+[[Category:Pastry recipes|Loukoumas]]</text>
+      <sha1>3mn90tjku6uheqj89woro0obla1bgvq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Chinese (Mandarin)/Lesson 1</title>
+    <ns>0</ns>
+    <id>3430</id>
+    <revision>
+      <id>2549642</id>
+      <parentid>2549083</parentid>
+      <timestamp>2013-08-14T18:13:54Z</timestamp>
+      <contributor>
+        <username>AllenZh</username>
+        <id>580206</id>
+      </contributor>
+      <comment>Rejected the last text change (by [[Special:Contributions/112.201.164.91|112.201.164.91]]) and restored revision 2514410 by Efex</comment>
+      <text xml:space="preserve">{{Chinese (Mandarin)TOC}}
+{{TOCright}}
+=Lesson 1: 你好！=
+
+It is appropriate to start off the introduction to Chinese with the common greeting {{term-zh|你好|nǐ hǎo|hello}}。 Below is a dialogue between two people meeting each other for the first time.
+
+==Dialogues==
+===Dialogue 1===
+
+{{Listen|filename=Chinese-Lesson1-Dialogue1.ogg |title=Dialogue 1 |plain=yes}}
+{|
+!width=&quot;40&quot; align=&quot;top&quot;|
+!width=&quot;170&quot; align=&quot;left&quot;|Simplified Characters
+!width=&quot;30&quot; align=&quot;left&quot;|
+!width=&quot;40&quot; align=&quot;top&quot;|
+!width=&quot;170&quot; align=&quot;left&quot;|Traditional Characters
+|-
+
+|金妮:
+|你好。
+|
+|金妮:
+|你好。
+|-
+
+|欧文:
+|你好。
+|
+|歐文:
+|妳好。
+|-
+
+|金妮:
+|我叫金妮。你叫什么名字？
+|
+|金妮:
+|我叫金妮。你叫什麽名字？
+|-
+
+|欧文:
+|我叫欧文。
+|
+|歐文:
+|我叫歐文。
+|-
+|}
+
+{| valign=&quot;top&quot;
+!width=&quot;30&quot; style=&quot;text-align: right;&quot; |
+!width=&quot;170&quot; align=&quot;left&quot;|Pīnyīn
+!width=&quot;30&quot; align=&quot;left&quot;|
+!width=&quot;30&quot; align=&quot;top&quot;|
+!width=&quot;170&quot; align=&quot;left&quot;|English
+|-
+|align=&quot;right&quot; valign=&quot;top&quot; |Jīnní:
+|align=&quot;left&quot; valign=&quot;top&quot; |[[Pinyin/Vocabulary#N|Nǐ hǎo]].
+|
+|align=&quot;right&quot; valign=&quot;top&quot; |Ginny:
+|align=&quot;left&quot; valign=&quot;top&quot; |Hello.
+|-
+
+|align=&quot;right&quot; valign=&quot;top&quot; |Ōuwén:
+|align=&quot;left&quot; valign=&quot;top&quot; |[[Pinyin/Vocabulary#N|Nǐ hǎo]].
+|
+|align=&quot;right&quot; valign=&quot;top&quot; |Owen:
+|align=&quot;left&quot; valign=&quot;top&quot; |Hello.
+|-
+
+
+|align=&quot;right&quot; valign=&quot;top&quot; |Jīnní:
+|align=&quot;left&quot; valign=&quot;top&quot; |[[Pinyin/Vocabulary#W|Wǒ]] [[Pinyin/Vocabulary#J|jiào]] Jīnní. [[Pinyin/Vocabulary#N|Nǐ]] [[Pinyin/Vocabulary#J|jiào]] [[Pinyin/Vocabulary#S|shénme]] [[Pinyin/Vocabulary#M|míngzi]]?
+|
+|align=&quot;right&quot; valign=&quot;top&quot; |Ginny:
+|align=&quot;left&quot; valign=&quot;top&quot; |I'm Ginny. What's your name?
+|-
+
+|align=&quot;right&quot; valign=&quot;top&quot; |Ōuwén:
+|align=&quot;left&quot; valign=&quot;top&quot; |[[Pinyin/Vocabulary#W|Wǒ]] [[Pinyin/Vocabulary#J|jiào]] Ōuwén.
+|
+|align=&quot;right&quot; valign=&quot;top&quot; |Owen:
+|align=&quot;left&quot; valign=&quot;top&quot; |I'm Owen.
+|-
+|}
+
+===Dialogue 2===
+
+*{{Listen|filename=Chinese-Lesson1-Dialogue2.ogg|title=Dialogue 2}}
+{|
+!width=&quot;40&quot; align=&quot;right&quot;|
+!width=&quot;170&quot; align=&quot;left&quot;|Simplified Characters
+!width=&quot;30&quot; align=&quot;left&quot;|
+!width=&quot;40&quot; align=&quot;top&quot;|
+!width=&quot;170&quot; align=&quot;left&quot;|Traditional Characters
+|-
+|valign=&quot;top&quot;|金妮:
+|他们是谁？
+|
+|valign=&quot;top&quot;|金妮:
+|他們是誰？
+|-
+
+|valign=&quot;top&quot;|欧文:
+|她是艾美，她是中国人。他是东尼，他是美国人。
+|
+|valign=&quot;top&quot;|歐文:
+|她是艾美，她是中國人。他是東尼，他是美國人。
+|-
+
+|valign=&quot;top&quot;|金妮:
+|你也是美国人吗？
+|
+|valign=&quot;top&quot;|金妮:
+|你也是美國人嗎？
+|-
+
+|valign=&quot;top&quot;|欧文:
+|不是，我是英国人。你呢？你是哪国人？
+|
+|valign=&quot;top&quot;|歐文:
+|不是，我是英國人。你呢？你是哪國人？
+|-
+
+|valign=&quot;top&quot;|金妮:
+|我是法国人。
+|
+|valign=&quot;top&quot;|金妮:
+|我是法國人。
+|}
+
+
+{|
+!width=&quot;30&quot; align=&quot;right&quot;|
+!width=&quot;170&quot; align=&quot;left&quot;|Pīnyīn
+!width=&quot;30&quot; align=&quot;left&quot;|
+!width=&quot;30&quot; align=&quot;top&quot;|
+!width=&quot;170&quot; align=&quot;left&quot;|English
+|-
+|align=&quot;right&quot; valign=&quot;top&quot; |Jīnní:
+|align=&quot;left&quot; valign=&quot;top&quot; |Tāmen shì shéi?
+|
+|align=&quot;right&quot; valign=&quot;top&quot; |Ginny:
+|align=&quot;left&quot; valign=&quot;top&quot; |Who are they?
+|-
+
+|align=&quot;right&quot; valign=&quot;top&quot; |Ōuwén:
+|align=&quot;left&quot; valign=&quot;top&quot; |Tā shì Àiměi, tā shì Zhōngguórén. Tā shì Dōngní, tā shì Měiguórén.
+|
+|align=&quot;right&quot; valign=&quot;top&quot; |Owen:
+|align=&quot;left&quot; valign=&quot;top&quot; |She is Amy. She's Chinese. He's Tony, an American.
+|-
+
+
+|align=&quot;right&quot; valign=&quot;top&quot; |Jīnní:
+|align=&quot;left&quot; valign=&quot;top&quot; |Nĭ yě shì Měiguórén ma?
+|
+|align=&quot;right&quot; valign=&quot;top&quot; |Ginny:
+|align=&quot;left&quot; valign=&quot;top&quot; |Are you also American?
+|-
+
+|align=&quot;right&quot; valign=&quot;top&quot; |Ōuwén:
+|align=&quot;left&quot; valign=&quot;top&quot; |Bú shì. Wǒ shì Yīngguórén. Nǐ ne? Nǐ shì nǎ guó rén?
+|
+|align=&quot;right&quot; valign=&quot;top&quot; |Owen:
+|align=&quot;left&quot; valign=&quot;top&quot; |No, I'm British. How about you? Which nationality are you?
+|-
+
+|align=&quot;right&quot; valign=&quot;top&quot; |Jīnní:
+|align=&quot;left&quot; valign=&quot;top&quot; |Wǒ shì Fǎguórén.
+|
+|align=&quot;right&quot; valign=&quot;top&quot; |Ginny:
+|align=&quot;left&quot; valign=&quot;top&quot; |I'm French.
+|-
+|}
+
+== Vocabulary ==
+&lt;div class=&quot;noprint&quot;&gt;&lt;!-- class=&quot;noprint&quot; makes this note disappear when printing --&gt;
+&lt;font color=&quot;#cc0000&quot;&gt;'''''Note''''':&lt;/font&gt; Visit this lesson's [[{{PAGENAME}}/Stroke Order|Stroke Order]] subpage to see images and animations detailing how to write the following characters. Audio files of the words are linked from the pīnyīn when available. Problems listening? See [[Wikipedia:Media help|media help]].
+&lt;/div&gt;
+
+{| border=&quot;0&quot; cellpadding=&quot;2&quot; 
+!
+!Simplified
+!Traditional (if diff.)
+!align=&quot;left&quot;|Pīnyīn
+![[Chinese/Abbreviations|Part of speech]]
+!align=&quot;left&quot;|English [&amp;zwj;[[Chinese/Abbreviations|m.]]&amp;zwj;]
+|-
+
+|1a. 
+|{{term-zh|你}}
+|
+|[[Media:zh-nǐ.ogg|nǐ]]
+|(pro)
+|you (singular, masculine)
+|-
+
+|1b. 
+|{{term-zh|妳}}
+|{{term-zh|妳}}
+|[[Media:zh-nǐ.ogg|nǐ]]
+|(pro)
+|you (singular, feminine)
+|-
+
+|2.
+|{{term-zh|好}}
+|
+|[[Media:zh-hao3.ogg|hǎo]]
+|(adj)
+|good
+|-
+
+|3.
+|{{term-zh|们}} 
+|{{term-zh|們}}
+|[[Media:zh-men.ogg|men]]
+|(particle)
+|(noun plural marker)
+|-
+
+|4a.
+|{{term-zh|你们}} 
+|{{term-zh|你們}}
+|[[Media:zh-ni3men.ogg|nǐmen]]
+|(pro)
+|you all (plural, masculine)
+|-
+
+|4b.
+|{{term-zh|妳们}}
+|{{term-zh|妳們}}
+|[[Media:zh-ni3men.ogg|nǐmen]]
+|(pro)
+|you all (plural, feminine)
+|-
+
+|5.
+|{{term-zh|我}}
+|
+|[[Media:zh-wo3.ogg|wǒ]]
+|(pro)
+|I, me
+|-
+
+|6.
+|{{term-zh|我们}}
+|{{term-zh|我們}}
+|[[Media:zh-wo3men.ogg|wǒmen]]
+|(pro)
+|we, us
+|-
+
+|7.
+|{{term-zh|他}}
+|
+|[[Media:zh-ta1.ogg|tā]]
+|(pro)
+|he, him
+|-
+
+|8.
+|{{term-zh|她}}
+|
+|[[Media:zh-ta1.ogg|tā]]
+|(pro)
+|she, her
+|-
+
+|9.
+|{{term-zh|他们}}
+|{{term-zh|他們}}
+|[[Media:zh-ta1men.ogg|tāmen]]
+|(pro)
+|they, them (masc.)
+|-
+
+|10.
+|{{term-zh|她们}}
+|{{term-zh|她們}}
+|[[Media:zh-ta1men.ogg|tāmen]]
+|(pro)
+|they, them (fem.)
+|-
+
+|11.
+|{{term-zh|叫}}
+|
+|[[Media:zh-jiao4.ogg|jiào]]
+|(v)
+|to be named, (lit.) to call
+|-
+
+|12.
+|{{term-zh|什么}}
+|{{term-zh|什麽}}
+|[[Media:zh-shen2me.ogg|shénme]]
+|(pro)
+|what
+|-
+
+|13.
+|{{term-zh|名字}}
+|
+|[[Media:zh-ming2zi.ogg|míngzi]]
+|(n)
+|name
+|-
+
+|14.
+|{{term-zh|是}}
+|
+|[[Media:Zh-shi4.ogg|shì]]
+|(v)
+|to be (am/is/are)
+|-
+
+|15.
+|{{term-zh|谁}}
+|{{term-zh|誰}}
+|[[Media:zh-shei2 shui2.ogg|shéi '''''OR''''' shuí]]
+|(pro)
+|who, whom
+|-
+
+|16.
+|{{term-zh|国}}
+|{{term-zh|國}}
+|[[Media:zh-guo2.ogg|guó]]
+|(n)
+|country
+|-
+
+|17.
+|{{term-zh|人}}
+|
+|[[Media:zh-ren2.ogg|rén]]
+|(n)
+|person [{{term-zh|个|gè}} ({{term-zh|個}})]
+|-
+
+|18.
+|{{term-zh|也}}
+|
+|[[Media:zh-ye3.ogg|yě]]
+|(adv)
+|also
+|-
+
+|19.
+|{{term-zh|吗}}  
+|{{term-zh|嗎}}
+|[[Media:zh-ma.ogg|ma]]
+|(part)
+|(question particle for yes or no questions)
+|-
+
+|20.
+|{{term-zh|呢}}
+|
+|[[Media:zh-ne.ogg|ne]]
+|(part)
+|(question particle for known context)
+|-
+
+|21.
+|{{term-zh|哪}}
+|
+|[[Media:zh-na3 nei3.ogg|nǎ '''''OR''''' něi]]
+|(pro)
+|what, which
+|-
+
+|22.
+|{{term-zh|不}}
+|
+|[[Media:zh-bu4.ogg|bù]]
+|(adv)
+|(negates verbs)
+|-
+|}
+
+=== Proper Nouns ===
+{| border=&quot;0&quot; cellpadding=&quot;2&quot;
+!width=&quot;10&quot;|
+!|Simplified
+!align=&quot;left&quot;|Traditional (if diff.)
+!width=&quot;100&quot; align=&quot;left&quot;|Pīnyīn
+!width=&quot;60&quot; align=&quot;left&quot;|
+!width=&quot;150&quot; align=&quot;left&quot;|English
+|-
+
+|1.
+|&lt;big&gt;金妮&lt;/big&gt;
+|
+|[[Media:zh-jin1ni2.ogg|Jīnní]]
+|
+|Ginny
+|-
+
+|2.
+|&lt;big&gt;欧文&lt;/big&gt; 
+|&lt;big&gt;歐文&lt;/big&gt;
+|[[Media:zh-ou1wen2.ogg|Ōuwén]]
+|
+|Owen
+|-
+
+|3.
+|&lt;big&gt;艾美&lt;/big&gt;
+|
+|[[Media:zh-ai4mei3.ogg|Àiměi]]
+|
+|Amy
+|-
+
+|4.
+|&lt;big&gt;东尼&lt;/big&gt; 
+|&lt;big&gt;東尼&lt;/big&gt;
+|[[Media:zh-dong1ni2.ogg|Dōngní]]
+|
+|Tony
+|-
+
+|5.
+|{{term-zh|中国}}
+|{{term-zh|中國}}
+|[[Media:Zh-zhongguo.ogg|Zhōngguó]]
+|
+|China
+|-
+
+|6. 
+|{{term-zh|美国}}
+|{{term-zh|美國}}
+|[[Media:zh-mei3guo2.ogg|Měiguó]]
+|
+|America
+|-
+
+|7.
+|{{term-zh|英国}}
+|{{term-zh|英國}}
+|[[Media:zh-ying1guo2.ogg|Yīngguó]]
+|
+|Britain
+|-
+
+|8.
+|{{term-zh|法国}}
+|{{term-zh|法國}}
+|[[Media:zh-fa4guo2.ogg|Fǎguó]]
+|
+|France
+|-
+|}
+Forming the nationality is usually as simple as adding on {{term-zh|人|rén|person}} to the country name. {{term-zh|中国|Zhōngguó|China}} becomes {{term-zh|中国人|Zhōngguó rén|a person of Chinese nationality}}, and so forth.
+
+==Grammar==
+===Basic Sentences===
+{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; 
+|-
+|style=&quot;background:#FFFFCC;&quot; | The sentence structure of Chinese is very similar to that of English in that they both follow the pattern of [[w:Subject_Verb_Object|Subject-Verb-Object]] (SVO). Unlike many languages, verbs in Chinese are not conjugated and noun and adjective endings do not change. They are never affected by things such as time or person.
+|}&lt;br&gt;
+
+{| border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; align=&quot;left&quot;
+|-
+! colspan=&quot;2&quot; style=&quot;background:#ffdead;&quot; | S + V + O
+|-
+|}
+
+
+
+
+1.  我叫艾美。
+:Wǒ jiào Àiměi. 
+:''I'm called Amy.''
+----
+
+===Sentences using &lt;u&gt;shì&lt;/u&gt; [是]===
+{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; 
+|-
+|style=&quot;background:#FFFFCC;&quot; | The equational verb {{term-zh|是|shì|to be}} can be used as the English ''is'' or ''equals''. {{term-zh|是|shì}} can only be used to equate combinations of nouns, noun phrases, and pronouns. In Chinese, {{term-zh|是|shì|to be}} is not used with adjectives, as it is in English, as in, &quot;He is cold.&quot;
+|}&lt;br&gt;
+
+{| border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; align=&quot;left&quot;
+|-
+! style=&quot;background:#ffdead;&quot; | S + 是 + O
+|-
+|}&lt;br&gt;
+
+
+
+1.  我是中国人。
+:Wǒ shì Zhōngguórén. 
+:''I '''am''' a Chinese person.''
+2.  她是金妮。
+:Tā shì Jīnní.
+:''She '''is''' Ginny.''&lt;br&gt;
+3.  她们是英国人。
+:Tāmen shì Yīngguórén. 
+:''They '''are''' English.''&lt;br&gt;
+
+{| border=&quot;0&quot; cellpadding=&quot;5&quot;
+|-
+| style=&quot;background:#FFFFCC;&quot; | {{term-zh|是|shì}} is negated when preceded by {{term-zh|不|bù|not}}. {{term-zh|不|bù}} is normally 4th tone, but changes to a 2nd tone when it precedes another 4th tone.
+|-
+|}&lt;br&gt;
+{| border=&quot;1&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; align=&quot;left&quot;
+|-
+! style=&quot;background:#ffdead;&quot; | S + 不 + 是 + O
+|-
+|}&lt;br&gt;
+
+
+
+1.  他不是东尼。
+:Tā bú shì Dōngní.
+:''He '''is not''' Tony.''
+
+2.  我不是美国人。
+:Wǒ bú shì Měiguórén. 
+:''I '''am not''' American.''
+
+----
+
+===Articles===
+There are no articles in Chinese grammar.  While English noun clauses often begin with &quot;a&quot;, &quot;an&quot;, or &quot;the&quot;, Chinese is less verbose.
+
+An example:
+# 我是中国人。
+#:Wǒ shì Zhōngguórén. 
+#:''I '''am''' [a] Chinese person.''
+
+An &quot;a&quot; appears in the English translation, but the [[w:Grammatical number|singular]] and [[w:Article (grammar)#Indefinite article|indefinite]] nature of {{term-zh|中国人|Zhōngguórén|Chinese person}} is just inferred in Chinese.
+
+----
+
+===The question particle {{term-zh|吗|ma}}===
+{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; 
+|-
+|style=&quot;background:#FFFFCC;&quot; | Adding the modal particle {{term-zh|吗|ma}} to the end of a sentence makes a statement into a question. There is no change in word order unlike in English.
+|-
+|}
+
+The declarative example sentence in #1 is transformed into an interrogative in #2.
+
+1. 她是金妮。
+:Tā shì Jīnní.
+:''She is Ginny.''
+
+2. 她是金妮吗？
+:Tā shì Jīnní ma?
+:''She is Ginny ?''
+
+----
+
+===The question particle {{term-zh|呢|ne}}===
+{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; 
+|-
+|style=&quot;background:#FFFFCC;&quot; | Using the ending modal particle {{term-zh|呢|ne}} makes a question when the context is already known, similar to saying &quot;How about...?&quot; in English. A common circumstance is when you wish to repeat a question that was just asked for another subject. Simply add {{term-zh|呢|ne}} to the end of the noun or pronoun to ask &quot;How about ''this''&quot;.
+|-
+|}
+
+
+1.  我叫东尼, 你呢？
+:Wǒ jiào Dōngní, nǐ ne? 
+:''I'm called Tony. How about you?''
+2.  艾美是中国人, 他呢？
+:Àiměi shì Zhōngguórén, tā ne? 
+:''Amy is Chinese. How about him?''
+----
+
+===Question words===
+{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; 
+|-
+|style=&quot;background:#FFFFCC;&quot; | Question words like {{term-zh|哪|nǎ|what}} and {{term-zh|谁|shéi|who}} also make statements into questions without changing the order of the sentence. In Chinese, each question word appears where its answer would complete the surrounding sentence.
+|-
+|}
+
+
+1. 他们是'''哪'''国人？
+:Tāmen shì '''nǎ''' guó rén?
+:''What nationality are they?'' (literally, &quot;They are '''what''' country person?&quot;)
+
+2. '''谁'''是美国人？
+:'''Shéi''' shì Měiguórén? 
+:''Who is American?'
+
+3. 她是'''谁'''？
+: Tā shì '''shéi'''? 
+:''Who is she?'' (literally, &quot;She is '''who'''?&quot;)
+
+----
+
+{{Chinese (Mandarin)TOC}}
+
+&lt;!-- 在以上的课程里中文是一样的，
+在以下的课程里中文是不同的 --&gt;
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]
+
+[[de:Chinesisch: 第一課]]
+[[de:Chinesisch: Lektion 1]]
+[[es:Chino/Lecciones/Lección 1]]
+[[fr:Chinois/Leçon 1]]
+[[it:Cinese/Lezione 1]]
+[[mk:Кинески јазик/Лекција 1]]
+[[pl:Chiński/Podstawy/Lekcja 1]]</text>
+      <sha1>4o31lqymqoduzqex9x1xs2p7l4jsy6z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Dysprosia/Archive (2)</title>
+    <ns>3</ns>
+    <id>3440</id>
+    <revision>
+      <id>294559</id>
+      <parentid>251909</parentid>
+      <timestamp>2005-11-30T01:00:40Z</timestamp>
+      <contributor>
+        <username>Dysprosia</username>
+        <id>32</id>
+      </contributor>
+      <minor />
+      <comment>[[User talk:Dysprosia]] moved to [[User talk:Dysprosia/Archive (2)]]</comment>
+      <text xml:space="preserve">''Old talk in archive: [[User_talk:Dysprosia/Archive]] (most recent)''
+
+==Calculous Book question==
+Recently I got interested in Wikipedia so I decided to hjelp out with the Calulous Integration book.  I was going to reorganize everything but I wanted to get your opinion first. thanks. --[[User:Stranger104|Stranger104]] 6 July 2005 02:56 (UTC)
+==stuff==
+
+Hey, don't be hating, dawg. -[[User:DX|DX]] 06:37, 6 Sep 2004 (UTC)
+
+What did I vandalize? -[[User:DX|DX]] 06:34, 6 Sep 2004 (UTC)
+
+See [[Talk:Programming:C_plus_plus]]. -- [[User:Paddu|Paddu]] 08:01, 22 Feb 2004 (UTC)
+
+
+
+By the way, the RACECAR thing wasn't advertising - it doesn't actually exist. [[User:R3m0t|r3m0t]] [[Special:Contibutions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 00:12, 24 Feb 2004 (UTC)
+
+: *Shrug* :) [[User:Dysprosia|Dysprosia]] 00:26, 24 Feb 2004 (UTC)
+
+
+Thanks for the welcome... I have indeed been torn away from Wikipedia, because I really want to get a merit badge project going... [[User:TUF-KAT|TUF-KAT]] 07:07, 26 Feb 2004 (UTC)
+
+
+Thanks for your message.  I am not sure that homomorphisms really must come before isomorphisms.  For example, Jacobson covers isomorphisms first is Basic Algebra I (of course, BAI is not the best organized book out there, but I don't think that that has anything to do with his putting isomorphisms first.)  I like doing isomorphisms and Cayley's theorem early on because it gives a more concrete insight into where groups come from.  
+
+As for answers to exercises, I will certainly write some up, but I think it would be better to include some solutions, but not necessarily the even ones.  Doing the even ones will make it more difficult later if we want to rearrange exercises.
+
+Also, I was wondering what the goal is for this book.  What is the audience?  I am guessing that we are aiming at something at around the level of Herstein's Topics in algebra, perhaps with some additional topics, a more geometric approach (like talking about graphs of groups), treating linear algebra earlier, giving a more general treatment of Galois theory, etc.  I used Herstein as my first book in algebra (actually, my first book in abstract mathematics) and certainly agree with you that a down to earth approach is needed.  I suppose the main question is whether we want to assume that our readers have the knowledge and maturity from, say, a linear algebra class.  Since abstract algebra was my introduction to higher mathematics, I can certainly see that if we are writing for newcomers to mathematics, we need to be very careful in the exposition.
+
+Perhaps setting out a tentative outline on the talk page would be useful.
+
+Thanks for your kind words.  [[User:Dan Gardner|Dan Gardner]] 01:14, 26 Mar 2004 (UTC)
+
+== Physics book ==
+
+Table of contents? Redirects? I dont understand, could you explain to me please? --[[User:Karl Wick|Karl Wick]] 05:10, 16 Apr 2004 (UTC)
+
+: That new user created a new page at [[Table of contents]], which I moved to [[Physics with transforms:Table of contents]], but the user changed the links to point back to [[Table of contents]] which is just a redirect which should be deleted after a short while. It's okay now, I think the user got the point. I'll send you a holler if they do it again... :) [[User:Dysprosia|Dysprosia]] 06:06, 16 Apr 2004 (UTC)
+
+
+==[[Siegfried Petry]]==
+
+Maybe he is ignoring everyone because he doesn't speak English? [[User:Theresa knott|Theresa knott]] 14:37, 2 Jul 2004 (UTC)
+----
+----
+Hi, Thanks for your welcome, I hope other amateurs will find this and offer their help too. Many hands make light work. It may take me some time to learn all the in's and out's of wiki but eventually I hope that this will be a manual I can use when I teach a licencing course. Good luck with your project .... Ed Baumann VE3SNW 08:24, 1 Aug 2004 (UTC)
+----
+
+== wanna be a bureaucrat? ==
+
+Due to [[User:TUF-KAT]]'s vacation, we currently have no bureaucrats.  When she made me an admin, Angela suggested I nominate a few users for bureaucratship, and so I'd like to ask you if you'd accecpt the nomination. [[User:Gentgeen|Gentgeen]] 00:50, 17 Aug 2004 (UTC)
+
+: Yeah, sure, why not? Sounds good. :) [[User:Dysprosia|Dysprosia]] 03:11, 17 Aug 2004 (UTC)
+ok, you've been nominated. [[User:Gentgeen|Gentgeen]] 04:58, 17 Aug 2004 (UTC)
+
+== mathematics ==
+
+regarding the mathematics section, what names did you have in mind?
+
+== Mathematics page ==
+
+I totally agree with your idea(s). I've changed one or two of the links, but it would be appreciated if you could help with changing the rest? Appreciated! --[[User:Jimmy|Jimmy]] 11:13, 2 Sep 2004 (UTC)
+
+==Chinese spamer==
+
+According to [http://www.apnic.net/apnic-bin/whois.pl] 221.196.x.x is assigned as portable addresses by CNCGROUP Tianjin Province Network - the China Network Communications Group Corporation ISP's range for the Tianjin Province in the People's Republic of China.  It looks like we've got a dial up vandal getting a restricted range of IP addresses. [[User:Gentgeen|Gentgeen]] 13:12, 5 Oct 2004 (UTC)
+
+==Bureaucrat?==
+Did someone promote you to bureaucrat already?  I tried using [[Special:Makesysop]] to make you a bureaucrat, but it didn't work.  There's a bureaucrat flag box that I could've sworn did it, but I never actually promoted any bureaucrats before... [[User:TUF-KAT|TUF-KAT]] 00:02, 24 Oct 2004 (UTC)
+
+: I just tried to access [[Special:Makesysop]] and it didn't work... Maybe I need to ask one of those steward people? I don't know... [[User:Dysprosia|Dysprosia]] 01:14, 24 Oct 2004 (UTC)
+
+::Oh, I think I got it now.  Can you access the page? [[User:TUF-KAT|TUF-KAT]] 05:07, 24 Oct 2004 (UTC)
+:::You're in the bureaucrat log, so I guess it worked. [[User:TUF-KAT|TUF-KAT]] 05:11, 24 Oct 2004 (UTC)
+::::Whee! Thanks :) [[User:Dysprosia|Dysprosia]] 05:37, 24 Oct 2004 (UTC)
+:::::I was about to promote [[User:Yann]], but would you like to do the honors? [[User:TUF-KAT|TUF-KAT]] 05:36, 25 Oct 2004 (UTC)
+:::::: Done and done. Thanks :) [[User:Dysprosia|Dysprosia]] 06:48, 25 Oct 2004 (UTC)
+
+== Organising [[Programming:C plus plus]] ==
+
+As an experienced [[Wikibooks:Wikibookians|Wikibookian]] and a contributor to [[Programming:C]], you are invited to give your opinion in [[Wikibooks:Staff_lounge#Attracting_contributors_to_a_textbook:_Differences_from_the_.27pedia|the lounge]] and/or [[Talk:Programming:C plus plus]] about the discussions between new user [[User:Panic2k4|Panic2k4]] and me regarding how a book should be organised. Unfortunately not many have responded to my comment on the lounge.
+
+Panic's line of thought seems to be tangential to my &quot;wikipedia-trained&quot; ideas about organising a wikibook. I was following the example of Programming:C to organize the book C++, but Panic seems to want everything in a single module, without wiki links in the running text. I am not sure want I could do about it, but I fear [[Special:Contributions/Panic2k4|his /her efforts]] at reorganising material in the book might get wasted if we ultimately decide to have the material in separate modules.
+
+My POV is that it is beyond doubt that we need many modules. But if that's how it'd end up, I'd like someone to tell Panic gently that he/she would've to be satisfied with multiple modules. Or else I'd like an experienced Wikibookian (Either my common sense or my ego is preventing me from digesting whatever Panic says) to tell me (sternly :)) that I'm wrong. My attempt to get a community verdict on this issue at the lounge seems to have failed miserably.
+
+Also I see many of Panic's edits as POVs, e.g. &quot;never use tabs, use only spaces&quot;. I'm not sure how to talk to him/her about this (though I'd already linked him/her to [[Wikibooks:Neutral point of view]]. Also, I'd hope Panic doesn't get annoyed and leave from Wikibooks as he seems to be a good Wikibookian in the making. -- [[User:Paddu|Paddu]] 14:38, 2 Nov 2004 (UTC)
+
+:Thanks for your 2c :)! BTW what Panic calls forks is having multiple modules/books on related (but not the same) topic. So it's not the fork that we dread. He/she was responding to my idea that (e.g.) C++, MFC and OOP are different books and one should not make the C++ book cover everything related to C++. e.g. like we have a book on [[ComputerScience:Distributed Systems|Distributed Systems]] separate from the one on [[Programming:C|C]]. Panic says we should have just a single book until we get more material at which time we can &quot;fork&quot;. -- [[User:Paddu|Paddu]] 20:47, 3 Nov 2004 (UTC)
+
+:Hi again, [[User:Panic2k4]] refactored [[Talk:Programming:C plus plus]]. I restored (uncommented) the past discussion and gave my reasons there. I'm not sure if such refactoring of talk pages not in the User_talk namespace is allowed. I'd like to know if what Panic did is correct, if what I did is correct and what we should be doing henceforth.
+: Archival is OK, removing text to suit some purpose of either editor is not. [[User:Dysprosia|Dysprosia]]
+
+:Panic has explicitly mentioned that he/she won't bother about exploring wikibooks and keep contributing the way he/she likes. I suppose he/she doesn't already know how we work and doesn't want to know except by &quot;spoonfeeding&quot; (since he/she won't explore). Hence somehow he/she should be convinced by others to learn to work the way we do. What do we do in Wikibooks to handle &quot;clueless newbies&quot;, if I may call either him/her or myself so? Unfortunately my posts in the Staff lounge don't evoke many responses, at least not by the time Panic has made a lot of edits. I'd like to know where to post such things (without troubling just you).
+:: There's nothing so far, I'm afraid. This is a problem of Wikibooks since we get less traffic. Pages can be protected if need be to force discussions, but that's usually for the case of edit wars. 
+
+:BTW is it OK for the image transcluded in [[Talk:Programming:C plus plus]] to stay? -- [[User:Paddu|Paddu]] 13:10, 8 Nov 2004 (UTC)
+:: I don't see any images. [[User:Dysprosia|Dysprosia]] 10:26, 9 Nov 2004 (UTC)
+
+After I tried responding to [[User:Panic2k4]]'s comments and bringing back a proposal that I don't agree is dead, and replacing the &amp;lt;h1&amp;gt; headers with &amp;lt;h2&amp;gt; ones, he forked off [[Programming: C -/- -/-]] as well as [[Talk:Programming: C -/- -/-]]. I'm totally lost. -- [[User:Paddu|Paddu]] 16:13, 18 Nov 2004 (UTC)
+
+:I've also asked [[User:Yann]], a sysop mentioned currently in [[Special:Recentchanges]], to help. -- [[User:Paddu|Paddu]] 16:15, 18 Nov 2004 (UTC)
+
+== Troll watch ==
+
+Troll watch: 67.115.107.84. You can see some of the edits made at: [http://en.wikibooks.org/w/index.php?title=Special:Contributions&amp;target=67.115.107.84]
+
+Also, likely they have a user account at [http://en.wikibooks.org/wiki/User:Jm51]. Can we block the IP? --[[User:Mshonle|MShonle]] 05:47, 14 Jan 2005 (UTC)
+
+== Thanks for the block! ==
+
+Thanks for blocking that new troll account. I was about to do it myself but I'm unsure of the procedure. Where do I post to let other admins know that action should be taken? In pure vandalism, am I allowed to block without conferals? --[[User:Mshonle|MShonle]] 03:39, 19 Jan 2005 (UTC)
+
+== example ==
+
+regarding a comment on my talk page asking me to cite an example for &quot;pages with real content sometimes disappear (in clear violation of policy) without even a vote&quot;
+
+It has been claimed that Cookbook:Human contained some real content. The person responsible for
+deleting the entry has not disputed this accusation; instead they claimed some sort of right to arbitrarily decide (without a vote) that such an entry did not belong.
+
+Now, maybe it does not belong. This is a matter for a VfD. I suspect that the original page was indeed
+quite awful... but it still should be immune to an admin being jury, judge, prosecuter, and executionist. As a general rule, I'd like to see awful pages getting fixed instead of destroyed.
+
+For some odd reason, I need admin rights to even investigate this sort of thing.
+
+== Admin bit ==
+
+So, I've been listed on the [[Wikibooks:Requests for adminship]] page for over 2 weeks now,
+and have 2 of 3 votes in support. (plus my own, of course) Could you set the bit soon?
+(I just found myself trying to move a page over an old redirect which unfortunately had some
+trivial history blocking me. Bummer.)
+
+== Meat_loaf and Meatloaf ==
+
+There was a redirect from Meat_loaf to Meatloaf.
+Somebody blanked it out, commenting that the 1-word
+version was more popular. Since they did so, I am
+now unable to move Meat_loaf to Meatloaf. I gave a
+try moving Meat_loaf away first, but the redirect
+left behind was inelligable for move-over-redirect.
+
+So, that's 2 trivial pages that ought to go.
+
+== Promotion? ==
+
+Hello there.  I've been listed on the requests for adminship page for quite a while now, and I was just wondering if you could promote me.  Tally: 1/0/0.  Thank you very much! -[[User:Frazzydee|Frazzydee]]|[[User talk:Frazzydee|&amp;#9997;]] 18:14, 5 Mar 2005 (UTC)
+
+:Sure, I was thinking the same thing, but I've waited on it quite a while, and there haven't been more votes either way.
+:Actually, there are a couple admin tasks that I noticed yesterday, the most glaring being the upload form.
+:[[MediaWiki:Uploadtext]]
+
+::&lt;nowiki&gt;&quot;make sure to read and follow the &lt;a href=&quot;/wiki/Special:Image_use_policy&quot;&gt;image use policy&lt;/a&gt;.&quot;&lt;/nowiki&gt; should be
+&quot;&lt;nowiki&gt;make sure to read and follow the [[Wikibooks:image use policy|image use policy]].&quot;&lt;/nowiki&gt;
+
+::The sixth paragraph (&quot;The preferred formats are JPEG...&quot;) needs nowiki tags around the Image: links.  i.e. the code is &lt;nowiki&gt;[[Image:file.jpg]], when it should be &lt;nowiki&gt;[[Image:file.jpg]]&lt;/nowiki&gt;&lt;/nowiki&gt;.  I'm not sure if you want to nowiki the media link to, but it should be consistent with the rest.  If you choose not to nowiki the media: link, then please add a colon the the start of the image tag (i.e. [[:Image)
+
+::The last paragraph has broken links: &lt;nowiki&gt;&lt;a href='http://commons.wikimedia.org/'&gt; should be [[Commons:Main_page]] (I think! Might want to preview this first ;) ).  &lt;a href='http://commons.wikimedia.org/w/wiki.phtml?title=Special:Userlogin'&gt;creating an account&lt;/A&gt; should be [[Special:Userlogin|creating an account]]&lt;/nowiki&gt;
+
+:Thanks for your help, and I understand your concern.  I hope this hasn't been too confusing...it's a bit difficult to show what I'm talking about, probably because of the hundreds of nowiki tags :)  By the way, isn't the [[Mediawiki:Sitenotice|site notice]] ready to be taken down now? See you around :) -[[User:Frazzydee|Frazzydee]]|[[User talk:Frazzydee|&amp;#9997;]] 15:32, 6 Mar 2005 (UTC)
+
+::Thanks so much for taking the time to clean that up for me.  I think I missed a spot, and I'd really appreciate it if you could just do this one more quick thing.  &quot;for use in illustrating pages.&quot; has an extra line break.  Can't the banner be taken down now? -[[User:Frazzydee|Frazzydee]]|[[User talk:Frazzydee|&amp;#9997;]] 00:04, 8 Mar 2005 (UTC)
+
+== Admin task ==
+
+Hi there.  I'd appreciate it if you could do a few move/deletes for me, I want to add a new lesson near the beginning, so everything has to be moved down (i.e. lesson 2 should be moved to lesson 3, 3-&gt;4, etc.).
+
+The page is at [[Turing]], and I'm adding lesson 2.  I've named it [[Turing:1.5]] for now, but this should be moved to [[Turing:2]].  I'd appreciate it if you could also delete [[Turing:5]] if you don't have the chance to do the whole thing now, it's a useless redirect that was created when I attempted to move everything without admin powers. -[[User:Frazzydee|Frazzydee]]|[[User talk:Frazzydee|&amp;#9997;]] 02:33, 8 Mar 2005 (UTC)
+
+== front page vandal ==
+
+get [[User:Gumba gumba]] quickly please
+
+He's fast, and calling others vandals, and he screwed up templates
+and made subtle changes to old stuff.
+
+Oh, and I'd have stopped him already if I were an admin. :-(
+
+[[User:AlbertCahalan|AlbertCahalan]] 19:22, 8 Apr 2005 (UTC)
+
+== please ban 67.95.199.114 ==
+
+Check out the [[Japanese]] article [http://en.wikibooks.org/w/index.php?title=Japanese&amp;action=history history].
+
+*21:13, 11 Apr 2005
+*17:52, 14 Apr 2005
+*20:13, 21 Apr 2005
+
+He also likes to trash [[Main Page]], [[Cookbook:Recipes]], [[Blender 3D: Noob to Pro]], [[Jokebook]], etc.
+
+Why are these vandals not getting banned?
+
+[[User:AlbertCahalan|AlbertCahalan]] 21:26, 21 Apr 2005 (UTC)
+
+== Simple English Wikibooks needs an admin! ==
+
+I've just started working on Wikibooks in Simple English. We need to make someone an administrator. With very few other users (at the moment!) how can I become one and so start getting the project started? Any help would be great. Cheers [[User:Charlie123|Charlie123]] 14:17, 22 Jun 2005 (UTC)
+
+== [[Computer programming/Types]]  ==
+
+got additions by [[User:AlMac|AlMac]] effectively doubling the size of the article since prior folks like you last worked on it.  I just thought you might like to see what I did to it. [[User:AlMac|AlMac]] 23:49, 17 July 2005 (UTC)
+
+== Proposed policy overhaul ==
+
+As effectively the top local user here, being that [[User:TUF-KAT]] is away until the end of August, I thought you might be interested in the following: I've started to think about changes to existing policy and project scope so that policies are more clearly defined (as suggested by [[User:Aya]], who claims existing policies to be ambiguous) and more open (as suggested by [[User:Robert Horning]], see the debacle concerning [[Biography of Nikola Tesla]] at [[Wikibooks:Votes for deletion/Archive]]).  I've made a post on textbook-l ([http://mail.wikipedia.org/pipermail/textbook-l/2005-July/002415.html]) as a result, please reply to my talk page for feedback. [[User:KelvSYC|KelvSYC]] 05:43, 26 July 2005 (UTC)
+
+== Image licence ==
+
+Hi!
+
+Can your [[:Image:Modulus and argument.png]] (and some others) can be used in Slovene Wikipedia? Under what licence? Regards, --[[User:Andrejj|Andrejj]] 07:16, 12 September 2005 (UTC)
+
+: Of course. I've just tagged the image, just follow the license. [[User:Dysprosia|Dysprosia]] 05:47, 8 October 2005 (UTC)
+
+== VFD result ==
+
+In reviewing the [[Wikibooks:Votes for deletion/A guide to cheating during tests and examinations]], particularly the contributions and reputations of those who voted to delete and those who voted to keep, that the consensus result is to delete. I do not want to delete it myself because I participated in the discussion.
+
+I think it is time that we resolve both this case, and the much harsher [[Wikibooks:Votes for deletion/The Manual of Crime]] case. I believe Jimbo's words should lead a reasonable person to delete. Since both are so high profile, I think an admin should do the deletion. While we are still deciding the new policy, I don't think we need to wait to delete. We already know what the result is. --[[User:Mshonle|MShonle]] 18:55, 20 September 2005 (UTC)
+
+: I don't see a clear consensus yet on the cheating guide yet, so it may be wiser to let debate continue further first. The crime manual dehate however has been resolved. [[User:Dysprosia|Dysprosia]] 05:44, 8 October 2005 (UTC)
+
+::&lt;s&gt;And what was the resolution?&lt;/s&gt; --[[User:Mshonle|MShonle]] 18:22, 8 October 2005 (UTC)
+::Ah, never mind, I had to click back further in the deletion logs to find it. --[[User:Mshonle|MShonle]] 18:31, 8 October 2005 (UTC)
+
+== [[Template:BSD]] ==
+
+Hello. If you add templates, please remember to add them to [[WB:TM]] - otherwise noone will use them. Thanks. --[[User:Derbeth|Derbeth]] 08:36, 8 October 2005 (UTC)</text>
+      <sha1>so80x5kof0to1wb6ta5wpp1srriz2nl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

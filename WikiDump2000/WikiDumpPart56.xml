@@ -1,0 +1,1013 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>File:Induction in a wire crossing a magnetic field.png</title>
+    <ns>6</ns>
+    <id>2066</id>
+    <revision>
+      <id>636327</id>
+      <parentid>154120</parentid>
+      <timestamp>2006-11-04T10:56:28Z</timestamp>
+      <contributor>
+        <username>Theresa knott</username>
+        <id>93</id>
+      </contributor>
+      <text xml:space="preserve">Diagram drawn by theresa knott
+
+{{GFDL}}
+{{Cc-by-sa-2.5}}</text>
+      <sha1>gai8qhx5xhxbgljl09sizl82of3p10e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Induction in a wire magnified view.png</title>
+    <ns>6</ns>
+    <id>2067</id>
+    <revision>
+      <id>636417</id>
+      <parentid>154121</parentid>
+      <timestamp>2006-11-04T10:58:42Z</timestamp>
+      <contributor>
+        <username>Theresa knott</username>
+        <id>93</id>
+      </contributor>
+      <text xml:space="preserve">Diagram drawn by theresa knott
+
+{{GFDL}}
+{{Cc-by-sa-2.5}}</text>
+      <sha1>gai8qhx5xhxbgljl09sizl82of3p10e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Physics Study Guide</title>
+    <ns>1</ns>
+    <id>2068</id>
+    <revision>
+      <id>2006144</id>
+      <parentid>1927851</parentid>
+      <timestamp>2010-12-19T15:13:16Z</timestamp>
+      <contributor>
+        <ip>90.200.234.153</ip>
+      </contributor>
+      <comment>/* Print version */</comment>
+      <text xml:space="preserve">==[[Physics Study Guide/Style Guide|Style Guide]]==
+===Proposed===
+====Definition Box====
+In a few sections a box of definitions seems to be useful so there should probably be a universal style for the box
+[[Template:PSG/def]] here's an example of the usage
+
+
+  &lt;nowiki&gt;{{PSG/def|&lt;/nowiki&gt;
+  :Ignorance: Strength
+  :War: Peace
+  :Freedom: Slavery
+  }}
+
+{{PSG/def|
+:Ignorance: Strength
+:War: Peace
+:Freedom: Slavery
+}}
+
+====Variable Box====
+In a few sections a box of variable usage explanations seems to be useful so there should probably be a universal style for the box
+[[Template:PSG/var]] here's an example of the usage
+
+
+  &lt;nowiki&gt;{{PSG/var|&lt;/nowiki&gt;
+  :&lt;nowiki&gt;&lt;math&gt;\boldsymbol{F}\ &lt;/math&gt;: Force&lt;/nowiki&gt;
+  :&lt;nowiki&gt;&lt;math&gt;m\ &lt;/math&gt;: Mass&lt;/nowiki&gt;
+  :&lt;nowiki&gt;&lt;math&gt;\boldsymbol{a}\ &lt;/math&gt;: Acceleration&lt;/nowiki&gt;
+  }}
+
+{{PSG/var|
+:&lt;math&gt;\boldsymbol{F}\ &lt;/math&gt;: Force
+:&lt;math&gt;m\ &lt;/math&gt;: Mass
+:&lt;math&gt;\boldsymbol{a}\ &lt;/math&gt;: Acceleration
+}}
+
+====Cover Art Needed====
+This book has ben cited a couple times as an exemplary book and yet we don't have any cover art. [[User:Msmithma|Msmithma]] 22:16, 20 April 2007 (UTC)
+
+====TOC template====
+The &lt;nowiki&gt;{{PSG}}&lt;/nowiki&gt; template should be placed at the bottom of pages
+
+==Collaboration==
+
+I wanted to get hold of Karl Wick but I couldn't find an email address - so I am going out on a limb here. I believe we can have a mutually beneficial collaboration. My name is Mark Horner and I started the Free High School
+Science Texts project. The PR homepage is 
+http://www.nongnu.org/fhsst 
+and our project admin is done through 
+http://savannah.gnu.org
+. We are going to release our books under GFDL and we'd like to put them on the web. We have much content in Maths, Physics and Chemisty but we are looking for people to help us finish them off. We are past the 1/2 mark but still need help.
+
+All my details are on the project page - please contact me if you are interested.
+
+:This sounds like the beginning of a beautiful relationship. You should have recieved my email by now, lets chat on my [[User_talk:Karl_Wick|talk page]]. - [[User:Karl Wick|Karl Wick]]
+
+What counts as nonessential?
+
+:You ask a question that deserves an honest answer. To me, the &quot;essentials&quot; include everything that '''I''' needed to know to get a passing grade in a pre-med Physics class.
+
+::Aha! You're revealing your biases! The reason for learning physics isn't to understand nature, but to get a passing grade!
+
+:::True, there's the ultimate goal as well as the more immediate one. 
+
+:Perhaps a more meaningful description of nonessential would be: extended detailed background. My goal in starting this study guide is to draw attention to the central concepts of introductory physics that are easily lost in the hundreds of pages of text in a typical textbook. 
+
+:Often the biggest stumbling block or time-waster in learning a new topic is the terminology. In physics, add in the equations. This guide is intended to bring a spotlight on the equations and terms and give straitforward exlanatinons to each concept. Beyond this we can link to more in-depth material for further study. 
+
+:--[[User:Karl Wick|Karl Wick]]
+
+Equations, equations, and equations, and not even a single overview or explanation of the concepts...
+
+:Would that mean we should move towards adding overviews?  Explanations (if included) should be kept short.  This is, after all, a study guide, not a complete rehash of a Freshman-level Physics book.  Overviews should probably be kept down to maybe basic discourse about the use of such equations (after all, if this is a study guide, I wager it would be helpful to have an idea to help people with &quot;word problems&quot;...)
+
+:And how deep into each level should we go?  Calculus based for everything?  Deep sub-topics into quantum equations, etc? -- [[User:Pipian|Pipian]]
+
+::By just presenting equations with no explanation on what they mean, you're just encouraging rote memorization with no understanding...
+
+:::I agree on that point, which is why I do think that SOME explanation is needed, but I do not believe that we need a textbook-like explanation (&quot;Free-fall acceleration is acceleration due to gravity.  Some examples of this acceleration can be seen when dropping objects from a height, such as an apple from your hand.  It does, however, have acceleration along the y-axis...&quot;) but rather a simple one (&quot;Free-fall acceleration is vertical acceleration thanks to the force of earth's gravity.  It is equal to ''g'', or 9.8 m/s^2&quot;) -- [[User:209.39.26.2|209.39.26.2]]
+
+::I'm all into some brief explanations. My goal is to help students learn the material in the quickest and least painful way possible. 
+
+::About the Calculus, let that be another book or special subpages of this one. I have not taken any calc-based physics and it is not necessary for pre-meds, so I want to keep that separate. --[[User:Karl Wick|Karl Wick]]
+
+:::I think it would be a good idea to include it, but I think a separate section would probably be a good idea as well (Kinda like how you've partially separated out the advanced work information).  An appendix perhaps?  (&quot;A Calculus-Based Approach&quot;?)
+
+:::Also, I think I will rework the formulae in [[m:MediaWiki User's Guide: Editing mathematical formulae|TeX format]] --[[User:Pipian|Pipian]]
+
+::I change my earlier stance and now favor including the calculus-based material. Tex stuff sounds great if you like, I have not familiarized myself with how to write that stuff yet. --[[User:Karl Wick|Karl Wick]]
+
+:::Yeah, I was about to say that I was going to add such to the Kinematics section first.  Now that you've said it's OK, I'll go right ahead and do that.  Shouldn't be that hard to do it inline.  Only thing is that the TeX outputs on a white background, so we will have to accommodate in terms of the tables. I'll go ahead and alter the Kinematics page first though to give you a taste.  I'll add some more explanation to it later.  Also, because I have a minor qualm with using d for displacement, favoring instead &amp;Delta;x (That's what I've read in every physics book that I've read), which also makes sense in the calculus-context (dx/dt), I'm going to switch those &quot;d&quot;s to &quot;&amp;Delta;x&quot;s. --[[User:Pipian|Pipian]]
+
+::OK [[User:Karl Wick|Karl Wick]]
+
+:::Take a look.  That's how I envision the pages looking (aside from adding a little explanation) -- [[User:Pipian|Pipian]]
+
+::I like how the formatting looks under Tex. I'd like to keep everything as simple as possible. Right now I get a bit of a headache looking at all of the equations and for ME it is a bit overwhelming, and I think that it will be even more so for someone just getting into the subject. If possible I'd like to relegate all of the calc-based stuff to separate spots where it will not distract those who dont need it. One solution is for the reader to just ignore it but I'd rather not make him go thru all of that work. The calc stuff can be on a different page or on the same page further down. We could link to each more advanced page beneath the corresponding, simpler treatment. My whole goal in starting this book was to make the subject as approachable to a novice as possible and to eliminate averything that may distract him. My intent is that adding additional stuff is material for another, different book. --[[User:Karl Wick|Karl Wick]]
+
+::OK, let me change my mind a bit again. I dont like the formatting in Tex so much cuz it loses the color that sets the equations apart, and the type is in a different font. I think yours and my goals may be different for the project. Mine include printing up copies of this material to sell on campus when I have all of the sections done. Maybe it would be better if you did a paralell version where you copied all of the material you wanted from here but didnt implement the pseudo-drastic changes you propose .. or do whatever you want to do on separate pages linked off of the existing pages. Talk to me cuz I know you will probably be mad/exasperated/something negative about what I am saying. --[[User:Karl Wick|Karl Wick]]
+
+::The equations should still be fairly noticeable, as they are inscribed in boxes (you could dash them or do various other things instead of tinting the insides).  Feel free to change it back if you like, but I believe that it would be best to keep it as it is (since it would be more accurate to what people will see in their books, and calculus equations are more difficult to display accurately without the help of TeX).  It would be nice if TeX would place it on the colored background, but this, unfortunately, does not seem to be possible.  As for Calculus, it would be convenient if it were at the bottom of the same page, rather than on a different page.  I don't mind separating it however. -- [[User:Pipian|Pipian]]
+
+::I also think it would be beneficial to arrange it as ''kinematics'', ''forces'', ''momentum'', ''work/energy'' (should be one section), ''circular motion'', ''fluids'', ''fields'', ''gravity'', ''waves/sound'' (should be one section), ''thermodynamics'', ''electromagnetism'', ''optics'', ''modern (quantum/atomic) physics'' as that is a more natural way to learn physics.  Each builds on the previous up to fields, and it is confusing to think about energy in the ''gravity'' chapter when it has not been mentioned in the study guide.  Everything after gravity is more or less up for grabs as to location, though modern physics should be last. -- [[User:Pipian|Pipian]]
+
+::So where do we stand on forthcoming development of this text?  Would it seriously be better if I split off? (I also tested making the borders thicker on Kinematics, if it looks alright) -- [[User:Pipian|Pipian]]
+
+There is some duplicated content in the [[Physics Exercises]] book I placed a wiki-link in the apedicies to that book as I figured that worked problems would be a good resource. --[[User:msmithma|Mart&amp;iacute;n S-M]]
+
+After looking at the [[Wikibooks:Manual of Style]] I realized the book needs a [[Physics Study Guide/Cover]] page and I made it and moved all the relavent information to that page from the table of contents.  Also I am in the process of removing all the Category:Physics links from the sub-pages. I also moved the detailed infoamtion on changes on the Author page to the disscussion page leaving only the names of authors on the [[Physics Study Guide/Authors]] page.  I created  the subcategory [[:Category:Physics Study Guide]]--[[User:msmithma|Mart&amp;iacute;n S-M]] Oct, 20, 2006
+
+I am at a small college in Florida and as an assignment my students have created Wiki pages for Introductory Physics. Feel free to borrow freely from it [http://academics.eckerd.edu/facultywiki/index.php/PH241N-001:Main here]. -- S. Weppner
+
+==Outlines==
+Those box outlines are a bit too fat. I thought you had decided not to develop a different book but maybe we could just work on the same one together. If I want to publish my own version later I can just rework it to what I had originally in mind. Also notice that I restructured the list of topics as it seemed you had suggested, please modify as you see fit. --[[User:Karl Wick|Karl Wick]]
+
+:Alright.  I slimmed those down to 3px instead of 4px.  If you want, I'll take them to 2px.  As for the topic list, I re-arranged it slightly to put it in a (seemingly) better order.  If you disagree, let me know. -- [[User:Pipian|Pipian]]
+
+==Tracking Changes==
+*[[User:Karl Wick|Karl Wick]]
+**This book initiated on 10/29/03
+*[[User:Flonejek|Adon Metcalfe]]
+**Added images throughout on 6/18/04
+* Brendan Abbott
+**Minor update to Electronics page on 10/13/04
+*Tristan Sabel
+**Several additions to Physical Constants page on 3/15/05
+**Creation of Approximate Coefficients of Friction page on 3/15/05
+*[[User:Flonejek|Adon Metcalfe]]
+**Definition fix on sound page on 3/27/05
+*Fromund Hock
+**Some changes on light on 8/1/05
+*[[User:msmithma|Martin Smith-Martinez]]
+**Suggested that the [[Physics Exercises]] be merged into the guide 9/06
+**Updated the [[Physics Study Guide/Physics constants|Physical Constants]] page
+**Added some images, changed others to thumbnails to the [[Physics Study Guide/Linear motion|Linear motion]] and [[Physics Study Guide/Vectors and scalars|Vectors and Scalras]] pages Oct 20, 2006
+**Did some migration of boxed equations into the [[Template:PSG/eq]] 19:29, 16 November 2006 (UTC)
+**Created the PSG/var and PSG/def templates and made entries in the Style Guide discussion and migrated the variable and definitions on the Forces page into the template format 07:22, 4 June 2007 (UTC)
+
+== Print version ==
+
+Can anyone create a printable version of the entire book? I have tried, but can't seem to get it to work properly.
+
+Yes, a print (PDF)version would be really useful. BTW, what does it take to create a PDF? I have a dial-up access and cannot be of much use here but I hope someone else will do the good work. Kushal_one (on wikipedia)
+
+[[Category:Physics Study Guide]]
+
+== Freshman? ==
+
+This book is apparently on the level of Freshman? To what universal stage/degree does that correspond?[[User:Adriaan90|Adriaan90]] ([[User talk:Adriaan90|talk]]) 14:22, 6 June 2009 (UTC)
+
+== Orphaned page ==
+
+[[Physics Study Guide/Quantum Mechanics]] is not linked to by this book.  If you like it, please link to it.  Otherwise, you could merge the content and label it with {{tlx|now merged|the page you merged it into}} or mark it with {{tlx|delete|reasoning}}. -- [[User:Adrignola|Adrignola]] &lt;sup&gt;[[User talk:Adrignola|talk]] [[Special:Contributions/Adrignola|contribs]]&lt;/sup&gt; 13:12, 7 August 2009 (UTC)
+
+== The Question Bank ==
+
+has anyone noticed the question bank that I have added to the Physics Study Guide? That'll be a great way to add content to the textbook. Ofcourse, once the contributors start adding explanations, we will know how to write the guide better!</text>
+      <sha1>mi82tp1u98pycarlptb1j2semcxx4m5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Relativity</title>
+    <ns>0</ns>
+    <id>2070</id>
+    <revision>
+      <id>2265642</id>
+      <parentid>2265531</parentid>
+      <timestamp>2012-02-14T22:43:41Z</timestamp>
+      <contributor>
+        <username>Panic2k4</username>
+        <id>2865</id>
+      </contributor>
+      <text xml:space="preserve">__NOTOC__
+{{DISPLAYTITLE:&lt;span style=&quot;display:block;text-align:center;font-size:280%;color:#191970;font-style:italic;line-height:1em;&quot;&gt;General Relativity&lt;/span&gt;}}
+==Index==
+&lt;div style=&quot;margin-bottom:1em; padding:0.8em;&quot;&gt;
+{| width=&quot;100%&quot; cellpadding=&quot;3px&quot; cellspacing=&quot;2px&quot;
+|-
+|
+*[[General Relativity/Introduction|Introduction]]
+
+*[[General Relativity/Introduction to Tensors|Introduction to Tensors]]
+**[[General Relativity/What is a tensor?|What is a tensor?]]
+**[[General Relativity/Contravariant and Covariant Indices|Contravariant and Covariant Indices]]
+**[[General Relativity/Einstein Summation Notation|Einstein Summation Notation]]
+**[[General Relativity/Rigorous Definition of Tensors|Rigorous Definition of Tensors]]
+**[[General Relativity/Coordinate systems and the comma derivative|Coordinate systems and the comma derivative]]
+
+
+*[[General Relativity/Tensors and geometry|Tensors and geometry]]
+**[[General Relativity/Metric tensor|Metric tensor]]
+**[[General Relativity/Raising and Lowering Indices|Raising and Lowering Indices]]
+**[[General Relativity/Geodesics|Geodesics]]
+**[[General Relativity/Curvature|Curvature]]
+**[[General Relativity/Riemann tensor|Riemann tensor]]
+**[[General Relativity/Covariant Differentiation|Covariant Differentiation]]
+***[[General Relativity/Christoffel symbols|Christoffel symbols]]
+***[[General Relativity/The Covariant Derivative|The Covariant Derivative]]
+
+*[[General Relativity/Tensors and matter-energy|Tensors and matter-energy]]
+**[[General Relativity/The stress-energy tensor from the action|The stress-energy tensor from the action]]
+
+*[[General Relativity/Einstein's equation|Einstein's equation]]
+
+*[[General Relativity/Physics in curved space|Physics in curved space]]
+
+*[[General Relativity/Applications|Applications]]
+**[[General Relativity/Celestial mechanics|Celestial mechanics]]
+***[[General Relativity/Approximations to general relativity|Approximations]]
+***[[General Relativity/Precession of Mercury|Precession of Mercury]]
+***[[General Relativity/Global positioning system|Global positioning system]]
+**[[General Relativity/Cosmology]]
+***[[General Relativity/Friedman-Robertson-Walker cosmology|Friedman-Robertson-Walker cosmology]]
+**[[General Relativity/Gravitational waves|Gravitational waves]]
+
+*[[General Relativity/Black holes|Black holes]]
+**[[General Relativity/Birkhoff's theorem|Birkhoff's theorem]]
+**[[General Relativity/Schwarzschild metric|Schwarzschild metric]]
+**[[General Relativity/Eddington-Finkelstein coordinates|Eddington-Finkelstein coordinates]]
+**[[General Relativity/Kruskal extension| Kruskal extension]]
+**[[General Relativity/Kerr-Neuman black hole|Kerr-Neuman black hole]]
+**[[General Relativity/Reissner-Nordström black hole|Reissner-Nordström black hole]]
+**[[General Relativity/What is a singularity?|What is a singularity?]]
+**[[General Relativity/BKL singularity|BKL singularity]]
+**[[General Relativity/Singularity theorems|Singularity theorems]]
+|
+*[[General Relativity/More on Tensors|More on Tensors]]
+**[[General Relativity/The Tensor Product|The Tensor Product]]
+**[[General Relativity/Contraction|Contraction]]
+**[[General Relativity/Tensor Symmetries|Tensor Symmetries]]
+**[[General Relativity/How Tensors Transform|How Tensors Transform]]
+**[[General Relativity/The Metric Tensor|The Metric Tensor]]
+**[[General Relativity/The Wedge Product|The Wedge Product]]
+
+*[[General Relativity/Differential geometry|Differential geometry]]
+**[[General Relativity/Differentiable manifolds|Differentiable manifolds]]
+**[[General Relativity/Vector bundles|Vector bundles]]
+**[[General Relativity/Tangent and cotangent bundles|Tangent and cotangent bundles]]
+**[[General Relativity/Diffeomorphisms|Diffeomorphisms]]
+**[[General Relativity/Tensor bundles and jet bundles|Tensor bundles and jet bundles]]
+**[[General Relativity/Connections over vector bundles|Connections over vector bundles]]
+**[[General Relativity/Lie derivatives|Lie derivatives]]
+**[[General Relativity/Differential forms|Differential forms]]
+**[[General Relativity/Exterior derivatives and de Rham cohomology|Exterior derivatives and de Rham cohomology]]
+**[[General Relativity/Chain homology|Chain homology]]
+**[[General Relativity/Stoke's theorem|Stoke's theorem]]
+
+*[[General Relativity/Pseudo Riemannian manifolds|Pseudo Riemannian manifolds]]
+**[[General Relativity/Metric tensor|Metric tensor]]
+**[[General Relativity/Torsion|Torsion]]
+**[[General Relativity/Levi-Civita connection|Levi-Civita connection]]
+**[[General Relativity/Conformal rescalings and the Weyl tensor|Conformal rescalings and the Weyl tensor]]
+**[[General Relativity/Coordinates and component notation|Coordinates and component notation]]
+
+*[[General Relativity/Einstein-Hilbert action|Einstein-Hilbert action]]
+
+*[[General Relativity/Causal structure|Causal structure]]
+
+*[[General Relativity/Penrose diagrams|Penrose diagrams]]
+
+*[[General Relativity/Moving frames|Moving frames]]
+**[[General Relativity/Principal bundles|Principal bundles]]
+**[[General Relativity/Frame bundle|Frame bundle]]
+**[[General Relativity/External bundle|External bundle]]
+**[[General relatitivy/Frame bundle connection|Frame bundle connection]]
+**[[General Relativity/Palatini action|Palatini action]]
+**[[General Relativity/The equivalence between the Palatini and Einstein-Hilbert action|The equivalence between the Palatini and the Einstein-Hilbert action]]
+**[[General Relativity/Spinor reps of the Lorentz group|Spinor reps of the Lorentz group]]
+**[[General Relativity/Spinor bundles|Spinor bundles]]
+**[[General Relativity/Dirac and Majorana spinors in curved spacetime|Dirac and Majorana spinors in curved spacetime]]
+|}
+&lt;/div&gt;
+
+== [[General Relativity/Authors|Authors]] ==
+
+==References==
+*{{cite book|last=D'Inverno|first=Ray|title=Introducing Einstein's Relativity|publisher=Oxford: Clarendon Press|date=1992|isbn=0-19-859686-3}}
+*{{cite book|last=Wald|first=Robert M.|title=General Relativity|publisher=University of Chicago|date=1984|isbn=0-226-87033-2}}
+*{{cite book|last=Dirac|first=P. A. M.|title=General Theory of Relativity|publisher=Princeton University Press|date=1996|isbn=0-691-01146-X}}
+*{{cite book|last=Misner|first=Thorne, Wheeler|title=Gravitation|publisher=W H Freeman and Company|date=1973|isbn=0-7167-0344-0}}
+
+{{Subjects|Relativity}}
+{{Alphabetical|G}}
+{{status|25%}}
+
+[[ar:النسبية العامة]]
+[[ja:一般相対性理論]]
+[[pl:Ogólna teoria względności]]</text>
+      <sha1>5l6lpxl0xcu2l0qj6vlwcvku7iuk87l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Anthere</title>
+    <ns>3</ns>
+    <id>2071</id>
+    <revision>
+      <id>998506</id>
+      <parentid>570304</parentid>
+      <timestamp>2007-10-10T15:25:04Z</timestamp>
+      <contributor>
+        <username>Darklama</username>
+        <id>7662</id>
+      </contributor>
+      <minor />
+      <comment>minor tweaks in preparation of WB:SL move</comment>
+      <text xml:space="preserve">Bonjour Anthere :) Nice to see we've dragged yet another from the Wikipedia, hope you have fun here too [[User:Dysprosia|Dysprosia]] 22:21, 14 Nov 2003 (UTC)
+
+hi Dysprosia, I came a couple of times when it was set up, but not since then. Thought of cleaning the place a bit. The logo is gorgious imho ! that makes it a very sunny place. Cheers.
+
+== Wikilivres ==
+
+Je m´étonne que, en entête des Wikilivres, il n´apparaît pas la mention du type : &quot;Un article de la Wikipedia, l´encyclopédie libre&quot; comme il y a en anglais &quot;From Wikibooks,The freebook project&quot;.
+N´aurait-il pas lieu d´y mettre cette mention? (normaliser le texte)[[User:Hibisco-da-Ilha|Hibisco-da-Ilha]] 09:25, 10 Jul 2004 (UTC)
+
+== Wikimania presentation ==
+
+Ciao Anthere!  How're you?  We're working on the Wikimania proceeding - will you write a paper for your presentation?
+
+(sorry if someone has asked you the same question already :p)
+
+Cathy from Hong Kong  --[[User:Cma|Cma]] 12:25, 21 September 2005 (UTC)
+
+errr, well. No. To be fair, it requires me a lot of time to write properly in english... and in this case, I would feel compelled to write in GOOD english :-) So, I prefer not. However, I can write you a better and more complete summary than the one I wrote much sooner than preparing the powerpoint. What is the deadline ? Anthere
+
+Hoi :) Thanks for your reply. Yeah I understand that's a lot of work!  A summary will be good enough if you think that a full paper is taking too much toll upon you.  As you can see, there is not really a deadline, but hopefully it will be before the Wikimania 06?
+
+--[[User:Cma|Cma]] 04:27, 8 February 2006 (UTC)
+
+Actually, I am glad I did not make any summary... since they were all deleted :-) [[User:Anthere|Anthere]] 11:06, 17 February 2006 (UTC)
+
+----
+
+Anthere,
+
+I strongly object to what has just happened with the the Wikimania content, and feel that your and Brion's actions are tantamount to completely ignoring the local Wikibooks user community, and a total disregard to local policies as well.  As far as where the discussion took place, yeah, it wasn't perhaps as prominent of a location, but keep in mind that even you should admit that Wikimania did not belong on Wikibooks.  It is only because of the insistance of people like you that it absolutely must belong on Wikibooks that it is here at all.
+
+The only reason why Wikimania is going to remain on Wikibooks is strictly because of individuals like yourself exerting undo political influence on this project, and that strictly because of your position on the board.  Wikibooks is being treated like a backwater project that has no administrators, no user community, and no policies in place.
+
+For a more detailed explaination as to why I think Wikimania absolutely does not belong, and by previously published policy is eligable for immediate deletion by an administrator and doesn't even need a community vote on the topic, see [[Wikibooks:Staff lounge#Wikimania proceedings, transwikiing, and related issues]].  This content violated several Wikibooks policies, and is from a certain point of view tantamount to vandalism.  I didn't immediately delete this content, and I did perform a full transwiki.  This is critically important, as I am not really trying to remove the content, but find a more permanent home, and through a process that has been accepted many times for many different projects, including multi-page content that is rather substantial.  --[[User:Robert Horning|Rob Horning]] 13:25, 17 February 2006 (UTC)
+
+:BTW, if you are seeking a formal discussion and vote, I guess we can have that now.  I have added this to [[Wikibooks:Votes for deletion#Wikimania 2005 proceedings]], FYI.  I suspect several different opinions will be added, and you are welcome to voice your opinion there as well.  I'm getting a little hot under the collar for this, but I do think it eventually does need to go.  --[[User:Robert Horning|Rob Horning]] 14:06, 17 February 2006 (UTC)
+
+== Merci! ==
+
+Anthere,
+
+Je suis bien content que vous ayez decidé d'utiliser notre livre à votre presentation internationale! J'aimerais vous y accompagner! I would love to hear more about the conference. I'm excited that our class project will be getting more attention. Starting next week I was planning to have class members contact physiology teachers at as many universities as possible to invite them to use the book and help improve it. While there are still some gaping holes and some misinformation, I am so impressed with what the students have accomplished in only 7 weeks. This has been a great experience for most of the students. 
+
+I look forward to hearing more from you about your presentation. [[User:Provophys|Provophys]] 22:48, 28 August 2006 (UTC)
+
+THe presentation is in two days... and I am currently trying to prepare it (and not having much fabulous insight actually). See the link : http://www.hcuge.ch/genevahealthforum/index.html. In case you have a funny strip or interesting image to lighten up the presentation, I am more than interested. I'll use your book for the marketplace as well. Hopefully, it will bring some readers :-) [[User:Anthere|Anthere]]</text>
+      <sha1>t6h9i1ifgavddcldxhhnpuaqd74fwii</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Decision puzzles/Yet Another Weighing</title>
+    <ns>0</ns>
+    <id>2075</id>
+    <revision>
+      <id>872717</id>
+      <parentid>872704</parentid>
+      <timestamp>2007-05-20T22:56:10Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>NC</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Decision puzzles|Decision puzzles]] | Yet another Weighing
+----
+
+You have a balance and the following items of which you know the weights:
+a stapler weighing 80g, a pen weighing 40g, an eraser weighing 20g, a ruler weighing 10g,
+and a small coin weighing 5g.
+
+''How many different weights can you measure with these items?''
+
+[[Puzzles/Decision puzzles/Yet Another Weighing/Solution| solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>gaee12ifllc70whyw5orr619tbjb974</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Vincent Ramos</title>
+    <ns>2</ns>
+    <id>2077</id>
+    <revision>
+      <id>154127</id>
+      <timestamp>2003-11-15T14:36:11Z</timestamp>
+      <contributor>
+        <username>Vincent Ramos</username>
+        <id>271</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">&lt;font size=-1&gt;&lt;!-- [[wikibooks:User:Vincent_Ramos|Wikibooks]] |--&gt; [[wiktionary:User:Vincent_Ramos|Wiktionary]] | [[W:en:User:Vincent_Ramos|W:English]] | [[W:es:Usuario:Vicente_Ramos|W:Español]] | [[W:fr:Utilisateur:Vincent_Ramos|W:Français]] | [[ja:%E5%88%A9%E7%94%A8%E8%80%85:%E6%9C%88%E5%BD%B1%E3%80%80|W:日本語]] | [[ru:&amp;#1059;&amp;#1095;&amp;#1072;&amp;#1089;&amp;#1090;&amp;#1085;&amp;#1080;&amp;#1082;:Vincent_Ramos|W:Русский]] | [[zh:%E7%94%A8%E6%88%B7:%E6%9C%88%E5%BD%B1|W:中文]] | [[M:User:Vincent_Ramos|Meta]] &lt;/font&gt;
+----
+
+Hello, 
+
+You may find me editing in the [http://fr.wikipedia.org French Wikipedia] or send me a message [http://fr.wikipedia.org/w/wiki.phtml?title=Discussion_Utilisateur:Vincent_Ramos&amp;action=edit&amp;section=new following this link].''
+
+Vincent</text>
+      <sha1>sd5qqc0d9edqz327nv03086450cslhq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Systematic Phonics/Dividing syllables</title>
+    <ns>0</ns>
+    <id>2079</id>
+    <revision>
+      <id>2717063</id>
+      <parentid>2717062</parentid>
+      <timestamp>2014-10-23T19:57:40Z</timestamp>
+      <contributor>
+        <username>Agaede</username>
+        <id>1912066</id>
+      </contributor>
+      <minor />
+      <comment>/* VCCV */</comment>
+      <text xml:space="preserve">__NOTOC__
+
+[[Systematic Phonics]]
+----
+If we can divide a word into syllables, it essentially divides it into easy, bite-size chunks that are easy to pronounce. In this way anyone can pronounce even very large and difficult words.
+
+There are a few simple steps to divide a word into syllables.
+
+#Mark the talking vowels
+#Link vowels with looping lines underneath
+#Mark the consonants
+#Identify consonant patterns
+#Divide word into syllables
+
+==Consonant patterns==
+Take a word and grab any two talking vowels (the two vowels should not have any other talking vowels in-between them). These are the bookends, the beginning and the end of the part of the word that we are going to look at. 
+
+There are just five possible combinations of vowels and consonants that can occur:
+
+#'''VV
+#'''VCV
+#'''VCCV
+#'''VCCCV
+#'''VCCCCV
+
+== VV ==
+This vowel pattern is always broken between the two vowels. That is, one syllable ends at the end of the first vowel, and another syllable begins with the beginning of the second vowel.
+
+==VCV==
+This is the trickiest one of the five, the only one that will trip you up if you are not careful.
+
+First, tentatively divide the syllables between the first vowel and the consonant. Then pronounce the result. If it sounds right, this is the correct division. If it does not sound right, try dividing the syllables between the consonant and the second vowel. 
+
+How do you know how to pronounce the syllables ? If the syllable ends with a consonant, it is a short vowel. If it ends in a vowel, it is a long vowel. 
+
+Think about it this way: imagine that an ending consonant has hands, and can use them to shut things like a Jack-in-the-box. If the box is shut by that ending consonant, the Jack-in-the-box is stuffed down in the box andd real short, just like the vowel will be short. If there is no consonant to shut the box, the Jack-in-the-box springs out and is real long, just like the vowel will be real long.
+
+==VCCV==
+Always break syllables between the two consonants. Almost always, even if the two consonants are the same one repeated, like a double &quot;s&quot;.  The only exception would be if the two consonants are a single diagraph such as &quot;th&quot; and &quot;sh&quot;.
+
+==VCCCV==
+Look for a [[Systematic Phonics/Blend|blend]] in the group of three consonants. Circle the blend. Then divide the syllables between the blend and the remaining consonant.
+
+==VCCCCV==
+The four consonants in the middle can be made up of either two double blends or one triple blend with another consonant. Identify and circle the blend(s) involved, and divide between them.
+
+[[Category:Systematic Phonics]]</text>
+      <sha1>ao59ua1tg62mx1734n2jppd8h1fefd5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Systematic Phonics/Blend</title>
+    <ns>0</ns>
+    <id>2083</id>
+    <revision>
+      <id>1375875</id>
+      <parentid>795469</parentid>
+      <timestamp>2009-01-10T01:15:27Z</timestamp>
+      <contributor>
+        <username>Martin Kraus</username>
+        <id>112346</id>
+      </contributor>
+      <comment>corrected category</comment>
+      <text xml:space="preserve">[[Systematic Phonics]]
+----
+'''Blends''' or '''clusters''' are '''groups of consonants''' whose sounds '''blend''' together. 
+
+They can be composed of '''two''' or '''three''' consonants and can '''begin''' or '''end''' a syllable.
+
+Examples include br, cr, dr, fr, gr, pr, tr, bl, cl, fl, gl, pl, sl, sm, sn, sp, st, str, sw, sc, sk, scr, squ, spl, spr, thr, tw, rl, ng, nt, nk, lk, mp, lt, nd, and rt.
+
+[[Category:Systematic Phonics]]</text>
+      <sha1>f2j4uruzir5um6euiho1fsqpa1rqw6q</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Systematic Phonics/Why use systematic phonics</title>
+    <ns>0</ns>
+    <id>2084</id>
+    <revision>
+      <id>1375878</id>
+      <parentid>537038</parentid>
+      <timestamp>2009-01-10T01:16:47Z</timestamp>
+      <contributor>
+        <username>Martin Kraus</username>
+        <id>112346</id>
+      </contributor>
+      <comment>corrected category</comment>
+      <text xml:space="preserve">[[Systematic Phonics]]
+----
+Systematic phonics is a toolbox designed to enable and empower a person to read. It is useful for children first learning to read, non-native speakers who are learning to read, and even the many native adult English speakers who have not yet learned to read.
+
+With systematic phonics, a reader can break down any word, even the most difficult, into maneagable pieces called syllables. When a person can correctly divide a word, he can then pronounce each part and then the whole word.
+
+Systematic phonics was developed decades ago by language experts as a way to decode the entire English language. 
+
+:From a [http://www.nichd.nih.gov/publications/nrp/ch2-II.pdf paper] published by the [http://www.nih.gov National Insitute of Health]: '' &quot;Findings provided solid support for the conclusion that systematic phonics instruction makes a bigger contribution to children’s growth in reading than alternative programs providing unsystematic or no phonics instruction.&quot; ''
+
+Extensive studies support that the method is effective. However, systematic phonics has not been adopted by most educators, who tend to use &quot;whole language&quot; or &quot;holistic learning&quot; to teach kids to read. Proponents of systematic phonics claim that the failure of many students to read to level can be traced to the use of other, less systematic, teaching methods.
+----
+Systematic phonics an be an important part of learning [[English as a Second Language]].
+
+[[Category:Systematic Phonics]]</text>
+      <sha1>kvrm4mebqgwof59evyni2feoydi7tfp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Graphic Design</title>
+    <ns>0</ns>
+    <id>2085</id>
+    <revision>
+      <id>2201184</id>
+      <parentid>2201180</parentid>
+      <timestamp>2011-10-25T14:50:18Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/159.247.237.3|159.247.237.3]] ([[User talk:159.247.237.3|talk]]) to last version by QuiteUnusual</comment>
+      <text xml:space="preserve">__NOTOC__
+==Discipline==
+:[[/Graphics/]]
+:[[/Type/]]
+:[[/Web Design/]]
+:[[/Corporate Identity Design/]]
+
+==Theory==
+:[[/Form and Function/]]
+:[[/Principles of Design/]]
+:[[/Planning/]]
+
+==History==
+:[[/Pioneers of Graphic Design/]]
+
+==Application and Techniques==
+:[[/Project List/]]
+:[[/Drawing/]]
+:[[/Photography/]]
+:[[/Sign Making/]]
+:[[/Silkscreening/]]
+
+==Etc==
+:[[/Statistics about graphic designers/]]
+:[[/Authors/]]
+:[http://www.examplesof.com/ExcelTemplates/immunization_record.html Example of Immunization Record]
+
+{{Subjects|Design}}
+{{Alphabetical|G}}
+{{status|25%}}</text>
+      <sha1>8z9z7jgf27scogdezn1ane6b7pesv1g</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Graphic Design/Project List</title>
+    <ns>0</ns>
+    <id>2086</id>
+    <revision>
+      <id>2066056</id>
+      <parentid>1548459</parentid>
+      <timestamp>2011-03-06T04:22:40Z</timestamp>
+      <contributor>
+        <username>Avicennasis</username>
+        <id>314063</id>
+      </contributor>
+      <minor />
+      <comment>[[WP:AWB/T|Typo fixing]], typos fixed: clasify → classify using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">A great way to learn to do design is to stretch your graphic design muscles. That is, push up your shirtsleeves and get down to doing some projects. Don't worry if the stuff turns out bad or people hate it, it's all a process of learning.
+
+==Business card design==
+Every professional needs a business card. The US standard is 2&quot; x 3.5&quot; (89 mm x 51 mm). Use a .125&quot; (3.175 mm) margin on all sides.
+
+Using a desktop publishing program, such as [[Scribus]], make a business card for yourself, with typography and graphic elements. Plan layout with an eye for hierarchy.
+
+==Symbol design==
+Using Adobe Illustrator or a similar vector-graphics tool, design a stylized icon or symbol representing an animal, taking care to communicate the socially perceived emotional connotations of this animal. The icon should be scalable to the point that it can be used on office stationary as well as blown up to billboard size. The symbol should employ limited colors so as to be easily and inexpensively printable.
+
+==Compact disc design==
+Find an existing or imagined compact disc recording and design a complete package for it, including all copy appropriate for a disc to be sold in a store (song list, copyright information, etc.) You may use photography that you take yourself or any drawings or other computer art, etc. that you create yourself or commission for the project. Design the inside and outside of the CD case as well as the disc itself, keeping yourself open to the possibilites of non-traditional CD cases (transparent, etc.)
+
+==Typeface design==
+Design a complete alphabet with special characters of your own, original font. You may choose a serif or sans-serif font, or a decorative font. Give samples of bold, extra bold, and italic versions of some letters. 
+
+==Webpage design==
+
+Design, using appropriate tools, an entire webpage devoted to a social or political cause of your choosing. Use colors, images, and a style that conforms to the page's message. Importantly don't forget - that the page you are designing for the Visitors only. So first classify your visitors, and use the color schemes which they impress most. And try to design a user friendly navigation system with a low flashy images.
+
+==Toy design==
+Design a novel toy, optimized for maximum &quot;fun-ness&quot; for an audience of your choosing, and its complete packaging. Include suggestions for a marketing campaign promoting the toy.
+
+==Personal projects==
+Design a project that personally touches you. Whether it be a collage or a poster for something you believe in, it is important to perform your skills for your own use as well as for your clients. Combine tools (Adobe with Macromedia with ink, pencil, highlighters and your trusty scanner). Have fun.
+
+[[Category:Graphic Design]]</text>
+      <sha1>8hm6hlvz8gbd59gh40p8q2nzpmepj55</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Biochemistry metabolism 5a.png</title>
+    <ns>6</ns>
+    <id>2089</id>
+    <revision>
+      <id>2366339</id>
+      <parentid>882037</parentid>
+      <timestamp>2012-06-19T22:17:38Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>Replacing links, replaced: {{CC-self}} → {{self|cc-by-sa-2.5}} using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">Biochemistry 1, 5a
+
+{{self|cc-by-sa-2.5}}
+{{GFDL-self}}</text>
+      <sha1>hplhn0g1eit06o10orfggktmvucy10a</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Biochemistry metabolism 5b.png</title>
+    <ns>6</ns>
+    <id>2090</id>
+    <revision>
+      <id>2366340</id>
+      <parentid>882038</parentid>
+      <timestamp>2012-06-19T22:17:40Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>Replacing links, replaced: {{CC-self}} → {{self|cc-by-sa-2.5}} using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">Biochemistry 1, 5b
+
+{{self|cc-by-sa-2.5}}
+{{GFDL-self}}</text>
+      <sha1>7p30urljf4clnf4dgybhixxfxp22mnr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Biochemistry metabolism 5c.png</title>
+    <ns>6</ns>
+    <id>2091</id>
+    <revision>
+      <id>2366341</id>
+      <parentid>882039</parentid>
+      <timestamp>2012-06-19T22:17:42Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>Replacing links, replaced: {{CC-self}} → {{self|cc-by-sa-2.5}} using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">Biochemistry 1, 5c
+
+{{self|cc-by-sa-2.5}}
+{{GFDL-self}}</text>
+      <sha1>ai67sosm4h94pyohxfm3bbiuzjeagr5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Biochemistry metabolism 5d.png</title>
+    <ns>6</ns>
+    <id>2092</id>
+    <revision>
+      <id>2366342</id>
+      <parentid>882040</parentid>
+      <timestamp>2012-06-19T22:18:23Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>Replacing links, replaced: {{CC-self}} → {{self|cc-by-sa-2.5}}</comment>
+      <text xml:space="preserve">Biochemistry 1, 5d
+
+{{self|cc-by-sa-2.5}}
+{{GFDL-self}}</text>
+      <sha1>nco0a3f6dv5v40f5wz00ehbx9cht3oy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Biochemistry/pKa values</title>
+    <ns>0</ns>
+    <id>2094</id>
+    <revision>
+      <id>2567973</id>
+      <parentid>2085991</parentid>
+      <timestamp>2013-10-18T11:54:57Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <text xml:space="preserve">[[Biochemistry]] 
+
+[[Biochemistry/Metabolism and energy|&lt;&lt; Metabolism and energy]]
+----
+It is difficult to discuss the subject of biochemistry without a firm foundation in general chemistry and organic chemistry, but if one doesn't remember the concept of the Acid Dissociation Constant (p''K''&lt;sub&gt;a&lt;/sub&gt;) from Organic Chemistry, one can read up on the topic below.
+
+
+''Buffers'' are essential to biochemical reactions, as they provide a (more or less) stable pH value for reactions to take place under constantly changing circumstances. The pH value in living cells tends to fall between 7.2 and 7.4, and this pH level is generally maintained by weak acids. (The pH values in lysosomes and peroxisomes differ from this value, as do the pH measurements of the stomach and other organs found in various types of plants and animals.)
+
+
+An ''acid'' is here defined simply as any molecule that can release a proton (H&lt;sup&gt;+&lt;/sup&gt;) into a solution. Stronger acids are more likely to release a proton, due to their atomic and molecular properties. The tendency of an acid to release a proton is called the ''dissociation constant'' (''K''&lt;sub&gt;a&lt;/sub&gt;) of that substance, with
+:&lt;math&gt;{K}_{a} = {[{H}^{+}][{A}^{-}] \over [HA]}&lt;/math&gt;
+for HA &lt;-&gt; H&lt;sup&gt;+&lt;/sup&gt; + A&lt;sup&gt;-&lt;/sup&gt;.
+
+
+A larger ''K''&lt;sub&gt;a&lt;/sub&gt; value means a greater tendency to dissociate a proton, and thus it means the substance is a stronger acid. The pH at which 50% of the protons are dissociated can therefore be calculated as:
+:p''K''&lt;sub&gt;a&lt;/sub&gt; = -log ( ''K''&lt;sub&gt;a&lt;/sub&gt; )
+This equation is known as the Henderson-Hasselbalch equation.
+
+:&lt;math&gt;{pH} = {pK}_{a} + log{[base] \over [acid]}&lt;/math&gt;
+
+The Henderson-Hasselbalch equation is derived from the adjacent K&lt;sub&gt;a&lt;/sub&gt; expression. By taking the logarithm of base ten to both sides, the next part of the equation is obtained. Using the logarithmic property of multiplication, the [H&lt;sup&gt;+&lt;/sup&gt;] breaks from the expression. Since log K&lt;sub&gt;a&lt;/sub&gt; is equal to -pK&lt;sub&gt;a&lt;/sub&gt; and log [H&lt;sup&gt;+&lt;/sup&gt;] is equal to -pH, they are then substituted. To obtain what is known as the Henderson-Hasselbalch equation, -pK&lt;sub&gt;a&lt;/sub&gt; and -pH are subtracted from their respective sides to yield a positive equation. 
+
+
+
+The Henderson-Hasselbalch equation interestingly enough predicts the behavior of buffer solutions.  A solution of 1 M ethanoic (acetic) acid [HA] and 1 M sodium ethanoate [A&lt;sup&gt;-&lt;/sup&gt;] will have a pH equal to the p''K''&lt;sub&gt;a&lt;/sub&gt; of ethanoic acid: 4.76.  
+
+
+If we added acid to pure water up to a concentration of 0.1 M, the pH would become 1. If we add the same concentration of acid to the buffer solution, it will react with the ethanoate to form ethanoic acid. The ethanoate concentration would drop to 0.9 M and the ethanoic acid concentration should rise to 1.1 M. The pH becomes 4.67 - very different from the pH=1 ''without'' a buffer.
+
+
+Similarly, adding 0.1 M alkali changes the pH of the buffer to 4.85, instead of pH=13 without buffer.  Due to the amphipathic nature of amino acids - which are the monomer building blocks of all proteins, physiological conditions are always considered to be buffered, which plays a major role in the conformations and reactivities of substrates in the cell's liquid interior, its cytosol.
+
+
+A very small (which would include a large negative value) p''K''&lt;sub&gt;a&lt;/sub&gt; indicates a very strong acid.  A p''K''&lt;sub&gt;a&lt;/sub&gt; value between 4 and 5 is the most common range for organic acid compounds.
+
+----
+[[Biochemistry/Metabolism and energy|&lt;&lt; Metabolism and energy]]
+
+{{BookCat}}</text>
+      <sha1>7plsxzsfwfsjoqzyvn4dvfjhmbvl2yh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Xygorn</title>
+    <ns>2</ns>
+    <id>2095</id>
+    <revision>
+      <id>154144</id>
+      <timestamp>2003-11-16T23:22:38Z</timestamp>
+      <contributor>
+        <username>Xygorn</username>
+        <id>275</id>
+      </contributor>
+      <comment>Introduction</comment>
+      <text xml:space="preserve">An engineering student and Simon Fraser University in Canada, Xygorn has a keen interest in computers, and particularly software architecture and programming.  He intends to contribute to texts relating to Computers, Biology and Spanish, as time allows.</text>
+      <sha1>lisj4m3j3bfvrwll5n9wj5tff8afr42</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Appendices/Web resources</title>
+    <ns>0</ns>
+    <id>2096</id>
+    <revision>
+      <id>2644676</id>
+      <parentid>2487646</parentid>
+      <timestamp>2014-05-02T02:44:19Z</timestamp>
+      <contributor>
+        <username>Richardhale</username>
+        <id>1559824</id>
+      </contributor>
+      <minor />
+      <comment>Added French Translation to the resource. Reputable source with 20 years experience with translations.</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{French Appendices Header}}&lt;/noinclude&gt;
+
+==Link collections==
+* [[W:French language#External_links|Wikipedia French language external links]] - Dozens of valuable links.
+
+==Translators==
+* [http://www.google.com/language_tools Google Translator]
+* [http://babelfish.altavista.digital.com/babelfish/tr? Babelfish Translation] : A translation website
+* [http://toolbar.google.com/ Google Toolbar] - automatic translate on mouseover of a word (English to French only)
+
+==Learning French==
+* [http://www.onlinefrenchhelp.com/ Online French Help ]
+* [http://us.translation-vocabulary.com/fr-french French Vocabulary Wiki with exercises]
+* [http://french.about.com/ About.com French Language]
+* [http://www.targetlanguage.co.uk/ Target Language]
+* [http://www.homestead.com/Anne_Fox/LearningFrench.html Anne Fox]
+* [http://www.skrivanek.com/ French Translation]
+* [http://www.bbc.co.uk/languages/french/index.shtml BBC]
+* [http://www.language-exchanges.org The Mixxer] Find a native French speaker for a language exchange via [http://www.skype.com Skype]
+* [http://www.jump-gate.com/languages/french/ Jump-Gate]
+* [http://www.library.adelaide.edu.au/guide/hum/french/learning.html University of Adelaide], Australia
+* [http://www.claritaslux.com French Language Learning Software]
+* [http://www.ielanguages.com/french.html Free Online French Tutorial]
+* [http://www.bbc.co.uk/scotland/education/bitesize/standard/other/sos/french/grammar/index.shtml BBC Bitesize grammar]
+* [http://loquela-education.net Free resources for language learners] - Practice speaking French online with audio forums.
+* [[voy:French_phrasebook|French phrasebook]] on [[voy:|Wikivoyage]]
+* [http://www.orbilat.com/Languages/French/index.html Orbis Latinus French]
+* [http://ocw.mit.edu/courses/foreign-languages-and-literatures/21f-301-french-i-fall-2004/ MIT French I Assignments]
+* [http://ocw.mit.edu/courses/foreign-languages-and-literatures/21f-302-french-ii-fall-2004/ MIT French II Assignments]
+* [http://www.tv5.org/TV5Site/lf/langue_francaise.php Useful information on the French language can be found on the site of tv5 (www.tv5.org)] - Dictionnaire de langue francaise, Dictionnaire de synonymes, Conjugaisons, Dictionnaire anglais/francais, Dictionnaire francais/anglais, and lots more!
+* [http://www.ielanguages.com/frenchslang.html Informal French &amp; Slang - with sound]
+* [http://fancyfrench.mypodcast.com FancyFrench ] - Established method for learning French, with a free online .pdf textbook to accompany the free podcast lessons.
+* [http://www.q-kards.com Q-Kards] - A free online application for memorizing French vocabulary.
+* [http://learnfrenchvideo.com/ LearnFrenchVideo] - Audio and video lessons teaching vocabulary, grammar and phrases.
+
+==French grammar==
+{{Wikipedia|French language}}
+{{Wikipedia|French grammar}}
+{{Wikivoyage|French phrasebook}}
+* [http://www.onlinefrenchhelp.com/grammar/verb Verbs : Grammar - Online French Help ]
+* [http://french.about.com/library/weekly/bltopicsub-g.htm French grammar lessons]
+* [http://www.etienne-meul.be/ Exercises on French grammar (Dr. Meul Etienne)]
+* [http://humanities.uchicago.edu/orgs/ARTFL/forms_unrest/inflect.query.html Online verb conjugator]
+* [http://www.learnfrenchlab.com/free-french-lessons.html Free French Lessons ]
+
+==Dictionaries==
+* [http://www.lexilogos.com/index.htm Lexilogos] : all online French dictionaries 
+* [http://www.online-dictionary.biz/english/french French dictionary]
+
+==French culture==
+* [http://about-france.com/dictionary/ Online A-Z dictionary of modern France]
+* [http://www.culture.fr/Groups/accueil/home_fr Le portail de la culture]
+* [http://www.cortland.edu/flteach/civ/ Cortland]
+* [http://www.france.net.nz/ Ambassade de France en Nouvelle-Zélande]
+
+==Travel in France==
+* [[voy:France|France]] travel guide on [[voy:|Wikivoyage]]
+* [http://www.diplomatie.gouv.fr/thema/dossier.asp?DOS=ETRANGERS Ministère des Affaires Etrangères français]
+* [http://about-france.com About-France.com - travel and general interest guide to France]
+
+==French administration==
+* [http://www.service-public.gouv.fr Le portail de l'administration]
+
+{{Associated Wikimedia|French language
+|Commons category    = French
+|Wikinews portal     = 
+|Wikinews category   = 
+|Wikipedia           = French language
+|Wikipedia portal    = 
+|Wikiquote           = French
+|Wikiquote category  = 
+|Wikisource          = 
+|Wikisource category = 
+|Wikiversity         = 
+|Wikiversity school  = Foreign Language Learning
+|Wiktionary          = French
+|Wiktionary appendix = 
+|Wiktionary category = 
+}}
+
+{{Associated Wikimedia|France
+|Commons category    = France
+|Wikinews portal     = France
+|Wikinews category   = France
+|Wikipedia           = France
+|Wikipedia portal    = France
+|Wikiquote           = 
+|Wikiquote category  = 
+|Wikisource          = 
+|Wikisource category = France
+|Wikiversity         = 
+|Wikiversity school  = 
+|Wiktionary          = France
+|Wiktionary appendix = France
+|Wiktionary category = 
+}}
+
+&lt;noinclude&gt;{{French Appendices Footer}}&lt;/noinclude&gt;</text>
+      <sha1>bz5i49lynyher9xesqt1dpgzkmun6jw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Graphic Design/Drawing</title>
+    <ns>0</ns>
+    <id>2097</id>
+    <revision>
+      <id>1123531</id>
+      <parentid>1123530</parentid>
+      <timestamp>2008-02-26T02:38:32Z</timestamp>
+      <contributor>
+        <username>Neoptolemus</username>
+        <id>77154</id>
+      </contributor>
+      <minor />
+      <comment>Reverted edit of [[Special:Contributions/68.44.92.176|68.44.92.176]], changed back to last version by 87.3.50.236</comment>
+      <text xml:space="preserve">=Drawing=
+It's a good idea for a student of graphic design to learn how to draw. Sure, you can bypass this and do everything by computer, but drawing by hand trains your mind and your eye to seek out details and improve your grasp of visual forms. It develops different parts of your mind that relate to composition, color, anatomy, depth and mood, and helps you directly perceive things and interpret them. 
+
+Much of what we relate to in our lives is linear. For effective visual communication you need to develop a nonlinear, direct connection to the actual tensions, feelings, and dimesions you are interpreting and expressing in your work. Drawing can be an invaluable way to develop a direct connection to the world around you and develop your own outlook.
+
+The ultimate aim of the graphic designer is to understand, use and coordinate the tools of the craft (typeface, art, photography, printing, etc.) and create a message that rises above them. As in music, you do not pay attention to the instruments alone but to the composition as a whole.
+
+Draw some architecture, some life studies, and some abstract compositions. Start with basic media like pencil and charcoal, and then try some things in color. Look at master drawings for ideas and inspiration. 
+
+In interpreting three dimensions on a flat surface with a defined page shape, you encounter a number of issues. Evaluate how light falls across an object and how you can make shapes out of shadows. Shading, the gradation of darkness, is one of the most important factors when you draw an object. Shading and defining basic forms can provide a truer understanding of a dimensional object on a flat surface, and can make the difference between a really shoddy piece and a proper drawing. Get beyond outlining in your definition of form.
+
+Appreciate your overall use of the page. Be familiar with positive and negative space (negative space is that space that falls between the objects) and understand they are all part of the overall composition.
+
+To be successful at graphic design you need to develop a taste for solving visual problems and a set of strategies for resolving them.
+
+----
+
+[[Category:Graphic Design]]</text>
+      <sha1>auk261z9f8t2voj9e6sz34c5vjpf4f3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

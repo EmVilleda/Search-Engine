@@ -1,0 +1,2116 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Lojban/Vocabulary 1</title>
+    <ns>0</ns>
+    <id>1945</id>
+    <revision>
+      <id>2711269</id>
+      <parentid>1225878</parentid>
+      <timestamp>2014-10-08T04:55:04Z</timestamp>
+      <contributor>
+        <ip>212.184.141.86</ip>
+      </contributor>
+      <comment>/* be'e */</comment>
+      <text xml:space="preserve">==Wordlist==
+*doi
+*coi
+*be'e
+*je'e
+*je'enai
+*co'o
+*re'i
+*re'inai
+*zo
+*ma
+*la
+*mi
+
+*smuni
+*gismu
+*lujvo
+*tanru
+*sumti
+*bridi
+*cmavo
+*cmene
+
+==cmavo==
+ doi       DOI      vocative marker
+                    generic vocative marker; identifies intended listener;
+                    elidable after COI
+
+
+
+ coi       COI      greetings
+                    vocative: greetings/hello
+
+
+
+ be'e      COI      request to send
+                    vocative: request to send/speak
+
+
+
+ je'e      COI      roger
+                    vocative: roger (ack) - negative acknowledge; used
+                    to acknowledge offers and thanks
+
+
+
+ je'enai   COI*     negative acknowledge
+                    vocative: roger (ack) - negative acknowledge;
+                    I didn't hear you
+
+
+
+ co'o      COI      partings
+                    vocative: partings/good-bye
+
+
+
+ re'i      COI      ready to receive
+                    vocative: ready to receive - not ready to receive
+
+
+
+ re'inai   COI*     not ready to receive
+                    vocative: ready to receive - not ready to receive
+
+
+
+ zo        ZO       1-word quote
+                    quote next word only; quotes a single Lojban word
+                    (not a cmavo compound or tanru)
+
+
+
+ ma        KOhA7    sumti ?
+                    pro-sumti: sumti question (what/who/how/why/etc.);
+                    appropriately fill in sumti blank
+
+
+
+ la        LA       that named
+                    name descriptor: the one(s) called ... ; takes name
+                    or selbri description
+
+
+
+ mi        KOhA3    me
+                    pro-sumti: me/we the speaker(s)/author(s); identified
+                    by self-vocative
+
+===doi===
+{doi} works like vocatives like {coi}. A speaker or author tells who they want to listen or read after this word. {do} stands for the listener.
+
+In English poetry sometimes people say O before names, but usually people just put the name at the beginning or the end of a sentence separated from the rest by a comma or as a sentence of its own. In English, people also say &quot;Hey&quot; before names. This carries the added effect of getting someone's attention.
+
+If I felt like saying something completely useless, I would say {doi do}, identifying the listener as the person listening.
+
+''Can someone say {doi} by itself (without a name following like I can with the rest of the vocatives)?''
+
+===coi===
+Near the beginning of a conversation or upon noticing another Lojban speaker to talk to, a Lojban speaker will often say {coi}. The listener usually replies {coi}.
+
+This has about the same meaning as the English words &quot;Hi&quot;, &quot;Hello&quot;, &quot;Howdy&quot;, and &quot;Greetings&quot;. As with most of the vocatives, I can follow it with a name. I must either have la or a mandatory pause between {coi} and the name.
+
+A common Lojban phrase {coi ro do} means &quot;Hi, all.&quot;.
+
+{coinai} means the opposite of {coi}, and therefore &quot;goodbye&quot;, but most people say {co'o} to express that thought.
+
+===be'e===
+A Lojban speaker not speaking, wanting to speak, and not sure if other speakers will allow him/her to speak will sometimes say {be'e} to ask permission.
+
+In English, people usually only ask to speak on formal occasions like the courtroom and in large meetings. In school students raise their hands for a turn to speak. When people say &quot;Excuse me.&quot;, they don't expect someone to deny them from speaking. They also ask &quot;May I have a word with you?&quot; Like most vocatives, I can follow {be'e} with the listener.
+
+While I see {be'enai} as correct grammar, I can't figure out a meaning for it beyond &quot;Ha ha, I know a cmavo you don't!&quot;
+
+''To me, {be'enai} seems fairly obvious: &quot;Permission not to speak?&quot; which could be used in a fairly similar way to &quot;No comment!&quot; but asking permission not to comment rather than refusing.''
+
+===je'e===
+{je'e} acknowledges that the speaker heard and understands the last utterance. As with most vocatives, I can follow {je'e} and {je'enai} with the name of the listener.
+
+In English, people acknowledge &quot;Thank you.&quot;, with &quot;Welcome.&quot;. They say &quot;I heard.&quot; to acknowledge they heard the last utterance. They say &quot;I understand.&quot; To point out they understand the last utterance. &quot;Okay.&quot; also acknowledges the last utterance, but carries more hint of agreement than {je'e}. To show that nearly anyone would understand an utterance, English speakers sometimes use the word &quot;Duh!&quot;.
+
+{je'enai} means the opposite of {je'e}. It means &quot;I did not hear and/or I did not understand.&quot;
+
+In English people say &quot;Huh?&quot; or &quot;Wha?&quot; or &quot;What?&quot; to denote similar meanings.
+
+===co'o===
+A Lojban speaker says {co'o} to another Lojban speaker shortly before ending conversation or close proximity to the second Lojban speaker. The second Lojban speaker often replies {co'o}. As with most other vocatives, I can follow {co'o} with a name.
+
+English phrases with similar meanings include &quot;Goodbye.&quot;, &quot;So long.&quot;, and &quot;See you later.&quot;.
+
+{co'onai} means the opposite of {co'o}, but Lojban speakers seem to prefer {coi} to express this meaning nearly unanimously. I like {coi} better because it has two less syllables.
+
+===re'i===
+This word signifies that the speaker can listen to the listener. I can
+follow {re'i} with a name like most vocatives to signify the listener.
+
+English phrases with similar meanings include &quot;Go ahead.&quot;, &quot;I'm all ears.&quot;, and &quot;I'm listening.&quot;
+
+la daniel. cusku zo be'e .i la kleir. cusku zo re'i
+Daniel says, &quot;May I have a word with you?&quot;. Claire says, &quot;Go ahead.&quot;.
+
+{re'inai} means the opposite of {re'i}. Therefore it means the speaker cannot listen to the listener.
+
+In English {re'inai} translate to &quot;Sorry, I'm busy.&quot;, &quot;I'm not accepting visitors.&quot;, and &quot;I can't listen right now.&quot;
+
+===zo===
+{zo} quotes the next word. By quoting the next word, a speaker can refer to a word as a word instead of as its meaning. {zo broda} has about the same meaning as {lu broda li'u}, but {zo} can only quote one word.
+
+In English, I might put a word in quotes italics to quote it. If I only wanted to quote one word, I might say &quot;the word foo&quot;.
+
+I can talk about the word {zo} as a word by saying {zo zo}. {zo nai} quotes the word {nai} instead of meaning the opposite of {zo}.
+
+===ma===
+In asking another Lojban speaker for information, a Lojban speaker might say give a bridi describing their information with a blank for the listener to insert their answer. The asker would signify that blank with {ma}. The answerer would probably not repeat the entire le bridi, but instead just the information to replace {ma} with.
+
+In English, a person might say &quot;What&quot; or &quot;blank&quot; instead.
+
+===la===
+{la} must go before names, except names in vocatives where the speaker can replace it with a mandatory pause. English has no article for names. For non-names it has the articles &quot;a&quot;, &quot;an&quot;, and &quot;the&quot;.
+
+zo la gadri
+{la} is an article.
+
+===mi===
+{mi} refers to the speaker or author. An English speaker would probably say &quot;me&quot; to mean the same. I pronounce both the same.
+
+If I wanted to say something that didn't mean much. I would say, {mi'e mi}, pointing out the speaker as myself.
+
+''Does {minai} mean {do}?''
+
+''I believe that {minai} would mean anyone but yourself.''
+
+==gismu==
+ smuni mun smu      meaning
+                    x1 is a meaning/interpretation of x2
+                    recognized/seen/accepted by x3
+ 
+                    [referential meaning (=selsni, snismu)]; (cf. jimpe,
+                    sinxa, valsi, tanru, gismu, lujvo, cmavo, jufra)
+
+ gismu gim     gi'u root word
+                    x1 is a (Lojban) root word expressing relation x2
+                    among argument roles x3, with affix(es) x4
+ 
+                    [gismu list, if physical object (= (loi) gimste);
+                    referring to the mental construct (e.g. propose adding
+                    a new gismu to the gismu list = gimpoi, gimselcmi,
+                    gimselste)]; (cf. cmavo, cmene, lujvo, smuni, sumti,
+                    tanru, valsi)
+
+ lujvo luv jvo      affix compound
+                    x1 (text) is a compound predicate word with meaning
+                    x2 and arguments x3 built from metaphor x4
+ 
+                    (cf. stura, cmavo, gismu, rafsi, smuni)
+
+ tanru         tau  phrase compound
+                    x1 is a binary metaphor formed with x2 modifying x3,
+                    giving meaning x4 in usage/instance x5
+ 
+                    (x2 and x3 are both text or both si'o concept)
+                    (cf. gismu, smuni)
+
+ sumti sum     su'i argument
+                    x1 is a/the argument of predicate/function x2 filling
+                    place x3 (kind/number)
+ 
+                    (x1 and x2 are text); (cf. bridi, darlu, gismu)
+
+ bridi     bri      predicate
+                    x1 (text) is a predicate relationship with relation
+                    x2 among arguments (sequence/set) x3
+ 
+                    [also: x3 are related by relation x2 (= terbri
+                    for reordered places)]; (x3 is a set completely
+                    specified); (cf. sumti, fancu)
+
+ cmavo         ma'o structure word
+                    x1 is a structure word of grammatical class x2,
+                    with meaning/function x3 in usage (language) x4
+ 
+                    [x4 may be a specific usage (with an embedded language
+                    place) or a massified language description; x3 and x4
+                    may be merely an example of cmavo usage or refer to
+                    an actual expression; cmavo list, if physical object
+                    (= (loi) ma'oste); referring to the mental construct
+                    (e.g. propose adding a new cmavo to the cmavo list =
+                    ma'orpoi, ma'orselcmi, ma'orselste)]; (cf. gismu,
+                    lujvo, gerna, smuni, valsi)
+
+ cmene     cme me'e name
+                    x1 (quoted word(s)) is a/the name/title/tag of x2
+                    to/used-by namer/name-user x3 (person)
+ 
+                    [also: x2 is called x1 by x3 (= selcme for reordered
+                    places)]; (cf. cmavo list me'e, gismu, tcita,
+                    valsi, judri)
+
+==Exercises==
+'''In Exercises 1 to 11, translate the Lojban sentence to English.'''&lt;br&gt;
+1. coi. braun. e'apei mi ba te cmene do lu la bab. li'u&lt;br&gt;
+2. be'e meiris. mi'o ca cliva&lt;br&gt;
+3. ko'a cusku lu le lujvo cu lujvo li'u .i ko'e cusku zo je'e&lt;br&gt;
+4. ko'a cusku lu mi cmavo li'u .i ko'e cusku lu je'enai li'u&lt;br&gt;
+5. co'o .ednas. ko ba klama mi&lt;br&gt;
+6. la daniel. cusku zo be'e .i la kleir. cusku zo re'i&lt;br&gt;
+7. mi cusku lu be'e. reitcel. li'u le nanmu pe la reitcel. cusku lu la reitcel. cusku lu re'inai li'u li'u&lt;br&gt;
+8. mi cusku zo bridi .i mi na cusku tanru&lt;br&gt;
+9. mi cusku lu lu smuni cmene li'u tanru ma ma li'u .i la keven. cusku lu smuni cmene li'u tanru zo smuni zo cmene li'u&lt;br&gt;
+10. mi'e la mark.&lt;br&gt;
+11. le prenu pe mi te cmene mi lu la brai'an. li'u
+
+'''In Exercises, 100 to 131, translate le jufra (the sentence) given.'''&lt;br&gt;
+100. le se bridi cu smuni le selbri mi .i&lt;br&gt;
+101. zo coi smuni zoi gy. hello .gy mi .i&lt;br&gt;
+102. gy. goodbye .gy smuni zo co'o mi .i&lt;br&gt;
+103. lu mi'e. brai'an. li'u smuni lu mi me la brai'an. li'u mi .i&lt;br&gt;
+104. fi la'o smuni. George Bush .smuni goi ko'a smuni fa ko'a la'o smuni. Mr. President .smuni .i&lt;br&gt;
+105. le ve gismu cu smuni le rafsi mi .i&lt;br&gt;
+106. zoi ly. gi'u .ly ve gismu zo gismu .i&lt;br&gt;
+107. zo smuni gismu .i&lt;br&gt;
+108. zo gismu gismu fi le te gismu .i&lt;br&gt;
+109. zo selbri gismu le du'u se bridi .i&lt;br&gt;
+110. zo selbri lujvo lu se bridi li'u .i&lt;br&gt;
+111. zo selbri lujvo zo'e le te lujvo be fa zo bridi .i&lt;br&gt;
+112. zo selbri se ve se lujvo lu se bridi li'u .i&lt;br&gt;
+113. zo selma'o lujvo fo lu se cmavo li'u .i&lt;br&gt;
+114. zo selma'o lujvo fi le se cmavo .i&lt;br&gt;
+115. zo selma'o lujvo lu se cmavo li'u le ve cmavo lu se cmavo li'u .i&lt;br&gt;
+116. zo selbri lujvo lu se bridi li'u le bridi lu se bridi li'u .i&lt;br&gt;
+117. zo tertau lujvo lu te tanru li'u le tanru lu te tanru li'u .i&lt;br&gt;
+118. lu gismu smuni li'u tanru zo gismu zo smuni .i&lt;br&gt;
+119. lu gismu lujvo li'u tanru zo gismu zo lujvo lu gismu co lujvo li'u .i&lt;br&gt;
+120. lu le tanru li'u cu smuni lu le ve lujvo li'u mi .i&lt;br&gt;
+121. zo tanru gismu zo'e le se tanru zoi ly. tau .ly .i&lt;br&gt;
+122. le gismu sumti dei li pa .i&lt;br&gt;
+123. nei sumti dei li re .i&lt;br&gt;
+124. li ci sumti dei li ci .i&lt;br&gt;
+125. zo sumti gismu .i zo sumti sumti di'u li pa .i&lt;br&gt;
+126. mi klama le se klama le te klama .i le te klama sumti di'u li ci .i&lt;br&gt;
+127. dei bridi le du'u bridi dei&lt;br&gt;
+128. lu le ninmu klama le nanmu li'u bridi le du'u klama le nanmu&lt;br&gt;
+129. do nanmu .i di'u bridi le du'u nanmu do .i&lt;br&gt;
+130. di'e bridi le du'u cliva la'o gy. Elvis .gy .i la'o gy. Elvis .gy cliva .i&lt;br&gt;
+131. zo .ui cmavo zoi selma'o. UI .selma'o lu mi gleki li'u la lojban.
+
+'''In Exercises 200 to 226, give an English translation of each place of each le sumti given.'''&lt;br&gt;
+201. le smuni&lt;br&gt;
+202. le se smuni&lt;br&gt;
+203. le te smuni&lt;br&gt;
+204. le gismu&lt;br&gt;
+205. le se gismu&lt;br&gt;
+206. le te gismu&lt;br&gt;
+207. le ve gismu&lt;br&gt;
+208. le lujvo&lt;br&gt;
+209. le se lujvo&lt;br&gt;
+210. le te lujvo&lt;br&gt;
+211. le ve lujvo&lt;br&gt;
+212. le tanru&lt;br&gt;
+213. le se tanru&lt;br&gt;
+214. le te tanru&lt;br&gt;
+215. le ve tanru&lt;br&gt;
+216. le xe tanru&lt;br&gt;
+217. le sumti&lt;br&gt;
+218. le se sumti&lt;br&gt;
+219. le te sumti&lt;br&gt;
+220. le bridi&lt;br&gt;
+221. le se bridi&lt;br&gt;
+222. le te bridi&lt;br&gt;
+223. le cmavo&lt;br&gt;
+224. le se cmavo&lt;br&gt;
+225. le te cmavo&lt;br&gt;
+226. le ve cmavo
+
+'''In Exercises 301 to 321, use the best word in the vocabulary of this lesson to fill in each blank of each sentence. You may use each word more than once.'''&lt;br&gt;
+301. Teacher: _____ is the capital of Kentucky?&lt;br&gt;
+Pupil: Frankfort.&lt;br&gt;
+&lt;br&gt;
+302. Mother: Did you hear what I just said?&lt;br&gt;
+Daughter: _____, except I missed the part about chocolate.&lt;br&gt;
+&lt;br&gt;
+303. I said &quot;_____&quot;, and she told me, &quot;Sorry, I can listen right now.&quot;&lt;br&gt;
+304. _____ name is Jessica, but my friends call me Jessie.&lt;br&gt;
+305. Welcome to _____ .alaskas.!&lt;br&gt;
+306. When I say &quot;_____ Eliza&quot;, that means I'm talking to you.&lt;br&gt;
+307. I wish I could stay longer. _____&lt;br&gt;
+308. If I knew le _____, I wouldn't have asked you for a definition.&lt;br&gt;
+309. Say &quot;doi&quot; and then le _____ of the person you wish to talk to.&lt;br&gt;
+310. _____ Robert! It's so nice to see you after all these years.&lt;br&gt;
+311. I wouldn't have said &quot;_____&quot; if I wasn't all ears.&lt;br&gt;
+312. Did you rent the movie, &quot;_____, Myself &amp; Irene&quot;?&lt;br&gt;
+313. Which le rafsi did you use to make that le _____?&lt;br&gt;
+314. How can you call that le _____, when a phrase compound needs at least two words?&lt;br&gt;
+315. If f(x) = y, then f is the function and yby. _____ fy.&lt;br&gt;
+316. That's na ____ because any decent predicate needs at least pa le selbri.&lt;br&gt;
+317. ro le attitudinals are a type of word called le _____.&lt;br&gt;
+318. _____, but I would feel happy to listen another time.&lt;br&gt;
+319. ____ la romeos. _____ la romeos. Wherefore art thou Romeo?&lt;br&gt;
+320. _____ blue begins with the letter &quot;b&quot;.&lt;br&gt;
+321. Lojban has 1342 le _____.
+
+===Answers to exercises===
+1. Hello Brown. May I call you Bob?&lt;br&gt;
+2. May I have a word with you, Mary? Let's leave.&lt;br&gt;
+The Lojban means more &quot;We leave.&quot; than the English. Maybe I could change that with an attitudinal meaning &quot;suggestion&quot; or {ko} and {mi} instead of {mi'o}.&lt;br&gt;
+3. The first person says, &quot;The affix compound qualifies as an affix compound.&quot; The second person sasy, &quot;I understand.&quot;&lt;br&gt;
+4. The first person says, &quot;I qualify as a structure word.&quot;. The second person says, &quot;Huh?&quot;.&lt;br&gt;
+5. Goodbye, Edna. Come see me in the future.&lt;br&gt;
+6. Daniel says, &quot;May I have a word with you?&quot;. Claire says, &quot;Go ahead.&quot;.&lt;br&gt;
+7. I said, &quot;May I speak with you, Rachel?&quot; The man associated with Rachel said, &quot;Rachel said, 'I can't listen right now.'&quot;&lt;br&gt;
+8. I said the word {bridi}. I did not say the word {tanru}.&lt;br&gt;
+9. I said, &quot;What modifies what in the metaphor 'meaning sort of name'?&quot; Kevin said, &quot;In the metaphor 'meaning sort of name', 'meaning' modifies 'name'.&quot;&lt;br&gt;
+10. I go by the name Mark.&lt;br&gt;
+11. People associated with me call me &quot;Brian&quot;.
+
+100. According to me, &quot;the relationship of a sentence&quot; means &quot;the relationship of a sentence&quot;.&lt;br&gt;
+101. I see &quot;Hello&quot; meaning {coi}.&lt;br&gt;
+102. I see {co'o} as meaning &quot;Goodbye&quot;.&lt;br&gt;
+103. I accept the interpretation &quot;I am Brian.&quot; for the sentence &quot;I am Brian.&quot;.&lt;br&gt;
+104. George Bush accepts the interpretation of Mr. President as himself.&lt;br&gt;
+105. I recognize the interpretation of the affixes of a root word as the affixes of a word.&lt;br&gt;
+106. The word {gismu} (meaning root word) has the affix {gi'u}.&lt;br&gt;
+107. The word {smuni} qualifies as a root word.&lt;br&gt;
+108. The relationship of the word {gismu} has a role for the roles of the relationship of a root word.&lt;br&gt;
+109. The word {selbri} denotes the relationship {se bridi}.&lt;br&gt;
+110. The affix compound {selbri} means {se bridi}.&lt;br&gt;
+111. The relationship of the compound word {selbri} has the same roles as the compound word {bridi}.&lt;br&gt;
+112. The compound word {selbri} comes from the metaphor {se bridi}.&lt;br&gt;
+113. The word {selma'o} comes from the metaphor {se cmavo}.&lt;br&gt;
+114. The relationship of the word {selma'o} involves the grammatical class of a structure word.&lt;br&gt;
+115. The compound word {selma'o} means {se cmavo}, and its relationship involves its meaning, and it comes from the metaphor {se cmavo}.&lt;br&gt;
+116. The compound word {selbri} means {se bridi}, and its relationship involves the predicate, and it comes from the metaphor {se bridi}.&lt;br&gt;
+117. The compound word {tertau} means {te tanru}, and its relationship involves a binary metaphor, and it comes from the metaphor {te tanru}.&lt;br&gt;
+118. &quot;Root word sort of meaning&quot; qualifies a binary metaphor with &quot;root word&quot; modifying &quot;meaning&quot;.&lt;br&gt;
+119. In binary metaphor &quot;Root word sort of compound word&quot;, &quot;root word&quot; modifies &quot;compound word&quot;, and it means &quot;compound word of root word sort&quot;.&lt;br&gt;
+120. According to me, &quot;metaphor made into compound word&quot; means &quot;binary metaphor&quot;.&lt;br&gt;
+121. The root word {tanru} denotes the relationship involving the modifier of the metaphor, and has the affix {tau}.&lt;br&gt;
+122. The root word is in the current utterance filling the first role.&lt;br&gt;
+123. The current utterance is in the current predicate filling the second role.&lt;br&gt;
+124. Three is in the current utterance filling the third role.&lt;br&gt;
+125. The word {sumti} qualifies as a root word. The word {sumti} is in the previous utterance filling the first role.&lt;br&gt;
+126. I go to the destination from the origin. The destination is in the previous utterance filling the third place.&lt;br&gt;
+127. The current utterance qualifies as a predicate with the predicate relationship and the the role the current utterance.&lt;br&gt;
+128. The predicate &quot;The woman goes to the man.&quot; involves the going relationship and the role of the man.&lt;br&gt;
+129. You qualify as a man. The last utterance involves the man relationship and the argument you.&lt;br&gt;
+130. The next utterance qualifies as a predicate involving the leaving relationship and Elvis. Elvis leaves.&lt;br&gt;
+131. The structure word {.ui} comes from the grammatical class {UI}, means I feel happiness, and is used in the Lojban language.
+
+201. meaning&lt;br&gt;
+202. symbol with meaning&lt;br&gt;
+203. interpreter of meaning&lt;br&gt;
+204. root word&lt;br&gt;
+205. relationship expressed by root word&lt;br&gt;
+206. roles in relationship expressed by root word&lt;br&gt;
+207. affixes of root word&lt;br&gt;
+208. compound word&lt;br&gt;
+209. meaning of compound word&lt;br&gt;
+210. roles of relationship of compound word&lt;br&gt;
+211. metaphor used to make compound word&lt;br&gt;
+212. binary metaphor&lt;br&gt;
+213. modifier of metaphor&lt;br&gt;
+214. modified of metaphor&lt;br&gt;
+215. meaning of metaphor&lt;br&gt;
+216. usage of metaphor&lt;br&gt;
+217. argument&lt;br&gt;
+218. predicate of argument&lt;br&gt;
+219. role filled by argument&lt;br&gt;
+220. predicate&lt;br&gt;
+221. relationship of predicate&lt;br&gt;
+222. argument of predicate&lt;br&gt;
+223. structure word&lt;br&gt;
+224. grammatical class of structure word&lt;br&gt;
+225. meaning of structure word&lt;br&gt;
+226. language of structure word
+
+301. ma&lt;br&gt;
+302. je'e&lt;br&gt;
+303. be'e&lt;br&gt;
+304. mi&lt;br&gt;
+305. la&lt;br&gt;
+306. doi&lt;br&gt;
+307. co'o&lt;br&gt;
+308. smuni&lt;br&gt;
+309. cmene&lt;br&gt;
+310. coi&lt;br&gt;
+311. re'i&lt;br&gt;
+312. mi&lt;br&gt;
+313. lujvo&lt;br&gt;
+314. tanru&lt;br&gt;
+315. sumti&lt;br&gt;
+316. bridi&lt;br&gt;
+317. cmavo&lt;br&gt;
+318. re'inai&lt;br&gt;
+319. doi, doi&lt;br&gt;
+320. zo&lt;br&gt;
+321. gismu
+
+[[Category:Lojban]]</text>
+      <sha1>miubcaqkie1287g8jqkyqegsi4r0nob</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Physics Study Guide/Sound</title>
+    <ns>0</ns>
+    <id>1946</id>
+    <revision>
+      <id>2699203</id>
+      <parentid>2165953</parentid>
+      <timestamp>2014-09-10T08:20:49Z</timestamp>
+      <contributor>
+        <ip>41.190.3.132</ip>
+      </contributor>
+      <comment>/* Intro */  I added that sound is a longitudinal wave. and I added the definition of sound.</comment>
+      <text xml:space="preserve">{{PSG}}
+
+==Intro==
+When two glasses collide we hear a Sound, when we pluck guitar string we hear a Sound
+
+Different Sound generated from different sources. Generally speaking when two objects collides will result in a Sound
+
+Sound does not exist in Vacuum. Sound needs medium's materials to travel. it is a longitudinal wave in which the mechanical vibration constituting the wave occurs along the direction of propagation of the wave.
+
+Velocity of Sound wave depends on Temperature and the Pressure of the Medium . Sound travels at different speed in air, through water
+We can therefore define sound as a mechanical disturbance produced by the collision of two or more physical quantities from a state of equilibrium that propagates through an elastic material medium.
+
+=Sound=
+
+&lt;table width=75%&gt;
+&lt;tr&gt;
+&lt;td style=&quot;background-color: white; border:1px solid #D6D6FF; padding:1em;&quot; valign=top &gt;&lt;center&gt;&lt;big&gt;''' &lt;math&gt;decibel(\mathrm{dB}) = 10\cdot \log\left(\frac{I_1}{I_0}\right)&lt;/math&gt; '''&lt;/big&gt;&lt;/center&gt;&lt;/td&gt;
+&lt;/table&gt;
+[[image:FletcherMunson_ELC.svg|thumb|400px|right|Fig. 1: The Fletcher-Munson equal-loudness contours.  Phons are labelled in blue.]]
+The amplitude is the magnitude of sound pressure change within a sound wave. [[w:Sound|Sound]] amplitude can be measured in pascals (Pa), though its more common to refer to the ''sound (pressure) level'' as [[w:Sound intensity|Sound intensity]](dB,dBSPL,dB(SPL)), and the ''percieved sound level'' as [[w:Loudness|Loudness]](dBA, dB(A)). 
+'''Sound intensity''' is flow of sound energy per unit time through a fixed area. It has units of 
+watts per square meter. The reference Intensity is defined as the minimum Intensity that is audible 
+to the human ear, it is equal to 10&lt;sup&gt;-12&lt;/sup&gt; W/m&lt;sup&gt;2&lt;/sup&gt;, or one picowatt per square meter. When the intensity is quoted in decibels this reference value is used. '''Loudness''' is sound intensity altered according to the frequency response of the human ear and is measured in a unit called the A-weighted decibel ([[w:DB(A)|dB(A)]], also used to be called [[w:phon|phon]]).
+
+
+
+==The Decibel==
+The decibel is not, as is commonly believed, the unit of sound. 
+Sound is measured in terms of pressure. However, the decibel is used to express the pressure as very 
+large variations of pressure are commonly encountered. The decibel is a dimensionless quantity and 
+is used to express the ratio of one power quantity to another. The definition of the decibel is 
+&lt;math&gt;10\cdot \log_{10}\left(\frac{x}{x_0}\right)&lt;/math&gt;, where x is a squared quantity, ie pressure squared, volts squared etc. The decibel is useful to define relative changes. For instance, the required sound decrease for new cars might be 3 dB, this means, compared to the old car the new car must be 3 dB quieter. The absolute level of the car, in this case, does not matter. 
+  
+
+
+{| border=&quot;0&quot; width=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding:1em;&quot; valign=top | &lt;center&gt;&lt;big&gt;''' &lt;math&gt;I_0 = 10^{-12} \mbox{ W}/\mbox{m}^2&lt;/math&gt; ''' 
+&lt;/big&gt;&lt;/center&gt;
+|}
+
+==Definition of terms==
+
+{| WIDTH=&quot;100%&quot;
+|-
+| style=&quot;background-color: #FFFFEE; border: solid 1px #FFC92E; padding: 1em;&quot; valign=&quot;top&quot; |
+'''Intensity (I):''' the amount of energy transferred through 1 m&lt;sup&gt;2&lt;/sup&gt; each second. Units: watts per square meter&lt;br&gt;&lt;br&gt;
+|}
+
+
+{| WIDTH=&quot;100%&quot;
+|-
+| style=&quot;background-color: #FFFFEE; border: solid 1px #FFC92E; padding: 1em;&quot; valign=&quot;top&quot; |
+'''Lowest audible sound:'''	I 	= 0 dB = 10&lt;sup&gt;-12&lt;/sup&gt; W/m&lt;sup&gt;2&lt;/sup&gt; (A sound with dB &lt; 0 is 
+inaudible to a human.)&lt;br&gt;&lt;br&gt;
+'''Threshold of pain:'''	I 	= 120 dB =  10 W/m&lt;sup&gt;2&lt;/sup&gt;
+|}
+
+
+''Sample equation:'' '''Change in sound intensity'''&lt;br&gt;
+&amp;Delta;&amp;beta;	= &amp;beta;&lt;sub&gt;2&lt;/sub&gt; - &amp;beta;&lt;sub&gt;1&lt;/sub&gt;&lt;br&gt;
+	= 10 log(''I''&lt;sub&gt;2&lt;/sub&gt;/''I''&lt;sub&gt;0&lt;/sub&gt;) - 10 log(''I''&lt;sub&gt;1&lt;/sub&gt;/''I''&lt;sub&gt;0&lt;/sub&gt;)&lt;br&gt;
+	= 10 [log(''I''&lt;sub&gt;2&lt;/sub&gt;/''I''&lt;sub&gt;0&lt;/sub&gt;) - log(''I''&lt;sub&gt;1&lt;/sub&gt;/''I''&lt;sub&gt;0&lt;/sub&gt;)]&lt;br&gt;
+	= 10 log[(''I''&lt;sub&gt;2&lt;/sub&gt;/''I''&lt;sub&gt;0&lt;/sub&gt;)/(''I''&lt;sub&gt;1&lt;/sub&gt;/''I''&lt;sub&gt;0&lt;/sub&gt;)]&lt;br&gt;
+	= 10 log(''I''&lt;sub&gt;2&lt;/sub&gt;/''I''&lt;sub&gt;1&lt;/sub&gt;)&lt;br&gt;
+where log is the base-10 logarithm.
+
+==Doppler effect==
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #00000; border: solid 2px #7B68EE; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;center&gt;&lt;big&gt;  &lt;math&gt;f' = f \, \frac{v \pm v_0}{v \mp v_s} &lt;/math&gt; &lt;/big&gt;&lt;/center&gt;
+|}
+&lt;br&gt;f' is the observed frequency, f is the actual frequency, v is the speed of sound (&lt;math&gt; v=336+0.6T &lt;/math&gt;), T is temperature in degrees Celsius  &lt;math&gt;v_0&lt;/math&gt; is the speed of the observer, and &lt;math&gt;v_s&lt;/math&gt; is the speed of the source. If the observer is approaching the source, use the top operator (the +) in the numerator, and if the source is approaching the observer, use the top operator (the -) in the denominator. If the observer is moving away from the source, use the bottom operator (the -) in the numerator, and if the source is moving away from the observer, use the bottom operator (the +) in the denominator.
+
+===Example problems===
+A. An ambulance, which is emitting a 400 Hz siren, is moving at a speed of 30 m/s towards a stationary observer. The speed of sound in this case is 339 m/s.
+
+&lt;math&gt;f' = 400\,\mathrm{Hz} \left( \frac{339 + 0}{339 - 30} \right)&lt;/math&gt;
+
+B. An M551 Sheridan, moving at 10 m/s is following a Renault FT-17 which is moving in the same direction at 5 m/s and emitting a 30 Hz tone. The speed of sound in this case is 342 m/s.
+
+
+&lt;math&gt;f' = 30\,\mathrm{Hz} \left( \frac{342 + 10}{342 + 5} \right)&lt;/math&gt;
+
+
+[[Category:Physics Study Guide]]</text>
+      <sha1>772iyi9rl86185bnq2yn1l95y6vcg9q</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Physics Study Guide/Reviews</title>
+    <ns>0</ns>
+    <id>1947</id>
+    <revision>
+      <id>1571890</id>
+      <parentid>620125</parentid>
+      <timestamp>2009-07-17T20:28:26Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>+category</comment>
+      <text xml:space="preserve">&lt;div class=&quot;noprint&quot;&gt;Our first review of the [[Physics Study Guide: Contents|Physics Study Guide]] is in, by email to the author:&lt;/div&gt;
+
+'''Thanks karl! '''&lt;br&gt;
+'''it's very helpful!!!! '''
+
+{{BookCat}}</text>
+      <sha1>ia07x1p4xbmo1opswxgxttob2iz4mnb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Physics Study Guide/Torque</title>
+    <ns>0</ns>
+    <id>1948</id>
+    <revision>
+      <id>2456807</id>
+      <parentid>2156990</parentid>
+      <timestamp>2012-12-08T06:50:37Z</timestamp>
+      <contributor>
+        <ip>75.157.19.121</ip>
+      </contributor>
+      <comment>/* Torque and Circular Motion */</comment>
+      <text xml:space="preserve">{{Physics Study Guide}}
+==Torque and Circular Motion==
+
+Circular motion is the motion of a particle at a set distance (called radius) from a point. For circular motion, there needs to be a force that makes the particle turn. This force is called the 'centripetal force.' Please note that the centripetal force is ''not'' a new type of force-it is just a force causing rotational motion.
+To make this clearer, let us study the following examples:
+#If Stone ties a piece of thread to a small pebble and rotates it in a horizontal circle above his head, the circular motion of the pebble is caused by the tension force in the thread.
+#In the case of the motion of the planets around the sun (which is roughly circular), the force is provided by the gravitational force exerted by the sun on the planets.
+Thus, we see that the centripetal force acting on a body is always provided by some other type of force -- centripetal force, thus, is simply a name to indicate the force that provides this circular motion.
+This centripetal force is ''always'' acting inward toward the center. You will know this if you swing an object in a circular motion. If you notice carefully, you will see that you have to continuously pull inward.
+We know that an opposite force should exist for this centripetal force(by Newton's 3rd Law of Motion). This is the centrifugal force, which exists only if we study the body from a non-inertial frame of reference(an accelerating frame of reference, such as in circular motion). This is a so-called 'pseudo-force', which is used to make the Newton's law applicable to the person who is inside a non-inertial frame. e.g. If a driver suddenly turns the car to the left, you go towards the right side of the car because of centrifugal force. The centrifugal force is equal and opposite to the centripetal force. It is caused due to inertia of a body.
+
+&lt;math&gt; \omega_{\mathrm{avg} }=\frac{ \omega_1 +\omega_f }{2} =\frac{\theta }{t} &lt;/math&gt;
+
+'''Average angular velocity''' is equal to one-half of the sum of '''initial''' and '''final angular velocities''' assuming constant acceleration, and is also equal to the '''angle gone through''' divided by the '''time taken'''. 
+----
+&lt;math&gt; \alpha =\frac{ \Delta \omega }{t} &lt;/math&gt;
+
+'''Angular acceleration''' is equal to''' change in angular velocity''' divided by '''time taken'''. 
+
+===Angular momentum===
+{| WIDTH=&quot;100%&quot;
+|-
+| style=&quot;border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;bottom&quot; |
+&lt;center&gt;&lt;big&gt;&lt;math&gt;
+\mathbf{l} = \mathbf{r}\times\mathbf{p} = m(\mathbf{r}\times\mathbf{v})&lt;/math&gt;&lt;/big&gt;&lt;/center&gt;
+|}
+'''Angular momentum''' of an object revolving around an external axis '''O''' is equal to the cross-product of the '''position vector''' with respect to '''O''' and its '''linear momentum'''.
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;bottom&quot; |
+&lt;center&gt;&lt;big&gt;&lt;math&gt;
+\mathbf{L} = I\boldsymbol{\omega}&lt;/math&gt;&lt;/big&gt;&lt;/center&gt;
+|}
+
+'''Angular momentum''' of a rotating object is equal to the '''moment of inertia''' times '''angular velocity'''.
+
+&lt;math&gt; L=I\omega &lt;/math&gt;
+
+----
+
+&lt;math&gt; \tau =I\alpha =\frac{\Delta L}{t} &lt;/math&gt;
+
+'''Torque''' is equal to '''moment of inertia''' times '''angular acceleration''', which is also equal to the '''change in angular momentum''' divided by '''time taken'''. 
+----
+
+&lt;math&gt; K_R =\frac{1}{2} I\omega^2 &lt;/math&gt;
+
+'''Rotational Kinetic Energy''' is equal to one-half of the product of '''moment of inertia ''' and the '''angular velocity''' squared.
+
+'''IT IS USEFUL TO NOTE THAT'''
+
+The equations for rotational motion are analogous to those for linear motion-just look at those listed above.
+When studying rotational dynamics, remember:
+
+*the place of force is taken by torque
+
+*the place of mass is taken by moment of inertia
+
+*the place of displacement is taken by angle
+
+*the place of linear velocity, momentum, acceleration, etc. is taken by their angular counterparts.
+
+=== Variables ===
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;top&quot; |
+'''&amp;tau;:''' torque, (N·m)&lt;br&gt;
+''I:'' moment of inertia, (kg·m&lt;sup&gt;2&lt;/sup&gt;)&lt;br&gt;
+'''&amp;alpha;:''' angular acceleration, (rad/s&lt;sup&gt;2&lt;/sup&gt;)&lt;br&gt;
+''L:'' angular momentum, (kg·m&lt;sup&gt;2&lt;/sup&gt;/s)&lt;br&gt;
+''t:'' time (s)&lt;br&gt;
+''K&lt;sub&gt;r&lt;/sub&gt;:'' rotational kinetic energy, (J = kg·m&lt;sup&gt;2&lt;/sup&gt;/s&lt;sup&gt;2&lt;/sup&gt;)&lt;br&gt;
+''&amp;omega;:'' angular velocity, (rad/s)
+|}
+
+=== Definition of terms ===
+
+{| WIDTH=&quot;100%&quot;
+|-
+| style=&quot;background-color: #FFFFEE; border: solid 1px #FFC92E; padding: 1em;&quot; valign=&quot;top&quot; |
+'''Torque (&amp;tau;):''' Force times distance. A vector. (N·m)&lt;br&gt;
+&lt;br&gt;
+'''Moment of inertia (I):''' Describes the object's resistance to torque - the rotational analog to inertial mass. (kg·m&lt;sup&gt;2&lt;/sup&gt;)&lt;br&gt;
+&lt;br&gt;
+'''Angular momentum (L):''' (kg·m&lt;sup&gt;2&lt;/sup&gt;/s)&lt;br&gt;
+&lt;br&gt;
+'''Angular velocity (&amp;omega;):''' (rad/s)&lt;br&gt;
+&lt;br&gt;
+'''Angular acceleration (&amp;alpha;):''' (rad/s&lt;sup&gt;2&lt;/sup&gt;)&lt;br&gt;
+&lt;br&gt;
+'''Time (t):''' (s)
+|}</text>
+      <sha1>rzb2frpvhcqdkhxbwop9rpe7hfycbm2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Lojban/Vocabulary</title>
+    <ns>0</ns>
+    <id>1950</id>
+    <revision>
+      <id>518448</id>
+      <parentid>411141</parentid>
+      <timestamp>2006-07-11T21:28:25Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">==Vocabulary 1==
+''See [[Lojban/Vocabulary 1|Vocabulary 1]].''
+
+*doi
+*coi
+*be'e
+*je'e
+*je'enai
+*co'o
+*re'i
+*re'inai
+*zo
+*ma
+*la
+*mi
+
+*smuni
+*gismu
+*lujvo
+*tanru
+*sumti
+*bridi
+*cmavo
+*cmene
+
+==Vocabulary 2==
+''See [[Lojban/Vocabulary 2|Vocabulary 2]].''
+
+*le
+*cu
+*ti
+*ta
+*tu
+*goi
+*ko'a
+*zo'o
+*zo'onai
+
+*broda
+*blanu
+*cusku
+*ciska
+*prenu
+*remna
+*nanmu
+*ninmu
+*gasnu
+*zukte
+*rinka
+[[Category:Lojban]]</text>
+      <sha1>bd7q1yj4cn6fncux3pvnvfqwsj1rsql</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Lojban/Vocabulary 2</title>
+    <ns>0</ns>
+    <id>1951</id>
+    <revision>
+      <id>518450</id>
+      <parentid>408282</parentid>
+      <timestamp>2006-07-11T21:28:41Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">==Word list==
+*le
+*cu
+*ti
+*ta
+*tu
+*goi
+*ko'a
+*zo'o
+*zo'onai
+
+*broda
+*blanu
+*cusku
+*ciska
+*prenu
+*remna
+*nanmu
+*ninmu
+*gasnu
+*zukte
+*rinka
+
+==cmavo==
+ le        LE       the described
+                    non-veridical descriptor: the one(s) described as ...
+
+
+
+ cu        CU       selbri separator
+                    elidable marker: separates selbri from preceding
+                    sumti, allows preceding terminator elision
+
+
+
+ ti        KOhA6    this here
+                    pro-sumti: this here; immediate demonstrative it;
+                    indicated thing/place near speaker
+
+
+
+ ta        KOhA6    that there
+                    pro-sumti: that there; nearby demonstrative it;
+                    indicated thing/place near listener
+
+
+
+ tu        KOhA6    that yonder
+                    pro-sumti: that yonder; distant demonstrative it;
+                    indicated thing far from speaker&amp;listener
+
+
+
+ goi       GOI      pro-sumti assign
+                    sumti assignment; used to define/assign ko'a/fo'a
+                    series pro-sumti; Latin 'sive'
+
+
+
+ ko'a      KOhA4    it-1
+                    pro-sumti: he/she/it/they #1 (specified by goi)
+
+
+
+ zo'o      UI5      humorously
+                    attitudinal modifier: humorously - dully - seriously
+
+                    cf. xajmi, junri)
+
+ zo'onai   UI*5     seriously
+                    attitudinal modifier: humorously - dully - seriously
+
+==gismu==
+ broda rod          predicate var 1
+                    1st assignable variable predicate (context determines
+                    place structure)
+
+                    (cf. cmavo list bu'a)
+
+ blanu     bla      blue
+                    x1 is blue [color adjective]
+
+                    (cf. skari, blabi, xekri, zirpu, kandi, carmi, cicna)
+
+ cusku cus sku      express
+                    x1 (agent) expresses/says x2 (sedu'u/text/lu'e
+                    concept) for audience x3 via expressive medium x4
+
+                    [also says]; (cf. bacru, tavla, casnu, spuda, cmavo
+                    list cu'u, bangu, dapma, jufra, pinka)
+
+ ciska         ci'a write                ' scribe '
+                      x1 inscribes/writes x2 on display/storage medium
+                      x3 with writing implement x4; x1 is a scribe
+
+                      [also x3 writing surface]; (cf. papri, penbi,
+                      pinsi, tcidu, xatra, pixra, prina, finti for
+                      'author' or specific authorial works, barna, pinka)
+
+ prenu     pre      person
+                    x1 is a person/people (noun) [not necessarily human];
+                    x1 displays personality/a persona
+
+                    (cf. nanmu, ninmu, remna, zukte, sevzi)
+
+ remna rem     re'a human
+                    x1 is a human/human being/man (non-specific
+                    gender-free sense); (adjective:) x1 is human
+
+                    (cf. nanmu, ninmu, prenu)
+
+ nanmu         nau  man
+                    x1 is a man/men; x1 is a male humanoid person [not
+                    necessarily adult]
+
+                    [word dispreferred in metaphor/example as sexist;
+                    (use remna or prenu)]; (cf. ninmu, remna, prenu,
+                    makcu, nanla, bersa)
+
+ ninmu nim     ni'u woman                ' women '
+                      x1 is a woman/women; x1 is a female humanoid person
+                      [not necessarily adult]
+
+                      [word dispreferred in metaphor/example as sexist;
+                      (use remna or prenu)]; (cf. nanmu, remna, prenu,
+                      makcu, nixli)
+
+ gasnu         gau  do
+                    x1 [person/agent] is an agentive cause of event x2;
+                    x1 does/brings about x2
+
+                    (cf. cmavo list gau, gunka, zukte, rinka, fasnu for
+                    non-agentive events, jibri, kakne, pilno)
+
+ zukte zuk     zu'e act
+                    x1 is a volitional entity employing means/taking
+                    action x2 for purpose/goal x3/to end x3
+
+                    [also acting at, undertaking, doing; agentive cause
+                    with volition/purpose; also x3 objective, end];
+                    (cf. cmavo list zu'e, bapli, gunka, jalge, krinu,
+                    mukti, rinka, snuti, gasnu, fasnu, minji, prenu,
+                    ciksi, jibri, pilno, pluta, tadji, tutci)
+
+ rinka rik     ri'a cause
+                    x1 (event/state) effects/physically causes effect x2
+                    (event/state) under conditions x3
+
+                    [x1 is a material condition for x2; x1 gives rise to
+                    x2]; (cf. gasnu, krinu, nibli, te zukte, se jalge,
+                    bapli, jitro, cmavo list ri'a, mukti, ciksi, xruti)
+
+[[Category:Lojban]]</text>
+      <sha1>qbf907i0wy8p13bsg9shld6sei4w5re</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Motor effect 1.png</title>
+    <ns>6</ns>
+    <id>1956</id>
+    <revision>
+      <id>636315</id>
+      <parentid>154021</parentid>
+      <timestamp>2006-11-04T10:52:03Z</timestamp>
+      <contributor>
+        <username>Theresa knott</username>
+        <id>93</id>
+      </contributor>
+      <text xml:space="preserve">diagram drawn by theresa knott
+
+
+{{GFDL}}
+{{Cc-by-sa-2.5}}</text>
+      <sha1>rys3nb6cmagopthrq1wiy11yso126iy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Motor effect 2.png</title>
+    <ns>6</ns>
+    <id>1957</id>
+    <revision>
+      <id>636316</id>
+      <parentid>154022</parentid>
+      <timestamp>2006-11-04T10:52:26Z</timestamp>
+      <contributor>
+        <username>Theresa knott</username>
+        <id>93</id>
+      </contributor>
+      <text xml:space="preserve">diagram drawn by theresa knott
+
+
+{{GFDL}}
+{{Cc-by-sa-2.5}}</text>
+      <sha1>rys3nb6cmagopthrq1wiy11yso126iy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Appendices/Typing characters</title>
+    <ns>0</ns>
+    <id>1958</id>
+    <revision>
+      <id>2076617</id>
+      <parentid>2076603</parentid>
+      <timestamp>2011-03-30T18:10:51Z</timestamp>
+      <contributor>
+        <username>Coupe</username>
+        <id>397313</id>
+      </contributor>
+      <comment>edit to separate OS</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{French Appendices Header}}&lt;/noinclude&gt;
+== French accents on computers ==
+
+While French keyboards are available, some French students may need to enter accented characters on an English keyboard.
+
+If you are on the Internet, many sites have a virtual keyboard that allows you to mouse-select the characters. Google Translate, for example, has a virtual keyboard icon for entering text in the form window.
+
+===Windows Operating System===
+If you are using Microsoft Windows Operating System, then you can use the Character Map application, located under:
+:Start-&gt;Programs-&gt;Accessories-&gt;System Tools-&gt;Character Map (Send this application to your desktop for better ease of use)
+
+Some word processing programs allow the user to enter accents using a key combination, while others may require an Alt code.
+
+{| {{French/Table}}
+! Accent || Key combination
+|-
+| '''acute accent''' {{fr/sec|(accent aigu)}}
+| CTRL-'
+|-
+| '''grave accent''' {{fr/sec|(accent grave)}}
+| CTRL-`
+|-
+| '''circumflex''' {{fr/sec|(accent circonflexe)}}
+| CTRL-SHIFT-6
+|-
+| '''diaeresis''' {{fr/sec|(tréma)}}
+| CTRL-;
+|-
+| '''cedilla''' {{fr/sec|(cédille)}}
+| CTRL-,
+|}
+
+The ALT code is entered by holding down the ALT key, and enter the number (all digits given) using the keypad (only the keypad).&lt;br /&gt;
+In most applications, you will need the ''numlock'' turned on to avoid undesirable effects. &lt;!-- e.g. Google Chrome detects Alt-4 as a hotkey if numlock is turned off. --&gt;
+
+{| {{French/Table}}
+! Character || Code || Character || Code
+|-
+| à || 133 || À || 0192
+|-
+| â || 131 || Â || 0194 
+|-
+| ä || 132 || Ä || 142
+|-
+| æ || 145 || Æ || 146
+|-
+| œ || 0156 || Œ || 0140 
+|-
+| ç || 135  || Ç || 128 
+|-
+| é || 130 || É || 144
+|- 
+| ê || 136 || Ê || 0202 
+|-
+| è || 138 || È || 0200
+|-
+| ë || 137 || Ë || 0203 
+|-
+| î || 140 || Î || 0206
+|-
+| ï || 139 || Ï || 0207
+|-
+| ô || 147 || Ô || 0212
+|-
+| ù || 151 || Ù || 0217 
+|-
+| û || 150 || Û || 0219
+|-
+| ü || 129 || Ü || 154, 0220 
+|-
+| « || 174 || » || 175 
+|}
+
+
+===Mac Operating System===
+
+If you are using the Mac Operating System, there is a simple system that can be used with the Option ('''⌥''') key. Open the System Preferences application (found in your Applications folder by default and in the Apple menu in the upper-left corner) and navigate to &quot;Language and Text&quot; preferences. Under the Input Sources tab, select U. S. Extended. Now you can use the following key combinations with the Option ('''⌥''') key to form French accents.
+
+{| {{French/Table}}
+! Accent || Key combination
+|-
+| '''acute accent''' {{fr/sec|(accent aigu)}}
+| '''⌥ - e'''
+|-
+| '''grave accent''' {{fr/sec|(accent grave)}}
+| '''⌥ - `''' (the ~ key)
+|-
+| '''circumflex''' {{fr/sec|(accent circonflexe)}}
+| '''⌥ - 6'''
+|-
+| '''diaeresis''' {{fr/sec|(tréma)}}
+| '''⌥ - u'''
+|-
+| '''cedilla''' {{fr/sec|(cédille)}}
+| '''⌥ - c'''
+|}
+
+For instance: Press and hold '''⌥''' and then press '''e'''. Now you have a floating acute accent. Press '''e''' again to put the accent over that letter and form é. In the same way '''⌥ - 6''', then '''o''' will give you ô, etc. These shortcuts work throughout the operating system and do not depend on the application in which they are used.
+
+===Linux Operating System===
+
+If you are using Ubuntu Linux with Gnome you select the Compose key from System: Preferences: Keyboard then Layouts: Layout Options: Compose key position. You can select one of Right Alt key, Left Win-key, Right Win-key, Menu key, Right Ctrl key or Caps Lock key (for a USA keyboard layout). The Keyboard preferences dialog has an area you can use to test the settings. See below for how to use the Compose key. Ubuntu with a different window manager, such as KDE should have a similar keyboard preferences utility.
+
+If you are using Unix or a derivative operating system (such as Linux) with XFree86, you can define a compose key by opening a terminal window and typing:
+
+'To use the Windows menu key (between the right Windows key and right Ctrl key:
+: xmodmap -e &quot;keysym Menu = Multi_key&quot;
+
+'To use the right Windows key:
+: xmodmap -e &quot;keysym R_Meta = Multi_key&quot;
+
+'To use the right Alt key:'
+: xmodmap -e &quot;keysym Alt_Gr = Multi_key&quot;
+
+To use the Compose key, press and release the Compose key, then type two characters. Combinations useful for typing in French follow:
+
+: à Compose + a + `
+: â Compose + a + ^
+: ä Compose + a + &quot;
+
+: ç Compose + c + ,
+
+: è Compose + e + `
+: é Compose + e + '
+: ê Compose + e + ^
+: ë Compose + e + &quot;
+: É Compose + E + '
+
+: î Compose + i + ^
+: ï Compose + i + &quot;
+
+: ô Compose + o + ^
+: ö Compose + o + &quot;
+
+: ù Compose + u + `
+: û Compose + u + ^
+: ü Compose + u + &quot;
+
+&lt;noinclude&gt;{{French/Appendices}}&lt;/noinclude&gt;</text>
+      <sha1>1cjnfrpwxrn5luhya1g8hdb8b35wi9s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Physics Study Guide/Waves</title>
+    <ns>0</ns>
+    <id>1960</id>
+    <revision>
+      <id>2669060</id>
+      <parentid>2578651</parentid>
+      <timestamp>2014-06-02T19:16:11Z</timestamp>
+      <contributor>
+        <username>Krishnavedala</username>
+        <id>12761</id>
+      </contributor>
+      <minor />
+      <comment>/* Waves */ vector image</comment>
+      <text xml:space="preserve">=Waves= 
+Wave is defined as the movement of any periodic motion like a spring, a pendulum, a water wave, an electric wave, a sound wave, a light wave, etc.
+
+[[Image:wave characteristics.svg|right|frame|400px|A wave with constant amplitude.]]
+Any periodic wave that has amplitude varied with time, phase sinusoidally can be expressed mathematically as 
+:; R(t , θ) = R Sin (ωt + θ) 
+
+* Minimum wave height (trough) at angle 0, π, 2π, ... 
+:; F(R,t,θ) = 0 at θ = nπ 
+
+* Maximum wave height (peak or crest) at π/2, 3π/2, ... 
+:; F(R,t,θ) = R at θ = (2n+1)π/2
+
+* Wavelength (distance between two crests) λ = 2π. 
+:λ = 2π - A circle or a wave
+:2λ = 2(2π) - Two circles or two waves
+:kλ = k2π - Circle k or k amount of waves
+
+* Wave Number, 
+:; k
+
+* Velocity (or Angular Velocity), 
+:; ω = 2πf
+
+* Time Frequency, 
+:; f = 1 / t
+
+* Time
+:; t = 1 / f
+
+
+
+'''Wave speed''' is equal to the '''frequency''' times the '''wavelength'''.  It can be understood as how frequently a certain distance (the wavelength in this case) is traversed.
+
+
+{{PSG/eq|&lt;math&gt;f = \frac{v}{\lambda}&lt;/math&gt;}}
+
+'''Frequency''' is equal to '''speed''' divided by '''wavelength'''.
+
+
+{{PSG/eq|&lt;math&gt; T = \frac{1}{f}&lt;/math&gt;}}
+
+'''Period''' is equal to the inverse of '''frequency'''.
+
+&lt;H2&gt;Variables&lt;/H2&gt;&lt;br&gt;
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;top&quot; |
+'''&amp;lambda;:''' wavelength (m)&lt;br&gt;
+'''v:''' wave speed (m/s)&lt;br&gt;
+'''f:''' frequency (1/s), (Hz)&lt;br&gt;
+'''T:''' period (s)
+|}
+
+&lt;H2&gt;Definition of terms&lt;/H2&gt;
+
+{| WIDTH=&quot;100%&quot;
+|-
+| style=&quot;background-color: #FFFFEE; border: solid 1px #FFC92E; padding: 1em;&quot; valign=&quot;top&quot; |
+'''Wavelength (''&amp;lambda;'')''': The length of one wave, or the distance from a point on one wave to the same point on the next wave. Units: meters (m). In light, ''&amp;lambda;'' tells us the color.&lt;br&gt;
+&lt;br&gt;
+'''Wave speed (v)''': the speed at which the wave pattern moves. Units: meters per second, (m/s)&lt;br&gt;
+&lt;br&gt;
+'''Frequency of oscillation (''f'')''' (or just '''frequency'''): the number of times the wave pattern repeats itself in one second. Units: seconds&lt;sup&gt;-1&lt;/sup&gt; = (1/s) = hertz (Hz) In sound, ''f'' tells us the pitch. The inverse of frequecy is the period of oscillation.&lt;br&gt;
+&lt;br&gt;
+'''Period of oscillation (''T'')''' (or just '''period'''): duration of time between one wave and the next one passing the same spot.  Units: seconds (s). The inverse of the period is frequency. Use a capital, italic ''T'' and not a lowercase one, which is used for time.&lt;br&gt;
+&lt;br&gt;
+'''Amplitude (''A'')''': the maximum height of the wave measured from the average height of the wave (the wave’s center). Unit: meters (m)
+|}
+
+
+Image here
+
+
+The wave’s extremes, its peaks and valleys, are called '''antinodes'''. At the middle of the wave are points that do not move, called '''nodes'''. 
+
+''Examples of waves:'' Water waves, sound waves, light waves, seismic waves, shock waves, electromagnetic waves …
+
+==Oscillation==
+A wave is said to oscillate, which means to move back and forth in a regular, repeating way. This fluctuation can be between extremes of position, force, or quantity. 
+
+Different types of waves have different types of oscillations.
+
+'''Longitudinal waves:''' Oscillation is parallel to the direction of the wave. Examples: sound waves, waves in a spring.
+
+'''Transverse waves:''' Oscillation is perpendicular to direction of the wave. Example: light
+
+&lt;!--  Commented out because image was deleted: [[image:tranlong.png|tranlong.png]] --&gt;
+
+==Interference==
+When waves overlap each other it is called '''interference'''. This is divided into '''constructive''' and '''destructive''' interference. 
+
+'''Constructive interference:''' the waves line up perfectly and add to each others’ strength.
+
+
+&lt;!--  Commented out because image was deleted: [[image:Constructive-interference.png]] --&gt;
+
+
+'''Destructive interference:''' the two waves cancel each other out, resulting in no wave.
+
+
+&lt;!--  Commented out because image was deleted: [[image:Destructive-interference.png]] --&gt;
+
+==Resonance==
+In real life, waves usually give a mishmash of constructive and destructive interference and quickly die out. However, at certain wavelengths standing waves form, resulting in '''resonance'''. These are waves that bounce back into themselves in a strengthening way, reaching maximum amplitude.
+
+''Resonance is a special case of forced vibration when the frequency of the impressed periodic force is equal to the natural frequency of the body so that it vibrates with increased amplitude, spontaneously.''
+
+{{PSG}}
+
+[[Category:Physics Study Guide]]</text>
+      <sha1>46jlvc7j2il6sbm1y2nbf1c8q49byzl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Dgrant</title>
+    <ns>2</ns>
+    <id>1961</id>
+    <revision>
+      <id>1456618</id>
+      <parentid>154026</parentid>
+      <timestamp>2009-04-01T00:56:52Z</timestamp>
+      <contributor>
+        <username>MBisanz</username>
+        <id>85319</id>
+      </contributor>
+      <comment>{{softredirect|:</comment>
+      <text xml:space="preserve">{{softredirect|:w:User:Dgrant}}</text>
+      <sha1>k4e8shbjre0cplc0dki4lzqgjcxc7nh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:German/Grammar/Alphabet and Pronunciation</title>
+    <ns>1</ns>
+    <id>1962</id>
+    <revision>
+      <id>2638377</id>
+      <parentid>2205164</parentid>
+      <timestamp>2014-04-26T13:59:01Z</timestamp>
+      <contributor>
+        <username>Amand Keultjes</username>
+        <id>1365171</id>
+      </contributor>
+      <comment>/* Pronunciation of the alphabet in the German language */ new section</comment>
+      <text xml:space="preserve">{{WikiProject Languages|german=yes}} 
+
+==How to Play Audios ==
+The Sample audio, what program to i need to listin to it?
+Andrewcool
+:Good question.  I'll need to research that.  It just plays &quot;automatically&quot; when I click on it, so I think any PC media player ? - [[User:Marshman|marsh]]
+When i open it, it doesn't open automatic. It wants me to choose the program to open it but so far i have not found one that works.
+:Yes, Windows does give me that &quot;choice&quot; too. My computer has AudioCentral by Roxio and that plays the file just fine, but I seem to recall that the default Windows media player also worked ok. - [[User:Marshman|marsh]] 17:47, 27 Mar 2005 (UTC) 
+
+Well we can covert the .ogg and make them into .wav for people who are having problems with this. -Andrewcool
+:Sounds good to me. I've got to admit, I know nothing about sound files - [[User:Marshman|marsh]] 03:53, 29 Mar 2005 (UTC)
+ Well wiki only wants .ogg so that means we will need somebody else to host it.--[[User:Andrewcool|Andrewcool]] 23:54, 30 Mar 2005 (UTC)
+
+Foobar works well. google it. -thisdude415
+
+:Get the OGG codec.  Google that.
+
+==The Description Of Sounds==
+The long and short 'a' sounds are not very different.  For example, I would say the 'a' in father and the 'o' in pot are about the same, only the first (father) is strung out a bit more (ahhhh vs ah).  When I try this in German I see about the same difference: ''haben'' = ahhhh, ''acht'' = ah.  In English, these would both be short vowel sounds. Am I missing something, or is that all there is to it? Is there a better way to differentiate the long and short 'a' in German? Is it really correct to call these long and short vowel sounds? -- [[User:Marshman|Marsh]] 18:30, 5 Nov 2003 (UTC)
+
+:Hey Marsh! I'd say, you got it completely right. But there is a third sound in German sometimes discriped as an &quot;a&quot;-sound. It's the sound of &quot;-er&quot; at the ending of a word (e.g. Keller = Basement). This sound is somewhere between kell-ea and Kell-a. Think of how it's pronounced in rap slang (kill-a) or of the way Bob Marley pronounced Rast-a. -- [[User:Guido|Guido]]
+
+::Hi, I've to say, taht is not right. It's maybe a bit slang, but someone speaking real good german would say kell-er and not kella. I do it myself, but I know that's because of my accent. -louisana 
+
+===The Ö-Laut===
+Hey to all out there. What do you think: does the '''short''' Ö (as in 'Köln') sound like the 'ear' in a (British pronounced) &quot;heard&quot;. To me it does.
+
+: British &quot;ear&quot; in &quot;heard&quot; is IMHO more similar to a '''long''' Ö (as in 'hören'); but in general, &quot;heard&quot; should be mentioned as a guideline for pronouncing 'ö'. The existing explanation is good however (I was not aware that the 'Ö' from my native country's name had anything to do with whistling or the sound in 'late', but following those instructions works!).
+
+===Examples not useful===
+is to my mind a bit poor.
+I know,  English textbooks for German explain sounds that way. And they will not break a habit.
+Result: an unacceptable pronunciation.
+Let us see how the German &quot;e&quot; is explained: as in lay with no movement.
+What movement? Movement of the tongue. Okay. But is there any English speaking person aware of that movement?
+The result would be better if a sound like in &quot;get&quot; is made long. And that would exactly be what it is: a German e.
+
+: I think that means no movement in the sound (not physical movement), although obviously to move or alter a sound there must be some subtle movement of the speech apparatus. Making the &quot;e&quot; in &quot;get&quot; long would sound like &quot;e&quot; in &quot;week&quot;.  A &quot;long&quot; e in English is not a long &quot;e&quot; in German or even close. Coming from the English speaking perspective, the explanations are pefectly sensible. - [[User:Marshman|marsh]]
+
+I fully agree that the German e is, in fact, the same sound as the e in &quot;get&quot; made long; just keep your mouth and tongue in the same position and keep the air going. The &quot;e&quot; in &quot;week&quot; has nothing to do with the &quot;e&quot; in &quot;get&quot;, that's just an artifact of English orthography. The description based on &quot;lay&quot; might be good because it explicitly warns about the most common pronounciation mistake that English speaking people make; on the other hand, it is far less useful to people who already speak other languages besides English.
+
+:I disagree, that the German long &quot;e&quot; is the &quot;e&quot; in &quot;get&quot; made long, and I am myself a German native speaker. Actually, the &quot;e&quot; sound in &quot;get&quot; ([ɛ] in [http://en.wikipedia.org/wiki/International_Phonetic_Alphabet IPA]) pronounced as long vowel [ɛː] is closer to the German long &quot;ä&quot; than to the long &quot;e&quot; ([eː]). Unfortunately, also many German native speakers don't use or know the [ɛː] sound and pronounce the long &quot;ä&quot; just like the long German &quot;e&quot;, especially in the north of Germany. --[[User:Tobulax|Tobulax]] 07:51, 25 July 2007 (UTC)
+
+=== Austrian Pronunciation ===
+
+There are two important differences in how German is pronounced in Austria from what is described here. I'm not talking about dialects, just the most important basic differences, analogous to the differences in British and American English. For one, the &quot;s&quot; in Austrian is not pronounced as a 'z' at the start of a word, e.g. in &quot;Sonne&quot;. AFAICT, it may only be pronounced 'z' when it is between two vowels, e.g. &quot;Rose&quot;. Also, &quot;ig&quot; as in richtig is NOT pronounced as an ich-sound, but rather as &quot;i&quot;+&quot;g&quot;.
+Would it be more appropriate to mention these differences in the text where the letters are described (as is already done to describe the absence of &quot;ß&quot; in Switzerland), or should a separate short section outlining the differences be added at the end, in order to keep things simpler for people who just want to learn the &quot;dominant&quot; form of German?
+:I agree it is a good idea to bring up these differences and I would think that mentioning it where specifically appropriate (as with the Swiss example) would be best - [[User:Marshman|marsh]] 04:37, 31 May 2005 (UTC)
+Done. [[User:WolfgangThaller|WolfgangThaller]] 03:56, 3 Jun 2005 (UTC)
+
+
+=== Pronunciation of German alphabet ===
+
+The one thing that is always ailing me is that almost all german textbooks present the sound of german alphabets by means of using similiar english words, like &quot;bay&quot;, &quot;ah&quot;. Many of those descriptions are pretty vague actually like &quot;Slightly more dental&quot; for L and some are absent like Ü. I suggest presenting those alphabets with IPA which is more convenient for linguistically more advanced users.
+
+: Not to mention that this pronunciation system is just plain wrong in many cases.  I'd be willing to help IPA it. - [[User:71.136.181.45|71.136.181.45]] 08:59, 13 January 2007 (UTC)
+
+== The German Alphabet - oggfile ==
+
+I think the ogg-file is not that good. I would speak it again, if you need it. Just contact me on meta. I also could speak more, if you want to. [[m:User:Louisana]]
+:If you can create a better one, by all means please do. I have not the technical skills to create sound files  - [[User:Marshman|marsh]] 05:05, 10 August 2005 (UTC)
+Done. For further request please use my meta talk page! Also spoke something [[German:_Introduction#German_and_English|here]] [[m:User:Louisana]]
+
+== Syllable stress: It's not that easy! ==
+
+It's not generally correct that always the first syllable is stressed. For words with prefix or suffix syllables, it becomes more complex. A a native German, I never learnt formal rules for that, but in most cases the first syllable of the ''stem'' of the word (without pre- and suffixes) is stressed, but there are lots of exceptions. Those who know German, confer [[:w:de:Wortakzent#Wortakzent im Deutschen]], with the example of '''um'''fahren (to knock '''over''') vs. um'''fah'''ren (to '''drive''' round). --[[User:Langec|Langec]] 20:56, 18 June 2006 (UTC)
+
+== First alphabet audio file appears to be bogus ==
+
+After the table showing the alphabet there are two audio files which are fine.
+
+But in the title for the table, where you see &quot;German Dialogue • Alphabet • audio&quot;, the audio link is to a file &quot;German Dialogue - The alphabet.ogg&quot;.
+
+This file was uploaded in November 2006 by Paulaburesh who is no longer a registered user.
+
+The history page for this file is [http://en.wikibooks.org/w/index.php?title=Image:German_Dialogue_-_The_alphabet.ogg&amp;action=history here].
+
+This file is not an OGG file (I've looked at the binary data and it does not start with the sequence &quot;OggS&quot; as it should).
+
+I suggest it be deleted.
+
+== Pronunciation of the alphabet in the German language ==
+
+I have noticed some weird ideas on the pronunciation of the alphabet in the German language.
+The letter b is never pronounced as a 'p' unless one hails from &quot;Payern&quot; (= Bayern/Bavaria).
+The letter g is not really pronounced as a 'k' at the end of a word, but like in English as a hard 'g', 
+or softened to a German 'ch' like in Bach or ich.
+One should always be aware -especially as a non-German- that the German pronunciation has a 
+tremendous variation dependent on the region; Austrian or Swiss German is certainly not the standard.
+PS I myself am a 'Grenzer' from the Netherlands with a severe German accent, which I was born with.</text>
+      <sha1>ke83tk6e1xmgn9c2zh620jkkhlrjuhh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Colipon</title>
+    <ns>2</ns>
+    <id>1966</id>
+    <revision>
+      <id>154031</id>
+      <timestamp>2003-11-05T20:43:00Z</timestamp>
+      <contributor>
+        <username>Colipon</username>
+        <id>240</id>
+      </contributor>
+      <text xml:space="preserve">Wikibooks is great.</text>
+      <sha1>7fmfce65ks7qykfv3cohvm776d9ziqe</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Colipon</title>
+    <ns>3</ns>
+    <id>1967</id>
+    <revision>
+      <id>154032</id>
+      <timestamp>2003-11-06T03:13:25Z</timestamp>
+      <contributor>
+        <username>Marshman</username>
+        <id>104</id>
+      </contributor>
+      <comment>Weklcom Colipon</comment>
+      <text xml:space="preserve">Welcome Colipon! This place is a little more laid back than [[en:Wikipedia|Wikipedia]] as there are usually only a small handfull working here at any one time (like VfD hardly exists - actually it may not exist?). But lots to be done here as at Wikipedia, and I suspect this place is headed for bigger things involving more contributors. All helping hands welcome - [[User:Marshman|Marsh]] 03:13, 6 Nov 2003 (UTC)</text>
+      <sha1>sqftec0tqnais42ggaopdec7ky40zgx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Discrete Mathematics</title>
+    <ns>1</ns>
+    <id>1972</id>
+    <revision>
+      <id>2637773</id>
+      <parentid>2514145</parentid>
+      <timestamp>2014-04-24T16:16:51Z</timestamp>
+      <contributor>
+        <username>Cammy169</username>
+        <id>1421453</id>
+      </contributor>
+      <comment>/* Split */</comment>
+      <text xml:space="preserve">Why is &quot;polynomials and number theory&quot; presented before &quot;rings, fields and modules&quot;, which is in turn presented before &quot;group theory&quot;?
+
+: Rings and fields will be touched upon briefly in polys and number theory, while a more indepth discussion will be in the rings, fields and modules section. Groups are a little more distanced from these, but I think I'll take your suggestion and move that section down :) [[User:Dysprosia|Dysprosia]] 23:14, 6 Nov 2003 (UTC)
+
+I am curious as to the inclusion of Set Theory in Discrete mathematics - especially since there is already a distinct [[Set Theory]] book (although there is almost nothing in it).  Surely discrete mathematics is concerned almost exclusively with finite or possible countable sets, and a full treatment of set theory is not appropriate here.  Would it not be more sensible to merge these, and have one book on set theory, covering both naive and axiomatic set theory? [[User:J Bytheway|J Bytheway]] 23:08, 8 Feb 2005 (UTC)
+
+: If there is nothing in [[Set Theory]], it should be redirected to the book here. Our efforts should be unified. [[User:Dysprosia|Dysprosia]] 10:56, 9 Feb 2005 (UTC)
+
+== Split ==
+Why split the book up? How is one to find general topics on discrete math?
+
+Oh my gosh! I saw the word &quot;split&quot; and thought of a made up step in induction called &quot;split&quot; when I was first taught it!
+Speaking of which, should I add recursion and induction as sections too?
+
+BTW, to kinda answer your question, this is wikibooks, an in-depth look at discrete etc. If you want a general overview look at the main wikipedia page.
+[[User:Cammy169|Cammy169]] ([[User talk:Cammy169|discuss]] • [[Special:Contributions/Cammy169|contribs]]) 16:16, 24 April 2014 (UTC)
+
+== feedback ==
+this is very well written and easy to understand, thanks. Please finish the book, if you have the time for it.
+:Seconded. '''[[User:It Is Me Here|&lt;font color=&quot;#006600;&quot;&gt;It Is Me Here&lt;/font&gt;]]''' &lt;sup&gt;'''[[User_talk:It Is Me Here|&lt;font color=&quot;#CC6600;&quot;&gt;t&lt;/font&gt;]] / [[Special:Contributions/It Is Me Here|&lt;font color=&quot;#CC6600;&quot;&gt;c&lt;/font&gt;]]&lt;/sup&gt;''' 09:55, 18 April 2013 (UTC)</text>
+      <sha1>s6nh96hbq28ztotewlfodonzfhnsaay</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>German/Appendices/Grammar I</title>
+    <ns>0</ns>
+    <id>1973</id>
+    <revision>
+      <id>1709771</id>
+      <parentid>1709741</parentid>
+      <timestamp>2010-02-01T03:29:47Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>fixed links/category</comment>
+      <text xml:space="preserve">&lt;small&gt;[[German/Level I|Beginning German]] | [[German/Level II|Basic German]] | [[German/Level III|Intermediate German]]&lt;/small&gt;
+----
+
+== ''Der''-word Case for German Nouns ==
+
+
+{| border=&quot;1&quot; style=&quot;background-color:#FFFFCC&quot;
+|-
+|
+! colspan=&quot;4&quot; | Case
+|-
+| Gender&amp;nbsp;&amp;nbsp;&amp;nbsp;
+! Nominativ
+! Genitiv&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+! Dativ&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+! Akkusativ
+|-
+|
+&amp;nbsp;masculine&amp;nbsp;
+|
+&amp;nbsp;'''''der'''''&amp;nbsp;
+|
+&amp;nbsp;'''''des'''''&amp;nbsp;
+|
+&amp;nbsp;'''''dem'''''&amp;nbsp;
+|
+&amp;nbsp;'''''den'''''&amp;nbsp;
+|-
+|
+&amp;nbsp;feminine
+|
+&amp;nbsp;'''''die'''''
+|
+&amp;nbsp;'''''der'''''
+|
+&amp;nbsp;'''''der'''''
+|
+&amp;nbsp;'''''die'''''
+|-
+|
+&amp;nbsp;neuter
+|
+&amp;nbsp;'''''das'''''
+|
+&amp;nbsp;'''''des'''''
+|
+&amp;nbsp;'''''dem'''''
+|
+&amp;nbsp;'''''das'''''
+|-
+|
+&amp;nbsp;plural*
+|
+&amp;nbsp;'''''die'''''
+|
+&amp;nbsp;'''''der'''''
+|
+&amp;nbsp;'''''den'''''
+|
+&amp;nbsp;'''''die'''''
+|}* &lt;small&gt;The same regardless of singular noun gender&lt;/small&gt;
+
+== Personal Pronoun Tables: nominative, genitive, dative &amp;amp; accusative cases ==
+
+=== Nominative case personal pronouns ===
+The '''nominative case''' is used as the subject of a verb.
+
+
+{| border=&quot;1&quot; style=&quot;background-color:#FFFFCC&quot;
+|-
+|
+| colspan=&quot;2&quot; | &lt;center&gt;Singular&lt;/center&gt;
+| colspan=&quot;2&quot; | &lt;center&gt;Plural&lt;/center&gt;
+|-
+| 1st person || &amp;nbsp;'''ich'''&amp;nbsp; || &amp;nbsp;I&amp;nbsp;
+| &amp;nbsp;'''wir'''
+| &amp;nbsp;we&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+|-
+| 2nd person&amp;nbsp; || &amp;nbsp;'''du''' ('''Sie'''*)
+| &amp;nbsp;you
+| &amp;nbsp;'''ihr''' ('''Sie'''*)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+| &amp;nbsp;you
+|-
+| 3rd person
+| &amp;nbsp;'''er, sie, es'''&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+| &amp;nbsp;he, she, it&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+| &amp;nbsp;'''sie'''
+| &amp;nbsp;they&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+|}*&lt;small&gt;'''Polite''' form.&lt;/small&gt; 
+----
+=== Genitive case personal pronouns ===
+
+The '''genitive''' case corresponds to the '''possessive''' case in English or to the English objective case preceded by 'of' and denoting possession. The use of genitive personal pronouns is very rare in German and many Germans are unable to use them correctly.
+
+
+{| border=&quot;1&quot; style=&quot;background-color:#FFFFCC&quot;
+|-
+|
+| colspan=&quot;2&quot; | &lt;center&gt;Singular&lt;/center&gt;
+| colspan=&quot;2&quot; | &lt;center&gt;Plural&lt;/center&gt;
+|-
+| 1st person || &amp;nbsp;'''meiner'''&amp;nbsp;
+| &amp;nbsp;my&amp;nbsp; || &amp;nbsp;'''unser'''
+| &amp;nbsp;our&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+|-
+| 2nd person
+| &amp;nbsp;'''deiner''' ('''Ihrer'''*)&amp;nbsp;
+| &amp;nbsp;your&amp;nbsp;
+| &amp;nbsp;'''eurer''' ('''Ihrer'''*)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+| &amp;nbsp;your
+|-
+| 3rd person
+| &amp;nbsp;'''seiner''', '''ihrer''', '''seiner'''&amp;nbsp;
+| &amp;nbsp;his, her, its&amp;nbsp; || &amp;nbsp;'''ihrer'''
+| &amp;nbsp;their&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+|-
+|}*&lt;small&gt;'''Polite''' form.&lt;/small&gt;
+
+Examples:
+: ''Ich erbarme mich '''eurer'''''.  ~           I take pity on you(rs).
+: '''''meiner''' unbedeutenden Meinung nach.'' ~ in my humble opinion (IMHO)
+----
+=== Dative case personal pronouns ===
+The personal pronouns in the '''dative''' case are used as indirect objects of verbs and after the prepositions '''''aus, außer, bei, mit, nach, seit, von, zu'''''.
+
+{| border=&quot;1&quot; style=&quot;background-color:#FFFFCC&quot;
+|-
+|
+| colspan=&quot;2&quot; | &lt;center&gt;Singular&lt;/center&gt;
+| colspan=&quot;2&quot; | &lt;center&gt;Plural&lt;/center&gt;
+|-
+| 1st person || &amp;nbsp;'''mir'''&amp;nbsp; || &amp;nbsp;me&amp;nbsp;
+| &amp;nbsp;'''uns''' || &amp;nbsp;us
+|-
+| 2nd person&amp;nbsp;
+| &amp;nbsp;'''dir''' ('''Ihnen'''*)&amp;nbsp;&amp;nbsp;&amp;nbsp;
+| &amp;nbsp;you
+| &amp;nbsp;'''euch''' ('''Ihnen'''*)&amp;nbsp;&amp;nbsp;&amp;nbsp;
+| &amp;nbsp;you
+|-
+| 3rd person || &amp;nbsp;'''ihm, ihr, ihm'''
+| &amp;nbsp;him, her, it&amp;nbsp;&amp;nbsp; || &amp;nbsp;'''ihnen'''
+| &amp;nbsp;them&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+|}*&lt;small&gt;'''Polite''' form.&lt;/small&gt; 
+----
+=== Accusative case personal pronouns ===
+
+The personal pronouns in the '''accusative''' case are used as direct objects of transitve verbs and after the prepositions '''''durch, für, gegen, ohne, um.'''''
+
+
+{| border=&quot;1&quot; style=&quot;background-color:#FFFFCC&quot;
+|-
+|
+| colspan=&quot;2&quot; | &lt;center&gt;Singular&lt;/center&gt;
+| colspan=&quot;2&quot; | &lt;center&gt;Plural&lt;/center&gt;
+|-
+| 1st person || &amp;nbsp;'''mich'''&amp;nbsp;
+| &amp;nbsp;me&amp;nbsp; || &amp;nbsp;'''uns''' || &amp;nbsp;us
+|-
+| 2nd person&amp;nbsp; || &amp;nbsp;'''dich''' ('''Sie'''*)
+| &amp;nbsp;you
+| &amp;nbsp;'''euch''' ('''Sie'''*)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+| &amp;nbsp;you
+|-
+| 3rd person
+| &amp;nbsp;'''ihn, sie, es&amp;nbsp;&amp;nbsp;&amp;nbsp;'''
+| &amp;nbsp;him, her, it&amp;nbsp;&amp;nbsp;
+| &amp;nbsp;'''sie''' &lt;small&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/small&gt;
+| &amp;nbsp;them&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+|}*&lt;small&gt; '''Polite''' form.&lt;/small&gt;
+
+{{BookCat|filing=deep}}</text>
+      <sha1>8fwsnmlz3v2f7i4vntyecgl2jw4fbcb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Physics Study Guide/Standing waves</title>
+    <ns>0</ns>
+    <id>1979</id>
+    <revision>
+      <id>622622</id>
+      <parentid>620012</parentid>
+      <timestamp>2006-10-23T23:31:53Z</timestamp>
+      <contributor>
+        <username>Whiteknight</username>
+        <id>10714</id>
+      </contributor>
+      <minor />
+      <comment>Adding header and footer</comment>
+      <text xml:space="preserve">{{PSG}}
+----
+=Standing waves=
+
+
+{| width=&quot;100%&quot; style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; 
+|align=&quot;center&quot;|&lt;math&gt;\|\vec{v}\|=\sqrt{\frac{\|\vec{T}\|}{\mu}}&lt;/math&gt;
+|}
+
+'''Wave speed''' is equal to the square root of '''tension''' divided by the '''linear density''' of the string.
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;center&gt;&lt;big&gt;''' ''&amp;mu;'' = ''m''/''L'' ''' &lt;/big&gt;&lt;/center&gt;
+|}
+
+'''Linear density''' of the string is equal to the '''mass''' divided by the '''length''' of the string.
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;center&gt;&lt;big&gt;''' ''&amp;lambda;''&lt;sub&gt;max&lt;/sub&gt; = 2''L'' ''' &lt;/big&gt;&lt;/center&gt;
+|}
+
+The '''fundamental wavelength''' is equal to two times the '''length''' of the string.
+
+&lt;H2&gt;Variables&lt;/H2&gt;&lt;br&gt;
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;top&quot; |
+''&amp;lambda;:'' wavelength (m)&lt;br&gt;
+''&amp;lambda;&lt;sub&gt;max&lt;/sub&gt;:'' fundamental wavelength (m)&lt;br&gt;
+''&amp;mu;:'' linear density (g/m)&lt;br&gt;
+''v:'' wave speed (m/s)&lt;br&gt;
+''F:'' force (N)&lt;br&gt;
+''m:'' mass (g)&lt;br&gt;
+''L:'' length of the string (m)&lt;br&gt;
+''l:'' meters (m)
+|}
+
+&lt;H2&gt;Definition of terms&lt;/H2&gt;
+
+{| WIDTH=&quot;100%&quot;
+|-
+| style=&quot;background-color: #FFFFEE; border: solid 1px #FFC92E; padding: 1em;&quot; valign=&quot;top&quot; |
+''' Tension (''F''):''' (not frequency) in the string (''t'' is used for time in these equations). Units: newtons (N)&lt;br&gt;
+&lt;br&gt;
+''' Linear density (''&amp;mu;''):''' of the string, Greek mu. Units: grams per meter (g/m)&lt;br&gt;
+&lt;br&gt;
+''' Velocity (''v'')''' of the wave (m/s)&lt;br&gt;
+&lt;br&gt;
+''' Mass (''m'')''': Units: grams (g). (We would use kilograms but they are too big for most strings).&lt;br&gt;
+&lt;br&gt;
+'''Length of the string (''L''):''' Units: meters (m)
+|}
+
+Fundamental frequency: the frequency when the wavelength is the longest allowed, this gives us the lowest sound that we can get from the system.
+
+In a string, the length of the string is half of the largest wavelength that can create a standing wave, called its fundamental wavelength.
+
+
+[[Category:Physics Study Guide]]</text>
+      <sha1>l13cm168bljfgaic8xhffi6m8aes7u2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Physics Study Guide/Wave overtones</title>
+    <ns>0</ns>
+    <id>1980</id>
+    <revision>
+      <id>2695423</id>
+      <parentid>2695422</parentid>
+      <timestamp>2014-08-28T18:35:11Z</timestamp>
+      <contributor>
+        <ip>140.193.179.181</ip>
+      </contributor>
+      <comment>/* Wave overtones */</comment>
+      <text xml:space="preserve">{{PSG}}
+----
+=Wave overtones=
+
+For resonance in a taut string, the '''first harmonic''' is determined for a wave form with one '''antinode''' and two '''nodes'''.  That is, the two ends of the string are nodes because they do not vibrate while the middle of the string is an antinode because it experiences the greatest change in amplitude.  This means that one half of a full wavelength is represented by the length of the resonating structure.
+
+The frequency of the '''first harmonic''' is equal to '''wave speed''' divided by twice the '''length''' of the string.  (Recall that wave speed is equal to wavelength times frequency.)
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;center&gt;&lt;big&gt;''' F&lt;sub&gt;1&lt;/sub&gt; = v/2L ''' &lt;/big&gt;&lt;/center&gt;
+|}
+	
+The '''wavelength''' of the first harmonic is equal to double the '''length''' of the string.
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;center&gt;&lt;big&gt;''' &amp;lambda;&lt;sub&gt;1&lt;/sub&gt; = 2L ''' &lt;/big&gt;&lt;/center&gt;
+|}
+
+The '''&quot;nth&quot; wavelength''' is equal to the '''fundamental wavelength''' divided by '''n.'''
+	
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;center&gt;&lt;big&gt;''' &amp;lambda;&lt;sub&gt;n&lt;/sub&gt; = &amp;lambda;&lt;sub&gt;1&lt;/sub&gt;/n ''' &lt;/big&gt;&lt;/center&gt;
+|}
+
+
+'''Harmonics for a taut string* '''
+
+{| BORDER CELLSPACING=&quot;2&quot; CELLPADDING=&quot;0&quot; WIDTH=&quot;450&quot;
+|-
+| &amp;nbsp; || &lt;b&gt;Harmonic number&lt;/b&gt; || &lt;b&gt;Overtone number&lt;/b&gt;
+| &lt;b&gt;F =&lt;/b&gt; || &lt;b&gt;&amp;lambda; =&lt;/b&gt;
+|-
+| &lt;b&gt;F&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt; || First harmonic
+| ---
+| F&lt;sub&gt;1&lt;/sub&gt; = v/2L || &amp;lambda;&lt;sub&gt;1&lt;/sub&gt; = 2L
+|-
+| &lt;b&gt;F&lt;sub&gt;2&lt;/sub&gt;&lt;/b&gt; || Second harmonic
+| First overtone || F&lt;sub&gt;2&lt;/sub&gt; = 2F&lt;sub&gt;1&lt;/sub&gt;
+| &amp;lambda;&lt;sub&gt;2&lt;/sub&gt; =&amp;lambda;&lt;sub&gt;1&lt;/sub&gt;/2
+|-
+| &lt;b&gt;F&lt;sub&gt;3&lt;/sub&gt;&lt;/b&gt; || Third harmonic
+| Second overtone || F&lt;sub&gt;3&lt;/sub&gt; = 3F&lt;sub&gt;1&lt;/sub&gt;
+| &amp;lambda;&lt;sub&gt;3&lt;/sub&gt; = &amp;lambda;&lt;sub&gt;1&lt;/sub&gt;/3
+|-
+| &lt;b&gt;F&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt; || Nth harmonic
+| (Nth - 1) overtone || F&lt;sub&gt;n&lt;/sub&gt; = nF&lt;sub&gt;1&lt;/sub&gt;
+| &amp;lambda;&lt;sub&gt;n&lt;/sub&gt; = &amp;lambda;&lt;sub&gt;1&lt;/sub&gt;/n
+|}
+&lt;small&gt;* or any wave system with two identical ends, such as a pipe with two open or closed ends.  In the case of a pipe with two open ends, there are two antinodes at the ends of the pipe and a single node in the middle of the pipe, but the mathematics work out identically.&lt;/small&gt;
+
+&lt;H2&gt;Definition of terms&lt;/H2&gt;
+
+{| WIDTH=&quot;100%&quot;
+|-
+| style=&quot;background-color: #FFFFEE; border: solid 1px #FFC92E; padding: 1em;&quot; valign=&quot;top&quot; |
+'''Frequency (''F''):''' Units: (1/s), hertz (Hz)&lt;br&gt;
+&lt;br&gt;
+'''Fundamental frequency, first harmonic (''F'')&lt;sub&gt;1&lt;/sub&gt;:''' The lowest frequency (longest wavelength) allowed for the system.&lt;br&gt;
+&lt;br&gt;
+'''Length of string (''L''):''' (or pipe, etc.) Units: meters (m).&lt;br&gt;
+&lt;br&gt;
+'''Wavelength (&amp;lambda;):''' Units: meters (m).
+|}
+
+The first overtone is the first ''allowed'' harmonic above the fundamental frequency (''F''&lt;sub&gt;1&lt;/sub&gt;).
+
+In the case of a system with two different ends (as in the case of a tube open at one end), the closed end is a node and the open end is an antinode.  The first resonant frequency has only a quarter of a wave in the tube.  This means that the '''first harmonic''' is characterized by a wavelength four times the length of the tube.
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;center&gt;&lt;big&gt;''' F&lt;sub&gt;1&lt;/sub&gt; = v/4L ''' &lt;/big&gt;&lt;/center&gt;
+|}
+	
+The '''wavelength''' of the first harmonic is equal to four times the'''length''' of the string.
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;center&gt;&lt;big&gt;''' &amp;lambda;&lt;sub&gt;1&lt;/sub&gt; = 4L ''' &lt;/big&gt;&lt;/center&gt;
+|}
+
+The '''&quot;nth&quot; wavelength''' is equal to the '''fundamental wavelength''' divided by '''n.'''
+	
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;center&gt;&lt;big&gt;''' &amp;lambda;&lt;sub&gt;n&lt;/sub&gt; = &amp;lambda;&lt;sub&gt;1&lt;/sub&gt;/n ''' &lt;/big&gt;&lt;/center&gt;
+|}
+Note that &quot;n&quot; must be odd in this case as only odd harmonics will resonate in this situation.
+
+'''Harmonics for a system with two different ends* '''
+
+{| BORDER CELLSPACING=&quot;2&quot; CELLPADDING=&quot;0&quot; WIDTH=&quot;450&quot;
+|-
+| &amp;nbsp; || &lt;b&gt;Harmonic number&lt;/b&gt; || &lt;b&gt;Overtone number&lt;/b&gt;
+| &lt;b&gt;F =&lt;/b&gt; || &lt;b&gt;&amp;lambda; =&lt;/b&gt;
+|-
+| &lt;b&gt;F&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt; || First harmonic
+| ---
+| F&lt;sub&gt;1&lt;/sub&gt; = v/4L || &amp;lambda;&lt;sub&gt;1&lt;/sub&gt; = 4L
+|-
+| &lt;b&gt;F&lt;sub&gt;2&lt;/sub&gt;&lt;/b&gt; || Third harmonic
+| First overtone || F&lt;sub&gt;2&lt;/sub&gt; = 3F&lt;sub&gt;1&lt;/sub&gt;
+| &amp;lambda;&lt;sub&gt;2&lt;/sub&gt; =2&amp;lambda;&lt;sub&gt;1&lt;/sub&gt;/3
+|-
+| &lt;b&gt;F&lt;sub&gt;3&lt;/sub&gt;&lt;/b&gt; || Fifth harmonic
+| Second overtone || F&lt;sub&gt;3&lt;/sub&gt; = 5F&lt;sub&gt;1&lt;/sub&gt;
+| &amp;lambda;&lt;sub&gt;3&lt;/sub&gt; = 2&amp;lambda;&lt;sub&gt;1&lt;/sub&gt;/5
+|-
+| &lt;b&gt;F&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt; || Nth harmonic&amp;dagger;
+| (Nth - 1)/2 overtone
+| F&lt;sub&gt;(n-1)/2&lt;/sub&gt; = nF&lt;sub&gt;1&lt;/sub&gt;
+| &amp;lambda;&lt;sub&gt;n&lt;/sub&gt; = &amp;lambda;&lt;sub&gt;1&lt;/sub&gt;/n
+|}
+&lt;small&gt;* such as a pipe with one end open and one end closed&lt;/small&gt;&lt;br&gt;
+&lt;small&gt;&amp;dagger;In this case only the odd harmonics resonate, so n is an odd integer.&lt;/small&gt;
+
+'''V&lt;sub&gt;s&lt;/sub&gt;: ''velocity of sound'''''&lt;br&gt;
+*dependant on qualities of the medium transmitting the sound, (the air) such as its density, temperature, and “springiness.” A complicated equation, we concentrate only on temperature.
+*increases as temperature increases (molecules move faster.)
+*is higher for liquids and solids than for gasses (molecules are closer together.)
+*for “room air” is 340 meters per second (m/s).
+*Speed of sound is 343 meters per second at 20 degrees C. Based on the material sound is passing through and the temperature, the speed of sound changes.
+
+
+[[Category:Physics Study Guide]]</text>
+      <sha1>0or2g5nhio2k47gq6qtzsq3fky7816i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Astronomy</title>
+    <ns>0</ns>
+    <id>1981</id>
+    <revision>
+      <id>2673280</id>
+      <parentid>2669650</parentid>
+      <timestamp>2014-06-14T17:53:20Z</timestamp>
+      <contributor>
+        <username>Zedshort</username>
+        <id>485854</id>
+      </contributor>
+      <comment>simplification</comment>
+      <text xml:space="preserve">Astronomy is the scientific study of the universe as a whole, and of celestial bodies and the underlying physics governing those bodies. It is, in a sense, one of the oldest of the natural sciences, having been practiced by even very ancient civilizations, but it is also among the most modernized of the sciences, having extensively exploited advances in technology. The progress of technology has dramatically improved our understanding of the universe, and revealed a richer tapestry than had ever been imagined. This Wikibook introduces the advanced secondary or beginning university student to that tapestry and the process that revealed it to humanity. It presents astronomy not only as a field of knowledge, but also as a human endeavor in science.
+
+==Table of Contents==
+[[Image: NGC_4414_(NASA-med).jpg|right|400px]]
+
+#[[/The Modern View of the Cosmos/]]
+##[[/The Big Picture/]]
+##[[/Short History of the Universe/]]
+##[[/Scientific Notation/]]
+##[[/The Scientific Method/]]
+##[[/What People do in Astronomy/]]
+##[[/Current Unsolved Mysteries/]]
+#[[/Observational Astronomy/]]
+##[[/The Celestial Sphere/]]
+##[[/Coordinate Systems/]]
+##[[/Phases of the Moon/]]
+##[[/Eclipses/]]
+##[[/Daily Motions/]]
+##[[/Yearly Motions/]]
+#[[/Motion and Gravity/]]
+##[[/The Early Origins of Astronomy/]]
+##[[/The First Physics|The First Physics (Aristotle)]]
+##[[/Apparent Motions of the Planets|Difficulties in the Geocentric Model]]
+##[[/The Heliocentric Model|The Heliocentric Model (Copernicus)]]
+##[[/New Ideas About Motion|New Ideas About Motion (Galileo)]]
+##[[/Kepler's Laws|Order in Planetary Orbits]]
+#Principles of Light
+##[[/Properties of Light and other Electromagnetic Radiation|What is Light?]]
+##[[/The Spectrum/]]
+##[[/Basic Astrophysics/]]
+##[[/Atomic Emission and Absorption/]]
+##[[/Molecular Emission and Absorption/]]
+##[[/Thermal Radiation/]]
+##[[/The Doppler Effect/]]
+#[[/Telescopes/]]
+##[[/Telescopes/Basic Optics|Basic Optics]]
+##[[/Telescopes/Optical Telescopes|Optical Telescopes]]
+##[[/Telescopes/Telescopes of Other Wavelengths|Telescopes of Other Wavelengths]]
+##[[/Telescopes/Neutrino Telescopes|Neutrino Telescopes]]
+##[[/Telescopes/Gravitational Wave Telescopes|Gravitational Wave Telescopes]]
+##[[/Telescopes/Other Observations|Other Observations]]
+#Planetary science
+##[[/The Terrestrial Planets/]]
+##[[/The Jovian Planets/]]
+##[[/Planetary Moons/]]
+##[[/Comets/]]
+##[[/Asteroids/]]
+##[[/Meteors and Meteorites/]]
+##[[/The Kuiper Belt/]]
+##[[/Extrasolar Planets/]]
+##[[/Formation of the Solar System/]]
+#Earth as a Planet
+##[[/Earth's Early Years/]]
+##[[/Formation of the Moon/]]
+##[[/The Biosphere/]]
+##[[/The Atmosphere/]]
+##[[/The Water Cycle/]]
+##[[/Earth/]]
+##[[/Earth's Moon/]]
+#Space Exploration
+##[[/First Steps into Space/]]
+##[[/The Apollo Missions/]]
+##[[/Pioneers and Voyagers/]]
+##[[/The Great Observatories/]]
+##[[/Major Future Missions/]]
+#Astrobiology and Extraterrestrial Life
+##[[/The Drake Equation/]]
+##[[/Organic Chemistry for Astronomy/]]
+##[[/Life in the Solar System/]]
+##[[/The Search for Extraterrestrial Intelligence/]]
+#[[/The Sun|The Sun]]
+##[[/Fusion in the Sun/]]
+##[[/Convective and Radiative Zones/]]
+##[[/The Photosphere/]]
+##[[/Solar Activity/]]
+##[[/Space Weather/]]
+##[[/Helioseismology/]]
+##[[/The Solar Cycle/]]
+#[[/Stars/Introduction|Stars]]
+##[[/Mass/]]
+##[[/Luminosity/]]
+##[[/Temperature/]]
+##[[/The H-R Diagram|The H-R Diagram]]
+##[[/Star Clusters as Cosmic Laboratories/]]
+#The Stellar Life Cycle
+##[[/Protostars and Stellar Nurseries/]]
+##[[/The Life of Low Mass Stars/]]
+##[[/The Death of Low Mass Stars/]]
+##[[/The Life of High Mass Stars/]]
+##[[/The Death of High Mass Stars/]]
+#[[/Black holes/Introduction|Black Holes]]
+##[[/Life of the Black Hole/]]
+##[[/Black Holes in Hiding/]]
+##[[/History of the Black Hole/]]
+##[[/The Theory of the Naked Singularity/]]
+##[[/Spaghettification/]]
+##[[/Black Holes/Hawking Radiation/]]
+#Galaxies
+##[[/The Milky Way/]]
+##[[/Types of Galaxies/]]
+##[[/Galactic Formation/]]
+##[[/Galactic Evolution/]]
+##[[/Supermassive Black Holes/]]
+##[[/Active Galactic Nuclei and Quasars/]]
+#Gamma-Ray Bursts and Cosmic Rays
+##[[/Introduction and Brief History of Gamma-Ray Bursts/]]
+##[[/Long-Soft and Short-Hard Classifications/]]
+##[[/Fluence and Extragalactic Nature/]]
+##[[/Sources of Gamma-Ray Bursts/]]
+##[[/Lingering Mysteries/]]
+#Cosmology
+##[[/The Distance Ladder/]]
+##[[/The Big Bang and Cosmic Expansion/]]
+##[[/The First Three Minutes/]]
+##[[/Higgs Boson/]]
+##[[/An Accelerating Universe/]]
+
+:[[/References|References]]
+:[[/Exercises/]]
+
+==Also on Wikimedia==
+{{Wikipedia|Portal:Astronomy}}
+{{wikiversity|Astronomy}}
+[[Main Page|Wikibooks]] is a Web site where this and other free textbooks are developed. In addition to this book, Wikibooks is the host of related textbook projects.
+*[[General Relativity]], an advanced undergraduate treatment of the principles of general relativity
+*[[Introduction to Astrophysics|Astrophysics]], a textbook for beginning students in physics and astronomy
+*[[Astrodynamics]], a look at the principles behind orbiting satellites
+*[[Wikijunior:Solar System]], a children's nonfiction book about the Solar System
+*[[Messier Index]], a list of all the deep-sky objects in the Messier Index.
+
+{{alphabetical|G}}
+{{Subjects|Astronomy}}
+{{status|50%}}
+__NOTOC__
+[[af:Sterrekunde]]
+[[nl:Kosmografie]]
+[[ja:天文学]]</text>
+      <sha1>66mlsly9ziq9gh3m6o0k59qb0w9l564</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Astronomy/The Solar System</title>
+    <ns>0</ns>
+    <id>1982</id>
+    <revision>
+      <id>2483275</id>
+      <parentid>2483235</parentid>
+      <timestamp>2013-01-31T18:49:51Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/50.81.97.24|50.81.97.24]] ([[User talk:50.81.97.24|talk]]) to last version by Jomegat</comment>
+      <text xml:space="preserve">[[General Astronomy]] &gt; The Solar System
+
+[[General Astronomy|&lt;&lt; Astronomy]] | [[../The Sun|The Sun &gt;&gt;]]
+
+'''The Solar System''' may be broadly defined as that portion of the universe under the gravitational influence of the Sun. This includes the Sun itself as well as all planets, moons, asteroids, comets, dust, and ice orbiting the Sun.
+
+The Solar System is an example of a [[../Star System|star system]], which is similarly defined as that portion of the universe under the gravitational influence of one or more co-orbiting stars. The Solar System is a unitary star system, as it has only one star (Sol, our Sun).
+
+== Components of the Solar System ==
+[[Image:Solar_planets.jpg|thumb|right|The Solar System]]
+The largest, most massive, and most prominent element of the Solar System is, of course, the Sun. The Sun makes up 99.8% of the mass of the Solar System. It is literally the point around which the entire Solar System turns. The Sun is virtually at the center of the Solar System; although gravity tugs by the planets may move the center of the System slightly away from the center of the Sun, it always resides deep within the Sun's core.
+
+The next largest objects in the Solar System are the planets. There are generally considered to be eight planets in the Solar System. They can be divided into two types: (1) the gas giant planets,which include Jupiter, Saturn, Uranus, and Neptune and (2) the terrestrial planets Mercury, Venus, Earth, and Mars. All eight planets orbit the Sun in elliptical, roughly circular orbits, in approximately the same plane. However, no planet orbits in exactly a circular orbit or exactly in the plane of the Sun's rotation. The orbit of Jupiter is the closest to the plane and circularity; the orbit of Pluto (a dwarf planet) deviates the most from both the plane and from circularity.
+
+After the eight major planets are the minor planets, asteroids and comets. Asteroids and comets are smaller objects than planets, but also orbit the Sun. Asteroids and comets are distinguished by their content: asteroids are primarily made up of rock, while comets are primarily made of ices and volatile compounds. 
+
+Minor planets may be found anywhere in the Solar System, in orbits varying from circular to highly elliptical. Most, however, are found in three belts. The [[../Main Asteroid Belt|main asteroid belt]] is found between the planets Mars and Jupiter. As the name implies, it is made almost entirely of asteroids. The [[../Kuiper Belt/]] is found outside the orbit of Neptune, and encompasses the area from 30 to 100 astronomical units from the Sun. The Kuiper belt contains mainly comets, including very large comet-like objects called cubewanos or plutinos. Some astronomers also consider Pluto to be part of the Kuiper belt. The [[../Oort Cloud/]] is another belt of comets, and is believed to extend out to approximately one light-year from the Sun. Its existence is deduced from the frequent visitation of long-period comets, comets with extremely elliptical or even hyperbolic orbits.
+
+==Arrangement of the Solar System==
+
+The Solar System may be divided by its components into three major regions: the inner system, the near outer system, and the far outer system. The near outer system might also be referred to as the middle system. The general term outer system refers to both the near and far outer systems.
+
+The inner system is composed of the Sun, the terrestrial planets and their moons, close-orbiting asteroids and comets, and the main asteroid belt. Objects in the inner system are almost exclusively composed of rock, with either no atmosphere or an atmosphere that composes little of the object's mass. The inner system's boundary is defined by the main asteroid belt, which separates it from the near outer system.
+
+The near outer system is composed of the gas giant planets and their moons, and asteroids and comets that orbit between the main asteroid belt and the Kuiper belt. Objects in the near outer system may have rock, liquid, gas, and ice as significant components. The near outer system's boundary is defined by the orbit of Neptune.
+
+The far outer system is composed of the ice planet Pluto, the Kuiper belt, the Oort Cloud, and comets that orbit between the belt and the cloud. Objects in the far outer system may have some rock components, but are mainly composed of ices.
+
+==Boundary of the Solar System==
+
+The boundary of the Solar System is defined in two ways. The gravitational boundary may be described as the point at which objects no longer orbit the Sun. This boundary includes the Oort Cloud, but is poorly defined, as an object is not compelled to orbit the Sun at any point. Another definition is to declare the heliopause as the boundary of the Solar System. This boundary is more easily detectable and definable, but resides well within the Oort Cloud.
+
+#[[../The Sun/]]
+#[[../The Planets/]]
+#[[../Asteroids and Comets/]] 
+#[[../History of the Solar System/]]
+----
+[[General Astronomy|&lt;&lt; Astronomy]] | The Solar System | [[../The Sun|The Sun &gt;&gt;]] | [[../Stars, Clusters and Nebulae|Stars, Clusters and Nebulae &gt;&gt;]]
+
+{{BookCat}}</text>
+      <sha1>3vs0a10oet23r8kjo1gcuoggouz22t4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

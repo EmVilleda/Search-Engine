@@ -1,0 +1,1565 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Programming</title>
+    <ns>0</ns>
+    <id>2190</id>
+    <redirect title="Subject:Computer programming" />
+    <revision>
+      <id>1526052</id>
+      <parentid>1360659</parentid>
+      <timestamp>2009-06-09T15:09:22Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>Fixed double redirect.</comment>
+      <text xml:space="preserve">#redirect [[Subject:Computer programming]]</text>
+      <sha1>9a7wnvm8hoddb8z893ut3ojb37le4pt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Introduction</title>
+    <ns>0</ns>
+    <id>2195</id>
+    <revision>
+      <id>2622942</id>
+      <parentid>1625701</parentid>
+      <timestamp>2014-03-30T14:44:27Z</timestamp>
+      <contributor>
+        <username>Wasdichsoveraenderthat</username>
+        <id>1488956</id>
+      </contributor>
+      <text xml:space="preserve">==Standards==
+This book is intended to cover science as taught in schools to 14 - 16 year old pupils. It is called GCSE science because the first draft is intended to cover the GCSE (General Certificate of Secondary Education) standard as taught in schools in the UK, but generally in Scotland. Having said that if you are not in the UK and wish to include material to bring it up to another ''similar'' standard feel free to do so. (Note: It would be appreciated if you could use the ''British'' way of spelling words (e.g. colo'''u'''r)!
+
+==Additional resources==
+There will be teacher notes added in time with worksheets, experiments and additional questions. There will also be a study help desk set up so that students can ask questions.
+
+==Contributing to this book==
+If you spot any errors in the texts, just go ahead and edit them out (click the link that says edit this page and start typing). If you wish to help writing any of the modules, either click on any red module and start typing, or if you need help drop me a line on my talk page [[User:Theresa knott|Theresa knott]]
+
+==Authors==
+Add your name to this section if you have contributed ''content'' to this book (i.e. not copyediting).
+
+* [[User:Theresa knott|Theresa Knott]] first draft of [[GCSE Science/Electricity|electricity module]]
+* [[User:bodil|Bodil]]
+* [[User:Wykis|Wykis]], adding different content (mostly writing not started articles, based on Wikipedia)
+* [[User:Andy1066|Andy]], adding content on Global Warming
+----
+[[GCSE Science/Contents|Go to contents &gt;&gt;]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>cqcuky08fsbx7i7zjcjvnl4fs5akqn6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Internet Technologies/Protocols</title>
+    <ns>0</ns>
+    <id>2197</id>
+    <revision>
+      <id>2546353</id>
+      <parentid>2546352</parentid>
+      <timestamp>2013-07-30T13:56:43Z</timestamp>
+      <contributor>
+        <username>Maximillion Pegasus</username>
+        <id>90828</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/164.53.218.20|164.53.218.20]] ([[User talk:164.53.218.20|talk]]) to last version by DavidCary</comment>
+      <text xml:space="preserve">In networking, a communications protocol or network protocol is the specification of a set of rules for a particular type of communication. 
+
+Different protocols often describe different aspects of a single communication; taken together, these form a protocol stack. The terms &quot;protocol&quot; and &quot;protocol stack&quot; also refer to the software that implements a protocol. 
+
+Most recent protocols are assigned by the IETF for internet communications, and the IEEE, or the ISO organizations for other types. The ITU-T handles telecommunications protocols and formats. 
+
+Index page for network protocols and protocol layers, categorised by the nearest matching layers of the OSI seven layer model. 
+
+Systems engineering principles have been applied to design network protocols.
+
+===Common Internet protocols===
+Common Internet protocols include TCP/IP (Transmission Control Protocol/Internet Protocol), UDP/IP (User Datagram Protocol/Internet Protocol), HTTP (HyperText Transfer Protocol) and FTP (File Transfer Protocol).
+
+;TCP/IP : TCP/IP is a stream protocol. This means that a connection is negiotated between a client and a server. Any data transmitted between these two endpoints is guaranteed to arrive, thus it is a so-called lossless protocol. Since the TCP protocol (as it is also refered to in short form) can only connect two endpoints, it is also called a peer-to-peer protocol. 
+
+;HTTP : HTTP is the protocol used to transmit all data present on the World Wide Web. This includes text, multimedia and graphics. It is the protocol used to transmit HTML, the language that makes all the fancy decorations in your browser. It works upon TCP/IP.
+
+;FTP : FTP is the protocol used to transmit files between computers connected to each other by a TCP/IP network, such as the Internet.
+
+== See also ==
+* [[Finding Your IP Address]]
+* [[Embedded Systems/Common Protocols]]
+
+
+[[Category:Internet Technologies]]</text>
+      <sha1>e3ufqxs40ogkdkd8moens32aijru37d</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Internet Technologies/Proxy servers</title>
+    <ns>0</ns>
+    <id>2198</id>
+    <revision>
+      <id>1280215</id>
+      <parentid>1149492</parentid>
+      <timestamp>2008-09-18T09:25:38Z</timestamp>
+      <contributor>
+        <username>Dan Polansky</username>
+        <id>78491</id>
+      </contributor>
+      <comment>Book cat</comment>
+      <text xml:space="preserve">Proxy servers provide a cache of items available on other servers which are presumably slower, more expensive to access or unavailable from the local network. 
+
+The process of proxying a network through a single host on another network is called network masquerading or IP-masquerading if the source and target networks use the Internet Protocol.
+
+This term is used particularly for a World Wide Web server which accepts URLs with a special prefix. When it receives a request for such a URL, it strips off the prefix and looks for the resulting URL in its local cache. If found, it returns the document immediately, otherwise it fetches it from the remote server, saves a copy in the cache and returns it to the requester. The cache will usually have an expiry algorithm which flushes documents according to their age, size, and access history. 
+
+The Squid cache is the popular http proxy server in UNIX/Linux world. However, Apache's mod_proxy module also provides proxying and caching capabilities, and has the advantage of already being installed on nearly all systems.
+
+[[Category:Internet Technologies]]</text>
+      <sha1>in4b6kw5lbqbb1tebl7j0ylqs7gp9e0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:What is Wikibooks</title>
+    <ns>4</ns>
+    <id>2210</id>
+    <revision>
+      <id>2694747</id>
+      <parentid>2694726</parentid>
+      <timestamp>2014-08-26T10:30:53Z</timestamp>
+      <contributor>
+        <username>Pi zero</username>
+        <id>75960</id>
+      </contributor>
+      <comment>seems needed to me - first clause says Wikibooks is not an encyclopedia, second says pages are not encyclopedic articles</comment>
+      <text xml:space="preserve">{{Displaytitle|2=Wikibooks:What is Wikibooks?}}
+{{policy|WB:WIW}}
+{{branch unstable}}
+ 
+This page attempts to define what Wikibooks is, what it is not, and what distinguishes it from other Wikimedia projects. The descriptions on this page are relatively '''brief'''. Detailed discussion or debate should happen on the talk page.
+
+== What is Wikibooks ==
+Simply, '''Wikibooks''' is a collection of [[w:open content|open-content]] [[w:textbooks|textbooks]].
+
+Because the word '''textbook''' is open to interpretation, this document exists to help clarify which types of content are acceptable for Wikibooks. For example, ''The Complete Works of Shakespeare'' might be considered a ''textbook'' in an English Literature course, but such a text would be inappropriate for this site.
+
+=== What Wikibooks includes ===
+
+Wikibooks is for textbooks, annotated texts, instructional guides, and manuals. These materials can be used in a traditional classroom, an accredited or respected institution, a home-school environment, as part of a [[v:Main Page|Wikiversity]] course or for self-learning. As a general rule only instructional books are suitable for inclusion. Most types of books, both fiction and non-fiction, are not allowed on Wikibooks, unless they are instructional. The use of literary elements, such as allegory or fables as instructional tools can be permitted in some situations.
+
+Wikibooks includes [[Wikibooks:Incubator|both minor and major book-like projects]].
+
+Materials which may not be appropriate for Wikibooks should only be removed in accordance with the [[WB:DP|deletion policy]].
+
+=== Wikibooks includes annotated texts ===
+{{Main|Wikibooks:Annotated texts}}
+
+Although we do not permit verbatim copies of pre-existing works, we do permit [[Wikibooks:Annotated texts|annotated texts]], which are a kind of text that includes an original text within it and serves as a guide to reading or studying that text. Annotated editions of previously published source texts may only be written if the source text is compatible with the [[Wikibooks:Copyrights|project's license]].
+
+As a point of overlap between the two projects, [[Wikisource:Main Page|Wikisource]] also allows the inclusion of annotated texts. If you would like to write an annotated text with sparse annotations, or a critical edition of a text, consider hosting your work on Wikisource instead.
+
+== What Wikibooks is not ==
+{{shortcut|WB:WIN|WB:NOT}}
+Below is a list of things that '''Wikibooks is not'''.  Keeping this list in mind while editing will help us stay on task.
+
+=== Wikibooks is not a free wiki host or webspace provider ===
+{{shortcut|WB:HOST}}
+You may not host your own website, blog, or wiki at Wikibooks. If you are interested in using the [[w:wiki|wiki technology]] for a collaborative effort on something else, even if it is just a single page, there are many sites that provide wiki hosting (free or for money).  You can also [http://wikipedia.sourceforge.net/ install wiki software] on your own server. (See the [[mw:Manual:Installation guide|MediaWiki installation guide]] for information on doing this.)
+
+'''Wikibooks pages are not personal homepages.''' Wikibookians have their own personal pages, but they are used for information relevant to working on free textbooks and other content on Wikibooks. If you are looking to make a personal webpage unrelated to textbook work (e.g. posting your résumé), please make use of one of the many free homepage providers on the Internet.
+
+=== Wikibooks is not a soapbox ===
+{{shortcut|WB:SOAP|WB:BLOG}}
+Wikibooks is not a soapbox, or a vehicle for propaganda and advertising. Therefore, Wikibooks modules are not:
+#'''[[w:propaganda|propaganda]] or [[w:advocacy|advocacy]]''' of any kind.  Wikibooks modules must always adhere to the [[Wikibooks:Neutral point of view|neutral point of view]].  You might wish to go to [[w:Usenet|Usenet]] or start your own [[w:blog|blog]] if you want to convince people of the merits of your favourite views.
+# '''personal essays''' that state your particular opinions about a topic.  Wikibooks is not a vehicle to make personal opinions become part of human knowledge. 
+# '''[[w:advertising|advertising]] or self-promotion'''.  We don't need books or modules on items just because a contributor is associated with them.  Please note that Wikibooks does not endorse any business and it does not set up affiliate programs.
+
+=== Wikibooks is not a mirror or a text repository{{anchor|NOR}}===
+{{shortcut|WB:NOR|WB:OR|WB:SOURCE}}
+{{Main|Wikibooks:Annotated texts}}
+
+#'''Fiction or literature''' &amp;mdash; Wikibooks does not allow original fiction or literature. One place to write original fiction is [[wikia:fiction|Fiction Wikia]].
+#'''Primary research''' &amp;mdash; Wikibooks is not a place to publish primary research.  Examples of things not allowed on Wikibooks include proposing new theories and solutions, presenting original ideas, defining new terms, and coining new words.  In short, primary research should be published elsewhere, such as a peer-reviewed journal, or our sister project [[v:Wikiversity:What is Wikiversity?#Wikiversity for researching|Wikiversity]].
+#'''Published texts''' &amp;mdash; Wikibooks is for collaboratively developing new open-context non-fiction texts. [[:wikisource:|Wikisource]] is for hosting static texts that have been previously published and are now either in the public domain or have been released under a compatible license. Exceptions are made for [[Wikibooks:Annotated texts|annotated texts]], which are a kind of '''educational material''' that ''includes'' an original text within it and serves as a guide to reading or studying that text.
+
+=== Wikibooks is not paper ===
+{{shortcut|WB:NOTPAPER}}
+[[m:Wiki is not paper|Wikibooks is '''not paper''']]. Thus, Wikibooks has no size limits, can include links, etc. It also means that the style and length of writing appropriate for paper may not be appropriate here.  The authors of a Wikibook module don't worry about an event occurring tomorrow that makes all the large, expensive paper copies outdated, as the Wikibook will change as well.
+
+=== Wikibooks is not an encyclopedia ===
+{{shortcut|WB:NOTWP|WB:NOTWIKIPEDIA}}
+'''Wikibooks is not an in-depth encyclopedia on a specific topic''' nor are pages '''encyclopedia-formatted articles'''. Books build knowledge from one page to the next with inter-dependency between pages. Books in progress are sometimes organized in an encyclopedic manner until developed into proper books. For an encyclopedia, see our sister project [[w:|Wikipedia]].
+
+=== Wikibooks is not a news service ===
+{{shortcut|WB:NEWS}}
+Wikibooks is not the place to publish news articles.  That is covered by our sister project [[:Wikinews:|Wikinews]].
+
+=== Wikibooks is not a dictionary ===
+{{shortcut|WB:DICT}}
+Although a [[wikt:dictionary|dictionary]] is a book, the needs of a general-purpose dictionary are better served at our sister project, [[wikt:Main Page|Wiktionary]]. Also:
+#'''Wikibooks is not a [[wikt:thesaurus|thesaurus]].''' There is a thesaurus project at [[wikt:Wiktionary:Wikisaurus|Wiktionary:Wikisaurus]]. Books that only give lists of synonyms or slang should be deleted from Wikibooks.
+#'''Exception:''' Wikibooks does allow and encourage projects that require supplemental dictionaries or thesauri, such as a [[wikt:glossary|glossary]]. For example, a mathematical textbook might need a glossary of math terms; a foreign language textbook might include an English-to-foreign and foreign-to-English dictionary. For these dictionaries and thesauri to remain, they must be [[wikt:secondary|secondary]] and [[wikt:auxiliary|auxiliary]] to a main text.
+
+=== Wikibooks is not for developing new Wikimedia projects ===
+{{shortcut|WB:NOTMETA}}
+[[m:Proposals for new projects|New Wikimedia projects]] should be proposed at [[m:|Meta-Wiki]] and not developed at Wikibooks.
+
+=== Wikibooks is not censored for the protection of minors ===
+{{shortcut|WB:CENSOR}}
+Wikibooks is '''not [[w:censorship|censored]] for the 'protection of minors'''' ([[w:MPAA film rating system|content-rated]]). First, anyone can edit a [[WB:MODULE|module]] and the results are displayed instantaneously, so we cannot guarantee that a child will see or read nothing their parents may find objectionable.  Second, Wikibooks has no organized system for the removal of material that might be thought likely to harm minors. However, modules can be, and are, censored by consensus.
+
+It is important to note that content that would typically be considered offensive is usually a violation of one or more of the previously mentioned policies or contains copyrighted content which is removed from this project without regards to its social value.  Random defacement of pages and adding profanity is usually considered an act of vandalism and removed quickly without any formal community discussion taking place.  Unfortunately you might just be viewing some page on Wikibooks immediately after this offensive content was added, and although we try very hard to clean up stuff like this as quickly as we can, we do miss some stuff every once in a while.
+
+Pages have &quot;flagged revisions&quot; which have been validated by users to be of at least minimal quality.  If set in [[Special:Preferences]] for a user, choosing to view only the stable version of pages will often provide a reading experience that is free of vandalism.
+
+=== Wikibooks is not for video game strategy guides ===
+{{shortcut|WB:GUIDE}}
+Wikibooks is not for video game strategy guides and walk-throughs.  Walk-throughs and strategy guides for video games are not acceptable instructional materials for, and do not belong on Wikibooks.  However, other books about video games, such as scholarly analysis of video games or guides on the design of video games, are allowed here.  One place for writing strategy guides is [[Strategywiki:|StrategyWiki]].
+
+== Further reading ==
+* [[Wikibooks:What is Wikijunior|What is Wikijunior?]] &amp;mdash; our policy on material that is part of [[Wikijunior]]
+* [[Wikibooks:Copyrights]] &amp;mdash; our policy on copyrighted material
+
+=== Similar pages on other projects ===
+* [[Wikiversity:What is Wikiversity?|What is Wikiversity?]]
+* [[Wikiversity:What Wikiversity is not|What Wikiversity is not]]
+* [[Wikinews:Wikinews:What Wikinews is|What Wikinews is]]
+* [[Wikinews:Wikinews:What Wikinews is not|What Wikinews is not]]
+* [[Wikisource:Wikisource:What is Wikisource?|What is Wikisource?]]
+* [[Wiktionary:Wiktionary:What Wiktionary is not|What Wiktionary is not]]
+* [[Wikipedia:Wikipedia:What Wikipedia is not|What Wikipedia is not]]
+
+
+{{Wikibooks policies and guidelines}}
+
+[[de:Hilfe:Was Wikibooks ist]]
+[[es:Wikibooks:Lo que Wikilibros no es]]
+[[fa:ویکی‌نسک:ویکی‌نسک چیست]]
+[[hy:Վիքիգրքեր:Ինչ է Վիքիգրքերը]]
+[[it:Wikibooks:Cosa mettere su Wikibooks]]
+[[ja:Wikibooks:ウィキブックスは何でないか]]
+[[ko:Wikibooks:위키책에서 착각하는 점]]
+[[ms:Wikibooks:Apa itu Wikibooks]]
+[[nl:Wikibooks:Wat Wikibooks niet is]]
+[[no:Wikibøker:Hva er Wikibøker]]
+[[pl:Wikibooks:Czym jest Wikibooks]]
+[[ta:விக்கிநூல்கள்:விக்கிநூல்கள் என்றால் என்ன?]]
+[[pt:Wikibooks:O que não somos]]
+[[th:Wikibooks:วิกิตำราคืออะไร]]
+[[zh:Wikibooks:维基教科书是什么]]</text>
+      <sha1>5hm9ml3b9gzhf9mejbpifrs0f00dw3v</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Polish/Order of words in a sentence</title>
+    <ns>0</ns>
+    <id>2230</id>
+    <revision>
+      <id>1303786</id>
+      <parentid>1303785</parentid>
+      <timestamp>2008-10-09T23:44:59Z</timestamp>
+      <contributor>
+        <ip>72.135.106.35</ip>
+      </contributor>
+      <text xml:space="preserve">[[Polish:More on nouns - genders|&lt; More on nouns - genders &lt;]] [[Basic Polish language course|^ Polish ^]] [[Polish:Plural|&gt; Plural &gt;]]
+----
+In Polish it is possible to move words around in the sentence, and to drop subject or object if they are obvious from context.
+These sentences mean basically the same &quot;Henia has a cat&quot;, although they are used in different contexts:
+* Henia ma kota (simple statement)
+* Henia kota ma (It's a cat Henia has)
+* Kota ma Henia (It's Henia who has a cat)
+* Ma Henia kota 
+* Kota Henia ma (the action &quot;has&quot; is emphasized)
+* Ma kota Henia 
+
+Use the first word order, unless emphasizing something.
+
+If apparent from the context, you can drop the subject, object or even the verb:
+* Ma kota - can be used if it's obvious who is being talked about
+* Ma - answer for &quot;Czy Henia ma kota ?&quot; (Does Henia have a cat?)
+* Henia - answer for &quot;Kto ma kota ?&quot; (Who has a cat?)
+* Kota - answer for &quot;Co ma Henia?&quot; (What does Henia have?)
+* Henia ma - this sounds least natural. There is a tendency in Polish to drop the subject rather than the object and rarely you know the object but not the subject. If the question was &quot;Kto ma kota ?&quot; (who has a cat ?), the answer should be &quot;Henia&quot; alone, without a verb.
+
+In particular, &quot;ja&quot; and &quot;ty&quot;, and also their plural equivalents &quot;my&quot; and &quot;wy&quot;, are almost always dropped.
+----
+[[Polish:More on nouns - genders|&lt; More on nouns - genders &lt;]] [[Basic Polish language course|^ Polish ^]] [[Polish:Plural|&gt; Plural &gt;]]
+
+[[Category:Polish]]</text>
+      <sha1>sfcs28eqq49fyw3g5dnv989ga3nnad9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Gallery of Biologists</title>
+    <ns>0</ns>
+    <id>2265</id>
+    <revision>
+      <id>1463893</id>
+      <parentid>988648</parentid>
+      <timestamp>2009-04-10T00:05:11Z</timestamp>
+      <contributor>
+        <username>NipplesMeCool</username>
+        <id>165905</id>
+      </contributor>
+      <minor />
+      <comment>rm alphabetical</comment>
+      <text xml:space="preserve">*[[w:Francis Crick|Francis Crick]] ''chemist and molecular biologist, discovered structure of DNA molecule''
+*[[General Biology/Gallery of Biologists/Charles Darwin|Charles Darwin]] ''the father of the science of evolutionary biology''
+*[[w:Richard Dawkins|Richard Dawkins]] ''zoologist and biology populariser''
+*[[w:Stephen Jay Gould|Stephen Jay Gould]] ''paleontologist and science populariser''
+*[[w:J.B.S. Haldane|J.B.S. Haldane]] ''geneticist and evolutionary biologist, founded population genetics and the modern synthesis''
+*[[w:William Hamilton|Bill Hamilton]] ''formulated theory of inclusive fitness and kin selection''
+*[[w:Thomas Huxley|Thomas Huxley]] ''&quot;Darwin's Bulldog&quot;, early evolutionary biologist and science populariser''
+*[[w:Lynn Margulis|Lynn Margulis]] ''introduced the theory of eukaryotic cell origin through endosymbiosis''
+*[[w:Barbara McClintock|Barbara McClintock]] ''geneticist and molecular biologist, discovered transposons''
+*[[w:Gregor Mendel|Gregor Mendel]] ''discovered the basic rules of heredity''
+*[[w:Ernst Mayr|Ernst Mayr]] ''evolutionary biologist and science populariser''
+*[[w:Mark Ridley|Mark Ridley]] ''science populariser''
+*[[w:Fred Sanger|Fred Sanger]] ''founder of DNA and protein sequencing techniques''
+*[[w:John Maynard Smith|John Maynard Smith]] ''evolutionary biologist and science populariser''
+*[[w:Alfred Russel Wallace|Alfred Russel Wallace]] ''evolutionary biologist''
+*[[w:James Watson|James Watson]] ''molecular biologist, discovered structure of DNA molecule''
+*[[w:Edward O. Wilson|Edward Wilson]] ''founded &quot;sociobiology&quot;''
+
+This book is intended as a compilation of biographies describing the lives and work of influential biologists.
+
+== External Links ==
+*[http://wiki.cotch.net/index.php/List_of_biologists EvoWiki: List of Biologists]
+
+
+{{BookCat}}</text>
+      <sha1>0c3hr6kp9v0x3m49oeurifzjzzbyfpn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Tissues and Systems/Digestive System</title>
+    <ns>0</ns>
+    <id>2266</id>
+    <revision>
+      <id>2015941</id>
+      <parentid>2015940</parentid>
+      <timestamp>2011-01-12T12:51:42Z</timestamp>
+      <contributor>
+        <username>Sam Stultus</username>
+        <id>417940</id>
+      </contributor>
+      <minor />
+      <comment>/* Vertebrate digestive system */</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+=Vertebrate digestive system =
+&lt;br&gt;Functions to break down food into molecules small enough to absorb, or pass across digestive membrane.
+
+'''Digestive tract''': tube extending from lips of mouth to anus or
+cloacae in bird, reptile or monotreme.
+
+'''Lumanal glands''': empty into inner body cavity (lumen: inner surface).
+
+Tract divided into three main regions:
+&lt;br&gt;1. buccal cavity
+&lt;br&gt;2. pharynx&amp;nbsp;
+&lt;br&gt;3. alimentary canal
+
+Alimentary canal divided into four regions:
+&lt;br&gt;1. esophagus
+&lt;br&gt;2. stomach
+&lt;br&gt;3. small intestine&amp;nbsp;
+&lt;br&gt;4. large intestine
+
+'''Accessory digestive glands''', outside digestive tract proper, secrete
+into lumen of tract through ducts. Includes the '''salivary glands''', '''liver'''
+and '''pancreas'''.
+
+'''Buccal cavity''', which includes '''palate''' and '''tongue''',
+develops from infolding of '''stomadeum''', or second opening of blastula,
+whereas the rest of the digestive tract develops from the '''primitive
+gut'''.
+
+'''Teeth''': capture and hold prey. In mammals in particular further
+process and break down food into small particles, increasing surface area available for enzymatic action.
+
+'''Tooth anatomy''':
+&lt;br&gt;1. '''crown''' projects above gum,
+&lt;br&gt;2. '''root''' below gum,
+&lt;br&gt;3. '''enamel''' is outer coating of crown, hardest surface in body,
+of epideral origin
+&lt;br&gt;4. '''dentin''', below enamel, bone-like and forms bulk of tooth,
+is harder than bone and contains nerves and blood vessels. (Remember that mammals are '''heterodontic''', with different types of teeth).
+
+'''Pharynx''': air passage for adult, gill slits in embryo. Important
+in lower vertebrates, site of gills. Features derived from '''pharyngeal'''
+region: first pharyngeal pouch gives rise to parts of the ear, other pouches
+give rise to various other structures.
+
+'''Alimentary canal''': epithelium lines lumen, glands secrete into
+lumen, longitudinal and circular muscles help digestive movements ('''peristalsis''').
+
+'''Esophagus''': tube carries food from mouth to stomach. Expands to
+fit large '''bolus''' (lump of chewed food). Secretes mucus for lubrication.
+Birds have '''crop''' for storage, enlargement of esophagus.
+
+'''Epiglottis''': keeps food out of air tube, an evolutionary “kludge,”
+or fix.
+
+'''Stomach'''. Absorbs water, alcohol, nutrients, uses gastric juice
+with enzymes, mucous, HCl, released by '''chief''' and '''parietal cells'''
+(release protein enzymes) in gastric pits. '''Rugae''': folds of stomach,
+disappear when full. '''Sphincter''' at both ends of stomach, control
+food passage.
+
+'''Chyme''': semi-digested food released to small intestine.
+
+'''Small intestine''': three regions, '''duodenum''', '''jejunum''',
+and '''ileum'''.
+
+'''Duodenum''' site of most intestinal digestion. '''Jejunum''' and
+'''ileum''' do most of intestinal absorption. Ileum ends with another
+sphincter, '''ileocolic valve''' or ileosecal valve. Structure: Circular
+folds covered with '''villi''' (singular is villus).
+
+'''Villi''': finger-like cellular projections, covered with '''microvilli''',
+tiny projections which increase surface area. Increases surface area by
+900x, speeds '''digestion''' (break down) and '''absorption''' (taking
+in nutrients).
+
+'''Large intestine''': larger diameter, shorter length than small intestine.
+No villi. In mammals, forms large gentle loop, colon, empties into straight
+region, rectum, empties into outside world through anal sphincter. Colon:
+absorbs water left over, also absorbs vitamins released by bacteria which
+live there (vitamin K).
+
+'''Food''': made up of 1. '''proteins''', 2. '''fats''', 3. '''carbohydrates''' 4. '''fibrous material'''.
+
+Digestive system breaks foods down. '''Proteins''' must be broken to
+'''amino acids''' to be absorbed. '''Polysaccharides''' to '''monosaccharides''',
+'''lipids''' to '''fatty acids''' and '''monoglycerides''' to absorb.
+
+'''Salivary glands''' in mouth, saliva contains mucous, salt and a
+few enzymes (amalase, begins starch breakdown). Snake venom from oral gland,
+mixture of toxins and digestive enzymes. Breaks down blood vessels and
+disables nervous system.
+
+'''Stomach enzymes''': released in inactive form, '''zymogene''',
+converts to active form in lumen of gut. Transformation is triggered by
+another enzyme, or the stomach’s low pH. '''Pepsin''' secreted as '''pepsinogen'''
+(-ogen means primitive form). Stomach glands secrete up to two or three
+liters a day of gastric juice, which is reabsorbed.
+
+'''Chyme''' released to '''duodenum'''.
+
+'''Small intestine''' has two major accessory glands:
+&lt;br&gt;1. '''pancreas'''
+&lt;br&gt;2. '''liver'''
+
+'''Pancreas''' has ''' endocrine''' and '''exocrine''' functions, releases
+large amounts of carbonate to neutralize acidic chyme, as intestinal enzymes
+work in neutral pH, and stuff to break down lipids and starch (zymogens,
+like tripsin)
+
+'''Liver''' releases '''bile'''. Bile made from cholesterol, stored
+in '''gall bladder''', released in duodenum, emulsifies fats.''''''
+
+'''Emulsify''': keeps fats in tiny drops, which are suspended, increasing
+surface area and action of lipases. Protein and carbohydrates absorbed in intestine,
+taken to liver for processing. Fatty acids go to lymphatic system
+
+'''Appendix''': vestigial remnant. Much variation in digestive systems
+within mammals: herbivore, carnivore, insectivore, non-ruminant herbivore.
+
+'''Rumen''': four-chambered stomach of animals like cows (ruminant
+herbivores). Cellulose resistant to digestion, rely on microorganisms to
+break down cellulose. Some bacteria, protists and fungi can break down
+cellulose, almost no animals can. Bacteria break down cellulose in rumen,
+to be taken back to the mouth to chew their cud (ruminate). Later cow swallows
+to proceed with digestion. (Horses not like this).
+
+'''Coprophagy''': rabbits and other animals eat their own feces for the nutritious
+products of the cecum.</text>
+      <sha1>idbzfllbwtar26iv2pwsv9cm7szk8n9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Tissues and Systems/Circulatory System</title>
+    <ns>0</ns>
+    <id>2267</id>
+    <revision>
+      <id>2066262</id>
+      <parentid>2015943</parentid>
+      <timestamp>2011-03-06T04:50:28Z</timestamp>
+      <contributor>
+        <username>Avicennasis</username>
+        <id>314063</id>
+      </contributor>
+      <minor />
+      <comment>[[WP:AWB/T|Typo fixing]], typos fixed: etc) → etc.) using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+=Circulatory system=
+
+'''Circulatory system functions'''
+
+1. '''Transportation'''&lt;br&gt;
+  a. Respiration: gas exchange (O2 and CO2), overcomes limited rate of
+diffusion&lt;br&gt;
+  b. Nutrition:&lt;br&gt;
+  c. Excretory: (remove metabolic wastes)&lt;br&gt;
+2. '''Regulation'''&lt;br&gt;
+  a. Transport hormones&lt;br&gt;
+  b. Regulate body temperature&lt;br&gt;
+  c. Protection&lt;br&gt;
+     i.  Blood clotting&lt;br&gt;
+     ii.  Immune system (carries white blood cells)
+
+'''Vasodilation''': allows heat loss across epidermis, as seen in elephant
+ears, takes more blood to surface of body, sweating may accompany
+
+'''Countercurrent heat exchange''': used by dolphins in fins to conserve
+heat in cold water. Veins surround an artery, and blood returning to body
+absorbs heat from blood traveling out from body to fin, minimizing heat
+loss. Used by dogs in feet, etc.
+
+Blood made of
+&lt;br&gt;1. '''plasma''' and
+&lt;br&gt;2. '''formed cellular elements''' (red and white blood cells, and
+platelets).
+
+Plasma makes up 55% of blood volume.  Cellular elements make up the other 45%.
+
+'''Plasma makeup''': 90% water, 7-8% soluble proteins ('''albumin'''
+maintains blood osmotic integrity, others clot, etc.) 1% electrolytes 1%
+elements in transit
+
+'''Red blood cell''' ('''erythrocyte'''): contains '''hemoglobin''',
+functions in oxygen transport. In mammals, red blood cells lose nuclei
+on maturation, and take on biconcave, dimpled, shape. No self repair, live
+120 days. About 1000x more red blood cells than white blood cells. About
+7-8 micrometers in diameter.
+
+'''Hematocrit''': proportion of blood volume that is occupied by cells, about
+43% in humans on average.  48% for men and 38% for women.
+
+'''White blood cells''' ('''leukocytes'''): Nucleated, about 10-14
+micrometers in diameter, commonly amoeboid, escape circulatory system in
+capillary beds. Include basophils, eosinophils, neutrophils, monocytes,
+B- and T-cell lymphocytes.
+
+'''Platelets''' ('''thrombocytes''') Membrane bound cell fragments in mammals, no nucleus.
+In non-mammals, platelet role replaced by nucleated cells. Accumulate at
+site of broken blood vessels, form clots. Bud off special cells in bone
+marrow. 1-2 micrometers in diameter. 7-8 day life span, 1/10 or 1/20 as
+abundant as white blood cells.
+
+'''Arteries''': carry blood '''away''' from heart. Smallest tubes
+called '''arterioles''', feed blood to capillaries.
+
+'''Veins''': return blood to heart. Smallest veins called '''venules'''.
+
+Structure of arteries and veins, listed from inside (lumen) out:
+&lt;br&gt;1. '''epithelium''' (endothelium),
+&lt;br&gt;2. '''elastic connective tissue fibers''',
+&lt;br&gt;3. '''smooth muscle''',
+&lt;br&gt;4. '''connective tissue'''. Arteries have thicker elastic layer than
+do veins.
+
+'''Capillaries''', where exchange of materials occurs, are very thin
+and narrow, and red blood cells pass through single file. Capillaries are
+tiny but numerous, and their total volume is greater than that of supplying
+arteries.
+
+Blood velocity drops in capillaries, picks back up in veins. Pressure
+highest in arteries, lower in capillaries and arteries.
+
+Osmotic pressure draws interstitial fluid from blood in arterioles,
+but replaces it in venules.
+
+'''One-way valves''' mean that blood can flow only one way, works with
+residual blood pressure and compression by skeletal muscles. Low pressure
+in thoracic cavity caused by breathing also helps move blood.
+{{GenBioTOC2}}</text>
+      <sha1>n32alm4k0lxjbhm80h6ms63umdcy6mc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Tissues and Systems/Lymphatic System</title>
+    <ns>0</ns>
+    <id>2268</id>
+    <revision>
+      <id>2066261</id>
+      <parentid>2015945</parentid>
+      <timestamp>2011-03-06T04:50:20Z</timestamp>
+      <contributor>
+        <username>Avicennasis</username>
+        <id>314063</id>
+      </contributor>
+      <minor />
+      <comment>[[WP:AWB/T|Typo fixing]], typos fixed: rythmicity → rhythmicity using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+'''Lymphatic system''': part of the immune system, a one-way, or '''open''', system. Takes up '''interstitial fluid''' not taken up by venules.
+
+'''Lymphatic structures''':&lt;br&gt;
+1. lymphatic '''capillaries'''&lt;br&gt;
+2. lymphatic '''vesicles'''&lt;br&gt;
+3. '''lymph nodes'''&lt;br&gt;
+4. lymphatic '''organs''' ('''spleen''' and '''thymus''')
+
+'''Lymph''': movement in mammals through one-way valves, similar to blood movement in veins. (Some non-mammals have lymphatic hearts of unknown embryonic origin. Frogs and salamanders have several.) Lymph rejoins cardiovascular system into a large vein near the heart via single large thoracic duct.
+
+As lymph passes through system, passes '''lymphocytes''', second part of immune system.
+
+'''Heart''': pumps blood, design varies between animals. In adult mammal,four chambers form two separate circulations&lt;br&gt;
+1. '''pulmonary circulation''' to and from lungs and&lt;br&gt;
+2. '''systemic circulation''' to and from tissues of body.
+
+Everything in the heart comes in pairs: 2 atria, 2 ventricles (left and right).
+
+Diagrams usually drawn as though animal were on its back.
+
+'''Pattern of blood flow through heart''': blood returning from '''major veins''' (vena cava) enters right '''atrium''', contraction there delivers blood to right '''ventricle''' through a '''tricuspid valve''', one of atrial ventricular valves (AV valve). Contraction of right ventricle drives blood through '''semi lunar valve''' into '''pulmonary circuit''' and to '''lungs'''.Blood return to heart in '''pulmonary veins''', is oxygenated. Goes to left '''atrium''', which contracts and delivers blood to left '''ventricle'''by way of '''aortic semi-lunar valve''', then goes to '''systemic circulation'''.
+
+Both '''atria''' and '''ventricles''' contract in unison, left is more powerful than right (to all system vs. just lungs).
+
+'''Systole''': heart contraction, '''diastole''': heart relaxed
+
+'''Timing of heart contraction''': '''ventricles''' rebound to relaxed shape (diastole), and '''semi-lunar valves''' close. Both '''atria'''(singular: atrium) fill with blood coming from pulmonary and systemic circulations.Pressure rises in the atria and blood begins to move into the '''ventricles'''.The atria then contract, forcing more blood into the ventricles. There is a pause, then ventricles contract. This raises ventricle pressure, '''atrio-ventricular(AV) valves''' shut and semi-lunar valves open, forcing blood from the left ventricle into the major arteries and from the right ventricle into the '''aorta'''.
+
+Control for this action doesn’t rely on nervous stimulation, has intrinsic rhythmicity, called '''myogenic'''. This is the case in mammal as well as in mollusk hearts. Other animals have '''neurogenic''' hearts that rely on nervous stimulation for heart action, originating in the '''cardiac ganglion'''.
+
+The rhythmicity of mammalian heart relies on the '''sino-atrial (SA)node''', or pacemaker. This is a '''phylogenic''' (based on evolutionary history) remnant of an early vertebrate heart that had one more chamber than modern hearts.
+
+'''How the heart contracts''': waves of '''depolarization''' start in '''SA node''' and spread through '''atria'''. Connectile tissue pauses the spread of depolarization at the atrial ventricular node. Signal continued by '''bundle branches '''to '''lower ventricle''', begins to stimulate heart to contract. Contraction starts at bottom of heart at '''heart apex''',then signals spread through heart.
+
+'''Medulla''' (in the brain) controls autonomic nervous system. (The medulla is part of the brain, is continuous with the spinal cord, and controls involuntary actions of the body). '''Sympathetic cardiac accelerator'''connects to '''spinal cord''', uses '''norepinephrine''' to signal. '''Parasympathetic cardio-inhibitory center''' reaches heart through '''Vagus nerve''', uses'''acetylcholine''' to signal. Hyperpolarizes membrane to inhibit heart contraction. (Autonomic nervous system: two parts working in contra to control from both sides.) Dominant effect here is '''inhibitory'''. If we cut Vagus nerve, heart rate promptly rises about 25 bpm.
+{{GenBioTOC2}}</text>
+      <sha1>cbwfvmkmvnp0cd119mnlkim7qkdckbe</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Tissues and Systems/Respiratory System</title>
+    <ns>0</ns>
+    <id>2269</id>
+    <revision>
+      <id>2015956</id>
+      <parentid>2015954</parentid>
+      <timestamp>2011-01-12T13:27:31Z</timestamp>
+      <contributor>
+        <username>Sam Stultus</username>
+        <id>417940</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">{{GenBioTOC}}
+=Respiratory system=
+In humans and other animals, for example, the anatomical features of the respiratory system include '''airways''', '''lungs''', and the respiratory muscles.
+  
+Other animals, such as insects, have respiratory systems with very simple anatomical features, and in amphibians even the skin plays a vital role in gas exchange.
+
+Plants also have respiratory systems but the directionality of gas exchange can be opposite to that in animals. The respiratory system in plants also includes anatomical features such as holes on the undersides of leaves known as '''stomata'''.
+
+In mammals, the '''diaphragm''' divides the body cavity into the
+
+   '''abdominal cavity''': contains the viscera (e.g., stomach and intestines)
+
+   '''thoracic cavity''': contains the heart and lungs. 
+
+'''Respiratory tree''': terminates in alveolus, alveoli. Respiratory bronchioles branch into alveolar ducts and into alveoli. Alveolus: microscopic air sacs, 300 million of these in human lungs. Total surface area large. Gas diffuses micrometer, very tiny distance.</text>
+      <sha1>l9hcesqj41kihxwbv9xks5vtfr426ax</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Tissues and Systems/Sensory Systems</title>
+    <ns>0</ns>
+    <id>2271</id>
+    <revision>
+      <id>2015965</id>
+      <parentid>2015964</parentid>
+      <timestamp>2011-01-12T13:45:03Z</timestamp>
+      <contributor>
+        <username>Sam Stultus</username>
+        <id>417940</id>
+      </contributor>
+      <minor />
+      <comment>/* Vision */</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+=Sensory systems=
+Categorized by&lt;br&gt;
+# '''nature of stimulus''', such as '''mechanical''', '''chemical'''or '''light''' stimulus, and&lt;br&gt;
+# '''where stimulus received''', such as '''outside''' ('''exteroceptors''',such as the '''eye''' and '''skin temp receptors''') or '''inside'''body ('''interoceptors''', such as '''blood body temperature receptors''').
+
+'''Transduction''' of sensory input into signal. Means to “carry across”,signal transduced, or carried, from environment into nervous signal.
+
+Three sensory processes we cover&lt;br&gt;
+# '''taste''' and '''smell''' (chemoreception)&lt;br&gt;
+# '''gravity''' and '''movement'''&amp;nbsp;&lt;br&gt;
+# '''light'''
+
+==Taste and smell (chemoreception)==
+Found in mammal nose and mouth, fly feet, fish bodies, moth antennae.
+
+Papilla: bumps on tongue, contain taste buds down between. Sweet, sour, salty and bitter. Some act directly by ion channels, others act indirectly.  Other “taste” sensations really smell.
+
+Smell: received in '''nasopharynx'''. Airborne molecules go into solution on moist epithelial surface of nasal passage. Approximately 1000 genescode for sensory neuron receptors. “Fried onions” odor not one receptor but a mixture of many odors registered in our mind as one. Very sensitive, habituates rapidly (don’t notice a smell after a bit). Odor sensation has relatively unfiltered root to higher brain centers.
+
+Snakes more chemosensory focused than us.
+
+==Response to gravity and movement==
+Registered in '''inner ear'''. Three semicircular canals loop in three planes at right angles to each other, responsible for transduction of movement messages. Method: hair cells deformed by gelatinous membrane. '''Vestibular apparatus''', gives us perception of gravity and movement. Due to '''physical response''', not chemical binding.
+
+'''Cochlea''': bony, coil shaped part of inner ear, where hearing occurs.
+
+Sound enters through '''auditory canal''', vibrates '''tympanic membrane''',moving three bones of middle ear ('''malleus''', '''incus''', and '''stapes''')against oval window opening in front of cochlea. Cochlea has three fluid filled ducts, one of these the '''organ of Corti'''. Sound waves in air go to vibration in organ of Corti; fluid tickles '''hair cells''', which register the movement along '''basilar membrane''' in cochlea. Different sound frequencies move different portions of basilar membrane. Hearing loss due to loss of hair cells.Humans normally smell more than 300 odors in a day(Facts and Truth).
+
+Transduction of sound accomplished throgh '''physical deformation''',not chemical binding.
+
+==Vision==
+Light enters '''pupil'', focused by '''lens''' onto '''retina'''.''''''
+
+'''Sclera''': hardened part behind retina.
+
+'''Optic nerves''' and '''neurons''' attached to retina. Blind spot where optic nerve attaches, has no receptors.&amp;nbsp;
+
+Two types of photoreceptors&lt;br&gt;
+# '''rods''' - black and white low-light vision, 100 million in each retina in humans.&lt;br&gt;
+# '''cones''' - color vision, work best under better illumination. 3 million in each retina.
+
+'''Fovia''': region of most acute vision, has most of the cones, few rods.
+
+Transduction process of light to signal a molecular change, to light absorbing molecule called photopigment. Located in outer parts of rods and cones in pigment discs. The rod photopigment is called '''rhodopsin''',cone has three photopigments, called '''photopsins'''. This molecular change initiates pathways to result in action potential in downstream neuron leading to vision center in brain.'''Parul Godika'''
+
+Each of the three photopsins has a different peak of sensitivity: '''blue''','''green''' or '''red''', and changes '''isometric form''' (from cisto trans) based on light from a particular wavelength range. Color blindness:inherited lack of one or more types of these cones. Gene carried on X chromosome, therefore more common in men than women.
+{{GenBioTOC2}}</text>
+      <sha1>1l61uillkkb8ayjhxuo9ony4k9btrbi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Tissues and Systems/Homeostasis</title>
+    <ns>0</ns>
+    <id>2272</id>
+    <revision>
+      <id>2015971</id>
+      <parentid>2015970</parentid>
+      <timestamp>2011-01-12T13:52:57Z</timestamp>
+      <contributor>
+        <username>Sam Stultus</username>
+        <id>417940</id>
+      </contributor>
+      <minor />
+      <comment>/* Osmotic environments and regulations */</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+
+== Homeostasis ==
+Is a very important part of everyone's and everything's lives.
+Defined as '''dynamic constancy of internal environment''', maintenance of a relatively stable environment inside an organism usually involving '''feedback regulation'''.
+
+'''Homeostasis''' is maintained in face of
+# a '''varying external environment''', or
+# a '''non-ideal, constant external environment''' (as with the penguin).&lt;br&gt;
+
+Deals with '''temperature''', '''pH''', '''chemical concentrations''','''pressure''', '''oxygen levels'''.
+
+Occurs through '''negative feedback loops'''.
+
+Various forms: simple thermostat in house turns off heater when above a certain temperature and on when below a certain temperature Involves '''stimulus''', '''sensor''','''integrating center''', '''effector''' and '''response'''.
+
+More efficient control has '''two sensors''' and '''two effectors'''. Can be antagonistic to each other, such as, one cools, the other heats.
+
+Precise control through '''proportional control''', not all-or-none, furnace comes on a little bit if the house a bit cold. Examples in humans: vasoconstriction, change in metabolic rate, shivering. Physiological responses for high body temp: blood goes to body surface, sweating, behavioral changes (get out of sun).
+
+'''Positive feedback loop''': effector increases deviation from set point. Amplifies reaction. Like blood clotting process, uterine contraction during childbirth. Negative feedback must exist at some point for control.
+
+==Osmotic environments and regulations ==
+# '''Marine invertebrates'''
+## fully marine invertebrates (not intertidal or estuarine) osmoconformers (set internal environment same as environment, no net flow of ions) in a stenohaline (narrow non-changing salt level) environment
+## Coastal, intertidal, estuarine (ion levels fluctuate) invertebrates.Partly osmoconfomers, partly osmoregulators in a euryhaline (wide salt level variation) environment (ex: shore crab, regulates sometimes when salt levels in environment get real low).
+# '''Freshwater animals'''. Here, environment has lower solute concentrations than do living organisms so water tends to flow in and solutes out.
+##Freshwater fish (bony) dilute urine, and gills actively take up ions (NaCl)
+## Freshwater invertebrates: same situation as freshwater fish but with different structures
+## Freshwater amphibians: active uptake of salts across their skin
+# '''Marine fishes''': Here the environment has a higher solute concentration than does the organism so water tends to flow out and ions in.
+## Bony fishes: actively secrete salts (NaCl) across gills, absorb water across gut wall, their kidney (unlike mammalian kidney) is unable to generate concentrated urine so glomerulus is reduced, active tubular secretion of MgSO&lt;sub&gt;4&lt;/sub&gt;
+## cartilaginous fishes (and coelacanth): blood retains urea and trimethylamineoxide to increase its osmolality to that of seawater
+# '''Terrestrial animals''': here problem is loss of water to a drier environment, and regulation of salt levels.
+## water loss adaptations
+## concentrated exception of salts and nitrogenous wastes
+
+'''Hypoosmotic''': having less osmotic potential than nearby fluid
+
+'''Hyperosmotic''': having more osmotic potential than nearby fluid
+
+'''Isoosmotic''': having equal osmotic potential than nearby fluid
+
+'''Glomerulus''': reduces volume of kidney
+
+Fish started in salt water, spread to fresh water, later reinvaded salt-water environment.
+
+Terrestrial animal water sources:&lt;br&gt;
+1. drinking&lt;br&gt;
+2. moist foods&lt;br&gt;
+3. from breakdown of metabolic molecules like fats. (Desert kangaroo rats get 90% of their water from metabolism.)
+
+Secretion of nitrogenous wastes: from metabolism of amino acids, amino group has to be removed in one of three basically interchangeable chemical forms:&lt;br&gt;
+1. '''ammonia''' (aquatic life)&lt;br&gt;
+2. '''urea''' (mammals)&lt;br&gt;
+3. '''uric acid''' (birds)
+
+'''Ammonia''' very toxic, soluble, and cheap to produce. Easy to expel for bony fishes.
+
+'''Urea''': low toxicity, good solubility, more costly to lose as it contains other groups on it. Must be released in solution, water cost.
+
+'''Uric acid''' (white part of bird poo) low toxicity, insoluble, secreted with little water loss, more costly side groups lost than the others.
+
+'''Mammalian kidney''': Structure: fist-sized organ in lower back. About 1/5 of blood from aorta at any time is passing through kidneys. Blood passes through kidney many times a day.
+
+'''Nephron''': structural and functional unit of kidney.
+
+'''Bowmans capsule''': funnel-like opening, contains primary filter, the '''glomerulus'''.
+
+'''Proximal convoluted tubule''': receives stuff from Bowmans capsule.
+
+'''Loop of Henle''': descends and ascends.
+
+'''Vasa recta''': capillaries that surround the Loop of Henle.
+
+'''Glomerulus''': main filter of the '''nephron''', located within the '''Bowman's capsule'''
+
+Kidney properties and processes important to its function
+
+1. '''Active transport of solutes''' from one fluid to another against a concentration gradient, Na&lt;sup&gt;+&lt;/sup&gt; actively transported out of filtrate by cells of the thick ascending loop of Henley into the interstitial fluid&lt;br&gt;
+2. '''Passive movement of solutes''' and water from one fluid to another(down a concentration gradient), movement of water and NaCl out of descending loop of Henley into interstitial fluid.&lt;br&gt;
+3. '''Differential permeability of cells''' in different regions of the nephron to movement of water and solutes, ascending thick look is impermeable to water, descending portion is permeable to water&lt;br&gt;
+4. '''Hormonal control of that permeability''', antidiuretic hormone(ADH) increases permeability of collecting due to water, resulting in reduced volume of filtrate and thus more concentrated urine.&lt;br&gt;
+5. '''Increasing solute concentration in the interstitial fluid of the kidney''', from the cortex to the deepest medulla, maintained by a countercurrent multiplier mechanism
+{{GenBioTOC2}}</text>
+      <sha1>no6r16idwvp62g73nb9kax775iit7yp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Tissues and Systems/Epithelial Tissue</title>
+    <ns>0</ns>
+    <id>2273</id>
+    <revision>
+      <id>2015930</id>
+      <parentid>2015928</parentid>
+      <timestamp>2011-01-12T11:59:28Z</timestamp>
+      <contributor>
+        <username>Sam Stultus</username>
+        <id>417940</id>
+      </contributor>
+      <minor />
+      <comment>/* Epithelial tissue */</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+=Epithelial tissue=
+Comes from various sources, '''ectodermal''' or '''endodermal''' material. Cell sheet lines a surface or body cavity. One side, called '''freesurface or Apical''', is exposed to
+* animal '''interior''' (forming the '''lumen''') or
+* '''exterior''' of its '''body cavity'''.
+The other side rests on the '''basal layer'''.
+
+Epithelial tissue is not penetrated by blood vessels.
+
+Two categories:
+* '''sheets'''
+* '''glands'''
+
+Classified on two features:
+* '''simple''', (a single layer of cells),
+* '''stratified''', (more than one cell layer.)
+
+Cell shape at free surface:
+* '''squamous''' (broad and flat)
+* '''cuboidal''' (spherish)
+* '''columnar''' (tall and thin)
+
+; '''Simple squamous epithelium''' : usually lines body cavities and vessels,alveoli, glomeruli of kidney; in blood and lymph vessels called endothelium; in body cavities called mesothelium (serosae): parietal serous membranes line body wall, visceral serous membranes cover organ
+; '''Simple cuboidal epithelium''' : in ducts like kidney and salivary glands.
+; '''Simple columnar epithelium''' : nonciliated type lines digestive tract, ciliated type lines some regions of uterine tubes and lungs
+; '''Stratified squamous epithelium''' : (important) lines mouth, esophagus,and vagina. Cells sometimes dead, flat and keratinized, making them resistant to abrasion. Stratified squamous epithelium changes to columnar squamous epithelium progressively down esophagus to the stomach.
+; '''Epidermis''' : from epithelium. Below this is '''dermis''', thicker and with blood vessels.
+
+Two specialized epithelia:
+* '''pseudostratified'''
+* '''transitional'''
+
+; '''Pseudostratified epithelia''' : lines the trachea (where it is ciliated)and the male urethra (where it is non ciliated), looks stratified but not.
+; '''Transitional epithelia''' : found only in bladder and urinary system. As it stretches it appears to go from 6 to 3 cell layers deep.
+; '''Glandular epithelia''' : ('''gland''': group of cells that excretes something.. mostly derived from '''epithelium'''. Glands are classified into '''endocrine''' and '''exocrine''' by where they excrete.
+; '''Endocrine glands''' : secrete hormones into the '''blood''' without use of ducts.
+; '''Exocrine glands''' : secrete onto the '''body surface''' or into a '''cavity''', thru a '''duct'''. Exocrine substances include sweat, mucous, oil, and saliva. An exocrine gland is the '''liver''', which secretes bile.</text>
+      <sha1>r33kubvuqs537mjcix54inmrizwsadk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Tissues and Systems/Connective Tissue</title>
+    <ns>0</ns>
+    <id>2274</id>
+    <revision>
+      <id>2015933</id>
+      <parentid>2015932</parentid>
+      <timestamp>2011-01-12T12:11:21Z</timestamp>
+      <contributor>
+        <username>Sam Stultus</username>
+        <id>417940</id>
+      </contributor>
+      <minor />
+      <comment>/* Connective tissue */</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+=Connective tissue =
+This is a “grab bag” category of diverse tissue types. Functions include binding and supporting. Types include '''bone''', '''cartilage''', '''fibrous connective tissue''', '''blood''' and '''adipose''' (fat) tissue.
+
+If you took away everything in the body except the connective tissue, you’d still be able to see the basic form of the body.
+
+'''Form''': distinctive cells surrounded by a '''cell matrix''' made of '''extra-cellular fiber''' grounded in a '''ground substance ''' (excluding blood)
+
+Types:&lt;br&gt;
+1. '''connectile connective tissues''' (can be 1. '''loose''' or 2. '''dense''')&lt;br&gt;
+2. '''special connective tissue''' (includes blood, bones and cartilage).
+
+'''Fibroblasts''' form '''connective tissue proper;'''&lt;br&gt;
+'''chondoroblasts''' form '''cartilage;'''&lt;br&gt;
+'''osteoblasts''' form '''bone;'''&lt;br&gt;
+and '''blood''' is formed from various sources.
+
+'''Ground substance''': “unstructured” material that fills space between cells and contains fibers. Made of&lt;br&gt;
+1. '''interstitial fluid''' (bathes cells)&lt;br&gt;
+2. '''proteoglycans''' (protein core with attached polysaccharides, glycoaminoglycans or GAGs such as chondroitin sulfate, keratin sulfate, and hyalronic acid, whose consistency is syrupy to gelatin-like)&lt;br&gt;
+3. '''cell-adhesion proteins''' (connect connective tissue cells to the fibers).
+
+'''Fibers''' of '''connective tissue''':&lt;br&gt;
+1. '''Collagen''' (flexible protein resistant to stretching, tensile strength, most abundant protein in animals, white)&lt;br&gt;
+2. '''elastin''' (rubbery, resilient protein, in dermis, lungs, blood vessels, yellow when fresh)&lt;br&gt;
+3. '''andreticulin''' (like collagen).
+
+'''Loose connective tissue''': found beneath skin, anchors muscles,nerves etc. Include '''fibroblasts''', '''macrophages''', '''mast cells''',and '''adipose cells'''. '''Fibers''' include '''collagen''' and '''elastic fibers'''. Ground substance is “syrupy”. Adipose included.
+
+'''Dense connective tissue''': largely densely packed fibers of '''collagen''' or '''elastin''' regularly or irregularly arranged. Forms '''tendons''' and '''ligaments''', coverings of muscles, capsules around organs and joints, and '''dermis''' of skin.
+
+'''Cartilage vs. bone'''&lt;br&gt;
+
+{| BORDER COLS=&quot;3&quot;
+|-
+| &lt;b&gt;Feature&lt;/b&gt; || &lt;b&gt;Bone&lt;/b&gt; || &lt;b&gt;Cartilage&lt;/b&gt;
+|-
+| &lt;b&gt;cell type&lt;/b&gt; || osteocytes || chondrocytes
+|-
+| &lt;b&gt;ground substance&lt;/b&gt; || calcium phosphate&amp;nbsp;
+| chondroitin sulfate
+|-
+| &lt;b&gt;vascularization&lt;/b&gt; || vascular || avascular
+|-
+| &lt;b&gt;micro architecture&lt;/b&gt;&amp;nbsp; || highly ordered
+| less organized
+|-
+| &lt;b&gt;units called&lt;/b&gt; || osteons ||
+|-
+| &lt;b&gt;fibrous sheath&lt;/b&gt; || peristeum || perichondrium
+|}
+
+'''Cartilage: '''There are three cartilage types:&lt;br&gt;
+1. '''hyaline''' cartilage&lt;br&gt;
+2. '''fibrocartilage''' (fibrous cartilage)&lt;br&gt;
+3. '''elastic''' cartilage
+
+'''Hyaline cartilage''': most widespread cartilage type, in adults forms articular surfaces of long bones, rib tips, rings of trachea, and parts of skull. Mostly '''collagen''', name refers to '''glassy''' appearance. In embryo, bones form first as '''hyaline''' cartilage, later '''ossifies'''. Found in tracheal rings. Few collagen fibers.
+
+'''Fibrous cartilage''': have lots of '''collagen''' fibers. Found in intervertebral discs, pubic symphesis. Grades into dense '''tendon''' and '''ligament''' tissue.
+
+'''Elastic cartilage''': springy and elastic. Found in internal support of external ear and in epiglottis, yellow when fresh.
+
+'''Chondrocites''' (cartilage cells) rely on diffusion for nutrients, as cartilage has no direct blood supply, and no enervation (nerves). Can be loaded with calcium salts.
+
+'''Bone''': Specialized connective tissue, calcium phosphate arranged in highly ordered unit called '''osteon''', or '''Hyvercian system'''. Concentric rings around central canal with blood vessels and enervation (nerves). Bone varied, not all vertebrate bone is even cellular. Our concern: simple pattern for mammals.
+
+'''Lacuna''' (spaces in which osteocytes found); '''canaliculi''' (little canals) bigger diagonal cells, layers of bone called '''lamellae.'''
+
+Three types of bone cells, ending in&lt;br&gt;
+-'''blast''', (mend bone)&lt;br&gt;
+-'''cyte''' (fortify bone)&amp;nbsp;&lt;br&gt;
+-'''clast''' (tear down bone)
+
+Classified by&lt;br&gt;
+1. '''appearance''' ('''spongy''' vs. '''hard''')&lt;br&gt;
+2. '''where found''' (outside or inside)&lt;br&gt;
+3. '''how it is formed''' (endochondral cartilage model forms first and then is ossified, and entramembranous, bone forms directly without cartilage precursor)
+
+Example of '''endochondral bone formation''': long bone begins to ossify from center shaft, calcified region expands and cuts off diffusion of nutrients as bone replaces cartilage. In young mammals, secondary ossification centers then form at bone ends, growth has stopped by sexual maturity as all primary bone is ossified. In other animals, bones continue growing throughout their lifetime.
+
+Three types of '''intramembrous bone''':&lt;br&gt;
+1. '''dermal''' bone&lt;br&gt;
+2. '''sessamoid''' bone&lt;br&gt;
+3. '''perichondral''' bone.
+
+'''Dermal bone''' forms skull, shoulder/pectoral girdle, and integument, descended from dermal armor of ancestor. Comes from '''mesoderm''', in dermis of skin.
+
+'''Sessamoid bones''': form directly in tendons. Example: kneecap, also in wrist. Deals with stress.
+
+'''Perichondral bone''' means '''“around cartilage,”''' forms around cartilage or bone. Functions in bone repair and in ossification of endochondral bone.
+
+'''Bone remodeling and repair''': bone has mineral structure, and develops tiny fractures, which, under stress, can lead to larger fractures. To combat this, bone is constantly replaced. '''Osteoclasts''' channel through existing bone, tear down and leave behind '''osteoblasts''' and '''lacuna''', leaving '''osteocytes'''. Continually resets mineral structure of bone, and is preventative maintenance.
+
+When bone broken, callus forms in open ends, '''periosteum''' gives rise to new bone with calcium and new bone matrix, leaves irregular mend. Later, osteoblasts continue fixing over time and slowly removing imperfection.</text>
+      <sha1>skrz2skzeuiuchkhb9dvlq0r5fitem2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Tissues and Systems/Muscle Tissue</title>
+    <ns>0</ns>
+    <id>2275</id>
+    <revision>
+      <id>2015938</id>
+      <parentid>2015936</parentid>
+      <timestamp>2011-01-12T12:32:26Z</timestamp>
+      <contributor>
+        <username>Sam Stultus</username>
+        <id>417940</id>
+      </contributor>
+      <minor />
+      <comment>/* Muscle tissue */</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+=Muscle tissue = 
+
+Mesodermal in origin, muscle has several functions: '''supply force for movement''', '''restrain movement''', proper '''posture''', act on viscera (internal organs) for '''peristalsis''' (moving food down digestive tract), give body '''shape''', form '''sphincters''', (such as in esophagus, between stomach and intestine, large and small intestine, in anus), in '''sheets''' of muscles, affect ai'''r flow''' in and out of lungs, line '''blood vessels''' and play vital role in '''circulation'''.
+
+Secondary roles: '''heat production''' (shivering a specialized heat production to supplement metabolism). 
+
+Muscles co-opted to other non-original functions: sharks detect electrical field created by fish muscles. Some fish formed electric organs, create current strong enough to repel predators or stun prey. Other fish can use field as “radar” to see things and communicate with other animals. (Evolved independently in different groups). 
+
+Different classifications: by '''color''', (red or white) '''location''', nature of '''nervous system contro'''l (voluntary or involuntary), '''embryonic origin''', or by '''general microscopic appearance''' (striated, smooth, and cardiac.) 
+
+'''Striated muscle''' (or '''skeletal''' muscle): under '''voluntary control'''. Individual cells called '''fibers''', grouped into '''fascicle'''. '''Myofibrils''' founding one cell made of even smaller '''myofilaments'''. Each striated cell very long and '''multi-nucleated'''. Fibers joined end to end to form longer '''composite fibers'''. '''Sarcomeres''': repeating units make up '''myofibrils'''. Two kinds of '''myofilaments''', thick kind made up of '''myosin''' and thin of '''actin'''. Striations visible in light microscope, smaller part only with electron microscope. 
+
+'''Cardiac muscle''': occurs only in '''heart'''. Light banding visible under light microscope. Each band short, principally mononucleate (occasionally dinucleate) often branched, joined together with intercollated discs. Involuntary. Waves of contraction spread through intercollated discs. Initiated by nerve stimulation or can originate in the heart itself (useful in heart transplants.) 
+
+'''Smooth muscle''': no striations visible with light microscope. Almost entirely '''visceral''' function: digestion, sphincters, urogenital tracts, piloerectory muscles (make hairs stand up), lungs. Non-voluntary control. Slow and sustained action. Each cell mononucleate, short, fusiform (spindly) in shape, cells usually uniform in size. 
+
+Striated muscle contraction: Muscle broken into units called fascicles, in units of myofibrils. Repeating units called sarcomeres, consisting of two kinds of myofilaments: &lt;br&gt;
+1. thick, '''myosin''' filament &lt;br&gt;
+2. thin, '''actin''' filament. 
+
+'''Sarcomere''': Thick and thin filaments interspersed in ordered grid. 
+
+'''Sliding filament theory''': thick and thin filaments move past each other in opposite direction, shortening length. Longer muscles contract more rapidly than short ones (see cell bio for details). 
+
+'''Myosin molecule''': two polypeptides twisted together with two globular heads at end. 
+
+'''Myosin filament''': many slender myosin molecules together. 
+
+'''Actin filament''': chain of actin single, '''tropomyosin''' strands with repeated '''globular troponin''', and with '''actin'''. All play role in muscle contraction. Myocin heads have sites that bind to actin. Actin filaments have many regular sites that can bind to myosin. 
+
+'''Troponin''' has '''four site'''s: &lt;br&gt;
+1. one to bind '''myosin''' &lt;br&gt;
+2. one for '''actin''' &lt;br&gt;
+3. one for '''tropomyocin''' &lt;br&gt;
+4. one for '''calcium ions''' 
+
+Nerve signal reaches muscle, triggers release of chemical signal called neurotransmitter, that diffuses across cell membrane ('''sarcolimic reticulum''') and binds to receptors in it. Receptor is '''acetylcholine''', ACH. When there is enough nerve signal, the message travels through t-line to sarcoplasmic reticulum to release calcium ions. 
+
+Lacking calcium, '''tropomyosin''' site blocked. In calcium, myosin binding sites exposed and heads bind to '''actin''' molecules, delivering force to move '''fibers''' in relation to each other. Myocin head then interacts with '''ATP''' to get “recocked”, if myosin still exposed then it fires again and results in further muscle contration. If there is no further nerve signal, '''sarcoplasmic reticulum''' sequesters Ca+ ions again and no recocking occurs. 
+
+'''Quirari (or curare)''': known from movies, used in South America, blocks '''acetylcholine receptors''' in cell and causes skeletal paralysis. Victim dies of asphyxiation because he can’t breathe. 
+
+'''Duchenne's muscular dystrophy''': degeneration of '''sarcolema''', plasma membrane of muscle cell unable to release signal and quickly atrophies. 
+
+'''Fast''' and '''slow twitch fibers''': vertebrate muscle fiber. Terms relative within one group of animals. Differences related to differences in '''enervation''', type of '''myocin''', and '''actin activation'''. 
+
+Two parts of force generated by muscle: 1. '''active''' component 2. '''elastic''' component (energy stored in muscle when stretched by gravity or another force. Stored in muscle elastic tissue around tendons. Especially important in '''limb oscillation''', like running, or trunk twisting, like fish swimming. Up to 90% of stored elastic energy can be recovered.) 
+
+How does a muscle match its power to its job? Two ways: &lt;br&gt;
+1. '''rate modulation''', derived from frequency of nervous stimulation of muscle, force increases as frequency of stimulation increases up to point of tetanus. &lt;br&gt;
+2. '''selective involvement of motor units''', a given neuron enervates a fixed number of muscle cells, (a motor unit), and force is increased by recruiting more motor units. Motor units may be small, such as in eye, or larger, like in leg muscle. 
+
+How do muscles grow stronger? &lt;br&gt;
+1. add more '''myofilaments''', increases cross sectional area by up to 50%, more little ratchets working &lt;br&gt;
+2. proliferation in '''blood vessels''' and '''connective tissue''' around muscle 
+
+Muscle strength is relative to '''cross sectional area''', not length. Not always feasible to add more cross sectional area. 
+
+'''Pinnate fibers''': oriented obliquely (Y-shaped) to minimize muscle mass, in certain circumstances, like calf muscle. Spreads muscle out. 
+
+Velocity of shortening greater in long muscle than short. Why? Contraction tied to relation between fibers, and to total length of muscle. Both long and short muscles reach same percentage of contraction in same unit time, but distance covered by the longer muscle is greater. 
+
+'''Synergist muscles''': muscles work together to produce motion in same general direction. Bicep shares work with brachialis. 
+
+'''Antagonist muscles''': muscles that oppose each other. Bicep pulls forearm in, triceps pulls it back out. 
+
+'''Origin vs. insertion''': origin is the end of the muscle that more fixed in its attachment to the body. The more movable end called insertion. 
+
+'''Fixators''': muscles that act to stabilize a joint or lever system. Like upper arm when you clench your fist hard. 
+
+'''Flexors and extensors''': applied mainly to limbs. Flexor bends one part relative to another about limb, extensor straightens it. 
+
+'''Adductor and abductor''': adductor draws a limb toward the ventral surface. Abductor moves limb away from ventral surface. (Adduct: drawn toward; abduct: carry away).</text>
+      <sha1>b94867raumpi1huj9rr1fvl209olt78</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Chemistry/Stoichiometry</title>
+    <ns>0</ns>
+    <id>2277</id>
+    <revision>
+      <id>2487760</id>
+      <parentid>2487759</parentid>
+      <timestamp>2013-02-14T19:13:14Z</timestamp>
+      <contributor>
+        <username>Mh7kJ</username>
+        <id>478249</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/76.8.232.162|76.8.232.162]] ([[User talk:76.8.232.162|talk]]) to last version by Mh7kJ</comment>
+      <text xml:space="preserve">{{GeneralChemTOC|prev=Formulas and Numbers|next=Chemical equations}}
+
+The word ''stoichiometry'' derives from two Greek words: ''stoicheion'' (meaning &quot;element&quot;) and ''metron'' (meaning &quot;measure&quot;). Stoichiometry deals with calculations about the masses (sometimes volumes) of reactants and products involved in a chemical reaction. It is a very mathematical part of chemistry, so be prepared for lots of calculator use.
+
+{{Wikipedia|Stoichiometry}}
+Jeremias Benjaim Richter (1762-1807) was the first to lay down the principles of stoichiometry. In 1792 he wrote: 
+&quot;''Die stöchyometrie (Stöchyometria) ist die Wissenschaft die quantitativen oder Massenverhältnisse zu messen, in welchen die chymischen Elemente gegen einander stehen.''&quot; [Stoichiometry is the science of measuring the quantitative proportions or mass ratios in which chemical elements stand to one another.]
+
+==Molar Calculations==
+===Your Tool: Dimensional Analysis===
+Luckily, almost all of stoichiometry can be solved relatively easily using dimensional analysis.  Dimensional analysis is just using units, instead of numbers or variables, to do math, usually to see how they cancel out.  For instance, it is easy to see that:
+
+&lt;center&gt;&lt;math&gt;grams \times \dfrac{moles}{grams} \times \dfrac{atoms}{moles} = atoms&lt;/math&gt;&lt;/center&gt;
+
+It is this principle that will guide you through solving most of the stoichiometry problems (chemical reaction problems) you will see in General Chemistry.  Before you attempt to solve a problem, ask yourself: what do I have now? where am I going?  As long as you know how many (units) per (other units), this will make stoichiometry significantly easier.
+
+===Moles to Mass===
+{{SideBox|Where can you find the molar mass of these elements? [[General Chemistry/Periodic Table|The periodic table.]] You should always have one on hand—don't expect to get very far without one!}}
+
+''How heavy is 1.5 mol of lead? How many moles in 22.34g of water?'' Calculating the mass of a sample from the number of moles it contains is quite simple. We use the '''molar mass''' (mass of one mole) of the substance to convert between mass and moles. When writing calculations, we denote the molar mass of a substance by an upper case &quot;M&quot; (e.g. M(Ne) means &quot;the molar mass of neon&quot;). As always, &quot;n&quot; stands for the number of moles and &quot;m&quot; indicates the mass of a substance.  To find the solutions to the two questions we just asked, let's apply some dimensional analysis:
+
+&lt;center&gt;&lt;math&gt;1.5 \; mol \; Pb \; \times \dfrac{207.2 \; g \; Pb}{1 \; mol \; Pb} = 310.8 \; g \; Pb&lt;/math&gt;&lt;/center&gt;
+
+Can you see how the units cancel to give you the answer you want?  All you needed to know was that you had 1.5 mol Pb (lead), and that 1 mol Pb weighs 207.2 grams.  Thus, multiplying 1.5 mol Pb by 207.2 g Pb and dividing by 1 mol Pb gives you 310.8 g Pb, your answer.
+
+===Mass to Moles===
+But we had one more question: &quot;How many moles in 22.34g of water?&quot;  This is just as easy:
+
+&lt;center&gt;&lt;math&gt;22.34 \; g \; H_2 O \; \times \dfrac{1 \; mol \; H_2 O}{18 \; g \; H_2 O} = 1.24 \; mol \; H_2 O&lt;/math&gt;&lt;/center&gt;
+
+Where did the 18 g H&lt;sub&gt;2&lt;/sub&gt;O come from?  We looked at the periodic table and simply added up the atomic masses of two hydrogens and an oxygen to get the molecular weight of water.  This turned out to be 18, and since all the masses on the periodic table are given with respect to 1 mole, we knew that 1 mol of water weighed 18 grams.  This gave us the relationship above, which is really just (again) watching units cancel out!
+
+===Calculating Molar Masses===
+Before we can do these types of calculations, we first have to know the molar mass. Fortunately, this is not difficult, as the molar mass is exactly the same as the '''atomic weight''' of an element. A table of atomic weights can be used to find the molar mass of elements (this information is often included in the periodic table). For example, the atomic weight of oxygen is &lt;B&gt;16.00&lt;/B&gt; amu, so its molar mass is 16.00 g/mol.
+
+For species with more than one element, we simply add up the atomic weights of each element to obtain the molar mass of the compound. For example, sulfur trioxide gas is made up of sulfur and oxygen, whose atomic weights are 32.06 and 16.00 respectively.
+
+&lt;center&gt;&lt;math&gt;\begin{matrix}
+\hbox{M(SO}_3\hbox{)} &amp;=&amp; 32.06 + 3 \times 16.00 \\
+\ &amp;=&amp; 80.06 \hbox{g}/\hbox{mol} \\
+\end{matrix}&lt;/math&gt;&lt;/center&gt;
+
+The procedure for more complex compounds is essentially the same. Aluminium carbonate, for example, contains aluminium, carbon, and oxygen. To find the molar mass, we have to be careful to find the ''total'' number of atoms of each element. Three carbonate ions each containing three oxygen atoms gives a total of nine oxygens. The atomic weights of aluminium and carbon are 26.98 and 12.01 respectively.
+
+&lt;center&gt;&lt;math&gt;\begin{matrix}
+\hbox{M}(\hbox{Al}_2(\hbox{CO}_3)_3) &amp;=&amp; 2 \times 26.98 + 3 \times 12.01 + 9 \times 16.00 \\
+\ &amp;=&amp; 233.99 \hbox{g}/\hbox{mol} \\
+\end{matrix}&lt;/math&gt;&lt;/center&gt;
+
+==Empirical Formulae==
+The empirical formula of a substance is ''the simplest ratio of the number of moles of each element in a compound''. The empirical formula is ambiguous, e.g. the formula CH could represent CH, C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;2&lt;/sub&gt;, C&lt;sub&gt;3&lt;/sub&gt;H&lt;sub&gt;3&lt;/sub&gt; etc. These latter formulae are called '''molecular formulae'''. It follows that the molecular formula is always a ''whole number multiple'' of the empirical formula for a compound.
+
+Calculating the empirical formula is easy if the relative amounts of each element in the compound are known. For example, if a sample contains 1.37 mol oxygen and 2.74 mol hydrogen, we can calculate the empirical formula. A good strategy to use is to divide all amounts given by the smallest '''non-integer''' amount, then multiply by whole numbers until the simplest ratio is found. We can make a table showing the successive ratios.
+
+{| class=&quot;wikitable&quot; style=&quot;border:1px;text-align:center;&quot;
+|-
+! Hydrogen
+! Oxygen
+|-
+| 2.74 || 1.37 || divide by 1.37
+|-
+| 2 || 1 || ANSWER
+|}
+
+The empirical formula of the compound is H&lt;sub&gt;2&lt;/sub&gt;O.
+
+Here's another example.  A sample of piperonal contains 1.384 mol carbon, 1.033 mol hydrogen and 0.519 mol oxygen.
+
+{| class=&quot;wikitable&quot; style=&quot;border:1px; text-align:center;&quot;
+|-
+! Carbon
+! Hydrogen
+! Oxygen
+|-
+| 1.384 || 1.033 || 0.519 || divide by 0.519
+|-
+| 2.666 || 2 || 1 || multiply by 3
+|-
+| 8 || 6 || 3 || ANSWER
+|}
+
+The empirical formula of piperonal is C&lt;sub&gt;8&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt;.
+
+===Converting from Masses===
+Often, we are given the relative composition by mass of a substance and asked to find the empirical formula. These masses must first be converted to moles using the techniques outlined above. For example, a sample of ethanol contains 52.1% carbon, 13.2% hydrogen, and 34.7% oxygen by mass. Hypothetically, 100g of this substance will contain 52.1 g carbon, 13.2 g hydrogen and 34.7 g oxygen. Dividing these by their respective molar masses gives the amount in moles of each element (as we learned above). These are 4.34 mol, 13.1 mol, and 2.17 mol respectively.
+
+{| class=&quot;wikitable&quot; style=&quot;border:1px; text-align:center;&quot;
+|-
+! Carbon
+! Hydrogen
+! Oxygen
+|-
+| 4.34 || 13.1 || 2.17 || divide by 2.17
+|-
+| 2 || 6 || 1 || ANSWER
+|}
+
+The empirical formula of ethanol is C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt;O.
+
+===Molecular Formula===
+{{SideBox|1=
+'''Beware:'''
+In the case of H&lt;sub&gt;2&lt;/sub&gt;O, the whole number multiple is 1, so its empirical formula is the same as its molecular formula.  This is not always the case!}}
+As mentioned above, the molecular formula for a substance equals the count of atoms of each type in a molecule.  This is always a ''whole number multiple'' of the empirical formula.  To calculate the molecular formula from the empirical formula, we need to know the '''molar mass''' of the substance. For example, the empirical formula for '''benzene''' is CH, and its molar mass is 78.12 g/mol. Divide the actual molar mass by the mass of the empirical formula, 13.02 g/mol, to determine the multiple of the empirical formula, &quot;n&quot;. The molecular formula equals the empirical formula multiplied by &quot;n&quot;.
+
+&lt;center&gt;&lt;math&gt;\begin{matrix}
+\hbox{M(CH)} &amp;=&amp; 13.02 \hbox{ g/mol} \\
+\hbox{M(benzene)} &amp;=&amp; 78.12 \hbox{ g/mol}\\
+\hbox{M(benzene)} / \hbox{M(CH)} &amp;= (78.12\ g/mol)/(13.02\ g/mol)&amp;= 6 \\
+\end{matrix}&lt;/math&gt;&lt;/center&gt;
+
+This shows that the molecular formula for benzene is 6 times the empirical formula of CH. The molecular formula for benzene is C&lt;sub&gt;6&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt;.
+
+==Solving Mass-Mass Equations==
+A typical mass-mass equation will give you an amount in grams and ask for another answer in grams.
+
+{{TextBox|1=
+;To solve a mass-mass equation, follow these rules:
+#[[General Chemistry/Balancing Equations|Balance the equation]] if it is not already.
+#Convert the given quantity to moles.
+#Multiply by the molar ratio of the demanded substance over the given substance.
+#Convert the demanded substance into grams.
+}}
+
+For example, given the equation &lt;math&gt;Cu^{2+} + 2 AgNO_3 \to Cu(NO_3)_2 + 2 Ag^+&lt;/math&gt;, find out how many grams of silver (Ag) will result from 43.0 grams of copper (Cu) reacting.
+
+*Convert the given quantity to moles.
+&lt;center&gt;&lt;math&gt;43.0g~Cu \times \frac{1~mol~Cu}{63.55g~Cu}&lt;/math&gt;&lt;/center&gt;
+*Multiply by the molar ratio of the demanded substance and the given substance.
+&lt;center&gt;&lt;math&gt;43.0g~Cu \times \frac{1~mol~Cu}{63.55g~Cu} \times \frac{2~mol~Ag}{1~mol~Cu}&lt;/math&gt;&lt;/center&gt;
+*Convert the demanded substance to grams.
+&lt;center&gt;&lt;math&gt;43.0g~Cu \times \frac{1~mol~Cu}{63.55g~Cu} \times \frac{2~mol~Ag}{1~mol~Cu} \times \frac{107.86g~Ag}{1~mol~Ag} = 1.46 \times 10^2~g~Ag&lt;/math&gt;&lt;/center&gt;
+
+{{Info|Notice how dimensional analysis applies to this technique. All units will cancel except for the desired one (grams of silver, in this case).}}
+
+== Summary ==
+
+To solve a stoichiometric problem, you need to know what you already have and what you want to find.  Everything in between is basic algebra.
+
+{{TextBox|1=
+; Key Terms
+*''Molar mass:'' mass (in grams) of one mole of a substance.
+*''Empirical formula:'' the simplest ratio of the number of moles of each element in a compound
+*''Molecular formula:'' the actual ratio of the number of moles of each element in a compound
+}}
+
+In general, all you have to do is keep track of the units and how they cancel, and you will be on your way!
+
+{{BookCat}}</text>
+      <sha1>5j89t0sc20euke712ecrapqo9n3tz48</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Menchi</title>
+    <ns>2</ns>
+    <id>2281</id>
+    <revision>
+      <id>154313</id>
+      <timestamp>2003-11-27T01:47:31Z</timestamp>
+      <contributor>
+        <username>Menchi</username>
+        <id>48</id>
+      </contributor>
+      <minor />
+      <comment>intro</comment>
+      <text xml:space="preserve">[[en:User:Menchi]] (English) and [[zh:用户:Menchi]] (Chinese) are usually where I am. Perhaps I'll write some lessons that teach Chinese and/or English.</text>
+      <sha1>oqjhu90wfo7ddd7dbpr809p6z2r3u7s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>English in Use/Adverbs</title>
+    <ns>0</ns>
+    <id>2286</id>
+    <revision>
+      <id>2360500</id>
+      <parentid>2271782</parentid>
+      <timestamp>2012-06-07T12:53:43Z</timestamp>
+      <contributor>
+        <username>DeMk9D76</username>
+        <id>659415</id>
+      </contributor>
+      <minor />
+      <comment>/* Comparative forms of adverbs */</comment>
+      <text xml:space="preserve">{{English in Use}}
+----
+
+An '''adverb''' is a word added to a verb, a participle, an adjective, or an other adverb; and generally expresses time, place, degree, or manner: as,
+
+*&quot;They are now here, studying very diligently.&quot;
+
+Adverbs can modify a verb, a clause, adjective or a phrase.
+
+
+==Form==
+
+Adjectives are generally turned into adverbs with the addition of a ''ly'' suffix. ''Ly'' is a contraction of like, and is the most common termination of adverbs. When added to nouns, it forms adjectives; but a few of these are also used adverbially: as, ''daily, weekly, monthly''.
+
+Examples of adverbs are:
+*&quot;Jack is swimming ''quickly''.&quot;
+*&quot;''Unfortunately'', he lost the race.&quot;
+*&quot;We told him to run ''much'' faster.&quot;
+
+In the first sentence, the adverb modifies the verb swimming. The adjective ''quick'' has had a ''ly'' added to it to make an adverb. In the second sentence, it modifies the entire sentence and in the final example, the adverb ''much'' modifies the adverb ''faster''.
+
+==Comparative forms of adverbs==
+
+Adverbs have no modifications, except that a few are compared, after the manner of adjectives: as, ''soon, sooner, soonest; long, longer, longest; fast, faster, fastest''.
+
+The following are irregularly compared: ''well, better, best; badly or ill, worse, worst; little, less, least; much, more, most; far, farther, farthest; forth, further, furthest''.
+
+==Kinds of adverbs==
+
+Adverbs may be reduced to four general classes; namely, adverbs of time, of place, of degree, and of manner. Besides these, it is proper to distinguish the particular class of conjunctive adverbs.
+
+===Adverbs of time===
+
+Adverbs of time are those which answer to the question, when? how long? how soon? or how often?
+
+Of time '''present''': as, ''now, yet, today, nowadays, presently, instantly, immediately, straightway, directly, forthwith''.
+
+Of time '''past''': as, ''already, just now, lately, recently, yesterday, formerly, anciently, once, heretofore, hitherto, since, till now, long ago, erewhile, erst''.
+
+Of time '''to come''': as, ''tomorrow, hereafter, henceforth, henceforward, by-and-by, soon, erelong, shortly''.
+
+Of time '''relative''': as, ''when, then, first, just, before, after, while, whilst, meanwhile, as, till, until, seasonably, betimes, early, late, whenever, afterward, afterwards, otherwhile, otherwhiles''.
+
+Of time '''absolute''': as, ''always, ever, never, aye, eternally, forever, perpetually, continually, incessantly, endlessly, evermore, everlastingly''.
+
+Of time '''repeated''': as, ''often, oft, again, occasionally, frequently, sometimes, seldom, rarely, daily, weekly, monthly, yearly, annually, once, twice, thrice, or three times''.
+
+Above thrice, we use only the phrases four times, five times, six times, etc. Times, for repetitions, or instances, may be supposed a noun; but such phrases often appear to be used adverbially.
+
+===Adverbs of degree===
+
+Adverbs of degree are those which answer to the question, how much? how little? or to the idea of more or less.
+
+Of '''excess''' or abundance: as, ''much, more, most, too, very, greatly, far, besides; chiefly, principally, mainly, mostly, generally; entirely, full, fully, completely, perfectly, wholly, totally, altogether, all, quite, clear, stark; exceedingly, excessively, extravagantly, intolerably; immeasurably, inconceivably, infinitely''.
+
+Of equality or '''sufficiency''': as, ''enough, sufficiently, competently, adequately, proportionally, equally, so, as, even, just, exactly, precisely''.
+
+Of '''deficiency''' or abatement: as, ''little, less, least, scarcely, hardly, scantly, scantily merely, barely, only, but, partly, partially, nearly, almost, well-nigh, not quite''.
+
+Of quantity in the '''abstract''': as, ''how, however, howsoever, everso, something, anything, nothing, a groat, a sixpence'', and other nouns of quantity used adverbially.
+
+===Adverbs of manner===
+
+Adverbs of manner are those which answer to the question, how? or, by affirming, denying, or doubting, show how a subject is regarded.
+
+Of manner from '''quality''': as, ''well, ill, wisely, foolishly, justly, wickedly'', and many others formed by adding ''ly'' to adjectives of quality.
+
+Of affirmation or '''assent''': as, ''yes, yea, ay, verily, truly, indeed, surely, certainly, doubtless, undoubtedly, assuredly, certes, forsooth, amen''.
+
+Of '''negation''': as, ''no, nay, not, nowise, noway, noways, nohow''.
+
+Of doubt or '''uncertainty''': as, ''perhaps, haply, possibly, perchance, peradventure, maybe''.
+
+Of '''mode''' or way: as, ''thus, so, how, somehow, nohow, anyhow, however, howsoever, like, else, otherwise, across, together, apart, asunder, namely, particularly, necessarily, hesitatingly, trippingly, extempore, headlong, lengthwise''.
+
+===Adverbs of place===
+
+Of place '''in''' which: as, ''where, here, there, yonder, above, below, about, around, somewhere, anywhere, elsewhere, otherwhere, everywhere, nowhere, wherever, wheresoever, within, without, whereabout, whereabouts, hereabout, hereabouts, thereabout, thereabouts''.
+
+Of place '''to''' which: as, ''whither, hither, thither, in, up, down, back, forth, aside, ashore, abroad, aloft, home, homewards, inwards, upwards, downwards, backwards, forwards''.
+
+Of place '''from''' which: as, ''whence, hence, thence, away, out, off, far, remotely''.
+
+Of the '''order''' of place: as, ''first, secondly, thirdly, fourthly'', etc.
+
+Thus, secondly means in the second place; ''thirdly, in the third place''; etc.
+
+===Conjunctive adverbs===
+
+The conjunctive adverbs are those which perform the office of conjunctions.
+The following words are the most frequently used as conjunctive
+adverbs: ''after, again, also, as, before, besides, consequently, else, ere, even, furthermore, hence, how, however, moreover, nevertheless, as well, otherwise, since, so, still, till, then, thence, therefore, too, until, when, where, wherefore, whither, while''.
+
+The '''adverbs of cause''': ''why, wherefore, therefore''; but the last two of these are often called conjunctions.
+
+The '''pronominal compounds''': ''herein, therein, wherein'', etc.
+
+==A short syntax==
+
+Adverbs relate to verbs, participles, adjectives, or other adverbs: as, &quot;How blessed,&quot; except the following cases: independent adverbs, as &quot;No,&quot; the word ''amen'', as &quot;These things say the amen,&quot; an adverb before preposition, as &quot;All along&quot;, and ''much'', ''little'', ''far'', and ''all'', as &quot;Thus far is right.&quot;
+
+==References==
+
+*A part of the text in this article, was taken from the public domain English grammar [http://www.gutenberg.net/etext/11615 &quot;The Grammar of English Grammars&quot;] by Goold Brown, 1851.
+{{English in Use/Navigation}}
+*[[w:Adverb|The Wikipedia article on Adverb]]</text>
+      <sha1>acl7iqhdsm1sz74369as8dxkj6zlkn4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>English in Use/Adjectives</title>
+    <ns>0</ns>
+    <id>2287</id>
+    <revision>
+      <id>2271780</id>
+      <parentid>2065524</parentid>
+      <timestamp>2012-02-22T20:49:23Z</timestamp>
+      <contributor>
+        <username>Overjoin</username>
+        <id>567141</id>
+      </contributor>
+      <comment>/* See also */</comment>
+      <text xml:space="preserve">{{English in Use}}
+----
+
+An '''adjective''' is a word added to a noun or pronoun, and generally expresses quality: as, A wise man; a new book; you two are diligent. Adjectives may be divided into six classes; namely, common, proper, numeral, pronominal, participial, and compound.
+
+A '''common''' adjective is any ordinary epithet, or adjective denoting quality or situation: as, ''good, bad, peaceful, warlike, eastern, western, outer, inner''.
+
+A '''proper''' adjective is an adjective formed from a proper name: as, ''American, English, Platonic, Genoese''.
+
+A '''numeral''' adjective is an adjective that expresses a definite number: as, ''one, two, three, four, five, six'', etc.
+
+A '''pronominal''' adjective is a definitive word which may either accompany its noun, or represent it understood: as,
+
+*&quot;All join to guard what each desires to gain.&quot;&amp;mdash;Pope.
+
+That is,
+
+*&quot;All men join to guard what each man desires to gain.&quot;
+
+A '''participial''' adjective is one that has the form of a participle, but differs from it by rejecting the idea of time: as,
+
+*&quot;An amusing story,&quot;
+*&quot;A lying divination.&quot;
+
+A '''compound''' adjective is one that consists of two or more words joined together, either by the hyphen or solidly: as, ''nut-brown, laughter-loving, four-footed; threefold, lordlike, lovesick''.
+
+'''Cardinal''': ''one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, twenty-two'', etc.
+
+'''Ordinal''': ''first, second, third, fourth, fifth, sixth, seventh, eighth, ninth, tenth, eleventh, twelfth, thirteenth, fourteenth, fifteenth, sixteenth, seventeenth, eighteenth, nineteenth, twentieth, twenty-first, twenty-second'', etc.
+
+'''Multiplicative''': ''single or alone, double or twofold, triple or threefold, quadruple or fourfold, quintuple or fivefold, sextuple or sixfold, septuple or sevenfold, octuple or eightfold'', etc.
+
+All that occur above decuple or tenfold, are written with a hyphen, and are usually of round numbers only: as, ''thirty-fold, sixty-fold, hundred-fold''.
+
+
+==Adjectives ending in ing and ed==
+
+==Adjectives word order==
+
+In English, multiple adjectives should follow a certain pattern as follows:
+
+ 1) opinion (e.g. lovely, fantastic)
+ 2) size (e.g. tiny, large)
+ 3) most other qualities (e.g. warm, tight)
+ 4) age (e.g. new, young)
+ 5) colour (e.g. red, beige)
+ 6) pattern (e.g. stripy, plain)
+ 7) nationality (e.g. Spanish, foreign)
+ 8) material (e.g. silk, cotton)
+
+Although you generally shouldn't use more than 2 or 3 adjectives together it is possible to make a sentence like this:
+
+*&quot;I just bought a lovely, large, warm, new, red, stripey, foreign, cotton sweater.&quot;
+
+==Modifications==
+
+Adjectives have, commonly, no modifications but the forms of comparison. Comparison is a variation of the adjective, to express quality in different degrees: as, ''hard, harder, hardest; soft, softer, softest''.
+
+There are three degrees of comparison; the positive, the comparative, and the superlative.
+
+The '''positive degree'' is that which is expressed by the adjective in its simple form: as,
+
+*&quot;An elephant is large; a mouse, small; a lion, fierce, active, bold, and  strong.&quot;
+
+The '''comparative degree''' is that which is more or less than something contrasted with it: as,
+
+*&quot;A whale is larger than an elephant; a mouse is a much smaller animal than a rat.&quot;
+
+The '''superlative degree''' is that which is most or least of all included with it: as,
+
+*&quot;The whale is the largest of the animals that inhabit this globe; the mouse is the smallest of all beasts.&quot;&amp;mdash;Dr. Johnson.
+
+Those adjectives whose signification does not admit of different degrees, cannot be compared: as, ''two, second, all, every, immortal, infinite''.
+
+Those adjectives which may be varied in sense, but not in form, are compared by means of adverbs: as, ''fruitful, more fruitful, most fruitful; fruitful, less fruitful, least fruitful''.
+
+==Regular comparison==
+
+Adjectives are regularly compared, when the comparative degree is expressed by adding ''er'', and the superlative, by adding ''est'' to them: as, ''great, greater, greatest; mild, milder, mildest''.
+
+In the variation of adjectives, final consonants are doubled, final ''e'' is omitted, and final ''y'' is changed to ''i'', agreeably to the rules for spelling: as, ''hot, hotter, hottest; wide, wider, widest; happy, happier, happiest''.
+
+The regular method of comparison belongs almost exclusively to monosyllables, with dissyllables ending in ''w'' or ''y'', and such others as receive it and still have but one syllable after the accent: as, ''fierce, fiercer, fiercest; narrow, narrower, narrowest; gloomy, gloomier, gloomiest; serene, serener, serenest; noble, nobler, noblest; gentle, gentler, gentlest''.
+
+==Comparison by adverbs==
+
+The two degrees of superiority may also be expressed with precisely the same import as above, by prefixing to the adjective the adverbs ''more'' and ''most'': as, ''wise, more wise, most wise; famous, more famous, most famous; amiable, more amiable, most amiable''.
+
+The degrees of inferiority are expressed, in like manner, by the adverbs ''less'' and ''least'': as, ''wise, less wise, least wise; famous, less famous, least famous; amiable, less amiable, least amiable''. The regular method of comparison has, properly speaking, no degrees of this kind.
+
+Nearly all adjectives that admit of different degrees, may be compared by means of the adverbs; but, for short words, the regular method is generally preferable: as, ''quick, quicker, quickest''; rather than, ''quick, more quick, most quick''.
+
+==Irregular comparison==
+
+The following adjectives are compared irregularly: ''good, better, best; bad, evil, or ill, worse, worst; little, less, least; much, more, most; many, more, most''.
+
+==A short syntax==
+
+Adjectives relate to nouns or pronouns, as &quot;Worldly enjoyments,&quot; except the following cases: an intervening verb, as &quot;To err is human,&quot; arithmetical numbers, as &quot;Four hundred and fifty-six men,&quot; an abstract adjective, as &quot;Being sublime,&quot; and an adjective as abstract noun, as &quot;Sensations of sublime.&quot;
+
+An adjective is placed immediately before noun, as &quot;Vain man,&quot; except the following cases: pronouns, as &quot;They left me weary,&quot; other words, as &quot;A mind conscious of right,&quot; an action, as &quot;Virtue renders life happy,&quot; admiration, as &quot;Goodness infinite,&quot; a verb, as &quot;Truth stands independent,&quot; a prefix ''a'', as afraid, the nature of a participle, as &quot;The time then present,&quot; poetry, as &quot;Isles atlantic,&quot; technical usage, as &quot;Notary public,&quot; an adjective, as &quot;A being infinitely wise,&quot; several adjectives, as &quot;A woman, modest, sensible, and virtuous,&quot; empathy, as &quot;Weighty is the anger,&quot; an adjective in predicate, as &quot;We call the boy good,&quot; and an adjective as adverb, as &quot;Particularly&quot;.
+
+==References==
+
+*A part of the text in this article, was taken from the public domain English grammar [http://www.gutenberg.net/etext/11615 &quot;The Grammar of English Grammars&quot;] by Goold Brown, 1851.
+
+==See also==
+*[[w:Adjective|The Wikipedia article on Adjective]]
+
+{{English in Use/Navigation}}
+
+[[fr:Enseignement de l'anglais/Adjectifs]]</text>
+      <sha1>d760fmky5mldux6sclp53i7dqbfu66m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

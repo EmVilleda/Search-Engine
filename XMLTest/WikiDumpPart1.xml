@@ -1,0 +1,119 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikibooks</sitename>
+    <dbname>enwikibooks</dbname>
+    <base>http://en.wikibooks.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.25wmf4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikibooks</namespace>
+      <namespace key="5" case="first-letter">Wikibooks talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Cookbook</namespace>
+      <namespace key="103" case="first-letter">Cookbook talk</namespace>
+      <namespace key="108" case="first-letter">Transwiki</namespace>
+      <namespace key="109" case="first-letter">Transwiki talk</namespace>
+      <namespace key="110" case="first-letter">Wikijunior</namespace>
+      <namespace key="111" case="first-letter">Wikijunior talk</namespace>
+      <namespace key="112" case="first-letter">Subject</namespace>
+      <namespace key="113" case="first-letter">Subject talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Main Page</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>2497805</id>
+      <parentid>2373587</parentid>
+      <timestamp>2013-03-06T15:30:54Z</timestamp>
+      <contributor>
+        <username>Pi zero</username>
+        <id>75960</id>
+      </contributor>
+      <comment>seems more appropriate</comment>
+      <text xml:space="preserve">&lt;div style=&quot;width:100%; margin:0px; padding:0px 5px 5px 5px;&quot;&gt;
+&lt;div style=&quot;clear:both; text-align:center; font-size:95%; margin:0em 1em 0em 1em;&quot;&gt;
+&lt;div id=&quot;mf-overview&quot;&gt;[[Wikibooks:Welcome|Overview]] •&lt;/div&gt;
+[[Using Wikibooks]] •
+[[Wikibooks:Reading room|Questions]] •
+[[Help:Contents|Help]] •
+[[Wikibooks:Card Catalog Office|Browse]]
+&lt;/div&gt;
+&lt;div style=&quot;width:50%; float:right; font-size:95%;&quot;&gt;
+&lt;div style=&quot;float:right; width:30%;&quot;&gt;
+* [[Subject:Science|Science]]
+* [[Subject:Social sciences|Social sciences]]
+* '''[[Subject:Books by subject|All subjects]]'''
+&lt;/div&gt;
+&lt;div style=&quot;float:right; width:30%;&quot;&gt;
+* [[Subject:Languages|Languages]]
+* [[Subject:Mathematics|Mathematics]]
+* [[Subject:Miscellaneous|Miscellaneous]]
+&lt;/div&gt;
+&lt;div style=&quot;float:right; width:30%;&quot;&gt;
+* [[Subject:Computing|Computing]]
+* [[Subject:Engineering|Engineering]]
+* [[Subject:Humanities|Humanities]]
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&quot;width:40%; text-align:center;&quot;&gt;
+&lt;div style=&quot;font-size:162%; padding:0.1em;&quot;&gt;[[Wikibooks:Welcome|Welcome]] to [[Wikibooks:What is Wikibooks|Wikibooks]],&lt;/div&gt;
+&lt;div style=&quot;font-size:95%; margin-top:0.2em;&quot;&gt;the open-content textbooks collection that [[Help:Contributing|anyone can edit]].&lt;/div&gt;
+&lt;div id=&quot;pagecount&quot; style=&quot;font-size:85%;&quot;&gt;[[Subject:Books by subject|{{formatnum:{{NUMBEROFBOOKS}}}} books]] with [[Special:Allpages|{{NUMBEROFARTICLES}} pages]]&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&quot;clear:both; margin:25px 0px 0px 0px; padding:0px;&quot;&gt;
+{| id=&quot;mp-content&quot; style=&quot;width:100%; border-spacing:10px 0px;&quot;
+ | style=&quot;width:33%; padding:10px; vertical-align:top; background-color:#ddddff;&quot; | {{:Main Page/Featured}}
+ | style=&quot;width:33%; padding:10px; vertical-align:top; background-color:#ddddff;&quot; | {{:Main Page/Wikijunior}}
+ | style=&quot;width:33%; padding:10px; vertical-align:top; background-color:#ddddff;&quot; | {{:Main Page/Recipe}}
+ |}
+&lt;/div&gt;
+&lt;/div&gt;
+
+{{:Main Page/Sisters}}
+
+[[Category:Main page| ]]</text>
+      <sha1>ls63cb69di8i31p5qikhx6xxot5jcfw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Toby Bartels</title>
+    <ns>2</ns>
+    <id>3</id>
+    <revision>
+      <id>2010226</id>
+      <parentid>1312964</parentid>
+      <timestamp>2010-12-30T23:13:58Z</timestamp>
+      <contributor>
+        <username>Toby Bartels</username>
+        <id>4</id>
+      </contributor>
+      <minor />
+      <comment>Fix URI.</comment>
+      <text xml:space="preserve">I'm [http://tobybartels.name/ Toby Bartels].</text>
+      <sha1>0gkpggijneqw3uo8wpegsp3syggw049</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,1733 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>User:Flonejek</title>
+    <ns>2</ns>
+    <id>4829</id>
+    <revision>
+      <id>912703</id>
+      <parentid>156507</parentid>
+      <timestamp>2007-06-30T09:17:30Z</timestamp>
+      <contributor>
+        <ip>203.59.174.62</ip>
+      </contributor>
+      <comment>/* [http://homepage.mac.com/flonejek my homepage] */</comment>
+      <text xml:space="preserve">==[http://homepage.mac.com/flonejek my homepage]==
+
+My name is Adon Metcalfe (I'm the only 'Adon Metcalfe' at [http://www.google.com/search?hl=en&amp;lr=&amp;ie=UTF-8&amp;oe=UTF-8&amp;q=%22adon+metcalfe%22&amp;btnG=Search google]), I was born in 1987, and am known as &quot;flonejek&quot; and by the address of eskimo.homeunix.org. My [http://flonejek.livejournal.com/ blog] is where you'll find all the details of whats happening to me. If you want to talk to me, I'm most responsive to email, my address is [mailto:flonejek@gmail.com flonejek@gmail.com]</text>
+      <sha1>m19iipaw5xywmasl7opucsjdt74016o</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Botany/Pteridology</title>
+    <ns>0</ns>
+    <id>4830</id>
+    <revision>
+      <id>2063491</id>
+      <parentid>966197</parentid>
+      <timestamp>2011-03-04T17:59:46Z</timestamp>
+      <contributor>
+        <username>Avicennasis</username>
+        <id>314063</id>
+      </contributor>
+      <minor />
+      <comment>[[WP:AWB/T|Typo fixing]], typos fixed: divsion → division, imense → immense using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">&lt;small&gt;&lt;&lt; [[Botany#Contents|Contents Page]] | [[Botany/Bryology|Chapter 11]] | &lt;/small&gt;Chapter 12&lt;small&gt; |   [[Botany/Equisetophyta|Chapter 13]] &gt;&gt;&lt;/small&gt; 
+
+----
+
+== Chapter 12. Pteridology ~ The Ferns ==
+
+''Pteridology'' is the study of ferns&amp;mdash;plants classified in the '''Division Pterophyta''' (or Filicophyta). Ferns do not have seeds the way trees and flowering plants do. Rather, they have spores the way mosses do. The haploid spores grow small haploid organisms, which then undergo fertilization and grow the diploid fern plant directly out of the haploid gametophyte, similar to the sporophyte stalk growing out of the moss. The larger part, what we think of as the fern, is the sporophyte. The gametophyte is a small green prothallus that the sporophyte grows out of. Ferns are still tied to an aquatic environment, in that once a spore grows into a prothallus, there must be moisture enough for the egg in the prothallus to be fertilized by swimming, flagellated fern sperm.
+
+Having a large sporophyte allows ferns to produce many more spores than a moss could- recall that each sporophyte on a moss only carried one sporangia. Producing many more propagules increased fern presence and dominance.
+Besides having a larger sporophyte generation, ferns have many important adaptations that increase their capabilities above the mosses. Ferns have roots, which, unlike moss rhizoids, not only anchor, but take up nutrients. Ferns are vascular plants, with lignified vascular tissues. These allow active water transport. That water transport along with the strength of the ligified cells allow ferns to be much larger than their moss ancestors.
+At one point, ferns and fern trees were the most advanced plant life, and grew even larger than ferns today do, with great size and variety of ferns. There were no flowering plants in the early cretaceous- the first forests of the dinosaurs were composed of fern trees.
+
+*Read [[Wikipedia:en:Fern|Ferns]] &lt;small&gt;(Follow all links)&lt;/small&gt;
+
+=== Sporophyte Structure ===
+
+* Read [[Wikipedia:en:Frond|Frond]] &lt;small&gt;(Follow all links)&lt;/small&gt;
+
+==Evolution and ferns==
+
+Ferns have a big advantage over the mosses in their vascular tissue. They can grow taller, and can exist in more diverse environments. This is a trend that will continue in evolution, eventually leading to the rise of such large sporophyte generations as the great sequoia trees. But if ferns are so much more fit for survival, why are there still mosses? And if a larger sporophyte generation is more fit, why haven't sequoias become dominant enough to eliminate the ferns? While there are clear benefits to a larger sporophyte generation, in some recurring natural situations, natural selection favors mosses over ferns or ferns over trees. Spores are better at spreading by wind than many seeds are, for instance. So while in the long term, the protection of a seed allows seed plants  to be dominant on the planet, in many situations the lightness and transport of a spore is still efficient in spreading ferns.
+
+There are two gena that have showed immense diversity in the division Pteridophyta.Selaginella and Equisetum have been identified to be the only gena that are heterosporous.
+----
+
+&lt;center&gt;
+{{BotanyTOC2}}
+&lt;/center&gt;
+
+[[Category:Botany]]</text>
+      <sha1>sgmgqdi0a11241hx6lj2q9qe1m7gq6t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Engineering Thermodynamics/Second Law</title>
+    <ns>0</ns>
+    <id>4831</id>
+    <revision>
+      <id>2679296</id>
+      <parentid>2678622</parentid>
+      <timestamp>2014-07-07T07:19:10Z</timestamp>
+      <contributor>
+        <username>Fishpi</username>
+        <id>366400</id>
+      </contributor>
+      <comment>Rejected the last text change (by [[Special:Contributions/49.204.164.161|49.204.164.161]]) and restored revision 2589624 by QuiteUnusual (poor grammar and spelling)</comment>
+      <text xml:space="preserve">{{EngTherm}}
+----
+== Introduction ==
+{EngTherm}}
+----
+== Introduction ==
+
+The first law is a statement of energy conservation.
+The rise in temperature of a substance when work is done is well known.
+Thus work can be completely converted to heat.
+However, we observe that in nature, we don't see the conversion in the other direction spontaneously.
+
+The statement of the second law is facilitated by using the concept of ''heat engines''.
+Heat engines work in a cycle and convert heat into work.
+A ''thermal reservoir'' is defined as a system which is in equilibrium and large enough so that heat transferred to and from it does not change its temperature appreciably.
+
+[[Image:hengine Engineering Thermodynamics.png|Heat Engine]]
+
+Heat engines usually work between two thermal reservoirs, the low temperature reservoir and the high temperature reservoir.
+The performance of a heat engine is measured by its ''thermal efficiency'', which is defined as the ratio of work output to heat input, ''i.e.'', ''&amp;eta; = W/Q&lt;sub&gt;1&lt;/sub&gt;'', where ''W'' is the net work done, and ''Q&lt;sub&gt;1&lt;/sub&gt;'' is heat transferred from the high temperature reservoir.
+
+[[Image:hpump Engineering Thermodynamics.png|Heat Pumps]]
+
+''Heat pumps'' transfer heat from a low temperature reservoir to a high temperature reservoir using external work, and can be considered as reversed heat engines.
+
+== Statement of the Second Law of Thermodynamics ==
+=== Kelvin-Planck Statement ===
+
+It is impossible to construct a heat engine which will operate continuously and convert all the heat it draws from a reservoir into work.
+
+
+
+OR 
+
+
+'''''IT IS IMPOSSIBLE TO HEAT ENGINE WHICH WORKS IN CYCLE AND AND DOING WORK BY EXCHANGE HEAT WITH ONLY ONE RESERVOIR.'''''
+
+=== Clausius Statement ===
+
+It is impossible to construct a heat pump which will transfer heat from a low temperature reservoir to a high temperature reservoir without using external work.
+                                       &quot;OR&quot;
+it is impossible to flow heat from low temperature (sink) to high temperature (source) without using expenditures.
+
+=== PMM2 ===
+
+A ''perpetual motion machine of the second kind'', or ''PMM2'' is one which converts all the heat input into work while working in a cycle.
+A PMM2 has an ''&amp;eta;&lt;sub&gt;th&lt;/sub&gt;'' of 1.
+
+=== Equivalence of Clausius and Kelvin-Planck Statements ===
+
+[[Image:clausius Engineering Thermodynamics.png|Kelvin-Planck from Clausius]]
+
+Suppose we can construct a heat pump which transfers heat from a low temperature reservoir to a high temperature one without using external work.
+Then, we can couple it with a heat engine in such a way that the heat removed by the heat pump from the low temperature reservoir is the same as the heat rejected by the heat engine, so that the combined system is now a heat engine which converts heat to work without any external effect.
+This is thus in violation of the Kelvin-Planck statement of the second law.
+
+[[Image:kelplank Engineering Thermodynamics.png|Clausius from Kelvin-Planck]]
+
+Now suppose we have a heat engine which can convert heat into work without rejecting heat anywhere else.
+We can combine it with a heat pump so that the work produced by the engine is used by the pump.
+Now the combined system is a heat pump which uses no external work, violating the Clausius statement of the second law.
+
+Thus, we see that the Clausius and Kelvin-Planck statements are equivalent, and one necessarily implies the other.
+
+== Carnot Cycle ==
+
+Nicholas Sadi Carnot devised a reversible cycle in 1824 called the ''Carnot cycle'' for an engine working between two reservoirs at different temperatures.
+It consists of two reversible isothermal and two reversible adiabatic processes.
+For a cycle 1-2-3-4, the working material
+# Undergoes isothermal expansion in 1-2 while absorbing heat from high temperature reservoir
+# Undergoes adiabatic expansion in 2-3
+# Undergoes isothermal compression in 3-4, and
+# Undergoes adiabatic compression in 4-1.
+
+[[Image:pvcarnot Engineering Thermodynamics.png|Carnot Cycle P-V Diagram]]
+
+Heat is transferred to the working material during 1-2 (''Q&lt;sub&gt;1&lt;/sub&gt;'') and heat is rejected during 3-4 (''Q&lt;sub&gt;2&lt;/sub&gt;'').
+The thermal efficiency is thus ''&amp;eta;&lt;sub&gt;th&lt;/sub&gt; = W/Q&lt;sub&gt;1&lt;/sub&gt;''.
+Applying first law, we have, ''W = Q&lt;sub&gt;1&lt;/sub&gt; &amp;minus; Q&lt;sub&gt;2&lt;/sub&gt;'', so that ''&amp;eta;&lt;sub&gt;th&lt;/sub&gt; = 1 &amp;minus; Q&lt;sub&gt;2&lt;/sub&gt;/Q&lt;sub&gt;1&lt;/sub&gt;''.
+
+''Carnot's principle'' states that
+# No heat engine working between two thermal reservoirs is more efficient than the Carnot engine, and
+# All Carnot engines working between reservoirs of the same temperature have the same efficiency.
+
+The proof by contradiction of the above statements come from the second law, by considering cases where they are violated.
+For instance, if you had a Carnot engine which was more efficient than another one, we could use that as a heat pump (since processes in a Carnot cycle are reversible) and combine with the other engine to produce work without heat rejection, to violate the second law.
+A corollary of the Carnot principle is that ''Q&lt;sub&gt;2&lt;/sub&gt;/Q&lt;sub&gt;1&lt;/sub&gt;'' is purely a function of ''t&lt;sub&gt;2&lt;/sub&gt;'' and ''t&lt;sub&gt;1&lt;/sub&gt;'', the reservoir temperatures.
+Or,
+
+&lt;math&gt; \frac{Q_1}{Q_2} = \phi
+  \left(
+    t_1, t_2
+  \right)&lt;/math&gt;
+
+== Thermodynamic Temperature Scale ==
+
+Lord Kelvin used Carnot's principle to establish the thermodynamic temperature scale which is independent of the working material.
+He considered three temperatures, ''t&lt;sub&gt;1&lt;/sub&gt;'', ''t&lt;sub&gt;2&lt;/sub&gt;'', and ''t&lt;sub&gt;3&lt;/sub&gt;'', such that ''t&lt;sub&gt;1&lt;/sub&gt;'' &amp;gt; ''t&lt;sub&gt;3&lt;/sub&gt;'' &amp;gt; ''t&lt;sub&gt;2&lt;/sub&gt;''.
+
+As shown in the previous section, the ratio of heat transferred only depends on the temperatures.
+The first law is a statement of energy conservation.
+The rise in temperature of a substance when work is done is well known.
+Thus work can be completely converted to heat.
+However, we observe that in nature, we don't see the conversion in the other direction spontaneously.
+
+The statement of the second law is facilitated by using the concept of ''heat engines''.
+Heat engines work in a cycle and convert heat into work.
+A ''thermal reservoir'' is defined as a system which is in equilibrium and large enough so that heat transferred to and from it does not change its temperature appreciably.
+
+[[Image:hengine Engineering Thermodynamics.png|Heat Engine]]
+
+Heat engines usually work between two thermal reservoirs, the low temperature reservoir and the high temperature reservoir.
+The performance of a heat engine is measured by its ''thermal efficiency'', which is defined as the ratio of work output to heat input, ''i.e.'', ''&amp;eta; = W/Q&lt;sub&gt;1&lt;/sub&gt;'', where ''W'' is the net work done, and ''Q&lt;sub&gt;1&lt;/sub&gt;'' is heat transferred from the high temperature reservoir.
+
+[[Image:hpump Engineering Thermodynamics.png|Heat Pumps]]
+
+''Heat pumps'' transfer heat from a low temperature reservoir to a high temperature reservoir using external work, and can be considered as reversed heat engines.
+
+== Statement of the Second Law of Thermodynamics ==
+=== Kelvin-Planck Statement ===
+
+It is impossible to construct a heat engine which will operate continuously and convert all the heat it draws from a reservoir into work.
+
+=== Clausius Statement ===
+
+It is impossible to construct a heat pump which will transfer heat from a low temperature reservoir to a high temperature reservoir without using external work.
+                                       &quot;OR&quot;
+it is impossible to flow heat from low temperature(sink) to high temperature(source)without using expenditures.
+
+{{BookCat}}=== PMM2 ===
+
+A ''perpetual motion machine of the second kind'', or ''PMM2'' is one which converts all the heat input into work while working in a cycle.
+A PMM2 has an ''&amp;eta;&lt;sub&gt;th&lt;/sub&gt;'' of 1.
+
+=== Equivalence of Clausius and Kelvin-Planck Statements ===
+
+[[Image:clausius Engineering Thermodynamics.png|Kelvin-Planck from Clausius]]
+
+Suppose we can construct a heat pump which transfers heat from a low temperature reservoir to a high temperature one without using external work.
+Then, we can couple it with a heat engine in such a way that the heat removed by the heat pump from the low temperature reservoir is the same as the heat rejected by the heat engine, so that the combined system is now a heat engine which converts heat to work without any external effect.
+This is thus in violation of the Kelvin-Planck statement of the second law.
+
+[[Image:kelplank Engineering Thermodynamics.png|Clausius from Kelvin-Planck]]
+
+Now suppose we have a heat engine which can convert heat into work without rejecting heat anywhere else.
+We can combine it with a heat pump so that the work produced by the engine is used by the pump.
+Now the combined system is a heat pump which uses no external work, violating the Clausius statement of the second law.
+
+Thus, we see that the Clausius and Kelvin-Planck statements are equivalent, and one necessarily implies the other.
+
+== Carnot Cycle ==
+
+Nicholas Sadi Carnot devised a reversible cycle in 1824 called the ''Carnot cycle'' for an engine working between two reservoirs at different temperatures.
+It consists of two reversible isothermal and two reversible adiabatic processes.
+For a cycle 1-2-3-4, the working material
+# Undergoes isothermal expansion in 1-2 while absorbing heat from high temperature reservoir
+# Undergoes adiabatic expansion in 2-3
+# Undergoes isothermal compression in 3-4, and
+# Undergoes adiabatic compression in 4-1.
+
+[[Image:pvcarnot Engineering Thermodynamics.png|Carnot Cycle P-V Diagram]]
+
+Heat is transferred to the working material during 1-2 (''Q&lt;sub&gt;1&lt;/sub&gt;'') and heat is rejected during 3-4 (''Q&lt;sub&gt;2&lt;/sub&gt;'').
+The thermal efficiency is thus ''&amp;eta;&lt;sub&gt;th&lt;/sub&gt; = W/Q&lt;sub&gt;1&lt;/sub&gt;''.
+Applying first law, we have, ''W = Q&lt;sub&gt;1&lt;/sub&gt; &amp;minus; Q&lt;sub&gt;2&lt;/sub&gt;'', so that ''&amp;eta;&lt;sub&gt;th&lt;/sub&gt; = 1 &amp;minus; Q&lt;sub&gt;2&lt;/sub&gt;/Q&lt;sub&gt;1&lt;/sub&gt;''.
+
+''Carnot's principle'' states that
+# No heat engine working between two thermal reservoirs is more efficient than the Carnot engine, and
+# All Carnot engines working between reservoirs of the same temperature have the same efficiency.
+
+The proof by contradiction of the above statements come from the second law, by considering cases where they are violated.
+For instance, if you had a Carnot engine which was more efficient than another one, we could use that as a heat pump (since processes in a Carnot cycle are reversible) and combine with the other engine to produce work without heat rejection, to violate the second law.
+A corollary of the Carnot principle is that ''Q&lt;sub&gt;2&lt;/sub&gt;/Q&lt;sub&gt;1&lt;/sub&gt;'' is purely a function of ''t&lt;sub&gt;2&lt;/sub&gt;'' and ''t&lt;sub&gt;1&lt;/sub&gt;'', the reservoir temperatures.
+Or,
+
+&lt;math&gt; \frac{Q_1}{Q_2} = \phi
+  \left(
+    t_1, t_2
+  \right)&lt;/math&gt;
+
+== Thermodynamic Temperature Scale ==
+
+Lord Kelvin used Carnot's principle to establish the thermodynamic temperature scale which is independent of the working material.
+He considered three temperatures, ''t&lt;sub&gt;1&lt;/sub&gt;'', ''t&lt;sub&gt;2&lt;/sub&gt;'', and ''t&lt;sub&gt;3&lt;/sub&gt;'', such that ''t&lt;sub&gt;1&lt;/sub&gt;'' &amp;gt; ''t&lt;sub&gt;3&lt;/sub&gt;'' &amp;gt; ''t&lt;sub&gt;2&lt;/sub&gt;''.
+
+As shown in the previous section, the ratio of heat transferred only depends on the temperatures.
+Considering reservoirs 1 and 2:
+
+&lt;math&gt; \frac{Q_1}{Q_2} = \phi
+  \left(
+    t_1, t_2
+  \right)&lt;/math&gt;
+
+Considering reservoirs 2 and 3:
+
+&lt;math&gt; \frac{Q_2}{Q_3} = \phi
+  \left(
+    t_2, t_3
+  \right)&lt;/math&gt;
+
+Considering reservoirs 1 and 3:
+
+&lt;math&gt; \frac{Q_1}{Q_3} = \phi
+  \left(
+    t_1, t_3
+  \right)&lt;/math&gt;
+
+Eliminating the heat transferred, we have the following condition for the function ''&amp;phi;''.
+
+&lt;math&gt; \phi
+  \left(
+    t_1, t_2 
+  \right) = \frac{\phi
+    \left(
+    t_1, t_3
+    \right)}{\phi
+    \left(
+    t_2, t_3
+    \right)}&lt;/math&gt;
+
+Now, it is possible to choose an arbitrary temperature for 3, so it is easy to show using elementary multivariate calculus that ''&amp;phi;'' can be represented in terms of an increasing function of temperature ''&amp;zeta;'' as follows:
+
+&lt;math&gt;  \phi
+  \left(
+    t_1, t_2 
+  \right) = \frac{\zeta
+    \left(
+    t_1
+    \right)}{\zeta
+    \left(
+    t_2
+    \right)}
+&lt;/math&gt;
+
+Now, we can have a one to one association of the function ''&amp;zeta;'' with a new temperature scale called the ''thermodynamic temperature scale'', ''T'', so that
+
+&lt;math&gt;\frac{Q_1}{Q_2} = \frac{T_1}{T_2}&lt;/math&gt;
+
+Thus we have the thermal efficiency of a Carnot engine as
+
+&lt;math&gt;\eta_{th} = 1 - \frac{T_2}{T_1}&lt;/math&gt;
+
+The thermodynamic temperature scale is also known as the Kelvin scale, and it needs only one fixed point, as the other one is absolute zero.
+The concept of absolute zero will be further refined during the statement of the third law of thermodynamics.
+
+*1st  Law:  Energy can neither be created or destroyed
+*2nd Law:  All spontaneous events act to increase total entropy
+*3rd Law:  Absolute zero is removal of all thermal molecular motion
+
+==NOTE==
+
+Reservoirs are systems of large quantity of matter which no temperature difference will occur when finite amount of heat is transferred or removed. Ex- Ocean,lake, air and etc....
+
+== Clausius Theorem ==
+
+''Clausius theorem'' states that any reversible process can be replaced by a combination of reversible isothermal and adiabatic processes.
+
+[[Image:clausiusthm Engineering Thermodynamics.png|Clausius Theorem]]
+
+Consider a reversible process ''a-b''.
+A series of isothermal and adiabatic processes can replace this process if the heat and work interaction in those processes is the same as that in the process ''a-b''.
+Let this process be replaced by the process ''a-c-d-b'', where ''a-c'' and ''d-b'' are reversible adiabatic processes, while ''c-d'' is a reversible isothermal process.
+The isothermal line is chosen such that the area ''a-e-c'' is the same as the area ''b-e-d''.
+Now, since the area under the ''p-V'' diagram is the work done for a reversible process, we have, the total work done in the cycle ''a-c-d-b-a'' is zero.
+Applying the first law, we have, the total heat transferred is also zero as the process is a cycle.
+Since ''a-c'' and ''d-b'' are adiabatic processes, the heat transferred in process ''c-d'' is the same as that in the process ''a-b''.
+Now applying first law between the states ''a'' and ''b'' along ''a-b'' and ''a-c-d-b'', we have, the work done is the same.
+Thus the heat and work in the process ''a-b'' and  ''a-c-d-b'' are the same and any reversible process ''a-b'' can be replaced with a combination of isothermal and adiabatic processes, which is the Clausius theorem.
+
+A corollary of this theorem is that any reversible cycle can be replaced by a series of Carnot cycles.
+
+Suppose each of these Carnot cycles absorbs heat ''dQ&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;i&lt;/sup&gt;'' at temperature ''T&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;i&lt;/sup&gt;'' and rejects heat ''dQ&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;i&lt;/sup&gt;'' at ''T&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;i&lt;/sup&gt;''.
+Then, for each of these engines, we have ''dQ&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;i&lt;/sup&gt;/dQ&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;i&lt;/sup&gt; = &amp;minus;T&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;i&lt;/sup&gt;/T&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;i&lt;/sup&gt;''.
+The negative sign is included as the heat lost from the body has a negative value.
+Summing over a large number of these cycles, we have, in the limit,
+
+&lt;math&gt;\oint_R \frac{dQ}{T} = 0&lt;/math&gt;
+
+This means that the  quantity ''dQ/T'' is a property.
+It is given the name ''entropy''.
+
+Further, using Carnot's principle, for an irreversible cycle, the efficiency is less than that for the Carnot cycle, so that
+
+&lt;math&gt;\eta_{irr} = 1 - \frac{dQ_2}{dQ_1} &lt; \eta_{Carnot}&lt;/math&gt;
+
+&lt;math&gt;\frac{dQ_1}{T_1} - \frac{dQ_2}{T_2} &lt; 0&lt;/math&gt;
+
+As the heat is transferred out of the system in the second process, we have, assuming the normal conventions for heat transfer, 
+
+&lt;math&gt;\frac{dQ_1}{T_1} + \frac{dQ_2}{T_2} &lt; 0&lt;/math&gt;
+
+So that, in the limit we have,
+
+&lt;math&gt;\oint_{I} \frac{dQ}{T} &lt; 0&lt;/math&gt;
+
+&lt;math&gt;\oint \frac{dQ}{T_{reservoir}} \leq 0&lt;/math&gt;
+
+The above inequality is called the ''inequality of Clausius''.
+Here the equality holds in the reversible case.
+
+== Entropy ==
+
+Entropy is the quantitative statement of the second law of thermodynamics.
+It is represented by the symbol ''S'', and is defined by 
+
+&lt;math&gt;dS \equiv
+\left(
+  \frac{dQ}{T}
+\right)_{rev}
+&lt;/math&gt;
+
+Thus, we can calculate the entropy change of a reversible process by evaluating the 
+Note that as we have used the Carnot cycle, the temperature is the reservoir temperature.
+However, for a reversible process, the system temperature is the same as the reversible temperature.
+
+Consider a system undergoing a cycle 1-2-1, where it returns to the original state along a different path.
+Since entropy of the system is a property, the change in entropy of the system in 1-2 and 2-1 are numerically equal.
+Suppose reversible heat transfer takes place in process 1-2 and irreversible heat transfer takes place in process 2-1.
+Applying Clausius's inequality, it is easy to see that the heat transfer in process 2-1 ''dQ&lt;sub&gt;irr&lt;/sub&gt;'' is less than ''T dS''.
+That is, in an irreversible process the same change in entropy takes place with a lower heat transfer.
+As a corollary, the change in entropy in any process, ''dS'', is related to the heat transfer ''dQ'' as 
+
+''dS &amp;ge; dQ/T''
+
+For an isolated system, ''dQ = 0'', so that we have
+
+''dS&lt;sub&gt;isolated&lt;/sub&gt; &amp;ge; 0''
+
+This is called the ''principle of increase of entropy'' and is an alternative statement of the second law.
+
+Further, for the whole universe, we have
+
+''&amp;Delta;S = &amp;Delta;S&lt;sub&gt;sys&lt;/sub&gt; + &amp;Delta;S&lt;sub&gt;surr&lt;/sub&gt; &gt; 0''
+
+For a reversible process, 
+
+''&amp;Delta;S&lt;sub&gt;sys&lt;/sub&gt; = (Q/T)&lt;sub&gt;rev&lt;/sub&gt; = &amp;minus;&amp;Delta;S&lt;sub&gt;surr&lt;/sub&gt;''
+
+So that
+
+''&amp;Delta;S&lt;sub&gt;universe&lt;/sub&gt; = 0''
+
+for a reversible process.
+
+[[Image:tscarnot Engineering Thermodynamics.png|T-S diagram for Carnot Cycle]]
+
+Since ''T'' and ''S'' are properties, you can use a ''T-S'' graph instead of a ''p-V'' graph to describe the change in the system undergoing a reversible cycle.
+We have, from the first law, ''dQ + dW = 0''.
+Thus the area under the ''T-S'' graph is the work done by the system.
+Further, the reversible adiabatic processes appear as vertical lines in the graph, while the reversible isothermal processes appear as horizontal lines.
+
+=== Entropy for an Ideal Gas ===
+
+An ideal gas obeys the equation ''pv = RT''.
+According to the first law, 
+
+''dQ + dW = dU''
+
+For a reversible process, according to the definition of entropy, we have 
+
+''dQ = T dS''
+
+Also, the work done is the pressure volume work, so that
+
+''dW = -p dV''
+
+The change in internal energy:
+
+''dU = m c&lt;sub&gt;v&lt;/sub&gt; dT''
+
+''T dS = p dV + m c&lt;sub&gt;v&lt;/sub&gt; dT''
+
+Taking per unit quantities and applying ideal gas equation, 
+
+''ds = R dV/v + c&lt;sub&gt;v&lt;/sub&gt; dT/T''
+
+&lt;math&gt;\Delta s = R \ln \frac{v_2}{v_1} + c_v \ln \frac{T_2}{T_1}&lt;/math&gt;
+
+As a general rule, all things being equal, entropy increases as, temperature increases and as pressure and concentration decreases and energy stored as internal energy has higher entropy than energy which is stored as kinetic energy.
+
+== Availability ==
+
+From the second law of thermodynamics, we see that we cannot convert all the heat energy to work.
+If we consider the aim of extracting useful work from heat, then only some of the heat energy is available to us.
+It was previously said that an engine working with a reversible cycle was more efficient than an irreversible engine.
+Now, we consider a system which interacts with a reservoir and generates work, ''i.e.'', we look for the maximum work that can be extracted from a system given that the surroundings are at a particular temperature.
+
+Consider a system interacting with a reservoir and doing work in the process.
+Suppose the system changes state from 1 to 2 while it does work.
+We have, according to the first law, 
+
+''dQ - dW = dE'',
+
+where ''dE'' is the change in the internal energy of the system.
+Since it is a property, it is the same for both the reversible and irreversible process.
+For an irreversible process, it was shown in a previous section that the heat transferred is less than the product of temperature and entropy change.
+Thus the work done in an irreversible process is lower, from first law.
+
+=== Availability Function ===
+
+The availability function is given by ''&amp;Phi;'', where 
+
+''&amp;Phi; &amp;equiv; E &amp;minus; T&lt;sub&gt;0&lt;/sub&gt;S''
+
+where ''T&lt;sub&gt;0&lt;/sub&gt;'' is the temperature of the reservoir with which the system interacts.
+The availability function gives the effectiveness of a process in producing useful work.
+The above definition is useful for a non-flow process.
+For a flow process, it is given by
+
+''&amp;Psi; &amp;equiv; H &amp;minus; T&lt;sub&gt;0&lt;/sub&gt;S''
+
+=== Irreversibility ===
+
+Maximum work can be obtained from a system by a reversible process.
+The work done in an actual process will be smaller due to the irreversibilities present.
+The difference is called the ''irreversibility'' and is defined as 
+
+''I &amp;equiv; W&lt;sub&gt;rev&lt;/sub&gt; &amp;minus; W''
+
+From the first law, we have
+
+''W = &amp;Delta;E &amp;minus; Q''
+
+''I = &amp;Delta;E - Q - (&amp;Phi;&lt;sub&gt;2&lt;/sub&gt; &amp;minus; &amp;Phi;&lt;sub&gt;1&lt;/sub&gt;)''
+
+As the system interacts with surroundings of temperature ''T&lt;sub&gt;0&lt;/sub&gt;'', we have
+
+''&amp;Delta;S&lt;sub&gt;surr&lt;/sub&gt; = Q/T&lt;sub&gt;0&lt;/sub&gt;''
+
+Also, since
+
+''E &amp;minus; &amp;Phi; = T&lt;sub&gt;0&lt;/sub&gt; &amp;Delta;S&lt;sub&gt;sys&lt;/sub&gt;''
+
+we have
+
+''I = T&lt;sub&gt;0&lt;/sub&gt; (&amp;Delta;S&lt;sub&gt;sys&lt;/sub&gt; + &amp;Delta;S&lt;sub&gt;surr&lt;/sub&gt;)''
+
+Thus,
+
+''I &amp;ge; 0''
+
+''I'' represents increase in unavailable energy.
+
+=== Helmholtz and Gibbs Free Energies ===
+
+''Helmholtz Free Energy'' is defined as 
+
+''F &amp;equiv; U &amp;minus; TS''
+
+The Helmholtz free energy is relevant for a non-flow process.
+For a flow process, we define the ''Gibbs Free Energy''
+
+''G &amp;equiv; H &amp;minus; TS''
+
+The Helmholtz and Gibbs free energies have applications in finding the conditions for equilibrium.
+----
+{{EngTherm}}
+
+[[Category:Engineering Thermodynamics]]</text>
+      <sha1>10t8clj3ytj9gzet6frwztf36ie5je8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Haskell</title>
+    <ns>1</ns>
+    <id>4832</id>
+    <revision>
+      <id>2699999</id>
+      <parentid>2699998</parentid>
+      <timestamp>2014-09-12T21:51:12Z</timestamp>
+      <contributor>
+        <username>JonathanHopeThisIsUnique</username>
+        <id>1650185</id>
+      </contributor>
+      <comment>/* Lazy */</comment>
+      <text xml:space="preserve">* {{todolink|Haskell|todo-list of Haskell}}
+
+== Style and writing guides ==
+* Baron Schwartz, [http://www.xaprb.com/blog/2008/06/15/what-is-it-like-to-write-a-technical-book/ What is it like to write a technical book?]. Contains useful tips for formulating things.
+
+
+== Technical organization ==
+
+=== Talk Archives ===
+&lt;font size=&quot;-2&quot;&gt;[[/Archive 1/]] (2004-02-21/2006-07-09)&lt;/font&gt;&lt;br&gt;
+&lt;font size=&quot;-2&quot;&gt;[[/Archive 2/]] (2006-07-10/2007-01-07)&lt;/font&gt;
+
+=== Move to Haskell wiki? ===
+I'd like to start discussion as to whether we should move to the Haskell wiki.
+
+Pros:
+* Closer to the hub of the Haskell community. Corollaries:
+** Easier for potential contributors to find us.
+** Easier to import content already on the Haskell wiki.
+* We could potentially change the code to the wiki or install new plugins etc if we wanted to. (Automate the 'next page', 'prev page' links? Etc.)
+
+Cons:
+* The bother of letting everyone know we're moving
+* The bother of moving itself
+** I'm sure there's going to be some MediaWiki export/import tool somewhere, though.
+
+[[User:DavidHouse|DavidHouse]] 15:33, 6 January 2007 (UTC)
+
+:It would be tricky for sheer reason of licensing issues.  For example, after bugging Hal all this time, I'm not sure I really want to bother him again to ask about the simple permissive license.  We've received a lot of contributions from a lot of users and would have to get everyone aboard.  For what it's worth, I personally agree to dual license my stuff under the simple permissive license.  I do agree that the Haskell syntax highlighting would be nice to have, though, as would having this be a Haskell.org product.  Then again, Wikibooks has a specific focus on creating textbooks, one single cohesive narrative.  The Haskell wiki is perhaps not the most appropriate venue for that, culturally.  Well... I guess that's a pretty weak argument on my part :-) -- [[User:Kowey|Kowey]] 17:36, 6 January 2007 (UTC)
+::Could we have some arrangement whereby we have a subwiki of the Haskell wiki which is seperately licensed? Or maybe even a seperate wiki? I think the benefits of moving to haskell.org are worth it. [[User:DavidHouse|DavidHouse]] 13:41, 8 January 2007 (UTC)
+:::Hmm... I'm still quite hesitant about this.  As an alternative, would it be possible to have a haskell.org address that automatically pops up here?  The user types in http://haskell.org/wikibook and winds up getting served by wikibooks?  What if we had Haskell markup? (''Edit 18:13 - I meant what if we also had Haskell syntax highlighting on wikibooks?'')  I get the feeling that moving would entail a certain amount of pain and confusion (for example, what will happen if we delete our content here and post a 'so long, folks!'  It seems the wikibooks people would just restore the content and we'd have two &quot;competing&quot; wikibooks, a bit like Spanish wikipedia and the other unofficial site from the early days.  (That being said, if we did move, sooner would be better than later, and I personally would migrate to the haskell.org version). -- [[User:Kowey|Kowey]] 15:05, 8 January 2007 (UTC)
+
+:::Note, I've posted a message on the [[Wikibooks:Staff lounge]] asking for input from the wikibooks community at large.  This might enrich the deliberations a bit, maybe get some useful insight into making these kinds of decisions.  -- [[User:Kowey|Kowey]] 18:12, 8 January 2007 (UTC)
+
+I'd prefer to keep stuff here; I'm a Wikipedia buff and I like the universality of the wikibooks/wikipedia world.  Also, there's lots of good text in Wikipedia that can be imported here. If syntax highlighting is a big issue maybe we could add something to MediaWiki or write a preprocessor.
+
+I think it is great here at Wikibooks. It has Haskell syntax highlighting actually. It can be linked to from other places. At any rate, the discussion above is quite dated by now and the book is doing well enough here. [[User:Backfromquadrangle|Backfromquadrangle]] ([[User talk:Backfromquadrangle|discuss]] • [[Special:Contributions/Backfromquadrangle|contribs]]) 04:34, 30 April 2014 (UTC)
+
+
+=== wikibook at haskell dot org mailing list ===
+
+See http://www.haskell.org/mailman/listinfo/wikibook -- [[User:Kowey|Kowey]] 09:35, 29 January 2007 (UTC)
+
+=== good Haskell ===
+
+There may come a point when we will get to advertise this book within the wikibooks structure.  I encourage any Haskell wikibookians to help put together this goodbook template.  I think we need a nicer logo and snappier blurb.  Any ideas? -- [[User:Kowey|Kowey]] 10:57, 20 April 2007 (UTC)
+
+:To spark some logo discussion, I have put together a minimalistic test logo.  Maybe this will start some other ideas as well -- [[User:Kowey|Kowey]] 11:12, 20 April 2007 (UTC)
+
+{{Goodbook|title=Haskell|cover=haskell-logo.png|desc=Haskell is a functional programming language with a state of the art type system.  This book will introduce you to computer programming with our language of choice.  It is friendly enough for the newest programmers, but deep and challenging enough for the most experienced. Come stretch your mind with us!}}
+
+== Chapter organization &amp; content ==
+
+=== Beginner's track ===
+==== GHCi vs Hugs ====
+I'm not sure whether it's a good idea to use GHCi instead of Hugs. The former is bulkier and installation may fail. But of course, GHCi offers &lt;code&gt;let&lt;/code&gt; bindings on the command line which makes things easier to boot in the beginning. But once functions get big enough (which is as early as [[/Next Steps/]]), they are put in a file without preceeding &lt;code&gt;let&lt;/code&gt; which takes some pain to explain. Wouldn't it be easier to deal only with Haskell script files and to go with the simple Hugs?
+-- [[User:Apfelmus|apfe&lt;b&gt;&amp;lambda;&lt;/b&gt;mus]] 11:12, 27 February 2007 (UTC)
+
+:I'm using Hugs right now but the #haskell folks keep saying to switch to GHCi.  I do wish for something like Python that allows typing stuff on the command line.  Sooner or later I hope we have some kind of IDE that has syntax highlighting, integrated documentation, and all that.  I've thought of a cute name for it (&quot;HAskell Lazy IDE&quot; aka &quot;Halide&quot;) but am way too much of a Haskell newbie to attempt any implementation. [[User:64.160.39.153|64.160.39.153]] 05:15, 4 March 2007 (UTC)
+
+::I use the Emacs haskell-mode myself. It's not too bad, but I understand Vim's haskell-mode and Visual Haskell (a plugin to Visual Studio) are even better as Haskell IDEs go. And if you really want to troubleshoot and code, there's always yi to hack on... --[[User talk:Gwern |Gwern]] [[Special:Contributions/Gwern | (contribs)]] 19:03, 4 March 2007 (UTC)
+
+::Well, after having learned some Haskell, GHCi automatically knocks the door to replace Hugs for it offers all the GHC extensions and runs GHC-compiled code. But in the beginning, Hugs is entirely fine and very fast in loading files. -- [[User:Apfelmus|apfe&lt;b&gt;&amp;lambda;&lt;/b&gt;mus]]
+
+To decide whether Hugs or GHCi should be the pillar of the &quot;Beginner's track&quot;, it is perhaps a good idea to formalize the criteria involved. -- [[User:Apfelmus|apfe&lt;b&gt;&amp;lambda;&lt;/b&gt;mus]] 09:57, 5 March 2007 (UTC)
+# GHCi command-line is a &lt;code&gt;do&lt;/code&gt; block with corresponding benefits such as &lt;code&gt;let&lt;/code&gt; definitions. In contrast, Hugs can only evaluate expressions (but &lt;code&gt;let .. in&lt;/code&gt; statements are available, of course).
+# Installation: being a bigger download and requiring bootstrapping (if installed from source), the GHC installation is more likely to fail than Hugs. In the end, Hugs is more lightweight.
+# Hugs loads source files very quickly, GHCi takes some time.
+# ... More criteria?
+
+==== Teaching goals ====
+To find a suitable running example (see below), it might be worth contemplating about the teaching goals of the four chapters. Here's an attempt. -- [[User:Apfelmus|apfe&lt;b&gt;&amp;lambda;&lt;/b&gt;mus]] 11:12, 27 February 2007 (UTC)
+
+; &quot;Haskell Basics&quot;
+: Currently shows how Haskell looks like: what are variables, functions, types. Additionally, it  says how to construct simple lists and tuples, tells something about IO and introduces a bit algebraic data types. Notably, it doesn't introduce recursion or how to ''de''construct values (pattern matching, especially on lists).
+: I think that the current restriction to the &quot;construction&quot; (&quot;transformation&quot;, with given primitive functions like &lt;code&gt;+&lt;/code&gt;) of values is a good idea. This is indeed all what is needed to talk about variables, functions and types. To that extend, I think an adequate running example would have to be a combinator library that constructs or combines things, preferably interesting things like pictures, movies or sound. They key about functions, namely to abstract common patterns, can be exemplified by allowing the combinator library to ''fail'', i.e. there are certain combinations that don't make sense. The reader would then be guided to abstract and build a combinator library on top that doesn't fail, i.e. only produces meaningful combinations. The juggling example would fit both goals.
+; &quot;Elementary Haskell&quot;
+: Currently introduces recursion, deconstruction, list processing and higher order functions.
+: So in a sense, this chapter is about the heart of computation itself, namely how to do a count of operations that depends on the input. The running example has to be in the same spirit, i.e. it should focus on recursion and repetition. Things like fractals and L-systems come to mind.
+; &quot;Intermediate Haskell&quot;
+: Currently introduces means to structure larger code (modules and type classes) as well as a full treatment of algebraic data types.
+: Algebraic data types finally introduce means to store and process custom data. Their recursive variants like binary trees lift recursion and &quot;loops&quot; like &lt;code&gt;fold&lt;/code&gt; to a new level. I think it would be worth treating trees (binary search trees, heaps, ...) in more depth, also because they are the key to fast data structures and algorithms. The class and module stuff is a bit orthogonal to that. Concerning classes, I think that automatic differentiation is an excellent showcase of their abilities.
+; &quot;Monads&quot;
+: Well, this chapter introduces Monads and monad transformers.
+: Monads serve two purposes: IO and structuring computations. Every programmer needs the first, but the second one is more a technique for the advanced track. I'm unsure on when to introduce IO. Hopefully, there will be a natural way to introduce it together with a running example.
+
+At the end of the beginner's track, the reader should be able to write full Haskell programs. This also means that some stuff from the performance chapter has to be taught in the beginner's track. In order to enable the reader quite early to write full programs, one could declare some sections at the bottom of the chapters as optional.
+
+==== Running example ====
+
+Apfelmus was discussing with me on #haskell what our vision for the wikibook was.  The basic idea that came out of this is that the wikibook should place a special emphasis on slow and friendly.  Apfelmus suggested a very nice idea, which is to a single running example that we build up over the course of the beginners track, maybe even a game.  What we could do is to look into bookshelves, go to our local libraries and plunder away, find great ideas for games or other programs we could build up over the course of the chapter.  Also, once we know what game we want to build, we should consider writing the code for the IO stuff so that the user can just download it, plug his/her code in and get working straight away.  Any ideas on the matter? -- [[User:Kowey|Kowey]] 10:52, 27 January 2007 (UTC)
+
+The trick about the running example should be that all introduced code and concepts are used by it and only it. So if the running example doesn't need a concept, either the concept has to wait until later or the example has to be changed to need the concept.
+
+Here's the list so far:
+&lt;ul&gt;&lt;li&gt; '''Scissors, rocks and paper''' - an example from Bird and Wadler. This is not good as example running through the hole beginner's track, but it's excellent for explaining laziness. It's basically about representing a sequences of games by infinite lists. A strategy gets the sequence of its adversaries moves as an argument.
+&lt;pre&gt;
+ data Move = Rock | Paper | Scissors
+ type Strategy = [Move] -&gt; [Move]
+ 
+ play :: Strategy -&gt; Strategy -&gt; [Bool]
+&lt;/pre&gt;
+Laziness and strictness come in when controlling cheating and determining who moves first.
+&lt;/li&gt;&lt;li&gt; '''Hunt the Wumpus''' - (Procyon) [good classic game; graph traversal problem]
+&lt;/li&gt;&lt;li&gt; '''2D Euclidean geometry''' software - While this is not a game and perhaps not of interest to programmers, it can be introced very early because its mathematical nature matches with the &quot;functions &amp; expressions&quot;-approach.
+&lt;/li&gt;&lt;li&gt; '''Pool simulation''' - This is a game and relies on mathematical formulas. Of course, any simulation game is likely to have its functionality encoded in pure mathematical formulas suited for direct implementation.
+&lt;/li&gt;&lt;li&gt; Inspired by
+* [http://www.fh-wedel.de/~si/seminare/ws03/Ausarbeitung/5.beispielelisten/beispielelisten4.htm Haskell Seminar, Beispiele zu Listen, Datenbanken] (in german)
+* [http://www.haskell.org/pipermail/haskell-cafe/2007-February/022732.html functional database queries]
+a possible example would be '''data base access with list comprehensions''', maybe entitled &quot;The essence of data base queries&quot;. A data base is just a list (set) of relations and queries are composed by &lt;code&gt;map&lt;/code&gt;, &lt;code&gt;filter&lt;/code&gt; and &lt;code&gt;concatMap&lt;/code&gt;. This example would have the great benefit of being significant to the readers wanting &quot;real world&quot; stuff. We can directly point them to [http://haskelldb.sourceforge.net/ HaskellDB] for the access of SQL data bases with list comprehensions. Admittedly, HaskellDB's interface is more complex than list comprehensions as those only capture the point &quot;database = set of relations&quot; but don't deal with the relations themselves. But we can beg the HaskellDB people to develop a simplified interface or develop one on our own.
+&lt;/li&gt;&lt;li&gt; A domain specific language for '''juggling'''. I don't juggle myself and I'm not sure whether this is interesting to everybody, but the patterns from [http://jugglinglab.sourceforge.net Juggling Lab Animator] are certainly fun to look at. The graphics enginge is supplied by us, but readers have to develop the combinators for producing non-failing juggling sequences.
+&lt;/li&gt;&lt;li&gt; An '''Adventure-style game'''. See [http://jpmoresmau.blogspot.com/2006/11/my-first-haskell-adventure-game.html]. Seems to exercise a fair number of basic features while not being too terribly complex, and is copyright-free. --[[User talk:Gwern |Gwern]] [[Special:Contributions/Gwern | (contribs)]] 19:59, 1 March 2007 (UTC)
+&lt;/li&gt;&lt;li&gt;  Functional data structures.  Maybe these could be used in a simple multi-user hunt the wumpus game, so it would show the use of concurrency, the network library, and STM as well (the program would use multiple processes to handle simultaneous TCP connections from different users). [[User:64.160.39.153|64.160.39.153]] 15:43, 4 March 2007 (UTC)
+&lt;/li&gt;&lt;li&gt;  ...
+&lt;/li&gt;&lt;li&gt; '''Please continue this list!'''
+&lt;/li&gt;&lt;/ul&gt;
+
+With some reordering it may even be feasible to have different examples for &quot;Haskell Basics&quot;, &quot;Elementary Haskell&quot; and &quot;Intermediate Haskell&quot;.
+
+=== Advanced track ===
+
+==== Chapter organization ====
+While names like &quot;Wider Theory&quot; or &quot;Haskell Performance&quot; do what they should, I think they're a bit dull. I'd really like to have shiny names, like &quot;Fun with Types&quot;. Here are some proposals. The intended contents is also noted. Besides, every chapter could get an introductory section accessible via the TOC. The names of these subchapters can be picked to match the chapters intensions to allow for funnier chapter names. [[User:Apfelmus|Apfelmus]] 12:39, 21 January 2007 (UTC)
+
+; &quot;Advanced Haskell&quot;
+: Currently a refuge for stuff that doesn't fit anywhere else. Possible independence movements:
+: * &quot;The Awkward Squad&quot; (Concurrency, IO, Exceptions, operational semantics)
+; &quot;Wider theory&quot;
+: = &lt;strike&gt;&quot;Program correctness&quot;&lt;/strike&gt;, &lt;strike&gt;&quot;Formal program manipulation&quot;&lt;/strike&gt;, &quot;To denote or not to denote&quot;, &quot;Meaning, the Meany&quot;, &quot;Devoting to Denotation&quot;
+: ''intro'' = &quot;Why does my program work?&quot;, &quot;What does my program do?&quot;, &quot;Help, my program doesn't work!&quot; (sneaky, because the chapter should ''not'' cover debugging)
+: Intended to contain methods to reason about program semantics/correctnes and their adherence to a specification. Also includes the systematic derivation of programs from their specification. In a wider sense, relations to logic and dependent types might go here, too. I'm not sure what to do with category theory, but it certainly is a framework for denotational semantics.
+; &quot;Fun With Types&quot;
+: = &quot;Types: reloaded&quot;, &quot;Types: extended&quot;
+: ''intro'' = 
+: Currently describes the manifold extensions to Haskell's type system. I'm not sure, but I think that in the long term, they need a (separate?) chapter showing how to put them to good use, i.e. &quot;Program/Library design&quot;.
+; &quot;Haskell Performance&quot;
+: = &lt;strike&gt;&quot;Haskell in Space and Time&quot;&lt;/strike&gt;, &quot;Space and Time&quot;, &quot;Running Haskell&quot;, &quot;Haskell on the Machine&quot;
+: ''intro'' = &quot;Help, my program is slow!&quot;
+: Contains everything related to the actual execution of Haskell programs (execution times, how to decrease them, memory, evaluation order, ...)
+
+==== In general ====
+My contributions to the wikibook mostly range over the more advanced topics. My vision for the wikibook is a place with tutorials right from the very beginning through to the most advanced Haskell. There is currently no centralised area where advanced topics are taught, with the possible exception of the Haskell wiki(s). Still, I think the advanced track could become a really good collection of tutorials, which are well organised, polished (exercises/images etc.) and have good coverage of the advanced topics. I think [[Haskell/Category theory]] was our first big success; I'd love to see more articles with this flavour. [[User:DavidHouse|DavidHouse]] 11:15, 27 January 2007 (UTC)
+
+: [[Haskell/Denotational semantics]], although not as polished as the CT article, is another 'big success' article; I'd forgotten about that! [[User:DavidHouse|DavidHouse]] 11:20, 27 January 2007 (UTC)
+
+=== Haskell in Practice ===
+
+== Haskell Education Tools ==
+We need tool support for explaining Haskell (à la LOGO), concocting wikibook exercises and solutions (graph reduction printer) etc.
+
+=== Expanding expressions with free variables ===
+[http://twan.home.fmf.nl/blog/haskell/simple-reflection-of-expressions.details Reflecting Haskell expressions]. Really cool, type an expression in the interpreter and have it printed out: 
+
+  &gt; foldr f x [1..5]
+  f 1 (f 2 (f 3 (f 4 (f 5 x))))
+
+Doesn't work for everything of course. I'll ask Twan whether he can put it on hackage so that we can reference it in the wikibook.
+
+=== Graph reduction tracer ===
+None existent yet.
+
+
+== &quot;Haskell Best Practices&quot; ==
+
+Hi,
+
+I have just started learning Haskell. I'm reading this book and YAHT and make small edits as a way to learn.
+
+My experience is mostly with Perl and Java, so i am used to different patterns of code layout. For example, in Perl I would write a list as (1, 2, 3), with a space after each comma. That's what most Perl style guides say (such as [http://perldoc.perl.org/perlstyle.html perlstyle]).
+
+But in Haskell it may be different. For example, GHCi says
+
+&lt;pre&gt;
+Prelude&gt; let strings = [&quot;here&quot;, &quot;are&quot;, &quot;some&quot;, &quot;strings&quot;]
+Prelude&gt; strings
+[&quot;here&quot;,&quot;are&quot;,&quot;some&quot;,&quot;strings&quot;]
+&lt;/pre&gt;
+
+I also looked through [http://www.pugscode.org/ the source code of Pugs], and sometimes there is a space after comma, and sometimes it is not; either the Pugs developers are just inconsistent, or they do have a convention, but I don't know enough Haskell to understand it.
+
+So my question is: What is the preferred way to write literal lists?
+
+More generally: Is there a Haskell style guide, such as [http://java.sun.com/docs/codeconv/html/CodeConvTOC.doc.html Code Conventions for the Java Programming Language], perlstyle, [http://www.oreilly.com/catalog/perlbp/ Perl Best Practices]?
+
+Thanks in advance. --[[User:Amire80|Amir E. Aharoni]] 14:13, 8 June 2007 (UTC)
+
+:Hey there, and thanks for your edits! ( although you might want to note that some of the s's, for example, &quot;specialised&quot; are an attempt at International English rather than spelling errors, as far as I know :-D ).  I don't think there is any particular convention or written best practices on this.  It probably depends on context.  You could ask on the mailing lists; Haskellers tend not to be flame warriors, so there isn't much risk (I hope!) of this turning into one of those endless discussions about nothing.  -- [[User:Kowey|Kowey]] 14:29, 8 June 2007 (UTC)
+
+::-ise vs. -ize should also be a matter of a book-wide convention :)
+::I fixed them, because I mostly use Firefox for spelling, and my Firefox installation uses the American standard. I think that I've seen some z's here too, so I took the lazy path to consistency.
+::And while we're on it - Thanks for your efforts about syntax highlighting. I thought of doing the job of requesting support for GeSHi and Haskell in Wikipedia/Wikibooks, but then I saw that you've already done everything.
+::Since you seem to be a bit more experienced than I am in these matters, I have another question. Currently if I try to write &lt;code&gt;&lt;nowiki&gt;&lt;source lang=&quot;haskell&quot;&gt;SOME CODE&lt;/source&gt;&lt;/nowiki&gt;&lt;code&gt;, it is rendered as a Big Red Error that doesn't show any code. I think that it would be better to display the source in the default black color with a small warning saying that the language is not supported. This way, when language support is added, the warning will go away and the coloring with just start working. Am I the first person to propose this? --[[User:Amire80|Amir E. Aharoni]] 15:09, 8 June 2007 (UTC)
+
+:::Yep.  Agree about the book-wide convention.  As for GeSHi, you might want to post a bug report on the mediawiki bugzilla, see what others think -- [[User:Kowey|Kowey]] 17:54, 8 June 2007 (UTC)
+
+:::::I entered a feature request in Bugzilla: [http://bugzilla.wikimedia.org/show_bug.cgi?id=10201 10201 Allow showing code in an unsupported language with a warning]. Come on and vote for it if you like it :) --[[User:Amire80|Amir E. Aharoni]] 18:27, 8 June 2007 (UTC)
+
+== Anyone else editing ==
+Are there any other Wikians interested in keeping this book alive, or are my contributions a waste of time.
+[[User:MacNala|MacNala]] ([[User talk:MacNala|talk]]) 09:16, 27 February 2009 (UTC)
+
+:First, hello MacNala and welcome to the Haskell wikibook. :-) It's not exactly the most active project, but alive and useful. Contributors are always welcome!
+:-- [[User:Apfelmus|apfe&lt;b&gt;&amp;lambda;&lt;/b&gt;mus]] 09:41, 28 February 2009 (UTC)
+
+:: Keep also in mind that contributions are not for other contributors, but current and future readers (though the two often overlap). :-) Happy editing. --[[User:Swift|Swift]] ([[User talk:Swift|talk]]) 14:32, 1 March 2009 (UTC)
+
+== Hello From Germany ==
+I wrote some small, unimportant and unprecise tutorial on Haskell on the German Wikibooks
+is [http://de.wikibooks.org/wiki/Haskell here]. Yours Dirk Hünniger
+: Looks great. :-D [[User:Apfelmus|apfe&lt;b&gt;&amp;lambda;&lt;/b&gt;mus]] 08:44, 21 July 2009 (UTC)
+
+== Orphaned pages ==
+
+The following pages are not linked to and should be marked with {{tlx|delete|reasoning}} if no longer needed, linked to, or merged into another page and marked with {{tlx|now merged|destination page}}.
+*[[Haskell/Kinds]]
+*[[Haskell/YAHT/Errata]]
+-- [[User:Adrignola|Adrignola]] &lt;sup&gt;[[User talk:Adrignola|talk]] [[Special:Contributions/Adrignola|contribs]]&lt;/sup&gt; 18:45, 2 August 2009 (UTC)
+
+:Thanks, have been linked to.
+:-- [[User:Apfelmus|apfe&lt;b&gt;&amp;lambda;&lt;/b&gt;mus]] 10:01, 3 August 2009 (UTC)
+
+== Hi all, I'm a contributing newbie! ==
+
+Hello everybody! I started to learn Haskell with this book and I am devouring it, doing all exercises in each chapter and enjoying it a lot. The last topic I studied was [[Haskell/More about lists]]. While reading it, I took issue with the [[Haskell/More about lists#List comprehensions|List comprehensions]] part (reasons explained in the talk page of that topic), and decided I could improve it with some substantial refactoring. Since I have literally four days of experience with Haskell, however, it would be very useful for everyone if more experienced Haskellers could review my contributions, so I kindly invite you to head over there. By the way, I noticed someone already fixed a silly mistake in one of the code snippets I wrote last night. That is very encouraging :) --[[User:Duplode|Duplode]] ([[User talk:Duplode|talk]]) 18:39, 27 April 2010 (UTC)
+
+:Hello Duplode, welcome to the Haskell wikibook! :-)
+:Thanks a lot for your contributions! I'll have a look at your edits to the list comprehensions; will take a while, though. Meanwhile, don't hesitate to change more things; the wikibook sure needs some polish at times.
+:Don't miss out the other cool places for learning Haskell, like the [http://www.haskell.org/haskellwiki/IRC_channel #haskell IRC channel] and the  haskell-cafe@haskell.org and beginners@haskell.org [http://www.haskell.org/haskellwiki/Mailing_lists mailing lists].
+:-- [[User:Apfelmus|apfe&lt;b&gt;&amp;lambda;&lt;/b&gt;mus]] 18:38, 28 April 2010 (UTC)
+
+::Thanks Apfelmus, I do intend to continue contributing as I advance through the book (last one was an attempt to add a bit more of context to [[Haskell/Type declarations]], BTW). And I will surely check the mailing lists... --[[User:Duplode|Duplode]] ([[User talk:Duplode|talk]]) 05:58, 29 April 2010 (UTC)
+
+== About Elementary Haskell... ==
+
+So in the end I was bitten by the bug of Wiki editing and reworked pretty much all of the Elementary Haskell chapter. I was careful not to bite more than I can chew, so I avoided adding unfounded personal inferences as much as possible. Instead, I focused on rearranging modules, to eliminate forward references and make the chapter feel like a unified whole, and on providing more verbose discussions on important concepts which were just glossed over. The really big changes were mostly:
+* Type declarations (in the Haskell basics module) is almost twice as long. By spending more time discussing constructors in their &quot;natural environment&quot; I believe it becomes easier to make the link to pattern matching when the time comes.
+* By the same token, the Pattern matching module now takes advantage of the build-up in previous modules to provide a less dry discussion (someone in the talk page mentioned feeling &quot;thrown in the deep end&quot; with the previous version, and I felt pretty much the same when reading it for the first time). Also, the unnecessary forward references were weeded out or transferred to More about functions (except for one of the examples using Maybe, which, now accompanied by the presentation of the Just / Nothing constructors, be used as a less &quot;boring&quot; example for both pattern matching and datatype definitions). Finally, I added a section on pattern matching against literal values for the sake of completeness.
+* While the rewrites of More about lists and List processing weren't as extensive, the ordering of the sections is very different: More about lists provides the introductory general discussions and explains map (which was originally on List processing); List processing follows immediately by covering folds, scans, filtering and comprehensions. This arrangement solves the circular dependencies that used to happen there while not making any of the modules overtly long (and therefore tiring).
+Now my refactoring is up for the inspection of you specialists; hopefully I have done a good job. --[[User:Duplode|Duplode]] ([[User talk:Duplode|talk]]) 17:17, 3 May 2010 (UTC)
+
+:I've finally had a look at your work; good job! It's definitely a much needed improvement.
+:Just for reference, here a hyperlink to the [http://news.gmane.org/gmane.comp.lang.haskell.wikibook mailing list] where you've initiated the discussion on plans for the future.
+:-- [[User:Apfelmus|apfe&lt;b&gt;&amp;lambda;&lt;/b&gt;mus]] 08:33, 8 May 2010 (UTC)
+
+== Mailing list revival and new projects ==
+
+As Apfelmus mentioned above, we are having some discussions in the mailing list about ways to improve the book. The ideas for improving usability are not shying away from large-scale reorganizations, and include:
+
+* A switch to a less linear and more modular chapter organization paradigm, specially for the advanced modules, supported by convenience resources such as prerequisite tracking and study guides;
+
+* A restructuring of the Beginner's Track, aiming towards having the individual chapters (&quot;Haskell Basics&quot;, &quot;Intermediate Haskell&quot;, etc.) with clearly defined roles and allowing to separate fundamental language features from syntactic sugar.
+
+* The elaboration of a lightweight &quot;cheat sheet&quot; for essential Prelude functions, in order to provide newbies with a handy reference while keeping the fundamentally conceptual discussions on the main track of the book unspoiled by systematic standard library study.
+
+To help with the discussions on the first two proposals I created [[Haskell/List of topics]], which is intended to be used as a brainstorming sandbox. Experiments on cheat sheet designs will hopefully get underway soon. 
+
+All interested parties are invited to join the discussions and/or contribute, both here and at the [http://www.haskell.org/mailman/listinfo/wikibook mailing list]. --[[User:Duplode|Duplode]] ([[User talk:Duplode|talk]]) 00:57, 13 May 2010 (UTC)
+
+== Examples ==
+
+Hi,
+
+I'm a newcomer to Haskell and so far this book helped me a lot in learning it
+(I'm not finished yet). So I decided maybe I could help it a bit. While
+reading the pages I've come across some which use &quot;Examples&quot; to display source
+code, like this:
+
+{{HaskellExample|1=Hello! What is your name?|2=
+&lt;pre&gt;
+main = do
+  putStrLn &quot;Please enter your name: &quot;
+  name &lt;- getLine
+  putStrLn (&quot;Hello, &quot; ++ name ++ &quot;, how are you?&quot;)
+&lt;/pre&gt;
+}}
+
+Personally I find this double indentation and the example section distracting
+and as all source code in this book is an &quot;example&quot; I would prefer to just set
+it like this (which is also heavily used):
+
+&lt;source lang=&quot;haskell&quot;&gt;
+main = do
+  putStrLn &quot;Please enter your name: &quot;
+  name &lt;- getLine
+  putStrLn (&quot;Hello, &quot; ++ name ++ &quot;, how are you?&quot;)
+&lt;/source&gt;
+
+What do you think? Would it be okay if I remove the &quot;HaskellExample&quot;s and
+convert it to normal source code? --[[User:Rudis|Rudis]] ([[User talk:Rudis|talk]]) 11:25, 28 June 2010 (UTC)
+
+:Hello Rudis, welcome to the Haskell wikibook. :-)
+:The example markup is rather inconsistent. I think there is a small semantic difference between the example boxes and the source blocks though, namely that the former can be copy&amp;pasted into new .hs file and are guaranteed to compile or something like that.
+:I suggest that you keep the template calls as they are but adjust the [[Template:HaskellExample]] instead to yield less obtrusive layout?
+:While we're at it, there's also the issue of &quot;Haskell source code&quot; vs &quot;GHCi transcript&quot;, it would be nice if we could distinguish them with different colors like the GHC user's manual does.
+:-- [[User:Apfelmus|apfe&lt;b&gt;&amp;lambda;&lt;/b&gt;mus]] 09:29, 29 June 2010 (UTC)
+
+:: Hi Apfelmus. You're right, there is a difference between both, I didn't think of that. What do you think of this possible update for [[Template:HaskellExample]]:
+
+&lt;div style=&quot;background: {{{backgroundcolor|transparent}}}; margin: 1em 3em&quot;&gt;
+'''Example:''' Hello! What is your name?
+
+&lt;div&gt;
+&lt;source lang=&quot;haskell&quot;&gt;
+main = do
+  putStrLn &quot;Please enter your name: &quot;
+  name &lt;- getLine
+  putStrLn (&quot;Hello, &quot; ++ name ++ &quot;, how are you?&quot;)
+&lt;/source&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+::I think a small indentation to separate it from &quot;normal&quot; code is a good idea. The source lang=&quot;haskell&quot; can't be part of the example template because some examples also display normal text. Maybe a new template HaskellSourceExample could be added which contains the source lang=&quot;haskell&quot; so it doesn't need to be duplicated in each example.)
+::Adding a template for GHCi code would be a good idea. I'm not sure how it should be colored though, but that could be decided later. Should I add create [[Template:HaskellGHCi]] which will display GHCi code?
+::Maybe we should add a section in &quot;Getting set up&quot; which explains the style rules used in the book (source code, examples, ghci transcript). What do you think? --[[User:Rudis|Rudis]] ([[User talk:Rudis|talk]]) 19:19, 30 June 2010 (UTC)
+:: PS: Would it be possible to update the PDF version of the book? I would upload a new version myself, but I don't know how to do it. --[[User:Rudis|Rudis]] ([[User talk:Rudis|talk]]) 19:24, 30 June 2010 (UTC)
+
+::: Looks good. Maybe add some sort of box around the &quot;Example: Hello..&quot; as well, so that it's &quot;visually glued&quot; to the box containing the code? (Otherwise, it might look confusing in the regular text. But maybe the small indentation already solves that.)
+::: Sure, go ahead with the GHCi boxes. :-) You can test them out in the first couple of chapters.
+::: Writing down our use of markup and templates is a good idea! I propose the name &quot;Style and implementation guide&quot;?
+::: I have no clue how to update the PDF version or how it was created in the first place, I'm afraid.
+::: -- [[User:Apfelmus|apfe&lt;b&gt;&amp;lambda;&lt;/b&gt;mus]] 08:20, 1 July 2010 (UTC)
+
+::::Good, I updated [[Template:HaskellExample]]. I think a box around &quot;Example:&quot; isn't necessary, but if you like a box better, just change it. I also tried adding [[Template:HaskellSourceExample]] as &quot;shortcut&quot; for &amp;lt;source lang=&quot;haskell&quot;&amp;gt;, but it didn't work. Do you have any idea why the {{{2}}} is not expanded in &amp;lt;source&amp;gt; (example in [[User:Rudis/Sandbox]])? The same problem occurs with [[Template:HaskellGHCi]] ({{{1}}} is not expanded in &amp;lt;pre&amp;gt;). Any idea how this could still be done?
+::::Sounds good, where should we put it? Before &quot;Getting set up&quot; in Haskell Basics?
+::::I already &quot;generated&quot; the PDF version (it's just print to PDF in Firefox) but I don't know how to upload the resulting PDF to wikibooks. I thought &quot;Edit&quot; on the page would do it, but this doesn't work. --[[User:Rudis|Rudis]] ([[User talk:Rudis|talk]]) 19:58, 1 July 2010 (UTC)
+
+:::::Fixed the template and the template calls. It's important to use named parameters in the style of &lt;code&gt;|1=..&lt;/code&gt; when the argument contains &quot;=&quot;.
+:::::&quot;Internal&quot; stuff used to be in [[Haskell#Appendices]], but you can put it in the [[Haskell#Overview]] section.
+:::::I have no idea. I think the PDFs are generated by wikibooks, though. You may want to look around in the [[Help]] section or ask around on the help desk.
+::::: -- [[User:Apfelmus|apfe&lt;b&gt;&amp;lambda;&lt;/b&gt;mus]] 06:56, 3 July 2010 (UTC)
+
+::::::Thank you very much. I totally overlooked that in the Wikipedia template help page; works perfectly. I updated the templates a little and added some documentation (also to the other templates); added a new template [[Template:HaskellGHCiExample]] and started using them in the first pages. Please tell me if there's anything which could be improved regarding the templates (or my edits).
+::::::Regarding the PDF, I will have a look. Thanks. --[[User:Rudis|Rudis]] ([[User talk:Rudis|talk]]) 13:18, 3 July 2010 (UTC)
+
+:One (hopefully) last question regarding templates: Is there a way to make the following code work in templates without quoting the | as &lt;nowiki&gt;{{!}}&lt;/nowiki&gt; (taken from [[Haskell/Truth_values#Guards]])?
+&lt;pre&gt;&lt;nowiki&gt;
+{{HaskellSourceExample|1=The abs function.|2=
+abs x
+    {{!}} x &lt; 0     = 0 - x
+    {{!}} otherwise = x
+}}
+&lt;/nowiki&gt;&lt;/pre&gt;
+:Thanks. --[[User:Rudis|Rudis]] ([[User talk:Rudis|talk]]) 13:32, 3 July 2010 (UTC)
+
+:: Gah! Judging from [[w:Help:Templates#Restrictions_on_parameters_and_parameter_values]], it seems like there's not way to avoid that. :-( I guess we need to go back to using &lt;code&gt;&lt;nowiki&gt;&lt;source&gt;&lt;/nowiki&gt;&lt;/code&gt; tags in the second parameter of the template.
+:: (Formatting is a pain on wikibooks. Sometimes, I think we should host a custom Haskell wiki like Gitit and move everything there. :-/)
+:: -- [[User:Apfelmus|apfe&lt;b&gt;&amp;lambda;&lt;/b&gt;mus]] 08:21, 4 July 2010 (UTC)
+::: Should I remove the [[Template:HaskellSourceExample]] (or just discourage its usage in the documentation)? Or do we want to escape &lt;code&gt;|&lt;/code&gt; with &lt;code&gt;&lt;nowiki&gt;{{!}}&lt;/nowiki&gt;&lt;/code&gt;? I think [[Template:HaskellGHCi]] and [[Template:HaskellGHCiExample]] are fine (I think &lt;code&gt;|&lt;/code&gt; is used seldom with them). --[[User:Rudis|Rudis]] ([[User talk:Rudis|talk]]) 20:30, 5 July 2010 (UTC)
+
+:::: I'd keep the template but remove the automatic source markup; i.e. any use of the template has to add explicit &lt;nowiki&gt;&lt;source&gt;&lt;/nowiki&gt; tags as well.
+:::: -- [[User:Apfelmus|apfe&lt;b&gt;&amp;lambda;&lt;/b&gt;mus]] 07:18, 6 July 2010 (UTC)
+:::::As [[Template:HaskellSourceExample]] is the same as [[Template:HaskellExample]] if the syntax coloring isn't working, I removed the template from all pages (replaced it with HaskellExample) and updated its documentation not to use it. I hope this is okay. --[[User:Rudis|Rudis]] ([[User talk:Rudis|talk]]) 18:29, 7 July 2010 (UTC)
+
+::::::Sure, thanks!
+::::::-- [[User:Apfelmus|apfe&lt;b&gt;&amp;lambda;&lt;/b&gt;mus]] 07:22, 8 July 2010 (UTC)
+
+== PDF Version ==
+Hey,
+I started working on a PDF version of this wikibook using my own compiler (written in Haskell of course) as well as LaTex. A first Draft is available here:
+
+[[File:HaskellTest.pdf]]
+
+[[User:Dirk Hünniger|Dirk Hünniger]] ([[User talk:Dirk Hünniger|discuss]] • [[Special:Contributions/Dirk Hünniger|contribs]]) 15:08, 18 March 2011 (UTC)
+
+: Nice!
+: --[[User:Apfelmus|apfe&lt;b&gt;&amp;lambda;&lt;/b&gt;mus]] 22:19, 20 March 2011 (UTC)
+
+The Link to the compiler http://sourceforge.net/projects/wb2pdf/
+
+[[User:Dirk Hünniger|Dirk Hünniger]] ([[User talk:Dirk Hünniger|discuss]] • [[Special:Contributions/Dirk Hünniger|contribs]]) 07:12, 21 March 2011 (UTC)
+
+== External Tutorials to Use ==
+
+I have a suggestion for a tutorial we could incorporate into the general practices section: [http://www.haskell.org/haskellwiki/How_to_read_Haskell How to Read Haskell]. There are a number of other tutorials we might want to consider here: [http://www.haskell.org/haskellwiki/Meta-tutorial The &quot;Meta-tutorial&quot;]. --[[User:Digichoron|Digichoron]] ([[User talk:Digichoron|discuss]] • [[Special:Contributions/Digichoron|contribs]]) 18:23, 4 April 2011 (UTC)
+
+== PDF ==
+I overwrote the PDF Version of this Book. It was 5 Years old. And it used the integrated PDF generator mechanism. Now I made one with LaTeX. Thanks to the lmodern fontset it looks like a book on pure mathematics, since Haskell is to some extend pure mathematics. [[User:Dirk Hünniger|Dirk Hünniger]] ([[User talk:Dirk Hünniger|discuss]] • [[Special:Contributions/Dirk Hünniger|contribs]]) 09:25, 14 April 2012 (UTC)
+
+:Cool, thanks - I thought about doing it after seeing the 2011 &quot;draft&quot; you had posted earlier. By the way, skimming through your PDF reminds me of how many small formatting bugs the book has, and how much better the print version will look when they are finally fixed... --[[User:Duplode|Duplode]] ([[User talk:Duplode|discuss]] • [[Special:Contributions/Duplode|contribs]]) 03:09, 15 April 2012 (UTC)
+
+It would be cool if you could write down the formatting bugs here, so we I can fix them. I already fixed some, but I am not able to see a lot of them, because it is always hard to see you own bugs.[[User:Dirk Hünniger|Dirk Hünniger]] ([[User talk:Dirk Hünniger|discuss]] • [[Special:Contributions/Dirk Hünniger|contribs]]) 05:53, 15 April 2012 (UTC)
+
+:Strictly speaking, most of these aren't really due to your generator, but rather long-standing formatting problems with the wikibook (public enemy #1: inconsistent formatting of code and example blocks). Two things that I guess your program might take care of on its own are:
+:* rendering of relative links such as &lt;nowiki&gt;[[../Arrows/]]&lt;/nowiki&gt; (see section 36.4 of the currently-uploaded PDF), which at some (but not all) places get rendered as &lt;nowiki&gt;http://en.wikibooks.org/wiki/..%2FArrows%2F&lt;/nowiki&gt;;
+:* some issues arising with &lt;nowiki&gt;&lt;source&gt;&lt;/nowiki&gt; blocks within templates; for instance, the line breaks in the final block of exercises in [[Haskell/Control structures]] (section 15.3 of the PDF).
+:Once I identify a few more issues clearly I will create a fuller list (with both general and print version specific stuff) in a &quot;meta&quot; page of some sort.
+:P.S.: Is the list of pages to add written manually? I have been doing some reshuffling lately, and some of the newest changes aren't in the PDF (added [[Haskell/Building vocabulary]] and [[Haskell/The Functor class]]; merged away [[Haskell/Class declarations]]). If there is a list like that, you might want to upload it here so that we can help with keeping it up-to-date. --[[User:Duplode|Duplode]] ([[User talk:Duplode|discuss]] • [[Special:Contributions/Duplode|contribs]]) 18:49, 15 April 2012 (UTC)
+
+The List of Pages to be included into the PDF is defined by the printversion of the wikibook. So by editing [[Haskell/Print_version]] you can define which paged shall be included.[[User:Dirk Hünniger|Dirk Hünniger]] ([[User talk:Dirk Hünniger|discuss]] • [[Special:Contributions/Dirk Hünniger|contribs]]) 06:35, 16 April 2012 (UTC)
+
+:Silly me, I should have thought of that :) I will try to polish that list, then. (It would be nice to run and tweak [http://eric.kow.free.fr/download/PrintVersion.hs Kowey's script] (which generates it from the chapter templates), too; but for that I will need to figure out how to get mvs to work.) --[[User:Duplode|Duplode]] ([[User talk:Duplode|discuss]] • [[Special:Contributions/Duplode|contribs]]) 00:20, 17 April 2012 (UTC)
+
+Hi, thanks for your amazing work. I really appreciate this. Some bugs; 
+*&quot;&lt;code&gt; xor p w = (p || q) &amp;&amp; not (p &amp;&amp; q) &lt;/code&gt;&quot; appearing as &quot;&lt;code&gt; xor p w = (p || q) not (p  q)&lt;/code&gt;&quot;. Found at p.42 / 597 of the pdf (\thepage is 30) and p.44 / 597 (\thepage : 32).
+*Some codes in the Example s are typeset in roman, not \texttt or such. Such as
+**p.39 / 597 (\thepage : 27, section 5.2.1)
+**p.42 (\thepage : 30, section 5.3.2).  Mischievous &amp;lt;code&amp;gt; and &amp;lt;code/&amp;gt; is also printed.
+**p.50 (\thepage : 38, section 6.1.1)
+**p.52 (\thepage : 40, section 6.1.3)
+**p.55 (\thepage : 43, section 6.3  ). Mischievous code tag.
+**p.57 (\thepage : 45, section 6.4  )
+--[[User:あるうぃんす|あるうぃんす]] ([[User talk:あるうぃんす|discuss]] • [[Special:Contributions/あるうぃんす|contribs]]) 06:48, 1 June 2013 (UTC)
+
+== Reorganizing the Monads chapter ==
+
+As usual for &quot;bold&quot; large-scale changes, I will leave a note about today's reshuffling of the Monads part of the Beginner's track. Putting it briefly, I have:
+* Incorporated the existing subpages of [[Haskell/Understanding monads]] (Maybe, IO, State, List) into the main structure of the book (ToC, nav templates, print version);
+* Taken the (as of 2012) largely misnamed, redundant and out-of-sync [[Haskell/Advanced monads]] out of the book structure (I don't think it should be deleted though duet to the issue of attributions - a history merge with some of the Understanding monads pages would be too messy);
+* Diluted most of the non-redundant material in Advanced monads with the Understanding monads subpages (there is some pertinent stuff in the State section that might be worth transferring as well).
+
+In another note, I also removed the Haskell/Working with lists red link (see [[Haskell/To do]] for extra considerations on that); and, with it, the reorganization warning added nearly two years ago... --[[User:Duplode|Duplode]] ([[User talk:Duplode|discuss]] • [[Special:Contributions/Duplode|contribs]]) 09:24, 1 May 2012 (UTC)
+
+== &quot;Practical Haskell&quot; vs &quot;Haskell in Practice&quot; ==
+
+The Overview section mentions a book section called &quot;Practical Haskell&quot; section, and that book section is also mentioned in some other pages.  Yet this page does not list a &quot;Practical Haskell&quot; section. Instead, there's a &quot;Haskell in Practice&quot;. This is probably meant to be the same thing, but given the proliferation of books and tutorials with different but similar names, this lack of agreement is confusing.
+
+:Now fixed (standardized as &quot;Haskell in Practice&quot;). Thanks! [[User:Duplode|Duplode]] ([[User talk:Duplode|discuss]] • [[Special:Contributions/Duplode|contribs]]) 04:07, 27 July 2013 (UTC)
+
+== Feedback ==
+
+Hi, I'm relatively new here, read the book a few months ago, struggled but learned a lot. I'm still new to Haskell and programming in general. I've decided to work on learning in part by improving the book. I'm doing a general revision of every page, mostly cleaning up the wordings and fixing confusing things. At the time of this comment, '''almost all the discussion below is very dated (and mostly outdated). The book has been substantially improved since these comments were made.''' I think it is nice to have a way to discuss plans for the overall book, but it makes most sense for people to just go ahead and clean up details on specific pages as needed. The discussion pages for each chapter are appropriate. It's a bit too hard to follow outdated general discussion here. Overall, I think the book is excellent, although there is always room for improvement. Just remember that it happens where people fix the book itself without cleaning up the discussion comments, so they get outdated. [[User:Backfromquadrangle|Backfromquadrangle]] ([[User talk:Backfromquadrangle|discuss]] • [[Special:Contributions/Backfromquadrangle|contribs]]) 04:34, 30 April 2014 (UTC)
+
+== Lazy ==
+
+Hi! I found this book because it was featured today. I just found it odd that in the first sentence in the blurb it calls the language a &quot;''lazy'' functional programming language&quot;, without clarifying what lazy means in programming circles in the blurb. Because the word lazy has a really negative connotation, I think it might be a good idea to clarify in the blurb. Thanks for reading! [[User:JonathanHopeThisIsUnique|JonathanHopeThisIsUnique]] ([[User talk:JonathanHopeThisIsUnique|discuss]] • [[Special:Contributions/JonathanHopeThisIsUnique|contribs]]) 21:50, 12 September 2014 (UTC)</text>
+      <sha1>ctmjsva1r91r2d0mhjmxktzmima1r2a</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>German/Lesson 8</title>
+    <ns>0</ns>
+    <id>4834</id>
+    <revision>
+      <id>2653653</id>
+      <parentid>2653652</parentid>
+      <timestamp>2014-05-11T18:06:05Z</timestamp>
+      <contributor>
+        <username>Harrybrowne1986</username>
+        <id>430968</id>
+      </contributor>
+      <minor />
+      <comment>m</comment>
+      <text xml:space="preserve">&lt;small&gt;&lt;&lt; [[German/Lesson 7|Lektion 7]] | &lt;/small&gt; '''Lektion 8''' &lt;small&gt; | [[German/Lesson 9|Lektion 9]] &gt;&gt;&lt;/small&gt;
+----
+
+== Grammatik 8-1 ~ Colors ==
+
+yellow:   gelb&lt;br&gt;
+blue:     blau&lt;br&gt;
+red:      rot&lt;br&gt;
+black:    schwarz&lt;br&gt;
+white:    weiß&lt;br&gt;
+orange:   orange&lt;br&gt;
+pink:     pink&lt;br&gt;
+violet:   lila&lt;br&gt;
+cyan:     türkis&lt;br&gt;
+brown:    braun&lt;br&gt;
+grey:     grau&lt;br&gt;
+light-grey: hellgrau&lt;br&gt;
+dark-grey:  dunkelgrau&lt;br&gt;
+
+== Grammatik 8-2 ~ Possessive Adjectives, Pronouns, and the Genitive Case ==
+Recall the following from [[German/Lesson_3|Gespräch 3-1]]:
+
+:Karl: ''Ja. Und danach bringst du mich auf &lt;u&gt;deinem&lt;/u&gt; Motorrad zu &lt;u&gt;meiner&lt;/u&gt; Wohnung''.&lt;br&gt;
+Which translates:
+:Carl: 'Yes. And after that take me on &lt;u&gt;your&lt;/u&gt; motorcycle to &lt;u&gt;my&lt;/u&gt; apartment'. 
+
+The sentence demonstrates two of the '''possessive adjectives'''. These are (singular) 'my', 'your', and 'his/her/its' in English and ''mein'', ''dein'', and ''sein/ihr/sein'' in German.  Note that because these are adjectives, the word ending must reflect the case and gender of the noun being modified (see Grammatik 4-1 above). 
+
+In German, the '''genitive case''' correspond to the English possessive case or to the objective case proceeded by ''of'' to denote possession. If the possessive is not followed by a noun, it becomes a possessive pronoun (see [[German/Appendix_3|Pronoun Tables]]).
+
+
+{| border=&quot;1&quot; cellpadding=&quot;3&quot;
+|-
+|
+ || NOM. || ACC. || DAT. || POSS. PRON.
+|-
+| I, me || ''ich'' || ''mich'' || ''mir'' || '''mein'''
+|-
+| you || ''du'' || ''dich'' || ''dir'' || '''dein'''
+|-
+| he, him || ''er'' || ''ihn'' || ''ihm'' || '''sein'''
+|-
+| she, her || ''sie'' || ''sie'' || ''ihr'' || '''ihr'''
+|-
+| it || ''es'' || ''es'' || ''ihm'' || '''sein'''
+|-
+| we, us || ''wir'' || ''uns'' || ''uns'' || '''unser'''
+|-
+| you (all) || ''ihr'' || ''euch'' || ''euch'' || '''eurer'''
+|-
+| they, them || ''sie'' || ''sie'' || ''ihnen'' || '''ihr'''
+|-
+| you (formal) || ''Sie'' || ''Sie'' || ''Ihnen'' || '''Ihr'''
+|}
+
+The pattern in the case endings of the possessive adjectives is that seen in Lektion 4 for the word ''ein''. We can generalize these endings as in the following table, where we can express plural endings because other so-called '''ein'''-words do have plurals:    
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#FFFFCC&quot; cellpadding=&quot;3&quot;
+|-
+|
+| colspan=&quot;3&quot; | '''''Ein'''''-group Endings
+|-
+|
+ || NOM. || ACC. || DAT. || GEN.
+|-
+| Masculine || '''--''' || '''--en''' || '''--em''' || '''--es'''
+|-
+| Feminine || '''--e''' || '''--e''' || '''--er'''  || '''--er'''
+|-
+| Neuter || '''--''' || '''--''' || '''--em''' || '''--es'''
+|-
+| Plural || '''--e''' || '''--e''' || '''--en'''  || '''--er'''
+|}
+The small group of words that take these endings (in addition to ''ein'') includes the possessive adjectives and ''kein'' (&quot;not any&quot; or &quot;no&quot; in the sense of none).
+
+{{BookCat}}
+&lt;noinclude&gt;{{German/Level II/Footer}}&lt;/noinclude&gt;</text>
+      <sha1>t8qaeyirkpn1erym7pv9zgb2ryio7sd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Presroi</title>
+    <ns>2</ns>
+    <id>4842</id>
+    <revision>
+      <id>156515</id>
+      <timestamp>2004-02-21T21:47:58Z</timestamp>
+      <contributor>
+        <username>Presroi</username>
+        <id>627</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">Mathias Schindler, Student in Frankfurt
+[http://www.presroi.de] or on de.wikipedia :)
+
+-- [[User:Presroi|Mathias Schindler]] 21:47, 21 Feb 2004 (UTC)</text>
+      <sha1>0okfqw0rtdxxw0bok8p0670hbu0w5ko</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Branddobbe</title>
+    <ns>2</ns>
+    <id>4845</id>
+    <revision>
+      <id>2006084</id>
+      <parentid>156518</parentid>
+      <timestamp>2010-12-19T11:38:23Z</timestamp>
+      <contributor>
+        <username>Branddobbe</username>
+        <id>626</id>
+      </contributor>
+      <text xml:space="preserve">Hello, my name is '''Eric'''. You probably know me from Wikipedia. In fact, you probably already have a secret crush on me. Don't worry about me finding out; I already know.</text>
+      <sha1>f5so4hicmcijin1gujnub9j7kwpznis</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Crotopo soup</title>
+    <ns>102</ns>
+    <id>4850</id>
+    <revision>
+      <id>1755207</id>
+      <parentid>1715525</parentid>
+      <timestamp>2010-04-12T21:04:15Z</timestamp>
+      <contributor>
+        <ip>95.149.2.48</ip>
+      </contributor>
+      <comment>correctly spelt name</comment>
+      <text xml:space="preserve">{{recipe}}
+
+'''Crotopo Soup''' aka Croute au Pot (Fr.)
+==Ingredients==
+* [[Cookbook:Clear soup|Clear soup]]
+* 1/2 pound lean [[Cookbook:Veal|veal]]
+* 3 oz cooked [[Cookbook:Ham|ham]] 
+* 1 [[Cookbook:Egg yolk|egg yolk]]
+* [[Cookbook:Salt|salt]]
+* [[Cookbook:Pepper|pepper]]
+* pinch of [[Cookbook:Nutmeg|nutmeg]]
+* [[Cookbook:Bread|Bread rolls]]
+
+==Procedure==
+# Pound the veal in a mortar.
+# Add ham with some fat in it, the egg yolk, salt, pepper, and very little nutmeg, and pound some more.
+# Pass through a sieve.
+# Cut some small French rolls into slices and spread them with the above mixture.
+# Place them in the oven and cook until colored.
+# Cut the rolls in halves or quarters, and place them in a tureen.
+# Just before serving, pour a very good clear soup over them.
+
+{{decameron}}
+
+[[Category:Soup recipes]]
+[[Category:Veal recipes]]
+[[Category:Ham recipes]]</text>
+      <sha1>r8xjtv6p5xaqe4pj56v0f0ohqwcvd9k</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Real Analysis</title>
+    <ns>0</ns>
+    <id>4854</id>
+    <revision>
+      <id>2410014</id>
+      <parentid>2367580</parentid>
+      <timestamp>2012-09-22T02:50:13Z</timestamp>
+      <contributor>
+        <ip>130.216.46.63</ip>
+      </contributor>
+      <comment>/* Metric Spaces {{stage|00%}} */ I feel these are sections that need to be at least brushed over</comment>
+      <text xml:space="preserve">[[File:Real analysis cover.png|right]]
+__NOTOC__
+*[[/Foreword|Foreword]]
+*[[/Introduction|Introduction]]
+
+==The real numbers {{stage|50%}}==
+*[[/Counting Numbers|Ordered Sets]] &lt;math&gt;\mathbb{N}&lt;/math&gt; and &lt;math&gt;\mathbb{Z}&lt;/math&gt;
+*[[/Rational Numbers|Ordered Fields]] &lt;math&gt;\mathbb{Q}&lt;/math&gt;
+*[[/The real numbers|Axioms of The Real Numbers]] &lt;math&gt;\mathbb{R}&lt;/math&gt;
+*[[/Properties of Real Numbers|Properties of Real Numbers]] &lt;math&gt;\mathbb{R}&lt;/math&gt;
+*[[/Section 1 Exercises|Exercises]]
+**[[/Section 1 Exercises/Hints|Hints]]
+**[[/Section 1 Exercises/Answers|Answers]]
+
+==Sequences and series {{stage|50%|May 25, 2008}}==
+*[[/Sequences|Sequences]] 
+*[[/Series|Series]]
+*[[/Constructing the real numbers|Construction of the Real Numbers]] &lt;math&gt;\mathbb{R}&lt;/math&gt;
+*[[/Section 2 Exercises|Exercises]]
+**[[/Section 2 Exercises/Hints|Hints]]
+**[[/Section 2 Exercises/Answers|Answers]]
+
+==Metric Spaces {{stage|00%}} ==
+*[[/Metric Spaces/]]
+*[[/Compact Sets|Compact Sets]]
+*[[/Connected Sets|Connected Sets]]
+*[[/Complete Sets|Complete Sets]]
+*[[/Normed Linear Spaces|Normed Linear Spaces]]
+
+==Basic Topology of &lt;math&gt;\mathbb{R}^n&lt;/math&gt; {{stage|00%|March 29, 2009}}==
+*[[/Open and Closed Sets|Open and Closed Sets]]
+*[[/Limit Points (Accumulation Points)|Limit Points (Accumulation Points)]]
+*[[/Interior, Closure, Boundary|Interior, Closure, Boundary]]
+
+==Limits and Continuity {{stage|50%}}==
+*[[/Limits|Limits]]
+*[[/Continuity|Continuity]]
+*[[/Topological Continuity|Topological Continuity]]
+*[[/Total Variation|Total Variation]]
+*[[/Arc Length/]]
+*[[/Exponential Function|The Exponential Function]]
+*[[/Limits and Continuity Exercises/|Exercises]]
+**[[/Limits_and_Continuity_Exercises/Hints/|Hints]]
+**[[/Limits_and_Continuity_Exercises/Answers/|Answers]]
+
+==Differentiation {{stage|75%}}==
+*[[/Differentiation|Differentiation]]
+*[[/Applications of Derivatives|Applications of Derivatives]]
+*[[/Multivariable Derivatives|Multivariable Derivatives]]
+
+==Integration {{stage|75%}}==
+*[[/Riemann integration|Riemann integration]]
+*[[/Fundamental Theorem of Calculus|Fundamental Theorem of Calculus]]
+*[[/Darboux Integral|Darboux Integral]]
+*[[/Generalized Integration|Generalized Integration]]
+
+==Sequences of Functions {{stage|00%}}==
+*[[/Pointwise Convergence|Pointwise Convergence]]
+*[[/Uniform Convergence|Uniform Convergence]]
+
+==Power Series {{stage|25%}}==
+*[[/Power Series|Power Series]]
+
+==Multivariate analysis {{stage|25%}}==
+*[[/Differentiation in Rn|Differentiation in R&lt;sup&gt;n&lt;/sup&gt;]]
+*[[/Inverse Function Theorem|Inverse Function Theorem]]
+
+==Appendices {{stage|100%}}==
+*[[Real analysis/Dedekind's construction|Dedekind's construction]]
+*[[Real analysis/Landau notation|Landau notation]]
+*[[/Bibliography|Bibliography]]
+*[[/Index|Index]]
+*[[/Symbols|Symbols used in this book]]
+
+{{alphabetical|R}}
+{{Subjects|Mathematical analysis|University level mathematics books}}
+{{Status|50%}}
+
+[[de:Mathematik: Analysis|Analysis]]</text>
+      <sha1>08pl9r0dx5q0q03vu46hg7c0e3acjcl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Bureaucratlogentry</title>
+    <ns>8</ns>
+    <id>4860</id>
+    <revision>
+      <id>270324</id>
+      <parentid>181320</parentid>
+      <timestamp>2005-11-01T20:59:43Z</timestamp>
+      <contributor>
+        <username>Derbeth</username>
+        <id>6139</id>
+      </contributor>
+      <minor />
+      <comment>from Wikipedia</comment>
+      <text xml:space="preserve">Rights for &quot;$1&quot; changed</text>
+      <sha1>ssyvjtv3lhvwbf80jj9ey83vbeh4oct</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Googlesearch</title>
+    <ns>8</ns>
+    <id>4864</id>
+    <revision>
+      <id>2000241</id>
+      <parentid>1009373</parentid>
+      <timestamp>2010-12-14T18:01:03Z</timestamp>
+      <contributor>
+        <username>Darklama</username>
+        <id>7662</id>
+      </contributor>
+      <comment>updated from default</comment>
+      <text xml:space="preserve">&lt;div class=&quot;plainlinks&quot; style=&quot;margin-left: 2em&quot;&gt;
+&lt;!-- SiteSearch Google --&gt;
+&lt;div style=&quot;width:130px;float:left;text-align:center;position:relative;top:-8px&quot;&gt;&lt;a href=&quot;http://www.google.com/&quot; style=&quot;padding:0;background-image:none&quot;&gt;Google&lt;/a&gt;&lt;/div&gt;
+&lt;form method=&quot;get&quot; action=&quot;http://www.google.com/search&quot; style=&quot;margin-left:135px;&quot;&gt;
+	&lt;div&gt;
+		&lt;input type=&quot;hidden&quot; name=&quot;domains&quot; value=&quot;http://en.wikibooks.org&quot; /&gt;
+		&lt;input type=&quot;hidden&quot; name=&quot;num&quot; value=&quot;50&quot; /&gt;
+		&lt;input type='hidden' name='ie' value='$2' /&gt;
+		&lt;input type='hidden' name='oe' value='$2' /&gt;
+    
+		&lt;input type=&quot;text&quot; name=&quot;q&quot; size=&quot;31&quot; maxlength=&quot;255&quot; value=&quot;$1&quot; /&gt;
+		&lt;input type=&quot;submit&quot; name=&quot;btnG&quot; value=&quot;$3&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;input type=&quot;radio&quot; name=&quot;sitesearch&quot; id=&quot;gwiki&quot; value=&quot;http://en.wikibooks.org&quot; checked=&quot;checked&quot; /&gt;&lt;label for=&quot;gwiki&quot;&gt;Wikibooks&lt;/label&gt;
+		&lt;input type=&quot;radio&quot; name=&quot;sitesearch&quot; id=&quot;gWWW&quot;  value=&quot;&quot; /&gt;&lt;label for=&quot;gWWW&quot;&gt;WWW&lt;/label&gt;
+	&lt;/div&gt;
+&lt;/form&gt;
+&lt;/div&gt;</text>
+      <sha1>kfutbcpp8ime73bxugu2731koz5g9g3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/How do you ... ?/Ten Apples and a Basket</title>
+    <ns>1</ns>
+    <id>4880</id>
+    <revision>
+      <id>875178</id>
+      <parentid>281997</parentid>
+      <timestamp>2007-05-24T00:21:51Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles:Ten Apples and a Basket]] moved to [[Talk:Puzzles/How do you ... ?/Ten Apples and a Basket]]: NC</comment>
+      <text xml:space="preserve">Another solution - you're sitting under an apple tree and one fell off into the basket. Or alternatively you went past an apple vendor and bought an extra... :)
+
+Another solution - one of your friends finds this puzzle so pathetic they give up on life and hang themselves from a tree and their apple falls from their hand into the basket!</text>
+      <sha1>69roag4a7jrvbu7fgkwo9eln4vufbb5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Karen Johnson</title>
+    <ns>2</ns>
+    <id>4881</id>
+    <revision>
+      <id>156553</id>
+      <parentid>17274</parentid>
+      <timestamp>2004-02-29T22:55:54Z</timestamp>
+      <contributor>
+        <username>Gentgeen</username>
+        <id>279</id>
+      </contributor>
+      <comment>removing stuff that should have gone on the talk page (oops)</comment>
+      <text xml:space="preserve">Hi, I'm a wikipedian interested in working on the wiki [[Cookbook]]... I did a bunch of work on the wiktionary before I decided that it wasn't the best project in the world for a dyslexic contributor! And I've worked on the travel wiki until I ran out of useful contributions to make. So here I am... 
+
+At the moment I'm concentrating on [[Cookbook:Fruit]] and [[Cookbook:Vegetables]] - I think there's enough material there to keep me occupied for the next few months! lol I'm trying to get a decent entry for each fruit and vegie, at least the common ones, including links to recipes that will be, and pointers on how to choose the best, how to cook them, and how not to totally wreck your meal. :)
+
+But if I ever get tired of writing about cooking I may attempt to start a practical arts/crafts module, maybe covering papercrafts how-tos and card-making (my specialty)...</text>
+      <sha1>h47k5u996zsl9qthkg1q4nfj99ojzje</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Karen Johnson</title>
+    <ns>3</ns>
+    <id>4882</id>
+    <revision>
+      <id>599632</id>
+      <parentid>368681</parentid>
+      <timestamp>2006-10-01T21:29:54Z</timestamp>
+      <contributor>
+        <username>Withinfocus</username>
+        <id>9615</id>
+      </contributor>
+      <text xml:space="preserve">Hi Karen :)  Nice to see Wikibooks has dragged yet another from the clutches of the Wikipedia ;)
+
+Have fun [[User:Dysprosia|Dysprosia]] 05:10, 22 Feb 2004 (UTC)
+
+They dragged my beloved recipes, they dragged me! lol Thanks for the welcome. I'm really not sure how much is meant to be duplicated/moved/replaced from the Wikipedia food section to here. I don't want to unnecessarily duplicate other people's work... [[User:Karen Johnson|KJ]] 05:44, 22 Feb 2004 (UTC)
+
+Please check the Staff Lounge again for some extra info. Thx [[User:Dysprosia|Dysprosia]] 10:11, 22 Feb 2004 (UTC)
+
+They are still arguing over there about where to put recipes.  This place seems like the logical answer.  Good luck! There is lots in need of doing in the cookbook - [[User:Marshman|Marsh]] 04:17, 24 Feb 2004 (UTC)
+
+I thought it was a done deal that all the recipes were coming over here... but I just got my head bitten off for daring to import the sacred French recipes via the transwiki process :( I don't think I want to do any more... I'm going to concentrate on the noncontroversial vegetables and fruits, like I've already done for [[Cookbook:Orange]]. Take the wikipedia entry and extend/modify it so it applies more to the culinary side of things, including what they look like, how to prepare them, and what sort of recipes to use them in... [[User:Karen Johnson|KJ]] 04:24, 24 Feb 2004 (UTC)
+
+:I think it only makes sense to bring the recipes here in a cookbook. Wikipedia can reference them.  I'll gladly give them my piece of mind on the subject, but there is rifght now a French contigent arguing to keep &quot;recipes&quot; at Wikipedia&amp;mdash;just foolishness. Say, great to have someone closer to my time zone working at Wikibooks (I'm in Hawaii) - [[User:Marshman|Marsh]] 04:37, 24 Feb 2004 (UTC) 
+
+::I'm in Australia... so I'm halfway there! Lol [[User:Karen Johnson|KJ]] 04:44, 24 Feb 2004 (UTC)
+
+::I gather it is Tuesday, sometime in the day (afternoon/evening?) there. It is now dark here, but evening supper is upon us. - [[User:Marshman|Marsh]] 04:50, 24 Feb 2004 (UTC)
+:::It's four pm and my brother just got home from work... it's a nice sunny day today, even if remarkably cold for mid-summer. While I've got your attention, do you know how to link to an article in the cookbook from the en wikipedia? is it Wikibooks:Cookbook:Alfalfa ? I just wrote it and I thought I'd link it to the article in the pedia because they totally ignored culinary use when they wrote it. [[User:Karen Johnson|KJ]] 05:05, 24 Feb 2004 (UTC)
+::::I just put something about that under [[Cookbook:Fruit]] for you - [[User:Marshman|Marsh]] 05:09, 24 Feb 2004 (UTC) OOOpps. It is under [[Talk:Cookbook:Carrot]]. If you refer back to [[Special:Recentchanges]] you can see where I'm adding in. Just got the dinner bell! Goodonya, mate - [[User:Marshman|Marsh]]
+
+Isn't this fun???  Just to let you know, I kinda forced through a naming convention for recipes in the cookbook to &lt;nowiki&gt;[[Cookbook:Recipe Name]]&lt;/nowiki&gt;, with all the important words capitalized, just like in a real book :~).  I don't have any opinions on conventions for ingrediants, as so far there haven't been any multi word ingrediant pages.  Pick one and the rest of us will follow.  I don't blame you for not wanting to move articles over here, the process is a bit unwieldly and the thanks we're getting is ''SO'' rewarding.
+
+It'll be good to have some help on this side of the move.  Might encourage me to move things over more quickly.  The Indian recipes got moved today (maybe I should spend the rest of the day here to avoid the possible wikipedia backlash). [[User:Gentgeen|Gentgeen]] 19:41, 24 Feb 2004 (UTC)
+
+LOL I don't think there are any Indian contributors to raise a ruckus... I keep forgetting to put the capital letters into page name, and putting things into the wrong place - but I'm trying to remember them. For ingredients I think that only the first letter should be capitalised eg [[Cookbook:Herb cheese]] instead of [[Cookbook:Herb Cheese]]. Or do you think it should be the other way? I don't really care either way. We'll be getting onto spice mixes soon and they have two or three word titles... [[User:Karen Johnson|KJ]] 02:12, 25 Feb 2004 (UTC)
+::My vote would be &quot;Herb cheese&quot; but decide what you like - [[User:Marshman|Marsh]] 03:00, 25 Feb 2004 (UTC)
+
+::I like it as well, as the recipes are a title, thus a proper noun, while ingrediants are just a thing, so they don't really deserve to be capitalized.  My only issue would be something like [[cookbook:Pesto|Pesto]], which can be both a recipe and an ingrediant, but it only has one word, so nothing to worry about there (yet). [[User:Gentgeen|Gentgeen]]
+
+== arts/crafts textbook ==
+
+If you want to take a stab at an arts and crafts book that sounds like a worthwhile goal to me ! I am glad to have you aboard. --[[User:Karl Wick|Karl Wick]]
+:I think it sounds like a good idea too. One that really could go a long ways over the future years - [[User:Marshman|Marsh]] 04:17, 24 Feb 2004 (UTC)
+
+==Old cookbook page==
+Karen, the old cookbook page is at [[Talk:Cookbook/Planning]].  I didn't mean for the page to be changed so quickly, and was hoping to get your input before it was changed, but others seemed to like the idea of being bold, so it got changed.  If you're having problems editing tables, just let me know what you'd like on the page and I'll edit it in for you, or I could give you some pointers on the new table syntax.  [[User:Gentgeen|Gentgeen]] 22:44, 29 Feb 2004 (UTC)
+
+== De-Adminship vote ==
+
+A vote is being held to remove your sysop privileges.  The basis for this vote is lack of use of these privileges.  You may want to participate at [[Wikibooks:Requests_for_adminship#Karen_Johnson_.28_talk_.7C_email_.7C_contribs_.29]].  See also the discussion at [[Wikibooks:Staff_lounge#Removing_Sysop_Status]]. --[[User:JMRyan|JMRyan]] 22:40, 17 February 2006 (UTC)
+
+== Your De-Adminship ==
+
+Hello. I would like to inform you that you will have your sysop rights removed here on 1 Nov 2006 due to inactivity. If you would like to discuss the matter, please see [[WB:RFA]]. You can re-apply for adminship at a later date if you wish. Thanks. -[[User:Withinfocus|&lt;font color=&quot;#000000&quot;&gt;'''within'''&lt;/font&gt;]][[User talk:Withinfocus|&lt;font color=&quot;#7A7A7A&quot;&gt;'''focus'''&lt;/font&gt;]] 21:29, 1 October 2006 (UTC)</text>
+      <sha1>j743ea660necojxuvfjj6buicav8csr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Macroeconomics/Macroeconomic Variables</title>
+    <ns>0</ns>
+    <id>4884</id>
+    <revision>
+      <id>1943683</id>
+      <parentid>1943675</parentid>
+      <timestamp>2010-10-06T12:27:53Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>Reverted edits by [[Special:Contributions/145.92.48.27|145.92.48.27]] ([[User talk:145.92.48.27|talk]]) to last revision by [[User:Adrignola|Adrignola]]</comment>
+      <text xml:space="preserve">==Macroeconomic Variables!==
+&amp;sum;E = &amp;sum;O = &amp;sum;Y
+===[[wikipedia:Autonomous|Autonomous]]===
+That element of a factor ([[wikipedia:variable|variable]]) which is [[wikipedia:independent|independent]] of the level of income. E.g. the level of consumption you need to [[wikipedia:survive|survive]] even when you have no income.
+
+===[[wikipedia:Induced|Induced]]===
+That element of a factor ([[wikipedia:variable|variable]]) which is influenced by the level of Y. E.g. the level of income the [[wikipedia:government|government]] recieves from tax (personal income). As the income level increases &amp;rarr; so does government tax [[wikipedia:receipts|receipts]].
+
+===Example: [[wikipedia:Investment|Investment]]!===
+Investment (I), is defined as the [[wikipedia:purchase|purchase]] of new [[wikipedia:capital goods|capital goods]] which add to the stock of [[wikipedia:capital|capital]]. Capital goods are those produced not to satisfy consumer wants directly but for increasing the level of production in the future. Capital consists of items such as factories, machinery and railways.
+*Autonomous I. refers to that [[wikipedia:formation|formation]] motivated by reasons independent of changes in consumer demand indicated through income. This I. is undertaken in '[[wikipedia:expectation|expectation]]' of a [[wikipedia:profit|profit]] to be derived in the future.
+*Induced I. refers to that capital formation motivated by increased consumer [[wikipedia:demand|demand]] or income.
+*If the I. function is given by: I = 50 + 0.1Y, it means that autonomous I is 50 and is [[wikipedia:undertaken|undertaken]] irrespective of the level of Y, and induced I. is 10% of the level of Y. If Y equalled 1000 then I. would be 150.
+===Graphs===
+
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>8gd3mjy2arqsxegcw0c5lnifoky6q1f</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Italian Risotto</title>
+    <ns>102</ns>
+    <id>4885</id>
+    <revision>
+      <id>2686699</id>
+      <parentid>2115407</parentid>
+      <timestamp>2014-07-31T19:55:12Z</timestamp>
+      <contributor>
+        <username>Koavf</username>
+        <id>16549</id>
+      </contributor>
+      <minor />
+      <comment>Koavf moved page [[Cookbook:Italian risotto]] to [[Cookbook:Italian Risotto]]</comment>
+      <text xml:space="preserve">{{cooknav}} | [[Cookbook:Cuisine of Italy|Italian Cuisine]]
+
+Risotto is a traditional North Italian dish, made with a soft short-grained rice, for example, Arborio rice. This rice has a very high starch content, making for a thick and creamy texture in the finished product. You cannot make a successful risotto using long-grained rice, however hard you try. 
+
+First the rice is sauteed in olive oil or butter to begin the cooking process, then liquid (stock and/or white wine) is added slowly, stirring continuously. The stirring helps to break down the grains and release more starch. Flavourings can be added either at the start (onions, chopped chicken, etc.) or towards the end (parmasen or grated cheese, spinach etc) depending on how long they need to cook. The actual rice will be cooked in about twenty minutes, making this a fairly quick if labour-intensive dish.
+
+==Recipes==
+
+[[cookbook:Risotto|Risotto]] - a basic recipe (with variations)
+
+[[Category:Italian recipes|Italian risotto]]
+[[Category:Rice recipes|Italian risotto]]</text>
+      <sha1>9bex8mg6gaf537en6sg4peye0jdfnld</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Vegetable</title>
+    <ns>102</ns>
+    <id>4889</id>
+    <revision>
+      <id>1382607</id>
+      <parentid>1382605</parentid>
+      <timestamp>2009-01-19T17:29:57Z</timestamp>
+      <contributor>
+        <ip>142.163.59.158</ip>
+      </contributor>
+      <comment>Undo revision 1382605 by [[Special:Contributions/142.163.59.158|142.163.59.158]] ([[User talk:142.163.59.158|Talk]])</comment>
+      <text xml:space="preserve">{{vegetable|*}} | [[Cookbook:Basic foodstuffs|Basic Foodstuffs]]
+
+[[Image:Vegetables dsc01560-nevit.jpg|thumb|Vegetables]]
+The '''vegetables''' commonly used in cooking are listed below.
+Note that some vegetables which are botanically [[Cookbook:Fruit|fruit]]s are considered to be vegetables in the culinary sense and are listed here. Also note that where terminology is attributed to the UK, then the same usage can be assumed in AUS and NZ, unless otherwise stated.
+
+[[Image:Asparagus produce-1.jpg|right|thumb|white and green asparagus]]
+[[Image:Aubergine.jpg|right|thumb|eggplant (aubergine)]]
+[[Image:Romanesco Broccoli.jpg|right|thumb|Romanesco broccoli]]
+
+* [[Cookbook:Alfalfa|Alfalfa]] sprouts
+* [[Cookbook:Anise|Anise]]
+* [[Cookbook:Artichoke|Artichoke]]
+* [[Cookbook:Arugula|Arugula]]
+* [[Cookbook:Asparagus|Asparagus]]
+* [[Cookbook:Eggplant|Aubergine]] (eggplant)
+* [[Cookbook:Avocado|Avocado]]
+
+* [[Cookbook:Brassicas|Brassicas]] (cabbage family, or cruciform vegetables)
+** [[Cookbook:Broccoflower|Broccoflower]] (a hybrid, cross between broccoli and cauliflower)
+** [[Cookbook:Broccoli|Broccoli]]
+** [[Cookbook:Broccolini|Broccolini]]
+** [[Cookbook:Broccoli rabe|Broccoli rabe]]
+** [[Cookbook:Brussels Sprout|Brussels sprouts]]
+** [[Cookbook:Cabbage|Cabbage]]
+** [[Cookbook:Cauliflower|Cauliflower]]
+** [[Cookbook:Broccoflower|Romanesco broccoli]] (broccoflower)
+** [[Cookbook:Yu Choy|Yu choy]]
+** [[Cookbook:Choy Sum|Choy sum]] (Chinese leaves)
+** [[Cookbook:Bok Choy|Bok choy]] (Chinese leaves)
+** [[Cookbook:Nappa Cabbage|Nappa cabbage]] (Chinese leaves)
+** [[Cookbook:Collard Green|Collard greens]]
+** [[Cookbook:Kohlrabi|Kohlrabi]]
+
+* [[Cookbook:Breadfruit|Breadfruit]]
+* [[Cookbook:Edible Cactus|Cactus pad]] (edible cactus)
+* [[Cookbook:Calabrese|Calabrese]]
+* [[Cookbook:Celery|Celery]]
+* [[Cookbook:Swiss Chard|Chard]] (Swiss chard)
+* [[Cookbook:Chicory|Chicory]]
+* [[Cookbook:Cucumber|Cucumber]]
+* [[Cookbook:Eggplant|Eggplant]]
+* [[Cookbook:Endive|Endive]]
+* [[Cookbook:Edible Cactus|Edible cactus]]
+* [[Cookbook:Fennel|Fennel]]
+* [[Cookbook:Fiddlehead|Fiddlehead]] (young coiled fern leaves)
+* [[Cookbook:Frisee|Frisee]]
+* [[Cookbook:Hop Shoot|Hop shoot]]
+* [[Cookbook:Kale|Kale]]
+* [[Cookbook:Kangkung|Kangkung]]
+
+[[Image:Soybeanvarieties.jpg|thumb|right|Soybeans]]
+[[Image:Garlic.jpg|right|thumb|Garlic]]
+[[Image:Prei winter Farinto geoogst.jpg|thumb|right|Winter leeks]]
+
+*[[Cookbook:Legumes|Legume]] family (beans and peas)
+** [[Cookbook:Azuki Bean|Azuki bean]] (aka red beans)
+** [[Cookbook:Bean Sprout|Beansprouts]]
+** [[Cookbook:Black Bean|Black beans]] (aka turtle beans)
+** [[Cookbook:Black-eyed Pea|Black-eyed peas]] (aka black-eyed bean, blackeye pea, ...)
+** [[Cookbook:Borlotti Bean|Borlotti beans]]
+** [[Cookbook:Broad Bean|Broad beans]] (aka ful or [[Cookbook:Fava Bean|fava beans]])
+** [[Cookbook:Chickpea|Chickpea]] (aka garbanzo bean or ceci bean)
+** [[Cookbook:Green Bean|Green beans]]
+** [[Cookbook:Kidney Bean|Red kidney bean]]
+** [[Cookbook:Lentil|Lentils]]
+** [[Cookbook:Lima Bean|Lima beans]] (aka butter beans)
+** [[Cookbook:Mung Bean|Mung beans]]
+** [[Cookbook:Navy Bean|Navy beans]]
+** [[Cookbook:Runner Bean|Runner bean]]
+** [[Cookbook:Soy|Soybean]]
+** [[Cookbook:Pea|Pea]]
+*** [[Cookbook:Mangetout|Mangetout]] or [[Cookbook:Snap Pea|Snap pea]]
+
+* [[Cookbook:Lemongrass|Lemongrass]]
+* [[Cookbook:Lettuce|Lettuce]] ''Lactuca sativa''
+* [[Cookbook:Corn|Corn]] (maize or sweetcorn in the UK)
+* [[Cookbook:Mangetout|Mangetout]]
+* [[Cookbook:Mustard Green|Mustard green]]
+* [[Cookbook:Nettle|Nettles]]
+* [[Cookbook:New Zealand Spinach|New Zealand spinach]]
+* [[Cookbook:Nori|Nori]] (seaweed, actually an alga)
+* [[Cookbook:Okra|Okra]] (aka gumbo, lady fingers or bhindi)
+
+* Onion family
+** [[Cookbook:Chive|Chives]]
+** [[Cookbook:Garlic|Garlic]]
+** [[Cookbook:Leek|Leek]] ''Allium porrum''
+** [[Cookbook:Onion|Onion]]
+** [[Cookbook:Shallot|Shallot]]
+** [[Cookbook:Green Onion|Spring onion]] (UK) = green onion or bunching onion (US) = scallion = shallot. (Note that [[cookbook:shallot|shallot]] also refers to a different kind of onion.)
+
+* [[Cookbook:Parsley|Parsley]]
+
+[[Image:Capsicum1.jpg|right|thumb|Bell peppers]]
+[[Image:Daikon.Japan.jpg|thumb|right|Daikon]]
+[[Image:Potatoes.jpg|thumb|right|Potatoes]]
+
+*Pepper (''capsicum'' genus)
+** [[Cookbook:Bell Pepper|Bell pepper]]
+** [[Cookbook:Chili Pepper|Chili pepper]]
+
+* [[Cookbook:Radicchio|Radicchio]]
+* [[Cookbook:Rhubarb|Rhubarb]]
+
+* [[Cookbook:Root Vegetable|Root vegetables]] (including rhizomes and tubers)
+** [[Cookbook:Beet|Beet]] (also known as beetroot)
+** [[Cookbook:Carrot|Carrot]]
+** [[Cookbook:Cassava|Cassava]] (also known as manioc or yuca)
+** [[Cookbook:Celeriac|Celeriac]]
+** [[Cookbook:Daikon|Daikon]]
+** [[Cookbook:Ginger|Ginger]]
+** [[Cookbook:Sunchoke|Sunchoke]] (also known as &quot;Jerusalem artichoke&quot;, but not at all related to the artichoke)
+** [[Cookbook:Jicama|Jicama]]
+** [[Cookbook:Parsnip|Parsnip]]
+** [[Cookbook:Potato|Potato]]
+** [[Cookbook:Radish|Radish]]
+** [[Cookbook:Skirret|Skirret]]
+** [[Cookbook:Rutabaga|Rutabaga]] (also known as swede)
+** [[Cookbook:Sweet Potato|Sweet potato]] (''Ipomoea Batatas'', known as kumara in New Zealand)
+** [[Cookbook:Taro Root|Taro root]]
+** [[Cookbook:Turnip|Turnip]]
+** [[Cookbook:Wasabi|Wasabi]]
+** [[Cookbook:Water Chestnut|Water chestnut]]
+** [[Cookbook:White Radish|White radish]]
+** [[Cookbook:Yam|Yam]]
+
+* [[Cookbook:Samphire|Samphire]]
+* [[Cookbook:Swiss Chard|Silverbeet]] (Swiss chard)
+* [[Cookbook:Snap Pea|Snap pea]]
+* [[Cookbook:Spinach|Spinach]]
+
+* [[Cookbook:Squash|Squash]] family
+** [[Cookbook:Acorn Squash|Acorn squash]]
+** [[Cookbook:Bitter Melon|Bitter melon]]
+** [[Cookbook:Butternut Squash|Butternut squash]] (butternut pumpkin in AUS/NZ)
+** [[Cookbook:Calabaza|Calabaza]]
+** [[Cookbook:Chayote|Chayote]]
+** [[Cookbook:Cucumber|Cucumber]]
+** [[Cookbook:Gem Squash|Gem squash]]
+** [[Cookbook:Marrow|Marrow]] (UK) = ''Cucurbita maxima'', unrelated to bones (not distinguished from other squash in the US)
+** [[Cookbook:Patty Pan Squash|Patty pan squash]]
+** [[Cookbook:Pumpkin|Pumpkin]]
+** [[Cookbook:Spaghetti Squash|Spaghetti squash]]
+** [[Cookbook:Zucchini|Zucchini]] (US/AUS, or courgette in UK/NZ)
+
+[[Image:A Tomato.jpg|right|thumb|Tomato]]
+
+* [[Cookbook:Tat Soi|Tat soi]]
+* [[Cookbook:Tomatillo|Tomatillo]]
+* [[Cookbook:Tomato|Tomato]]
+
+* [[Cookbook:Watercress|Watercress]]
+
+==See also==
+* [[Cookbook:Fruit|Fruit]]
+* [[Cookbook:Nuts and Seeds|Nut]]
+* [[Cookbook:Fungus|Fungus]]
+
+[[nl:Kookboek/Groenten]]</text>
+      <sha1>t5pk24aw2vukhcheb0kejzt20530fhz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Vegetables</title>
+    <ns>102</ns>
+    <id>4890</id>
+    <redirect title="Cookbook:Vegetable" />
+    <revision>
+      <id>156561</id>
+      <timestamp>2004-02-22T09:09:14Z</timestamp>
+      <contributor>
+        <username>Karen Johnson</username>
+        <id>630</id>
+      </contributor>
+      <text xml:space="preserve">#REDIRECT [[Cookbook:Vegetable]]</text>
+      <sha1>fpn5oyygrn7flvnqn1758h3cmwv0na6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Vegetables</title>
+    <ns>103</ns>
+    <id>4891</id>
+    <revision>
+      <id>354090</id>
+      <parentid>156562</parentid>
+      <timestamp>2006-02-03T06:00:46Z</timestamp>
+      <contributor>
+        <username>Uncle G's major work 'bot</username>
+        <id>10904</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Cookbook:Vegetables]] moved to [[Cookbook talk:Vegetables]]: COOKBOT: Renaming talk page to Cookbook talk namespace</comment>
+      <text xml:space="preserve">Ummm... does the REDIRECT command work here? It seems to have made a listed item :(</text>
+      <sha1>03jwwtkhvte2jseupjjbgnc7c0h2gbd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Spices and Herbs</title>
+    <ns>103</ns>
+    <id>4892</id>
+    <revision>
+      <id>2687229</id>
+      <parentid>353195</parentid>
+      <timestamp>2014-07-31T23:03:24Z</timestamp>
+      <contributor>
+        <username>Koavf</username>
+        <id>16549</id>
+      </contributor>
+      <minor />
+      <comment>Koavf moved page [[Cookbook talk:Spices and herbs]] to [[Cookbook talk:Spices and Herbs]]</comment>
+      <text xml:space="preserve">Should we copy the herbs and spices list from the wikipedia? It's being worked on at the moment and it's becoming vastly comprehensive, but I'm not sure how much more they're going to add... [[en:List of herbs and spices]] [[User:Karen Johnson|KJ]] 09:35, 22 Feb 2004 (UTC)
+:Absolutly, and whatever they don't add we can, eventually.  However, we do need to maintain a link back, for GFDL purposes. [[User:Gentgeen|Gentgeen]] 06:45, 27 Feb 2004 (UTC)</text>
+      <sha1>973cvvdudh1eu6dher3qspo323lco72</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

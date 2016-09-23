@@ -1,0 +1,1647 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Spanish/Exercises/Questions</title>
+    <ns>0</ns>
+    <id>1227</id>
+    <revision>
+      <id>1639879</id>
+      <parentid>581615</parentid>
+      <timestamp>2009-10-09T10:15:03Z</timestamp>
+      <contributor>
+        <ip>66.65.105.113</ip>
+      </contributor>
+      <comment>/* Yes/No Questions */</comment>
+      <text xml:space="preserve">[[Spanish/Lesson 5| ^Lesson 5^]]
+----
+
+=== Yes/No Questions ===
+Form the corresponding yes/no question:
+
+1. Ellos tienen hambre.
+
+2. Nosotros estudiamos español.
+
+3. Fernando es alto.
+
+=== Specific Questions ===
+Put in the correct question word:
+
+4. ¿_________ estás? - Estoy bien.
+
+5. ¿__________ es el hombre alto? 
+
+6. ¿_________ hermanos tienes? 
+
+7. ¿__________ está España? - Está en Europa.
+
+8. ¿_________ es tu cumpleaños? 
+
+9. ¿_________estudias español? - Porque es muy interesante.
+
+----
+[[Spanish/Exercises/Questions - Solutions|Soluciones a los ejercicios]] ''Solutions to exercices''
+
+[[Spanish/Lesson 5| ^Lesson 5^]]
+
+[[Category:Spanish]]</text>
+      <sha1>gwp7l7o6thtdbdv031ocdqxnla6gz9e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>XHTML</title>
+    <ns>0</ns>
+    <id>1228</id>
+    <revision>
+      <id>2530328</id>
+      <parentid>2530319</parentid>
+      <timestamp>2013-05-30T07:27:54Z</timestamp>
+      <contributor>
+        <username>Swatkatz14</username>
+        <id>422512</id>
+      </contributor>
+      <comment>reverting vandalism</comment>
+      <text xml:space="preserve">Welcome to the XHTML tutorial here at Wikibooks!
+
+==Contents==
+* [[XHTML/What is XHTML|What is XHTML]] {{stage|25%|Jun 29, 2009}}
+** [[XHTML/History of XHTML|History of XHTML]] {{stage|25%|Jul 02, 2009}}
+** [[XHTML/Media Types|Media Types]] &amp;mdash; {{stage|25%|Dec 31, 2006}}
+** [[XHTML/A Basic XHTML Document|A Basic XHTML Document]] &amp;mdash; {{stage|25%|Jul 02, 2009}}
+* [[XHTML/DTD (Document Type Definition)|DTD (Document Type Definition)]]
+* [[XHTML/XHTML Grammar|XHTML Grammar]] {{stage|25%|Sep 30, 2009}}
+* [[XHTML/XHTML Documents|XHTML Documents]] {{stage|25%|Sep 30, 2009}}
+* [[XHTML/XHTML Attributes|XHTML Attributes]] {{stage|25%|Sep 30, 2009}}
+* [[XHTML/XHTML Objects|XHTML Objects]] {{stage|25%|Sep 30, 2009}}
+* [[XHTML/XHTML Validating|XHTML Validating]] {{stage|00%|Sep 30, 2009}}
+* Appendicies: 
+** [[XHTML/HTML vs. XHTML|HTML vs. XHTML]] &amp;mdash; {{stage|00%|Jan 1, 2007}}
+
+==Other Resources==
+*[http://www.yourhtmlsource.com/accessibility/xhtmlexplained.html XHTML Tutorial] from [http://www.yourhtmlsource.com/ HTML Source], detailing the differences in writing XHTML from HTML.
+*[http://www.w3schools.com/xhtml/default.asp XHTML Tutorial] from [http://www.w3schools.com/ W3Schools] Introducing comprehensively XHTML.
+*[http://www.htmldog.com/ &quot;HTML Dog&quot; HTML and CSS Tutorials].
+* [[XForms]] - XForms Tutorial and Cookbook.
+* Common questions on HTML and XHTML are listed at the [http://www.w3.org/MarkUp/2004/xhtml-faq W3C FAQ page on XHTML and HTML 4.01].
+*[http://www.landofcode.com/xhtml/ XHTML lessons]
+*[http://www.books4web.com/books/XHTML/ XHTML Books Collection]
+* [http://pickatutorial.com/tutorial/xhtml/ xHTML Tutorial for Beginners]
+
+{{Subjects|Markup languages}}
+{{Alphabetical|X}}
+{{status|25%}}
+
+[[fi:XHTML]]
+[[is:XHTML]]</text>
+      <sha1>3qyerh89vuy1lr5i3ouax91zwhcschr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electrical Power</title>
+    <ns>0</ns>
+    <id>1229</id>
+    <revision>
+      <id>2213718</id>
+      <parentid>2213700</parentid>
+      <timestamp>2011-11-18T14:20:53Z</timestamp>
+      <contributor>
+        <username>Jomegat</username>
+        <id>12605</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/46.60.252.87|46.60.252.87]] ([[User talk:46.60.252.87|talk]]) to last version by Bookbuddi</comment>
+      <text xml:space="preserve">[[GCSE Science/Electricity]]
+----
+The reason electricity has become so popular over the last 100 years or so is because it is a very good way of moving ''energy'' from one place to another. When you buy a light bulb is usually rated in watts. The watt is a unit of ''power''. In this unit you are going to lean some equations rating current voltage, energy and power and apply the equations.
+
+==Definition of power==
+Power is defined as the rate of energy flow. Its unit is the watt &amp;mdash; one watt is one joule per second.
+
+In electrical circuits the power can be found by multiplying the current and voltage together. One way of remembering this is to use an equation triangle like the one below. Memorize the positions of the symbols. ''P'' is power, ''V'' is voltage and ''I'' is current. If you want to know the power, cover its symbol up and what you have left is ''I''&amp;times;''V'', or current times voltage. Want to know the voltage? Cover it up and what you have left is ''P''&amp;divide;''I'', or power divided by current.
+[[Image:Power_is_V_times_I_triangle.png]]
+
+
+===Where does the equation ''P'' equals ''VI'' come from?===
+
+From the definition above power is energy ''E'' per unit time ''t''. ( how many joules '''per''' second}
+:''P'' = ''E''/''t''
+
+So where does ''P'' = ''IV'' come from?
+
+To find out we look at what ''I'' and ''V'' are defined as. ''I'' is electrical current. It is the amount of charge ''Q'' flowing past any point every sec. The voltage also determines the current, so the power is directly proportional to the voltage and the current. We know that from the definition of the volt, if 1 amp flows for 1 second, with a 1 volt potential difference, 1 joule of energy is used up per second, and therefore the power is 1 Watt.
+
+==Examples==
+Michael plugs a 100 W light bulb into the mains, what is the resistance of the bulb?
+To find the resistance we need to know the current, to find the current we use the equation for power.Covering up the ''I'' in the triangle gives:
+
+::''I'' = ''P''/''V'' = (100 W)/(230 V)
+::= 0.435 A
+
+Now we can use this in the equation for resistance. 
+
+::''R'' = ''V''/''I''
+::= (230 V)/(0.435 A)
+::= 529 &amp;Omega;
+
+How much charge flows through this bulb in 15 seconds?
+
+We use the definition of current, to work this out.
+
+''I'' = ''C''/''t''   
+
+So ''C'' =''It''  = (0.435 A)(15 s)  = 6.53 coulombs (C)
+
+How much electrical energy is converted into heat and light energy in 15 s?
+
+For this we use the equation for power in its energy per second form.
+
+''P'' = ''E''/''t''
+
+So ''E'' = ''Pt'' = (100 W)(15 s) = 1500 joules (J)
+
+'''Q1)''' Put Ohm's law into a triangle like the one above.
+
+'''Q2)''' If a current of 3 A flows through a 12 V heater, how much energy will it transfer in half an hour? How much charge will have flowed through the heater in the same time?
+
+'''Q3)''' In the USA mains voltage is only 120 V. If a 60 W light bulb is connected to the mains in the USA, what current flows through it ? 
+
+'''Q4)'''What current would flow through the same bulb if plugged into the mains in the UK (230 V) and what would be the power?
+----
+Before we go on to looking at power transmission in the power lines of the national grid, we need to look at how energy is generated. We'll come back to this topic later on, after we look at the next module, which is on the magnetic effects of current.
+
+'''Summary'''
+* Power is the ''rate'' of flow of energy. Power = energy/time
+* The unit of power is the watt, where 1 watt is 1 joule per second
+* Electrical power can be found by multiplying current and voltage. (''P'' = ''IV'')
+
+----
+[[GCSE Science/Electrical Power answers|Answers]] |[[GCSE Science/Safety in Mains circuits|&lt;&lt;Safety]] | [[GCSE Science/Electromagnetism|Electromagnetism&gt;&gt;]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>80coj89vwoh172oue354do0ao7oyqq8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Power is V times I triangle.png</title>
+    <ns>6</ns>
+    <id>1230</id>
+    <revision>
+      <id>636433</id>
+      <parentid>153355</parentid>
+      <timestamp>2006-11-04T11:03:54Z</timestamp>
+      <contributor>
+        <username>Theresa knott</username>
+        <id>93</id>
+      </contributor>
+      <text xml:space="preserve">Diagram drawn by Theresa knott
+
+{{GFDL}}
+{{Cc-by-sa-2.5}}</text>
+      <sha1>7clkhk907c02ou60105tkuygs5u93zq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cell Biology/Endoplasmic Reticulum</title>
+    <ns>0</ns>
+    <id>1232</id>
+    <revision>
+      <id>1896794</id>
+      <parentid>616060</parentid>
+      <timestamp>2010-07-21T16:23:26Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>fixed links/category</comment>
+      <text xml:space="preserve">[[Cell Biology]] | [[../Parts of the cell/]] | [[../Organelles/]]
+
+Endoplasmic Reticulum | [[../Mitochondria and Chloroplasts|Mitochondria and Chloroplasts &gt;&gt;]]
+
+----
+The '''endoplasmic reticulum''' (endoplasmic=&quot;within the [[w:cytoplasm|cytoplasm]]&quot;, reticulum=&quot;little net&quot;; short : ER) is an important organelle in all [[w:eukaryote|eukaryotic cells]]. [[w:prokaryote|Prokaryotic organisms]] do not have organelles and thus do not have an ER. It's base structure and composition is similar to the [[w:plasma membrane|plasma membrane]], though it is an extension of the [[w:nuclear membrane|nuclear membrane]]. The ER is the site of the [[w:protein synthesis|translation]] and folding of and transport of [[w:protein|protein]]s that are to become part of the [[w:cell membrane|cell membrane]] (e.g., [[w:transmembrane receptor|transmembrane receptor]]s and other [[w:integral membrane protein|integral membrane protein]]s) as well as proteins that are to be secreted or &quot;[[w:exocytosis|exocytosed]]&quot; from the cell (e.g., digestive [[w:enzyme|enzyme]]s).
+
+
+{| align=&quot;center&quot; width=&quot;150&quot;
+|-
+| [[image:nucleus_ER_golgi.jpg]]
+|-
+|
+'''Figure 1 :''' Image of [[w:cell nucleus|nucleus]], endoplasmic reticulum and Golgi apparatus.&lt;br&gt;
+&lt;font size=-1&gt;(1) Nucleus. (2) Nuclear pore. (3) Rough endoplasmic reticulum (RER). (4) Smooth endoplasmic reticulum (SER). (5) Ribosome on the rough ER. (6) Proteins that are transported. (7) Transport vesicle. (8) Golgi apparatus. (9) Cis face of the Golgi apparatus. (10) Trans face of the Golgi apparatus. (11) Cisternae of the Golgi apparatus.&lt;/font&gt;
+|}
+
+The ER consists of an extensive membrane network of tubes and [[w:cisterna|cisterna]]e (sac-like structures). The membrane encloses a space, the cisternal space (or internal lumen) from the [[w:cytosol|cytosol]]. This space is acting as a gateway. Parts of the ER membrane are continuous with the outer membrane of the [[w:nuclear envelope|nuclear envelope]], and the cisternal space of the ER is continuous with the space in between the two layers of the nuclear envelope.
+
+Parts of the ER are covered with [[w:ribosome|ribosome]]s (which assemble amino acids into proteins based on instructions from the nucleus). Their rough appearance under electron microscopy led to their being called rough ER (RER), other parts are free of ribosomes and are called smooth ER (SER). The ribosomes on the surface of the rough ER insert the freshly produced proteins directly into the ER, which processes them and then passes them on to the [[w:Golgi apparatus|Golgi apparatus]] (Fig. 1).
+
+Rough and smooth ER differ not only in appearance, but also in function. While the rough ER manufactures and transports proteins destined for membranes and secretion, the smooth ER has functions in several metabolic processes. It takes part in the synthesis of various [[w:lipid|lipid]]s (e.g., for building membranes) and [[w:steroid|steroid]]s (e.g., [[w:hormone|hormone]]s), and also plays an important role in [[w:carbohydrate metabolism|carbohydrate metabolism]], detoxification of the cell, and [[w:calcium|calcium]] storage.
+
+Proteins that are transported by the ER and from there throughout the cell are marked with an address tag that are called a [[w:protein targeting|signal sequence]]. [[w:Günter Blobel|Günter Blobel]] was awarded the [[w:1999|1999]] [[w:Nobel Prize in Physiology or Medicine|Nobel Prize in Physiology or Medicine]] for his discovery of these signal sequences in 1975. The N-terminus (one end) of a [[w:polypeptide|polypeptide]] chain (e.g., a protein) contains a few [[w:amino acid|amino acid]]s that work as an address tag, which are removed when the polypeptide reaches its destination. Proteins that are destined for places outside the ER are packed into transport [[w:vesicle|vesicle]]s and moved along the [[w:cytoskeleton|cytoskeleton]] towards their destination.
+
+----
+Endoplasmic Reticulum | [[../Mitochondria and Chloroplasts|Mitochondria and Chloroplasts &gt;&gt;]]
+
+[[Cell Biology]] | [[../Parts of the cell/]] | [[../Organelles/]]
+
+{{BookCat}}</text>
+      <sha1>e446cp1ovm33zsid0j8y8nkpcratckq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Latin/Lesson 4-Ablative</title>
+    <ns>0</ns>
+    <id>1233</id>
+    <revision>
+      <id>2231408</id>
+      <parentid>2231299</parentid>
+      <timestamp>2011-12-07T10:03:51Z</timestamp>
+      <contributor>
+        <username>Xania</username>
+        <id>40302</id>
+      </contributor>
+      <minor />
+      <comment>Reverted 2 edits by [[Special:Contributions/68.104.135.251|68.104.135.251]] identified as [[WP:VAND|vandalism]] to last revision by [[User:90.180.173.128|90.180.173.128]]. ([[w:WP:TW|TW]])</comment>
+      <text xml:space="preserve">{{Latin}}
+
+== The Ablative Case ==
+
+The ablative case in Latin has 4 main uses:
+
+# With certain prepositions, eg. in, cum, sub
+# Instrumental ablative, expressing the equivalent of English &quot;by&quot;, &quot;with&quot; or &quot;using&quot;
+# Locative Ablative, using the ablative by itself to mean &quot;in&quot;, locating an action in space or time
+# Ablative of separation or origin, expressing the equivalent of English &quot;from&quot;
+
+The different uses of the ablative will be dealt progressively.  For a summary of all forms of the ablative, please consult the Appendix.
+
+== Grammar Part 5: The Power of the Ablative Case ==
+
+Ablative generally indicates position in time and/or space (i.e. when and where). It can also indicate the idea of ways of getting to a location, abstractly or concretely.
+
+===Ablative of Means===
+====Exercise====
+How would you translate &quot;I made the toga by hand&quot;?
+
+*'''''Hint:''' You would not (and should not) use the genitive. The case you are studying right now can be used &lt;u&gt;by itself&lt;/u&gt; for this goal.''
+*'''''Hint:''' Remember that you won't need to use the pronoun &quot;I,&quot; since Latin is based not on word order, but on the endings!''
+*'''''Glossary:'''''
+*: &quot;to make&quot; - ''Facio'' (&quot;I make&quot;), ''facere'' (&quot;to make&quot;), ''feci'' (&quot;I made&quot;), ''factus'' (&quot;made&quot;)  
+*: &quot;toga&quot; - ''Toga'', ''togae'' feminine
+*: &quot;hand&quot; - ''Manus'', ''manus'' feminine (This is fourth declension)
+
+=====Answer=====
+Answer: ''Togam manu feci''. 
+
+In this case, the word &quot;manu&quot; is in the ablative (see fourth declension list) and thus means &quot;by hand.&quot; 
+
+====Exercise====
+I have my wisdom by means of my teacher.
+
+*''''Glossary''':''
+*: &quot;wisdom&quot; - ''Sapientia, sapientiae'' feminine 
+*: &quot;to have&quot; - ''Habeo'' (&quot;I have&quot;), ''habere'' (&quot;to have&quot;), ''habui'' (&quot;I had&quot;), ''habitus'' (&quot;had&quot;)
+*: &quot;teacher&quot; - ''Magister, magistri'' masculine (This is a second declension word, despite the 'r' at the end, like puer.)
+
+=====Answer=====
+Answer: ''Habeo sapientiam magistro.''
+
+===Ablative of Time ===
+How would you say: ''I will arrive at the 5th hour.''
+
+'at the 5th hour' is indicating position of time. Thus, it can be put into the ablative case, giving:
+
+&lt;i&gt;adveniam quinta hora&lt;/i&gt;
+
+In general, therefore, in order to say &quot;In the morning&quot;, &quot;At nine O'clock,&quot; or &quot;In the tenth year,&quot; use ablative. It is generally used to refer to a specific time in which something has, does, or will occur.
+
+Example: I will leave in the night.
+
+Hint: Future tense can be looked up in the appendices of this Wikibook!
+
+Hint: to leave- discedo, discedere; night- nox, noctis(This is a third declension word!)
+
+=====Answer=====
+
+Answer: Discedam nocte.
+
+Note the simplicity in which Latin translates the six words into simply two. The ending based language completely negates the need for the words &quot;I,&quot; &quot;will,&quot; &quot;in,&quot; and &quot;the.&quot;
+
+===Ablative of Place===
+''Naves navigabant mari.'' The ships were sailing on the sea. 
+
+The ablative is also useful for showing the location of things, in general where you would use the words on, in, or at. There is an exception for the slightly more archaic locative, which is used with the words ''domi'' (from ''domus, domus, f.'', home), ''ruri'' (from ''rus, ruris, n.'', country [as opposed to city]), and ''Romae'' (from ''Roma, Romae, f.'', Rome), as well as with the names of towns, cities and small islands. 
+
+Latin has its own way of handling prepositions depending on the nouns and their cases in the sentence, including the versatile ''in'', which can take many different meanings depending upon the case of the object.
+
+==Ablative with prepositions==
+
+Here are a few prepositions that can take the ablative (for a fuller list, see the lesson on adverbs and prepositions in the previous chapter):
+
+{| border=&quot;1&quot;
+|-
+| &lt;B&gt;Latin&lt;/B&gt; || &lt;B&gt;English&lt;/B&gt;
+|-
+| ''in''&lt;ref&gt;Means &quot;into&quot; or &quot;against&quot; when used with the accusative&lt;/ref&gt; || in, on
+|-
+|''a/ab'' || from
+|-
+|''de'' || down from, concerning
+|-
+|''e/ex'' || out of, out from
+|-
+|''cum'' || with
+|-
+|''sine'' || without
+|-
+|''pro'' || on behalf of, in front of
+|-
+|''super''&lt;ref&gt;Has static meaning when used with the ablative but connotes motion when used with the accusative&lt;/ref&gt; || upon, above, beyond
+|-
+|''sub''&lt;ref&gt;Usually means &quot;up to&quot; or &quot;up to the foot of&quot; when used with the accusative&lt;/ref&gt; || under, beneath
+|}
+
+
+&lt;references/&gt; 
+
+As a general rule, when motion is implied, use the accusative, but when location is implied
+
+&lt;!--
+A legal metaphor: To accuse a noun is to get into a long process, and stay in the same place. (with the direct object.) If you use the ablative,you are pouncing on them and prepositioning them in a position of guilt.
+--&gt;
+
+===Example 3===
+
+''Servus ex agris venit.''
+:&quot;The slave came from the fields.&quot;
+
+Note: ''Ager'' (''ager, agri, m.'', field) must take an ablative suffix to match the preceding preposition, in this case ''e''/''ex''. 
+
+Incidentally, both ''ager'' and ''campus'' mean &quot;field,&quot; but ''ager'', like its English derivative &quot;agriculture&quot;, connotes a farming field, while ''campus'' (think &quot;camping&quot; or &quot;college campus&quot;) means &quot;open field.&quot; The ''Campus Martius'' was a large field in Rome used for military training.
+&lt;!-- Updated Oct. 6 2004 after accuracy was confirmed. 
+
+--Um, the original example, &quot;servus est ab agris,&quot; is not even Latin. Fixed. 7/3/2008--&gt;
+
+==The Vocative Case==
+
+While you will rarely need to ask Lupus where the bathroom is in Latin, you may find yourself reading either quotes or letters in which a person is being directly addressed. The case it will be in is the vocative.
+
+For example, &quot;Hail, Augustus&quot; will appear in Latin as Ave Auguste, and not Ave Augustus.
+
+
+Each declension has its own form of the vocative singular and plural. They are listed in the table below.
+
+Furthermore, in all but the second declension, the nominative and vocative are exactly the same!
+{|border=&quot;1&quot;
+|-
+| Number || First ||    Second*    || Third || Fourth || Fifth
+|-
+| Singular || a || us-&gt;e, ius-&gt;i, r-&gt;r|| -- || us || es
+|-
+| Plural** || ae || i || es || us || es 
+|-
+|}
+* In the second declension singular, there are three separate possibilities for the vocative, depending on its nominative ending. Hence, if it is a us word, it will become an e and so forth.
+
+====Examples for different declensions in the second declension==== 
+*'''-us:'''
+*: Lupus -&gt;Lupe (given name, wolf)
+*'''-ius:''' 
+*:Filius -&gt; Fili (son)
+*:Horatius-&gt; Horati (given name)
+*'''-r:''' 
+*:Puer-&gt; Puer (boy)
+
+:''In all cases, the plural vocative is exactly the same as the plural nominative. This extends to those words which are neuter, which always have an 'a' for the nominative and vocative.''
+  
+====Examples====
+#Hello, Sextus.(Hello= ''Salve'')*
+#: Salve, Sext'''e'''. 
+#Speak, girl! (Speak= ''dico, dicere, dixi'')*
+#: Dic, puell'''a'''.
+#Knee, run!*(Knee= ''genu''; run= ''curro, currere, cucurri'')*
+#: Gen'''u''', curre!
+#Oh, heart, why do you lead me? (Oh-o; heart- cor, cordis-f.; lead-duco, ducere; 
+#: O, cor! Cur ducis tu me?
+
+*Note that the first three also require use of the imperative. The imperative is used when ordering or telling someone what to do, e.g.- &quot;Stop,&quot; or &quot;Get away from me.&quot;
+
+The basic form of the imperative is created by dropping the &quot;re&quot; off of the infinitive form of the verb, as in: Amare, which becomes Ama; at least in the singular active form, which is all that these exercises require. More can be found about this subject in the chapter on verbs.</text>
+      <sha1>6sw66bz68rgl33yg05sblfssp7np9bg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Latin/Appendix A</title>
+    <ns>0</ns>
+    <id>1234</id>
+    <revision>
+      <id>518195</id>
+      <parentid>406401</parentid>
+      <timestamp>2006-07-11T20:24:11Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">The pronunciation of Church Latin might be easier, for an average European, than Classical Latin.  The way introduced here reflect the medieval way. 
+
+C is pronounced as [ts] or [tS] before e, i, y, ae, or oe
+
+G is alway hard, except before e, i, or y, then soft (like j in jut)
+
+H is not pronounced. 
+
+QU might become [k] rather than [kv] or [kw].
+
+[[Category:Latin]]</text>
+      <sha1>pne91o16c710e0tb0xy4rggk53cg7us</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Botany/Kinds of plants</title>
+    <ns>0</ns>
+    <id>1235</id>
+    <revision>
+      <id>2407754</id>
+      <parentid>2063483</parentid>
+      <timestamp>2012-09-14T13:57:50Z</timestamp>
+      <contributor>
+        <username>Ettrig</username>
+        <id>96606</id>
+      </contributor>
+      <text xml:space="preserve">&lt;small&gt;&lt;&lt; [[Botany#Detailed Contents|Contents Page]] | [[Botany/Plant_morphology|Chapter 6]] | &lt;/small&gt;Chapter 7&lt;small&gt; |  [[Botany/Microbes|Chapter 8]] &gt;&gt;&lt;/small&gt; 
+
+----
+&lt;center&gt;
+&lt;big&gt;&lt;big&gt;Chapter 7. Plant Systematics&lt;/big&gt;&lt;/big&gt;  
+&lt;/center&gt;
+----
+
+== The Kinds of Plants ==
+
+The total number of species of plants is tremendous. Any attempt at representing their great diversity requires a system of ordering or arranging the many plant types&amp;mdash;hopefully a system that itself contributes to our knowledge and understanding. We could take the straightforward approach of listing all plants alphabetically by their common name, or perhaps by their species name. This index approach would be handy, but would not tell us much about the plants themselves. We would have to know the plants whose names are included for the list itself to have any meaning to us. However, botanists developed a hierarchical system based on the fact&amp;mdash;considering a variety of characteristics&amp;mdash;that some plants are clearly more similar to each other than to other plants. Arranging all of the world's plants (and animals and minerals) by similarities to each other was an idea first promoted by '''Carolus Linnaeus'''.
+
+* Reread [[Wikipedia:en:Plant|Plants]] (&lt;small&gt;Links need not be perused&lt;/small&gt;)
+* Read [[Wikipedia:en:Linnaean taxonomy|Linnaean taxonomy]] (&lt;small&gt;follow links&lt;/small&gt;)
+
+Categorizing is an important process by which we humans gain understanding of the world around us, and something we all do to some degree as part of our observation of things and events that we encounter. In biology, as the concept of evolution was formulated, it became obvious that this concept could be the basis for categorization.  If plants that are similar in form are indeed closely related&amp;mdash;at least more closely related than plants that are dissimilar in form&amp;mdash;then a system of classification could be devised that reflected these relationships. This approach has important implications. Related plants have common properties, a fact that can be exploited in agriculture and other practical botanical fields.
+
+Initially, botanists had but one approach: physical examination. The careful examination (and detailed description) of plant structures allowed for arranging each species within a system that placed all more or less similar plants (in certain &quot;important&quot; features) together.  This approach is not as easy as it sounds, but played off of and contributed to the expansion of descriptive botany in the 18th and 19th centuries. One problem that became evident is that as species evolved, unrelated plants could come to resemble each other in many respects. After all, form and function are closely related. Within similar habitats (say deserts), species of very distantly related plants might well evolve towards a similar form. Species do not have (or certainly did not have over geological time) unrestricted access to all places on the planet and species distribution is then an important part of interpreting the evolutionary process.    As species evolved, they did so within the constraints to dispersion that existed at the time. This fact provides an important clue: unrelated but similar plants are likely to be distributed far from each other on the Earth's surface; and the corollary: plants that have similar structures but have widely separated distributions, may not be so closely related in an evolutionary sense.
+
+At this point it is worthwhile to consider some examples. There are many succulent plants, as this form (typically thick, fleshy stems and/or leaves; often reduction or complete loss of leaves) incorporates adaptations necessary for a plant to survive very dry conditions. Non-botanists are tempted to classify all such plants as types of cacti.  In fact, cacti evolved in the New World (the Americas), yet there are many succulents (and many plants that resemble cacti) that are not native to the New World, and evolved independently on the African continent. A large group of such plants are known as the euphorbs.
+  
+----
+&lt;center&gt;
+{{BotanyTOC2}}
+&lt;/center&gt;
+
+[[Category:Botany]]</text>
+      <sha1>csnz61o1rtea0mjf8vb70ne9mc7lhsd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Internet Technologies/History of the Web</title>
+    <ns>0</ns>
+    <id>1236</id>
+    <revision>
+      <id>1697612</id>
+      <parentid>1280198</parentid>
+      <timestamp>2010-01-16T15:08:22Z</timestamp>
+      <contributor>
+        <username>*nix</username>
+        <id>305633</id>
+      </contributor>
+      <minor />
+      <comment>removed &lt;</comment>
+      <text xml:space="preserve">The Web grew out of a project at [[w:CERN|CERN]], beginning around 1989, where [[w:Tim Berners-Lee|Tim Berners Lee]] and [[w:Robert Cailliau|Robert Cailliau]] built the prototype system that became the core of what is now the World Wide Web.  The original intent of the system was to make it easier to share research papers among colleagues. The original name of the first prototype was Enquire Within Upon Everything, after a famous 19th century reference work of how-tos. Berners-Lee released files describing his idea for the &quot;World Wide Web&quot; onto the Internet on August 6, 1991.
+
+== Works Cited ==
+
+* 
+* 
+
+
+[[Category:Internet Technologies]]</text>
+      <sha1>sv0fc3u059w511g6f2jqyb6dbtwwte4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Internet Technologies/The Web</title>
+    <ns>0</ns>
+    <id>1237</id>
+    <revision>
+      <id>1280780</id>
+      <parentid>1280219</parentid>
+      <timestamp>2008-09-19T02:32:30Z</timestamp>
+      <contributor>
+        <username>James deCaussin</username>
+        <id>112963</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">The '''World Wide Web''' (the &quot;'''Web'''&quot; or &quot;'''WWW'''&quot; for short) is a [[w:hypertext|hypertext]] system that operates over the [[w:Internet|Internet]].  To view the information, you use a software program called a [[w:web browser|web browser]] to retrieve pieces of information (called &quot;documents&quot; or &quot;[[w:web page|web page]]s&quot;) from [[w:web server|web servers]] (or &quot;[[w:web site|web site]]s&quot;) and view them on your screen.  You can then follow [[w:hyperlink|hyperlinks]] on the page to other documents or even send information back to the server to interact with it.  The act of following hyperlinks is often called ''&quot;surfing&quot;'' the web.
+
+Looking further at web browsers, a web browser is an application program that accesses the World Wide Web, which then searches for wanted information on the Internet.  The first web browser named Mosaic was developed in the early 1990s.  The ease of information access provided by web browsers greatly added to the popularity of the Internet.  Companies and individual users alike can use a browser to access untold amounts of information, and its as easy to find as clicking a mouse.  The three most popular web browsers are Internet Explorer, Firefox, and Netscape.  Tight competition has caused for continual improvement in the programs and associated technologies.  Web browsers are loaded with ease-of-use features and are customizable to an individual user’s preference.  
+
+==URLs, HTTP and HTML==
+The core functionality of the Web is based on three standards: the ''[[w:URL|Uniform Resource Locator]]'' (URL), which specifies how each page of information is given a unique &quot;address&quot; at which it can be found; ''[[w:HTTP|Hyper Text Transfer Protocol]]'' (HTTP), which specifies how the browser and server send the information to each other; and ''[[w:HTML|Hyper Text Markup Language]]'' (HTML), a method of encoding the information so it can be displayed on a variety of devices.
+
+Tim Berners-Lee now heads the [[w:World Wide Web Consortium|World Wide Web Consortium]], which develops and maintains these standards and others that enable computers on the Web to effectively store and communicate all kinds of information.
+
+==Beyond text==
+The initial &quot;www&quot; program at CERN only displayed text, but later browsers such as [[w:Pei Wei|Pei Wei]]'s [[w:Viola web browser|Viola]] (1992) added the ability to display graphics as well.  [[w:Marc Andreessen|Marc Andreessen]] of [[w:NCSA|NCSA]] released a browser called &quot;[[w:Mosaic web browser|Mosaic]] for X&quot; in 1993 that sparked a tremendous rise in the popularity of the Web among novice users.  Andreesen went on to found Mosaic Communications Corporation (now [[w:Netscape Communications|Netscape Communications]], a unit of [[w:AOL Time Warner|AOL Time Warner]]).  Additional features such as dynamic content, music and animation can be found in modern browsers. 
+
+Frequently, the technical capability of browsers and servers advances much faster than the standards bodies can keep up with, so it is not uncommon for these newer features to not work properly on all computers, and the web as seen by [[w:Netscape Navigator|Netscape]] is not at all the same as the web seen by [[w:Internet Explorer|Internet Explorer]]. The ever-improving technical capability of the WWW has enabled the development of real-time web-based services such as [[w:webcasts|webcasts]], [[w:web radio|web radio]] and live [[w:web cam|web cam]]s.
+
+==Java and Javascript==
+
+Another significant advance in the technology was [[w:Sun Microsystems|Sun Microsystems]]' [[w:Java programming language|Java programming language]], which enabled web servers to embed small programs (called [[w:applet|applet]]s) directly into the information being served that would run on the user's computer, allowing faster and richer user interaction.
+
+The similarly named, but actually quite different, [[w:ECMAScript programming language|JavaScript]] is a scripting language developed for Web pages.
+In conjunction with the [[w:Document Object Model|Document Object Model]] (DOM), &lt;nowiki&gt;JavaScript&lt;/nowiki&gt; has become a much more powerful language than its creators originally envisaged.
+
+==Sociological Implications==
+
+The [[w:exponential growth|exponential growth]] of the Internet was primarily attributed to the emergence of the [[w:Mosaic web browser|web browser Mosaic]], followed by another, [[w:Netscape Navigator|Netscape Navigator]] during the mid-1990s. 
+
+It brought unprecedented attention to the Internet from media, industries, policy makers, and the general public. 
+
+Eventually, it led to several visions of how our society might change, although some point out that those visions are not unique to the Internet, but repeated with many new technologies (especially information and communications technologies) of various era. 
+
+Because the web is global in scale, some suggested that it will nurture mutual understanding on a global scale.
+
+==Publishing web pages==
+
+The web is available to individuals outside mass media. In order to &quot;publish&quot; a web page, one does not have to go through a publisher or other media institution, and the potential reader is around the globe, some thought. This to some is a oppportunity to enhance democracy by giving voices to alternative and minority views. Some others took it as a path to anarchy and unrestrained freedom of expression. Yet others took it as a sign that hierarchically organized society, mass media being a symptomatic part of it, will be replaced by so-called network society. 
+
+In addition, the hyper-text seemed to promote non-hierarchical and non-linear way of expression and thinking. Unlike books and documents, hypertext does not have a linear order from the beginning to the end. It is not broken down into the hierarchy of chapters, sections, subsections, etc. This reminded some of the idea of [[w:Marshall McLuhan|Marshall McLuhan]] that new media change people's perception of the world, mentality, and way of thinking. While not unique issue to the web, hypertext in this sense is closely related to the notion of &quot;[[w:death of author|death of author]]&quot; and [[w:intertextuality|intertextuality]] in [[w:structuralism|structuralist]] literary theory. 
+
+These bold visions are at least not fully realized yet. We can find both supporting and countering aspects of web usage. 
+
+First, regarding the increased global unity, it is true that many different kinds of information are now available on the web, and for those who wish to know other societies, their cultures and peoples, it became easier. When one travels to a foreign country or a remote town, s/he might be able to find some information about the place on the web, especially if the place is in one of developed countries. Local newspapers, government publications, and other materials are easier to access, and therefore the variety of information obtainable with the same effort may be said to have increased, for the users of the Internet. 
+
+At the same time, there are some obvious limitations. The web is so far a very text-centered medium, and those who are illiterate cannot make much use of it. Even among the literate, usage of a computer may or may not be easy enough. It has been known during the late 1990s, though with ample exceptions, that web users are dominantly young male in college or with a college degree. Now the trend has been changing and female and elderly are also using the web, level of education and income are related to the web use, some think (See also the Wikipedia article [[w:Digital divide|Digital divide]]). Another significant obstacle is the language. Currently, only a limited number of languages are useable on the web, due to software and standard issues, and none would understand all the available languages. These factors would challenge the notion that the World Wide Web will bring a unity to the world.
+
+Second, the increased oppportunity to individuals are certainly observable in the countless personal pages, as well as other groups such as families, small shops, which are not among those who publish materials. The emergence of free [[w:web hosting|web hosting]] services are perhaps an important factor in bringing this possibility into the reality. The activities of alternative media expanded into the web as well. 
+
+Yet not a small part of those pages seem to be either prematurely abandoned or one-time practice. Very few of those pages, even when they are well-developed, are popular. When it comes to the expression of ideas and provision of information, it seems that the major media organizations and those companies who became major organizations through their online operations are still favored by the dominant majority. In addition, the Web is not necessarily a tool for political self-education and deliberation. The most popular uses of the Web include searching and downloading of pornography, which perhaps have very limited effect in improving democracy. The most intensively accessed web pages include the document detailing the former U.S. president Bill Clinton's sexual misconduct with Monica Lewinsky, as well as the lingerie fashon show by Victoria's Secret. In sum, both in terms of writers and readers, the Web is not popularly used for democracy. While this is not enough to categorically reject the possibility of the Web as a tool for democracy, the effect so far seems to be smaller than some of the expectations for a quite simple reason, lack of interest and popularity. Anarchistic freedom of expression may be enjoyed by some, but many web hosting companies have developed their acceptable use policy over time, sometimes prohibiting some sensitive and potentially illegal expressions. And again, those expressions may not reach great many. The web is still largely a hierarchical place, some may argue. 
+
+Third, regarding non-linear and non-hierarchical structure of the Web, the effect of those on people's perception and psychology are still largely unknown. Some argue that our culture is changing to that of [[w:postmodernity|postmodernity]], which is closely related to non-linear and non-hierarchical way of thinking, being, and even social organization. Yet the counter evidences are available as well. Among the most notable would be the existence of [[w:web directory|web directories]] and [[w:search engine|search engine]]s. Those sites often provide navigations to most popular sites to the visitors. In addition, it is quite obvious that many web sites are organized according to a simple hierarchy, having the &quot;home page&quot; at the top. At least the present state of the Web and web users seem to suggest the change has not been as great as envisioned by some.
+
+[[Category:Internet Technologies]]</text>
+      <sha1>1g844zoolbfjmti86dqsb6dwi5d9ltn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Spanish/Exercises/Possessive Adjectives</title>
+    <ns>0</ns>
+    <id>1238</id>
+    <revision>
+      <id>2266256</id>
+      <parentid>2265438</parentid>
+      <timestamp>2012-02-16T03:53:08Z</timestamp>
+      <contributor>
+        <ip>65.23.89.102</ip>
+      </contributor>
+      <comment>/* Rellena los espacios en blanco Fill in the blank */</comment>
+      <text xml:space="preserve">[[Spanish/Lesson 5| ^Lesson 5^]]
+----
+
+=== Rellena los espacios en blanco ''Fill in the blank'' ===
+
+1. Manuel tiene una bicicleta. _____ bicicleta es azul. ''Manuel has a bike. His bike is blue''.
+
+2. _____ clases son a las nueve de la mañana. ''My classes are at 9:00 am''.
+
+3. Nosotros visitamos a _____ abuelos. ''We visit our grandparents''.
+
+4. Los mexicanos tienen _____ día de independencia el 16 de septiembre. ''The Mexicans have their independence day on September 16''
+
+5. ¿Pueden mostrarme _____ casa? ''Can you (plural) show me your house?''
+
+6.  La clase de Señor Ford es fantástica. ____ clase es fantástica. ''Mr. Ford's (his) class is fantastic.''
+
+----------------------------------------
+[[Spanish/Exercises/Possessive Adjectives - Solutions|Soluciones a los ejercicios]]
+
+[[Spanish/Lesson 5| ^Lesson 5^]]
+
+[[Category:Spanish]]</text>
+      <sha1>13aadc0p0n8ljwwq0es6na7gmwbrv6p</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electromagnetism</title>
+    <ns>0</ns>
+    <id>1241</id>
+    <revision>
+      <id>2583739</id>
+      <parentid>2583559</parentid>
+      <timestamp>2013-11-22T00:01:05Z</timestamp>
+      <contributor>
+        <username>Chazz</username>
+        <id>32521</id>
+      </contributor>
+      <minor />
+      <comment>rv multiple vandal edits from two similar IPs</comment>
+      <text xml:space="preserve">Electric currents produce magnetic fields and moving magnetic fields produce electric currents. This module looks that this property of electric and magnetic fields in detail. You will learn about the magnetic fields generated by a wire and a solenoid, then go on to look at motors generators and transformers. 
+
+===Review of Magnetism===
+From work in lower school you should already be familiar with the basic properties of magnets. They are:
+*Magnets strongly attract magnetic materials such as iron, steel, nickel, cobalt, and some alloys and ceramics.
+*Magnets have two poles: a north and a south. 
+*Like poles repel, unlike poles attract.
+
+Notice the similarity between magnetism and electricity. Electricity attracts neutral materials (recall a rubbed balloon picking up small bits of paper). Electricity comes in two forms:positive and negative. Like charges repel, unlike charges attract. Physicists long ago realised that these similarities were important. It is now realised that electricity and magnetism are closely related forces. They are really two different aspects of the same force! We call that force electromagnetism. This next section of the electricity module is probably the hardest. But it is also the most interesting. Work the problems in the text as you go along and you ''will'' be able to cope.
+
+*[[GCSE Science/Magnetic effects of a current]]
+*[[GCSE Science/Uses of electromagnets]]
+*[[GCSE Science/The motor effect]]
+*[[GCSE Science/Induction]]
+*[[GCSE Science/Generating electricity]]
+*[[GCSE Science/Transformers]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>gcokjlzrz9pt13jax7o46peg0zgs34t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry</title>
+    <ns>0</ns>
+    <id>1243</id>
+    <revision>
+      <id>2609945</id>
+      <parentid>2608177</parentid>
+      <timestamp>2014-02-18T00:17:25Z</timestamp>
+      <contributor>
+        <username>Recent Runes</username>
+        <id>66908</id>
+      </contributor>
+      <comment>Undid revision 2608177 (unexplained deletion) by [[Special:Contributions/39.54.211.78|39.54.211.78]] ([[User talk:39.54.211.78|discuss]])</comment>
+      <text xml:space="preserve">{{stages}}
+[[Image:Ethane3D.png|right]]
+{{prerequisite|General Chemistry}}
+
+:[[/Cover/|Welcome page]] {{stage short|100%|Jan 12, 2005}}
+:[[/Foreword/]] {{stage short|100%|Jan 12, 2005}}
+:[[/To-Do_List|To-Do List]]
+
+#[[/Foundational concepts of organic chemistry/|Foundations of Organic Chemistry]] {{stage short|100%|April 28, 2006}}
+#[[/Alkanes/]] {{stage short|75%|Jan 12, 2005}}
+#[[/Stereochemistry/]] {{stage short|75%|May 3, 2006}}
+#[[/Cycloalkanes/]] {{stage short|25%|Nov 11, 2006}}
+#[[/Alkenes/]] {{stage short|50%|May 8, 2006}}
+#[[/Alkynes/]] {{stage short|50%|May 25, 2006}}
+#[[/Overview_of_Functional_Groups/|Overview of Functional Groups]] {{stage short|75%|Nov 11, 2010}}
+#[[/Haloalkanes/]] {{stage short|25%|Jan 12, 2005}}
+#[[/Alcohols/]] {{stage short|50%|Jan 12, 2005}}
+#[[/Ethers/]] {{stage short|25%|Oct 8, 2007}}
+#[[/Amines/]]{{stage short|75%|May 8, 2006}}
+#[[/Dienes/]] {{stage short|75%|June 30, 2006}}
+#[[/Aromatics/]] {{stage short|50%|Jul 13, 2006}}
+#[[/Aromatic reactions/]] {{stage short|50%|Jul 13, 2006}}
+#[[/Ketones and aldehydes/]] {{stage short|50%|Jan 4, 2006}}
+#[[/Carboxylic acids/]] {{stage short|50%|Nov 2, 2006}}
+#[[/Carboxylic acid derivatives/]] {{stage short|25%|Nov 2, 2006}}
+#[[/Analytical techniques/]] {{stage short|25%|Jan 12, 2005}}
+#[[/Questions and Discussions/]]
+
+
+{| WIDTH=&quot;60%&quot; ALIGN=&quot;right&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;top&quot; |
+'''''Note''''': Any time you click on the following icon, you will be brought back to this contents page.
+[[Image:Go To Organic Chemistry Contents .png]]
+|}
+
+Appendix A: [[Organic Chemistry/Introduction to reactions|Introduction to reactions]] {{stage short|50%|Jan 12, 2005}}&lt;br&gt;
+Appendix B: [[Organic Chemistry/Introduction to reactions/Reactions|Index of reactions]] {{stage short|50%|Jan 12, 2005}}&lt;br&gt;
+Appendix C: [[Organic Chemistry/Introduction to functional groups|Introduction to functional groups]] {{stage short|00%|June 23, 2006}}
+
+*[[Organic Chemistry/Glossary|Glossary]] {{stage short|25%|Jan 12, 2005}}
+*[[w:Periodic table (standard)|Periodic table]] {{stage short|100%|}}
+*[[Organic Chemistry/Periodic table|Short periodic table]] {{stage short|100%|Jan 12, 2005}}
+*[[Organic Chemistry/External links|Other online resources]] {{stage short|100%|Jan 12, 2005}}
+*[[Organic Chemistry/Templates|Page element templates]] {{stage short|100%|Jan 12, 2005}}
+
+Help [[Organic Chemistry/Book outline|organize the book structure]]. {{stage short|100%|Jan 12, 2005}}
+
+Compare this book to these college OChem textbooks:
+* Morrison and Boyd ISBN 0-13-643669-2
+* Solomons and Fryhle ISBN 978-0471417996
+* Wade ISBN 978-0131699571
+* Carey ISBN 978-0072979527
+* McMurry] (ISBN 978-0534389994
+* [http://www.ochem4free.info Daley &amp; Daley] Free
+
+&lt;B&gt;If you think you can help, check out the to do list of the authors over here - [[/To-Do_List/]]&lt;/B&gt;
+==== Book Distribution ====
+{{Print version}}
+*[[Organic Chemistry/Authors|Authors]] - If you want to be included as an author of this Wikibook, please add your name here.
+*[[/Foreword#Licensing|Licensing]]
+
+{{-}}
+{{Associated Wikimedia|Organic Chemistry
+|Commons             = Chemistry
+|Commons category    = Organic chemistry
+|Wikinews portal     = Science and technology
+|Wikinews category   = Science and technology
+|Wikipedia           = Organic chemistry
+|Wikipedia portal    = Chemistry
+|Wikiquote           = Science
+|Wikiquote category  = Science
+|Wikisource          =
+|Wikisource category = Science
+|Wikiversity         = Organic Chemistry
+|Wikiversity school  = Chemistry
+|Wiktionary          = organic chemistry
+|Wiktionary category = Organic chemistry
+}}
+
+{{Alphabetical|O}}
+{{Subjects|Chemistry}}
+{{status|50%}}
+
+[[ar:كيمياء عضوية]]
+[[de:Organische Chemie]]
+[[el:Οργανική Χημεία]]
+[[fr:Chimie organique]]
+[[id:Kimia Organik]]
+[[it:Chimica organica]]
+[[nl:Organische chemie]]
+[[ja:有機化学]]
+[[pl:Chemia organiczna/Okładka]]</text>
+      <sha1>22bf2vp612eg80oh0bjugsnk4gpeirt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Natural sciences bookshelf</title>
+    <ns>4</ns>
+    <id>1245</id>
+    <restrictions>edit=autoconfirmed:move=autoconfirmed</restrictions>
+    <revision>
+      <id>2180605</id>
+      <parentid>1685510</parentid>
+      <timestamp>2011-10-14T11:04:31Z</timestamp>
+      <contributor>
+        <username>DZadventiste</username>
+        <id>185773</id>
+      </contributor>
+      <minor />
+      <comment>/* High school and children's courses */ updating page name</comment>
+      <text xml:space="preserve">{{deprecated bookshelf|[[Subject:Science]]}}
+{{bookshelves}}
+{{bookshelf|Natural sciences bookshelf}}
+{{stages}}
+
+''For Wikibooks relating to medicine and health, see [[Wikibooks:Health science bookshelf]].''
+
+__TOC__
+
+{{Requested books}}
+
+==Introductory textbooks==
+
+* [[General Chemistry/Book_Cover|General Chemistry]] {{stage|75%|Feb 15, 2009}}
+* [[General Biology]] {{stage|50%|Jan 1, 2000}}
+* [[The Scientific Method]] {{stage|00%|May 08, 2007}}
+* [[Biology, Answering the Big Questions of Life]]  {{stage|50%|Oct 9, 2007}}
+
+{{Requested books}}
+
+==High school and children's courses==
+
+* [[Middle School Science]]
+* [[GCSE Science|GCSE Science for secondary school students]] {{stage|50%|Jan 1, 2000}}
+* [[NZ Level 6: Experimental sciences]]
+* [[Wikijunior Big Book of Fun Science Experiments]] {{Stage|00%|April 2006}}
+* [[Introduction to Physical Science]]
+* [[Regents Earth Science (High School)]] {{stage|25%|Jan 1, 2000}}
+* [[Wikibooks:Biology_bookshelf#Biology_courses|Biology]]
+* [[A-level Applied Science]]
+* [[8th Grade Science]] {{stage|00%|Jan 5, 2007}} 
+
+{{Requested books}}
+
+==Astronomy==
+* [[Astronomy]]
+* [[Introduction to Astrophysics]]
+* [[Solar System]] {{stage short|00%}} 
+
+{{Requested books}}
+
+==Chemistry==
+
+* [[A-level Chemistry]] {{stage|00%|Feb 2, 2006}}
+* [[AP Chemistry]]
+* [[Biochemistry]] {{stage|25%|Jan 1, 2000}}
+* [[Introduction to Chemical Engineering Processes|Chemical Engineering]] {{stage |25%|Dec 17, 2008}}
+* [[Computational chemistry]]
+* [[Crystallography]]
+* [[General Chemistry/Book_Cover|General Chemistry]] {{stage|75%|Feb 15, 2009}}
+* [[IB Chemistry]] {{stage|25%|Jul 5, 2006}}
+* [[Inorganic Chemistry/Cover|Inorganic Chemistry]]
+* [[Mathematics for Chemistry]] {{stage|25%|Sep 15, 2009}}
+* [[Nanowiki]] - The opensource handbook of nanoscience {{stage|50%|April 20, 2006}}
+* [[Organic Chemistry/Cover|Organic Chemistry]]
+* [[Physical Chemistry]]
+* [[Problems In Highschool Chemistry]] {{stage|00%|Sep 2, 2007}}
+* [[Proteomics]] {{stage|00%|March 13, 2006}}
+* [[Solved Question Papers - IIT JEE]]
+* [[VCE Chemistry]]
+
+{{Requested books}}
+
+==Earth sciences==
+
+* [[A Chronological Survey of Sedimentary Landforms in the Continental United States]]
+* [[Geodesy]] 
+* [[Geology]] 
+* [[Oceanography]]
+* [[Soil mechanics]]
+* [[Volcanoes]] {{stage short|25%|Feb 19, 2008}}
+* [[The Geology of Indonesia]]
+
+{{Requested books}}
+
+==Ecology==
+:''See also: [[Wikibooks:Biology_bookshelf#Ecology]]''
+
+* [[Ecology]] {{stage|25%|Apr 11, 2005}}
+* [[Applied Ecology]]{{stage|25%|Jan 1, 2000}}
+
+{{Requested books}}
+
+==Environmental sciences==
+
+* [[Climate change]] {{stage|25%|Jan 1, 2000}}
+* [[Environmental Science]]
+* [[Environmental Science in New York City]] {{stage short|25%|Oct 3, 2005}}
+* [[Meteorology]] {{stage|00%|Jan 1, 2000}}
+* [[Oceanography - An introduction]] {{stage|00%|Jan 1, 2000}}
+* [[Regents Earth Science (High School)]] {{stage|25%|Jan 1, 2000}}
+* [[Soil Science]] {{stage|25%|Jan 1, 2000}}
+
+{{Requested books}}
+
+==Library and information science==
+* [[Applications of ICT in Libraries]]
+* [[Introduction to Library and Information Science by Richard E. Rubin]]
+* [[Library and Information Science]]
+
+{{Requested books}}
+
+==Life sciences==
+{{bookshelf|Biology bookshelf}}
+
+{{Requested books}}
+
+==Physical sciences==
+{{bookshelf|Physics bookshelf}}
+
+[[he:מדף:מדעי הטבע]]</text>
+      <sha1>orma7nioi4kcjs8albp9kwctqkgmlak</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Languages bookshelf</title>
+    <ns>4</ns>
+    <id>1246</id>
+    <restrictions>edit=autoconfirmed:move=autoconfirmed</restrictions>
+    <revision>
+      <id>2690635</id>
+      <parentid>2595172</parentid>
+      <timestamp>2014-08-12T01:39:21Z</timestamp>
+      <contributor>
+        <username>Mctpyt</username>
+        <id>202700</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">{{deprecated bookshelf|[[Subject:Languages]]}}
+{{bookshelves}}
+{{bookshelf|Languages bookshelf}}
+{{stages}}
+----
+__TOC__
+
+{{Requested books}}
+
+==Languages of Africa==
+
+*[[Afrikaans]] {{stage|25%|Jun 12, 2005}}
+*[[Bambara]] {{stage|25%|Jan 24, 2005}}
+*[[Kinyarwanda]]
+*[[Swahili]]
+*[[Zulu]] {{stage|50%|Feb 16, 2008}}
+
+
+{{Requested books}}
+
+==Languages of the Americas==
+
+&lt;div style=&quot;float:right;&quot;&gt;
+{{Goodbook/Miskito|box=width: 300px;}}
+
+&lt;/div&gt;
+
+(For [[Wikibooks:English bookshelf|English...]], [[Wikibooks:French bookshelf|French...]], [[Wikibooks:Portuguese bookshelf|Portuguese...]], [[Wikibooks:Spanish bookshelf|Spanish...]] see [[#Languages of Europe|Languages of Europe]].)
+
+*[[Arapaho]]
+*[[Cherokee]] {{stage|00%|Jan 1, 2000}}
+*[[Inuktitut:Cover page|Inuktitut, Inuinnaqtun (Inuit, Eskimo)]] {{stage|00%|Feb 24, 2006}}
+*[[Jumieka]]
+*[[Mapudungun]]
+*[[Miskito]] {{stage|100%|Jan 6, 2008}}
+*[[Miwok (Central Sierra)]] {{stage|25%|Feb 10, 2005}}
+*[[Mohawk]]
+*[[Nahuatl]] {{stage|25%|Jan 1, 2000}}
+*[[Navajo]]
+*[[Quechua]] {{stage|25%|Jan 1, 2000}}
+
+
+{{Requested books}}
+
+==Languages of Asia==
+
+(For [[Hebrew]] see [[#Languages of the Middle East|Languages of the Middle East]].)
+
+*[[Azerbaijani]] {{stage|25%|Jan 24, 2005}}
+*[[Bengali]] {{stage|00%|Jan 24, 2005}}
+{{Wikibooks:Chinese_bookshelf}}
+*[[Gujarati]] {{stage short|25%|Jan 1, 2000}}
+{{Wikibooks:Hindi_bookshelf}}
+*[[Japanese]] {{stage|50%|Jan 1, 2000}}
+*[[Kannada]] {{stage|25%|Jan 1, 2000}}
+*[[Korean]] {{stage|25%|Jan 1, 2000}}
+*[[Marathi]]
+*[[Manchu]]{{stage|75%|Jul 29, 2008}} 
+*[[Mongolian]] {{stage|00%|}}
+*[[Nepal Bhasa|Nepal Bhasa]]
+*[[Persian]]  {{stage|00%|Feb 18, 2006}}
+*[[Punjabi]]  {{stage|25%|May 6, 2008}}
+*[[Sanskrit]] {{stage|25%|Jan 1, 2000}}
+*[[Tajik]] {{stage|25%|Apr 5, 2007}}
+*[[Tamil]] {{stage|25%|Jan 1, 2000}}
+*[[Telugu]] {{stage|25%|Jan 1, 2000}}
+*[[Thai]]
+*[[Turkmen]]
+*[[Urdu]] {{stage|25%|Apr 5, 2007}}
+*[[Uzbek]] {{stage|25%|Apr 5, 2007}}
+*[[Vietnamese]] {{stage|25%|Jan 1, 2000}}
+
+{{Requested books}}
+
+==Languages of Europe==
+
+&lt;div style=&quot;float:right;&quot;&gt;
+{{Goodbook/Latin|box=width: 300px;}}
+{{Goodbook/Spanish|box=width: 300px;}}
+&lt;/div&gt;
+
+(For [[Afrikaans]] see [[#Languages of Africa|Languages of Africa]]. For [[Azerbaijani]] see [[#Languages of Asia|Languages of Asia]]. For [[Hebrew]] see [[#Languages of the Middle East|Languages of the Middle East]].)
+
+*[[Albanian]] {{stage|00%|Aug 17, 2005}}
+*[[Aragonese]] {{stage|00%|Jan 24, 2005}}
+*[[Armenian]] {{stage|00%|Dec 4, 2008}}
+*[[Austrian]] {{stage|00%|Jun 7, 2005}}
+*[[Belarusian]] {{stage|00%|May 21, 2007}}
+*[[Bulgarian]] {{stage|25%|Jan 24, 2005}}
+*[[Catalan]] {{stage|00%|Jan 24, 2005}}
+*[[Chechen]] {{stage|00%|Dec 4, 2008}}
+*[[Croatian]] {{stage|25%|Jul 18, 2005}}
+*[[Danish]] {{stage|25%|Jan 24, 2005}}
+*[[Dutch]] {{stage|50%|Jan 24, 2005}}
+{{Wikibooks:English bookshelf}}
+{{Wikibooks:Finnish bookshelf}}
+{{Wikibooks:French bookshelf}}
+{{Wikibooks:German bookshelf}}
+*[[Gothic]] {{stage|25%|Aug 17, 2005}}
+{{Wikibooks:Greek bookshelf}}
+*[[Hungarian]] {{stage|00%|Aug 17, 2005}}
+{{Wikibooks:Icelandic bookshelf}}
+*[[Irish|Irish Gaelic]] {{stage short|25%|Jan 1, 2000}}
+*[[Italian]] {{stage|25%|Jan 11, 2008}}
+{{Wikibooks:Latin bookshelf}}
+*[[Latvian]]
+*[[Lithuanian]] {{stage|00%|Aug 17, 2005}}
+*[[Lower Sorbian/Grammar|Lower Sorbian grammar]] {{stage|50%|Dec 21, 2013}}
+*[[Lowland Scots]] {{stage|25%|Jul 22, 2007}}
+*[[Macedonian]]
+*[[Manx]] {{stage|25%|Nov 2, 2007}}
+*[[Neapolitan]] {{stage|25%|Aug 20, 2005}}
+{{Wikibooks:Norwegian bookshelf}}
+*[[Polish]] {{stage|25%|Aug 17, 2005}}
+{{Wikibooks:Portuguese bookshelf}}
+*[[Provençal]] {{stage|00%|Aug 17, 2005}}
+*[[Romanian]] {{stage|25%|Aug 17, 2005}}
+*[[Russian]] {{stage|25%|Aug 17, 2005}}
+*[[Scottish Gaelic]] {{stage|25%|Dec 4, 2008}}
+*[[Serbian]] {{stage |25%|Oct 9, 2005}}
+*[[Sicilian]] {{stage|00%|Apr 10, 2006}}
+*[[Silesian]] {{stage|00%|Jun 20, 2008}}
+*[[Slovenian]] {{stage|00%|Aug 17, 2005}}
+{{Wikibooks:Spanish bookshelf}}
+*[[Swedish]] {{stage|25%|Aug 17, 2005}}
+*[[Turkish]] {{stage|50%|April 18, 2007}}
+*[[Ukrainian]] {{stage|25%|Aug 17, 2005}}
+*[[Welsh]] {{stage|25%|Aug 17, 2005}}
+{{Wikibooks:Yiddish bookshelf}}
+
+
+{{Requested books}}
+
+==Languages of the Middle East==
+
+(For [[Wikibooks:Yiddish bookshelf|Yiddish...]] see [[#Languages of Europe|Languages of Europe]].)
+
+*[[Arabic]] {{stage|25%|Jan 24, 2005}}
+*[[Hebrew|Modern Hebrew]] {{stage|25%|Jan 1, 2000}}
+*[[Sumerian|Sumerian]] {{stage|25%|Feb 20, 2006}}
+
+
+{{Requested books}}
+
+==Languages of the Pacific==
+
+*[[Fijian]]
+*[[Hawaiian]]
+*[[Indonesian]] {{stage|50%|Jan 1, 2000}}
+*[[Kapampangan]] {{stage|25%|Jan 1, 2007}}
+*[[Tagalog|Tagalog (Filipino)]] {{stage|25%|Jan 1, 2000}}
+*[[Tetum]] {{stage|25%|Jan 1, 2000}}
+*[[Tok Pisin]] {{stage|25%|Jan 1, 2000}}
+
+
+{{Requested books}}
+
+==Sign Languages==
+
+*[[American Sign Language]] {{stage|00%|Mar 21, 2005}} 
+
+
+{{Requested books}}
+
+==Constructed Languages==
+
+* [[D'ni]]
+* [[Esperanto/Contents|Esperanto]] {{stage|50%|Feb 18, 2006}}
+* [[Folksprak]] {{stage|00%|Feb 27, 2007}}
+* [[Ido]] {{stage|00%|Nov 29, 2007}}
+** [[Easy Ido]] {{stage|75%|Nov 29, 2007}}
+* [[Interlingua]]
+* [[Klingon]]
+* [[Lingua Franca Nova]] {{stage|100%|Jul, 2007}}
+* [[Lojban]] {{stage|25%|Jan 1, 2000}}
+* [[Neo]]
+* [[Novial]] {{stage|75%|Dec 4, 2008}} 
+**[[Fasili Novial]]{{stage|00%|Jun 15, 2009}}
+* [[Quenya|Quenya (Grammar)]] {{stage|100%|}} 
+* [[Rohingya]]
+* [[Slovio]] {{stage|25%|Jan 1, 2000}}
+* [[History of Elven writing systems|Tengwar]] {{stage|100%|}} (The Elven writing systems invented by J.R.R. Tolkien)
+* [[Toki Pona]] {{stage|25%|Jan 1, 2000}}
+* [[Unilingua]] {{stage|75%|Mar 16, 2005}}
+* [[Volapük]]
+
+
+{{Requested books}}
+
+==Other Language Books==
+*[[Authoring Foreign Language Textbooks]] {{stage|75%|Dec 4, 2008}}
+*[[Becoming a linguistic mastermind]]
+*[[East Asian Calligraphy]] {{stage|00%|Jan 24, 2005}}
+*[[False Friends of the Slavist]] {{stage|00%|Dec 4, 2008}}
+*[[How to Learn a Language]] {{stage|75%|Dec 4, 2008}}
+*[[How to Teach a Language]]
+*[[Understanding Scientific Terms| Understanding Scientific Terminology]] — Greek and Latin roots of Technical terms {{stage|75%|Jan 23, 2008}}
+*[[Visual Language Interpreting]] {{stage|25%|Jan 1, 2000}}
+
+== See also ==
+*[[Subject:Languages]]
+*[[:Category:Languages]]
+{{Wikipedia-inline|List of language families#Language families}}
+
+[[Category:Wikibooks bookshelves|Languages bookshelf]]
+
+[[bs:Kategorija:Jezici]]
+[[cy:Silff lyfrau:Ieithoedd]]
+[[de:Regal:Sprachen]]
+[[fr:Accueil/Langues]]
+[[fa:ویکی‌نسک:کتابخانه_زبان]]
+[[is:Wikibækur:Tungumáladeild]]
+[[it:Wikibooks:Ripiano Lingue]]
+[[ja:語学]]
+[[zh:语言]]
+[[he:מדף:שפות]]</text>
+      <sha1>kmzikbfoa9u5ukcfgaw294hzzm1ct63</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Mathematics bookshelf</title>
+    <ns>4</ns>
+    <id>1248</id>
+    <restrictions>edit=autoconfirmed:move=autoconfirmed</restrictions>
+    <revision>
+      <id>2504157</id>
+      <parentid>2503371</parentid>
+      <timestamp>2013-03-21T18:02:08Z</timestamp>
+      <contributor>
+        <username>Piet-c</username>
+        <id>428753</id>
+      </contributor>
+      <text xml:space="preserve">{{deprecated bookshelf|[[Subject:Mathematics]]}}
+{{bookshelves}}
+{{bookshelf|Mathematics bookshelf}}
+{{stages}}
+
+{| style=&quot;float:right; clear:both; margin-left:1.5em;&quot;
+ | __TOC__
+ |}
+
+{{Requested books}}
+
+==Introductory Mathematics==
+
+{{Requested books}}
+
+===Basic Math===
+*[[Arithmetic]] {{stage|25%|Sept 25, 2006}}
+*[[Applied Math Basics]] {{stage|25%|Jan 1, 2000}}
+*[[Beginning Mathematics]] {{stage|25%|Jan 1, 2000}}
+*[[Introduction to Mathematics]]
+*[[Mental Math]] {{stage|25%|May 3, 2006}}
+*[[Prealgebra for Two-Year Colleges]]{{stage|25%|Mar 20, 2008}}
+*[[Using an Abacus]] {{stage|25%|Apr 7, 2006}}
+
+{{Requested books}}
+
+===Algebra===
+====Elementary====
+*[[Algebra I - A Verbose Approach]] {{stage|00%|Jan 1, 2000}}
+*[[Basic Algebra]]
+
+====Intermediate====
+*[[Algebra]] {{stage|50%|Jan 1, 2000}}
+*[[Intermediate Algebra]]
+*[[Theory of equations]] {{stage|25%|May 3, 2006}}
+*[[Prealgebra for Two-Year Colleges]]
+
+===Geometry===
+
+*[[Geometry for Elementary School]] {{stage|100%|Dec 8, 2008}}
+*[[Geometry]] {{stage|25%|Dec 8, 2008}}
+*[[Conic Sections]] {{stage|00%|Dec 8, 2008}}
+*[[High School Mathematics Extensions]]  {{stage|50%|Dec 8, 2008}}
+{{Requested books}}
+
+===Trigonometry===
+
+*[[Trigonometry]] {{stage|75%|Feb 4, 2006}}
+
+{{Requested books}}
+
+===Discrete Mathematics===
+*[[Discrete mathematics]] {{stage|25%|Jan 1, 2000}}
+*[[Combinatorics]] {{stage|00%|Jan 1, 2000}}
+*[[Number Theory]] {{stage|00%|Sep 28, 2008}}
+*[[Fermat's last theorem]] {{stage|75%|May 25, 2007}}
+{{Requested books}}
+
+===Calculus===
+
+*[[Calculus]] {{stage|50%|Jan 1, 2000}}
+*[[Calculus optimization methods]] {{stage|25%|March 21, 2009}}
+
+{{Requested books}}
+
+===Statistics and Probability ===
+
+*[[Probability]] {{stage|25%|Jan 1, 2000}}
+*[[Statistics]] {{stage|25%|Jan 1, 2000}}
+*[[Handbook of Descriptive Statistics]] {{stage|25%|Jan 1, 2000}}
+
+{{Requested books}}
+
+==Higher Mathematics==
+
+*[[Problems in Mathematics]] {{stage|00%|Oct 4, 2008}}
+
+{{Requested books}}
+
+=== Foundations ===
+
+*[[Set Theory]] {{stage|25%|March 19, 2005}}
+*[[Category theory]] {{stage|25%|March 7,2006}}
+*[[Mathematical Logic]] {{stage|25%|Sept 25, 2006}}
+*[[Mathematical Proof]] {{stage|50%|Feb 16, 2006}}
+*[[Finite Model Theory]] {{stage|25%|May 13, 2007}}
+
+{{Requested books}}
+
+===Analysis===
+
+*[[Real Analysis]] {{stage|75%|May 23, 2008}}
+*[[Complex Analysis]] {{stage|25%|Jan 1, 2000}}
+*[[Functional Analysis]] {{stage|25%|Apr 24, 2007}}
+*[[Residue Theory]] {{stage|75%|Apr 17, 2006}}
+*[[Measure Theory]] {{stage|00%|Jul 12, 2005}}
+*[[UMD Analysis Qualifying Exam]]{{stage|25%|Jan 21, 2009}}
+
+{{Requested books}}
+
+===Linear Algebra===
+*[[Linear algebra|Linear Algebra]] {{stage|50%|Jan 1, 2000}}
+
+{{Requested books}}
+
+===Advanced Algebra===
+*[[Abstract algebra|Abstract Algebra]] {{stage|50%|Jan 1, 2000}}
+*[[Ring Theory]]
+*[[Introduction to Rings and Algebras]] {{stage|00%|May 1, 2010}}
+
+{{Requested books}}
+
+===Geometry and Topology===
+*[[Algebraic Geometry]] {{stage|00%|May 1, 2006}}
+*[[Crystallography]] {{stage|00%|2006-05-19}} 
+*[[Topology]] {{stage|50%|Apr 4, 2008}}
+*[[Combinatorial Topology]] {{stage|00%|May 27, 2006}}
+*[[Differential Geometry]] {{stage|00%|Dec 9, 2007}}
+*[[Amateur's Guide to Proving the Four Color Theorem]]{{stage|00%|July 14, 2009}}
+
+{{Requested books}}
+
+===Differential Equations===
+
+*[[Differential Equations]]  {{stage|25%|May 3, 2006}}
+*[[Linear Algebra with Differential Equations]]{{Stage|50%|April 25, 2006}}
+*[[Partial Differential Equations]] {{stage|25%|January 24,2007}}
+
+{{Requested books}}
+
+==Applied Mathematics==
+
+*[[Applied Mathematics]] {{stage|25%|Jan 1, 2000}}
+*[[Introduction to Game Theory]] {{stage|00%|Dec 28, 2006}}
+*[[Numerical Methods]] {{stage|25%|Jan 1, 2000}} 
+*[[Numerical Methods Qualification Exam Problems and Solutions (University of Maryland)]]{{stage|25%|Jan 21, 2009}} 
+{{Requested books}}
+
+==Other Math Books==
+
+{{Requested books}}
+
+===Program Specific Math===
+
+*[[A-level Mathematics]] {{stage|25%|Jan 1, 2000}}
+*[[Advanced A-level Mathematics]] {{stage|00%|Jan 1, 2000}}
+*[[VCE Mathematical Methods]] 
+
+{{Requested books}}
+
+===Misc.===
+
+*[[Solutions To Mathematics Textbooks]] {{stage|00%|October 1, 2008}}
+*[[Programmed Math]] {{stage|25%|Jan 1, 2000}}
+*[[Vedic Mathematics]] {{stage|25%|May 3, 2006}}
+*[[Applicable Mathematics]] {{stage|25%|Jan 1, 2000}}
+*[[Fractals]] {{stage|00%|Oct 9, 2007}}
+*[[The Book of Mathematical Proofs]] {{stage|00%|Sep 27, 2007}}
+*[[Solved Question Papers - IIT JEE]]
+
+
+
+{{Associated Wikimedia|Mathematics
+|Commons category    = Mathematics
+|Wikinews portal     = 
+|Wikinews category   = 
+|Wikipedia           = Mathematics
+|Wikipedia portal    = Mathematics
+|Wikiquote           = Mathematics
+|Wikiquote category  = 
+|Wikisource          = 
+|Wikisource category = Mathematics
+|Wikiversity         = 
+|Wikiversity school  = Mathematics
+|Wiktionary          = mathematics
+|Wiktionary appendix = Mathematics
+|Wiktionary category = Mathematics
+}}
+
+&lt;!-- [[en:Wikibooks:Mathematics_bookshelf]] --&gt;
+[[cy:Silff lyfrau:Mathemateg]]
+[[de:Regal:Mathematik]]
+[[he:מדף:מתמטיקה]]
+[[it:Wikibooks:Ripiano Matematica]]
+[[ja:数学]] 
+[[nl:Wiskunde]]
+[[zh:数学书架]]</text>
+      <sha1>ehcmkgwlkpjrwot8p5t09q2o1zssmqs</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Departments</title>
+    <ns>4</ns>
+    <id>1249</id>
+    <restrictions>edit=autoconfirmed:move=sysop</restrictions>
+    <revision>
+      <id>1828494</id>
+      <parentid>1787346</parentid>
+      <timestamp>2010-06-07T15:09:34Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>fixed shortcut</comment>
+      <text xml:space="preserve">{{ombox|type=style|text=Bookshelves have been phased out in order to move to [[Subject:Books by subject|subjects]].&lt;br /&gt;'''The corresponding subject page that replaced this page is [[Subject:Books by subject]].|}}
+
+__NOTOC__
+&lt;!--
+  -- To make this page at http://en.wikibooks.org/wiki/Wikibooks:Departments
+  -- we used a lot of HTML and CSS markup. We used the MediaWiki syntax for
+  -- a two-cell HTML table.
+  --
+  -- From there, we made the table 100% wide, set spacing, padding and margins,
+  -- made the left cell honeydew color with a MediumAquamarine background,
+  -- made the right cell lavender color with a SlateBlue background,
+  -- and aligned the table cell contents to the top.
+  --
+  -- This code produces the fancy dashed horizontal rules:
+  -- &lt;div style=&quot;border-top: 1px dashed MediumAquamarine;&quot; /&gt;
+  --&gt;
+{{shortcut|WB:ABS|WB:DEPT}}
+
+
+{{departments}}
+
+{| width=&quot;100%&quot; cellspacing=&quot;5&quot; cellpadding=&quot;5&quot; style=&quot;margin: 0.8em 0 0.8em 0;&quot;
+&lt;!----------- Humanities and Arts -----------------------------&gt;
+| width=&quot;50%&quot; valign=&quot;top&quot; style=&quot;border: 1px solid MediumAquamarine; background: honeydew;&quot;|
+&lt;div align=&quot;right&quot; style=&quot;float: right;&quot;&gt;[[File:Nuvola apps kcoloredit.png|40x40px|link=Wikibooks:Humanities and arts department]]&lt;/div&gt;
+
+&lt;div align=&quot;center&quot; style=&quot;font-size: 120%; margin: 0.4em 0 0.4em 0;&quot;&gt;
+
+'''[[Wikibooks:Humanities and arts department|Humanities and arts department]]'''&lt;/div&gt;
+&lt;br&gt;
+{{bookshelf|Games and athletics bookshelf}}
+{{bookshelf|History bookshelf}}
+{{bookshelf|Language and literature bookshelf}}
+&lt;!---------- Computing -------------------------&gt;
+&lt;br&gt;
+&lt;div style=&quot;border-top: 1px dashed MediumAquamarine;&quot; /&gt;
+&lt;div align=&quot;right&quot; style=&quot;float: right;&quot;&gt;[[File:Nuvola apps display.png|40x40px|link=Wikibooks:Computing department]]&lt;/div&gt;
+&lt;div align=&quot;center&quot; style=&quot;font-size: 120%; margin: 0.4em 0 0.4em 0;&quot;&gt;
+'''[[Wikibooks:Computing department|Computing department]]'''&lt;/div&gt;&lt;br&gt;
+{{bookshelf|Computer software bookshelf}}
+{{bookshelf|Computer science bookshelf}}
+{{bookshelf|Information technology bookshelf}}
+{{bookshelf|Programming languages bookshelf}}
+{{bookshelf|Domain-specific languages bookshelf}}
+{{bookshelf|Electronic games bookshelf}}
+&lt;!----------- Miscellaneous --------------------&gt;
+&lt;div style=&quot;border-top: 1px dashed MediumAquamarine;&quot; /&gt;
+&lt;div align=&quot;right&quot; style=&quot;float: right;&quot;&gt;[[File:Nuvola_apps_colors.png|40x40px|link=Wikibooks:Miscellaneous department]]&lt;/div&gt;
+&lt;div align=&quot;center&quot; style=&quot;font-size: 120%; margin: 0.4em 0 0.4em 0;&quot;&gt;
+'''[[Wikibooks:Miscellaneous department|Miscellaneous department]]'''&lt;/div&gt;
+&lt;br&gt;
+{{bookshelf|How-tos bookshelf}}
+{{bookshelf|Study guides bookshelf}}
+{{bookshelf|Miscellaneous bookshelf}}
+{{bookshelf|Technology bookshelf}}
+&lt;!----------- Natural Sciences ------------------&gt;
+| width=&quot;50%&quot; valign=&quot;top&quot; style=&quot;border: 1px solid SlateBlue; background: #F7F7FF;&quot;|
+&lt;div align=&quot;right&quot; style=&quot;float: right;&quot;&gt;[[File:Nuvola_apps_kalzium.png|40x40px|link=Wikibooks:Natural sciences department]]&lt;/div&gt;
+&lt;div align=&quot;center&quot; style=&quot;font-size: 120%; margin: 0.4em 0 0.4em 0;&quot;&gt;
+'''[[Wikibooks:Natural sciences department|Natural sciences department]]'''&lt;/div&gt;
+&lt;br&gt;
+{{bookshelf|Biology bookshelf}}
+{{bookshelf|Engineering bookshelf}}
+{{bookshelf|Health science bookshelf}}
+{{bookshelf|Mathematics bookshelf}}
+{{bookshelf|Physics bookshelf}}
+{{bookshelf|Natural sciences bookshelf}}
+
+&lt;!----------- Social Sciences --------------------&gt;
+&lt;div style=&quot;border-top: 1px dashed SlateBlue;&quot; /&gt;
+&lt;div align=&quot;right&quot; style=&quot;float: right;&quot;&gt;[[File:Nuvola_apps_kdmconfig.png|40x40px|link=Wikibooks:Social sciences department]]&lt;/div&gt;
+&lt;div align=&quot;center&quot; style=&quot;font-size: 120%; margin: 0.4em 0 0.4em 0;&quot;&gt;
+'''[[Wikibooks:Social sciences department|Social sciences department]]'''&lt;/div&gt;
+&lt;br&gt;
+{{bookshelf|Business bookshelf}}
+{{bookshelf|Education bookshelf}}
+{{bookshelf|Languages bookshelf}}
+{{bookshelf|Law bookshelf}}
+{{bookshelf|Social sciences bookshelf}}
+
+&lt;div style=&quot;border-top: 1px dashed SlateBlue;&quot; /&gt;
+&lt;div align=&quot;right&quot; style=&quot;float: right;&quot;&gt;[[File:Nuvola_apps_hwinfo.png|40x40px|link=Wikibooks:Card Catalog Office]]&lt;/div&gt;
+&lt;div align=&quot;center&quot; style=&quot;font-size: 120%; margin: 0.4em 0 0.4em 0;&quot;&gt;
+'''Other organisation systems'''&lt;/div&gt;
+; [[Wikibooks:All Books|Display all active Wikibooks]]: &lt;small&gt;sorted by bookshelves&lt;/small&gt;
+; [[Wikibooks:Card Catalog Office|Card Catalogue Office]]: &lt;small&gt;wikibooks organisation centre&lt;/small&gt;
+; [[Wikibooks:Alphabetical Classification]]: &lt;small&gt;list of books in alphabetical order&lt;/small&gt;
+; [[:Category:Main page|By Category]]: &lt;small&gt;list of books by category&lt;/small&gt;
+; [[:Category:Not linked Wikibooks|Wikibooks waiting to be added to a bookshelf]]: &lt;small&gt;...&lt;/small&gt;
+|}
+
+[[Category:Wikibooks bookshelves| ]]
+
+[[cy:Wicillyfrau:Holl silffoedd llyfrau]]
+[[de:Wikibooks:Bücherregale]]
+[[fr:Wikilivres:Tous les livres]]
+[[he:ויקיספר:כל מדפי הספרים]]
+[[pl:Wikibooks:Księgozbiór]]
+[[pt:predefinição:Biblioteca]]</text>
+      <sha1>812p7vvtf4b3p9sggzsvmpc6s9v8wsu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Organic Chemistry/Foundational concepts of organic chemistry</title>
+    <ns>1</ns>
+    <id>1255</id>
+    <revision>
+      <id>374803</id>
+      <parentid>153379</parentid>
+      <timestamp>2006-02-22T22:33:45Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Foundational concepts of organic chemistry]] moved to [[Talk:Organic Chemistry/Foundational concepts of organic chemistry]]: format</comment>
+      <text xml:space="preserve">What would be a better title than &quot;foundational concepts&quot; ? I want to communicate that these things are relatively basic and that the person should be familiar with them before moving on. It is pretty much a review of the relevent topics that are covered in general chemistry .. any suggestions please ? --[[User:Karl Wick|Karl Wick]]
+
+What about &quot;Fundamental concepts&quot;?</text>
+      <sha1>ta4xs3fpath4d7h3uqapebcqrlwqie3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science</title>
+    <ns>0</ns>
+    <id>1256</id>
+    <revision>
+      <id>1925810</id>
+      <parentid>1925809</parentid>
+      <timestamp>2010-09-02T13:57:49Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>Restoring current version.</comment>
+      <text xml:space="preserve">{{center|Welcome to the world's foremost &lt;br /&gt; &lt;big&gt;&lt;big&gt;&lt;big&gt; &lt;b&gt;GCSE Science Textbook&lt;/b&gt;&lt;/big&gt;&lt;/big&gt; &lt;/big&gt;&lt;br /&gt;on the web!}}
+
+This '''General Science''' book is aimed at GCSE students rather than university students.
+
+==Contents by Topic==
+[[File:Microscope diagram 1.png|right]]
+[[/Introduction/]]
+
+===Biology===
+*[[GCSE Science/Cells|Cells]]
+*[[GCSE Science/Plants|Plants]]
+*[[GCSE Science/Photosynthesis|Photosynthesis and Plant Respiration]]
+*[[GCSE Science/Digestion|Digestion]]
+*[[GCSE Science/Breathing and Respiration|Breathing and Respiration]]
+*[[GCSE Science/The Heart|The heart and circulation]]
+*[[GCSE Science/Hormones|The menstrual cycle]]
+*[[GCSE Science/Disease|Disease]]
+*[[GCSE Science/Inheritance and selection|DNA, Inheritance, Selection, Evolution and Competition]]
+*[[GCSE Science/Environment| Environment ]]
+*[[GCSE Science/Plant sensitivity and transport|Plant Sensitivity and Transport]]
+*[[GCSE Science/The Nervous System| The Nervous System]]
+*[[GCSE Science/Ecology|Ecology]]
+
+===Chemistry===
+*[[GCSE Science/Atoms and Bonding|Atoms and Bonding ]]
+*[[GCSE Science/The Periodic table|The Periodic Table]] 
+*[[GCSE Science/Equations and Formulae|Equations and Formulae ]] 
+*[[GCSE Science/Acids &amp; Bases, Salts and Electrolysis|Acids &amp; Bases, Salts and Electrolysis ]] 
+*[[GCSE Science/Rates of Reactions|Rates of Reaction ]] 
+*[[GCSE Science/Chemistry Calculations|Chemistry Calculations ]] 
+*[[GCSE Science/Organic Chemistry|Organic Chemistry ]]
+
+===Physics===
+*[[GCSE Science/Electricity| Electricity]]
+*[[GCSE Science/Forces|Forces and Motion]]
+*[[GCSE Science/Waves|Waves ]]
+*[[GCSE Science/Radioactivity|Radioactivity ]]
+*[[GCSE Science/Energy in the Home|Energy ]]
+
+==Contents by Modules==
+The GCSE exam can be modular or combined. It is sensible however to divide the subject into modules despite the exam system used. Although this page is set out using the English system, students from other nations will still find much of the material relevant.
+
+===Modules usually studied in year 10===
+====AQA====
+* Humans as Organisms
+*[[GCSE Science/Maintenance of Life| Maintenance of Life ]]
+*[[GCSE Science/Metals| Metals ]]
+*[[GCSE Science/Earth Materials|Earth Materials ]]
+*[[GCSE Science/Energy|Energy ]]
+*[[GCSE Science/Electricity| Electricity]]
+
+====OCR====
+*[[GCSE Science/Supplying the cell|BD1 Supplying the cell ]]
+*[[GCSE Science/Maintenance of Life|BD2 Control in Animals and Plants ]]
+*[[GCSE Science/Ecology|BD3 Ecology ]]
+
+*[[GCSE Science/Rates of Reactions|CD1 Rates of Reactions ]]
+*[[GCSE Science/Energy|CD2 Energy in Chemistry ]]
+*[[GCSE Science/Earth Materials|CD3 Rocks and Metals ]]
+
+*[[GCSE Science/Waves and Radiation|PD1 Waves in Action]]
+*[[GCSE Science/Energy in the Home(GCSE Science)|PD2 Energy in the Home]]
+*[[GCSE Science/Forces|PD3 Forces and Motion]]
+
+====Edexcel====
+
+===Modules usually studied in year 11===
+====AQA====
+*[[GCSE Science/Environment| Environment ]]
+*[[GCSE Science/Inheritance and selection|Inheritance and selection  ]]
+*[[GCSE Science/Waves and Radiation|Waves and Radiation  ]]
+*[[GCSE Science/Structures and Bonding|Structures and Bonding  ]]
+*[[GCSE Science/Forces| Forces]]
+*[[GCSE Science/Patterns of chemical change|Patterns of chemical change ]]
+
+====Edexcel====
+
+===Coursework===
+*[[GCSE Science/Coursework marking system]]
+*[[GCSE Science/Coursework advice]]
+
+====Common coursework experiments====
+*[[GCSE Science/Osmosis in potato slices coursework]]
+*[[GCSE Science/Temperature dependence of enzymes coursework]]
+*[[GCSE Science/Stretch of an elastic band coursework]]
+*[[GCSE Science/Voltage/current characteristics of a bulb coursework]]
+*[[GCSE Science/Rates of reaction coursework]]
+*[[GCSE Science/Carbon dioxide production of yeast as affected by temperature|Carbon dioxide production of yeast as affected by temperature]]
+__NOTOC__ __NOEDITSECTION__
+{{alphabetical|G}}
+{{Subjects|Science study guides}}
+[[Category:General Certificate of Secondary Education|Science]]
+{{status|50%}}</text>
+      <sha1>0f217jy511ksuaia1i6oefrwikasvwp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Microscope diagram 1.png</title>
+    <ns>6</ns>
+    <id>1258</id>
+    <revision>
+      <id>2366338</id>
+      <parentid>636458</parentid>
+      <timestamp>2012-06-19T22:17:36Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>Replacing links, replaced: {{CC-self}} → {{self|cc-by-sa-2.5}} using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">Picture drawn by theresa knott
+{{GFDL}}
+{{self|cc-by-sa-2.5}}</text>
+      <sha1>kjvwvn512rxzzhmpclwqd6fci699cz8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

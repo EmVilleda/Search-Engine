@@ -1,0 +1,1421 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>GCSE Science/Electricity multiple choice</title>
+    <ns>0</ns>
+    <id>1260</id>
+    <revision>
+      <id>2499918</id>
+      <parentid>1158426</parentid>
+      <timestamp>2013-03-10T15:53:54Z</timestamp>
+      <contributor>
+        <username>Sigma 7</username>
+        <id>164862</id>
+      </contributor>
+      <minor />
+      <comment>/* Question 5 */</comment>
+      <text xml:space="preserve">==Questions List==
+*[[GCSE Science/Electricity multiple choice practice question 1|Question 1]]
+*[[GCSE Science/Electricity multiple choice practice question 2|Question 2]]
+*[[GCSE Science/Electricity multiple choice practice question 3|Question 3]]
+*[[GCSE Science/Electricity multiple choice practice question 4|Question 4]]
+*[[GCSE Science/Electricity multiple choice practice question 5|Question 5]]
+*[[GCSE Science/Electricity multiple choice practice question 6|Question 6]]
+*[[GCSE Science/Electricity multiple choice practice question 7|Question 7]]
+*[[GCSE Science/Electricity multiple choice practice question 8|Question 8]]
+
+==Question 5==
+
+[[Image:Two_polythene_strips.png]]
+
+A student rubs a polythene strip with fur and suspends it from a clamp stand. She then rubs another polythene strip with fur and brings it up to the first strip. The two strips repel each other.
+
+Look at the following four statements: 
+
+*A) One of the strips is neutral, the other charged.
+*B) The strips are both negatively charged.
+*C) The strips are both positively charged.
+*D) The strips are both neutral.
+
+Which two of the above statements are '''false'''?
+
+* A and B
+{{hidden|bg1=lightgreen|I choose this answer.|I'm sorry but this is the wrong answer. B is quite possibly true, both rods could be negative because two like charges repel. Hit back and try again.}}
+* A and C
+{{hidden|bg1=lightgreen|I choose this answer.|I'm sorry but this is the wrong answer. C is quite possibly true! two positively charged rods would repel each other. Hit back and try again.}}
+* A and D
+{{hidden|bg1=lightgreen|I choose this answer.|This is the correct answer. Well done!}}
+* B and C
+{{hidden|bg1=lightgreen|I choose this answer.|I'm sorry but this is the wrong answer. If both strops are negative they repel. If ther are both positive they also repel. But the question asked which statements are false. Hit back and try again.}}
+* B and D
+{{hidden|bg1=lightgreen|I choose this answer.|I'm sorry but this is the wrong answer. B may very well be true as &quot;like charges repel&quot;. Hit back and try again.}}
+* C and D
+{{hidden|bg1=lightgreen|I choose this answer.|I'm sorry but this is the wrong answer. C may well be true. Two positively charged strips would repel.}}
+
+==Question 6==
+
+[[Image:Silver_plating_a_fork_(exam_Q).png]]
+
+A student decided to silver plate his/her mother's forks. S/he set up the apparatus above.  S/he set the power pack and variable resistor so that the ammeter read 0.1 A. S/he allowed the fork to remain in the electrolysis apparatus for 10 min.  Once s/he removed the fork s/he tested it by trying to scratch the silver off. S/he found that the layer of silver was too thin and decided that s/he would have to take steps to make the layer a lot thicker.
+
+Which one of the following steps would '''not''' produce a thicker layer of silver ?
+
+* Increasing the voltage of the power pack
+{{hidden|bg1=lightgreen|I choose this answer.|I'm sorry but this is the wrong answer.
+
+Increasing the voltage would increase the current making the layer of silver thicker. But the question asked which one of the four possible measures would not increase the thickness of the layer.}}
+* Increasing the resistance of the variable resistance
+{{hidden|bg1=lightgreen|I choose this answer.|This is the correct answer. Well done!
+
+Increasing the resistance would ''decrease'' the current and so decrease the thickness of the silver.}}
+* Increasing the time spent in the apparatus
+{{hidden|bg1=lightgreen|I choose this answer.|I'm sorry but this is the wrong answer. Increasing the time gives the silver more time to build up. This means the layer ''will'' be thicker.}}
+* Increasing the concentration of the silver nitrate solution
+{{hidden|bg1=lightgreen|I choose this answer.|I'm sorry but this is the wrong answer. Increasing the concentration of silver nitrate will mean there are more ions to carry the current. The current will therefore be larger and so the silver layer ''will'' be thicker.
+
+The question asked which method ''would not'' produce a thicker layer.}}
+
+==Question 7==
+
+What is the maximum power that an appliance should have if it is connect to a 230V supply by a 5A cable ?
+
+* 46W
+{{hidden|bg1=lightgreen|I choose this answer.|Sorry this is an incorrect answer. Remember that to find the power you need to ''multiply'' the current and the voltage.}}
+* 1.15kW
+{{hidden|bg1=lightgreen|I choose this answer.|Well done this is the correct answer.}}
+* 115W
+{{hidden|bg1=lightgreen|I choose this answer.|Sorry but this isn't the correct answer. Be careful about powers of ten when you when you do a calculation, especially when using a calculator.}}
+* 4600W
+{{hidden|bg1=lightgreen|I choose this answer.|Sorry this is an incorrect answer. Remember that to find the power you need to ''multiply'' the current and the voltage.}}
+
+==Question 8==
+[[Image:VC wire.png]]
+
+The graph above shows how the potential difference across a conductor varied with the current flowing through it. Which of the following statements is true ?
+
+* The resistance of the conductor increases as the current increases
+{{hidden|bg1=lightgreen|I choose this answer.|Sorry this is the wrong answer. 
+
+From Ohm's Law
+: R is V/I. 
+But V/I is also the slope (or gradient) of the line on the graph. So with a constant slope, we must have a constant resistance.}}
+* The resistance of the conductor decreases as the current increases
+{{hidden|bg1=lightgreen|I choose this answer.|Sorry this is the wrong answer.
+
+From Ohm's Law
+:R is V/I
+But V/I is also the slope (or gradient) of the line on the graph. So with a constant slope, we must have a constant resistance.}}
+* The resistance of the conductor stays constant as the current increases
+{{hidden|bg1=lightgreen|I choose this answer.|Well done this is the correct answer.
+Recall by Ohm's Law that V is IR and then V/I is R. Observe on the graph that as voltage increases, current increases also. So as these values increase, their quotient must remain relatively constant. So the resistance remains relatively constant.Hence a straight line graph.}}
+* It is not possible to say anything about the resistance of the conductor based on the information given
+{{hidden|bg1=lightgreen|I choose this answer.|Sorry this is the wrong answer. It is quite possible to answer this question from the information given.
+
+From Ohm's Law
+:R is V/I
+But V/I is also the slope (or gradient) of the line on the graph. So with a constant slope, we must have a constant resistance.}}
+
+==Question 9==
+
+Two students, Jane and John are working together to make an electromagnet. John coils some plastic coated wire around a pencil and attaches the two ends to a 1.5V cell. He finds the electromagnet that he has made will deflect a compass placed near it but will not pick up a paperclip.
+
+Jane suggest that using an iron nail rather than a pencil will make the magnet stronger. Is she correct, and why?
+
+* She is correct, the iron core will make the magnet stronger, because iron conducts electricity.
+{{hidden|bg1=lightgreen|I choose this answer.|Sorry this is the wrong answer. Iron is a good conductor of electricity but no electricity actually flows through the iron core, so it being a good conductor makes no difference.}}
+* She is correct, the iron core will make the magnet stronger because iron is a magnetic material.
+{{hidden|bg1=lightgreen|I choose this answer.|This is the correct answer. Well done! Magnetic materials, such as iron, will increase the strength of an electromagnet if used in the core.}}
+* She is incorrect, the iron core will not make the magnet stronger, because iron conducts electricity.
+{{hidden|bg1=lightgreen|I choose this answer.|Sorry this is the wrong answer. The iron core certainly will make the magnet stronger.}}
+* She is incorrect, the iron core will not make the magnet stronger because iron is a magnetic material.
+{{hidden|bg1=lightgreen|I choose this answer.|Sorry this is the wrong answer. The iron core certainly will make the magnet stronger.}}
+
+==Question 10==
+
+Jane and John have made an electromagnet using a soft iron core with 10 windings of insulated copper wire and a voltage of 1.5V. They found that they could pick up 3 paper clips with this magnet if they were careful. Which of the following changes would ''not'' result in more paper clips being picked up?
+
+*Increasing the voltage (and therefore the current).
+*Using 15 turns of wire instead of 10.
+*Reverse the connections to the battery so that the current flows in the opposite direction.
+*Add a resistor in series with the electromagnet.
+
+{{hidden|bg1=lightgreen|Solution|Reverse the connections to the battery so that the current flows in the opposite direction. The strength of the magnet produced does not depend on the direction of the current.}}
+
+==Question 11==
+
+A photocopying machine creates a picture by making use of static electricity. Put the following statements about how the process works in the correct order.
+
+# Paper is given an opposite charge to the toner and pressed onto the plate. This causes the toner to stick to the paper rendering a copy of the picture.
+# A plate is given a charge, an image is projected onto the plate. Where the image was dark, a dark area forms on the plate.
+# Particles of toner are sprayed over the plate and are attracted to the charged areas, but not the neutral areas.
+# Light shining on the plate gives the charges enough energy to leak away. The dark areas of the plate stay charged.
+
+:1 2 3 4
+:3 2 1 4
+:4 2 3 1
+:1 3 2 4
+:1 3 4 2
+:2 1 4 3
+:2 4 3 1
+:2 4 1 3
+
+(Don't see your order in among the options? Check again because the correct order is certainly in there).
+
+{{hidden|bg1=lightgreen|Solution|2 4 3 1}}
+
+==Question 12==
+
+A wire is connected to a power pack and placed in the magnetic field of two bar magnets. When the power pack is switched on the wire jumps upwards.[[Image:Force_on_a_current_carrying_wire_GCSE_question.png]]
+
+What effect will increasing the current in the wire have ?
+
+*There will be no effect because the magnets haven't been changed.
+*The wire still moves upwards, but this time the greater current causes it to move more slowly.
+*The wire will now move downwards.
+*The wire will move upwards more quickly than before.
+
+{{hidden|bg1=lightgreen|Solution|The wire will move upwards more quickly than before.}}
+
+==Question 13==
+
+This is the same setup as in question 12. 
+
+[[Image:Force_on_a_current_carrying_wire_GCSE_question.png]]
+
+What can be done to make the wire move downwards ?
+(Choose two methods from the list)
+
+* increase the current
+{{hidden|bg1=lightgreen|I choose this answer|No. This will just make the wire move upwards faster.}}
+* reverse the current
+{{hidden|bg1=lightgreen|I choose this answer|Wrong Answer. This makes no difference.}}
+* make the wire shorter
+{{hidden|bg1=lightgreen|I choose this answer|Sorry. This will still move upwards.}}
+* reverse the magnetic field
+{{hidden|bg1=lightgreen|I choose this answer|Well done! This is the correct answer}}
+
+==External Question papers==
+*http://www.aqa.org.uk/qual/gcse/sci_da_m_assess.html  Requires adobe acrobat viewer.
+
+[[Category:GCSE Science]]</text>
+      <sha1>npy1jqwcowjh6vxkseha1liibhdgobg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 1</title>
+    <ns>0</ns>
+    <id>1262</id>
+    <revision>
+      <id>491250</id>
+      <parentid>381424</parentid>
+      <timestamp>2006-06-18T07:33:41Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">A kettle is fitted with a 13A fuse which one of the following statements is ''correct''.
+
+*[[GCSE Science/Electricity multiple choice practice question 1 answer 1|The fuse's main purpose is to protect a person should the live wire touch the  metal case]]
+*[[GCSE Science/Electricity multiple choice practice question 1 answer 2|The current in the live wire is kept at 13A by the fuse]]
+*[[GCSE Science/Electricity multiple choice practice question 1 answer 3|The fuse is a special sort of resistor. It keeps the current below 13A by resisting any extra current]]
+*[[GCSE Science/Electricity multiple choice practice question 1 answer 4|If the current goes above 13A the fuse will melt, and so break the circuit]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>9g5udqxj1bbzlpy3vhb03jknvdkm4ei</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Alex756</title>
+    <ns>2</ns>
+    <id>1263</id>
+    <revision>
+      <id>153384</id>
+      <timestamp>2003-09-24T18:41:20Z</timestamp>
+      <contributor>
+        <username>Alex756</username>
+        <id>126</id>
+      </contributor>
+      <text xml:space="preserve">You can find out more about me at: [[en:user:Alex756|Alex756 @ Wikipedia]]</text>
+      <sha1>e1p5vfgeasjcdis5hgxhcf3mz0icqwo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Spanish/Exercises/Comparisons</title>
+    <ns>0</ns>
+    <id>1264</id>
+    <revision>
+      <id>2713956</id>
+      <parentid>2713901</parentid>
+      <timestamp>2014-10-15T15:33:12Z</timestamp>
+      <contributor>
+        <ip>152.22.0.229</ip>
+      </contributor>
+      <text xml:space="preserve">[[Spanish/Lesson 5| ^Lesson 5^]]
+----
+
+=== Llena los blancos. ''Fill in the blank'' ===
+
+1. Mario es __________alto como Luigi. 
+
+2. El Sr. Perez tiene  ______________perros como Sr. Gonzales. 
+
+3. Serena es ______________fuerte como Venus.
+
+4. Mi carro cuesta______________dinero como tu carro. 
+
+5. Los niños juegan_____________ horas como los mayores. 
+
+6. México es ______________hermoso como España. 
+
+7. El abuelo tiene_____________pelo como su hijo. 
+
+8. Los gatos son ______________atrevidos como los tigres.
+
+9. Argentina tiene ______________personas como Colombia. 
+
+----------------------------------------
+
+[[Spanish/Exercises/Comparisons - Solutions|Soluciones a los ejercicios]] ''Solutions to exercices''
+
+[[Spanish/Lesson 5| ^Lesson 5^]]
+
+[[Category:Spanish]]</text>
+      <sha1>8ynjxar384clioldh154he552zhctuy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Formulax</title>
+    <ns>3</ns>
+    <id>1265</id>
+    <revision>
+      <id>153386</id>
+      <timestamp>2003-09-25T09:48:18Z</timestamp>
+      <contributor>
+        <username>Dysprosia</username>
+        <id>32</id>
+      </contributor>
+      <comment>re move</comment>
+      <text xml:space="preserve">Heya :) I've moved some of the stuff that you moved to Alg II to [[Discrete mathematics]], notably the permutations and combinations stuff. Just thought you'd like to know...thanks :) [[User:Dysprosia|Dysprosia]] 09:48, 25 Sep 2003 (UTC)</text>
+      <sha1>0r3rcimobh9toz9qronn08t3m1pfjlq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 1 answer 1</title>
+    <ns>0</ns>
+    <id>1267</id>
+    <revision>
+      <id>491256</id>
+      <parentid>381414</parentid>
+      <timestamp>2006-06-18T07:35:54Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">Sorry this is the wrong answer.
+
+The fuses main purpose is to protect the kettle from having too much current pass through it. It probably would blow if there is a short circiut between the live and earth wires, but it's really the earth wires job to protect a person.
+
+[[Category:GCSE Science]]</text>
+      <sha1>ew2217rf3c395utqvi9cqnjly7o3fge</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 1 answer 2</title>
+    <ns>0</ns>
+    <id>1268</id>
+    <revision>
+      <id>491257</id>
+      <parentid>381416</parentid>
+      <timestamp>2006-06-18T07:35:57Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">Sorry this is the wrong answer
+
+The current is determined by the voltage and the resistance of the kettle element. The fuse can't contol the current.
+
+[[Category:GCSE Science]]</text>
+      <sha1>iebeojiy9l79mctgruq0vfuam9uyex7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 1 answer 3</title>
+    <ns>0</ns>
+    <id>1269</id>
+    <revision>
+      <id>491258</id>
+      <parentid>381418</parentid>
+      <timestamp>2006-06-18T07:36:02Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">Sorry this is the wrong answer.
+
+Although the circuit symbol for a fuse looks a bit like a resistor, inside a fuse is just a piece of wire. It can't keep the current down to below 13A in this way.
+
+[[Category:GCSE Science]]</text>
+      <sha1>hukb3fa9rmi9cs9dnoyilr2kylg9ahj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 1 answer 4</title>
+    <ns>0</ns>
+    <id>1270</id>
+    <revision>
+      <id>491259</id>
+      <parentid>381443</parentid>
+      <timestamp>2006-06-18T07:36:07Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">Well done! This is the correct answer!
+
+[[GCSE Science/Electricity multiple choice practice question 2|Next question]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>r372dc4fnj2iloiimqbn9yqio4lleph</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Magnetic field of a current carrying wire.png</title>
+    <ns>6</ns>
+    <id>1277</id>
+    <revision>
+      <id>729127</id>
+      <parentid>709849</parentid>
+      <timestamp>2007-01-21T19:56:52Z</timestamp>
+      <contributor>
+        <username>Theresa knott</username>
+        <id>93</id>
+      </contributor>
+      <comment>tagging</comment>
+      <text xml:space="preserve">{{GFDL}}
+Diagram drawn by Theresa Knott</text>
+      <sha1>1onyszj27ul4djcw06tfi1aecgrdfjq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Magnetic effects of a current</title>
+    <ns>0</ns>
+    <id>1278</id>
+    <revision>
+      <id>2554332</id>
+      <parentid>2554297</parentid>
+      <timestamp>2013-09-05T13:01:46Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/195.188.250.134|195.188.250.134]] ([[User talk:195.188.250.134|talk]]) to last version by Savh</comment>
+      <text xml:space="preserve">
+
+{| align=&quot;right&quot;
+|-
+| [[Image:Magnetic_field_of_a_current_carrying_wire.png]]
+|}
+
+When a current flows down a wire it creates a magnetic field. To see this, place a small plotting compass near the wire and turn the current on. The compass needle will deflect. The shape of the magnetic field around a wire is circular. Look at the diagram on the right. The wire is coming straight out of the screen so you only see it's cross section (the red circle) The plotting compasses show how the field wraps around the wire.
+
+==Creating an electromagnet==
+Solenoids are made by coiling wire. The magnetic field of a solenoid looks like the field of an ordinary bar magnet.
+[[Image:Electromagnet_with_an_air_core.png]]
+
+A solenoid makes a pretty weak bar magnet on its own, but if a piece of iron is put inside the solenoid, the field becomes much much stronger.
+
+Try the following experiment:
+*Wrap a piece of plastic coated wire around a pencil.Remove the pencil then connect to a power supply set at 1V DC current. Sprinkle iron filings around the coil of wire. Put a plotting compass near the wire. Try to pick up a paper clip. 
+*Wrap a piece of plastic coated wire around a large nail. Repeat all of the above experiments
+
+You will find that the solenoid with the iron core is much much stronger than the one with the air core.
+
+'''Q1)''' Why is it important to use plastic-coated wire?
+
+===Making the field stronger===
+To make the field stronger we can:
+*Use a soft iron core
+*Increase the amount of current flowing in the wire
+*Increase the number of turns on the solenoid.
+
+===Reversing the field===
+To make the north pole and south pole swap positions we can:
+*Reverse the direction of the current by swapping the positive and negative leads on the power pack.
+*Wind the wire the other way round. {So if you wound it clockwise, take it off and wind it counterclockwise.
+
+Speaking of north and south poles, there is a little trick to help find out which end is the north pole and which is the south.
+
+Look down the solenoid and work out which way the current is flowing. Remember, current flows from the positive to the negative terminal on the power pack. If the current is flowing clockwise, the end will be a south pole. If it is going counterclockwise, the end will be a north pole. The easy way to remember this is to put arrows on the end of a capital N and S like this:
+
+[[Image:North_and_south_poles_of_an_electromagnet.png]]
+
+If you do not understand how to determine the pole using the clockwise and anti-clockwise way you can use the right hand grip rule
+
+{{BookCat}}</text>
+      <sha1>mey3zoeiihsd6zyv6fph6qe7ogxsklo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Electromagnet with an air core.png</title>
+    <ns>6</ns>
+    <id>1280</id>
+    <revision>
+      <id>636426</id>
+      <parentid>153401</parentid>
+      <timestamp>2006-11-04T11:01:45Z</timestamp>
+      <contributor>
+        <username>Theresa knott</username>
+        <id>93</id>
+      </contributor>
+      <text xml:space="preserve">Diagram showing the magnetic field of a solenoid.Drawn by theresa knott
+
+{{GFDL}}
+{{Cc-by-sa-2.5}}</text>
+      <sha1>fykilbbxzq6mgoyswdqgflvxrufp095</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Geometry</title>
+    <ns>1</ns>
+    <id>1283</id>
+    <revision>
+      <id>1971199</id>
+      <parentid>1635365</parentid>
+      <timestamp>2010-11-13T11:35:46Z</timestamp>
+      <contributor>
+        <username>JamesCrook</username>
+        <id>381149</id>
+      </contributor>
+      <comment>Reorder talk to make it more useful; Book 1 Book2 structure.</comment>
+      <text xml:space="preserve">==Scope and Level==
+
+=== Prerequisites for geometry readers ===
+
+I love math but I know the frustration of trying to learn math by myself when the source is obtuse, ambiguous and incomplete. Wiki's geometry readers might not have teachers or tutors to help them. We should specify particular prerequisites for such readers. We should build only on material already presented in previous more elementary wikibooks. 
+
+*In this case that means [[Geometry for elementary school]] which is great. Some arithmetic and simple algebra is needed, but unfortunately I haven’t found a good wikibook source that isn't too advanced.
+
+*Each new paragraph should be tested to be sure it is built on these basic assumed skills plus what was taught in the previous paragraphs. It is easier for a well prepared reader to deal with a presentation that is too basic in the first few chapters than for someone new to geometry to bridge that gap when advanced material is introduced too early.
+--[[User:Cretaceous9|Cretaceous9]] ([[User talk:Cretaceous9|talk]]) 14:54, 5 January 2009 (UTC)
+
+===Aligning with California Standards===
+Okay I like the concept aligning with California standards and creating a High School Level textbook. Nothing has been done in awhile. I am thinking about taking this up. My only qualification is that I teach this subject in a CA highschool. 
+
+A great looking intro page. I can't wait 'till it's finished as I really want to learn about advanced geometries. [[User:Theresa knott|Theresa knott]] 22:25, 26 Sep 2003 (UTC)
+
+===Who has a right to dictate the syllabus?===
+However, why is the book set up so the contents are set in stone?  Why did I only have that chapter available to edit for where I wanted to define R^3?  I am asking not just because it seems hard to find out, but because it might help me as a student but also tutor who may one day more formally teach math.  If there is some sort of 'standard curricula' in academia I need to know who thinks they are qualified to make it up and why.--[[User:Dchmelik|Dchmelik]] ([[User talk:Dchmelik|talk]]) 23:55, 26 September 2009 (UTC)
+
+===Book 1 / Book 2 Structure===
+This book is gaining a similar structural problem to what the [[Trigonometry]] book had - advanced material being added that is beyond a high school level.  The solution there was to split the ToC into two parts, a book 1 and a book 2.  I think the same could and should be done for this book.  [[User:JamesCrook|JamesCrook]] ([[User talk:JamesCrook|talk]]) 11:35, 13 November 2010 (UTC)
+
+==Requests==
+===Categorisation of pages, please===
+
+Please fix the links so that each chapter of this book is not categorized as a whole book of its own! --[[User:Daniel|Daniel]] 09:47, 3 May 2004 (UTC)
+
+=== More illustration, please ===
+
+* A book about Geometry with few or none ilustrations...
+Seconded.[[User:DroEsperanto|DroEsperanto]] 12:24, 21 June 2006 (UTC)
+
+===Appendix for definitions and postulates, please ===
+I think there should be an appendix listing out all the major postulates and definitions, grouping them by topic (e.g., SSS and SAS would go in &quot;Triangle Congruency,&quot; whereas the Corresponding Angles Postulate and that parallel-transitivity property would go in &quot;parallel lines.&quot;[[User:DroEsperanto|DroEsperanto]] 12:24, 21 June 2006 (UTC)
+
+===Appendix for Theorems, please===
+I think there should also be an appendix listing all of the important theorems, also grouped by categories. I think there should also either be a list of the theorems with their proofs or, since that might be seen as helping students cheat, doing what my old geometry textbook did: having a two-column proof chart with only some of the boxes filled in, and having the student fill statements for a given reason or reasons for a given statement to have the complete the proof.[[User:DroEsperanto|DroEsperanto]] 12:24, 21 June 2006 (UTC)
+
+===Vocab, please===
+I think there should be bolded vocabulary words throughout the text, and a glossary. These don't need to be the precise words used by California (we should try to keep this pretty even and not tailored to one state!), but whatever comes up.--[[:en:User:HereToHelp|HereToHelp]] ([[:en:User talk:HereToHelp|talk]]) 02:45, 22 October 2006 (UTC)
+
+==Visiting writers==
+=== I'm adding information as I go ===
+
+I'm starting to add information on some of the subjects listed in geometry.
+--[[User:Isipeoria|Isipeoria]] 01:08, 23 December 2005 (UTC)
+
+=== Possibility of students working on this ===
+
+I am a teacher in a small high school and would like to use this text next semester and have my students help edit and illustrate as we work through the subject. I am new to Wikiland and would appreciate any comments or suggestions. Is anyone working on this subject intensely right now?
+--[[User:Forrestbrinker|Forrestbrinker]] 18:41, 2 December 2006 (UTC)Forrestbrinker
+
+==Issues==
+=== Chapter Order ===
+
+Hello, I'm currently editing &quot;Parallel Lines, Quadrilaterals, and Circles&quot; and noticed that it comes before polygons. I think polygons should come before it and before triangles since a discussion of either requires a knowledge of what a polygon is.
+
+=== Exercises Too Complex ===
+
+The exercises at the end of chapter 2 require concepts that have not yet been introduced.  These should be simpler exercises that clearly explain the basic proof concepts introduced in chapter 2.  I'm going to change these exercises shortly, if nobody objects.
+
+==Euclid==
+===Euclid Old Fashioned===
+The five postulates of Euclidean geometry? Which set of postulates are you using? Euclid's? That's has been shown not to stand up to rigorous standards a long time ago...
+
+Isn't it a bit old-fashioned to teach 2D Euclidean geometry along the lines of Euclid's elements?
+
+I agree. And I believe that Euclid's fifth &quot;postulate&quot; was derived from his other four in the 19th century.[[User:DroEsperanto|DroEsperanto]] 12:24, 21 June 2006 (UTC)
+
+===Euclid's fifth postulate===
+Euclid's Fifth was shown to be independent of (i.e., not derivable from) the other four axioms by the work of Lobachevsky, Bolyai, and Riemann, and secretly by Gauss, in the 19th century, a result reconfirmed by many others in the years since.  Although Euclid did not have the insight we have today, Euclidean Geometry is every bit as good a tool for helping build a working understanding of deduction as it has been for the past 2300 years.  It is the responsibilty of the instructors and modern mathematicians to point out and amend the program as needed.
+
+=== Seriously try Euclid ===
+
+The original [[wikisource:The Elements of Euclid|The Elements of Euclid]], and the best. I wish I had this when I was learning geometry at school. It is crystal clear and free of &quot;pedagogical&quot; techniques. It takes time to gain any mastery over the content, but it is better then any textbook I have had to suffer through in 16 years of schooling (up to Bachelors degree). As a bonus it's in the public domain. --[[Special:Contributions/41.243.101.252|41.243.101.252]] ([[User talk:41.243.101.252|talk]]) 14:39, 19 August 2008 (UTC)
+
+=== More modern than Euclid ===
+
+I think I agree with the poster that says 'seriously try Euclid,' except I wrote the chapter 11 that defines R^3, etc., so I think there is value in a geometry text using modern set theory--surely it is necessary now that Topology exists or just that some teachers and even students think it is worth it to them.--[[User:Dchmelik|Dchmelik]] ([[User talk:Dchmelik|talk]]) 23:55, 26 September 2009 (UTC)</text>
+      <sha1>reo51opmu7ielwt0r26gitjdazjtqrj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>United States Government</title>
+    <ns>0</ns>
+    <id>1285</id>
+    <revision>
+      <id>2255333</id>
+      <parentid>2019824</parentid>
+      <timestamp>2012-01-22T07:52:44Z</timestamp>
+      <contributor>
+        <username>Thereen</username>
+        <id>44896</id>
+      </contributor>
+      <comment>merge request</comment>
+      <text xml:space="preserve">{{merge from|American Government}}
+__NOTOC__ __NOEDITSECTION__
+==The Constitution and Government of the United States of America==
+
+===Part I- Before the Constitution===
+
+# [[/Colonial government in America|Colonial Government in America]]
+# [[/The U.S. under the Articles of Confederation|The United States under the Articles of Confederation]]
+# [[/The Constitutional Convention/]]
+# [[/Ratification/]]
+
+===Part II- The Constitution===
+
+# [[/The Three Branches|The Three Branches of Government]]
+# [[/The Federal System/]]
+# [[/General Provisions/]]
+# [[/The Bill of Rights/]]
+# [[/The Later Amendments/]]
+
+===Part III- Present Government Structure===
+
+# [[/The Legislative Branch/]]
+# [[/The Executive Branch/]]
+# [[/The Judicial Branch/]]
+
+===Part IV- American Government: Theory and Analysis===
+
+# [[/The Legislative Branch-Criticism|Criticism of the Legislative Branch]]
+# [[/The Executive Branch-Criticism|Criticism of the Executive Branch]]
+# [[/The Judicial Branch-Criticism|Criticism of the Judicial Branch]]
+# [[/Federalism and State Authority/]]
+# [[/Constitutional Issues/]]
+# [[/Civic Society/]]
+# [[/Foreign Policy/]]
+# [[/Domestic Issues/]]
+
+'''Part V- Appendices'''
+
+# [[/Civics Glossary/]]
+# [[/The Declaration of Independence/]]
+# [[/The Articles of Confederation/]]
+# [[/The Constitution and Amendments/]]
+# [[/The Annotated Constitution of the United States/]]
+# [[/Authors|List of Authors]]
+
+{{alphabetical|U}}
+{{Subject|Public administration}}
+{{status|50%}}</text>
+      <sha1>e2plibm99emxmx3t035uhj2hedo51qj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>United States Government/The Three Branches</title>
+    <ns>0</ns>
+    <id>1286</id>
+    <revision>
+      <id>2705155</id>
+      <parentid>2655659</parentid>
+      <timestamp>2014-09-28T23:20:31Z</timestamp>
+      <contributor>
+        <ip>2601:C:8B80:D5:3944:53A:421C:1A4D</ip>
+      </contributor>
+      <comment>/* The Executive */</comment>
+      <text xml:space="preserve">{{USConstitionAndGovtTOC}}
+----
+==Introduction==
+
+The United States Constitution divides government into three separate and distinct branches: the Executive, Legislative and Judicial branches. The concept of separate branches with distinct powers is known as '''separation of powers.''' That doctrine arose from the writings of several European philosophers. The Englishman John Locke first pioneered the idea, but he only suggested a separation between the executive and legislative. The Frenchman Charles-Louis de Secondat, Baron de Montesquieu, added the judicial branch. 
+
+Each branch is theoretically equal to each of the others. The branches check each others powers and use a system known as ''' checks and balances'''. Thus, no branch can gain too much power and influence, thus reducing the opportunity for tyrannical government.
+
+In the introduction, there is a Preamble. The Preamble is as stated:
+&quot;We the people of the United States, in order to form a more perfect union, establish justice, insure domestic tranquility, provide for the common defense, promote the general welfare, and secure the blessings of liberty to ourselves and our posterity, do ordain and establish this constitution for the United States of America&quot;.
+
+==The Legislative==
+
+The Congress is the Legislative Branch. Its main function is to make laws. It also oversees the execution of these laws, and checks various executive and judicial powers. 
+The Congress is ''bicameral''- it is composed of two houses. One house is the House of Representatives, the other is the Senate. 
+
+The House of Representatives, or House for short, is currently composed of four hundred and thirty-five members. Each of the fifty states is allocated one or more representatives based on its population as calculated by the decennial (once in ten years) . Each state is guaranteed at least one representative. A state that is allocated more than one representative divides itself, as state procedures dictate, into a number of districts equal to the number of representatives to which it is entitled. The people of each district vote to elect one representative to Congress (States that have only one representative allocated choose ''at-large'' representatives- the state votes as one entire district). The District of Columbia and a number of U.S. territories have been permitted to elect delegates to the House. These delegates may participate in debates, and sit and vote in committee, but are not allowed to vote in the full House. Every House member faces re-election in an even-numbered year and is elected to a two-year term. The House is presided over by a Speaker, who is directly elected by the members of the House.
+
+The Senate is the upper house of the United States' legislative branch, possessing only one hundred members to the house's four hundred thirty-five. Each state chooses two senators, regardless of that state's population. The Constitution originally dictated that a state's senators were to be chosen by the state's legislature; after the Seventeenth Amendment was ratified in 1913, senators were elected directly by the state's population. In contrast to the House's two-year terms, Senators are elected to a six-year stint in office. In addition, only one-third of the Senate stands for election during an even year. These differences between the two houses were deliberately put into place by the Founding Fathers; the Senate was intended to be a more stable, austere body, whereas the House would be more responsive to the people's will.
+
+The Vice-President is President of the Senate, but he/she only votes if there is a tie. The Senate also chooses a President Pro Tempore to preside in the Vice-President's absence (though, in practice, most of the time, senators from the majority take turns presiding for short periods).
+
+The Senate and the House are both required to approve legislation before it becomes a law. The two houses are equal in legislative power, but revenue bills (bills relating to taxation) may only originate in the House. However, as with any other bill, the Senate's approval is still required, and the Senate may amend such bills.
+
+The Senate holds additional powers relating to treaties and the appointments of executive and judicial officials. This power is known as &quot;advice and consent.&quot; The Senate's advice and consent is required for the President to appoint judges and many executive officers, and also to ratify treaties. To grant advice and consent on treaties, two-thirds of the Senators must concur (agree).
+
+While most votes require a simple majority to pass, it sometimes takes three-fifths of senators to bring a bill to a vote. This is because Senate rules hold that a bill cannot be voted on as long as it is being debated--and there is no limit on how long a senator may debate a bill. Senators sometimes use this rule to filibuster a bill--that is, continue debating a bill endlessly so that it cannot be voted on.  The only way to end a filibuster is for three-fifths of all Senators to vote for a cloture resolution, which ends all debate and brings the bill up for voting. Use of the filibuster tends to be controversial. Whichever party is in the majority tends to call its use &quot;obstructionism,&quot; while the other side sees it as an important check on the majority. 
+
+The House has the sole power to impeach federal executive and judicial officers. According to the Constitution, officers may be impeached for &quot;treason, bribery, or other high crimes and misdemeanors.” The Senate has the sole power to try all such impeachments, a two-thirds vote being required for conviction. The Constitution requires that any individual convicted by the Senate to be removed from office. The Senate also has the power to bar that individual from further federal office. The Senate may not impose any further punishment, although the parties are still subject to trial in the courts. As the Vice-President (being next-in-line to the Presidency) would have an obvious conflict of interest in presiding at a trial of the President, in such cases, the Chief Justice presides. Interestingly, no similar provision prevents the Vice-President from presiding at his or her own trial.
+
+==The Executive==
+
+The President, Vice President, and other executive officials make up the Executive Branch. The main function of this branch is to execute the laws created by Congress. 
+The President and the Vice-President are chosen by the Electoral College, a body of people elected for the purpose of electing the President. One may wait to consider the Electoral College in further detail.
+
+The President appoints several ''Secretaries'' to head executive departments. An executive department is a body covering a broad topic of law- examples include the Department of Agriculture and the Department of Justice. The several secretaries (in the case of the Justice Department, the Attorney General) serve as advisors to the President and also as the chief officers of their own departments. This group of advisors is collectively known as the President's ''cabinet''. The President nominates these Secretaries, as well as other important federal officials, and the Senate ''advise and consents'' to them .
+
+==The Judicial==
+
+The Supreme Court and the lower courts compose the Judicial Branch. The judiciary must interpret the laws of the United States. In the course of such interpretations, the courts may find that a law violates the constitution. If so, the court declares the law unconstitutional. Thus, the judiciary also has a role in determining the law of the land.
+
+The judges of federal courts are nominated by the President and advised and consented to by the Senate. The number of judges and the exact structure of the courts is set by law, and not by the Constitution.
+
+==The Legislative Process: How A Bill Becomes A Law==
+
+After both houses of Congress pass a bill, perhaps observing the different rules and procedures in each house, but with the exact same final text, the bill is submitted to the President. Immediately, a ten-day clock for the president to act in starts to tick. Sundays are excluded in this calculation.
+
+Once he receives the bill, the President has many options. The outcome of the process depends on the route taken by him.
+* Signature- If the President signs a bill, it immediately takes effect as law.
+* Veto- The President may, if he pleases, return a bill to the house in which it originated. That house may then consider the President's objections. If it wishes to pass the law in any event, it must repass the bill with a two-thirds majority. If the same occurs, then the other house considers the bill, perhaps repassing it with the same two-thirds majority. If both houses pass the bill with the requisite majority, then the bill becomes law despite the President's veto. If one or both houses fail to provide an adequate majority, then the bill fails
+* No Action- The President may decide to take no action at all on a bill. If, for ten days, the President has neither signed nor returned the bill, the bill becomes law without a signature.
+* Pocket veto- The pocket veto is an absolute veto- Congress may not override it by any majority (though it may choose to repass the bill). The pocket veto occurs near the end of a Congressional session. If the bill is with the President, and he has not signed it or returned it, and the ten-day limit has not expired, '''and''' Congress adjourns for the year (that is, it decides to meet no longer for the rest of the year), then the President may pocket veto the bill.
+
+==Checks and Balances==
+
+In order to prevent any branch of government from becoming too powerful, the Framers of the Constitution created a system of checks and balances. Each branch of government has checks on the others, while it is itself also checked. The complex system can be outlined as follows:
+
+'''Checks of the Legislative'''
+
+''Checks on the Executive''
+* Power to override vetoes
+* Power to confirm the President's appointment of a Vice President when a vacancy in the Vice Presidency occurs
+* Power to tax and allocate tax revenues for executive activities
+* Oversight and investigation of executive activities
+* (Senate) Power to approve treaties
+* (Senate) Power to approve Presidential nominees
+* (House) Impeachment, or accusation of a federal official for bribery, treason, or another high crime
+* (Senate) Trial of Impeachment 
+''Checks on the Judicial''
+* Power to set size and structure of courts
+* (Senate) Power to approve Presidential nominees for judgeships
+* (House) Impeachment
+* (Senate) Trial of Impeachment
+''Internal Checks''
+* Approval of both houses required for passage of a law
+
+'''Checks of the Executive'''
+
+''Checks on the Legislative''
+* Power to veto
+* Power to pocket veto
+* Power to call a special session of Congress when Congress is not already meeting
+* Vice President presides over Senate meetings as President of the Senate
+* Congress cannot reduce the salary of the President while he continues in office
+''Checks on the Judicial''
+* Power to nominate judges
+* Power to fully or partially pardon convicted criminals
+
+'''Checks of the Judicial'''
+
+''Checks on the Legislative''
+* Power to declare bills unconstitutional
+* Congress cannot reduce the salary of a judge while he continues in office
+* The Chief Justice presides over an Impeachment Trial of a President
+''Checks on the Executive''
+* Power to declare executive acts unconstitutional
+----
+{{USConstitionAndGovtTOC}}
+
+{{BookCat}}</text>
+      <sha1>otsqhj9k1036l8mmkar08ifflp7fnpm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Algebra</title>
+    <ns>0</ns>
+    <id>1287</id>
+    <revision>
+      <id>2634707</id>
+      <parentid>2605693</parentid>
+      <timestamp>2014-04-23T07:49:22Z</timestamp>
+      <contributor>
+        <username>Kami Mikazuki</username>
+        <id>1507768</id>
+      </contributor>
+      <minor />
+      <comment>/* Contents */</comment>
+      <text xml:space="preserve">
+
+
+== Preface ==
+{{Prerequisite|Arithmetic}}
+
+'''Algebra''' is the branch of mathematics concerning the study of the rules of operations and relations, and the constructions and concepts arising from them, including terms, polynomials, equations and algebraic structures.
+
+You've been asked to buy peanuts for you and your friends at a football game. You've collected $12.50. One bag is $2.75. You want to know how many bags you can buy. This is an algebra problem!  Related problems are how much money will be left over, and what should you buy or in what proportions should you return the extra money to your friends.
+
+Algebra helps us to predict things that we don't yet know and to determine the relationships between the things we do. Algebra is a powerful and rich branch of mathematics that is useful in everyday life as well as business, engineering, and other technical fields.
+
+==Contents==
+
+=== Introduction to Mathematics ===
+# '''About This Book''' {{stage short|25%}}
+## [[/What is math, exactly?/]] - ''And why should I care?''
+## [[/Who should read this book/]] - ''And what to expect''
+
+=== Numbers, Variables and Relationships  ===
+How can we use numbers and variables to find out unknown information?
+
+# '''Review'''
+## [[/Arithmetic/|Elementary Arithmetic]]
+## [[/Order of Operations/]]
+# '''Numbers and Variables''' {{stage short|25%}}
+## [[/Real_Numbers/|Algebra and Properties Of Real Numbers]]
+##[[/Division_is_not_commutative/ | Division is Not Commutative]]
+##[[/Exponents/ | Rules of Exponents]]
+## [[/Roots and Radicals/]]
+## [[/Variables/]]
+## [[/Sets/]]
+# '''Equations With One Variable''' {{stage short|25%}} 
+## [[/Equations/|What are Equations?]]
+## [[/Solving Equations/|Solving Equations With One Variable]]
+## [[/Word Problems/]]
+# '''Inequalities''' {{stage short|00%}} 
+## [[/Different_Types_of_Relationships|Different Types of Relationships]]
+## [[/Interval Notation|Interval notation and Graphing Intervals]]
+## [[/Inequalities|Solving Inequalities]]
+
+=== Linear Functions An Introduction To Graphing ===
+
+Maths is a method of solving problems.  You take information you know, and by manipulating it using mathematical principles, you can find information you don't know.  Functions are the mathematical framework for solving problems.  They have parameters, rules, and ways of being solved.  This section will introduce you to common functions and how to use them.
+
+# '''Introduction to Linear Functions''' {{stage short|25%}}
+## [[/Functions/]]
+## [[/Function Graphing|Graphing Linear Functions]] {{stage short|25%}}
+###[[/The Coordinate (Cartesian) Plane/]]
+###[[/Linear Equations and Functions/]]
+###[[/Intercepts/|The X and Y Intercepts]]
+###[[/Slope/]]
+###[[/Standard Form and Solving Slope/]]
+##[[/Graphing Inequalities/]]
+##[[/The Pythagorean Theorem|The Pythagorean Theorem and The Distance Formula]]
+##[[/Absolute Value/]]
+## [[/Systems of Equations/]]
+##[[/Compound and Absolute Value Inequalities/]]
+##[[/Graphing Systems of Inequalities/]]
+##[[/Other Types of Graphs/]]
+
+=== Polynomials ===
+#[[/Polynomials/]]
+## [[/Factoring Polynomials/]]
+## [[/Completing the Square/]]
+### [[/Square Root is Positive/]] (To be merged)
+## [[/Quadratic Equation|Quadratic Formula]]
+## [[/Binomial Theorem/]]
+
+=== Graphing Polynomials ===
+
+#More about Graphing
+##[[/Graphing Polynomials/]]
+##[[/Inverses of Functions/]]
+##[[/Compound and Absolute Value Inequalities For Polynomials/]]
+##[[/Graphing Systems of Inequalities For Polynomials/]]
+
+=== Sequences and Series ===
+# [[/Introduction to Sequences and Series/]]
+## [[/Arithmetic Progression (AP)/]]
+## [[/Geometric Progression (GP)/]]
+## [[/Harmonic Progression (HP)/]]
+
+=== Conic Sections ===
+# [[/Conic Sections/]]
+## [[/Circle/]]
+## [[/Ellipse/]]
+## [[/Parabola/]]
+## [[/Hyperbola/]]
+
+=== Complex Numbers ===
+
+# [[/Complex Numbers/]]
+## [[/More about the Quadratic Formula/]]
+## [[/Fundamental Theorem of Algebra/| More about Polynomials.]]
+
+=== Elementary Probability and Statistics ===
+
+#Introduction to Probability and Statistics
+## [[/Probability/]]
+## [[/Statistics/]]
+## Scatter Plots
+
+== Ongoing merging work ==
+'''TO DO'''
+
+[[Algebra/Solving_Equations | Fix algebra for Q &amp; R in Proportions or Ratios section]]
+
+[[Algebra/Arithmetic/Multiplication_Problems| Add word problems to multiplication]]
+
+[[Algebra/Arithmetic/Division_Problems| Add word problems to division]]
+
+[[Algebra/Arithmetic/Exponent_Problems| Add word problems to exponents]]
+
+[[Algebra/Arithmetic/Root_Problems| Add word problems to roots]]
+
+[[Algebra/Inequalities | Add word problems for possible relationships part of inequalities]]
+
+[[Algebra/Inequalities | Add graphics for multiplying by 1 and -1 to description of special case multiply by -1]]
+
+[[Algebra/Inequalities | Add description for special case Going back to equality]]
+
+[[Algebra/Functions#Creating_Functions | Fill in example of half area function]]
+
+[[Algebra/Linear_Equations_and_Functions | Fix contents, Clarify Explanation]]
+
+[[Algebra/Intercepts | Move Todos here ... or fill 'em in ]]
+
+[[Algebra/Standard_Form_and_Solving_Slope | Why use standard form vs. Slope Intercept form?  Need more context.]]
+
+[[Algebra/Standard_Form_and_Solving_Slope | Continue Creating Links between pages.]]
+
+[[Algebra/Graphing_Inequalities | Continue Creating Standard Algebra Heading ... Continue through Table of Contents ]]
+
+[[Algebra/Polynomials | Leap in sophistication ... End of the conversational tone.  Need to make friendlier, simpler ]]
+
+'''To be merged/unsorted'''
+#In this book
+## [[/Theory/]]
+## [[/Iteration/]]
+## [[/Stemplots/]] (Do we want this?)
+## [[Talk:Algebra/ToInclude]]
+## [[/Arithmetic/Numerical Axioms/]] (Was orphaned from the book, should keep an eye out for others)
+## [[/Equalities and Inequalities/]] (Was orphaned from the book)
+## [[/Algebra/]]
+## [[/Proofs/Exercises/]] Don't forget to merge this page ''out'' of this book.
+## [[/Quadratic functions/]]
+## [[/Solving equations/]]
+## [[/Theory of Equations/]]
+# Redirect to another book (why?)
+## [[/Logarithms/]]
+# [[/Closure/]]
+##[[Algebra/Closure/Answers]]
+
+{{subjects|bookcategory=Algebra (book)|algebra|K-12 mathematics}}
+{{alphabetical|A}}
+{{status|25%}}
+
+[[es:Algebra]]
+[[fr:Algèbre]]
+[[it:Algebra]]
+[[km:ពិជគណិត]]
+[[nl:Wiskunde/Algebra]]
+[[zh:代數]]</text>
+      <sha1>k99ldqs3pr64yf5txyjowno3fcwtrzk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Algebra/Equations</title>
+    <ns>0</ns>
+    <id>1289</id>
+    <revision>
+      <id>2700006</id>
+      <parentid>2700005</parentid>
+      <timestamp>2014-09-12T22:54:06Z</timestamp>
+      <contributor>
+        <username>Eurodyne</username>
+        <id>1764115</id>
+      </contributor>
+      <comment>Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/184.56.25.218|184.56.25.218]] ([[User talk:184.56.25.218|talk]]): No edit summary provided. ([[m:Twinkle|TW]])</comment>
+      <text xml:space="preserve">{{Algebra Page}}
+&lt;noinclude&gt;{{navigation|Book=Algebra
+|current=Equations
+|previous=Sets
+|next=Solving Equations
+|cat=Algebra (book)}}&lt;/noinclude&gt;
+{{TODO| examples, practice quizzes and review quizzes (as applicable)}}
+==Objectives==
+*Define expressions.
+*State the definition of a variable and an expression.
+*State the definition of a constant.
+*Explain the difference between an expression and an equation.
+*Given a written description of a situation, write expressions for the unknowns, and then relate those expressions with equations.
+==Balancing variables ==
+
+Mathematics began with the concept of [[w:counting | counting]], but it grew because of the idea of [[w:Equivalence_relation|equivalence]].  Tally marks or counters are equivalent to a value depending on the concept being expressed.  For instance a shepherd could use a bag of rocks to make sure that he brought home the same number of sheep he left with.  The idea of equivalence as shown with an equal sign allows us to state &quot;is the same as&quot;. 
+
+An expression is a statement that is well formed.  The neolithic shepherd used his bag of rocks to create expressions for managing his herd.  For instance, the shepherd hoped that the size of his flock remained constant between the time he took his flock out to graze and the time that he returned them home.  When he used the bag of rocks the shepherd used two expressions: # Sheep and # Rocks to create the equation # Sheep = # Rocks.  Mathematics describes the operations the shepherd performed on the expressions in order to keep the equation in balance.  For instance, when the shepherd used his bag of rocks to count his flock at night he might put his rocks in a bowl next to the gate on his pen.  Each time a sheep went into the pen the shepherd would move a rock from the bag into the bowl.  If rocks were left over in the bag, then the shepherd knew he needed to return to the field to find his lost sheep.
+
+== Expressions ==
+An expression is the arrangement of mathematical symbols denoting values and operations, while the equation is a form of an expression that indicates that two values are equal.  While equations are generally expressions, you will discover that some expressions are not equations.  Expressions in the form of functions or inequalities will be more apparent later in the book.
+
+When you simplify an expression, you are performing simple arithmetic steps until you receive the simplest answer, which is usually an integer or fraction. 
+
+== Equations ==
+[[Image:Eo-scale of justice.gif|thumb|left|A balance (scale).]] 
+
+An equation is just like a balance. A balance is a machine that compares whether two quantities are the same or not the same.  In mathematics, two quantities balanced translates to &quot;having the same value.&quot;  An equation is ''true'' if the two sides are balanced and ''false'' if the two sides are not balanced.
+As 5=5. this is a very simple equation. We can use variable too(almost used in mathematics)e.g. x=5. This is same as while using a balancing machine, we use some quantity on one side and some matter on the other which is to be measured.
+As a example we know that 5 is equal to 5 and x is equal to x(whatever is the value). the simplest example of a false equation is that 5 is not equal to 20.
+
+* Add examples.
+
+Remember from the previous section, a [[Algebra/Variable|variable]] is a symbol, usually a letter, that stands for a number. We'll use the letters &lt;math&gt;x&lt;/math&gt; and &lt;math&gt;y&lt;/math&gt; most often. If &lt;math&gt;x=5&lt;/math&gt; is true, then any time I use &lt;math&gt;x&lt;/math&gt;, you can replace &lt;math&gt;x&lt;/math&gt; by 5. We're saying &lt;math&gt;x&lt;/math&gt; and 5 have the ''same value, but different appearance''.  In the equation &lt;math&gt;x=5&lt;/math&gt;, the equal sign is like the balance.  If &lt;math&gt;x=5&lt;/math&gt; is true, we know that whenever we see an &lt;math&gt;x&lt;/math&gt; we can substitute the number 5 if that helps us understand. Even more important, we can check if a given number substituted for a variable in an equation makes that equation true.
+
+* Add examples.
+
+Frequently we don't know what the value of a variable is that would make the equation true, and we need to find out! 
+Finding out the values that make an equation true is called [[Algebra/Solving_Equations|Solving an Equation]], which we will do without guessing in the next section. 
+
+* Add examples.
+
+== Lesson Quiz ==
+You might be tempted to rush ahead, but please quickly check your understanding first!
+
+# Evaluate the expression &lt;math&gt;ab^2 \cdot\! (ac)^2 + c(b - a)&lt;/math&gt; if &lt;math&gt;a = 2&lt;/math&gt;, &lt;math&gt;b = (-3)&lt;/math&gt;, and &lt;math&gt;c = (-2)&lt;/math&gt;.
+#I put $300 into a savings account that has an Interest Rate of 4.5% per year, and I've had this account for exactly a year now. How much do I have in total (Principal with Interest Earned added on)?
+#To find the area of a trapezoid, we use this formula: &lt;math&gt;A = \frac{1}{2}h(b_1 + b_2)&lt;/math&gt;, where &lt;math&gt;h&lt;/math&gt; represents the perpendicular height of the trapezoid, &lt;math&gt;b_1&lt;/math&gt; represents one of the bases, and &lt;math&gt;b_2&lt;/math&gt; represents the other base. What would the area of a trapezoid be with &lt;math&gt;h = 4&lt;/math&gt;, &lt;math&gt;b_1 = 3&lt;/math&gt;, and &lt;math&gt;b_2 = 13&lt;/math&gt;?
+#&lt;math&gt;F = \frac{9}{5}C + 32&lt;/math&gt; is the formula to convert Fahrenheit to Celsius or vice versa. What would the temperature in Fahrenheit if it was 25 Degrees Celsius?
+#&lt;math&gt;C = 2\pi\!r&lt;/math&gt; is the formula to find the Circumference of a circle with a given radius. Find the Circumference if the diameter was 4 inches long. ''Remember: 2r = d''
+#&lt;math&gt;I = PRT \,&lt;/math&gt; when ''I'' represents interest earned, ''P'' represents the principal (starting money), ''R'' represents interest rate, and ''T'' represents the time, usually express in years. This formula is often used for banking and account. After 2 years, how much interest would have been built up if you placed $5000 into an account that has an interest rate of 9.5% per year?
+# Does &lt;math&gt;a^{(b^c)} = (a^b)^c&lt;/math&gt;?
+
+=== Quiz Answers ===
+
+# 2980
+# $313.5
+# 32
+#&lt;math&gt;\begin{matrix}F &amp; = &amp; 	\left ( \frac{9}{5} \right )(25) + 32 \\ \ &amp; = &amp; 45 + 32 \\ \ &amp; = &amp; 77\end{matrix}&lt;/math&gt;&lt;br/&gt;
+#Assuming that &lt;span style=&quot;font-size:150%;&quot;&gt;&lt;math&gt;\pi&lt;/math&gt;&lt;/span&gt; = 3.14: &lt;br/&gt; &lt;math&gt;\begin{matrix}C &amp; = &amp; 2\pi\!r \quad AND \quad d &amp; = &amp; 2r \\ \ &amp; = &amp; 4\pi \\ \ &amp; \approx &amp; 12.56\end{matrix}&lt;/math&gt;&lt;br/&gt;
+#&lt;math&gt;\begin{matrix}I &amp; = &amp; (5000)(.095)(2) \\ \ &amp; = &amp; 950\end{matrix}&lt;/math&gt;
+#No
+{{Subject|Intermediate Algebra}}</text>
+      <sha1>f9ytmb6d0oc6rfiocsh6d25kd29rwu6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Algebra/Solving equations</title>
+    <ns>0</ns>
+    <id>1291</id>
+    <revision>
+      <id>2093643</id>
+      <parentid>2093642</parentid>
+      <timestamp>2011-05-08T16:50:45Z</timestamp>
+      <contributor>
+        <ip>99.29.195.54</ip>
+      </contributor>
+      <comment>/* Quadratic equations */</comment>
+      <text xml:space="preserve">{{Algebra Page}}
+
+== Quadratic equations ==
+Up to now you have only dealt with equations and expressions involving just x; in this section we'll move onto solving things which have &lt;math&gt;x^2&lt;/math&gt; in them.
+
+All quadratic equations can be arranged in the form 
+&lt;math&gt;ax^2+bx+c=0\ (a \ne 0)&lt;/math&gt;, and ''a'',''b'',''c'' are all constants. Now let's look at some examples:
+
+'''Examples:''' Rearrange the following equations in the form &lt;math&gt;ax^2+bx+c=0 \qquad&lt;/math&gt;:
+
+:&lt;math&gt;
+
+(1)\qquad x(x-3)=3-5x; \qquad 
+
+&lt;/math&gt;
+
+
+'''Solution for''' (1)''':'''
+
+:&lt;math&gt; x^2 - 3x = 3 - 5x \qquad&lt;/math&gt;
+:&lt;math&gt; x^2 + 2x = 3      \qquad&lt;/math&gt;  
+:&lt;math&gt; x^2 + 2x - 3 =0   \qquad&lt;/math&gt;  
+
+
+:Note that in the first step you distributed the x on the left side of the equation.  The second step was obtained by adding a 5x to both sides of the equation and subsequently subtracting a 3 from both sides of the equation.
+
+
+:&lt;math&gt;
+(2)\qquad 2x+1=(x^2+2)\sqrt{3}
+&lt;/math&gt;
+
+
+'''Solution for''' (2)''':'''
+
+:&lt;math&gt;
+\begin{matrix}
+2x+1&amp;=&amp;x^2\sqrt{3}+2\sqrt{3}\\
+-x^2\sqrt{3}+2x+1-2\sqrt{3}&amp;=&amp;0\\
+x^2\sqrt{3}-2x-1+2\sqrt{3}&amp;=&amp;0
+\end{matrix}
+&lt;/math&gt;
+
+:Note that in the last step, both sides are multiplied by -1, to make the term &lt;math&gt;-x^2\sqrt{3}&lt;/math&gt; positive, so that the solving of the equation would be easier.
+
+====Factorization====
+Factorization is the most common way to solve quadratic equations. Let us consider again the first example above:
+&lt;math&gt;
+x(x-3)=3-5x
+&lt;/math&gt;
+We have already simplified the equation into 
+
+:&lt;math&gt;
+x^2+2x-3=0
+&lt;/math&gt;
+
+Now, we want to factorize the equation - that is to say, get it into a form such as: 
+
+:&lt;math&gt;
+(x+''\text{something}'')(x+''\text{something else}'')=0
+&lt;/math&gt;
+
+Look at the number term c. In this example, it is -3. Now, if we are lucky, the numbers &quot;something&quot; and &quot;something else&quot; will turn out to be nice whole numbers, so let's think of two numbers that will multiply together to give -3. Either 3 and -1, or -3 and 1. But we also need to get the x term correct (here, b=2). In fact, we need our two factors of c to add together to make b. And (3)+(-1)=2. So, we have found our 'somethings': they are 3 and -1. Let's fill them in.
+
+:&lt;math&gt;
+(x+3)(x-1)=0
+&lt;/math&gt;
+Just to check, we can multiply out the brackets to check we have what we started with:
+
+:&lt;math&gt;
+\begin{matrix}
+(x+3)(x-1)=0\\
+x^2 +3x -1x -3=0\\
+x^2 +2x -3=0
+\end{matrix}
+&lt;/math&gt;
+
+Now, we know that in an equation the left side is always equal to the right side. And in this case the right side of the equation is 0, so from that we can conclude the term &lt;math&gt;(x+3)(x-1)&lt;/math&gt; must equal to zero as well. And that means that either &lt;math&gt;(x+3)&lt;/math&gt; or &lt;math&gt;(x-1)&lt;/math&gt; must equal zero. (Not convinced? Remember (x+3) and (x-1) are just numbers. Can you find two non-zero numbers which multiply to make zero?)
+
+Let's write that algebraically:
+
+:&lt;math&gt;
+\begin{matrix}
+x^2 +2x -3=0\\
+x+3=0 \qquad \mbox{or} \qquad x-1=0\\
+x=-3 \qquad \mbox{or} \qquad x=1
+\end{matrix}
+&lt;/math&gt;
+
+Thus, there are two different solutions to the same equation! This is the case for all quadratic equations. We say that this quadratic equation has ''two distinct and real roots''.
+
+With practice, you will often be able to write down the equation in factorised form almost immediately. Here is another example, in this case the x easily factorises out:
+
+:&lt;math&gt;
+\begin{matrix}
+2x^2&amp;=9x\\
+2x^2-9x&amp;=0\\
+x(2x-9)&amp;=0\\
+x=0&amp;\qquad \mbox{or} \qquad x=\frac{9}{2}
+\end{matrix}
+&lt;/math&gt;
+
+====Completing the square====
+
+Sometimes the roots (solutions) of a quadratic equation cannot be easily obtained by factorisation. In such cases, we have to solve the equation by completing the square, or using the quadratic formula (see below).
+
+In order to complete the square, we need to rewrite the given equation in the form &lt;math&gt;(x+a)^2=b&lt;/math&gt;. Now here is an example:
+
+:&lt;math&gt;
+\begin{matrix}
+x^2+8x+9&amp;=&amp;0\\
+x^2+8x&amp;=&amp;-9\\
+x^2+8x+4^2&amp;=&amp;4^2-9\\
+(x+4)^2&amp;=&amp;7\\
+&amp;x+4=\sqrt{7}&amp; \quad \mbox{or} \quad x+4=-\sqrt{7}\\
+&amp;x=-4+\sqrt{7}&amp; \quad \mbox{or} \quad x=-4-\sqrt{7}\\
+&amp;x=-1.35&amp; \quad \mbox{or} \quad x=-6.65
+\end{matrix}
+&lt;/math&gt;
+
+In general, we get
+
+:&lt;math&gt;
+x^2+kx+\left({k \over 2}\right)^2=\left(x+{k \over 2}\right)^2
+&lt;/math&gt;
+
+Note that when we reach the stage of taking the square root of both sides of the equation, we might have a negative left-hand side. In this case, the roots will be [[../Complex Numbers|complex]]. If you have not yet learned about [[../Complex Numbers|complex numbers]], it is possible to simply state that the equation &quot;has no real roots&quot;.
+
+====Quadratic Formula====
+The quadratic formula is a special generalization of completing the square that allows the two roots of a quadratic equation to be obtained by simple substitution. It can be used to solve any quadratic equation and is very quick to work out on a calculator.
+
+
+:&lt;math&gt;ax^2 + bx = -c \Rightarrow x^2 + \frac {b}{a}x = \frac {-c}{a}&lt;/math&gt;
+
+Complete the square:
+
+:&lt;math&gt;x^2 + \frac {b}{a}x + \left(\frac {b}{2a}\right)^2 = \frac {-c}{a} + \left(\frac {b}{2a}\right)^2&lt;/math&gt;
+
+Simplify:
+
+
+Which equals 4y to the 19th power.
+
+:&lt;math&gt;\left(x + \frac {b}{2a} \right )^2 = \frac {-c}{a} + \left(\frac {b}{2a}\right)^2&lt;/math&gt;
+
+:&lt;math&gt;x + \frac {b}{2a} = \pm \sqrt {\frac {b^2}{4a^2} + \frac {-c}{a}}&lt;/math&gt;
+
+:&lt;math&gt;x + \frac {b}{2a} = \pm \sqrt {\frac {b^2}{4a^2} + \frac {-4ac}{4a^2}}&lt;/math&gt;
+
+:&lt;math&gt;x = \frac {-b}{2a} \pm \sqrt {\frac {b^2-4ac}{4a^2}}&lt;/math&gt;
+
+:&lt;math&gt;x = \frac {-b}{2a} \pm \frac {\sqrt {b^2-4ac}}{2a}&lt;/math&gt;
+
+:&lt;math&gt;x = \frac {-b \pm \sqrt {b^2-4ac}}{2a}&lt;/math&gt;
+
+which is the desired form of the quadratic formula.
+
+Hence, given that a quadratic is in the form &lt;math&gt;ax^2+bx+c=0&lt;/math&gt;, the two roots are:
+:&lt;math&gt;x={-b \pm \sqrt{b^2-4ac} \over 2a}&lt;/math&gt;
+
+The quantity &lt;math&gt;{b^2-4ac}&lt;/math&gt; in the equation, known as the '''discriminant''', is an indication of the solubility and nature of the roots:
+* discriminant is positive -- soluble over '''R''', real roots
+* discriminant is zero -- soluble over '''R''', real repeated (single) roots
+* discriminant is negative -- insoluble over '''R''' (yet soluble over '''C'''),  no real roots
+
+=== Weda's Theorem ===
+
+If the quadratic equation &lt;math&gt;ax^2+bx+c=0\ (a\ne0)&lt;/math&gt; has two real roots &lt;math&gt;x_1&lt;/math&gt; and &lt;math&gt;x_2&lt;/math&gt;, then
+
+&lt;math&gt;
+\left\{
+\begin{matrix}
+x_1+x_2&amp;=&amp;-\cfrac{b}{a}\\
+x_1x_2&amp;=&amp;\cfrac{c}{a}
+\end{matrix}
+\right.
+&lt;/math&gt;
+
+This is because &lt;math&gt;x_1=\frac{-b+\sqrt{b^2-4ac}}{2a}&lt;/math&gt; and &lt;math&gt;x_2=\frac{-b-\sqrt{b^2-4ac}}{2a}&lt;/math&gt;. By simply adding or multiplying the two roots we will get the above two equations. This is called Weda's Theorem'''.
+
+Using Weda's Theorem we can find the second root of a given quadratic equation without solving the equation.
+
+'''Example:''' Given that one of the real roots of the equation &lt;math&gt;4x^2-13x+10=0&lt;/math&gt; is 2, find the other root without solving the equation.
+
+'''Solution:'''
+
+&lt;math&gt;
+\begin{matrix}
+x_1 \cdot x_2 &amp;=&amp; \cfrac c a \\
+\Rightarrow x_1 \cdot 2 &amp;=&amp; \cfrac{10}{4}\\
+x_1&amp;=&amp;\cfrac{5}{4}
+\end{matrix}
+&lt;/math&gt;
+
+We can also determine the signs of two roots by applying the following rules:
+# the equation has two positive roots if &lt;math&gt;\Delta\ge0,\ \frac{c}{a}&gt;0,\ \mbox{and}\ \frac{b}{a}&lt;0&lt;/math&gt;;
+# the equation has two negative roots if &lt;math&gt;\Delta\ge0,\ \frac{c}{a}&gt;0,\ \mbox{and}\ \frac{b}{a}&gt;0&lt;/math&gt;;
+# the equation has two roots with different signs if &lt;math&gt;\ \frac{c}{a}&lt;0&lt;/math&gt;
+
+(&lt;math&gt;\Delta&lt;/math&gt; represents the discriminant of the equation.)
+
+Another problem involving Weda's Theorem:
+
+'''Example:''' For the equation &lt;math&gt;2x^2+ax+1=0&lt;/math&gt;, given that the sum of squares of roots is &lt;math&gt;7\frac{1}{4}&lt;/math&gt;, find the value of &lt;math&gt;a&lt;/math&gt;.
+
+'''Solution:'''
+
+&lt;math&gt;
+\begin{matrix}
+(x_1+x_2)^2-2x_1x_2&amp;=&amp;x_1^2+x_2^2\\
+\left(-\cfrac{a}{2}\right)^2-2\cdot\cfrac{1}{2}&amp;=&amp;7\cfrac{1}{4}\\
+\cfrac{a^2}{4}&amp;=&amp;8\cfrac{1}{4}\\
+a^2&amp;=&amp;33\\
+a&amp;=&amp;\pm\sqrt{33}
+\end{matrix}
+&lt;/math&gt;
+
+
+
+Pythagorean Theorem
+____________________
+
+
+
+a^+b^=c^
+
+== Solving simultaneous linear and nonlinear equations ==
+In previous chapters you have already learned how to solve simultaneous linear equations. Now we will learn how to solve a system of simultaneous linear and non-linear equations with two unknowns. It is usually done by '''substitution method'''.
+
+'''Example:''' Solve the following simultaneous equations:
+
+&lt;math&gt;
+\left\{
+\begin{matrix}
+2x^2+y^2-5xy&amp;=8 &amp; \mbox{------ (1)}\\
+y-x&amp;=2 &amp; \mbox{------ (2)}
+\end{matrix}
+\right.
+&lt;/math&gt;
+
+'''Solution:'''
+
+&lt;math&gt;
+\begin{matrix}
+\mbox{Rearrange (2):} &amp; y=x+2 &amp; \mbox{------ (3)}\\
+\mbox{Substitute(3) into (1):} &amp; 2x^2+(x+2)^2-5x(x+2)=8\\
+&amp; 2x^2+x^2+4x+4-5x^2-10x-8=0\\
+&amp; x^2+3x+2=0\\
+&amp; (x+2)(x+1)=0\\
+&amp; x=-2 \quad \mbox{or} \quad -1\\
+\mbox{Substitute x=-2 back into (3):} &amp; y=-2+2=0\\
+\mbox{Substitute x=-1 back into (3):} &amp; y=-1+2=1
+\end{matrix}
+&lt;/math&gt;
+
+&amp;there4; x=-1 and y=1, or x=-2 and y=0.
+
+[[id:Memecahkan masalah perhitungan aljabar]]
+[[pt:Matemática elementar/Equações algébricas]] &lt;!-- not an exact interwiki, but close enough //--&gt;</text>
+      <sha1>14c0p43molqfhg0kor84rqx8f0pmh6x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:TakuyaMurata</title>
+    <ns>2</ns>
+    <id>1292</id>
+    <revision>
+      <id>1689734</id>
+      <parentid>1340890</parentid>
+      <timestamp>2010-01-01T12:27:25Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <minor />
+      <comment>moved book</comment>
+      <text xml:space="preserve">See [[w:en:User:TakuyaMurata]] for who I am. I've been contributing to the following books:
+*[[Functional Analysis]]
+*[[Problems in Mathematics]]
+*[[An Introduction to Analysis]]</text>
+      <sha1>jzfisnfyfnfwieh2hbv04xs3xf9yepy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>United States Government/The Federal System</title>
+    <ns>0</ns>
+    <id>1293</id>
+    <revision>
+      <id>2688487</id>
+      <parentid>2688458</parentid>
+      <timestamp>2014-08-04T07:32:19Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/123.100.118.9|123.100.118.9]] ([[User talk:123.100.118.9|talk]]) to last version by Defender</comment>
+      <text xml:space="preserve">{{USConstitionAndGovtTOC}}
+
+==Introduction==
+
+The United States is exactly that--a Union of states. Each state has its own individual powers. However, that does not mean that the states have power to legislate on all matters. The Constitution of the United States spells out the powers of the federal government and of the &quot;several states.&quot; The Union government (known as the '''federal''' government) has its own fields of legislation, and if federal legislation conflicts with the state laws, the federal legislation prevails.  If this occurs, the state must defer to the federal government. The alternative, that any state may at any time leave the Union and thus be free from Union interference in the state's internal affairs, was tried during the American Civil War.
+
+==Types of Federalism==
+
+There are two types of federal systems. The first, '''dual federalism''', holds that the Union and the state are equal; under this view of federalism, the Union government only has the powers expressly granted to it, while the states retain all other powers. The second view, '''cooperative federalism''', states that the federal government is definitively superior to the state government, and the federal government should stretch its powers as far as possible. The US is a Union that does not completely fit either definition. The type of federalism in effect really depends on who is in power at the time. In any case, the Constitution prevents stretching federalism too far in either extreme.
+
+
+
+All powers retained by the states are known as '''reserved powers'''. Those specifically granted only to the Union government are known as '''enumerated powers'''. Finally, matters over which both the Union and the state governments have control are known as '''concurrent powers'''.
+
+The Tenth Amendment provides that the Union government has only the powers expressly designated to it by the Constitution, and the states control all other matters.
+
+
+
+Enumerated powers relate to the following:
+* Regulation of interstate and foreign commerce
+* Immigration and Citizenship
+* Bankruptcy
+* Weights and Measures 
+* Currency
+* Copyrights and Patents (Special rights granted to authors and inventors relating to the writing or discovery)
+* Crimes at sea
+* Military
+* Declaration of War
+* Control of the District of Columbia
+* Federal Courts
+* &quot;Necessary and Proper&quot;- The necessary and proper clause allows the Union government to make laws necessary to utilize other powers. For instance, this clause allows the government to jail persons who violate laws created under the aforestated powers.
+
+==Reserved Powers==
+
+As has been mentioned, the states have control over all matters not controlled by the Union government. Some of these matters include:
+* Education
+* Police protection
+* Licensing 
+* Control local governments
+* Regulate individual and corporate activities in order to protect and enhance public health, welfare, safety, morals, and convenience.
+
+==Concurrent Powers==
+
+Several powers belong concurrently to the Union and the state governments. These include:
+* Transportation 
+* Taxation
+* Make and enforce laws
+* Establish courts
+* Borrow
+* Spend money for general welfare
+* Take private property for public purposes, with just compensation.
+* Charter banks and corporations
+
+
+[[Category:United States Government]]</text>
+      <sha1>kblrh2t3231zcnfu7lumwaogo6i9jyy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

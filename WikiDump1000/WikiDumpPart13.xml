@@ -1,0 +1,2596 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Biochemistry</title>
+    <ns>0</ns>
+    <id>440</id>
+    <revision>
+      <id>2605944</id>
+      <parentid>2605858</parentid>
+      <timestamp>2014-02-02T22:42:21Z</timestamp>
+      <contributor>
+        <username>Pi zero</username>
+        <id>75960</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/Sophia Petrillo|Sophia Petrillo]] ([[User talk:Sophia Petrillo|talk]]) to last version by Dirk Hünniger</comment>
+      <text xml:space="preserve">{{Print version}}
+{{PDF version}}
+== Contents ==
+
+# [[/Introduction/]] {{stage short|75%|June 6, 2006}}
+## [[/Thermodynamics|Thermodynamics]] {{stage short|100%|Jan 11, 2005}}
+## [[/Catalysis|Catalysis]] {{stage short|100%|Jan 11, 2005}}
+## [[/Metabolism and energy|Metabolism and energy]] {{stage short|100%|Jan 11, 2005}}
+## [[/pKa values|pKa values]] {{stage short|75%|June 2, 2006}}
+# [[/Proteins/]] {{stage short|100%|Jan 11, 2005}}
+## [[/Proteins/Introduction|Introduction]] {{stage short|75%|Jan 11, 2005}}
+## [[/Proteins/The chemistry of proteins|The chemistry of proteins]] {{stage short|50%|June 6, 2006}}
+## [[/Proteins/Protein structure and folding|Protein structure and folding]] {{stage short|50%|Jan 11, 2005}}
+## [[/Proteins/Types of Protein|Types of Protein]] {{stage short|50%|Jan 11, 2005}}
+# [[/Carbohydrates/]] {{stage short|75%|Jan 11, 2005}}
+##[[/Regulation of Glucose Transporter Translocator in Health and Diabetes/]]
+# [[/Membranes and Lipids/]] {{stage short|50%|Jan 11, 2005}}
+# [[/Lipids And The Plasma Membrane/]] {{stage short|50%|Jan 11, 2005}}
+# [[/Complex Lipid Metabolism and Cholesterol/]] {{stage short|25%|May 26, 2008}}
+# [[/Enzymes/]] {{stage short|25%|Jan 11, 2005}}
+# [[/Metabolism/]]
+##[[/Glycolysis|Glycolysis]]
+##[[/Pyruvate Dehydrogenase|Pyruvate Dehydrogenase]]
+##[[/Tricarboxylic Acid Cycle|Tricarboxylic Acid (TCA) Cycle]]
+##[[/Electron Transport Chain|Electron Transport Chain]]
+# [[/DNA and RNA/]] {{stage short|50%|Jan 11, 2005}}
+##[[/Micro RNA(miRNA)/]]
+# [[/Respiratory Pigments/]]
+# [[/Cell Signaling Pathways/]]
+# [[/Bioinformatics/]]
+
+
+:[[/Authors/]] {{stage short|100%|Jan 11, 2005}}
+
+{{Subjects|Chemistry|Life sciences}}
+{{alphabetical|B}}
+{{status|25%}}
+
+[[de:Biochemie und Pathobiochemie]]
+[[el:Βιοχημεία]]
+[[es:Bioquímica]]
+[[fr:Biochimie]]
+[[nl:Biochemie]]
+[[pl:Biochemia]]
+[[pt:Bioquímica]]
+[[tr:Biyokimya]]</text>
+      <sha1>b1ebeqt4w8kgni9auvxknqvrjio05gm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Biochemistry/Introduction</title>
+    <ns>0</ns>
+    <id>441</id>
+    <revision>
+      <id>2429980</id>
+      <parentid>1990997</parentid>
+      <timestamp>2012-10-29T01:49:13Z</timestamp>
+      <contributor>
+        <username>Pwijesek</username>
+        <id>760010</id>
+      </contributor>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Biochemistry]]
+----
+# [[Biochemistry/Thermodynamics]]
+# [[Biochemistry/Catalysis]]
+# [[Biochemistry/Metabolism and energy]]
+# [[Biochemistry/pKa values]]
+
+Next chapter: [[Biochemistry/Proteins|Proteins &gt;&gt;]]
+&lt;/noinclude&gt;
+===Intro: What Is Biochemistry?===
+Biochemistry is the study of the chemistry of, and relating to, biological organisms.  It forms a bridge between biology and chemistry by studying how complex chemical reactions and chemical structures give rise to life and life's processes. Biochemistry is sometimes viewed as a hybrid branch of organic chemistry which specializes in the chemical processes and chemical transformations that take place inside of living organisms, but the truth is that the study of biochemistry should generally be considered neither fully &quot;biology&quot; nor fully &quot;chemistry&quot; in nature. Biochemistry incorporates everything in size between a molecule and a cell and all the interactions between them. The aim of biochemists is to describe in molecular terms the structures, mechanisms and chemical processes shared by all organisms, providing organizing principles that underlie life in all its diverse forms.
+
+Biochemistry essentially remains the study of the structure and function of cellular components (such as enzymes and cellular organelles) and the processes carried out both on and by organic macromolecules - especially proteins, but also carbohydrates, lipids, nucleic acids, and other biomolecules.  All life forms alive today are generally believed to have descended from a single proto-biotic ancestor, which could explain why all known living things naturally have similar biochemistries.  Even when it comes to matters which could appear to be arbitrary - such as the genetic code and meanings of codons, or the &quot;handedness&quot; of various biomolecules - it is irrefutable fact that all marine and terrestrial living things demonstrate certain unchanging patterns throughout every level of organization, from family and phylum to kingdom and clade.
+
+Biochemistry is, most simply put, the chemistry of life.
+[[Category:Biochemistry]]</text>
+      <sha1>pi8ukbu1qs4osaeg42jhof5o9jb7oad</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Biochemistry/Catalysis</title>
+    <ns>0</ns>
+    <id>442</id>
+    <revision>
+      <id>2261655</id>
+      <parentid>1988238</parentid>
+      <timestamp>2012-02-04T23:40:03Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Biochemistry|&lt;&lt; Biochemistry]] | [[Biochemistry/Thermodynamics|&lt;&lt; Thermodynamics]] | Catalysis | [[Biochemistry/Metabolism and energy|Metabolism and energy &gt;&gt;]]
+&lt;/noinclude&gt;
+----
+'''Catalysis''' refers to the acceleration of the rate of a chemical reaction by a substance, called a catalyst, that is itself unchanged by the overall reaction. Catalysis is crucial for any known form of life, as it makes chemical reactions happen much faster than they would &quot;by themselves&quot;, sometimes by a factor of several million times.
+
+A common misunderstanding is that catalysis &quot;makes the reaction happen&quot;, that the reaction would not otherwise proceed without the presence of the catalyst. However, a catalyst cannot make a thermodynamically unfavorable reaction proceed. Rather, it can only speed up a reaction that is already thermodynamically favorable. Such a reaction in the absence of a catalyst would proceed, even without the catalyst, although perhaps too slowly to be observed or to be useful in a given context.
+
+Catalysts accelerate the chemical reaction by providing a lower energy pathway between the reactants and the products. This usually involves the formation of an intermediate, which cannot be formed without the catalyst. The formation of this intermediate and subsequent reaction generally has a much lower activation energy barrier than is required for the direct reaction of reactants to products.
+
+Catalysis is a very important process from an industrial point of view since the production of most industrially important chemicals involve catalysis. Research into catalysis is a major field in applied science, and involves many fields of chemistry and physics.
+
+Two types of catalysis are generally distinguished. In homogeneous catalysis the reactants and catalyst are in the same phase. For example acids (H+ ion donors) are common catalysts in many aqueous reactions. In this case both the reactants and the catalysts are in the aqueous phase. In heterogeneous catalysis the catalyst is in a different phase than the reactants and products. Usually, the catalyst is a solid and the reactants and products are gases or liquids. In order for the reaction to occur one or more of the reactants must diffuse to the catalyst surface and adsorb onto it. After reaction, the products must desorb from the surface and diffuse away from the solid surface. Frequently, this transport of reactants and products from one phase to another plays a dominant role in limiting the rate of reaction. Understanding these transport phenomena is an important area of heterogeneous catalyst research.
+
+== Enzymes ==
+'''Enzyme''' (from Greek, ''in ferment'') are special protein molecules whose function is to facilitate or otherwise accelerate most chemical reactions in cells.
+Many chemical reactions occur within biological cells, but without catalysts most of them happen too slowly in the test tube to be biologically relevant.
+
+Enzymes can also serve to couple two or more reactions together, so that a thermodynamically favorable reaction can be used to &quot;drive&quot; a thermodynamically unfavorable one. One of the most common examples is enzymes which use the dephosphorylation of ATP to drive some otherwise unrelated chemical reaction.
+
+Chemical reactions need a certain amount of activation energy to take place. Enzymes can increase the reaction speed by favoring or enabling a different reaction path with a lower activation energy (Fig. 1), making it easier for the reaction to occur. Enzymes are large globular proteins that catalyze (accelerate) chemical reactions. They are essential for the function of cells. Enzymes are very specific as to the reactions they catalyze and the chemicals (substrates) that are involved in the reactions. Substrates fit their enzymes like a key fits its lock (Fig. 2). Many enzymes are composed of several proteins that act together as a unit. Most parts of an enzyme have regulatory or structural purposes. The catalyzed reaction takes place in only a small part of the enzyme called the active site, which is made up of approximately 2 - 20 amino acids.
+
+[[File:Catalytic Reaction Activation Energy.png|frame|none|'''Figure 1''': Diagram of a catalytic reaction, showing the energy needed (''E'') against time (''t'').]]
+
+The substrates (A and B) need a large amount of energy (&lt;font color=&quot;#990000&quot;&gt;''E''&lt;sub&gt;1&lt;/sub&gt;&lt;/font&gt;) to reach the intermediate state &lt;font color=&quot;#990000&quot;&gt;A&lt;sup&gt;...&lt;/sup&gt;B&lt;/font&gt;, which then reacts to form the end product (AB). The enzyme (&lt;font color=&quot;#009900&quot;&gt;E&lt;/font&gt;) creates a microenvironment in which A and B can reach the intermediate state (&lt;font color=&quot;#000099&quot;&gt;A&lt;sup&gt;...&lt;/sup&gt;&lt;/font&gt;&lt;font color=&quot;#009900&quot;&gt;E&lt;/font&gt;&lt;font color=&quot;#000099&quot;&gt;&lt;sup&gt;...&lt;/sup&gt;B&lt;/font&gt;) more easily, reducing the amount of energy needed (&lt;font color=&quot;#000099&quot;&gt;''E''&lt;sub&gt;2&lt;/sub&gt;&lt;/font&gt;). As a result, the reaction is more likely to take place, thus improving the reaction speed.
+
+[[File:Two substrates.svg|frame|none|'''Figure 2:''' An enzyme catalyzes the reaction of two substrates and to form one product.]]
+
+Enzymes can perform up to several million catalytic reactions per second. To determine the maximum speed of an enzymatic reaction, the substrate concentration is increased until a constant rate of product formation is achieved (Fig. 3). This is the maximum velocity (''V''&lt;sub&gt;max&lt;/sub&gt;) of the enzyme. In this state, all enzyme active sites are saturated with substrate. This was proposed in 1913 by Leonor Michaelis and Maud Menten. Since the substrate concentration at '''V'''&lt;sub&gt;max&lt;/sub&gt; cannot be measured exactly, enzymes are characterized by the substrate concentration at which the rate of reaction is half its maximum. This substrate concentration is called the Michaelis-Menten constant (''K''&lt;sub&gt;M&lt;/sub&gt;). Many enzymes obey Michaelis-Menten kinetics.
+
+[[File:Michaelis-Menten_saturation_curve_of_an_enzyme_reaction.svg|thumb|350px|'''Figure 3''': Diagram of reaction speed and Michaelis-Menten constant.]]
+
+The speed ''V'' means the number of reactions per second that are catalyzed by an enzyme. With increasing substrate concentration [S], the enzyme is &lt;font color=&quot;#990000&quot;&gt;asymptotically approaching&lt;/font&gt; its maximum speed &lt;font color=&quot;#000099&quot;&gt;''V''&lt;sub&gt;max&lt;/sub&gt;&lt;/font&gt;, but never actually reaching it. Because of that, no [S] for &lt;font color=&quot;#000099&quot;&gt;''V''&lt;sub&gt;max&lt;/sub&gt;&lt;/font&gt; can be given. Instead, the characteristic value for the enzyme is defined by the substrate concentration at its half-maximum speed (''V''&lt;sub&gt;max&lt;/sub&gt;''/2''). This K&lt;sub&gt;M&lt;/sub&gt; value is also called Michaelis-Menten constant.
+
+Several factors can influence the reaction speed, catalytic activity, and specificity of an enzyme. Besides de novo synthesis (the production of more enzyme molecules to increase catalysis rates), properties such as pH or temperature can denature an enzyme (alter its shape) so that it can no longer function. More specific regulation is possible by posttranslational modification (e.g., phosphorylation) of the enzyme or by adding cofactors like metal ions or organic molecules (e.g., NAD&lt;sup&gt;+&lt;/sup&gt;, FAD, CoA, or vitamins) that interact with the enzyme. Allosteric enzymes are composed of several subunits (proteins) that interact with each other and thus influence each other's catalytic activity. Enzymes can also be regulated by competitive inhibitors (Fig. 4) and non-competitive inhibitors and activators (Fig. 5). Inhibitors and activators are often used as medicines, but they can also be poisonous.
+
+[[File:Comp inhib.svg|frame|none|'''Figure 4''': Competitive inhibition.]]
+
+A competitive inhibitor fits the enzyme as well as its real substrate, sometimes even better. The inhibitor takes the place of the substrate in the active center, but cannot undergo the catalytic reaction, thus inhibiting the enzyme from binding with a substrate molecule. Some inhibitors form covalent bonds with the enzyme, deactivating it permanently (suicide inhibitors).  In terms of the kinetics of a competitive inhibitor, it will increase K&lt;sub&gt;m&lt;/sub&gt; but leave V&lt;sub&gt;max&lt;/sub&gt; unchanged.
+
+[[Image:Noncompetitive inhibition.png|frame|none|'''Figure 5''': Non-competitive inhibition.]]
+
+Non-competitive inhibitors/activators (&lt;font color=&quot;#990000&quot;&gt;I&lt;/font&gt;) do not bind to the active center, but to other parts of the enzyme (&lt;font color=&quot;#009900&quot;&gt;E&lt;/font&gt;) that can be far away from the substrate (&lt;font color=&quot;#000099&quot;&gt;S&lt;/font&gt;) binding site. By changing the conformation (the three-dimensional structure) of the enzyme (&lt;font color=&quot;#009900&quot;&gt;E&lt;/font&gt;), they disable or enable the ability of the enzyme (&lt;font color=&quot;#009900&quot;&gt;E&lt;/font&gt;)
+to bind its substrate (&lt;font color=&quot;#000099&quot;&gt;S&lt;/font&gt;) and catalyze the desired reaction.  The noncompetitive inhibitor will lower V&lt;sub&gt;max&lt;/sub&gt; but leave K&lt;sub&gt;m&lt;/sub&gt; unchanged.
+
+An ''uncompetitive'' inhibitor will only bind to the enzyme-substrate complex forming an enzyme-substrate-inhibitor (ESI) complex and cannot be overcome by additional substrate.  Since the ESI is nonreactive, V&lt;sub&gt;max&lt;/sub&gt; is effectively lowered.  The uncompetitive inhibitor will in turn lower the K&lt;sub&gt;m&lt;/sub&gt; due to a lower concentration of substrate needed to achieve half the maximum concentration of ES.
+
+Several enzymes can work together in a specific order, creating metabolic pathways (e.g., the citric acid cycle, a series of enzymatic reactions in the cells of aerobic organisms, important in cellular respiration). In a metabolic pathway, one enzyme takes the product of another enzyme as a substrate. After the catalytic reaction, the product is then passed on to another enzyme. The end product(s) of such a pathway are often non-competitive inhibitors (Fig. 5) for one of the first enzymes of the pathway (usually the first irreversible step, called ''committed step''), thus regulating the amount of end product made by the pathway (Fig. 6).
+
+[[image:feedback_inhibition.svg|450px|none|'''Figure 6:''' Common feedback inhibition mechanisms.]]
+
+# The basic feedback inhibition mechanism, where the product (P) inhibits the committed step (A&amp;#8640;B).&lt;br&gt;
+# ''Sequential feedback inhibition.'' The end products P&lt;sub&gt;1&lt;/sub&gt; and P&lt;sub&gt;2&lt;/sub&gt; inhibit the first committed step of their individual pathway (C&amp;#8640;D or C&amp;#8640;F). If both products are present in abundance, all pathways from C are blocked. This leads to a buildup of C, which in turn inhibits the first common committed step A&amp;#8640;B.
+# ''Enzyme multiplicity.'' Each end product inhibits both the first individual committed step and one of the enzymes performing the first common committed step.
+# ''Concerted feedback inhibition.'' Each end product inhibits the first individual committed step. ''Together'', they inhibit the first common committed step.
+# ''Cumulative feedback inhibition.'' Each end product inhibits the first individual committed step. Also, each end product ''partially'' inhibits the first common committed step.
+
+Enzymes are essential to living organisms, and a malfunction &lt;I&gt;of even a single enzyme&lt;/I&gt; out of approximately 2,000 present in our bodies can lead to severe or lethal illness. An example of a disease caused by an enzyme malfunction in humans is phenylketonuria (PKU). The enzyme phenylalanine hydroxylase, which usually converts the essential amino acid phenylalanine into tyrosine does not work, resulting in a buildup of phenylalanine that leads to mental retardation. Enzymes in the human body can also be influenced by inhibitors in good or bad ways. Aspirin, for example, inhibits an enzyme that produces prostaglandins (inflammation messengers), thus suppressing pain. But not all enzymes are in living things. Enzymes are also used in everyday products such as biological washing detergents where they speed up chemical reactions, (to get your clothes clean).
+
+==Digestive and Metabolic Enzymes==
+In the previous section we have been talking about the digestive enzymes, both the ones produced by the body, such as salivary amylase, and the food enzymes. Their primary role is for the digestion of food. Another class of enzymes is called metabolic enzymes. Their role is to catalyze chemical reactions involving every process in the body, including the absorption of oxygen. Our cells would literally starve for oxygen even with an abundance of oxygen without the action of the enzyme, cytochrome oxidase. Enzymes are also necessary for muscle contraction and relaxation. The fact is, without both of these classes of enzymes, (digestive and metabolic,) life could not exist.
+Digestive enzymes function as biological catalysts in which it helps to breakdown carbohydrates, proteins, and fats. On the other hand, metabolic enzymes function as a remodel of cells.  
+Digestion of food has a high priority and demand for enzymes; digestive enzymes get priority over metabolic enzymes. Any deficiency in metabolic enzyme can lead to over work, which could lead to enlarge organs in order to perform the increased workload. The result is unhealthy and could cause enlarged heart or pancreas. The deficiencies of metabolic enzymes can have a tremendous impact on health. As we grow older enzyme level decline and the efficiency in the body decline.
+
+== Enzyme naming conventions ==
+By common convention, an enzyme's name consists of a description of what it does, with the word ending in &quot;-ase&quot;. Examples are alcohol dehydrogenase and DNA polymerase. Kinases are enzymes that transfer phosphate groups. 
+The International Union of Biochemistry and Molecular Biology has developed a nomenclature for enzymes, the EC numbers; each enzyme is described by a sequence of four numbers, preceded by &quot;EC&quot;. The first number broadly classifies the enzyme based on its mechanism:
+* EC 1 ''Oxidoreductases'': catalyze oxidation/reduction reactions
+* EC 2 ''Transferases'': transfer a functional group (e.g., a methyl or phosphate group)
+* EC 3 ''Hydrolases'': catalyze the hydrolysis of various bonds
+* EC 4 ''Lyases'': cleave various bonds by means other than hydrolysis and oxidation
+* EC 5 ''Isomerases'': catalyze isomerization changes within a single molecule
+* EC 6 ''Ligases'': join two molecules with covalent bonds
+----
+
+Some other important enzymes are:
+Protease:  breaks the protein into amino acids in high acidity environments such as stomach,pancreatic and intestinal juices. Act on bacteria, viruses and some cancerous cells.
+Amylase: Break complex carbohydrates such as starch into simpler sugars (dextrin and maltose). It found in the intestines, pancreas and also in salivary glands.
+Lipase: breaks down fats and some fat soluble vitamins (A,E,K, and D). helpful in treating cardiovascular diseases. 
+Cellulase: break down cellulose that found in fruits, grains, and vegetables. It increases the nutritional values of vegetables, and fruits.
+Pectinase: break down pectin that found in citrus fruits, carrots, beets, tomatoes, and apple. 
+Antioxidants: protect from free radical negative effect that can damage cell in the body. 
+Cathepsin: break animal protein down.
+Lactase: break down lactose that found in milk products. the production of lactase decrease with age. 
+Invertase: assimilate sucrose that can contribute to digestive stress if not digested properly. 
+Papain: break down protein and help the body in digestion. 
+Bromelain: Break proteins that found in plants and animals. it could help the body to fight cancer and treat inflammation. 
+Glucoamylase: break down maltose that found in all grains in to two glucose molecules.
+
+&lt;noinclude&gt;
+[[Biochemistry|&lt;&lt; Biochemistry]] | [[Biochemistry/Thermodynamics|&lt;&lt; Thermodynamics]] | Catalysis | [[Biochemistry/Metabolism and energy|Metabolism and energy &gt;&gt;]]
+&lt;/noinclude&gt;
+{{BookCat}}</text>
+      <sha1>3eiyvlo2jf4a6sn01wa0cxm8c9ud43j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Catalytic Reaction Activation Energy.png</title>
+    <ns>6</ns>
+    <id>443</id>
+    <revision>
+      <id>1685755</id>
+      <parentid>1561135</parentid>
+      <timestamp>2009-12-24T13:54:51Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>moved [[File:Activation.png]] to [[File:Catalytic Reaction Activation Energy.png]]: Clashes with file at Commons.</comment>
+      <text xml:space="preserve">[http://en.wikipedia.org/w/index.php?title=Image:Activation.png&amp;oldid=15968632 From wikipedia]
+----
+{{GFDL}}
+(Drawn January 31 2005 by G. Andruk, released under GNU Free Documentation License)
+
+Diagram of a catalytic reaction, showing the energy needed at each stage of the reaction. The substrates (A and B) normally need a large amount of energy to reach the transition state, which then reacts to form the end product (AB). The enzyme creates a microenvironment in which A and B can reach the transition state more easily, reducing the amount of energy needed. Since the lower energy state is easier to reach and therefore occurs more frequently, as a result the reaction is more likely to take place, thus improving the reaction speed.
+
+[[Category:Bioinformatics/Images]]
+[[Category:Biochemistry/Images]]</text>
+      <sha1>fvwvd6ioiroljtt0z2bfmhfg0oc0wod</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>HyperText Markup Language</title>
+    <ns>0</ns>
+    <id>449</id>
+    <revision>
+      <id>2667352</id>
+      <parentid>2667314</parentid>
+      <timestamp>2014-05-29T15:59:03Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <comment>Rejected the last text change (by [[Special:Contributions/195.57.30.3|195.57.30.3]]) and restored revision 2667109 by Darklama</comment>
+      <text xml:space="preserve">This is a guide to HTML, a standard [[Subject:Markup languages|markup language]] for web pages. A text editor and a web browser is all you need to create web pages, view your handiwork, and share information with others all over the world.
+
+This book simply covers HTML syntax, not about how to make it dynamic—for that, see [[JavaScript]]. [[Cascading Style Sheets]], a way of giving style to the markup, is covered only briefly in this book. Additionally, [[XHTML]] has its own textbook.
+
+==Contents==
+{{print version}}
+{{wikiversity|Web design}}
+{{wikipedia|HTML|HTML element}}
+# [[/Introduction/]]
+# [[/Head and Body|Head and Body Elements]]
+# [[/Paragraphs and Headings|Paragraphs and Headings]]
+# [[/Text Formatting/]]
+# [[/Hyperlinks|Hyperlinks]]
+# [[/Images/]]
+# [[/Lists/]]
+# [[/Tables/]]
+# [[/Quotations/]]
+# [[/Comments/]]
+# [[/Forms/]]
+# [[/CSS/]]
+# [[/Validating HTML/]]
+# Proscribed Techniques
+## [[/Frames|Using Frames]]
+## [[/Layers|Using Layers]]
+## [[/Music|Adding Music To A Page]]
+# Browser extensions
+## [[/Conditional Comments/]]
+# Appendices
+## [[/Tag List|Alphabetical list of HTML 4.01/XHTML 1.0 elements]]
+## [[/Standard Attributes List/]]
+## [[/Index/]]
+## [[/Glossary/]]
+## [[/Links/]]
+## [[/To Do/]]
+
+==Other Wikibooks==
+*''[[Authoring Webpages]]''
+*''[[Cascading Style Sheets]]''
+*''[[JavaScript]]''
+*''[[Web Development]]''
+*''[[XHTML]]''
+
+{{Subjects|Markup languages}}
+{{alphabetical|H}}
+{{status|50%}}
+
+[[af:HTML]]
+[[ca:Llenguatge html]]
+[[cs:HTML]]
+[[da:Lær HTML]]
+[[de:Websiteentwicklung: XHTML]]
+[[et:HTML]]
+[[es:Lenguaje HTML]]
+[[fr:Le langage HTML]]
+[[gl:HTML]]
+[[is:HTML]]
+[[it:HTML]]
+[[he:HTML]]
+[[nl:HTML]]
+[[ja:HTML]]
+[[ka:HTML]]
+[[ms:Bahasa Penanda Hiperteks (HTML)]] 
+[[pl:HTML]]
+[[pt:Web para curiosos/A web do lado cliente/Linguagens de marcação/(X)HTML]]
+[[ru:HTML]]
+[[uk:HTML]]</text>
+      <sha1>dce5hcn2wdr65y69t7jl9escsh45o48</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Youssefsan</title>
+    <ns>2</ns>
+    <id>450</id>
+    <revision>
+      <id>2581095</id>
+      <parentid>2580808</parentid>
+      <timestamp>2013-11-12T21:02:24Z</timestamp>
+      <contributor>
+        <username>Youssefsan</username>
+        <id>58</id>
+      </contributor>
+      <minor />
+      <comment>/* Links (English) */</comment>
+      <text xml:space="preserve">Hi. I would like to start a book on [[Maltese]] (the language) with teaching material (dialogs, vocabulary, grammar) and some appendixes (grammar, books, web resources). I am not very familiar with Wikibooks. So any comments and suggestions are welcome. By the way, I was not sure what was the right subroom of the reading room where I could talk about this project. Regards.--[[User:Youssefsan|Oualmakran Youssef]] ([[User talk:Youssefsan|discuss]] • [[Special:Contributions/Youssefsan|contribs]]) 13:43, 10 November 2013 (UTC)
+
+----
+I am the same youssefsan as in English wikipedia, meta, fr wikipedia, wiktionary, etc.
+
+[[User:Youssefsan|Youssefsan]] 16:22 5 Aug 2003 (UTC)
+
+
+Bonjour ! Je suis Oualmakran Youssef.
+
+For more information,see
+http://fr.wikipedia.org/wiki/Utilisateur:Youssefsan
+
+==Links (English)==
+*[[German]] ;
+**[[German/Contents]]
+**[[German/Level I]]
+**[[German/Level I/Wie heißt du?]]
+
+*[[Spanish]].
+
+*[[Authoring Foreign Language Textbooks]]
+
+*[[European Union Law]]
+
+*[[Future]]
+
+*[[Python Programming]]
+
+*[[Wikibooks:Language Learning Difficulty for English Speakers]]
+
+==Tmp==
+
+*[[User:Youssefsan/tmp]]
+*[[User:Youssefsan/sandbox]]
+
+==Contributions==
+
+*[[cours d'allemand]] ;
+*[[cours d'espagnol]].
+
+==Liens==
+
+*http://wikibooks.org/wiki/MediaWiki:Cours_d_espagnol</text>
+      <sha1>sfjydyj9qcz1z3o5wjb1hiupdyblsvh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Dhum Dhum</title>
+    <ns>2</ns>
+    <id>453</id>
+    <revision>
+      <id>152606</id>
+      <timestamp>2003-08-05T20:14:36Z</timestamp>
+      <contributor>
+        <username>Dhum Dhum</username>
+        <id>59</id>
+      </contributor>
+      <comment>Hi, I'm the same as me</comment>
+      <text xml:space="preserve">Hi, I'm the same as [[w:User:Dhum Dhum|me]].</text>
+      <sha1>oq0mhgpf0gszeogxpyb0r5tzxi6plrf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:HyperText Markup Language</title>
+    <ns>1</ns>
+    <id>456</id>
+    <revision>
+      <id>2642994</id>
+      <parentid>2634517</parentid>
+      <timestamp>2014-04-28T05:09:16Z</timestamp>
+      <contributor>
+        <username>Ian Kelling</username>
+        <id>1319975</id>
+      </contributor>
+      <comment>/* Please fix: no page advancement links */ new section</comment>
+      <text xml:space="preserve">* {{todolink|HyperText Markup Language|todo-list of HyperText Markup Language}}
+==About==
+* Size: 11,300 words (Sep 2008)
+* Started: 5 August 2003
+* {{rc}}
+* {{subpages link}}
+* Headings case: Currently inconsistent, mixing ''sentence case'' (&quot;Heading title&quot;) with ''title case'' (&quot;Heading Title&quot;)
+
+== Book topic discussion ==
+
+It's a good idea to write a book about HTML (though it would be better about 
+web design and web building).
+
+However what has been written here seems to be all wrong! 
+First writing simple web pages is not programming at all. It is marking up
+content of the page. Writing a CSS stylesheet is not programming either.
+Using DOM and for example Javascript to produce DHTML effect can be called
+programming.
+
+So let's start all over again. First I think one should consider
+* audience
+* aim
+* scope
+* methodology to archieve the aim
+* multimedia to use in the book
+
+[[User:Kpjas|Kpjas]] 20:38 5 Aug 2003 (UTC)
+
+:Writing CSS can be called programming. The other day I had to come up with a cross-browser effect to add bullets to list items only on hover. This is easy enough using JavaScript and rollover images, but the cooler effect - and quicker loading - is to use &lt;code&gt;li {list-style-type: none;} a:hover li {list-style-type: disc;} a:hover {list-style-type: disc;}&lt;/code&gt;. Coming up with this code required using the same skills/thought processes as if I had done the same thing using JS and the DOM.
+
+:I think there should be a distinction between a markup language languages like HTML, programming languages like Java, C++ and scripting languages. HTML and CSS should not be categorized under Programming Languages as it would confuse those who are unfamiliar with what is a progamming language. Perhaps, we can make a book on WebDesign instead and clump HTML, CSS, etc under that instead of under Programming Languages. --[[User:Voed|VoeD]] 2 Nov 2003
+
+CSS is a markup language, and cannot be considered a programming language.  Markup may be used to generate interesting effects, but it remains markup.  The fact that programming languages can generate output similar to markup is irrelevant to its classification.
+
+--[[User:Eibwen|Eibwen]] 06:51, 25 Sep 2004 (UTC)
+
+I agree -- let's make one big book called something like &lt;del&gt;[[web design and web building]] or perhaps simply [[web building]].&lt;/del&gt;
+Then we can discuss the &quot;best practices&quot; in web building -- whether it's HTML, [[XHTML|Programming:XHTML]], [[XML - Managing Data Exchange/XHTML|XHTML (XML)]], [[CSS Programming|CSS]], [[XML]], DHTML (aka [[JavaScript]]), [[Programming Ajax|AJAX]], Flash ([[Macromedia Flash MX: Formtweening]] ?), [[RSS]], or something that none of heard of when we started the book, but now everyone is doing it.
+This lets us make recommendations -- if you want to ''start a blog'', we can immediately recommend a few free blog sites (and what features to look for in a blog site). Same for &quot;start a wiki&quot;. Or &quot;install a web server&quot;. Instead of making them wade through a bunch of irrelevant-to-them stuff about HTML tags, JavaScript, etc.
+[[Web advertising]]
+(This also makes it easier for us to add a couple of paragraphs about some new upcoming technology, then a few months later delete it if it's a flash in the pan, or else split it into it's own Wikibook if it catches on).
+--[[User:DavidCary|DavidCary]] 20:53, 6 Jun 2005 (UTC)
+
+Great, it looks like someone has already done this at [[Web Design]].
+--[[User:DavidCary|DavidCary]] 04:44, 29 October 2005 (UTC)
+
+== rollovers ==
+
+FIXME: move [[User:Voed|VoeD]]'s tip and the following links to a page in a wikibook (where?) that discusses rollovers.
+* http://www.alistapart.com/articles/taminglists/
+* http://css.maxdesign.com.au/listamatic/index.htm
+
+== examples ==
+
+:Can't we upload HTML files and link to them with &lt;nowiki&gt;[[media:]]&lt;/nowiki&gt; links? --[[User:Geoffrey|Geoffrey]] 03:48 7 Aug 2003 (UTC)
+
+
+== browser-specific information / recommendations ==
+Should a Free book recommend using Internet explorer, especially considering that it is about 3 years behind the state of the art in web browsers? [[w:User:Arvindn|Arvindn]]
+
+:Fixed -- [[User:Paddu|Paddu]] 12:13, 19 Dec 2003 (UTC)
+
+Moreover, should any particular browser be recommended at all?  Aside from the most standards complaint browser (I believe it's Mozilla Firefox), any browser recommedations are purely subjective.  However, the point should be made that different browsers render markup differently and several sections of the specification state that the browser itself is to govern the appearance of a particular &quot;widget&quot; (not all browsers conform to the specifications).
+
+--[[User:Eibwen|Eibwen]] 06:51, 25 Sep 2004 (UTC)
+
+== Help provided in Article Introduction ==
+
+I started working on this this morning.  So far I've just copied the intoductory information from the HTML article in the Wikipedia to the introduction in this article, made sense and the text was already linked.  I guess I should read up on how to link articles.  Just thought I'd pitch in.
+
+== HTML vs XHTML ==
+
+The HTML img tag syntax page uses the XHTML example.  While modern browsers may be able to parse &quot;self-closing&quot; tags (eg &amp;lt;img /&amp;gt;, it is not proper HTML (whether such pages validate as HTML is another matter entirely, albeit an interesting one).  This is probably prevalent throughout the site.
+
+[http://w3.org/TR/html401 World Wide Web Consortium HTML 4.01 Specification]
+
+--[[User:Eibwen|Eibwen]] 06:51, 25 Sep 2004 (UTC)
+
+: I'd guess that it's perfectly valid (at least if the W3C recommendation to put a space before the slash is followed) - the W3C recommend it, and HTML has always been supposed to degrade gracefully. On this subject, though, the examples in the text aren't valid HTML at all! There's no doctype. Perhaps this would be a bit much to throw at beginners, so I'd recommend a piecewise approach to building up the HTML covered: HTML tags, HEAD and BODY tags, content, and then the doctype.
+: - [[User:Perey|Perey]] 18:27, 25 Sep 2004 (UTC)
+
+::It's not recommended ''per se'', it's recommended as the best solution to a transition style, i.e. when the page is intended to be transferred into XHTML at a future point without requiring a major rewrite.
+::The closing slash on empty elements can lead to confusion in some browsers strictly following the SGML specifications (according to which, if I remember correctly, the syntax &lt;nowiki&gt;&lt;img src=&quot;...&quot; /&gt; and &lt;img src=&quot;...&quot; &gt;/&lt;/nowiki&gt; are identical), which will render the slash as if placed after the element tag, not within it, other browsers' rendering might break (probably not an issue with 21st century generations of browsers) and in the case of elements requiring a closing tag as per HTML 4.01, this may lead to the tag being treated as an opening tag that is never closed (or treated as automatically closed at the end of its containing element).
+::It's litterally a Best Current Practice for this specific purpose, but not for HTML 4.01 in general.
+::Well-formdness, validity (i.e. full HTML 4.01 Strict compliance -- the Transitional doctype is intended to be a transitional aid for people used to HTML 3.2 or garden shed markup) and semantic markup should be a key goal of this book if it shouldn't end up being worth no more than any of the random &quot;HTML 4&quot; books on the market since the 1990s, but this is still a book about clean HTML 4.01 (if more versions should be covered, please keep them seperate), not wannabe-XHTML. -- [[w:User:Ashmodai|Ashmodai]] 00:18, 20 November 2005 (UTC)
+
+== bold and italic vs. strong and emphasis ==
+
+Bold and italic are &quot;discouraged&quot; by W3 [http://www.w3.org/TR/html401/present/graphics.html#h-15.2].
+
+I'm going to replace with &amp;lt;em&amp;gt; and &amp;lt;strong&amp;gt;.
+--[[User:DavidCary|DavidCary]] 20:53, 6 Jun 2005 (UTC)
+
+
+== borders and getting rid of them ==
+
+Many web browsers display something like
+
+    &lt;A href=&quot;/index.html&quot;
+    &lt;IMG SRC=&quot;logo.png&quot; 
+    ALT=&quot;&quot;&gt;&lt;/A&gt;
+
+with a thick blue rectangle around the image.
+
+To get rid of that blue rectangle, many people
+add
+    border=&quot;0&quot;
+something like this:
+
+    &lt;A href=&quot;/index.html&quot;
+    &lt;IMG SRC=&quot;logo.png&quot; 
+    border=&quot;0&quot; ALT=&quot;&quot;&gt;&lt;/A&gt;
+
+(For example, as of 2005 the Google Search Bar at
+Google
+http://www.google.com/searchcode.html
+still used
+    border=&quot;0&quot;
+.
+)
+
+However,
+http://www.w3.org/TR/REC-html40/struct/objects.html#h-13.7.3
+informs us that the &quot;border&quot; attribute is ''deprecated''.
+
+The modern way to get the same effect is with CSS.
+Leave the HTML as simply
+    &lt;A href=&quot;/index.html&quot;
+    &lt;IMG SRC=&quot;logo.png&quot; 
+    ALT=&quot;&quot;&gt;&lt;/A&gt;
+.
+Add something like this to the head of your HTML file,
+then *all* images will (by default) have no border.
+
+    &lt;STYLE type=&quot;text/css&quot;&gt;
+    img {
+        border-style: none;
+    }
+    &lt;/STYLE&gt;
+
+(one could get basically the same effect with any of:
+
+* border-style: none;
+* border-color: transparent;
+* border-width: 0;
+
+)
+
+
+
+--[[User:DavidCary|DavidCary]] 01:32, 5 August 2005 (UTC)
+
+
+== discussion ==
+
+Technically HTML is a &lt;i&gt;markup language&lt;/i&gt; and JavaScript is a &lt;i&gt;scripting language&lt;/i&gt;. Compiled languages like C++ and Java are programming languages. --CarbonUnit
+
+::I agree that HTML isn't a &quot;programming language&quot;. Let's move it from &quot;Programming:HTML&quot; to somewhere in the [[Web Design]] book. --[[User:DavidCary|DavidCary]] 16:20, 14 December 2005 (UTC)
+
+:Is anyone still working on this?  I'd love to help.  I'm a bit inexperienced as far as anything Wiki is concerned, but I'm a quick learner.  --[[User:Twistofreality|twistofreality]] 21:07, 16 August 2005 (UTC)
+
+I have some ideas that I think would be productive, but, being new to Wikibooks as I am, I'm hesitant to start editing things without support from previous contributors.  I taught myself HTML, Javascript, and Cascading Style Sheets six years ago using nothing but online tutorials, so I believe that I have a rough idea of what someone who has never attempted to build a web page is looking for in a reference guide and textbook.  For instance:
+
+&lt;ul&gt;
+&lt;li&gt;
+The easiest approach for a beginner's module may be to write the text with a specific browser in mind (I learned on Internet Explorer, but Safari and Firefox are both gaining popularity).  Later discussions in an intermediate or advanced module could stress cross-browser design and standards compliance.
+&lt;/li&gt;
+&lt;li&gt;
+The language and structure may need to be improved to appeal to individuals who have little to no experience with web design or computers in general.  With personal computing becoming so wide-spread, many people who are barely interested in why or how their computers work are interested in building web pages for various reasons.  Many will resort to WYSIWYG editors that produce awful code, but many will strive to learn the languages for themselves, as I did.  Some examples of modifications to consider are:
+&lt;ol&gt;
+&lt;li&gt;
+The descriptions of the elements of the &quot;simple document.&quot;  They seem a bit convoluted and may scare of novices.
+&lt;/li&gt;
+&lt;li&gt;
+The submodules' titles.  They may seem to contain jargon for those not &quot;in the know.&quot;  Is it safe to assume that someone unfamiliar with HTML is going to know what a form, table, layer, or frame is?
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+Few people want to learn HTML solely; rather, people who seek out knowledge of HTML often want to design a web page, which can encompass several different languages and design methodologies.  A concerted effort should be made to make beginning, intermediate, and advanced information on JavaScript and CSS more readily available from the HTML modules where appropriate.  Efforts should also be made to standardize the layout and content struction of all web-design related modules to ensure ease of use.
+&lt;/li&gt;
+&lt;li&gt;
+Finally, consideration should be made for the development of exercises, the results of which could be displayed as screen shots within the module.  In my opinion, reading about any programming/markup language is boring; being able to utilize techniques and see an actual product shortly after a concept is introduced and discussed will almost certainly promote comprehension.
+&lt;/li&gt;
+&lt;/ul&gt;
+
+Any feedback would be greatly appreciated.  --[[User:Twistofreality|twistofreality]] 02:37, 19 August 2005 (UTC)
+
+:As this is a HTML book, it should only cover HTML. Strict HTML 4.01 as per its Specification does not have any strictly presentational features. Cross-browser compliance is therefore not an issue unless the behavior of the elements strongly varies across mainstream browsers (abbr and acronym for example don't behave identically in MSIE). The primary scope of this book should be semantic markup, rather than presentation, so concepts like the difference between lists, the hierarchy of headers and the like should be described in-depth and tables should not be described as presentational tools (while they can be (ab)used in that way without strictly violating the Specs, there are other means to achieve a tabular layout in CSS-compliant browsers and as the modern W3C chant goes: HTML is not a presentational language) and be described in their entirety (tables in HTML have lots of features, so don't just stick to the good old table-&gt;tr-&gt;td model). And don't you dare leaving all the things that can and should go in the head element out -- just because not many browsers take note of the link element (other than for stylesheets) doesn't mean it should be taught -- although it should not be the primary focus.
+:Since HTML and CSS work hand-in-hand, this relation should be described in one of the later chapters. Stylesheets, alternate stylesheets, classes and IDs need to be explained (an ID is more than a unique class anyway), although this book should not explain CSS syntax and functionality in full detail, that's what the CSS book is for. -- [[w:User:Ashmodai|Ashmodai]] 00:31, 20 November 2005 (UTC)
+
+::I'm new to the Markup Languages, and I think it is a good idea to separate all those languages in three sorts of languages: Markup Languages, Scripting Languages and Programming Languages. 
+::I hope that the writers of the lessons will emphasize the abilities with using each language. 
+::Suppose that an absolute beginner decided to lean programming, an he visited this article in Wikipedia. I guess he will start with the html to learn programming, wich is not wise from him, since he will never bring any application to existence with language. This is also the same case of JavaScript. Although this last language is something stronger than the html/ xhtml or CSS. I don't believe people can make any application with it. The other &lt;font color=&quot;red&quot;&gt;&lt;b&gt;point&lt;/b&gt;&lt;/font&gt; is that it is often unclear to understand the use/abilities of the scripts if the author, wouldn't make it clear. As example I learnt some basics of JavaScript but i can hardly know what i can do with it.[[User:Htmlb|Htmlb]] 16:36, 3 February 2006 (UTC) 
+
+==Thank you!==
+I am new to HTML and website building.  I liked going through the chapter on making tables.  It helped with the basic concepts and how to read html markup in general.  I appreciate the time and effort put into this work.  Thanks again. 8-19-05
+
+== Adding Music to a Page ==
+
+If most browsers prefer the Object element, why doesn't the page teach that to the user? Why doesn't the page teach the user how to add music to the page using the object element? As you see, there really is no reason to put this under &quot;Techniques that shouldn't be used&quot; when there is a valid way that should be used to add music! Catch my drift?
+
+[user:VenomousNinja]
+
+== Frontpage ==
+
+No offense, but Frontpage is horrid. It should -not- be suggested for any beginner. It adds bits of unnecessary text that make learning from it nearly impossible, and editing it worse.
+
+I totally agree, what I do is type the html source in notepad and save it as a .html document rather than a .txt, try it out. Also, a free html editor (open source) is out there. I use it sometimes, it is okay. It is called Nvu. Another one called Notpad++ is excellent too. These two are used if you want the syntax highlighted when you are editing. --[[User:Grich|Grich]] 01:15, 2 March 2007 (UTC)
+
+== If and when it is merged... ==
+The title should be considered, as HTML is not programming, but a markup language as noted by others.
+
+== Link to a download  ==
+
+Is there a way to have a link bring up a 'Save as...' box by default rather than try opening the linked to file inside the browser. More specifically, I have a long lecture on my site that opens in visitors' browsers rather than offering to be downloaded. I know visitors can right-click on the link to get a 'Save as...' box, but I would rather 'Save as...' be the default action whenever the link is clicked.
+
+Yeah, this is when you get into a Server lngauge called PHP. Were you can let a user download a file. Look it up on the wikibooks. I don't know any other way. Sorry. --[[User:Grich|Grich]] 09:04, 22 March 2007 (UTC)
+
+== Title: HTML Programming? ==
+
+HTML isn't a programming language. It's a markup language. I don't think you can consider it programming any more than the very wiki markup on this page.  Shouldn't it be called HTML formatting rather? --[[User:Jocke pirat|Jocke pirat]] 02:55, 2 March 2007 (UTC)
+
+: Well, its an important part of programming. The XML format is used alot in programming. Within HTML, you can incorporate JAVASCRIPT and PHP. It should be classed amoungst Programming and Web Developement. --[[User:Grich|Grich]] 09:08, 22 March 2007 (UTC)
+
+: '''Support renaming.''' A &quot;HTML Programming&quot; book would actually need to be a book about [[JavaScript]], for which we already have one. That XML, of which XHTML is just a species, can be used for all kinds of things around the world including programming has no bearing on whether HTML is a programming language or has to do with programming. That said, HTML indeed needs to be marked up or encoded. Proposals: &quot;Marking up HTML&quot;, &quot;Mastering HTML&quot;, &quot;HTML Guide&quot;, &quot;A Guide to HTML&quot;. I am uncertain about articles: &quot;the&quot;, &quot;a&quot;. --[[User:Dan Polansky|Dan Polansky]] ([[User talk:Dan Polansky|talk]]) 13:37, 12 September 2008 (UTC)
+
+== Merger ==
+
+I don't think it's a good idea to merge HTML with CSS and XHTML with XML. It's best to learn XHTML first and then move to CSS and/or XML. It doesn't make any sense to learn XML first. Or to learn CSS and HTML at the same time. --[[User:S.Örvarr.S|Stefán Örvarr Sigmundsson]] 00:24, 18 September 2007 (UTC)
+
+: Yes. I agree that we should cover the preliminary stuff in the earlier chapters of a book, and the dependent stuff in the later chapters of the same book, rather than trying to cover everything in the first chapter. --[[User:DavidCary|DavidCary]] ([[User talk:DavidCary|talk]]) 14:25, 11 August 2008 (UTC)
+
+The article you wish to place is a redirect to a non-existent article, so there is no point.
+-- anonymous
+
+: Huh? --[[User:DavidCary|DavidCary]] ([[User talk:DavidCary|talk]]) 14:25, 11 August 2008 (UTC)
+
+I suggest merging [[HTML]] into [[HTML Programming]].
+
+Although, as I've said earlier, I think &quot;HTML Programming&quot; is not a very good name.
+Is it too late to rename this whole book to [[Web Design]]?
+--[[User:DavidCary|DavidCary]] ([[User talk:DavidCary|talk]]) 14:25, 11 August 2008 (UTC)
+
+: '''Title.''' AFAIK, the subject of web design goes far beyond HTML, being related to book design, to the choice of colors, fonts, including type faces and display faces, various layouts of pages, the software tools supporting the process, and the like. In contrast to this, this book so far has been a mixture of a reference and a user guide to HTML, the specific mark up language. Web design would need to encompass CSS, on which there is a standalone book: [[Cascading Style Sheets]]. --[[User:Dan Polansky|Dan Polansky]] ([[User talk:Dan Polansky|talk]]) 14:34, 12 September 2008 (UTC)
+
+== Conditional comments ==
+
+There has been a recent attempt to remove the chapter [[HyperText Markup Language/Conditional Comments|Conditional Comments]], per it's not being part of the standard HTML. I think the book should better document all that there is, even if supported only by certain browsers. How else are the readers going to find out about such comments when they see them in HTML? --[[User:Dan Polansky|Dan Polansky]] ([[User talk:Dan Polansky|talk]]) 13:04, 9 March 2009 (UTC)
+
+== Please fix: no page advancement links ==
+
+The only way to move to the next section is to go back to the contents and click on the next section. This is not the case with other books on wikibooks, which have a link to the next section on the top right of the page.</text>
+      <sha1>3pdbtq9ptoy2p2dbg7f9ce33b7mwwas</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>World History/Florida Instructional Materials Specifications</title>
+    <ns>0</ns>
+    <id>458</id>
+    <revision>
+      <id>1110147</id>
+      <parentid>964164</parentid>
+      <timestamp>2008-02-11T06:15:00Z</timestamp>
+      <contributor>
+        <username>Neoptolemus</username>
+        <id>77154</id>
+      </contributor>
+      <minor />
+      <comment>[[World History Project/Florida Instructional Materials Specifications]] moved to [[World History/Florida Instructional Materials Specifications]]</comment>
+      <text xml:space="preserve">Relevant bits snipped from:
+[http://www.firn.edu/doe/instmat/pdf/social_studies.pdf a huge pdf file]
+
+M/J World History
+
+A. Major Concepts/Content. The purpose of this course is to enable students to understand the development of the world community within the context of history by examining their connections to the past to prepare for the future as participating members of a global society. Students will use knowledge of history, geography, economics, political processes, religion, ethics, diverse cultures, and humanities to solve problems in academic, civic, social, and employment settings. The content must include, but not be limited to, the following:
+
+-development of civilizations in historical and geographical settings
+
+-individuals and events that have significantly influenced culture and history
+
+-major political, economic, social, and religious beliefs and institutions of selected Eastern and Western cultures 
+
+This course must integrate the Goal 3 Student Performance Standards of the Florida System of School Improvement and Accountability as appropriate to the content and processes of the subject 
+matter.
+
+After successfully completing this course, the student will:
+
+1. Demonstrate understanding of how significant experiences of the past shape contemporary civilizations.
+
+SS.A.2.3.1 understand how language, ideas, and institutions of one culture can influence other cultures (e.g., through trade, exploration, and immigration).
+
+SS.A.2.3.2 know how major historical developments have had an impact on the development of civilizations.
+
+SS.A.2.3.7 know significant achievements in art and architecture invarious urban areas and communities to the time of the Renaissance (e.g., the Hanging Gardens of Babylon, pyramids in Egypt, temples in ancient Greece, bridges and aqueducts in ancient Rome, changes in European art and architecture between the Middle Ages and the High Renaissance).
+
+SS.A.3.3.1 understand ways in which cultural characteristics have been transmitted from one society to another (e.g., through art, architecture, language, other artifacts, traditions, beliefs, values, and behaviors).
+
+SS.A.3.3.2 understand the historical events that have shaped the development of cultures throughout the world.
+
+2. Demonstrate understanding of the impact of physical and cultural geography on the development of civilizations.
+
+SS.A.2.3.4 understand the impact of geographical factors on the historical development of civilizations.
+
+SS.A.2.3.6 know the major events that shaped the development of various cultures (e.g., the spread of agrarian societies, population movements, technological and cultural innovation, and the emergence of new population centers).
+
+SS.A.3.3.3 know how physical and human geographic factors have influenced major historical events and movements.
+
+SS.B.1.3.5 know ways in which the spatial organization of a society changes over time.
+
+SS.B.2.3.2 know the human and physical characteristics of different places in the world and how these characteristics change over time.
+
+3. Demonstrate understanding of the impact of significant people, places, ideas, and events on the development of values, traditions, and social, economic, and political institutions in selected Eastern and Western civilizations.
+
+SS.A.2.3.5 know significant historical leaders who shaped the development of early cultures (e.g., military, political, and religious leaders in various civilizations).
+
+SS.A.2.3.8 know the political, social, and economic institutions that characterized the significant aspects of Eastern and Western civilizations.
+SS.A.3.3.4 know significant historical leaders who have influenced the course of events in Eastern and Western civilizations since the Renaissance.
+
+4. Demonstrate understanding of current and historic events in relation to the experiences, contributions, and perspectives of diverse cultural and ethnic groups, such as Africans, slavery, and the Holocaust.
+
+SS.A.2.3.6 know the major events that shaped the development of various cultures (e.g., the spread of agrarian societies, population movements, technological and cultural innovation, and the emergence of new population centers).
+
+5. Demonstrate understanding of the processes used to create and interpret history.
+
+SS.A.1.3.1 understand how patterns, chronology, sequencing (including cause and effect), and the identification of historical periods are influenced by frames of reference.
+
+SS.A.1.3.2 know the relative value of primary and secondary sources and use this information to draw conclusions from historical sources such as data in charts, tables, graphs.
+
+SS.A.1.3.3 know how to impose temporal structure on historical narratives.
+
+6. Demonstrate understanding of the interactions among science, technology, and society within the context of World history.
+
+SS.A.2.3.3 understand important technological developments and how they influenced human society.
+
+SS.B.1.3.4 understand how factors such as culture and technology influence the perception of places and regions.
+
+7. Apply research, study, critical-thinking, and decision-making skills and demonstrate the use of new and emerging technology in problem solving.
+
+SS.B.1.3.1 use various map forms (including thematic maps) and other geographic representations, tools, and technologies to acquire, process, and report geographic information including patterns of land use, connections between places, and patterns and processes of migration and diffusion.
+
+SS.B.1.3.2 use mental maps to organize information about people, places, and environments. (Note: In this course, students will have opportunities to apply skills described in language arts and mathematics benchmarks that pertain to this requirement.)
+
+
+
+{{BookCat}}</text>
+      <sha1>84hpiqjzyujfpai9yxbwwlbsp0nm26f</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>World History/Florida Course Description</title>
+    <ns>0</ns>
+    <id>459</id>
+    <revision>
+      <id>1110143</id>
+      <parentid>964163</parentid>
+      <timestamp>2008-02-11T06:14:26Z</timestamp>
+      <contributor>
+        <username>Neoptolemus</username>
+        <id>77154</id>
+      </contributor>
+      <minor />
+      <comment>[[World History Project/Florida Course Description]] moved to [[World History/Florida Course Description]]</comment>
+      <text xml:space="preserve">This is snipped from
+[http://www.firn.edu/doe/curriculum/crscode/basic612/912/ss912/2109310.pdf a short pdf document]
+----
+
+''Page 1 2 
+1998 Florida Department of Education
+
+COURSE DESCRIPTION GRADES 9 12 ADULT Subject Area Social Studies 
+Course Number 2109310 
+Course Title World History 
+Credit 1.0 
+Will meet graduation requirement for World History
+
+*'''A Major Concepts Content''' The purpose of this course is to enable students to understand their connections to the development of civilizations by examining the past to prepare for their future as participating members of a global community Students will use knowledge pertaining to history geography economics political processes religion ethics diverse cultures and humanities to solve problems in academic civic social and employment settings
+
+The content should include but not be limited to the following time space relationships prehistory rise of civilization cultural universals development of religion and the impact of religious thought evolution of political systems and philosophies interactions between science and society development of nationalism as a global phenomenon origin and course of economic systems and philosophies influence of significant historical figures and events contemporary world affairs
+
+This course shall integrate the Goal 3 Student Performance Standards of the Florida System of School Improvement and Accountability as appropriate to the content and processes of the subject matter
+
+*'''B Special Note''' Students earning credit in this course may not earn credit in World History Honors 2109320 or Eastern and Western Heritage 2100370 1�
+''1 Page 2 3
+Course Number 2109310 World History Page 2 of 4''
+
+*'''C Course Requirements''' These requirements include but are not limited to the benchmarks from the Sunshine State Standards that are most relevant to this course
+
+Benchmarks correlated with a specific course requirement may also be addressed by other course requirements as appropriate
+
+After successfully completing this course the student will 
+*1 Demonstrate understanding of the influence of physical and cultural geography on the development of civilizations and nation states 
+**SS A 2.4.1 understand the early physical and cultural development of humans 
+**SS A 2.4.2 understand the rise of early civilizations and the spread of agriculture in Mesopotamia Egypt and the Indus Valley 
+**SS A 2.4.3 understand the emergence of civilization in China Southwest Asia and the Mediterranean basin 
+**SS B 2.4.1 understand how social cultural economic and environmental factors contribute to the dynamic nature of regions 
+**SS B 2.4.2 understand past and present trends in human migration and cultural interaction and their impact on physical and human systems 
+**SS B 2.4.3 understand how the allocation of control of the Earth's surface affects interactions between people in different regions 
+**SS B 2.4.4 understand the global impacts of human changes in the physical environment
+**SS B 2.4.5 know how humans overcome limits to growth imposed by physical systems 
+**SS B 2.4.6 understand the relationships between resources and the exploration colonization and settlement of different regions of the world 
+**SS B 2.4.7 understand the concept of sustainable development
+
+*2 Demonstrate understanding of the impact of significant people ideas and events on the development of values traditions and social economic and political institutions of civilizations and nation states
+**SS A 2.4.4 understand significant aspects of the economic political and social systems of ancient Greece and the cultural contributions of that civilization 2�
+''2 Page 3 4
+Course Number 2109310 World History Page 3 of 4 ''
+
+**SS A 2.4.6 understand features of the theological and cultural conflict between the Muslim world and Christendom and the resulting religious political and economic competition in the Mediterranean region
+**SS A 2.4.7 understand the development of the political social economic and religious systems of European civilization during the Middle Ages 
+**SS A 3.4.5 understand the significant scientific and social changes from the Age of Reason through the Age of Enlightenment
+**SS A 3.4.6 understand transformations in the political and social realms from the Age of Absolutism through the Glorious Revolution to the French Revolution 
+**SS A 3.4.7 understand significant political developments in Europe in the 19th century
+**SS A 3.4.8 understand the effects of the Industrial Revolution 
+**SS A 3.4.9 analyze major historical events of the first half of the 20th century
+**SS A 3.4.10 understand the political military and economic events since the 1950s that have had a significant impact on international relations 
+**SS C 1.4.1 understand the nature of political authority and the nature of the relationship between government and civil society inlimited governments e g constitutional democracies and unlimited governments e g totalitarian regimes
+**SS D 2.4.6 understand factors that have led to increased international interdependence and basic concepts associated with trade between nations
+
+*3 Demonstrate understanding of current and historic events in relation to the experiences contributions and perspectives of diverse cultural and ethnic groups including African Americans and the Holocaust 
+**SS A 2.4.5 understand the significant features of the political economic and social systems of ancient Rome and the cultural legacy of that civilization 
+**SS A 2.4.8 understand cultural religious political and technological developments of civilizations in Asia and Africa
+**SS A 2.4.9 understand significant social cultural and religious features of India and India's conflict with the Moslem Turks 
+**SS A 2.4.10 understand significant cultural religious and economic features of civilizations in Mesoamerica and Andean South America 
+**SS A 2.4.11 understand political and cultural features of the Mongol Empire and the Empire's impact on Eurasian peoples 3�
+''3 Page 4
+Course Number 2109310 World History Page 4 of 4''
+
+**SS A 3.4.1 understand the significant political and economic transformations and significant cultural and scientific events in Europe during the Renaissance 
+**SS A 3.4.2 understand significant religious and societal issues from the Renaissance through the Reformation
+**SS A 3.4.3 understand the significant economic political and cultural interactions among the peoples of Africa Europe Asia and the Americas during the Age of Discovery and the European Expansion
+**SS A 3.4.4 know the significant ideas and texts of Buddhism, Christianity, Hinduism, Islam and Judaism their spheres of influence in the age of expansion and their reforms in the 19th century
+
+*4 Demonstrate understanding of the processes used to create and interpret history 
+**SS A 1.4.1 understand how ideas and beliefs decisions and chance events have been used in the process of writing and interpreting history
+**SS A 1.4.4 use chronology sequencing patterns and periodization to examine interpretations of an event
+
+*5 Demonstrate understanding of the interactions among science technology and society within global historical contexts 
+**SS A 1.4.2 identify and understand themes in history that cross scientific economic and cultural boundaries 
+**SS B 1.4.4 understand how cultural and technological characteristics can link or divide regions
+
+*6 Apply research study critical thinking and decision making skills and demonstrate the use of new and emerging technology in problem solving 
+**SS A 1.4.3 evaluate conflicting sources and materials in the interpretation of a historical event or episode
+**SS B 1.4.1 use a variety of maps geographic technologies including geographic information systems GIS and satellite produced imagery and other advanced graphic representations to depict geographic problems
+**SS B 1.4.2 understand the advantages and disadvantages of using maps from different sources and different points of view ''Note'' In this course students will have opportunities to apply skills described in language arts and mathematics benchmarks that pertain to this requirement
+
+
+
+{{BookCat}}</text>
+      <sha1>q7g3fxc43t0p81jqd7i3mlxckrfg8nv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>World History/California Content Standard</title>
+    <ns>0</ns>
+    <id>460</id>
+    <revision>
+      <id>1110139</id>
+      <parentid>964161</parentid>
+      <timestamp>2008-02-11T06:14:11Z</timestamp>
+      <contributor>
+        <username>Neoptolemus</username>
+        <id>77154</id>
+      </contributor>
+      <minor />
+      <comment>[[World History Project/California Content Standard]] moved to [[World History/California Content Standard]]</comment>
+      <text xml:space="preserve">http://www.cde.ca.gov/re/pn/fd/documents/hist-social-sci-frame.pdf
+
+http://www.cde.ca.gov/be/st/ss/hstgrades9through12.asp
+
+
+
+{{BookCat}}</text>
+      <sha1>dkeovdjfkapbnbtc5wr6bd41dyy8z4f</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Welcome</title>
+    <ns>4</ns>
+    <id>461</id>
+    <revision>
+      <id>2695818</id>
+      <parentid>2685853</parentid>
+      <timestamp>2014-08-30T13:21:43Z</timestamp>
+      <contributor>
+        <username>Good afternoon</username>
+        <id>1532499</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">[[File:Wikibooks-logo-en.svg|180px|right|link=]]
+
+'''Wikibooks''' is a [[m:Wikimedia Foundation|Wikimedia]] project for collaboratively writing [[w:open content|open-content]] [[Wikibooks:What is Wikibooks|textbooks]] that anyone, including ''you'', can edit right now by clicking on the ''edit'' link that appears near the top of each Wikibooks page. Wikibooks has two sub-projects; ''[[Wikibooks:What is Wikijunior|Wikijunior]]'' which is aimed at children and the ''[[Cookbook:Table of Contents|Cookbook]]'' which is our collection of recipes and culinary topics.  Contributors maintain the property rights to their contributions, while the [[Wikibooks:Creative Commons Attribution-ShareAlike 3.0 Unported License|Creative Commons Attribution-ShareAlike License]] and the [[Wikibooks:GNU Free Documentation License|GNU Free Documentation License]] makes sure that the submitted version and its derivative works will always remain freely distributable and reproducible. See [[Wikibooks:Copyrights]] for more information. Wikibooks went online on 10 July 2003. 
+
+Feel free to browse around our growing number of steadily improving books and be sure to check out our collection of [[Wikibooks:Featured books|featured books]].
+
+Wikibooks is very much a community effort, so feel free to improve or add to the existing content, start new books, and join project-related discussions in the [[Wikibooks:Reading room|Wikibooks reading rooms]].
+{{clear}}{{Wikibooks help}}
+
+== General Information ==
+* [[Wikibooks:What is Wikibooks|What is Wikibooks?]] - what Wikibooks includes, and what it does not include.
+* [[Help:Wikibooks for Wikimedians|Wikibooks for Wikimedians]] - for those coming from other Wikimedia projects.
+* [[Wikibooks:Guidelines for class projects|Guidelines for class projects]] - for creating structured production of textbooks by educational institutions.
+* [[Wikibooks:Policies and guidelines|Policies and guidelines]] - requirements and conventions developed by the community.
+
+== Find a Book ==
+There are many ways to find a book at Wikibooks. Try [[WB:SEARCH|searching]] for it or browse through our catalog systems:
+{{browsebar}}
+
+== Quick-Start Guides ==
+To quickly get up to speed on using Wikibooks, you should head over to the [[Help:Contents]] page.
+
+Seeing how we're a community to foster the authoring of books, Wikibookians have written books that may help you in participating in the project:
+* [[Using Wikibooks]]
+* [[Editing Wikitext]]
+
+== Getting in touch ==
+* [[Wikibooks:Reading room|Reading room]], a forum to ask questions not answered in the [[Help:FAQ|FAQs]] or [[Help:Contents|help pages]].
+* [[Wikibooks:Contact us#IRC|IRC channels]] - the fastest way to contact other Wikibookians
+* [[Wikibooks:Contact us#Mailing Lists|Wikibooks mailing lists]]
+* [[Wikibooks:Reading room/Bulletin Board|Bulletin board]] The place to look for news
+
+== Other Wikimedia projects ==
+*[[commons:|Commons]], a free-content media repository. (See [[w:Wikimedia Commons|Wikimedia Commons]] for background)
+*[[n:|Wikinews]], a free-content news source.  (See [[w:Wikinews|Wikinews]] for background)
+*[[w:|Wikipedia]], an encyclopedia with supporting almanac-like information. (See [[w:Wikipedia|Wikipedia]] for background)
+*[[wikt:|Wiktionary]], a dictionary and thesaurus. (See [[w:Wiktionary|Wiktionary]] for background)
+*[[q:|Wikiquote]], a collection of quotations. (See [[w:Wikiquote|Wikiquote]] for background)
+*[[s:|Wikisource]], a collection of free source documents. (See [[w:Wikisource|Wikisource]] for background)
+*[[v:|Wikiversity]], a collection of free learning tools.  (See [[w:Wikiversity|Wikiversity]] for background)
+*[[species:|Wikispecies]], a free and open directory of all other forms of life.
+*[[voy:|Wikivoyage]], a diverse set of travel guides.
+
+== See also ==
+* [http://www.wikibooks.org Wikibooks Portal] for a list of Wikibooks in other languages.
+__NOTOC__ __NOEDITSECTION__
+[[Category:Wikibooks|{{PAGENAME}}]]
+
+[[da:Wikibooks:Velkommen nybegynder]]
+[[de:Hilfe:Willkommen]]
+[[es:Wikilibros:Bienvenida]]
+[[fr:Wikilivres:Bienvenue]]
+[[fa:راهنما:درباره ویکی‌کتاب]]
+[[hy:Վիքիգրքեր:Բարի գալուստ]]
+[[it:Aiuto:Benvenuto]]
+[[ja:Wikibooks:ウィキブックスへようこそ]]
+[[ko:위키책:소개]]
+[[ms:Wikibooks:Selamat datang pengguna baru]]
+[[nl:Wikibooks:Welkom]]
+[[pl:Wikibooks:Witamy nowicjuszy]]
+[[pt:Wikibooks:Bem-vindos, novatos!]]
+[[ru:Викиучебник:Введение]]
+[[vi:Wikibooks:Chào mừng người mới đến]]</text>
+      <sha1>4i5f74qv70l2b2y7z5bc5jrdmkro5qp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Jimbo Wales</title>
+    <ns>3</ns>
+    <id>462</id>
+    <revision>
+      <id>2077531</id>
+      <parentid>2012698</parentid>
+      <timestamp>2011-04-02T00:04:59Z</timestamp>
+      <contributor>
+        <username>Whoop whoop pull up</username>
+        <id>398123</id>
+      </contributor>
+      <comment>/* World History */ new section</comment>
+      <text xml:space="preserve">Leave messages for me here:
+
+[[w:User talk:Jimbo Wales|en talk page]]
+
+== Message at en.wiki ==
+Well, just in case you don't see, I left a message at WP.--[[User:Lord Voldemort|&lt;font color=&quot;purple&quot;&gt;LV&lt;/font&gt;]] &lt;sup&gt;&lt;font color=&quot;#3D9140&quot;&gt;[[User talk:Lord Voldemort|(Dark Mark)]]&lt;/font&gt;&lt;/sup&gt; 16:50, 14 November 2005 (UTC)
+== Deleting modules ==
+* [[Jokebook]] &amp;mdash; [[Special:Allpages/Jokebook]] 
+* [[Getting a date]] &amp;mdash; [[Special:Allpages/Getting a date]] [[Special:Allpages/Getting a girl]] [[Special:Allpages/Getting a guy]] 
+Please delete the modules that you want to delete ''properly''.  Deleting only the cover pages isn't enough.  Moreover, if you are waiting around ''solely'' in order to provide time for people to copy the content, don't.  If anyone has a GFDL wiki that they want the content transwikified to in the future, I can temporarily undelete the modules, transwikify them, and re-delete them. [[User:Uncle G|Uncle G]] 16:16, 25 November 2005 (UTC)
+
+Actually I wanted to just delete the front page for now, I don't want to cause too much trouble for anyone.  Yes, the temporary undeletion thing could be done, but I'd hate to have you have to go to all that trouble.--[[User:Jimbo Wales|Jimbo Wales]] 16:54, 25 November 2005 (UTC)
+
+It's not an enormous amount of trouble.  I have [[User:Uncle G's 'bot|tools that make such transwikification relatively easy]] that I use, which I deliberately designed to be readily adaptable to arbitrary wikis; and I've already been through this specific process with the Body Parts Slang list, which I temporarily undeleted at Wikipedia in order to transwikify it to Wiktionary (for incorporation into WikiSaurus, which is now proceeding).  Actually doing the work itself didn't take very long at all.  A ''manual'' transwiki would be tedious and require a fair amount of effort.  But my transwikifications are semi-automatic.  (I don't copy, paste, and reformat author histories by hand any more. &amp;#9786;)  I could readily set up a one-off script to transwiki the entire Jokebook to another GFDL wiki, for example.  (I've been through that process before, too.  I've just transwikified the all of the reader and editor Help pages from Meta to here under script control, as a matter of fact.) [[User:Uncle G|Uncle G]] 17:52, 25 November 2005 (UTC)
+== What a bookshop is ==
+By the way, if you are going to continue using the &quot;books one might expect to find in the non-fiction section of a bookshop&quot; metaphor, you can clarify what you mean to everyone by specifying ''what kind'' of bookshop you are talking about.  See [[Wikibooks talk:What is Wikibooks#Headless_chickenism]]. [[User:Uncle G|Uncle G]] 18:15, 25 November 2005 (UTC)
+
+Good point. I'll start doing that.--[[User:Jimbo Wales|Jimbo Wales]] 21:48, 25 November 2005 (UTC)
+==Thanks for responding ==
+
+I appreciate your comments left on my discussion page.  I will email you tomorrow. I'm just beginning to learn my way around here.  [[User:Frog One|Frog One]] 04:31, 26 November 2005 (UTC)
+
+== Misquote ==
+
+I think I owe you a personal apology for misquote, I often do a lot of errors but not all cause misreperesentations, you did say ''It isn't an order'' at Staff lounge, but for a minute it read ''It is an order'' to me, an worse of all it made sense, I feel terribly guilty. --[[User:Gnomz007|Gnomz007]] 02:38, 27 November 2005 (UTC)
+: no misquote on truth:
+: http://meta.wikimedia.org/w/index.php?title=User_talk:Jimbo_Wales&amp;diff=1398351&amp;oldid=1373360 boxingwear the innocent lamb!
+
+
+== games people play...this message deleted at your wikipedia box ==
+
+Hi there, Jimbo. Lets see, my story is pretty simple. I stood up
+to one &quot;mongo&quot; for better than a dozen ad hominem attacks, and assorted seriously fallacious reasoning, including blocking somebody else for changing a pov term &quot;conspiracist&quot;  (patent characterization, invalidation and republican talking point) to
+&quot;Independant Researchers.&quot; I stood up to mongos obvious abuse of admin powers, and was blocked by tony sidaway without just cause
+indefinitely. The reason for the block? &quot;Stupid.&quot; Thats the reason tony gave. He called me &quot;stupid.&quot; Now that we know that tony had no valid reason to block me, and that he used an ad hominem as a justification, I am sure you will be happy to do the ethical thing
+and unblock me. However, if not, this is the way i see things.
+
+I have posted several different peices to your talk page regarding
+the out of control abusiveness going on over at wikipedia. To wit,
+and to be specific, Mongo, Tony Sidaway, Inshanne, Fred Bauder, and
+probably other people are with certainty pov warriors with admin powers. (and in the case of bauder, arbiter powers.)
+
+Nobody should be subject to this abuse, wikipedia has become abusive
+(extremely abusive) ad hominems are the standard fare of such as tony
+and mongo and inshanne, and editors are complaining and leaving for good reason.
+
+Wikiepdia is in fact extremely abusive right now, and I'd like to fix it. I'd like to help you out. I'd like to see your adventure
+work out for the best. But if you can't get this three ring circus together for something other than animal cruelty, somebody needs to stand up to it, and that person is going to end up being me.
+
+Let me tell you what I have in mind. I think I will start by starting
+a hundred different conversations on the net at assorted places
+talkign about how corrupt and abusive wikipedia has become. Then,
+I'll post questions on yahoo Q+A such as &quot;Is mongo a pov warrior?&quot;
+and show links to his assorted pov warring and abuse. Then I'll go chat up all the anti wikipedians i can find.
+
+And to frame this for you in even more tight of a perspective, I have expert knowledge of sociology, Psychology, and Logic, So my argument versus the corruption and abusiveness is going to come from
+my depth knowledge. This isn't going to be like the people who mock
+you and aren't taken seriously. This is going to be 20 page essay,
+distributed to hundreds of different places on the net.
+
+Now, I am sure that you and everybody else are saying &quot;hey, now thats not nice, and, its against the rules, since its a threat.&quot;
+
+People who are abusive, and corrupt must have consequences for their actions. The public needs to know that Wikipedia is abusive unless wikipedia can quit being abusive. You can call it a threat, you can call it a plea for help, you can call it whatever you want. The facts
+still remain; Wikipedia is corrupt and abusive. And the ethical thing to do is to warn people not to become involved in an abusive relationship.
+
+
+== &quot;vanish witnesses and evidence&quot; ==
+
+* http://www.philosophypages.com/lg/index.htm
+* http://en.wikipedia.org/wiki/Logic
+* http://www.infidels.org/library/modern/mathew/logic.html
+* http://www.infidels.org/library/modern/mathew/logic.html
+* http://en.wikipedia.org/wiki/Logical_fallacy
+* http://www.fallacyfiles.org/
+* http://www.infidels.org/library/modern/mathew/logic.html
+* http://www.adamsmith.org/index.php
+* http://www.csun.edu/~dgw61315/fallacies.html
+* http://www.logicalfallacies.info/
+* http://creationsafaris.com/crevbd.htm
+* http://www.daltonator.net/durandal/creationism/fallacies.shtml
+* http://kspope.com/fallacies/fallacies.php
+* http://www.propagandacritic.com/articles/lf.bl.html
+* http://www.propagandacritic.com/articles/lf.extrapolation.html
+* http://www.sourcewatch.org/index.php?title=Propaganda_techniques
+* http://www.sourcewatch.org/index.php?title=Logical_fallacy
+* http://www.pnl-nlp.org/download/propaganda/index.htm
+* http://www.pnl-nlp.org/download/propaganda/page4.htm
+* Twenty-Five Rules of Disinformation ~
+
+*Hear no evil, see no evil, speak no evil 
+*Become incredulous and indignant 
+*Create rumor mongers 
+*Use a straw man 
+*Sidetrack opponents w name calling, ridicule 
+*Hit and Run 
+*Question motives 
+*Invoke authority 
+*Play Dumb 
+*Associate opponent charges with old news 
+*Establish and rely upon fall-back positions 
+*Enigmas have no solution 
+*Alice in Wonderland Logic 
+*Demand complete solutions 
+*Fit the facts to alternate conclusions 
+*'''Vanish evidence and witnesses''' 
+* Change the subject 
+*Emotionalize, Antagonize, and Goad 
+*Ignore facts, demand impossible proofs 
+*False evidence 
+*Call a Grand Jury, Special Prosecutor 
+*Manufacture a new truth 
+*Create bigger distractions 
+*'''Silence critics''' 
+*Vanish 
+
+*Eight Traits of The Disinformationalist ~
+
+*Avoidance 
+*Selectivity 
+*Coincidental 
+*Teamwork 
+*Anti-conspiratorial 
+*Artificial Emotions 
+*Inconsistent 
+*Newly Discovered: Time Constant 
+------------
+Your &quot;wikipedia&quot; has become flagrantly abusive, you have 48
+hours to respond, or i will fullfill my obligation to the public
+to warn them about the abusiveness here. 
+
+You have never faced a person as rational, as smart, or as determined
+as I am regarding.
+-prometheuspan-
+
+== starting rough ==
+
+thought i'd keep you appraised of the progress on what you now have about 24 hours to look foreward to appearing all over the net.
+(unless you can be civil and be bothered to answer and resolve this.)
+This is of course just a stream of consciousness rough...
+I still have 24 hours to work on it.
+------------------
+
+I started my journey with Wikipedia several months ago. After using it on a few occasions as a handy resource, I became intrigued with it because it’s general conceptual
+Modus operandi matched my own personal objectives. Wikipedia exists to create an online encyclopedia, the largest and most complete ever. For many years, and since well
+Before Wikipedia, my personal goal has been to participate in a collaborative Textbook
+Writing experience, and to use good information and lucidity to end the age of propaganda and start a genuine age of information. As a child, I learned to speed read,
+And managed to read thousands of textbooks. This put me in a unique position to integrate the concepts from many different sources, and to try to solve apparently unsolved problems. 
+As I explored Wikipedia, I found an article which was very poor in overall quality and Very skewed with patently bad information on a topic I am an expert in. The Wikipedia Article “psychonaut”. This article still stands as a good example of the problem with Wikipedia. Drug using self justifying people have written an article about Psychonautics  Which frames Psychonautics as being about drug use. Psychonautics is not about drug use, it is about the exploration of the psyche. I made an effort to improve the article, and succeeded in getting the definition changed, but it became rapidly apparent that I was facing ignorant people who didn’t know what they didn’t know and who were prepared in any case to fight to defend their turf. After giving them a very complete outline, and starting a professional level conversation with them, all they could do was include A few minor points in a new version and otherwise tell me more or less to shut up and go Away. This alerted me to the problem, which I will now try to define.
+
+The primary problem with Wikipedia is that it is in fact written by everybody collectively, and, THERE IS NO MECHANISM TO PREVENT DRIFT TO THE LOWEST COMMON DENOMINATOR. Expert level knowledge is irrelevant; because what goes into the article is what 10 uneducated people want in the article, not what is
+True, important, or most useful or informative to the general public. This ends up meaning that if you are an expert on a topic and want to participate in Wikipedia, your
+Real task is an uphill battle that may take months or years just over even a single Article.
+This problem could be theoretically dealt with if there were lucid rules to deal with content disputes. However, Wikipedia offers exactly the opposite. If you are in a conflict on wikipedia, there is almost no recourse for you if the other person is both abusive, but clever enough not to violate only a very few insufficient rules. You can be attacked and maligned at any time, and there is no real recourse for you. There is a rule against personal attacks, but it is really only enforced on Wikipedia by admins using it for
+Personal warfare purposes, and otherwise, you are more or less swimming alone.
+Wikipedia is thus completely vulnerable to the Tyranny of the majority. Wikipedias articles in general character are very low in quality, and the reason for this is simple;
+The people writing the articles are factually ignorant, and any interference from somebody who knows what they are talking about will only cause that person to get ganged up on and abused.
+
+The next biggest problem on wikipedia is the way that it handles neutrality. Wikipedias definition of neutrality is that something is neutral if the “mainstream press” has said it.
+The problem is that the mainstream press isn’t neutral, and the mainstream press is by vast majority republican owned and operated. This skews wikipedia badly towards the right, which doesn’t stop the left from being represented. Wikipedias policy is that articles should be written from a “neutral point of view”. This is called the NPOV
+Policy. The problem with this policy and how it is actually applied in practice is that
+In the first place, “neutrality” is never rationally defined. Neutrality doesn’t just consist of neutral language, and it doesn’t just consist of giving equal time to different sides of an argument. It also requires a real understanding of the difference between opinion and fact. There is no method for pointing out the difference between opinion and fact. 
+On Wikipedia. Wikipedia side steps the issue by calling something a fact if somebody else said it. It requires only references, not a cogent evaluation of those references. References are only required to be mainstream, there are no criteria and there is no methodology for determining if a reference is itself biased. The result of this is that “neutrality” as such Becomes incredibly vague and hard to pin down, and, more importantly, “neutrality” As such is only what the local administrator says it is. These admins are not required to understand logic, aren’t required to know how to evaluate fact from opinion, and, aren’t even required to follow the rules set for mere editors. It is factually common practice for admins to verbally attack others, and there is no recourse for the abused.
+
+	Wikipedia has thus become a battleground, not an encyclopedia. There are no real
+Criteria set forth to limit persons from becoming admins, and so eventually, those who seek power for nefarious purposes, including Trolls, can become administrators on Wikipedia. Once a person is an admin, they are essentially above reproach. 
+Confronting an admin over abuse is enough to get people banned. (Or blocked.) Wikipedia essentially has become nothing more than several different point of view camps, which war with each other in never ending battles to twist the truth and facts
+Their way.  
+
+	The proof that this is true is actually written all over Wikipedia. Any given exploration of a science topic will demonstrate quickly that the information presented is substandard and often not even factual, just well sourced. With a million articles, you would think that by now a single textbook worth of material on some topic or another
+Would have been generated. Not so. Check out the “portals” on Wikipedia. “Portals”
+Are ways of grouping articles together by subject. Any cursory examination of the portals
+Shows that there wouldn’t be enough material out of any given portal to justify a whole
+Textbook.  So what are 1 million articles covering? Everything you can think of, and mostly noise, nonsense, drivel, entertainment, Movies, Television, Games, Politics,
+Biographies, and so forth. Wikipedias content is by vast majority “non-encyclopedic.”
+If we define “encyclopedic” material as being that which would be found in some given textbook, or if we define an encyclopedia as a topic orientated textbook, Wikipedia is
+Already a gross failure. 
+	This proof is content driven, but there are more and better proofs that Wikipedia
+Is a battleground of point of view warriors. Perhaps the best proof is Jimbos talk page.
+Jimbo is the person who came up with the idea of Wikipedia, and he is the defacto
+Dictator of Wikipedia. Jimbo is a pretty kewl dictator as far as such go, because he believes in consensus process. But the point is, if you read his talk page, every third entry
+Or so is somebody making an appeal to him versus outlandish abuse. And he doesn’t answer these people, and the abuse goes on. At the top of Jimbos Talk page is a message saying to take such complaints to and Administrative page. Good luck. If your complaint for instance involves an admin, they might just delete the complaint and block you. If you are being personally attacked, the standard answer is to go “work it out yourself.” Of course, there are other methods to deal with problems on Wikipedia, and to be fair, we should discuss them. There is in fact an entire dispute resolution process. The first step is called a request for comment, or RFC. Here, you are invited to make a page, list your evidence, and make a complaint. The reality is that you are just drawing a big bull’s-eye across your forehead. It’s not against the rules for others to seek the help of all of their friends, and “consensus” process thus really amounts to nothing more than a popularity
+Contest. If you are new to wikipedia, or an expert with less time to devote than the next
+Whole month, you are pretty much out of luck. You’ll be crucified, happily, and if you get upset about it, and do anything other than allow yourself to become a good well behaved martyr, you are likely to get blocked or banned. After all of that trouble, and we will say a minimum of 5 days, an RFC must in theory be filed before any other complaints, but an RFC carries zero weight of authority. So if you are being abused, you just lost five days fighting where it doesn’t really matter,  and on top of it all you have been tricked into criticizing Wikipedia, and thus have become a defacto enemy and 
+Scapegoat for Wikipedias pov warriors and ignorant admins. Now that things have escalated, you can start a new process that will last a minimum of five days, and which also carries zero actual weight of authority called mediation. Here, you are expected to compromise and give in and allow others to assault you, mischaracterize you, and insult
+You, and further scapegoat you. There is no recourse here to logic or fair play, and despite rules that supposedly require civility, nobodies required to stay civil except you. Any admin can attack you, and, you simply are required to endure it. So now you have spent a minimum of ten days, nothing has changed, and nothing has been done about your complaint. Your article may have been nominated for deletion and been deleted by then, Before you even have a chance to seek genuine authority to resolve the dispute.
+
+The next and last and final step, is called Arbitration. Unlike two prior steps, Arbitration actually has authority and weight to actually make people do things or face consequences. However, you should know that there are Arbiters who are pov warriors, and that the process only requires one arbiter to more or less act as facilitator. So if you are lucky, and you get an arbiter who favors you, you are in luck. But if not, you are basically in a court of law where the main judge is also the prosecution against you. You aren’t allowed to defend yourself versus the arbiter, nor to cross examine the arbiters case or logic. By now, the people you were in the conflict with have had at least 10 days to attack you, bait you, and abuse you. There is an evidence page where you get to make your case, but arbiters aren’t required to read it, and most don’t. Instead, the facilitating arbiter makes his or her case, and the other arbiters vote to agree with or disagree with the facilitating Arbiter. The page on which that happens you aren’t allowed to even make comment to.
+
+So justice is elusive at best, and impossible at worst on Wikipedia. This creates a host of other systemic problems. It means that in the end, 99 percent of the participants put up or shut up, and learns to go along with the flow of apparent “consensus”. (Which is often generated by only a single admin.?) The idea here is that conflict takes time and process to resolve. The problem is, nobody in their right mind is going to put up with all of that. Wikipedia thus chases away anybody of decent or high caliber unless they are for whatever reason truly dedicated, and willing to spend hours and hours and hours being abused in order to accomplish writing a short article which will then probably degenerate into noise anyways.
+
+	Wikipedias government is thus definable as a tyranny of the majority based in pack psychology and anarchy. Its claim to consensus process is totally illusory, in fact it practices a perfect example of the now well discredited Delphi process. It forces false consensus via threat, intimidation, and manipulation. 
+
+Nowhere does this become more apparent than in trying to specifically bring these problems to the attention of Wikipedia. Like all bureaucratic monsters, Wikipedia isn’t
+Really interested in criticism, and serious critics are punished by intimidation, threat,
+Blocking, and banning. Standing up to an abusive admin is “asking to be banned.”
+Standing up to wikipedia as a whole on account of this problem was a lesson is doublethink and pack psychology. Being blocked for defending somebody else against blatant admin abuse (and reckless flagrant disregard for the rules) demonstrated the simple truth. People are blocked or banned from wikipedia simply for the crime of standing up for their rights, or other people’s rights, or for demanding that the rules be followed. The rules are followed selectively and at the convenience of the admins. Personal attacks are the modus operandi of admins, Votes for deletion, and even arbiters.
+Wikipedia is not an encyclopedia; it’s a political battleground, a war zone of ideologies,
+Complete with total blatant and flagrant corruption.
+
+Now, having made my case against Wikipedia, the next question is why bring this up
+With you? The answer of course is that I am interested in collaboration of the type that Wikipedia promises but cannot hope to deliver. For over 15 years, my goal has been to
+Write Textbooks or Tomes on those subjects which are most contended over, and to use truth and knowledge and logic and reason and fact to facilitate real change and evolution
+In our society towards the better. Specifically, I am interested in getting together with others and building a knowledge base prequel to writing textbook tomes on the following subjects. Ethics, Psychology, Sociology, Metaphysics, Philosophy, World Religions, Politics, Psychonautics, Permaculture, Arcologies, Architecture, Space Exploration and Colonization, Physics, Chemistry, Biochemistry, Herbology, Botany, Aerodynamics,
+Computer Sciences, Robotics, Alternative energy,
+
+== actually, i decided to have a weekend.  ==
+
+thats another 48 hours.
+see ya mondayish
+
+== well, you can't say i didn't  try to warn you or work things out ==
+
+they have archived all of my hard work over on your wikipedia talk
+page.
+
+oh well, this is apparently an exercise in futility anyways.
+
+http://tribes.tribe.net/vswikipedia?_click_path=Application%5Btribe%5D.Tribe%5B28362beb-251c-4adc-b9f4-152a0137b629%5D
+
+
+http://tribes.tribe.net/omnipedia
+
+in case you are ever interested...
+
+i suppose that this will be the last time i bother to try
+to contact you.
+
+I'm sure it will be painful soon enough.
+
+ta ta
+
+==certain topics==
+Certain topics seem to generate unusual problems.  Try to say something bad about Uncle Joe
+and . . . it gets deleted.  Who's Uncle Joe?  He was shortnamed UJ by 2 World War II leaders, one of whom is shortnamed FDR.  Still can't guess?
+
+Think of the 3 names associated with the largest number of killings in the 20th century.
+* One has a last name starting with &quot;H&quot;
+* One has a name starting with an &quot;M&quot; (for Chinese names, Last / First may confuse some)
+* S T A L I N
+&lt;BR&gt;&lt;B&gt;
+TODAY IS JULY 4 &lt;/B&gt; - let's see how long this stays here
+
+== De-adminship ==
+
+Hello,
+As all administrators at the English Wikibooks, you are subject to de-adminship if you are inactive for over 1 year, which is currently the case. The request will be made at Meta one month from today. If you would like to object to the de-adminship, please do so at http://en.wikibooks.org/wiki/Wikibooks:Requests_for_permissions#Removal_of_access
+
+Thanks for your time of service as an administrator at English Wikibooks.
+
+&amp;nbsp;'''&amp;ndash;&amp;nbsp;[[User:Mike.lifeguard|&lt;font color=&quot;Indigo&quot;&gt;Mike.lifeguard&lt;/font&gt;]]'''&amp;nbsp;&amp;#124;&amp;nbsp;&lt;sup&gt;[[User talk:Mike.lifeguard|&lt;font color=&quot;Indigo&quot;&gt;talk&lt;/font&gt;]]&lt;/sup&gt; 00:45, 5 April 2008 (UTC)
+
+== Rename user ==
+
+In view the login provided by the unified goal [http://meta.wikimedia.org/w/index.php?title=Help:Unified_login/en&amp;uselang=en], ask the reaname of User:Chico, currently without any contribution in the project. The rename may be something like User:Chico-Old.
+Thank advance.
+
+-[[q:pt:user:Chico]] ([[q:pt:User_talk:Chico|talk]]) 11:56, 21 April 2008 (UTC)
+
+== [[World History]] ==
+
+I would suggest that you add your name to the [[World History/Authors]] page.  You created the book (I also seem to recall that it was your first-ever Wikibooks edit) and you deserve to be recognized for it. --[[User:Whoop whoop pull up|Whoop whoop pull up]] &lt;sup&gt;[[User talk:Whoop whoop pull up|Bitching Betty]] | [[Special:Contributions/Whoop whoop pull up|Averted crashes]]&lt;/sup&gt; 00:04, 2 April 2011 (UTC)</text>
+      <sha1>p4zxuutgc98ooomhew2o3m186jzsd1a</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Spanish/How to study Spanish</title>
+    <ns>0</ns>
+    <id>464</id>
+    <revision>
+      <id>2619458</id>
+      <parentid>2416392</parentid>
+      <timestamp>2014-03-22T01:15:11Z</timestamp>
+      <contributor>
+        <username>Xania</username>
+        <id>40302</id>
+      </contributor>
+      <comment>typos</comment>
+      <text xml:space="preserve">{{Spanish}}
+To study '''Spanish''' or any non-native language you should determine your goals. Many people study a language in school to fulfill a requirement. Others do it generally as a &quot;broadening&quot; experience. Still others do it so that they can speak with others in their own language. 
+
+===Number one tip: study every day===
+To speak any language fluently and be able to survive in the language among native speakers, it is probably necessary to immerse yourself in the language for an extended period such as 9 months to a year. Short of that it is best to study intensively every day for an extended period. '''Studying every day''' is much more effective than studying every other day. Studying only once a week is a sure way to forget everything by the end of the week and be eternally relearning the same little bit of vocabulary. The problem is that your mind will forget much of what you learn in the course of one day and by the end of two days it is even more. If you study every day, even for a little while, it will mean that you can focus more of your time learning new material and waste less time relearning old material. This is one of the secrets to learning a language: study it every day.
+
+Tip for studying new words: Have your own vocabulary. It can be some note, every page is e.g. 10 words. And every day study 10 new words, 10 words from the yesterday, 10 words from the day before yesterday, 10 words from the week before, 10 from 2 week before, 10 from 3 week before and 10 from 4 week before. It's overall 70 words. It want about half or 1 hour studying. 10 new words want more time than then repeat 60 others and you have confidence that you will know for a long time.
+
+Spaced learning software such as [http://anki.ichi2.net/ anki] does a similar thing by scheduling reviews depending on how well you do.
+
+===Using web resources===
+Learning via the web offers a lot of benefits that a standard textbook can not provide. One example are audio files which we already include in some of our lessons. Another benefit are online dictionaries that allow you to quickly look up vocabulary. Check out our [[Spanish/Web Resources| Web Resources]] page to find out more.
+
+===Using media resources===
+Once you have learned the basics of Spanish, try reading or viewing material in spanish.  A newspaper, a magazine or a children's book is a great place to start.  Online retailers, such as Amazon.com[http://www.amazon.com], have international storefronts that sell books in foreign languages.
+
+Watching Spanish television or Spanish movies will help you practice listening.  Playing your favorite DVD or television show with Spanish close captioning on or with the Spanish soundtrack will help you learn new vocabulary and will assist in putting items into context.
+
+Areas where a significant number of people speak Spanish should have reading material available at local supermarkets and bookstores, and may have some local television or radio stations in Spanish.  If you cannot find Spanish media where you live, the Internet has online editions of many Spanish newspapers and magazines available.
+
+Keep a dictionary nearby if you have trouble with unfamiliar vocabulary.  The dictionary can be a very effective study tool.  Each time you look up a new word, place a dot or symbol near the word.  If you forget a word and need to look it up again, add another dot near the word.  Pretty soon, you will have a collection of words with two, three and four dots.  This marking system helps you figure out which words are either important to remember (because you use them frequently) or which ones are difficult to remember.  During your vocabulary review, you can flip through your dictionary and find important words to practice.
+
+Regular use of a dictionary has the added benefit of putting things into context.  Many dictionaries have tidbits and trivia added to the definitions, to help you see how components of language fit together.  
+
+In addition, every time you open your dictionary, you will see other Spanish words, while searching for your target word and this has the effect of reminding you of other words.
+
+===Use it===
+The best way to learn Spanish is by using it with other speakers. Do not be discouraged by your bad accent and choppy flow; these are things that come with being a beginner. People will understand that you are learning and will appreciate you applying the skills that you have acquired. So go ahead—say something. Ask your neighbor &quot;¿Dónde está el baño?&quot; 
+
+Look around your local community. Often times coffee shops, libraries, or other local organization sponsor a &quot;Spanish club&quot; for adults.  Both native and non-native speakers attend.  This is a great way to use Spanish by speaking with others (especially native speakers).
+
+Another great way to practice your new language skills is to travel to the country where the language is spoken. Most major cities in Spanish speaking countries host a number of Spanish language schools for foreigners.  These schools offer language classes at all levels by hour, week, or month of classes.  Also, they normally will arrange for their students to live with a local host family, which provides another source for practicing the Spanish language with native speakers.
+
+{{Spanish}}
+
+[[Category:Spanish]]</text>
+      <sha1>0w2g1o0jbnbyhnojq587gvk53jasymw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Spanish</title>
+    <ns>1</ns>
+    <id>469</id>
+    <revision>
+      <id>2088674</id>
+      <parentid>2062949</parentid>
+      <timestamp>2011-04-28T13:57:56Z</timestamp>
+      <contributor>
+        <username>Icqgirl</username>
+        <id>111536</id>
+      </contributor>
+      <comment>/* Very good (Muy bueno) */</comment>
+      <text xml:space="preserve">{{WikiProject Languages|spanish=yes}} 
+
+===Link for Inclusion===
+There's this really incredible website for learning Spanish called [http://www.onlinespanishhelp.com Online Spanish Help] that I think should be included in the list of link. It has games and audio pronunciations. It's the best site I've seen out there. [[User:adjwilli|adjwilli]]
+
+===Worlds foremost Spanish textbook in the making===
+Dudes, you realize that this is going to become the most used Spanish textbook for English speakers out there ? This thing is going to put the traditional Spanish textbooks out of business one by one. It can continue to grow and reflect real Spanish use, and uploading the sound files is something that a printed book cannot have. This is SO COOL ! I am confident that we are making history.
+
+===Sound file format: MP3 vs Ogg ===
+Oh yeah, one question: does anyone out there know what would be the best format for sound files ? I was just lucky that I had a de-zipper on my machine to unzip the Spanish ones. Is there an open standard format ? A most common, non-M$ one (is Quicktime any better ?) --[[User:Karl Wick|Karl Wick]] 14:23 6 Aug 2003 (UTC)
+
+Karl, what about MP3? That sounds ;-) ok for me.. and I have heard that is popular..
+I am not sure about the MP3 licence but probably there are not problems with that. In other hand is a very useful format for learning a language. You can download the file, load it in you MP3 reader and listening the lesson in the undergroung, travelling to work.
+[[User:Wintermute|Wintermute]] 17:27 6 Aug 2003 (UTC)
+
+:Huh .. MP3 ... sounds great to me, lets see if anyone has any objections to it. --[[User:Karl Wick|Karl Wick]]
+
+::Not really my objection but I hear ogg format is recommended within Wikipedia. [[User:Kpjas|Kpjas]]
+
+::Ogg ? I am not familiar with it. Is it compatible with &quot;everything&quot; like MP3 ? [[User:Karl Wick|Karl Wick]]
+
+:::All modern MP3 playing software on computers should play ogg just fine. If you have an older player then you might need to install a plugin. MP3 is evil and should be avoided. --[[User:Maveric149|mav]]
+
+:::Ah. &quot;Evil&quot;. [[User:Karl Wick|Karl Wick]]
+
+::::uuuhh.. &quot;Evil&quot;..  Evil like.. I don't know.. M$? really? so bad?. Maybe the '''soft''' MP3 play ogg but.. what about the '''hard''' MP3 players? I have a new one! But is ok. If it is evil there is nothing to do. [[User:Wintermute|Wintermute]]
+
+:::::&amp;lt;sarcasm&gt;You're right. It will be horrible that people can't take the speech examples in Spanish onto their non-ogg compatable MP3 players. Such a shame.&amp;lt;/sarcasm&gt; [[User:LittleDan|LittleDan]] 14:59, 20 Sep 2003 (UTC)
+
+::::Yes - Evil. The owners of the MP3 patents have been trying to force websites that stream or otherwise host MP3 files to pay the patent owners thousands of dollars per website and on top of that a per download charge. Ogg, however, is free and will always be free. We should be supporting free software and free file formats over proprietary software and formats whenever practically possible. Ogg is such a format. --mav
+
+::::Paying thousands of dollars for licensing ? That does sound pretty evil. --[[User:Karl Wick|Karl Wick]]
+
+: ogg is the best choice as the format &amp; codec are patent free. Maybe we should make a special [[ogg]] page talking about the format and how to read it on different computers (mac / win32 / linux ...). There could be a guide about converting the ogg encoded sound to other codec for hard mp3 players (ogg to wav then reencode for example).
+[[User:Hashar|Hashar]] 02:14, 22 Aug 2003 (UTC)
+
+[[w:Speex]] could also be interesting, since it is a codec especially for speech. The project is part of the Xiph foundation, and it is completely ridden of patents and nasty licensing issues. Since it is geared towards speech, it can result in much smaller files, which is nice for people with expensive slow connection or for PDA usage. [[User:Guaka|Guaka]] 23:41, 27 Aug 2003 (UTC)
+
+Here is a revolutionary idea: hows about every soundbite being offered in mp3 (cause everything can read it) and speex (cause it is a freely avaliable, well thought out format, which is quickly becoming the standard for VoIP among other things)
+btw, ogg is a whole group of different formats (all of which are open-source) and of which speex is but one format (specifcally designed for voice recording). [[wikipedia:User:the_bellman|the bellman]]
+----
+It seems like common sense to me to just use WAV format.  It's not like a sentence of speech is going to be that big anyway.
+: It would be big for me, with my extremely slow internet. I'd very much prefer the files to be as small as possible -- it might be the difference between me having to wait for a few seconds versus not having to wait at all. And when you add up thousands of downloads from all the different people using the wikibook, then it adds unnecessary network and server load for Wikimedia foundation. [[User:Jrtayloriv|Jrtayloriv]] ([[User talk:Jrtayloriv|talk]]) 21:27, 18 October 2009 (UTC)
+
+===Project name, indices, non-zipped sound files===
+* I think that the title &quot;Spanish&quot; is too general. Foreign language textbooks usually are aimed at learners at some level
+* it would be nice to have grammatical and themed indices.  I was thinking that we should add the name &quot;castellano&quot; because that is the correct name for the Spanish being taught.
+* wouldn't it be better to provide both zipped and directly playable sound samples ?
+
+:*I guess that more advanced learners can easily click through the first lessons.
+:*Could be nice, but maybe it's better to have an overview of the entire grammatic and provide links to lessons.
+:*Zipping already (lossly) compressed soundfiles doesn't (and shouldn't..) result in much smaller files. It only makes it less convenient to play the files. But it could be nice to provide different qualities, or Ogg and Speex files of the same audio. [[User:Guaka|Guaka]] 23:48, 27 Aug 2003 (UTC)
+
+:For your first point, the name, I think it is implied (if nothing is stated) that it is for beginners. [[User:LittleDan|LittleDan]] 14:59, 20 Sep 2003 (UTC)
+
+:Hi there, Native Spanish speaker over here. Just went to the German wikibook and looks superb. In my humble opinion, there are a number of thing that could be copied from that one. For example... the should be a cover. My personal sugestion for it would be the cover of the &quot;Don Quijote&quot; (400 years of its publication on 2005 I believe). The level divition also helps, and the more the better. Its always more fun to thing that something has been achieved like the first level out of x, than just 3 chapters. Anyway... Ill contribute to the Spanish one as much as i can. (have to find my login and password which at the moment dont remember them) Cheers.
+
+----
+
+===Two comments: 1. this is great, 2. wheres the alphabet ?===
+
+#This is unbelievable.  I am so happy to see this project.  I would love to see you language-learning become a subject for a &quot;free&quot; textbook.  I'm so impressed to hear the ogg examples.  Eventually, of course, it would be neat if you all had a bunch of different speakers from different spanish-speaking countries, so students don't become overly familiar with one accent.
+#Shouldn't lesson 1 include the alphabet and how to pronounce the letters?  I would think this is the most important lesson.
+
+--[[w:user:DanKeshet|Dan Keshet]]
+
+I agree, pronounciation is important and should be covered very early on. I'll ask my friend Mariela if she can also give a sound recording of the alphabet (of course others are encouraged to do a recording as well, so that we have a lot of variety). [[User:ThomasStrohmann|Thomas]]
+
+I disagree, lessons on pronunciation are boring.  The pronunciation of spanish is so easy learners can pick it up on their own. -DM
+
+===Ideas for new chapters===
+'''Fun, social things'''
+*Parties
+*The beach
+*Dates
+*At a bar
+*Salsa dancing, La Bamba, la discoteca (anthro)
+
+'''Topics common to richer/more developed cultures'''
+*At the office
+*At school
+*Transportation, airport, el metro, taxis ..
+*On the phone
+*buying a car
+*business trip, tourist trips
+*food shopping
+*in the kitchen
+*Beauty, barber shop
+*el gimnasio-the gymnasium
+*el cine (movies)
+*weddings (la boda)
+*Technology
+*restaurants
+*boating
+*soccer, sports
+
+'''Things relatively unique in Latino culture'''
+*feelings toward the US
+* el quinceanero (Sweet Fifteenth Birthday)
+*Catholic Mass
+*deadbeat dads from the Spaniards to today
+*emotions
+*families
+*at home
+*poverty, Street beggars
+*el tianguis
+*crime
+*spanish-speaking communities in the US
+*discussion of various cultural spots in Latin America
+*restaraunts, taco stands
+*paracaidistas
+*historical events in LatAm history such as the killings in Mexico in '68
+*Historical figures like Che Gueverra, Selena, Pedro Infante, Cantinflas, Fidel Castro, Picasso, la dictablanda, Cortez, los Mayas, Cristobal Colon ... Don Quijote ..
+*Street vendors
+*etc etc ...
+
+Hope this helps! --[[User:Karl Wick|Karl Wick]]
+
+===Comments about the structure of the lessons===
+
+Please, see this comment like a mindstorm comment (Its possible that it doesnt make too much sense).. I would like to know what you (all) think about
+
+
+I think that a lesson should contain only the matter for one period of study (one hour?, half hour?). There is not reason for limit the number of lessons in a textbook, so, what is a lesson if not a period of study?
+Maybe in others subjects of study you can split it by concepts but I think that, in languages, would be useful a one-day separation.
+It seems that for a basic language capabilities you need to know 2000 (more or less) words. 2000/365 = 5,4 words. If you can learn a few of grammar and 5,4 words every day, theorically you can write and read a language in a year (listening and speak is another thing). It seems a good mark to me for only 1 or 1/2 hour day. So, maybe, a lesson should be a few of vocabulary, a concept of grammar and a lot of exercices. Obviously, everybody could advance with the speed that he/she need or want.
+
+Sorry by my english, I am learning..
+
+[[User:Wintermute|Wintermute]] 22:36, 17 Aug 2003 (UTC)
+
+Hi, I think you are right with your point that we need a lot of exercises
+which only cover a small amount of material (for example a maximum of
+10 new words or a single grammar concept). So we should definitely try
+to put an exercise right after new vocabulary/grammar concepts are
+presented. This way we can even keep the longer - theme oriented - lessons
+together as a whole (doing one 'lesson' would then maybe require four or five
+1/2 hour learning sessions, but as long as each learning session has
+its own exercise part this should be OK). In either case, I think we
+should start now to put in some exercises for the lessons 1-3 where we
+already have enough material to construct useful exercises. 
+-- [[User:ThomasStrohmann | Thomas]]
+===Formatting ===
+I think its a good idea to put everything in Spanish first and then English. This translation helps people see the similarities and differences between Spanish and English. 
+
+I also removed some repetitive words like &quot;Lesson&quot; and &quot;Lección&quot; because I think it makes the page simpler and less work to read.
+
+Also I moved the (very cool) flags to the bottom of the page so that people see content first. I'm not sure which way I like it, maybe its better with the flags up top like the were. 
+
+Please feel free to undo any changes you hate ;-) -- [[User:Karl Wick|Karl Wick]]
+--------------------
+About the exercices format:
+
+What should be the exercices format? I propose using a different page for every exercices lesson and another one for the solutions. That would be 3 pages for lesson. It has a few advantages. A student could print the exercices, work in that in paper if she want, and check the solutions when he/she has finished. In this way, the lesson wouldn't be so big and we could enlarge the exercicies without limit.
+
+Another question is.. should be write the exercices like the exercicies in a traditional book?
+
+for instance:
+
+Translate:
+
+house     ______________
+
+what do you think about?
+
+
+[[User:Wintermute|Wintermute]] 20:44, 25 Aug 2003 (UTC)
+-------------------------------
+Thanks for bringing that up. We should be starting to work on exercises as soon as possible. I agree that we should have exercises separate from the main 
+lessons (in fact, as our lessons are quite long, there should be one exercise 
+sheet for every 1/2 hour study part of a lesson). I think the solutions can be 
+writtem far more compact (by writing only the missing words or correct answers 
+for multiple choice). So we probably won't need one page for each exercise but 
+just one solution sheet for all exercises (or all exercises of one lesson).
+
+In my opinion we should also try to emphasize collaborative learning in the 
+exercises. So maybe we don't even want to give solutions to each exercise but 
+rather leave some of them open so that students and teachers have to come 
+together to discuss exercises. More importantly I would like to see a lot of 
+exercises that can be done only with partners or in a group. For these exercises we will definitely need to use (voice!) chat. Even though the development of Wiki tools for realtime interaction are discussed as part of the 'Wikiversity' project it will probably take a while until they become available. So to get started with that (which will hopefully be soon) we should just go with available chat tools like irc,icq,aim,yahoo,...) -- [[User:ThomasStrohmann | Thomas Strohmann]]
+
+:No, I think people should still be able to learn spanish by themselves with this book. I think we should have a subpage for group resources, if anyone wants to do that, but it shouldn't make it so that people feel like they have to have a teacher to use the textbook. [[User:LittleDan|LittleDan]] 14:59, 20 Sep 2003 (UTC)
+-------------------------------
+
+
+Hi guys.  I'm new to wiki, but actually I was thinking about starting a similar project to this one for a while.  I'm using javascript to allow you to test yourself by hiding either the English or Spanish half of the vocab list, click to reveal, shuffle, there are two stylesheets to make the printed version good for paper, readings are similar to vocab in that you can click to reveal translations, and the content is in XML and parsed to html (or latex) which should make the content useful for people wanting to parse it to other formats.  Take a look and let me know if there is any interest in seeing this done.  [[http://www.apmaths.uwo.ca/~bfraser/test/test.html It's all here.]]  Click on the reading, click on Practice: Recognition and then words in the vocab list.  Print preview should be formatted for printing.
+
+[[User:crail|crail]]
+
+=== New format looks fine to me ===
+
+Hello,
+
+I really like the work of Karl and others to put all the headers
+first in Spanish and then in English. Omitting the 'Lesson' word
+for all the lessons is definitely reasonable. For where to place
+the flags I'm not sure either. I think it would be cool if we
+eventually come up with a cool title plus a nice picture for our book
+to put it at the very start of the page. This could be the
+combination 'Aqui se habla espanol' (title) &amp; flags (picture)
+but maybe we can come up with something more creative ;)
+
+[[User:ThomasStrohmann | Thomas Strohmann]]
+
+P.S. I've been away on a conference most of last week, this week I'll
+have much more time to work on the Wikibook...
+
+----
+
+=== Help ===
+Hi, I was wondering if some people here are more familiar with Spanish than I am
+&amp; are willing to look at some of the lessons we have so far and correct the mistakes
+that are in there. As the lessons get more advanced I try to make more elaborate
+examples, but since I'm just learning Spanish I'm not so sure if they are all
+grammatically correct / stylistically good. So if anyone wants to help out on this
+issue I would really appreciate it! -- [[User:ThomasStrohmann | Thomas]] -- UTC 05:55 Wednesday, October 15, 2003
+
+:I just downloaded all the lessons and I'm going to check them, but I won't be able to correct them for a while (dial-up connection, expensive telephone bills in the third world). Also I could contribute with some sound files with Guatemalan accent, just tell me what should I record.
+
+(update) I just checked them. Look at the comments [[OASOs comments|here]]
+
+:[[User:Oaso|Oaso]] 13:49, 12 Nov 2003 (UTC)
+
+::I've looked at them. Great suggestions Oaso! I'll put in the changes as soon as I can. [[User:ThomasStrohmann | Thomas Strohmann]]
+
+----
+
+=== Colored Tables ===
+Following the good examples in other Wikibooks, I've starting to put in colored tables. I suggest the following colorcode: yellow for pure vocabulary (single words), blue for grammar tables (e.g. conjugations), and green for examples  
+(whole sentences in dialogs, or sentences illustrating grammar rules). [[User:ThomasStrohmann | Thomas Strohmann]]
+:I was just going to suggest the same thing, but with different colors. Current colors look too strong. I think it's better to use pastel colors, like the Wikipedia's front page. If you were wondering, I was going to suggest pale blue for vocabulary, pink for grammar, pale yellow for examples, and gray for exercises.
+:[[User:Oaso|Oaso]] 15:49, 1 Dec 2003 (UTC)
+
+Thanks for the comment Oaso. Lets put together some suggestions on the talk page. Once we've decided on a format we can make it a 'standard' for the book. [[User:ThomasStrohmann | Thomas Strohmann]] 
+
+* Current version
+
+
+{| border=&quot;0&quot; bgcolor=&quot;#FFFFFF&quot; cellpadding=&quot;10&quot; width=&quot;100%&quot;
+|-
+|
+{| border=&quot;1&quot; bgcolor=&quot;#99FF99&quot;
+|-
+|
+examples
+|}
+{| border=&quot;1&quot; bgcolor=&quot;#9999FF&quot;
+|-
+|
+grammar
+|}
+{| border=&quot;1&quot; bgcolor=&quot;#FFFF99&quot;
+|-
+|
+vocabulary
+|}
+|}
+
+* Alternative 1
+
+
+{| border=&quot;0&quot; bgcolor=&quot;#FFFFFF&quot; cellpadding=&quot;10&quot; width=&quot;100%&quot;
+|-
+|
+{| border=&quot;0&quot; bgcolor=&quot;#FFFFE2&quot; cellpadding=&quot;2&quot;
+|-
+|
+{| border=&quot;0&quot; bgcolor=&quot;#FFFFF8&quot;
+|-
+|
+examples
+|}
+|}
+{| border=&quot;0&quot; bgcolor=&quot;#FFE2E2&quot; cellpadding=&quot;2&quot;
+|-
+|
+{| border=&quot;0&quot; bgcolor=&quot;#FFF8F8&quot;
+|-
+|
+grammar
+|}
+|}
+{| border=&quot;0&quot; bgcolor=&quot;#E2E2FF&quot; cellpadding=&quot;2&quot;
+|-
+|
+{| border=&quot;0&quot; bgcolor=&quot;#F8F8FF&quot;
+|-
+|
+vocabulary
+|}
+|}
+|}
+
+
+: I edited alternative 1 to show the precise colors I meant. [[User:Oaso|Oaso]] 20:32, 1 Dec 2003 (UTC)
+
+==Grammar==
+
+We ''ought'' to have a ''lot'' more grammar here! Gender! Agreement! Articles! Demonstrative adjectives! Prepositions! '''''Verbs!!!''''' The best way to learn Spanish is to learn the ''rules'', so that you can create just about every sentence in existence. These situation-oriented lessons only allow you to say things appropriate for...well, that situation. If we were to exclusively use that approach, we would have to have an exhaustive list of situations, which would blow up the wiki server. If you learn grammar, you can interact in ''any'' situation. --Grammar bug
+
+:Yeah, thats a good point. --[[User:Karl Wick|Karl Wick]]
+
+----
+
+:Hi, I stumbled on this project. It's very interesting. I noticed you have past participle in Lesson 9, but kept the present progressive until Lesson 10. The way I learned Spanish, progressive was the first tense learned after present indicative. It's a simple way to vastly increase the number of phrases you can create, and I would suggest addressing it earlier.
+::What you say makes sense .. if you could play around and try to make the changes yourself that would be very helpful. Let me know if I can be of any help to you - [[User:Karl Wick|Karl Wick]]
+
+----
+
+When learning Spanish I tried a lot of books and courses. The only thing that clicked with me was Madrigal's Magic Key, which is a very old text book, but teaches the language by rules and shortcut aids to memory. In fact it teaches grammar, but in a very palatable way.
+
+I find all these &quot;how to order a meal&quot; type lessons OK, and superficially appealing but will never move the learner past the phrasebook stage, and ultimatly they will lose interest, this is not the way to master a language.
+
+Once you have the grammar of Spanish, all the rest is plain sailing, you just have to practice and add to your vocabulary.
+
+I don't have a user name, but I hope this comment helps. I'll look in here from time to time and see if there's anything I can add, but if it does develop into a phrasebook, then I don't think there's much I would contibute.
+
+It would also be helpful to decide how to handle the question of which version of Spanish will be taught. Castillian is the standard, but Latin American is of equal importance. Maybe some method of highlighting the Latin American differences by color code, or a sidebar of important deviations by country would allow the book to be more useful. The alternative would be to create a Castillian main book with a Latin American appendix.
+----
+Where's the subjunctive mood? Where's the preterite and the imperfect?? Where's the conditional??
+
+I think this book needs new sections to be added. This book is not at all complete. El subjuntivo es muy importante. [[User:TrueDat|TrueDat]] ([[User talk:TrueDat|discuss]] • [[Special:Contributions/TrueDat|contribs]]) 05:58, 4 March 2011 (UTC)
+
+
+
+-----
+
+== Wiktionary ==
+
+Could this be in some way related to [[Wiktionary]] ? (Or, maybe it is, but I haven't noticed).
+
+I'm thinking about something like a bilingual dictionary for language learning. The contents itself would probably look more like that of a textbook than that of a dictionary, but the purpose is to have the dictionary browseable / referenceable format.
+
+I'm trying to put similar ideas together at [[meta:Wiki Language School]] [[User:Flammifer|Flammifer]] 19:27, 11 Oct 2004 (UTC)
+
+== Standards ==
+
+I think in the long term intrest of this book, we should all consider starting the plans for restructuring this book so it conforms to textbook standards in a Spanish I, II, III, IV format. I know that currently, this will probably be quite unpopular, but in the long term intrest, we should at least consider it, maybe even splitting the book, one for serious education and study, and one for conversational situation reference. I'm just saying we should consider it. That's all.
+
+== New design proposal ==
+
+Could you look at [[:pl:Hiszpański: Lekcja A1]] and [[:pl:Hiszpański]]? Here you can see the proposal of new design for this Wikibook. [[User:Sblive|Sblive]] 19:16, 15 Jun 2005 (UTC)
+
+==Helping...==
+
+I'm Spanish but I find it difficult to help in this book. Make a clearer index or a page with things to do. About a wictionary: I think we should have ONE page for all languages. There you could see the word and then translations to all languages with definitions in that language. You could use any language to sort words alphabetically. Please ask for it in meta or in wikipedia!!! Or let's do one book here. I'm Barcelona in catalana wikipedia if you want to talk to me: http://ca.wikipedia.org/wiki/Usuari_Discussi%C3%B3:Barcelona
+
+:I'd love to help as well (don't even have a user name yet), but it really seems difficult, besides I'm from Argentina and lots of the lenguage used sounds weird, different latin american countrys have different vocabulary, specially Argentina (and Uruguay I think) were verbs are even conjugated differently. Some examples would be &quot;vos&quot; used instead of &quot;tú&quot;, and others like &quot;Sos de México&quot; instead of &quot;Eres de México&quot;. Skimming through the pages I've seen many references to Mexico (&quot;You are from Mexico&quot;), so I guess the idea is to mainly use vocabulary from Mexico (that is the spanish that people from the US is more familiar with), is there a standard way to add words used in other countries with a note clarifying it, or it would be too complex and confusing? [[User:200.89.153.204|200.89.153.204]] 6 July 2005 13:46 (UTC)
+
+::You can always make some additional pages (or another course within this textbook) about Spanish used in south America. That would be great! [[User:Sblive|Sblive]] 13:32, 16 July 2005 (UTC)
+
+== Mouth Mechanics  ==
+
+I would like to request a section on the mechanics involved in speaking another language.  I couldn't nail spanish R's correctly until I did a lot of digging.  English produces an &quot;r&quot; without the tongue touching any part of the mouth, like a vowel.  The spanish R is pronounced behind the upper teeth.  Most try to approximate this by telling one to pronounce it something akin to TH.  I am not an expert in the subject, and don't even know Spanish, so I can only ask for at least some links.
+
+Like &quot;TH&quot;?!?  I've always heard it described as &quot;rolling&quot; the R. I beleive one rapidly moves the tongue behind the upper teeth. Its easy to overdo, but when starting to learn its probably OK to &quot;roll&quot; the R's in an exagerated way. If unable to do so, I would think a &quot;T&quot; or &quot;D&quot; sound might be better than &quot;TH,&quot; which seems more likely to lead to nasty tongue injuries than anything else.
+
+There is some information here:
+http://www.uiowa.edu/~acadtech/phonetics/
+The stated use is for:
+It is intended for students of phonetics, linguistics, and foreign language.
+Maybe he would like to donate it to GFDL and we could hack it up?
+Although they do not follow words or letter they only give the phonetic alphabet.
+-[[user:Indolering|Indolering]]
+
+== Opening Paragraph ==
+
+I'm reading this to learn Spanish, I don't have enough ability to actually contribute to the book in any substantial way.  However, I found this initial paragraph absolutely baffling, enough to make me wonder whether I should even bother reading further in the book:
+
+''The fundamental norm of Spanish grammar is the sentence, structured as follows:''
+
+''Subject - Verb - Object''
+
+''This is so until the point that, in technical Spanish, you can consider an equivalence between the concept 'Grammar' and the concept of 'a sentence arranged according to the rule Subject-Verb-Object'. At this level, paragraphs, articles, and other sorts of grammatical groups are not considered. So, at this level, Spanish is an impossible language, because if it existed according to its theoretical definition, that is, if Spanish were used correctly according to its technical standard, then all the words from the Spanish dictionary would have been used just for an only eternal sentence, valid for past, present and future. Maybe this sentence is still to come, but, meanwhile, normal Spanish conversations are constituted by groups of sentences.''
+
+Unless somebody can seriously rework and explain what is trying to be expressed here, i'd just as soon see this paragraph removed.  The fact that we go Subject Verb Object is enough for me.  Doesn't need much explanation, since that is a typical pattern in English, and this book is written in English and therefore assumes English knowledge.
+
+Yikes. That certainly is a difficult paragraph. I have no idea what it's  trying to say. I think that whole section needs to be reworked. I'll get on it. [[User:Fenoxielo|Fenoxielo]] 03:52, 12 December 2005 (UTC)
+
+Those paragraphs on grammar need to be moved off the main page. They don't look right sitting in the middle of what is essentially the contents. Any suggestions on where to stick it? Perhaps delete it from the main page and paste it in here until it gets a home? --[[User:Zapateria|Zapateria]] 09:39, 8 June 2006 (UTC)
+
+== Cover and Contents ==
+
+Does anyone think that we should change the cover title from &quot;[[Spanish (Cover)]]&quot; to just &quot;Spanish&quot; and change &quot;[[Spanish]]&quot; to &quot;Spanish:Contents&quot;?  This will make it more in-line with other language textbooks. [[User:Geoking66|Geoking66]] 22:46, 22 February 2006 (UTC)
+
+== Former Page Spanish: Contents ==
+
+The titles in the &quot;Lecciones&quot; list do not match the content of the lessons. E.g. the second title, &quot;El viajar&quot;, takes me to grammar of the noun... [[User:18.19.0.183|18.19.0.183]] 19:47, 25 Oct 2003 (UTC)
+
+Originally, the lessons consisted mainly of vocabulary (you will find that lesson 2 has a part for vocabulary that you need for travelling). We started adding grammar topics later and they are harder to put under a specific title. If we find better titles for the lessons we can certainly change them. [[User:ThomasStrohmann | Thomas Strohmann]]
+
+I changed it to &quot;De viaje&quot; because it sounds much better. Maybe it should be noted that verbs may work as masculine nouns, but certainly &quot;El viajar&quot; sounds too strange. [[User:Sabbut|Sabbut]] 12:08, 15 Dec 2003 (UTC)
+
+===Incorporating verb tenses into the lessons===
+As I research the language I realize that Spanish has fourteen [[Verbs (Spanish)|verb]] [[Verb tenses (Spanish)|tenses]], seven simple and seven compound, as well as a couple extras. We could use that information to work new tenses into the lessons systematically. --[[User:Karl Wick|Karl Wick]]
+
+=== Sound file format ===
+Now I just had a teacher trying to use the site and he could not use the sound files because his hardware was not compatible with the sound file format that we are using. Would it be so wrong to offer the files in one &quot;free&quot; format and one proprietary one ? --[[User:Karl Wick|Karl Wick]]
+
+== Naming policy ==
+
+The Spanish book is now 100% naming policy compliant. Check http://en.wikibooks.org/w/index.php?title=Special%3AAllpages&amp;from=Spanish&amp;namespace=0. All left non compliant pages are redirects. I also replaced most of all links to these redirect pages. [[User:E^(nix)|E^(nix)]] 10:01, 14 May 2006 (UTC)
+
+== Lesson Setup ==
+
+I really think the lessons need to be setup in a different way. As it is you get tons of words at once with little to no practice. If there were large chapters broken up into smaller sections with an excercise at the end of each it wouldn't be so overwhelming. For example, the first chapter after doing the alphabet and pronunciations could be over Introductions. It would teach people how to say hello, nice to meet you, and my name is xyz in the first part with an excercise at the end. The next part could be over saying your age and numbers. After that could be a few adjectives and a lesson on noun-adjective agreement. I would be willing to reorganize the current lessons or start a string of alternative lessons if people like this idea, but I don't want to do it if people won't like it. It's just that I think it's quite overwhelming as it is.--[[User:Leostrife|Leostrife]] 21:19, 3 June 2006 (UTC)
+
+== suggestions==
+This is a wiki, it can be non-linear learning (sorry if I make mistakes, I'm Spanish speaker): suggest projects and exercise to USE language. Show words in use, link to images, texts and dialogues. Words couls also be linked to wiktionary for definitions and so on, so translations are not needed here (they always depends on the context). I 'll explain it better:
+
+Imagine we are talking about food (in lesson 6). We can open the section with some pictures to match eith words instead of boring lists. Users can also click on words so they see the defintion in wiktionary. When exercise is finished, they have the basic vocabluary to start using it. They can read some dialogues: &quot;in the shop&quot;, &quot;in the restaurant&quot; while they listen to them. Then they will be asked to complete a multuser dialogue. For example, there's a discussion between 2 people arguing about 2 different cooks. Each user adds a line or corrects mistakes, or ask for help in wikiversity page. Because the main point of a wiki is to edit it!.
+
+== Can somebody add a numbers lesson? ==
+Can somebody add a numbers lesson, like how to count to 100?
+thanks
+:Wow.  I can't believe we left it out.  Well, I added it [[Spanish/Lesson 2|here]]. --[[User:Think Fast|Think Fast]] 20:28, 23 September 2006 (UTC)
+
+== Exercises for Vocabulary ==
+
+It might help readers learn the vocabulary if there are exercises for it as well. -- [[User:Video Game Fan|Video Game Fan]] 01:46, 5 October 2006 (UTC)
+
+== [[User:Celestianpower/Spanish]] ==
+
+I have been working extensively on this new Spanish Wikibook. What do you think? Should we merge it with this one? Do you like the name? I'd like some feedback. Regards, [[User:Celestianpower|Celestianpower]] 22:40, 21 December 2006 (UTC)
+
+== Fragmentos para fusionar ==
+
+* {{stage short|25%|Mar 24, 2007}} [[Spanish/Lessons/Las personas|Las personas]] &amp;mdash; &lt;small&gt; Describing people and opinions about them.&lt;/small&gt;
+* {{stage short|50%|Apr 5, 2007}} [[Spanish/Lessons/La escuela|La escuela]] &amp;mdash; &lt;small&gt;School, ser versus estar.&lt;/small&gt;
+* {{stage short|50%|Apr 5, 2007}} [[Spanish/Lessons/El tiempo pasado|El tiempo pasado]] &amp;mdash; &lt;small&gt;The past tense- All about the past tense in Spanish: Preterito, Imperfecto, Differences between the two.&lt;/small&gt;
+
+These are some random contributions that don't seem to fit into the grand scheme yet. When I need them, they'll be here though! :). Kind regards, [[User:Celestianpower|Celestianpower]] 17:51, 17 April 2007 (UTC)
+
+== Pronouns missing? ==
+
+I couldn't find anything in here so far about pronouns.  The section on regular verb conjugation would be a good place to mention them.  Also, some places that describe conjugations have 2 column tables where the first column in &quot;Ingles&quot; and lists only the English pronoun, and the second column is &quot;Espanol&quot; and lists only the conjugated Spanish verb.  I think that instead of showing &quot;I&quot; &quot;Soy&quot; it would be better to show &quot;I am&quot; &quot;(Yo) soy&quot;.
+
+== More audio ==
+
+Do you think it would be possible to record dialogs an offer more audio?--[[User:Juan de Vojníkov|Juan de Vojníkov]] ([[User talk:Juan de Vojníkov|talk]]) 12:31, 12 December 2007 (UTC)
+
+== Wiktionary ==
+
+Why does this book link to the English Wikipedia article about the language, but doesn't link to the English Wiktionary ''Category:Spanish language'', which includes a huge Spanish vocabulary defined in English, as well as appendices on conjugation and other tools?  There doesn't even seem to be a &lt;nowiki&gt;{{wiktionary}}&lt;/nowiki&gt; template on this site! --[[User:EncycloPetey|EncycloPetey]] ([[User talk:EncycloPetey|talk]]) 19:06, 2 July 2008 (UTC)
+
+== Archived ==
+I am adding some of the related archived material onto the main contents page; the previous work the previous writers mustn't be put to waste! Some important ones can also be used! [[User:Minor User|Minor User]] ([[User talk:Minor User|talk]]) 09:59, 31 August 2008 (UTC)
+
+== Translation ==
+
+I suggest a version to learn [[medicine Spanish]] --[[User:Mac|Mac]] ([[User talk:Mac|talk]]) 09:56, 27 October 2008 (UTC)
+
+== Neutral point of view ==
+
+How neutral. The logo shows the coats of arms of Spain and Mexico. What about the other two thirds of Spanish speakers? [[User:Esmito|Esmito]] ([[User talk:Esmito|talk]]) 14:39, 29 April 2010 (UTC)
+
+I added the Argentinian coat of arms just to show how ridiculous it is to have coats of arms at all. [[User:Esmito|Esmito]] ([[User talk:Esmito|talk]]) 14:47, 29 April 2010 (UTC)
+
+== Very good (Muy bueno) ==
+
+I like this wikibook, that's very good. I speak spanish and this book looks great.
+
+¡Gracias al creador de este libro de español!
+''Thanks to the creator of this book in Spanish!''
+--[[Special:Contributions/201.210.45.46|201.210.45.46]] ([[User talk:201.210.45.46|talk]]) 23:22, 4 May 2010 (UTC)
+
+===Agree===
+I want to thank all the contributors of this Wikibook. On 2008 I dived in for my first Spanish class. Our professor was from Madrid and it intimidated me greatly, as she expected us answer her in her language all the time. And then there was this Wikibook. I remember I would get up early every morning to diligently study as much as I could, memorize words, practice verbs. This book helped me immensely as though it were the only book that mattered, largely because it was the only book I could read simply by being connected to the Internet, and could be accessed at any time of the day. This went hand-in-hand with Wiktionary, being the only multilingual dictionary (a mighty vast one too) I could browse through the net. I started editing there too, adding words and learning about others, and it made me realize I liked this: writing, words, languages. This has made a lasting influence on me. 
+
+The Spanish language also gave me an opportunity to form relationships with awesome Spanish-speaking people who have touched my life forever, like with the professor I mentioned. This is another story, but my point is that ''it all started here''. This Wikibook had been a catalyst. Changes in life from an online project pitched in upon by people I may never meet! Now learning languages is still an enjoyable hobby for me. And you know what? Despite not studying Linguistics full-on, Wikibooks on many other subjects still help me today. 
+
+So, thank you. The gratitude goes deeper than words can express. --[[User:Icqgirl|Icqgirl]] ([[User talk:Icqgirl|discuss]] • [[Special:Contributions/Icqgirl|contribs]]) 13:57, 28 April 2011 (UTC)</text>
+      <sha1>5qx82msvjti894ycz56zwf6sakxkk6e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Spanish/Lesson 5</title>
+    <ns>0</ns>
+    <id>470</id>
+    <revision>
+      <id>1016971</id>
+      <parentid>903661</parentid>
+      <timestamp>2007-10-31T07:36:55Z</timestamp>
+      <contributor>
+        <ip>201.217.160.206</ip>
+      </contributor>
+      <comment>/* Grammar - Questions */</comment>
+      <text xml:space="preserve">{{Spanish}}
+----
+
+== Grammar - Questions ==
+
+Unlike English, yes/no questions in Spanish are not usually formed by switching
+the position of subject and verb (if the subject is explicit). To recognize a sentence as affirmative or as a question one must pay attention to the intonation pattern. Unlike English, Spanish uses a reversed question mark ('''¿''') at the beginning of a question:
+
+{|class=&quot;wikitable&quot;
+|-
+|Tú eres de México.
+|''You are from Mexico.''
+|-
+|Eres de México.
+|''You are from Mexico.''
+|}
+become
+
+{|class=&quot;wikitable&quot;
+|-
+|¿Tú eres de México?
+|''Are you from Mexico?''
+|-
+|¿Eres de México?''
+|''Are you from Mexico?''
+|}
+
+For other type of questions Spanish uses the following question words (note that all of them have an accent in the word):
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#FFFF99&quot;
+|-
+| ¿Cómo...? or ¿Qué...? || ''How...?'' or ''What...?''	
+|-
+| ¿Cuándo...? || ''When...?''		
+|-
+| ¿Cuánto...? || ''How much...?''	
+|-
+| ¿Cuántos...? || ''How many...?''	
+|-
+| ¿Dónde...? || ''Where...?''		
+|-
+| ¿Por qué...? || ''Why...?''		
+|-
+| ¿Quién...? || ''Who...? (singular)''	
+|-
+| ¿Quiénes...? || ''Who...? (plural)''	
+|}
+
+Here are some Spanish sentences where specific question words are used:
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#99FF99&quot;
+|-
+| ¿Cómo te llamas?
+| ''What is your name?'' (Literally: ''How do you call yourself?)
+|-
+| ¿Cuántos años tienes?
+| ''How old are you?'' (Literally: ''How many years do you have?'')
+|-
+| ¿Dónde está el aeropuerto? || ''Where is the airport?''
+|}
+
+Questions can also be posed within a sentence:
+
+{| border=&quot;1&quot; bgcolor=&quot;#99FF99&quot;&quot;
+|-
+| Y tú, ¿cuántos años tienes?
+| ''How old are you?'' (Literally: ''And you, how many years do you have?'')
+|-
+| Entonces, ¿por qué no puedo jugar con él?
+| ''So, why can't I play with him?''
+|}
+
+'''Exercise''': [[Spanish/Exercises/Questions|Questions]]
+
+----
+
+== Grammar - Possessive Adjectives ==
+
+Like English, the Spanish possessive adjectives differ depending on the person they are referring to. Unlike English, the possessive article also changes depending on the number of items that one possesses (for example: '''mi libro''' = ''my book'', '''mis libros''' = ''my books''). It can also change depending on the gender of the item (for example: '''nuestro perro''' = ''our dog'', '''nuestra casa''' = ''our house''').
+The following table summarizes all Spanish possessive adjectives:
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#9999FF&quot;
+|-
+! Person  
+! Singular  
+! Plural  
+! &lt;i&gt;English	&lt;/i&gt;
+!
+Examples
+|-
+| yo || mi           || mis          
+| &lt;i&gt;my &lt;/i&gt; ||
+mi lápiz
+|-
+| tú || tu           || tus          
+| &lt;i&gt;your	&lt;/i&gt; ||
+tu lápiz
+|-
+| él || su, de él || sus           || &lt;i&gt;his&lt;/i&gt; ||
+su lápiz, el lápiz de él
+|-
+| ella || su, de ella || sus, de ella || &lt;i&gt;her&lt;/i&gt; ||
+su lápiz, el lápiz de ella
+|-
+| usted || su, de usted || sus, de usted
+| &lt;i&gt;your&lt;/i&gt; ||
+su lápiz, el lápiz de usted
+|-
+| nosotros/nosotras || nuestro, nuestra, de nosotros  
+|
+nuestros, nuestras
+| &lt;i&gt;our &lt;/i&gt; || nuestro lápiz, el lápiz de
+nosotros
+|-
+| vosotros/vosotras || vuestro, vuestra
+| vuestros, vuestras || &lt;i&gt;your	&lt;/i&gt; ||
+vuestro lápiz
+|-
+| ellos || su, de ellos || sus, de ellos
+| &lt;i&gt;their	&lt;/i&gt; ||
+su lápiz, el lápiz de ellos
+|-
+| ellas || su, de ellas || sus, de ellas
+| &lt;i&gt;their&lt;/i&gt; ||
+su lápiz, el lápiz de ellas
+|-
+| ustedes || su, de ustedes || sus, de ustedes
+| &lt;i&gt;your&lt;/i&gt; ||
+su lápiz, el lápiz de ustedes
+|}
+
+*Possessive Pronouns are &lt;b&gt;not&lt;/b&gt; used when talking about body parts:&lt;br&gt;
+
+{| border=&quot;1&quot; bgcolor=&quot;#99FF99&quot;
+|-
+| mi nariz (la nariz de él) || my nose (his nose)
+|-
+| mi dedo (el dedo de él) || my finger (his finger)
+|-
+| mis manos (las manos de él) || my hands (his hands)
+|-
+| mis ojos (los ojos de él) || my eyes (his eyes)
+|}
+
+'''Exercise''': [[Spanish/Exercises/Possessive Adjectives|Possessive Adjectives]]
+
+----
+
+== Grammar - Comparisons ==
+
+=== Equality ===
+
+Spanish uses three slightly different constructions for comparisons of equality. One for comparing verbs,
+one for comparing nouns and one for comparing adjectives/adverbs. The following examples
+show the three different possibilities:
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#99FF99&quot;
+|-
+| Alberto estudia '''tanto como''' Felicitas.
+| ''Alberto studies as much as Felicitas.''
+|-
+| Yo tengo '''tanto''' dinero '''como''' mi hermano.
+| ''I have as much money as my brother.''
+|-
+| La estudiante es '''tan''' inteligente '''como''' el profesor.
+| ''The student is as intelligent as the teacher.
+|}
+
+When comparing nouns, the ending of '''tanto''' will be modified to '''tanta''', '''tantos''',
+or '''tantas''' in order to match gender and quantity of the noun. The general pattern for comparisons
+of equality is the following:
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#9999FF&quot;
+|-
+| {verb} '''tanto como'''  
+| {verb} ''as much as''  
+|-
+| '''tanto/a/os/as''' {noun} '''como''' 
+| ''as much/as many'' {noun} ''as''
+|-
+| '''tan''' {adjective/adverb} '''como'''
+| ''as'' {adjective/adverb} ''as''
+|}
+
+=== Inequality ===
+
+For comparisons of inequality, Spanish uses the same form for both nouns and adjectives/adverbs. There
+are two types of inequalities: '''más ... que''' (''more than'') and '''menos ... que''' (''less than''):
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#99FF99&quot;
+|-
+| Trabajo '''más''' horas '''que''' tú. 
+| ''I work more hours than you.''
+|-
+| Trabajo '''menos''' horas '''que''' tú.
+| ''I work less hours than you.''
+|-
+| Tom Hanks es '''más''' famoso '''que''' Patrick Stewart.
+| ''Tom Hanks is more famous than Patrick Stewart.''
+|-
+| Patrick Stewart es '''menos''' famoso '''que''' Tom Hanks.
+| ''Patrick Stewart is less famous than Tom Hanks.''
+|}
+
+In general:
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#9999FF&quot;
+|-
+| '''más/menos''' {noun/adjective/adverb} '''que'''
+| ''more/less'' {noun/adjective/adverb} ''than''
+|}
+
+=== Superlatives ===
+
+Superlatives in Spanish are similar to comparisons of inequality: They use '''más''' for ''the most'',
+'''menos''' for ''the least''. Then follows the adjective and finally there is a preposition ('''de'''):
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#99FF99&quot;
+|-
+| Ricardo es el estudiante '''más''' alto '''de''' la universidad.
+| ''Ricardo is the tallest student in the university.''
+|-
+| Plutón es el planeta '''más''' pequeño '''del''' sistema solar.
+| ''Pluto is the smallest planet in the solar system.''
+|-
+| Los diamantes son las gemas '''más''' caras '''del''' mundo.
+| ''Diamonds are the most expensive gems in the world.''
+|-
+| María es la '''más''' inteligente '''de''' la clase.
+| ''Maria is the most intelligent one in the class.''
+|-
+| El libro de Jorge es el '''menos''' interesante '''de''' la clase.
+| ''Jorge's book is the least interesting book in the class.''
+|}
+
+Note that in some cases ('''la más inteligente''') you can just write the article and omit the noun. The
+general pattern for Spanish superlatives is:
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#9999FF&quot;
+|-
+| '''el/la/los/las''' ({noun}) '''más/menos''' {adjective} '''de'''
+| ''the (most/least)''{adjective} {noun} ''in/of''
+|}
+
+'''Exercise''': [[Spanish/Exercises/Comparisons|Comparisons]]
+
+----
+
+== Vocabulario (Vocabulary) - La escuela (School) ==
+
+{| border=&quot;1&quot; bgcolor=&quot;#FFFF99&quot;
+|-
+! La escuela  
+! ''The school''
+|-
+| &lt;center&gt;Nombres &lt;/center&gt; || &lt;center&gt;''Nouns''&lt;/center&gt;
+|-
+| el profesor, la profesora || ''the teacher, the professor''
+|-
+| el maestro, la maestra || ''the primary school teacher''
+|-
+| el rector, la rectora
+| ''the university president, the school principal''
+|-
+| el colegio  
+| ''the primary school'' (Spain), ''the K-12 school'' (Chile)  
+|-
+| la escuela  
+| ''the school'' (all senses), ''the primary School'' (Chile)  
+|-
+| el instituto  
+| ''the secondary school'' (Spain)  
+|-
+| el liceo  
+| ''the secondary school'' (Chile)  
+|-
+| la preparatoria  
+| ''the secondary school'' (Mexico)  
+|-
+| la universidad || ''the university, the college''
+|-
+| la biblioteca || ''the library''
+|-
+| la librería || ''the book store''
+|-
+| el libro de texto || ''the text book''
+|-
+| el curso, la clase || ''the course, the class''
+|-
+| el exámen || ''the final exam''
+|-
+| los deberes, las tareas escolares, la tarea
+| ''the homework''
+|-
+| la actividad extracuricular || ''the extracurricular activity''
+|-
+| el club || ''the club''
+|-
+| la ajedrez || ''the chess''
+|-
+| la banda || ''the band''
+|-
+| el equipo || ''the team''
+|-
+| el coro || ''the choir''
+|-
+| el fotografía || ''the photography''
+|-
+| el teatro || ''theater''
+|-
+| &lt;center&gt;Verbos &lt;/center&gt; || &lt;center&gt;''Verbs''&lt;/center&gt;
+|-
+| ''Verbos'' || &amp;nbsp;
+|-
+| aprender || ''to learn''
+|-
+| estudiar || ''to study''
+|-
+| leer || ''to read''
+|-
+| calcular || ''to compute, to calculate''
+|-
+| hacer un proyecto || ''to do a project''
+|-
+| preguntar || ''to ask''
+|-
+| contestar || ''to answer''
+|-
+| discutir || ''to argue''
+|-
+| &amp;nbsp; || &amp;nbsp;
+|-
+| &lt;center&gt;Adjectivos &lt;/center&gt; || &lt;center&gt;''Adjectives''&lt;/center&gt;
+|-
+| fácil || ''easy''
+|-
+| difícil || ''difficult''
+|-
+| interesante || ''interesting''
+|-
+| aburrido, pesado || ''boring''
+|-
+| inteligente || ''intelligent''
+|-
+| estúpido, tonto || ''stupid, dumb, silly''
+|}
+
+----
+{{Spanish}}
+
+[[Category:Spanish]]</text>
+      <sha1>0pijyzw1eoqun5mbhifvd2h2dh5sxpk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Biology bookshelf</title>
+    <ns>4</ns>
+    <id>472</id>
+    <restrictions>edit=autoconfirmed:move=autoconfirmed</restrictions>
+    <revision>
+      <id>2255714</id>
+      <parentid>2255546</parentid>
+      <timestamp>2012-01-22T22:57:59Z</timestamp>
+      <contributor>
+        <username>Addihockey10 (automated)</username>
+        <id>502783</id>
+      </contributor>
+      <minor />
+      <comment>/* Other topics */Replaceing raster images with vector equivalents, replaced: 75%.png → 75%.svg using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">{{deprecated bookshelf|[[Subject:Biology]]}}
+{{bookshelves}}
+{{bookshelf|Biology bookshelf}}
+{{stages}}
+__TOC__
+
+{{Requested books}}
+== Introductory textbooks ==
+* [[General Biology]]
+
+{{Requested books}}
+== Subfields ==
+{{Goodbook/Human Physiology||box=width: 300px; float: right;}}
+{{See also|Wikibooks:Natural sciences bookshelf#Ecology}}
+{{See also|Wikibooks:Social sciences bookshelf#Anthropology}}
+* [[Anatomy]]
+** [[Human Anatomy]]
+** [[Histology]]
+* [[Biochemistry]]
+* [[Bioinformatics]]
+* [[Botany]]
+* [[Cell Biology]]
+* [[Developmental Biology]]
+* [[Dendrochronology]]
+* [[Ecology]]
+* [[Evolutionary Biology]]
+** [[Introduction to Paleoanthropology]] (Human evolution)
+** [[Phylogenetics]]
+* [[Genetics]]
+* {{PDF|Human Physiology}}
+* [[Microbiology]]
+* [[Molecular Biology]]
+* [[Paleontology]]
+* [[Pathology]]
+* [[Proteomics]]
+* [[Zoology]]
+** [[Animal Behavior]]
+** [[Invertebrate Zoology]]
+** [[Entomology]]
+
+{{Requested books}}
+
+== Biology courses ==
+* [[AP Biology]]
+* [[IB Biology]]
+* [[A-level Biology]] {{stage |75%|Jun 02, 2008}}
+* [[GCSE Science/Contents#Biology|GCSE Biology]]
+* [[FHSST Biology|Free High School Science Texts: Biology]]
+* [[WJEC GCSE Biology]] {{stage |00%|Dec 05, 2008}}
+
+{{Requested books}}
+
+== Interdisciplinary fields ==
+* [[Systems Biology]]
+* [[Bioinformatics]]
+* [[Neuroscience]]
+* [[Biotechnology]]
+* [[Immunology]]
+* [[Methods Manual for Salt Lake Studies]]{{stage |25%|26 Feb, 2009}}
+
+{{Requested books}}
+== Other topics ==
+* [[Biology, Answering the Big Questions of Life]] [[Image:75%.svg]]
+* [[Biology Laboratory Techniques]]
+* [[Dichotomous Key]]
+* [[Unsolved problems in biology]] [[Image:25%.svg]]
+* [[General Biology/Gallery of Biologists|Gallery of Biologists]] [[Image:25%.svg]]
+* [[MolecularBiologyForMasters|Molecular Biology (for Masters Degree)]]
+* [[The Descent of Man]]
+
+{{Associated Wikimedia| Biology
+|Commons category     = Biology
+|Wikinews portal      = 
+|Wikinews category    = Biology
+|Wikipedia            = Biology
+|Wikipedia category   = Biology
+|Wikipedia portal     = 
+|Wikiquote            = 
+|Wikiquote category   = 
+|Wikisource           = 
+|Wikisource category  = Biology
+|Wikiversity portal   = 
+|Wikiversity school   = Biology
+|Wikiversity category = Biology
+|Wiktionary           = biology
+|Wiktionary appendix  = Biology
+|Wiktionary category  = 
+}}
+
+[[de:Regal:Biologie]]</text>
+      <sha1>kek6xqymbhqj3z7hjhd26a08dymbqe7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Classification of Living Things/Eukaryotes/Animals/Chordates</title>
+    <ns>0</ns>
+    <id>473</id>
+    <revision>
+      <id>2548959</id>
+      <parentid>2532540</parentid>
+      <timestamp>2013-08-11T10:19:41Z</timestamp>
+      <contributor>
+        <ip>111.125.209.20</ip>
+      </contributor>
+      <comment>/* Subphylum Urochordata */</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+
+=Chordates=
+The phylum Chordata includes three subphyla. These include vertebrates and invertebrate chordates.
+
+==Characteristics==
+Notochord: the rod-shaped supporting axis found in the dorsal part of the embryos of all chordates, including vertebrates
+
+Flexible, non-collapsible rod dorsal to the gut/coelom and below the nervous system, hydrostatic, fluid wrapped in tough connective tissue. As bone does not compact, muscles tensed on one side result in movement instead of shortening the animal. This allows much better locomotion than do cilia for larger animals in water, a crucial victory for later success.
+
+Pharyngeal slits: Slits in the pharynx originally used to gather food, water enters the mouth, passes through pharynx and out gill-like slits, passing through a cavity called an antrium and then outside. In humans, present only in embryo.
+
+Dorsal nerve cord: A neural tube dorsal to the notochord
+
+Postanal tail: Elongation of the body and notochord, nerve cord and muscles past anus into tail, early locomotive function led to success. 
+
+Non-synapomorphic characteristics (not limited to chordates):
+* bisymmetrical (bilateral symmetry)
+* segmented muscles and bones
+
+==Subphylum Urochordata==
+The tunicates are located in this subphylum. Along with the subphylum Cephalochordata, these two subphyla make up the invertebrate chordates. Only the tunicate larvae have notochords, nerve cords, and postanal tails. Most adult tunicates are sessile, filter-feeders which retain their pharyngeal slits. Adult tunicates also develop a sac, called a tunic, which gives tunicates their name. Cilia beating within the turnicate cause water to enter the incurrent siphon. The water enters the body, passes through the pharyngeal slits, and leaves the body through the excurrent siphon. Undigested food is removed through the anus. Tunicates are hemaphrodites and can reproduce asexually through budding.In urochordates notochord is confined to larval tail.These lack cranium.
+These have an open type of circulatory system.Excretion is by neural gland,nephrocytes.there are two siphons through which water enters and exit.they have a tubular heart.they have a tough outer covering.example acidia
+
+== Subphylum Cephalochordata ==
+The lancelets are located in this subphylum. Along with the subphylum Urochordata, these two subphyla make up the invertebrate chordates. Lancelets receive their name from their bladelike shape. They resemble fish but they are actually scaleless chordates only a few centimeters long. They spend most of their time buried in the sand with their mouths protruding. Fossils of lancelets have been found to be over 550 million years old.
+
+Dropped out sessile stage, what was the larval stage is now sexually reproductive. Includes Branchiostoma (“amphioxus”).
+
+==Subphylum Vertebrata==
+(Vertebra from Latin vertere, to turn). 
+Characterized by separate bones or cartilage blocks firmly joined as a backbone. The backbone supports and protects a dorsal nerve cord. Vertebrates have tissues which are organized into organs which in turn are organized into organ systems.
+
+All vertebrates share the following characteristics:
+- segmentation
+- a true coelom
+- bilateral symmetry 
+- cephalization
+- a backbone
+- a bony skull
+- a closed circulatory system
+- chambered heart
+- two pairs of jointed appendages
+- tissues organized into organs
+
+Vertebrate Organ Systems:
+- Nervous System
+- Circulatory System
+- Digestive System
+- Respiratory System
+- Reproductive System
+- Excretory System
+
+* Vertebral column: Not present in higher vertebrate adults. (In humans, the gel-like, spongy core of the vertebral column is the only remainder. Ruptured or herniated disc is an injury to this.)
+* Cranium: Composite structure of bone/cartilage. Two functions: 1. Supports sensory organs of head and 2. Encloses or partially encloses the brain.
+
+What evolutionary relationship could we imagine between sessile echinoderms and the higher chordate animals? 
+
+Paedomorphic (child-form) hypothesis: basically, evolution of sexual reproduction in what had previously been a larval life stage, or the retention of at least one juvenile characteristic into the adult (adult = sexually reproducing) stage. Some scientists believe that this occurred in a proto-chordate animal lineage. Maybe chordates (and vertebrates) arose from sessile (attached) ancestors. Selection in these proto-chordates maybe began to favor more time in the larval stage, as feeding was more successful or mortality lower in this stage. As larvae got bigger physics shows that the cilia become less efficient for locomotion, favoring the undulating motion allowed by a notochord.
+
+Is this hypothesis crazy? A similar example of this today is Epemeroptera, the mayfly, which has almost abandoned its adult stage. Its one-year lifespan is mostly larval with just a brief day of reproduce-and-die as an adult, which doesn’t even have usable mouthparts. 
+
+Tunicate (sea squirt) larva has all four chordate characteristics, although adult sessile (“attached”).
+
+===Class Agnatha===
+&quot;jawless fish&quot;
+* Ostracoderms: extinct Agnathans which had primitive fins and massive plates of bony tissue on their body.
+* Cyclostomes: &quot;circle mouth&quot; - a group of Agnathans which is still alive in the form of lampreys and hagfish.
+Appeared approximately 500 million years ago and dominated the oceans for about 100 million years. 
+The first group of fish to appear. They had neither jaws, paired fins, nor scales, but they were the first organisms with a backbone.
+
+====Class Acanthodia====
+&quot;spiny fish&quot;
+Appeared about 430 million years ago. 
+An extinct class of fish that developed jaws with bony edges. They had internal skeletons made of cartilage and some bone.
+
+====Class Placodermi====
+Appeared about 410 million years ago, dominated the sea for about 50 million years.
+An extinct class of fisive heads.
+
+===Class Chondrichthyes===
+&quot;cartilaginous fish&quot;
+Appeared about 400 million years ago with bony fish.
+Includes sharks, skates and rays, and chimaeras. 
+Their skeletons are made of cartilage strengthened by the mineral calcium carbonate. 
+
+The main characteristics and distinguishing features of this class: 
+- gills
+- single-loop blood circulation
+- vertebral column
+- presence of placoid scales on their bodies
+- internal skeleton of cartilage
+- paired, fleshy pectoral and pelvic fins
+- asymmetrical tail fin prevents sinking
+- fatty liver provides neutral buoyancy
+- visceral clefts present as separate and distinct gills
+- no external ear
+- oviparous
+- internal fertilization
+- ectoderms
+- cold blooded
+
+===Class Osteichthyes===
+&quot;bony fish&quot;
+Appeared about 400 million years ago with cartilaginous fish.
+Includes about 95% of today's fish species.
+
+=====Subclass Sarcopterygii=====
+fleshy-finned fishes. Fins have bones and muscles, homologous to our limbs. 
+
+=====Order Dipnoi=====
+lung fishes, two groups isolated when continents separated
+
+=====Order Crossopterygii=====
+includes coelacanths and rhipodistians, gave rise to amphibians, had lungs which evolved into a swim bladder in bony fishes, and labyrinthodont teeth, characterized by complex folding of enamel.
+
+
+•	Skeleton made of bone, jaws, fins, most with scales, two-chambered heart.
+
+===Class Amphibia===
+means “both lives”, aquatic larvae, terrestrial adult
+Amphibians:
+- Legs
+- Lungs
+- Double-Loop Circulation
+- Partially Divided Heart
+- Cutaneous Respiration (Breathes through Skin)
+
+=====Order Salientia=====
+frogs (jumping) (aka Anura)
+
+=====Order Urodela=====
+salamanders (tailed)
+
+Labyrinthodont amphibians: oldest known amphibians, inherited characteristic teeth from crossopterygii ancestor, had stocky, aquatic larvae.
+
+Amphibians have limbs instead of fins. Girdles and vertebral column now more substantial and connected, support body on legs.
+
+Lisamphybia: no scales, “smooth”, eggs with no shell, laid in water (water-reliant).
+
+Amphibians gave rise to cotylosaurs, from which arose dinosaurs, turtles, lizards, and therapsids. 
+
+====[[en:Reptiles|Class Reptilia]]====
+amniotic egg allowed freedom from water, shelled egg. (Amnion: protection). Reptiles have four extra-embryonic membranes:
+* Amnion: supports aquatic environment inside egg in fluid sac.
+* Allantois: allows gas exchange and elimination of wastes. 
+* Chorion: gas exchange
+* Yolk sac: only one of the four left over from amphibian ancestor
+Reptiles cold-blooded, or ectothermic, meaning that their heat come from their environment. Sometimes defined as all amniotes that are not birds or mammals.
+
+Reptiles can be classified by skull structure into four groups:
+* Anapsid
+* Synapsid
+* Diapsid
+* Euryasid
+Refers to number of holes in the skull. Cotylosaurs had Anapsid skull
+
+Dermatocranium: from bony outer skull structure, precursor to human cranium. 
+
+=====Subclass Anapsidia=====
+
+
+=====Subclass Testudinata=====
+[[en:turtle|turtles]], terrapins
+
+=====Subclass Diapsida=====
+[[en:dinsosaur|dinosaurs]], [[en:snake|snakes]], most stuff
+
+=====Subclass Synapsida=====
+
+======Order Therapsids======
+
+=====Subclass Diapsida=====
+includes Ichthyosaurs, marine reptiles convergent on dolphins; 
+Plesiosaurs, ancient sea monsters; 
+Squamates, including lizards and snakes; and 
+Thecodonts, which gave rise to
+* birds 
+* dinosaurs
+* crocodilians 
+
+Dinosaurs: broken into two groups, based on hip structure
+
+* Saurischia: lizard hips (gave rise to birds [!]), ancestrally bipedal
+* Ornithischian: bird hips, ancestrally quadripedal
+
+Crocodilians: come from archosaurs, the only extant (still living today) archosaur descendant. Ancestrally bipedal, secondarily quadripedal.
+
+Synapsids: refers to joined (Greek syn-, together with) parts of skull. Led eventually to mammals. Synapsid pelycosaur &gt;&gt; therapsid &gt;&gt; mammals
+
+Pelycosaur: Sail-backed dinosaur, legs not spread out like lizard but more pillar-like and under body, allowing greater activity and competence in motion, pendulum like rather than constant push-up. Teeth differentiated into different types, for pre-processing of food needed by higher metabolism. Skull changes, bone histology, suggestions of warm-bloodedness.
+
+====Class Aves====
+arose late Jurassic, early Cretaceous. Feathers, skeleton modified for flight. Feathers: epidermal derivative, made of keratin (like fingernails). Carpometacarpis: bears primary flight feathers, parallel to hand parts. Keeled sternum: breastbone, powerful one needed to support flight muscles. Strong, light, occasionally hollow bones. All birds lay eggs (as contrasted to reptiles, which have developed live birthing over 100 independent times.) Why are there no live-bearing birds? Early birds had teeth, lost them. With mammals, only exothermic animals. 
+
+Archaeopteryx: “ancient wing”, Jurassic bird-reptile, very dinosaur-like. Good fossils found in Zolenhoffen, German sandstone mine with fine sand, shows feathers clearly, found shortly after Darwin’s publication and used to support his hypothesis. Thick, heavy bones and no sternum, bony tail, not a good flyer but did have primary flight feathers. 
+
+Archaeornithes: includes archaeopteryx. 
+
+Paleognathae: gave rise to Australian flightless birds.
+
+Neognathae: remaining live birds.
+
+====[[en:Mammals|Class Mammalia]]====
+Two unique characteristics, or synapomorphies: 
+* Hair 
+* Mammary glands 
+(don’t fossilize well)
+
+Three skeletal characteristics (fossilize) 
+* Lower jaw only one bone, the dentary (several in reptiles)
+* Three bones in middle ear: malleus, incus, stapes (reptiles have one or two, never three)
+* Joint between upper and lower jaws between dentary and squamosal of skull (in reptiles this joint is between other bones)
+
+Mammals basically have a synapsid skull design inherited from ancestor
+
+Non diagnostic characteristics (not unique to mammals):
+* Warm-blooded
+* Skin glands: sweat glands and oil-producing sebaceous glands
+* Large nasal cavities (because of high metabolism) Clean, warm and humidify air
+* Heterodonty (differentiated teeth)
+* Diphiodonty: two sets of teeth: baby and adult (“deciduous” teeth, drop out) (reptile teeth are continually replaced)
+
+=====Subclass Protheria=====
+monotremes (Greek mon-, one; and trema, hole), or egg-laying mammals, have one opening for excretion and urination.
+
+=====Subclass Theria=====
+Metatheria: Marsupials (opossum, kangaroo…)
+Eutheria: Placental mammals (all common mammals)
+
+Marsupium: (from Greek marsypion, purse or pouch). Gestation period much shorter than in Eutherian mammals, but after leaving the uterus the tiny offspring crawls into a pouch where it completes development latched onto a teat. 
+
+Recent molecular (read: genetic) evidence suggests that two different mammal groups may have developed live-bearing ability separately. Instead of being a “rough draft” for placental-style live bearing, perhaps the marsupial pouch approach is another solution to the same problem. Advantage: in tough times the parent can pitch out the offspring and increase its own chance of survival.</text>
+      <sha1>8je46somibmfes8sjv6clb9t5okpc5m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Tissues</title>
+    <ns>0</ns>
+    <id>474</id>
+    <revision>
+      <id>961090</id>
+      <parentid>509315</parentid>
+      <timestamp>2007-09-07T18:21:36Z</timestamp>
+      <contributor>
+        <username>Whiteknight</username>
+        <id>10714</id>
+      </contributor>
+      <minor />
+      <comment>moving pages from subject category to book category</comment>
+      <text xml:space="preserve">[[General Biology]]
+----
+=Vertebrate tissues =
+'''Definition of tissue:''' an aggregation of cells, usually of the same kind, organized to perform a common function. A group of similar cells organized into a structural and functional unit (Raven/Johnson). Primary categories of adult tissues (non-dogmatic categories of convenience): 
+
+#[[General Biology/Epithelial tissue|Epithelial tissue]]
+#[[General Biology/Connective tissue|Connective tissue]] ''Includes bone and blood tissues''
+#[[General Biology/Muscle tissue|Muscle tissue]] 
+#[[General Biology/Nervous tissue|Nervous tissue]]
+
+{{BookCat}}</text>
+      <sha1>lflkyj0s1o1g49sk8uu6uuvpak7y6ar</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Evolution</title>
+    <ns>0</ns>
+    <id>476</id>
+    <revision>
+      <id>1318813</id>
+      <parentid>1318750</parentid>
+      <timestamp>2008-10-27T21:32:39Z</timestamp>
+      <contributor>
+        <username>Obscureownership</username>
+        <id>130832</id>
+      </contributor>
+      <comment>deleted the introduction section, redundant because of the newly added evolution intro page</comment>
+      <text xml:space="preserve">
+{{GenBioTOC}}
+&lt;br&gt;
+{{GenBioEvolution}}
+&lt;br&gt;
+{{GenBioTOC2}}</text>
+      <sha1>b5r9d0waimagzqe4xy9e4q58l6fyv7v</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

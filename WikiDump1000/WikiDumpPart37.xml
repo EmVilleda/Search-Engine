@@ -1,0 +1,1566 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Talk:High School Mathematics Extensions/Supplementary/Complex Numbers</title>
+    <ns>1</ns>
+    <id>1356</id>
+    <revision>
+      <id>1519191</id>
+      <parentid>185167</parentid>
+      <timestamp>2009-06-04T03:42:48Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>moved [[Talk:HSE Complex number]] to [[Talk:High School Mathematics Extensions/Supplementary/Complex Numbers]]:&amp;#32;Title casing, moving into book.</comment>
+      <text xml:space="preserve">Please help with new content and spelling and grammar errors. I'm sick of correcting my own mistakes already!
+
+Don't let it get you down. We all have the same problem, there are just too few of us at the moment. The page so far look really nice. [[User:Theresa knott|Theresa knott]] 14:18, 3 Nov 2003 (UTC)
+
+I hope my edits aren't unwelcome; I realize some of them are pretty major. I've been trying to order things such that they make sense to somebody who is completely unfamiliar with the concepts involved. I didn't realize I was invading someone's turf... I just got bored studying for finals, so I started clicking 'Random Page' until I found something I felt I could contribute to. :-) [[User:Glenn Willen|Glenn Willen]] 02:13, 10 May 2004 (UTC)
+
+:Don't be daft! Wikibooks is a collaboration.[[User:Theresa knott|Theresa knott]] 09:04, 10 May 2004 (UTC)
+
+==Namespacing nitpick==
+I can see right here one of the practical problems with book-specific namespacing (and also with &quot;breadcrumbs&quot; like &quot;&lt; High School Extensions&quot;). This page _should_ be useful for at least one of the &quot;standard&quot; math books in addition to HSE (which one depending on whose curriculum standards you like), but namespacing makes that awkward. Breadcrumbs are nice, but they inhibit reuse... the quickest, easiest solution I can see is to namespace more broadly (i.e. &quot;Math:Complex number&quot;) or not at all (just &quot;Complex number&quot; as this was previously named), and to provide multiple sets of breadcrumbs at the top of a multiply-used page...  what do people think?
+
+==Suggested To Do list==
+*Argand diagrams
+- Do you want to borrow mine? [[User:Dysprosia|Dysprosia]] 09:33, 4 Nov 2003 (UTC)
+*Historical controversy and the &quot;meaning&quot; of complex numbers
+*practical uses of complex numbers  eg electronics
+*Julia and Mandelbrot sets ([[User:R3m0t|r3m0t]] stares, zooms in, stares again...)
+
+==Suggested To Do list==
+*Argand diagrams
+- Do you want to borrow mine? [[User:Dysprosia|Dysprosia]] 09:33, 4 Nov 2003 (UTC)
+*Historical controversy and the &quot;meaning&quot; of complex numbers
+*practical uses of complex numbers  eg electronics
+*Julia and Mandelbrot sets ([[User:R3m0t|r3m0t]] stares, zooms in, stares again...)
+
+==Links you might like to take a look at==
+* http://mathforum.org/johnandbetty/frame.htm A childrens book of complex numbers.
+
+
+&lt;br&gt;
+Thanks [[User:Xiaodai]]
+
+== I'm finally doing some more serious contributing! ==
+
+I'm beginning to get the warm and fuzzy Wiki spirit inside me... [[User:R3m0t|r3m0t]] 00:13, 2 Jan 2004 (UTC)
+
+:Keep it up r3m0t! I just want to say when i drew up those ''plans'', they are not meant to be the headings, they are there to remind me of what I want to talk about. So you might want to get creative and use your own headings, divide the chapter your way and write about things the way you desire. Don't let those ''plans'' dictate to you what you should write, or in what order you should write it. [[User:Xiaodai|Zhuo Jia Dai]]
+
+Am I right in thinking that every integer is real? In other words, is a number such as 4 + 5''i'' an integer? [[User:R3m0t|r3m0t]] (whoops, forgot to sign, nevermind)
+
+yes. although 4 + 5i are sometimes called Gaussian integers, we mean integers when we say integers nothing else. [[User:Xiaodai|Zhuo Jia Dai]]
+
+==Some very neat work on number system there==
+Congratulation on some very neat work on number system there, r3m0t. Keep it up. [[User:Xiaodai|Zhuo Jia Dai]]
+
+== Set theory not suitable for this level ==
+I dont know what is taught in high school around the world. But set theory isn't taught in Australian high schoool. So one part of this chapter has to be rewritten, slightly. [[User:Xiaodai|Xiaodai]] 08:59, 10 Jul 2004 (UTC)
+
+I learned basic set theory (Venn Diagrams, sets, intersections, unions) at the age of 9. It certainly is not too complicated to be taught at this level.--[[User:206.127.177.59|206.127.177.59]] 21:09, 2 Apr 2005 (UTC)
+
+Yeah, some of the set stuff is really not hard at all. But we don't learn it at all in South African primary/secondary schools. --[[User:168.209.97.34|168.209.97.34]] 20:13, 23 Jun 2005 (UTC) (Taejo in English Wikipedia)
+
+== DeMoivre's theorem not suitable  ==
+The student may not have had exposure to the natural logarithms at this level.  It would be acceptable to include information about polar complex plane in the form  z = r cos theta + ir sin theta. So a complex number in polar coordinates is like ( r, theta ).  --[[User:206.127.177.59|206.127.177.59]] 21:09, 2 Apr 2005 (UTC)
+
+yeah i agree, it is too hard for me (lol im crap at math anyway)
+
+Note on curricula: In South Africa logarithms are taught to Math &quot;Higher Grade&quot; students in the final year. Natural logarithms are not taught in high school. --[[User:168.209.97.34|168.209.97.34]] 20:13, 23 Jun 2005 (UTC) (Taejo on English Wikipedia)
+
+== SOMEONE HELP ME!!!!!!!!!!!!!!!! ==
+alright im only in year 9 so dont get too technical. theres this question that goes:
+find all values of a such that there are two real solutions to the equation
+   x^3+(a-1)x^2+(9-a)x-9=0
+can someone just tell me how to do cubics???
+
+and i dunno whats calculus my teacher said i need it
+DONT GET TOO HARD!!!
+
+edit: sorry its supposed to be 1 after a (thanks for telling me)
+
+First of all, don't use all capital letters LIKE THIS, this is considered shouting in internet culture.
+To your question, I think either you wrote the wrong question here or your teacher made a mistakes(or you're in a pre-university class, then).
+At first, I thought you could take one of these approaches
+* Use the formula directly(involved matrix actually)
+''a''&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;2&lt;/sup&gt;''a''&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;2&lt;/sup&gt;&amp;nbsp;&amp;minus;&amp;nbsp;4''a''&lt;sub&gt;0&lt;/sub&gt;''a''&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;3&lt;/sup&gt;&amp;nbsp;&amp;minus;&amp;nbsp;4''a''&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;3&lt;/sup&gt;&amp;nbsp;+&amp;nbsp;18&amp;nbsp;''a''&lt;sub&gt;0&lt;/sub&gt;''a''&lt;sub&gt;1&lt;/sub&gt;''a''&lt;sub&gt;2&lt;/sub&gt;&amp;nbsp;&amp;minus;&amp;nbsp;27''a''&lt;sub&gt;0&lt;/sub&gt;&lt;sup&gt;2&lt;/sup&gt;
+* Use Vieta's Substitution to work out the solution directly.
+* Differentiate it, then the discriminant of the resulting quadratic equation should be greater than zero, and one of the solution of the quadratic should also be the solution to the cubic, use vieta again to solve it.
+* Let one of the root be k, then divide the cubic equation with x-k, the resulting quadratic should be a prefect square, that is, the discriminant of it should be zero.
+
+Now, the trouble is that all of the method above are far too complex for a grade 9 student, and even if there is an answer, it is too clumsy..(I tried, but found out the algebra expression grows very long, I also tried using a grphic calculator, and the result seems to be an irrational number) Well, once we're at cubic things never go nicely, vieta's substitution itself are too complex already itself.--[[User:Lemontea|Lemontea]] 10:51, 14 Jun 2005 (UTC)
+
+
+Edit:Ok, tried method one on a equation solver and the answer match with what I found on the graph. a= 9+2.788273389 or 9-35.48344244 , now both seems to be irrational numbers...
+
+hmm, it isnt supposed to be hard. its in this noether student problem set, for year 9 (im in australia), and all the other problems are piece of cake. can you please just give me a link to vieta's substitution? i really dont no what it is. thanks
+
+
+Well, in my country Vieta's substitution isn't in the core part of the course and is in the &quot;enrichment&quot; part. Anyway, be perpared that it is going to be a clumsy method, as in history, it is not developed until ~1541, long after the quadratic was solved.
+
+There are more than one approaches to Vieta, but the first step is always to eliminate the quadratic terms. Let x = y + a, where a is a constant, substitute into the equation, and find &quot;a&quot; such that the quadratic term's coeifficient become zero.
+
+There're two way to go after this, the first is to let y = p + q and compare coeifficient to find out p&lt;sup&gt;3&lt;/sup&gt; + q&lt;sup&gt;3&lt;/sup&gt; and (pq)&lt;sup&gt;3&lt;/sup&gt;.
+
+The second method is to let y = z + b/z. Now find the value of b such that it reduces into quadratic, which can be solved with ease.
+
+Hope these helps.
+
+
+Opps, didn't notice your correction on the problem, now it is much easier. First, expand:
+
+&lt;math&gt;x^3 + ax^2 - x^2 + 9x - ax - 9 = 0&lt;/math&gt;
+
+Then factorize:
+
+&lt;math&gt;x^2(x-1) + 9(x-1) + ax(x-1) = 0&lt;/math&gt;
+
+&lt;math&gt;(x^2 + ax + 9)(x-1) = 0&lt;/math&gt;
+
+Now either x = 1 or x&lt;sup&gt;2&lt;/sup&gt; + ax + 9 = 0 . I think you should be able to do it now. --[[User:Lemontea|Lemontea]] 08:06, 24 Jun 2005 (UTC)
+
+
+
+yea i done it, but only found -6 and 6, never thought of when one of the roots of the binomial would be one (damn)</text>
+      <sha1>b0q3zibrng7qfk72xlzpc7yg51r43j5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 4</title>
+    <ns>0</ns>
+    <id>1362</id>
+    <revision>
+      <id>491270</id>
+      <parentid>381592</parentid>
+      <timestamp>2006-06-18T07:37:25Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">&lt; [[GCSE Science/Electricity mutiple choice|Back to Questions]]
+
+A plug contains three wires. Each a different colour: Red, Blue, and green/yellow. Only two of the wires in a plug carry current under normal conditions. These are:
+
+* [[GCSE Science/Electricity multiple choice practice question 4 answer 1|The red and the green/yellow]]
+* [[GCSE Science/Electricity multiple choice practice question 4 answer 2|The blue and the green/yellow]]
+* [[GCSE Science/Electricity multiple choice practice question 4 answer 3|The red and the blue]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>ny07psxcu05qgoozmg9rouzowsfgcqu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 4 answer 3</title>
+    <ns>0</ns>
+    <id>1364</id>
+    <revision>
+      <id>491273</id>
+      <parentid>381585</parentid>
+      <timestamp>2006-06-18T07:37:36Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">This is the correct answer. The red is the live wire and the blue is neutral. Both wires carry current under normal working conditions.
+
+[[GCSE Science/Electricity multiple choice practice question 5|On to the next question&gt;&gt;]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>6dnv2sozcl3rhis3g4e3zyj627ennfy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 4 answer 2</title>
+    <ns>0</ns>
+    <id>1366</id>
+    <revision>
+      <id>491272</id>
+      <parentid>381587</parentid>
+      <timestamp>2006-06-18T07:37:32Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">I'm sorry but this is the wrong answer. The green/yellow is the Earth wire. The Earth wire does not carry any current under normal operating conditions. It is a safety device.
+
+[[GCSE Science/Electricity multiple choice practice question 5|On to the next question&gt;&gt;]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>ssaivb48gi2d6hfhaskm5qz0f8aheh7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 4 answer 1</title>
+    <ns>0</ns>
+    <id>1367</id>
+    <revision>
+      <id>491271</id>
+      <parentid>381589</parentid>
+      <timestamp>2006-06-18T07:37:29Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">I'm sorry but this is the wrong answer. The green/yellow is the Earth wire. The Earth wire does not carry any current under normal operating conditions. It is a safety device.
+
+[[GCSE Science/Electricity multiple choice practice question 5|On to the next question&gt;&gt;]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>ssaivb48gi2d6hfhaskm5qz0f8aheh7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Two polythene strips.png</title>
+    <ns>6</ns>
+    <id>1381</id>
+    <revision>
+      <id>636440</id>
+      <parentid>153497</parentid>
+      <timestamp>2006-11-04T11:06:00Z</timestamp>
+      <contributor>
+        <username>Theresa knott</username>
+        <id>93</id>
+      </contributor>
+      <text xml:space="preserve">digram of a polythene strip in a clamp stand plus another one approaching. Drawn by theresa knott
+
+{{GFDL}}
+{{Cc-by-sa-2.5}}</text>
+      <sha1>r8sv0yiakcsdpfy1gsqyj6czwumi6lf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 5</title>
+    <ns>0</ns>
+    <id>1382</id>
+    <revision>
+      <id>491274</id>
+      <parentid>381544</parentid>
+      <timestamp>2006-06-18T07:37:40Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">[[Image:Two_polythene_strips.png]]
+
+A student rubs a polythene strip with fur and suspends it from a clamp stand. She then rubs another polythene strip with fur and brings it up to the first strip. The two strips repel each other.
+
+Look at the following four statements: 
+*A) One of the strips is neutral, the other charged.
+*B) The strips are both negatively charged.
+*C) The strips are both positively charged.
+*D) The strips are both neutral.
+Which two of the above statements are '''false'''?
+*[[GCSE Science/Electricity multiple choice practice question 5 answer 1|A and B]]
+*[[GCSE Science/Electricity multiple choice practice question 5 answer 2|A and C]]
+*[[GCSE Science/Electricity multiple choice practice question 5 answer 3|A and D]]
+*[[GCSE Science/Electricity multiple choice practice question 5 answer 4|B and C]]
+*[[GCSE Science/Electricity multiple choice practice question 5 answer 5|B and D]]
+*[[GCSE Science/Electricity multiple choice practice question 5 answer 6|C and D]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>986qxyqwm4jw9qp3gidg86lokfm7zmx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Forces</title>
+    <ns>0</ns>
+    <id>1383</id>
+    <revision>
+      <id>565424</id>
+      <parentid>491309</parentid>
+      <timestamp>2006-08-23T18:55:15Z</timestamp>
+      <contributor>
+        <ip>67.17.209.31</ip>
+      </contributor>
+      <text xml:space="preserve">*[[GCSE Science/Movement|How can we describe the way things move?]]
+*[[GCSE Science/Speeding up and slowing down|How do we make things speed up or slow down?]]
+*[[GCSE Science/Acceleration|Acceleration (advanced)]]
+*[[GCSE Science/Force|Force]]
+*[[GCSE Science/Balanced and unbalanced forces|Balanced and Unbalanced Forces]]
+*[[GCSE Science/Newton's second law|F = ma (advanced)]]
+*[[GCSE Science/Kinetic Energy|Kinetic energy]]
+*[[GCSE Science/Momentum|Momentum]]
+*[[GCSE Science/Gravity and Astronomy|Gravity and Astronomy]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>8ap8zxyghtxlknnekjl0y6jn9nq37dw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Latin/Lesson 6-Pronouns</title>
+    <ns>0</ns>
+    <id>1384</id>
+    <revision>
+      <id>2711145</id>
+      <parentid>2711136</parentid>
+      <timestamp>2014-10-07T18:58:33Z</timestamp>
+      <contributor>
+        <ip>31.49.16.11</ip>
+      </contributor>
+      <comment>/* Declension of the Relative pronoun qui, quae, quod: (meaning who, which, he) */</comment>
+      <text xml:space="preserve">{{Latin}}
+
+==Personal Pronouns in English ==
+{| class=&quot;wikitable&quot; width=&quot;50%&quot;
+|-
+! colspan=&quot;2&quot; | &lt;b&gt;Lesson Vocabulary&lt;/b&gt;
+|-
+| align=&quot;center&quot; colspan=&quot;2&quot; |
+|-
+! bgcolor=&quot;#CCFFFF&quot; | &lt;font face=&quot;Arial&quot; size=&quot;4&quot;&gt;Latin&lt;/font&gt;
+! bgcolor=&quot;#CCFFCC&quot; | &lt;font face=&quot;Arial&quot; size=&quot;4&quot;&gt;English&lt;/font&gt;
+|-
+| align=&quot;center&quot; colspan=&quot;2&quot; |
+|-
+| align=&quot;center&quot; bgcolor=&quot;#CCFFFF&quot; | '''cibus'''
+| align=&quot;center&quot; bgcolor=&quot;#CCFFCC&quot; | '''food'''
+|-
+| align=&quot;center&quot; bgcolor=&quot;#CCFFFF&quot; | '''laborat'''
+| align=&quot;center&quot; bgcolor=&quot;#CCFFCC&quot; | '''he/she works'''
+|}
+
+Pronouns are nouns which are used instead of another noun ('pro', in place of 'noun', noun.)
+
+There are three categories of pronouns which are divided up into persons: 1st, 2nd, and 3rd. In addition, pronouns can be singular or plural. They are declined like all other nouns.
+
+{| class=&quot;wikitable&quot;
+!Person
+!Singular
+!Plural
+|-
+|1st
+|I
+|We
+|-
+|2nd
+|You, Thou
+|You (all)
+|-
+|3rd
+|He/She/It
+|They
+|}
+
+==Personal Pronouns in Latin==
+===1st/2nd Person Pronouns===
+====Table of Personal Pronouns in all of their cases: I, thou, we, ye====
+Note: Thou is the archaic singular of the archaic plural ye - useful for distinguishing you (singular) from you (plural)
+
+{| class=&quot;wikitable&quot;
+|-
+|
+! colspan=&quot;4&quot; | Singular
+! colspan=&quot;4&quot; | Plural
+|-
+! Case
+| colspan=&quot;2&quot; | 1st Person
+| colspan=&quot;2&quot; | 2nd Person
+| colspan=&quot;2&quot; | 1st Person || colspan=&quot;2&quot; | 2nd Person 
+|-
+! Nominative
+| ego || I || tū || you
+| nōs || we || vōs || you
+|-
+! Genitive 
+| meī || of me || tuī || of you
+| nostrī(nostrum) || of us || vestrī (vestrum)
+| of you
+|-
+! Dative 
+| mihi || to me || tibi || to/for you
+| nōbīs || to us || vōbīs || to/for you
+|-
+! Accusative 
+| mē || me || tē || you
+| nōs || us || vōs || you
+|-
+! Ablative 
+| mē || from me || tē || from you
+| nōbīs || from us || vōbīs || from you
+|}  
+
+Nota Bene: the genitive is used in certain phrases like:
+#memor nostrī, mindful of us
+#paucī vestrum, a few of you.
+
+For the possessive uses (my sister, your bicycle), Latin does not use the genitive, but the possessive adjectives:
+
+{| class=&quot;wikitable&quot; 
+!bgcolor=&quot;#CCFFFF&quot;|Latin
+!bgcolor=&quot;#CCFFCC&quot;|English
+|-
+|bgcolor=&quot;#CCFFFF&quot;|meus, mea, meum ||bgcolor=&quot;#CCFFCC&quot;| my
+|-
+|bgcolor=&quot;#CCFFFF&quot;|tuus, tua, tuum ||bgcolor=&quot;#CCFFCC&quot;| thy
+|-
+|bgcolor=&quot;#CCFFFF&quot;|suus, sua, sum ||bgcolor=&quot;#CCFFCC&quot;| his/hers, its, their
+|-
+|bgcolor=&quot;#CCFFFF&quot;|noster, nostra, nostrum ||bgcolor=&quot;#CCFFCC&quot;| our
+|-
+|bgcolor=&quot;#CCFFFF&quot;|vester, vestra, vestrum  ||bgcolor=&quot;#CCFFCC&quot;| your
+|-
+|bgcolor=&quot;#CCFFFF&quot;|Pater noster ||bgcolor=&quot;#CCFFCC&quot;| Our father
+|}
+
+===3rd Person Pronouns===
+Technically, 3rd person pronouns do not exist in Latin as they do in English. However, they do have equivalents.
+
+Adjectives modify nouns and take the gender of the noun which they modify. However, adjectives do not necessarily need a substantive present in the sentence to modify. The substantive can be presumed. In this way, '3rd person' pronouns are formed. 
+
+====Example 1====
+Take the masculine form of the adjective 'ille'. Literally it means 'That (masculine) thing.' However one could take it for simply meaning 'he', depending on the context. Similarly, the pronoun 'iste' means 'this (masc.) thing'. Iste and ille are declined in exactly the same way.
+
+If no substantive is provided assume words like these: 'man', 'woman', 'thing', 'idea', 'concept', 'reason' etc. Let context be your guide.
+
+===Common Adjectives Used as 3rd Person Pronouns In Latin===
+====Declension of Ille (that)====
+
+{| class=&quot;wikitable&quot;
+|+ Declension of ''ille'' (that): Singular
+|-
+| rowspan=&quot;2&quot; | 
+! colspan=&quot;3&quot; | Latin
+! colspan=&quot;3&quot; | English
+|-
+! Masculine 
+! Feminine
+! Neuter
+! Masculine
+! Feminine
+! Neuter
+|-
+! Nominative 
+| ille  || illa || illud || he || she || it 
+|-
+! Genitive 
+| illius  || illius || illius || his || her, hers || its 
+|-
+! Dative 
+| illī  || illī || illī || to him || to her || to it 
+|-
+! Accusative 
+| illum  || illam || illud || him || her || it 
+|-
+! Ablative 
+| illō  || illā || illō || by, with, from him || her || it 
+|-
+|}
+
+{| class=&quot;wikitable&quot;
+|+ Declension of ''ille'' (that): Plural
+|-
+| rowspan=&quot;2&quot; | 
+! colspan=&quot;3&quot; | Latin
+! colspan=&quot;3&quot; rowspan=&quot;2&quot; | English
+|-
+! Masculine 
+! Feminine
+! Neuter
+|-
+! Nominative 
+| illī || illae || illa || they, those
+|-
+! Genitive 
+| illōrum || illārum || illōrum || their, theirs, of those
+|-
+! Dative 
+| illīs || illīs || illīs || to them, to those
+|-
+! Accusative 
+| illōs || illās || illa || them, those
+|-
+! '''Ablative'''
+| illīs || illis || illīs || by, with, from them, those  
+|-
+|}
+
+Ille is often used as a kind of pronoun. In situations with multiple phrases or sentences, however, it is syntactically different from is, ea, id (see below).
+
+For example: &quot;Canis puero cibum dat. Is laborat in agro.&quot; means &quot;The dog gives food to the boy. The dog works in the field&quot;.
+
+However: &quot;Canis puero cibum dat. Ille laborat in agro.&quot; means &quot;The dog gives food to the boy. The boy works in the field&quot;.
+
+Thus, ille, unlike the other pronouns makes a previous object into the subject (and vice versa).
+
+====Examples of the Usage of Ille:====
+{| class=&quot;wikitable&quot;
+!bgcolor=&quot;#CCFFFF&quot;|Latin
+!bgcolor=&quot;#CCFFCC&quot;|English
+|-
+|bgcolor=&quot;#CCFFFF&quot;|Ille est dominus. ||bgcolor=&quot;#CCFFCC&quot;| He is the master. (ille as pronoun)
+|-
+|bgcolor=&quot;#CCFFFF&quot;|Ille dominus est malus. ||bgcolor=&quot;#CCFFCC&quot;| That master is bad. (ille as adjective) 
+|-
+|bgcolor=&quot;#CCFFFF&quot;|Illam videt ||bgcolor=&quot;#CCFFCC&quot;| He sees her. (or 'she sees her' - illam as pronoun)
+|-
+|bgcolor=&quot;#CCFFFF&quot;|Illam puellam videt ||bgcolor=&quot;#CCFFCC&quot;| He (or she) sees that girl (illam as adjective).
+|}
+
+====Declension of Is, ea, id: (personal pronouns w/ translations)====
+{| class=&quot;wikitable&quot;
+|+ Singular
+!Case
+!colspan=&quot;3&quot;|Latin
+!colspan=&quot;3&quot;|English
+|-
+!
+!M
+!F
+!N
+!M
+!F
+!N
+|-
+|Nominative || is || ea || id || he || she || it
+|-
+|Genitive ||colspan=&quot;3&quot;| eius || his || her, hers || its
+|-
+|Dative ||colspan=&quot;3&quot;| eī || to him || to her || to it
+|-
+|Accusative || eum || eam || id || him || her || it
+|-
+|Ablative || eō || eā || eō || by/with him || by/with her || by/with it
+|}
+
+{| class=&quot;wikitable&quot;
+|+ Plural
+!Case
+!colspan=&quot;3&quot;|Latin
+!colspan=&quot;3&quot;|English
+|-
+!
+!M
+!F
+!N
+!M
+!F
+!N
+|-
+|Nominative || ei || eae || ea ||colspan=&quot;3&quot;| they, those
+|-
+|Genitive || eōrum || eārum || eōrum ||colspan=&quot;3&quot;| their, theirs, of those
+|-
+|Dative ||colspan=&quot;3&quot;| eīs, iīs ||colspan=&quot;3&quot;| to them, to those
+|-
+|Accusative || eōs || eās || ea ||colspan=&quot;3&quot;| them, those
+|-
+|Ablative ||colspan=&quot;3&quot;| eīs, iīs ||colspan=&quot;3&quot;| by, with, from them, those
+|}
+
+Like ille, is can be used as a form of a pronoun.
+
+====Examples of the Usage of Is====
+{| class=&quot;wikitable&quot;
+!bgcolor=&quot;#CCFFFF&quot;|Latin
+!bgcolor=&quot;#CCFFCC&quot;|English
+|-
+|bgcolor=&quot;#CCFFFF&quot;|Is est dominus. ||bgcolor=&quot;#CCFFCC&quot;| He is the master. (&quot;is&quot; as pronoun)
+|-
+|bgcolor=&quot;#CCFFFF&quot;|Is dominus est malus. ||bgcolor=&quot;#CCFFCC&quot;| The master is bad. (&quot;is&quot; as adjective)
+|-
+|bgcolor=&quot;#CCFFFF&quot;|Eam videt. ||bgcolor=&quot;#CCFFCC&quot;| He sees her. (or 'she sees her', &quot;eam&quot; as pronoun)
+|-
+|bgcolor=&quot;#CCFFFF&quot;|Eam puellam videt. ||bgcolor=&quot;#CCFFCC&quot;| He (or she) sees the girl. (&quot;eam&quot; as adjective)
+|}
+
+====Declension of the Relative pronoun qui, quae, quod: (meaning who, which, he)====
+{| class=&quot;wikitable&quot;
+|+Singular
+!
+!M
+!F
+!N
+!M
+!F
+!N
+|-
+|Nominative || quī || quae || quod ||colspan=&quot;2&quot;|who || which
+|-
+|Accusative || quem || quam || quod ||colspan=&quot;2&quot;|whom || which
+|-
+|Genitive ||colspan=&quot;3&quot;| cuīus ||colspan=&quot;2&quot;| whose || of which
+|-
+|Dative ||colspan=&quot;3&quot;| cuī ||colspan=&quot;2&quot;| to whom || to which
+|-
+|Ablative || quō || quā || quō ||colspan=&quot;3&quot;| by, with, from whom, which
+|}
+
+{| class=&quot;wikitable&quot;
+|+ Plural
+!
+!M
+!F
+!N
+!M
+!F
+!N
+|-
+|Nominative || quī || quae || quae ||colspan=&quot;2&quot;|who || which
+|-
+|Genitive || quorum || quarum || quorum ||colspan=&quot;2&quot;| whose || of which
+|-
+|Dative || quibus || quibus || quibus || colspan=&quot;2&quot; | to which
+|-
+|Ablative || quibus || quibus || quibus || colspan=&quot;2&quot;| by which, in which, etc
+|}
+
+====Uses of the Relative Pronoun====
+The relative pronoun takes on the case depending on the function it serves in the relative clause.  For example, in the sentence &quot;He sees the man who has a slave,&quot; &quot;who&quot; is translated as nominative because it is the subject of the clause &quot;who has a slave.&quot;  The antecedent (noun to which the pronoun refers) is usually before the relative clause.
+
+====Examples of the Usage of the Relative Pronoun====
+# ''Virum [[wiktionary:videre#Latin|videt]] (he/she sees) '''qui''' [[wiktionary:servus#Latin|servum]] (servant) [[wiktionary:habere#Latin|habet]] (he/she has).''
+#: He sees the man '''who''' has a slave
+# '''''Ille''' est [[wiktionary:vir#Latin|vir]] cujus servus est [[wiktionary:malus#Latin|malus]].''
+#: '''That''''s the man whose slave is bad.
+# ''Quis '''[[wiktionary:is#Latin|eum]]''' videt?''
+#: Who sees '''him'''?
+
+====Declension of hic, haec, hoc (meaning &quot;this&quot;)====
+{| class=&quot;wikitable&quot;
+|+ Singular
+!
+!Masculine
+!Femine
+!Neuter
+!
+|-
+|Nominative || hic || haec || hoc ||rowspan=&quot;5&quot;| this
+|-
+|Genitive ||colspan=&quot;3&quot;|huius
+|-
+|Dative ||colspan=&quot;3&quot;|huic
+|-
+|Accusative || hunc || hanc || hoc
+|-
+|Ablative || hōc || hāc || hōc
+|}
+
+{| class=&quot;wikitable&quot;
+|+ Plural
+!
+!Masculine
+!Femine
+!Neuter
+!
+|-
+|Nominative || hī || hae || haec ||rowspan=&quot;5&quot;| these
+|-
+|Genitive || hōrum || hārum || hōrum
+|-
+|Dative ||colspan=&quot;3&quot;|hīs
+|-
+|Accusative || hōs || hās || haec
+|-
+|Ablative ||colspan=&quot;3&quot;|hīs
+|}
+  
+N.B. Hic as an adverb that means 'here'.
+N.B. Hic can also be used as a pronoun.
+
+====Example of the Usage of Hic====
+{| class=&quot;wikitable&quot;
+!bgcolor=&quot;#CCFFFF&quot;|Latin
+!bgcolor=&quot;#CCFFCC&quot;|English
+|-
+|bgcolor=&quot;#CCFFFF&quot;|''''Hic'''' servus, non ille, est malus. ||bgcolor=&quot;#CCFFCC&quot;| This slave, not that one, is bad.
+|}</text>
+      <sha1>4u8spxxqllcofzmlg6bsm55x61n7c8f</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 5 answer 1</title>
+    <ns>0</ns>
+    <id>1386</id>
+    <revision>
+      <id>491278</id>
+      <parentid>381542</parentid>
+      <timestamp>2006-06-18T07:40:01Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">Im sorry but this is the wrong answer. B is quite possibly true, both rods could be negative because two like charges repel. Hit back and try again.
+
+
+[[GCSE Science/Electricity multiple choice practice question 5|&lt;&lt;back]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>8kjv8q9mxqg0t0l3319upyfh6xwrgm4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 5 answer 2</title>
+    <ns>0</ns>
+    <id>1387</id>
+    <revision>
+      <id>491277</id>
+      <parentid>381546</parentid>
+      <timestamp>2006-06-18T07:40:01Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">I'm sorry but this is the wrong answer. C is quite possibly true! two positively charged rods would repel each other. Hit back and try again.
+
+[[GCSE Science/Electricity multiple choice practice question 5|&lt;&lt;back]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>r0levh4oqh4vg6h54d44f80oqjgfapb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 5 answer 3</title>
+    <ns>0</ns>
+    <id>1388</id>
+    <revision>
+      <id>491280</id>
+      <parentid>381557</parentid>
+      <timestamp>2006-06-18T07:40:06Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">This is the correct answer. Well done!
+
+[[GCSE Science/Electricity multiple choice practice question 6|Next question&gt;&gt;]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>9urxtft3vq8pmsy1uok4mrw6e7m1wpg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 5 answer 4</title>
+    <ns>0</ns>
+    <id>1389</id>
+    <revision>
+      <id>491279</id>
+      <parentid>381549</parentid>
+      <timestamp>2006-06-18T07:40:05Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">I'm sorry but this is the wrong answer. If both strops are negative they repel. If ther are both positive they also repel. But the question asked which statements are '''false'''. Hit back and try again.
+
+
+[[GCSE Science/Electricity multiple choice practice question 5|&lt;&lt;back]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>2bomadqpr3rfdttwtstowguvvfxv925</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 5 answer 5</title>
+    <ns>0</ns>
+    <id>1390</id>
+    <revision>
+      <id>491281</id>
+      <parentid>381551</parentid>
+      <timestamp>2006-06-18T07:40:09Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">I'm sorry but this is the wrong answer. B may very well be true as &quot;like charges repel&quot;. Hit back and try again.
+
+
+[[GCSE Science/Electricity multiple choice practice question 5|&lt;&lt;back]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>jf0moc9nvjqj3vip0xia274uw6j66ef</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 5 answer 6</title>
+    <ns>0</ns>
+    <id>1391</id>
+    <revision>
+      <id>491282</id>
+      <parentid>381553</parentid>
+      <timestamp>2006-06-18T07:40:13Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">I'm sorry but this is the wrong answer. C may well be true. Two positively charged strips would repel.
+
+[[GCSE Science/Electricity multiple choice practice question 5|&lt;&lt;back]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>tk81nuzweax5myqvndf3dj3nd3v6h02</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>United States Government/The Annotated Constitution of the United States</title>
+    <ns>0</ns>
+    <id>1393</id>
+    <revision>
+      <id>1637334</id>
+      <parentid>1440461</parentid>
+      <timestamp>2009-10-02T04:16:34Z</timestamp>
+      <contributor>
+        <username>Geastham</username>
+        <id>291988</id>
+      </contributor>
+      <comment>removed bogus paragraph following Amendment XXVII</comment>
+      <text xml:space="preserve">[[Image:US_Constitution_Eagle.PNG|center]]
+{{USConstitionAndGovtTOC}}
+
+
+*ANALYSIS AND INTERPRETATION
+
+
+*ANALYSIS OF CASES DECIDED BY THE SUPREME COURT OF THE UNITED STATES TO JUNE 28, 2002.
+
+*PREPARED BY THE CONGRESSIONAL RESEARCH SERVICE, LIBRARY OF CONGRESS.
+
+
+
+
+* U.S. GOVERNMENT PRINTING OFFICE
+* 77–500PS
+* WASHINGTON : 2004
+----
+
+==Acknowlegement==
+
+For assistance in preparation of this document, special thanks is extended to
+*Randall Andrews
+*Brenda Todd
+*Andrew Mendelson
+*John Bartoli
+
+==Authorization==
+
+[[United States Government/Constitution Authorization|Resolution]]
+
+==Introduction==
+
+[[United States Government/Constitution 2002 Introduction|Introduction]]
+
+==Historical Note on Formation of the Constitution==
+
+[[United States Government/Constitution Historical Note on Formation of the Constitution|Historical Note on Formation of the Constitution]]
+----
+'''[The Constitution begins with a Preamble. It is followed by Articles, which are divided into Sections, which are again divided into clauses.]'''
+
+==Preamble==
+
+*We the people of the United States, in order to form a more perfect union, establish justice, insure domestic tranquility, provide for the common defense, promote the general welfare, and secure the blessings of liberty to ourselves and our posterity, do ordain and establish this Constitution for the United States of America.&lt;ref name=&quot;PREAMBLE&quot;&gt;'''[The Preamble to the Constitution does not make any law. It merely states the reasons for which the Constitution is established.]'''.&lt;/ref&gt;&lt;ref&gt;[[United States Government/Constitution Preamble|Text]]&lt;/ref&gt;
+
+==Articles==
+
+===Article One - Legislative Branch===
+
+====Section 1. - Legislative Power Vested====
+
+*All legislative powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives.&lt;ref&gt;[[/Article One, Section 1 Annotations|Article One, Section 1 Annotations]]&lt;/ref&gt;
+
+====Section 2. - House of Representatives====
+
+#The House of Representatives shall be composed of members chosen every second year by the people of the several states, and the electors in each state shall have the qualifications requisite for electors of the most numerous branch of the state legislature. 
+#No person shall be a Representative who shall not
+## have attained to the age of twenty five years, and
+## been seven years a citizen of the United States, and who shall not,
+## when elected, be an inhabitant of that state in which he shall be chosen. 
+#Representatives and direct taxes shall be apportioned among the several states which may be included within this union, according to their respective numbers, which shall be determined by adding to the whole number of free persons, including those bound to service for a term of years, and excluding Indians not taxed, three fifths of all other Persons.&lt;ref&gt;The requirement that direct taxes be apportioned among the states was removed by the Sixteenth Amendment, which authorized Direct Income Taxes.)'''&lt;/ref&gt;
+## The actual Enumeration shall be made within three years after the first meeting of the Congress of the United States, and within every subsequent term of ten years, in such manner as they shall by law direct.
+## The number of Representatives shall not exceed one for every thirty thousand, but each state shall have at least one Representative; and
+## until such enumeration shall be made, the state of New Hampshire shall be entitled to chuse three, Massachusetts eight, Rhode Island and Providence Plantations one, Connecticut five, New York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North Carolina five, South Carolina five, and Georgia three.
+#When vacancies happen in the Representation from any state, the executive authority thereof shall issue writs of election to fill such vacancies.
+#The House of Representatives shall choose their speaker&lt;ref&gt;'''[Note that there is no constitutional requirement that the Speaker be a Representative, though he always has.]'''&lt;/ref&gt; and other officers; and shall have the sole power of impeachment.&lt;ref&gt;'''[When trying the impeachment of Senator William Blount, the first impeachment in US history, in 1799, the Senate dismissed the case, ruling that only executive and judicial officials were subject to impeachment.]'''&lt;/ref&gt;
+
+====Section 3. - Senate Elections====
+
+#The Senate of the United States shall be composed of two Senators from each state, chosen by the legislature thereof, for six years; and each Senator shall have one vote.&lt;ref&gt;'''[The Seventeenth Amendment superseded the above clause, requiring that the People of a state choose the Senators.]'''&lt;/ref&gt;
+#Immediately after they shall be assembled in consequence of the first election, they shall be divided as equally as may be into three classes.
+## The seats of the Senators of the first class shall be vacated at the expiration of the second year, of the second class at the expiration of the fourth year, and the third class at the expiration of the sixth year, so that one third may be chosen every second year; and
+## if vacancies happen by resignation, or otherwise, during the recess of the legislature of any state, the executive thereof may make temporary appointments until the next meeting of the legislature, which shall then fill such vacancies.
+#No person shall be a Senator who shall not have attained to the age of thirty years, and been nine years a citizen of the United States and who shall not, when elected, be an inhabitant of that state for which he shall be chosen.&lt;ref&gt;'''[The Senate has the power to judge the qualifications of its members. The Senate did not enforce the thirty-year requirement on certain occasions. In 1806, 29-year-old Henry Clay took his seat, as did 28-year-old Armistead Mason in 1816, as also did 28-year old John Eaton in 1818. In 1934, Rush Holt- who was aged 29 at the time- agreed to wait six months until taking the oath. The Senate acquiesced, ruling that the thirty-year age requirement applied only to the time of oath-taking.]'''&lt;/ref&gt;
+#The Vice President of the United States shall be President of the Senate, but shall have no vote, unless they be equally divided.
+#The Senate shall choose their other officers, and also a '''President ''pro tempore'''''.&lt;ref&gt;'''[Latin, ''for the time being''.]'''&lt;/ref&gt;, in the absence of the Vice President, or when he shall exercise the office of President of the United States
+#(Impeachment)
+## The Senate shall have the sole power to try all impeachments.
+## When sitting for that purpose, they shall be on oath or affirmation.
+## When the President of the United States is tried, the Chief Justice shall preside: And
+## no person shall be convicted without the concurrence of two thirds of the members present.
+#Judgment in cases of impeachment
+## shall not extend further than to removal from office, and disqualification to hold and enjoy any office of honor, trust or profit under the United States:
+## but the party convicted shall nevertheless be liable and subject to indictment, trial, judgment and punishment, according to law.&lt;ref&gt;'''[Executive officers who are convicted upon impeachment are automatically removed from office.&lt;br&gt;The Senate ''may'' also disqualify such an executive officer from holding future offices.&lt;br&gt; In the case of judicial officers, the Senate has four options.&lt;br&gt; First, it may impose no punishment.&lt;br&gt;Second, it may remove the judge from office.&lt;br&gt; Third, it may disqualify the judge from holding future office.&lt;br&gt; Fourth, it may both remove the judge and disqualify him or her from holding future office.'''&lt;/ref&gt;
+
+====Section 4. - Elections of Senators and Representatives====
+
+#The times, places and manner of holding elections for Senators and Representatives, shall be prescribed in each state by the legislature thereof; but the Congress may at any time by law make or alter such regulations, except as to the places of choosing Senators. 
+#The Congress shall assemble at least once in every year, and such meeting shall be on the '''first Monday in December''', unless they shall by law appoint a different day.&lt;ref&gt;'''[The Twentieth Amendment changed the reference to the first Monday in December to January 3rd.]'''&lt;/ref&gt;
+
+====Section 5. - Rules of House and Senate====
+
+#Each House shall be the judge of the elections, returns and qualifications of its own members, and a majority of each shall constitute a quorum to do business; but a smaller number may adjourn from day to day, and may be authorized to compel the attendance of absent members, in such manner, and under such penalties as each House may provide. 
+#Each House may determine the rules of its proceedings, punish its members for disorderly behavior, and, with the concurrence of two thirds, expel a member. 
+#Each House shall keep a journal of its proceedings, and from time to time publish the same, excepting such parts as may in their judgment require secrecy; and the yeas and nays of the members of either House on any question shall, at the desire of one fifth of those present, be entered on the journal. 
+#Neither House, during the session of Congress, shall, without the consent of the other, adjourn for more than three days, nor to any other place than that in which the two Houses shall be sitting.
+
+====Section 6. - Compensation and Privileges of Members====
+
+#The Senators and Representatives shall receive a compensation for their services, to be ascertained by law, and paid out of the treasury of the United States.&lt;ref&gt;'''[The Twenty-Seventh Amendment prohibits a Congressional salary change from taking effect until an election of Representatives intervenes.]'''&lt;/ref&gt; They shall in all cases, except treason, felony and breach of the peace, be privileged from arrest during their attendance at the session of their respective Houses, and in going to and returning from the same; and for any speech or debate in either House, they shall not be questioned in any other place. 
+#No Senator or Representative shall, during the time for which he was elected, be appointed to any civil office under the authority of the United States, which shall have been created, or the emoluments whereof shall have been increased during such time: and no person holding any office under the United States, shall be a member of either House during his continuance in office.
+
+====Section 7. - Passage of Bills====
+
+#All bills for raising revenue shall originate in the House of Representatives;  but the Senate may propose or concur with amendments as on other Bills.&lt;ref&gt;'''[In practice, &quot;appropriation bills,&quot; or bills granting money for government services and actions, also originate in the House. The practice originates from the United Kingdom, where the House of Commons originates all revenue or appropriation bills, and the House of Lords does not, by tradition, even amend them.]'''&lt;/ref&gt;
+#Every bill which shall have passed the House of Representatives and the Senate, shall, before it become a law, be presented to the President of the United States; if he approve he shall sign it, but if not he shall return it, with his objections to that House in which it shall have originated, who shall enter the objections at large on their journal, and proceed to reconsider it. If after such reconsideration two thirds of that House shall agree to pass the bill, it shall be sent, together with the objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a law. But in all such cases the votes of both Houses shall be determined by yeas and nays, and the names of the persons voting for and against the bill shall be entered on the journal of each House respectively. If any bill shall not be returned by the President within ten days (Sundays excepted) after it shall have been presented to him, the same shall be a law, in like manner as if he had signed it, unless the Congress by their adjournment prevent its return, in which case it shall not be a law. 
+#Every order, resolution, or vote to which the concurrence of the Senate and House of Representatives may be necessary (except on a question of adjournment) shall be presented to the President of the United States; and before the same shall take effect, shall be approved by him, or being disapproved by him, shall be repassed by two thirds of the Senate and House of Representatives, according to the rules and limitations prescribed in the case of a bill.
+
+====Section 8. - Scope of Legislative Power====
+
+# The Congress shall have power
+## to lay and collect '''taxes''', duties, imposts and excises;&lt;ref name=&quot;TREASURY&quot;&gt;'''Department of the Treasury'''&lt;/ref&gt;
+## to pay the debts and provide for the common defense and '''general welfare''' of the United States; but all duties, imposts and excises shall be '''uniform''' throughout the United States;&lt;ref name=&quot;TREASURY&quot;/&gt; 
+## To '''borrow money''' on the credit of the United States;&lt;ref name=&quot;TREASURY&quot;/&gt;
+## To regulate '''commerce''' with foreign nations, and among the several states, and with the Indian tribes;&lt;ref name=&quot;COMMERCE&quot;&gt;Department of Commerce'''&lt;/ref&gt;
+## To establish
+### a uniform rule of '''naturalization''',&lt;ref name=&quot;STATE&quot;&gt;'''State Department'''&lt;/ref&gt; and
+### uniform laws on the subject of '''bankruptcies''' throughout the United States;&lt;ref name=&quot;JUSTICE&quot;&gt;'''Department of Justice'''&lt;/ref&gt;
+## To
+### coin money, regulate the value thereof, and of foreign coin,&lt;ref&gt;Exchange Rates&lt;/ref&gt;&lt;ref name=&quot;TREASURY&quot;/&gt; and
+### fix the standard of weights and measures;&lt;ref name=&quot;COMMERCE&quot;&gt;'''Department of Commerce'''&lt;/ref&gt;
+## To provide for the punishment of counterfeiting the securities and current coin of the United States&lt;ref name=&quot;JUSTICE&quot;/&gt;;
+## To establish
+### post offices&lt;ref&gt;'''Postal Service'''&lt;/ref&gt;
+### and post roads;&lt;ref&gt;'''Department of Transportation'''&lt;/ref&gt;
+## To promote the progress of science and useful arts, by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries;&lt;ref&gt;'''[This clause allows the United States to grant copyrights and patents.]'''&lt;/ref&gt;
+## To constitute tribunals inferior to the Supreme Court;&lt;ref&gt;'''Article I Courts. The most famous of these was the International Tribunal at Nuremburg.'''&lt;/ref&gt;
+## To define and punish
+### piracies and felonies committed on the high seas, and
+### offenses against the law of nations;&lt;ref&gt;'''International Law'''&lt;/ref&gt;
+## To
+### declare war,
+### grant letters of marque and reprisal;&lt;ref&gt;'''[A [[w:letter of marque|letter of marque]] is authorization for a private individual to retaliate against another country on behalf of the issuing nation, almost always by sea and in a [[w:privateering|privateersman]]. A reprisal is an actual action of retaliation, but does not go as far as a declaration of war.]'''&lt;/ref&gt; and
+### make rules concerning captures on land and water;
+##To raise and support armies, but no appropriation of money to that use shall be for a longer term than two years;&lt;ref&gt;'''[The reference to &quot;two years&quot; is basically obsolete; appropriations are now made annually.]'''&lt;/ref&gt;
+##To provide and maintain a navy;
+##To make rules for the government and regulation of the land and naval forces;
+##To provide for calling forth the militia to execute the laws of the union, suppress insurrections and repel invasions;
+##To provide for organizing, arming, and disciplining, the militia, and for governing such part of them as may be employed in the service of the United States, reserving to the states respectively, the appointment of the officers, and the authority of training the militia according to the discipline prescribed by Congress;
+##To exercise exclusive legislation in all cases whatsoever, over such District (not exceeding ten miles square) as may, by cession of particular states, and the acceptance of Congress, become the seat of the government of the United States, and to exercise like authority over all places purchased by the consent of the legislature of the state in which the same shall be, for the erection of forts, magazines, arsenals, dockyards, and other needful buildings; And
+##To make all laws which shall be '''necessary and proper'''&lt;ref&gt;'''[The ''Necessary and Proper Clause'', also known as the ''Elastic Clause'', allows Congress to make laws incidental to its other powers.]'''&lt;/ref&gt; for
+### carrying into execution the foregoing powers, and
+### all other powers vested by this Constitution in the government of the United States,
+### or in any department or officer thereof.
+
+====Section 9. - Limits on Legislative Power====
+
+#The migration or importation of such persons as any of the states now existing shall think proper to admit, shall not be prohibited by the Congress prior to the year one thousand eight hundred and eight, but a tax or duty may be imposed on such importation, not exceeding ten dollars for each person.&lt;ref&gt;'''[The Constitutional Convention authorized the slave trade to continue until 1808. On the first day of 1808, Congress used its Constitutional power and banned the slave trade.]'''&lt;/ref&gt;
+#The privilege of the writ of habeas corpus shall not be suspended, unless when in cases of rebellion or invasion the public safety may require it. 
+#No bill of attainder or ex post facto Law shall be passed.&lt;ref&gt;'''[A bill of attainder is legislation that declares an individual guilty of a crime without a trial. An ex post facto law is one that retroactively makes an action illegal.]'''&lt;/ref&gt;
+#No capitation, or other direct, tax shall be laid, unless in proportion to the census or enumeration herein before directed to be taken.&lt;ref&gt;'''[The Sixteenth Amendment essentially repealed this clause.]'''&lt;/ref&gt;
+#No tax or duty shall be laid on articles exported from any state. 
+#No preference shall be given by any regulation of commerce or revenue to the ports of one state over those of another: nor shall vessels bound to, or from, one state, be obliged to enter, clear or pay duties in another. 
+#No money shall be drawn from the treasury, but in consequence of appropriations made by law; and a regular statement and account of receipts and expenditures of all public money shall be published from time to time.&lt;ref&gt;'''[Congress annually passes Appropriations Bills that grant money for government programs.]'''&lt;/ref&gt;
+#No title of nobility shall be granted by the United States: and no person holding any office of profit or trust under them, shall, without the consent of the Congress, accept of any present, emolument, office, or title, of any kind whatever, from any king, prince, or foreign state.
+
+====Section 10. - Limits on States====
+
+#No state shall enter into any treaty, alliance, or confederation; grant letters of marque and reprisal; coin money; emit bills of credit; make anything but gold and silver coin a tender in payment of debts; pass any bill of attainder, ex post facto law, or law impairing the obligation of contracts, or grant any title of nobility. 
+#No state shall, without the consent of the Congress, lay any imposts or duties on imports or exports, except what may be absolutely necessary for executing its inspection laws: and the net produce of all duties and imposts, laid by any state on imports or exports, shall be for the use of the treasury of the United States; and all such laws shall be subject to the revision and control of the Congress. 
+#No state shall, without the consent of Congress, lay any duty of tonnage, keep troops, or ships of war in time of peace, enter into any agreement or compact with another state, or with a foreign power, or engage in war, unless actually invaded, or in such imminent danger as will not admit of delay.
+
+===Article Two - Executive Branch===
+
+====Section 1. - Election, Installation, Removal====
+# The executive Power shall be vested in a President of the United States of America.
+# He shall hold his Office during the Term of four Years, and, together with the Vice-President chosen for the same Term, be elected, as follows:
+## Each State shall appoint, in such Manner as the Legislature thereof may direct, a Number of Electors, equal to the whole Number of Senators and Representatives to which the State may be entitled in the Congress:
+## but no Senator or Representative, or Person holding an Office of Trust or Profit under the United States, shall be appointed an Elector.
+# The Electors shall meet in their respective States, and vote by Ballot for two persons, of whom one at least shall not lie an Inhabitant of the same State with themselves.
+# And they shall make a List of all the Persons voted for, and of the Number of Votes for each;
+## which List they shall sign and certify, and transmit sealed to the Seat of the Government of the United States, directed to the President of the Senate.
+# The President of the Senate shall, in the Presence of the Senate and House of Representatives, open all the Certificates, and the Votes shall then be counted.
+# The Person having the greatest Number of Votes shall be the President, if such Number be a Majority of the whole Number of Electors appointed;
+## and if there be more than one who have such Majority, and have an equal Number of Votes, then the House of Representatives shall immediately chuse by Ballot one of them for President;
+## and if no Person have a Majority, then from the five highest on the List the said House shall in like Manner chuse the President.
+# But in chusing the President, the Votes shall be taken by States, the Representation from each State having one Vote;
+## a quorum for this Purpose shall consist of a Member or Members from two-thirds of the States, and a Majority of all the States shall be necessary to a Choice.
+# In every Case, after the Choice of the President, the Person having the greatest Number of Votes of the Electors shall be the Vice President.
+# But if there should remain two or more who have equal Votes, the Senate shall chuse from them by Ballot the Vice-President.&lt;ref&gt;'''[The Twelfth Amendment separated the Presidential and Vice-Presidential elections, while still using the same electors. Instead of making the Vice-Presidency the second prize of the Presidential election, the Electors were required by the Amendment to vote separately for each office. Also, the Amendment made changes in the manner in which the Houses of Congress chose a President or Vice-President when no one received a majority of Electoral Votes.]'''&lt;/ref&gt;
+#The Congress may determine the Time of chusing the Electors, and the Day on which they shall give their Votes;
+## which Day shall be the same throughout the United States.
+# No person except a natural born Citizen, or a Citizen of the United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President;
+## neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty-five Years, and been fourteen Years a Resident within the United States.
+# In Case of the Removal of the President from Office, or of his Death, Resignation, or Inability to discharge the Powers and Duties of the said Office, the same shall devolve on the Vice President,&lt;ref&gt;'''[The Twenty-Fifth Amendment clarified the preceding statement by stating &quot;In case of the removal of the President from office or of his death or resignation, the Vice President shall become President.&quot;]'''&lt;/ref&gt; and the Congress may by Law provide for the Case of Removal, Death, Resignation or Inability, both of the President and Vice President, declaring what Officer shall then act as President, and such Officer shall act accordingly, until the Disability be removed, or a President shall be elected. 
+# The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be increased nor diminished during the Period for which he shall have been elected, and he shall not receive within that Period any other Emolument from the United States, or any of them.
+# Before he enter on the Execution of his Office, he shall take the following Oath or Affirmation:
+## &quot;I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the United States, and will to the best of my Ability, preserve, protect and defend the Constitution of the United States.&quot;&lt;ref&gt;'''[George Washington established the tradition of adding &quot;So help me God&quot; to the oath.]'''&lt;/ref&gt;
+
+====Section 2. - Presidential Power====
+# The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States, when called into the actual Service of the United States;
+## he may require the Opinion, in writing, of the principal Officer in each of the executive Departments, upon any subject relating to the Duties of their respective Offices,
+## and he shall have Power to Grant Reprieves and Pardons for Offenses against the United States, except in Cases of Impeachment.
+# He shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur;
+## and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by Law:
+## but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments.
+# The President shall have Power to fill up all Vacancies that may happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session.
+
+====Section 3. - State of the Union, Receive Ambassadors, Laws Faithfully Executed, Commission Officers====
+# He shall from time to time give to the Congress Information of the State of the Union, and recommend to their Consideration such Measures as he shall judge necessary and expedient;
+## he may, on extraordinary Occasions, convene both Houses, or either of them, and in Case of Disagreement between them, with Respect to the Time of Adjournment, he may adjourn them to such Time as he shall think proper;
+## he shall receive Ambassadors and other public Ministers;
+## he shall take Care that the Laws be faithfully executed,
+## and shall Commission all the Officers of the United States.
+
+====Section 4. - Impeachment====
+
+The President, Vice President and all civil Officers of the United States, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors.
+
+===Article Three - Judicial Branch===
+
+====Section 1. - Judicial Power Vested====
+# The judicial power of the United States, shall be vested in one Supreme Court, and in such inferior courts as the Congress may from time to time ordain and establish.
+# The judges, both of the supreme and inferior courts, shall hold their offices during good behaviour, and shall, at stated times, receive for their services, a compensation, which shall not be diminished during their continuance in office.&lt;ref&gt;'''[Good Behavior has been interpreted to mean Life.]'''&lt;/ref&gt;
+
+====Section 2. - Scope of Judicial Power====
+# The judicial power shall extend to all cases, in law and equity, arising under this Constitution, the laws of the United States, and treaties made, or which shall be made, under their authority;
+## to all cases affecting ambassadors, other public ministers and consuls;
+## to all cases of admiralty and maritime jurisdiction;
+## to controversies to which the United States shall be a party;
+##--to controversies between two or more states;
+## between a state and citizens of another state;
+## between citizens of different states;
+## between citizens of the same state claiming lands under grants of different states, and between a state, or the citizens thereof, and foreign states, citizens or subjects.&lt;ref&gt;'''[The Eleventh Amendment prohibits a federal court from exercising jurisdiction when a person sues a state, unless that state grants consent for the same.]'''&lt;/ref&gt;
+# In all cases affecting ambassadors, other public ministers and consuls, and those in which a state shall be party, the Supreme Court shall have original jurisdiction.
+# In all the other cases before mentioned, the Supreme Court shall have appellate jurisdiction, both as to law and fact, with such exceptions, and under such regulations as the Congress shall make. 
+# The trial of all crimes, except in cases of impeachment, shall be by jury;
+## and such trial shall be held in the state where the said crimes shall have been committed;
+## but when not committed within any state, the trial shall be at such place or places as the Congress may by law have directed. 
+
+====Section 3. - Treason====
+# Treason against the United States, shall consist only in levying war against them, or in adhering to their enemies, giving them aid and comfort.
+# No person shall be convicted of treason unless on the testimony of two witnesses to the same overt act, or on confession in open court.&lt;ref&gt;'''[The crime of Treason is the only one defined in the Constitution.]'''&lt;/ref&gt;
+# The Congress shall have power to declare the punishment of treason, but no attainder of treason shall work corruption of blood, or forfeiture except during the life of the person attainted.&lt;ref&gt;'''[Corruption of blood indicates punishment of one's family for one's own crimes.]'''&lt;/ref&gt;
+
+===Article Four - The States===
+
+====Section 1. - Full Faith and Credit====
+# Full faith and credit shall be given in each state to the public acts, records, and judicial proceedings of every other state.
+# And the Congress may by general laws prescribe the manner in which such acts, records, and proceedings shall be proved, and the effect thereof. 
+
+====Section 2. - Privileges and Immunities, Extradiction, Fugitive Slaves====
+# The citizens of each state shall be entitled to all privileges and immunities of citizens in the several states. 
+# A person charged in any state with treason, felony, or other crime, who shall flee from justice, and be found in another state, shall on demand of the executive authority of the state from which he fled, be delivered up, to be removed to the state having jurisdiction of the crime. 
+# No person held to service or labor in one state, under the laws thereof, escaping into another, shall, in consequence of any law or regulation therein, be discharged from such service or labor, but shall be delivered up on claim of the party to whom such service or labor may be due.&lt;ref&gt;'''[The Thirteenth Amendment made this clause moot by prohibiting slavery.]'''&lt;/ref&gt;
+
+====Section 3. - Admission of States====
+# New states may be admitted by the Congress into this union;
+# but no new states shall be formed or erected within the jurisdiction of any other state;
+# nor any state be formed by the junction of two or more states, or parts of states, without the consent of the legislatures of the states concerned as well as of the Congress. 
+# The Congress shall have power to dispose of and make all needful rules and regulations respecting the territory or other property belonging to the United States; and nothing in this Constitution shall be so construed as to prejudice any claims of the United States, or of any particular state. 
+
+====Section 4. - Guarantees to States====
+# The United States shall guarantee to every state in this union a republican form of government, and shall protect each of them against invasion;
+# and on application of the legislature, or of the executive (when the legislature cannot be convened) against domestic violence.
+
+===Article Five - The Amendment Process===
+
+The Congress, whenever two thirds of both houses shall deem it necessary, shall propose amendments to this Constitution, or, on the application of the legislatures of two thirds of the several states, shall call a convention for proposing amendments, which, in either case, shall be valid to all intents and purposes, as part of this Constitution, when ratified by the legislatures of three fourths of the several states, or by conventions in three fourths thereof, as the one or the other mode of ratification may be proposed by the Congress; provided that no amendment which may be made prior to the year one thousand eight hundred and eight shall in any manner affect the first and fourth clauses in the ninth section of the first article; and that no state, without its consent, shall be deprived of its equal suffrage in the Senate.&lt;ref&gt;'''[Never has a Constitutional Convention been called to propose Amendments. Only in the case of the Twenty-First Amendment have conventions been called to ratify an Amendment.]'''&lt;/ref&gt;
+
+===Article Six - Debts, Treaties, Oaths of Office===
+
+#All debts contracted and engagements entered into, before the adoption of this Constitution, shall be as valid against the United States under this Constitution, as under the Confederation. 
+#This Constitution, and the laws of the United States which shall be made in pursuance thereof;
+## and all treaties made, or which shall be made, under the authority of the United States, shall be the supreme law of the land;
+## and the judges in every state shall be bound thereby, anything in the Constitution or laws of any State to the contrary notwithstanding. 
+#The Senators and Representatives before mentioned, and the members of the several state legislatures, and all executive and judicial officers, both of the United States and of the several states, shall be bound by oath or affirmation, to support this Constitution;
+## but no religious test shall ever be required as a qualification to any office or public trust under the United States.
+
+===Article Seven - Ratificiation Process===
+
+The ratification of the conventions of nine states, shall be sufficient for the establishment of this Constitution between the states so ratifying the same.&lt;ref&gt;'''[The states of Delaware, Pennsylvania, New Jersey, Georgia, Connecticut, Massachusetts, Maryland, South Carolina, and New Hampshire were the first nine to ratify (in the order stated) the Constitution. After the Constitution came into effect, Virginia, New York, North Carolina, and Rhode Island ratified.]'''&lt;/ref&gt;
+
+==The Amendments==
+
+===Bill of Rights===
+
+====Amendment I - Religion, Speech, Press, Assembly, Petition (1791)====
+#Congress shall make no law respecting an establishment of religion,
+# or prohibiting the free exercise thereof;&lt;ref&gt;'''[The prohibition on Congressional establishment of religion has been interpreted to extend to the Executive and Judicial branches also.]'''&lt;/ref&gt;
+# or abridging the freedom of speech,&lt;ref&gt;'''[Freedom of speech has been interpreted to mean freedom of expression generally as long as the rights of others are not violated.]'''&lt;/ref&gt;
+# or of the press;
+# or the right of the people peaceably to assemble, and to petition the government for a redress of grievances.
+
+====Amendment II - Right to Bear Arms (1791)====
+A well regulated militia, being necessary to the security of a free state, the right of the people to keep and bear arms, shall not be infringed.&lt;ref&gt;'''[The &quot;militia&quot;, in the language of the times, is distinct from the army. It means every able-bodied male in the general population, approximately age 14 to 60. The militia is given as justification for the right to keep (own) and bear (carry or use) arms (guns).'''&lt;/ref&gt;
+
+====Amendment III - Quartering of Troops (1791)====
+#No soldier shall, in time of peace be quartered in any house, without the consent of the owner,
+#nor in time of war, but in a manner to be prescribed by law.&lt;ref&gt;'''[Quarter means food and housing.]'''&lt;/ref&gt;
+
+====Amendment IV - Search and Seizure (1791)====
+The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no warrants shall issue, but upon probable cause, supported by oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.&lt;ref&gt; '''[The Supreme Court has ruled that evidence found illegally shall be excluded at trial. But if the police believed that a truly defective warrant was indeed legal, then evidence seized &quot;in good faith&quot; need not necessarily be excluded.]'''&lt;/ref&gt;
+
+====Amendment V - Grand Jury, Double Jeopardy, Self-Incrimination, Due Process (1791)====
+#No person shall be held to answer for a capital, or otherwise infamous crime,&lt;ref&gt;'''[&quot;Capital, or otherwise infamous crime&quot; means a crime punishable by death, life in prison, or by one or more years in prison.]'''&lt;/ref&gt; unless on a presentment or indictment of a grand jury,&lt;ref&gt;'''[A Grand Jury is a jury, usually composed of more than the traditional twelve jurors in petit juries (trial juries), that decides if there is enough evidence for a trial to occur.]'''&lt;/ref&gt; except in cases arising in the land or naval forces, or in the militia, when in actual service in time of war or public danger;
+#nor shall any person be subject for the same offense to be twice put in jeopardy of life or limb;
+#nor shall be compelled in any criminal case to be a witness against himself,
+#nor be deprived of life, liberty, or property, without due process of law;
+#nor shall private property be taken for public use, without just compensation.
+
+====Amendment VI - Criminal Prosecutions - Jury Trial, Right to Confront and to Counsel (1791)====
+#In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the state and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and
+#to be informed of the nature and cause of the accusation;
+#to be confronted with the witnesses against him;
+#to have compulsory process for obtaining witnesses in his favor, and
+#to have the assistance of counsel for his defense.
+
+====Amendment VII - Common Law Suits - Jury Trial (1791)====
+In suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise reexamined in any court of the United States, than according to the rules of the common law.&lt;ref&gt;'''[The reference to lawsuits applies to both Original Jurisdiction and Appellate Jurisdiction, but today most lawsuits are started in the State Courts, and are heard in Federal Courts only on Appeal.]'''&lt;/ref&gt;
+
+====Amendment VIII - Excess Bail or Fines, Cruel and Unusual Punishment (1791)====
+Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.&lt;ref&gt;'''[The words of the Eighth Amendment were taken directly from the seventeenth century English Bill of Rights.]'''&lt;/ref&gt;
+
+====Amendment IX - Non-Enumerated Rights (1791)====
+The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.
+
+====Amendment X - Rights Reserved to States (1791)====
+The powers not delegated to the United States by the Constitution, nor prohibited by it to the states, are reserved to the states respectively, or to the people.&lt;ref&gt;'''[Originally, the Congress proposed Twelve Amendments rather than ten. The Ten that were ratified by the states became the Bill of Rights. One amendment was not ratified at all, while the other was ratified more than two hundered years later to become the Twenty-Seventh Amendment.]'''&lt;/ref&gt;
+
+===Other Amendments===
+
+====Amendment XI - Suits Against a State (1795)====
+The judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by citizens of another state, or by citizens or subjects of any foreign state.&lt;ref&gt;'''[Under the Constitution, the Supreme Court had original jurisdiction in cases involving states. However, the Congress believed that the Court had abused this power when it decided against the state of Georgia in the case of'' Chisolm v. Georgia''. The Congress rapidly passed the Amendment to prevent federal courts from hearing cases against the states. Note that the reference to &quot;citizens of another state&quot; has been, by judicial interpretation, extended to citizens of the state being sued as well.]'''&lt;/ref&gt;
+
+====Amendment XII - Election of President and Vice-President (1804)====
+#The electors shall meet in their respective states and vote by ballot for President and Vice-President, one of whom, at least, shall not be an inhabitant of the same state with themselves;
+# they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice-President, and 
+#they shall make distinct lists of all persons voted for as President, and of all persons voted for as Vice-President, and of the number of votes for each, which lists they shall sign and certify, and transmit sealed to the seat of the government of the United States, directed to the President of the Senate;
+#--The President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates and the votes shall then be counted;
+#--the person having the greatest number of votes for President, shall be the President, #if such number be a majority of the whole number of electors appointed; and
+#if no person have such majority, then from the persons having the highest numbers not exceeding three on the list of those voted for as President, the House of Representatives shall choose immediately, by ballot, the President.
+#But in choosing the President, the votes shall be taken by states, the representation from each state having one vote; a quorum for this purpose shall consist of a member or members from two-thirds of the states, and a majority of all the states shall be necessary to a choice.
+#And if the House of Representatives shall not choose a President whenever the right of choice shall devolve upon them, before the fourth day of March next following, then the Vice-President shall act as President, as in the case of the death or other constitutional disability of the President.
+#The person having the greatest number of votes as Vice-President, shall be the Vice-President, if such number be a majority of the whole number of electors appointed,
+#and if no person have a majority, then from the two highest numbers on the list, the Senate shall choose the Vice-President;
+#a quorum for the purpose shall consist of two-thirds of the whole number of Senators, and a majority of the whole number shall be necessary to a choice.
+#But no person constitutionally ineligible to the office of President shall be eligible to that of Vice-President of the United States.&lt;ref&gt;'''[The Twelfth Amendment changed the manner in which the Electoral College chose the President and Vice-President. See the annotation of Article II for an explanation of the original system and the changes made.'''&lt;/ref&gt;
+
+====Amendment XIII - Abolition of Slavery (1865)====
+Section 1. Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.&lt;ref&gt;'''[The reference to punishment for a crime does not legalize slavery. It only allows involuntary servitude as punishment.]'''&lt;/ref&gt;
+
+Section 2. Congress shall have power to enforce this article by appropriate legislation.
+
+====Amendment XIV - Privileges and Immunities, Due Process, Equal Protection, Apportionment of Representatives, Civil War Disqualification and Debt (1868)====
+Section 1. 
+#All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the state wherein they reside.
+#No state shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States;
+#nor shall any state deprive any person of life, liberty, or property, without due process of law;
+#nor deny to any person within its jurisdiction the equal protection of the laws.&lt;ref&gt;'''[Before the Fourteenth Amendment, the Bill of Rights only applied to the Federal government. But the reference to &quot;privileges or immunities of citizens&quot; has been interpreted by the courts to extend certain parts of the Bill of Rights to the states themselves. Some Amendments, such as the Second Amendment, have not been &quot;incorporated,&quot; or extended to the states.]'''&lt;/ref&gt;
+
+Section 2.
+#Representatives shall be apportioned among the several states according to their respective numbers, counting the whole number of persons in each state, excluding Indians not taxed.
+#But when the right to vote at any election for the choice of electors for President and Vice President of the United States, Representatives in Congress, the executive and judicial officers of a state, or the members of the legislature thereof, is denied to any of the male inhabitants of such state, being twenty-one years of age, and citizens of the United States, or in any way abridged, except for participation in rebellion, or other crime, the basis of representation therein shall be reduced in the proportion which the number of such male citizens shall bear to the whole number of male citizens twenty-one years of age in such state. 
+
+Section 3. No person shall be a Senator or Representative in Congress, or elector of President and Vice President, or hold any office, civil or military, under the United States, or under any state, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any state legislature, or as an executive or judicial officer of any state, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof. But Congress may by a vote of two-thirds of each House, remove such disability. 
+
+Section 4.
+# The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned.
+# But neither the United States nor any state shall assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the United States, or any claim for the loss or emancipation of any slave; but all such debts, obligations and claims shall be held illegal and void.&lt;ref&gt;'''[Amendment XIV, Section 4, essentially provides that the debt of the Union would be paid by the government, but Confederate debts would not be paid by either the federal or the state governments.]'''&lt;/ref&gt;
+
+Section 5. The Congress shall have power to enforce, by appropriate legislation, the provisions of this article.
+
+====Amendment XV - Rights Not to Be Denied on Account of Race (1870)====
+Section 1. The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any state on account of race, color, or previous condition of servitude. 
+
+Section 2. The Congress shall have power to enforce this article by appropriate legislation.
+
+====Amendment XVI - Income Tax (1913)====
+The Congress shall have power to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several states, and without regard to any census or enumeration.&lt;ref&gt;'''[Prior to this Amendment, the Congress had to apportion, or divide, taxes between the states based on the populations of the states. Under this Amendment, that requirement was removed and Income Taxes were legalized.]'''&lt;/ref&gt;
+
+====Amendment XVII - Election of Senators (1913)====
+The Senate of the United States shall be composed of two Senators from each state, elected by the people thereof, for six years; and each Senator shall have one vote. The electors in each state shall have the qualifications requisite for electors of the most numerous branch of the state legislatures.&lt;ref&gt;'''[This Amendment provided that the People, rather than the Legislature, of the states would choose the Senate.]'''&lt;/ref&gt;
+When vacancies happen in the representation of any state in the Senate, the executive authority of such state shall issue writs of election to fill such vacancies: Provided, that the legislature of any state may empower the executive thereof to make temporary appointments until the people fill the vacancies by election as the legislature may direct. 
+This amendment shall not be so construed as to affect the election or term of any Senator chosen before it becomes valid as part of the Constitution.
+
+====Amendment XVIII - Prohibition (1919)====
+Section 1. After one year from the ratification of this article the manufacture, sale, or transportation of intoxicating liquors within, the importation thereof into, or the exportation thereof from the United States and all territory subject to the jurisdiction thereof for beverage purposes is hereby prohibited.&lt;ref&gt;'''[The Eighteenth Amendment commenced the Prohibition era.]'''&lt;/ref&gt;
+
+Section 2. The Congress and the several states shall have concurrent power to enforce this article by appropriate legislation. 
+
+Section 3. This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of the several states, as provided in the Constitution, within seven years from the date of the submission hereof to the states by the Congress.&lt;ref&gt;'''[The Eighteenth Amendment set a precedent for future Amendments, setting a seven-year limit for ratification by the states.]'''&lt;/ref&gt;
+
+====Amendment XIX - Women's Right to Vote (1920)====
+The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any state on account of sex. Congress shall have power to enforce this article by appropriate legislation.
+
+====Amendment XX - Presidential Term and Succession (1933)====
+Section 1. The terms of the President and Vice President shall end at noon on the 20th day of January, and the terms of Senators and Representatives at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.&lt;ref&gt;'''[Prior to the Twentieth Amendment, terms commenced in March. However, this created the problem of lame ducks- Presidents who had not won reelection in November but were in office for four more months with little popular mandate to make important decisions.]'''&lt;/ref&gt;
+
+Section 2. The Congress shall assemble at least once in every year, and such meeting shall begin at noon on the 3d day of January, unless they shall by law appoint a different day.&lt;ref&gt;'''[The Constitution fixed the meeting day for Congress in December. This Section provides that Congress meets earlier- not later, as is often assumed.]'''&lt;/ref&gt;
+
+Section 3. If, at the time fixed for the beginning of the term of the President, the President elect shall have died, the Vice President elect shall become President. If a President shall not have been chosen before the time fixed for the beginning of his term, or if the President elect shall have failed to qualify, then the Vice President elect shall act as President until a President shall have qualified; and the Congress may by law provide for the case wherein neither a President elect nor a Vice President elect shall have qualified, declaring who shall then act as President, or the manner in which one who is to act shall be selected, and such person shall act accordingly until a President or Vice President shall have qualified.&lt;ref&gt;'''[Amendment XXV made some modifications to Section 3).]'''&lt;/ref&gt;
+
+Section 4. The Congress may by law provide for the case of the death of any of the persons from whom the House of Representatives may choose a President whenever the right of choice shall have devolved upon them, and for the case of the death of any of the persons from whom the Senate may choose a Vice President whenever the right of choice shall have devolved upon them. 
+
+Section 5. Sections 1 and 2 shall take effect on the 15th day of October following the ratification of this article. 
+
+Section 6. This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several states within seven years from the date of its submission.
+
+====Amendment XXI - Repeal of Prohibition (1933)====
+Section 1. The eighteenth article of amendment to the Constitution of the United States is hereby repealed.&lt;ref&gt;'''[The Twenty-First Amendment is the only Amendment to repeal another Amendment. It ended the era of Prohibition.]'''&lt;/ref&gt;
+
+Section 2. The transportation or importation into any state, territory, or possession of the United States for delivery or use therein of intoxicating liquors, in violation of the laws thereof, is hereby prohibited. 
+
+Section 3. This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by conventions in the several states, as provided in the Constitution, within seven years from the date of the submission hereof to the states by the Congress.&lt;ref&gt;'''[The Twenty-First Amendment is the only Amendment that was ratified by conventions, rather than legislatures, in the states.]'''&lt;/ref&gt;
+
+====Amendment XXII - Two Term Limit on President (1951)====
+Section 1. No person shall be elected to the office of the President more than twice, and no person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall be elected to the office of the President more than once. But this article shall not apply to any person holding the office of President when this article was proposed by the Congress, and shall not prevent any person who may be holding the office of President, or acting as President, during the term within which this article becomes operative from holding the office of President or acting as President during the remainder of such term.&lt;ref&gt;'''[The Twenty-Second Amendment was passed after Franklin Delano Roosevelt ran for President (and won) four times, violating the past practice set by George Washington that Presidents run for only two terms.]'''&lt;/ref&gt;
+
+Section 2. This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several states within seven years from the date of its submission to the states by the Congress.
+
+====Amendment XXIII - Presidential Vote in District of Columbia (1961)====
+Section 1. The District constituting the seat of government of the United States shall appoint in such manner as the Congress may direct: 
+
+A number of electors of President and Vice President equal to the whole number of Senators and Representatives in Congress to which the District would be entitled if it were a state, but in no event more than the least populous state; they shall be in addition to those appointed by the states, but they shall be considered, for the purposes of the election of President and Vice President, to be electors appointed by a state; and they shall meet in the District and perform such duties as provided by the twelfth article of amendment. 
+
+Section 2. The Congress shall have power to enforce this article by appropriate legislation.
+
+====Amendment XXIV - Poll Tax (1964)====
+Section 1. The right of citizens of the United States to vote in any primary or other election for President or Vice President, for electors for President or Vice President, or for Senator or Representative in Congress, shall not be denied or abridged by the United States or any state by reason of failure to pay any poll tax or other tax.&lt;ref&gt;'''[Southern states utilized the poll tax to bar poor African-Americans from voting. The laws' direct provisions as well as their loopholes often provided exemptions to Caucasians.]'''&lt;/ref&gt;
+
+Section 2. The Congress shall have power to enforce this article by appropriate legislation.
+
+====Amendment XXV - Presidential Succession (1967)====
+Section 1. In case of the removal of the President from office or of his death or resignation, the Vice President shall become President.&lt;ref&gt;'''[This was still the situation prior to the ratification of the Twenty-Fifth Amendment, but the situation was murky due to the Constitution's lack of clarity similar to that provided by Section 1.]'''&lt;/ref&gt;
+
+Section 2. Whenever there is a vacancy in the office of the Vice President, the President shall nominate a Vice President who shall take office upon confirmation by a majority vote of both Houses of Congress.&lt;ref&gt;'''[This Section was utilized twice in the 1970's. When Vice President Spiro Agnew resigned during the Watergate Controversy, President Richard Nixon nominated, and Congress confirmed, Gerald Ford as Vice President. When Nixon resigned and he became President, Ford nominated and Congress confirmed Nelson Rockefeller as Vice President. Since then, Section 2 has not been utilized.]'''&lt;/ref&gt;
+
+Section 3. Whenever the President transmits to the President pro tempore of the Senate and the Speaker of the House of Representatives his written declaration that he is unable to discharge the powers and duties of his office, and until he transmits to them a written declaration to the contrary, such powers and duties shall be discharged by the Vice President as Acting President. 
+
+Section 4. Whenever the Vice President and a majority of either the principal officers of the executive departments or of such other body as Congress may by law provide, transmit to the President pro tempore of the Senate and the Speaker of the House of Representatives their written declaration that the President is unable to discharge the powers and duties of his office, the Vice President shall immediately assume the powers and duties of the office as Acting President.
+
+Thereafter, when the President transmits to the President pro tempore of the Senate and the Speaker of the House of Representatives his written declaration that no inability exists, he shall resume the powers and duties of his office unless the Vice President and a majority of either the principal officers of the executive department or of such other body as Congress may by law provide, transmit within four days to the President pro tempore of the Senate and the Speaker of the House of Representatives their written declaration that the President is unable to discharge the powers and duties of his office. Thereupon Congress shall decide the issue, assembling within forty-eight hours for that purpose if not in session. If the Congress, within twenty-one days after receipt of the latter written declaration, or, if Congress is not in session, within twenty-one days after Congress is required to assemble, determines by two-thirds vote of both Houses that the President is unable to discharge the powers and duties of his office, the Vice President shall continue to discharge the same as Acting President; otherwise, the President shall resume the powers and duties of his office.
+
+====Amendment XXVI - Right to Vote at Age 18 (1971)====
+Section 1. The right of citizens of the United States, who are 18 years of age or older, to vote, shall not be denied or abridged by the United States or any state on account of age. 
+
+Section 2. The Congress shall have the power to enforce this article by appropriate legislation.
+
+====Amendment XXVII - Compensation of Members of Congress (1992)====
+No law, varying the compensation for the services of the Senators and Representatives, shall take effect, until an election of Representatives shall have intervened.&lt;ref&gt;'''[Amendment XXVII was proposed at the same time as the Bill of Rights, but was not ratified until over two hundered years after proposition.]'''&lt;/ref&gt;
+
+
+==References==
+
+{{reflist}}
+
+{{USConstitionAndGovtTOC}}   
+   
+[[Category:United States Government]]</text>
+      <sha1>t0w605bcyreplidla85u1252aa9wdvd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>US History/Westward Expansion and Manifest Destiny</title>
+    <ns>0</ns>
+    <id>1394</id>
+    <revision>
+      <id>2710039</id>
+      <parentid>2707981</parentid>
+      <timestamp>2014-10-04T11:56:05Z</timestamp>
+      <contributor>
+        <username>Pittsburgh Poet</username>
+        <id>1449338</id>
+      </contributor>
+      <minor />
+      <comment>/* Technology */ adding teletype ~~~~</comment>
+      <text xml:space="preserve">==The Election of 1840==
+President Martin Van Buren was blamed for the Panic of 1837, but felt that he deserved to be reelected in 1840. Van Buren was a Democrat from New York who had continued the policies of Andrew Jackson. To oppose him the Whig Party joined to bring in a hero of the Indian wars, William Henry Harrison, &quot;Old Tippecanoe.&quot; The ticket was balanced by the Vice Presidential candidate, a Southerner named John Tyler. 
+
+The Harrison campaign was thoroughly managed. The campaign song, &quot;Tippecanoe and Tyler Too,&quot; was headed with an image of the log cabin where Harrison had supposedly grown up. Paid staffers went to frontier towns rolling a huge canvas ball, inscribed, &quot;Keep it rolling for Tippecanoe and Tyler Too.&quot; (The American idiom &quot;Keep the ball rolling&quot; comes from this usage.) The ball would stop in front of a local tavern, then a common meeting place of the community. There they would stage a rally, typically with some free cider. Another sign of Harrison's plain man status was his title as &quot;the hard cider candidate.&quot; There was little discussion of the issues. For its part, Van Buren's campaign called Harrison a provincial, out-of-touch old man. (The latter was then sixty-eight years old, a rare age in those days.) 
+
+Harrison won, and gave an hours-long, polished inaugural speech to prove his sophistication. Three weeks afterward, he came down with a cold which turned into pneumonia. He died in April of 1841, and John Tyler was sworn in as President. Thus the Whig Party, predominately Northern and ambivalent about slavery, elected a Virginian advocate of slavery and opponent of the American System. This was a startling omen for those like Clay who believed in American unity.
+
+==John Tyler Presidency==
+
+Tyler's dislike of Jackson had moved him to change his party from Democrat to Whig. His government marked the only Whig presidency. His supporters included formerly anti-Jackson Democrats and National Republicans. He supported states' rights; so when many of the Whig bills came to him, they were never voted in. In fact, Tyler vetoed the entire Whig congressional agenda. The Whigs saw this as a party leader turning on his own party. He was officially expelled from the Whig party in 1841.
+
+The Tyler presidency threw the Whig party into disarray. Because of divisions between the two factions in the party, the Whigs could not agree on one goal. Much of the public did not take Tyler's presidency seriously. They saw his lack of appeal in Congress and the embarrassing resignations of all of but one of Harrison's cabinet appointees in a single month. Yet Tyler's administration helped polarize the two parties. When he appointed John C. Calhoun, a staunch pro-slavery Democrat, as his Secretary of State, he confirmed a growing feeling that Democrats were the party of the South and Whigs the party of the North. In the election of 1844, Whigs voted by sectional ties. Because of these weakening divisions within the party, the Democratic candidate, James Polk, won. After one term, the Whigs were out of power.
+
+== Manifest Destiny ==
+
+Many Western European-descended &quot;White&quot; Americans supported anti-Native American policies. The theme of conquest over the Indian was seen as early as John Filson's story of Daniel Boone in 1784. In the Nineteenth Century this was joined to the conviction that the United States was destined to take over the whole continent of North America, the process of '''Manifest Destiny''' articulated by John O' Sullivan in 1845.[source needed] America carried the Bible, civilization, and democracy: the Indian had none of these. Many European descendants believed other ethnic groups, including those people imported as slaves from Africa and their descendants, were childlike, stupid, and feckless. It was the duty of so-called superior groups to meet these inferior groups and to dominate them. So-called inferior ethnic groups could not advance technologically or spiritually. The idea of Manifest Destiny resulted in the murders and dislocation of millions of people. The Cherokee had been converted to Christianity, they were by-and-large peaceful, and they were using a self-invented alphabet to print newspapers. But their deportation, the &quot;Trail of Tears,&quot; was justified by Manifest Destiny. The conviction was behind the Louisiana Purchase, the final shaking of French colonialism in what would become the Continental United States. It was behind the defeat of Spanish and Mexicans in a succession of skirmishes and wars. It helped send out pro- and anti-slavery factions across new areas, and still later brought about legislation such as the Homestead Act.
+
+== Amistad Case ==
+In February of 1839, Portuguese slave hunters abducted a large group of Africans from Sierra Leone and shipped them to Havana, Cuba, a center for the slave trade. This abduction violated all of the treaties then in existence. Fifty-three Africans were purchased by two Spanish planters and put aboard the Cuban schooner Amistad for shipment to a Caribbean plantation. On July 1, 1839, the Africans seized the ship, killed the captain and the cook, and ordered the planters to sail to Africa. On August 24, 1839, the Amistad was seized off Long Island, NY, by the U.S. brig Washington. The planters were freed and the Africans were imprisoned in New Haven, CT, on charges of murder. Although the murder charges were dismissed, the Africans continued to be held in confinement as the focus of the case turned to salvage claims and property rights. President Van Buren was in favor of extraditing the Africans to Cuba. However, abolitionists in the North opposed extradition and raised money to defend the Africans. Claims to the Africans by the planters, the government of Spain, and the captain of the brig led the case to trial in the Federal District Court in Connecticut. The court ruled that the case fell within Federal jurisdiction and that the claims to the Africans as property were not legitimate because they were illegally held as slaves. The case went to the Supreme Court in January 1841, and former President John Quincy Adams argued the defendants' case. Adams defended the right of the accused to fight to regain their freedom. The Supreme Court decided in favor of the Africans, and 35 of them were returned to their homeland. The others died at sea or in prison while awaiting trial. The result, widely publicized court cases in the United States helped the abolitionist movement.
+
+==Technology==
+
+The canals had been a radical innovation. But they had their limitations. They could only overcome mountains with complicated, overland bypasses, and in winter they froze, stopping traffic completely. But an answer was found in the steam-driven, coal-powered engine. The steamboat was already bringing cotton and people up the rivers, erasing an age-old transportation problem. The development of railroad engines made travel and manufacture possible even in winter. It made the expensive canal obsolete: wherever you could run a rail, you could have a town. And the coal-fired, steam-powered engine could bring manufacturing to places without great rivers. The prosperity of the New England mill towns could be replicated elsewhere.
+
+Coal and its byproducts became a major industry in America. (It was at about this time that some German cities became known for creating coal-based dyes to make bold-colored fabrics.) Iron works and glass plants built large furnaces, fueled by coke, a coal derivative. They were contained by huge buildings. Steam-boats burned coke. So did steam-driven works. Smoke and smut from industry and household coal fires poured into city air. In his 1842 tour of Pittsburgh, Charles Dickens looked at the haze and fire and called it &quot;Hell with the lid off.&quot;
+
+Canals, railroads, and the teletype system tied the country together in a way thought impossible in 1790. They increased the market for goods, and thus the demand. The Second Industrial Revolution produced faster ways of satisfying that demand. In 1855 Henry Bessemer patented a furnace which could turn iron into steel, in high quantity. Iron workers, &quot;puddlers,&quot; had worked slowly and regularly, had been paid a high wage, and had been considered craftsmen. The new steelworkers did not need that skill. They could be paid more cheaply. In other industries, faster processes of work either made a mockery of the apprenticeship system or eliminated it altogether. Manufacturers faced the same situation of the New England cloth makers a generation before, and solved it another way. To find fresh, fast, cheap labor, you could often hire children. You didn't have to pay them as much, and they didn't complain. Where children used to work on the farm, they now worked in groups in factories for higher wages. These children were, at the best, expected to work long and hard. (It was cheaper to run big machines in shifts than to have them idle all night.) Boys and girls worked naked in the coal mines; boys got burned in the glassworks; boys got maimed or killed running heavy machinery. None of them went to school, so even the ones who survived to adulthood were unfit for jobs when they came of age.
+
+The ideals of Thomas Jefferson were dead. Instead of craftsmen and farmers living by their own hands, the cities were being filled by people who owned little or nothing, getting on by the wages paid by often indifferent employers. This was true in New England and the Middle States, though not in the South (except for the Tregar Ironworks in Richmond, Virginia, itself partially manned by slaves). Politicians such as John C. Calhoun jeered at Northern &quot;wage slaves,&quot; and dreamed of a South with the technology and government of Sparta.
+
+==Compromise of 1850==
+
+'''The Compromise of 1850''' was an intricate package of five bills passed in September 1850. It defused a four-year confrontation between the slave states of the South and the free states of the North that arose following the Mexican-American War. The compromise, drafted by Whig Henry Clay and brokered by Democrat Stephen Douglas, quieted sectional conflict for four years. The calm was greeted with relief, although each side disliked specific provisions. Texas surrendered its claim to New Mexico, but received debt relief and the Texas Panhandle, and retained the control over El Paso that it had established earlier in 1850. The South avoided the humiliating Wilmot Proviso, but did not receive desired Pacific territory in Southern California or a guarantee of slavery south of a territorial compromise line like the Missouri Compromise Line or the 35th parallel north. As compensation, the South received the possibility of slave states by popular sovereignty in the new New Mexico Territory and Utah Territory, which, however, were unsuited to plantation agriculture and populated by non-Southerners; a stronger Fugitive Slave Act, which in practice outraged Northern public opinion; and preservation of slavery in the national capital, although the slave trade was banned there except in the portion of the District of Columbia that adjoined Virginia. The Compromise became possible after the sudden death of President Zachary Taylor, who, although a slave owner himself, tried to implement the Northern policy of excluding slavery from the Southwest. Whig leader Henry Clay designed a compromise, which failed to pass in early 1850. In the next session of Congress, Democratic Senator Stephen Douglas of Illinois narrowly passed a slightly modified package over opposition by extremists on both sides, including Senator John C. Calhoun of South Carolina.
+
+
+=== Texas and Mexico ===
+
+Mexico won independence from Spain in 1821. Weakened by more than a decade of struggle, the new Republic of Mexico attempted to attract settlers from the United States to the then-sparsely populated Mexican state of Coahuila y Texas. The first white settlers were 200 families led by Stephen F. Austin as a part of a business venture started by Austin's father. Despite nominal attempts to ensure that immigrants would be double penetrated with Mexican cultural values -- by requiring, for example, acceptance of Catholicism and a ban on slave holding -- Mexico's immigration policy led to the whites, rather than Mexicans, becoming the demographic majority in Texas by the 1830's, their beliefs and American values intact.
+
+Due to past US actions in Texas, Mexico feared that white Americans would convince the United States to annex Texas and Mexico. In April 1830, Mexico issued a proclamation that people from the United States could no longer enter Texas. Mexico also would start to place custom duties on goods from the United States. In October 1835, white colonists in Texas revolted against Mexico by attacking a Mexican fort at Goliad, defeating the Mexican garrison. At about the same time, the Mexican president and dictator, Antonio López de Santa Anna, provoked a constitutional crisis that was among the causes of the revolt in Texas, as well as a rebellion in the southern Mexican province of Yucután. An official declaration of Texas independence was signed at Goliad that December. The next March, the declaration was officially enacted at the Texan capital of Washington-on-the-Brazos, creating the Republic of Texas.
+
+A few days before the enactment of the declaration, a Mexican force led by General Antonio López de Santa Anna laid siege to the Alamo, a mission in present day San Antonio. Vastly outnumbered, fewer than 200 Texans at San Antonio de Béxa, renamed the Alamo, held out for 12 days, until the final attack at dawn on March 6, 1836. Santa Anna, as he had promised during the siege, killed the few prisoners taken in the capture. Though the Alamo had been garrisoned in contravention of orders from Sam Houston, who had been placed in charge of Texan armed forces, the delay their defense forced on the Mexican army allowed the Texan government some crucial time to organize.
+
+The next month saw the battle of San Jacinto, the final battle of the Texas Revolution. A force of 800 led by Sam Houston, empowered by their rallying war cry of &quot;Remember the Alamo!&quot;, defeated Santa Anna's force of 1600 as they camped beside the sluggish creek for which the 20-minute-long battle is named. Santa Anna himself was captured and the next day was tortured to sign the Treaties of Velasco, which ended Mexico-Texas hostilities. After the fighting had ended, Texas asked to be admitted to the Union, but Texas's request forced Congress to an impasse.
+
+[[Image:Mexico states evolution.gif|thumb|Evolution of the Mexican territory.]]One of the most significant problems with the annexation of Texas was slavery. Despite Mexican attempts to exclude the practice, a number of white-Texans held slaves, and the new Republic of Texas recognized the practice as legitimate. In the United States, The Missouri Compromise of 1818 provided for an equality in the numbers of slave and non-slave states in the US, and to allow Texas to join would upset that power balance. For about ten years, the issue was unresolved, until President James Polk agreed to support the annexation of Texas. In 1845, Texas formally voted to join the US. The Mexicans, however, who had never formally recognized Texas's independence, resented this decision.
+
+The southern boundary with Texas had never officially been settled and when the United States moved federal troops into this disputed territory, war broke out (assisted by raids carried out across the border by both sides). In the Mexican-American War, as this was called, the US quickly defeated the Mexican Army by 1848. The peace settlement, called the Treaty of Guadalupe Hidalgo, ceded one-third of Mexico's territory to the United States. In addition to Texas, with the border fixed at the Rio Grande River, the United States acquired land that would become the present-day states of New Mexico, California, Arizona, Colorado, Nevada, Utah, and parts of Colorado and Wyoming; the US paid Mexico $15 million. However, the new territories posed even more problems relating to slavery: the balance between slave and non-slave states seemed threatened again.
+
+=== Oregon ===
+In 1824 and 1825 Russia gave up its claim to Oregon. The U.S. and Canada jointly made an agreement for occupation. However, disputes surfaced over the northwestern boundary of the US and the southwestern boundary of Canada. The US claimed that it owned land south of Alaska, while the British claimed that the boundary was drawn at present-day Oregon. President Polk, who had initiated the dispute, gave Great Britain an ultimatum -- negotiate or go to war. On June 15, 1846, Britain agreed to give up the land south of the 49th parallel, while keeping Vancouver Island and navigation rights to the Columbia River. Polk agreed. Comparing this incident to the president's aggressiveness toward Mexico, several individuals [whom?] concluded that Polk favored the causes of the South over those of the North.
+
+'''Oregon Trail'''
+
+Sometimes Native Americans and white settlers met in peace. During the twenty years after 1840, around 250,000 to 500,000 people walked '''the Oregon Trail''' across most of the continent on foot, with the trek taking an average of seven months. Many of these settlers were armed in preparation for Native attack, but the majority of the encounters were peaceful. Most of the starting points were along the Missouri River, including Independence, St. Joseph, and Westport, Missouri. Many settlers set out on organized wagon trains, while others went on their own. Settlers timed their departures so they would arrive after spring, allowing their livestock days of pasture at the end, and yet early enough to not travel during the harsh winter. Walking beside their wagons, settlers would usually cover fifteen miles a day. Men, women and children sometimes endured weather ranging from extreme heat to frozen winter in their 2,000 mile journey West. If a traveler became ill, he or she would have no doctor and no aid apart from fellow travelers. Only the strong finished the trail. Although most interactions between Native Americans and settlers were undertaken in good faith, sometimes things went bad. Eventually hostile relations  would escalate into full blown war and many years of bloodshed.
+
+=== California ===
+
+When war broke out between the United States and Mexico in 1845, a few white settlers in the Sacramento Valley in the Mexican state of California seized the opportunity to advance white business interests by declaring independence from Mexico despite the wishes of many Mexicans and natives present in California. Before the arrival of Europeans, scholars place the population of California at 10 million natives.  The sparsely populated Bear Flag Republic, as the new nation was called, quickly asked the US for protection from Mexico, allowing US military operations in the new Republic's territory. As skirmishes occurred in California, Mexicans suffered many abuses at the hands of the new white government.
+
+When the war ended, the California territory and a large surrounding territory were ceded by Mexico to the US in exchange for $15 million. The territory included what would become present day California, Nevada, Utah, most of New Mexico, Arizona, and Colorado and a small part of Wyoming. The continental US was nearly complete. The final piece would come in 1853, when southern Arizona and New Mexico were bought from Mexico for $10 million. The land from the purchase, known as the Gadsden Purchase, was well suited for building a southern transcontinental railroad.
+
+In 1848 gold was found at the mill of John Sutter, who lived in the foothills of the Sierra Nevada mountain range, 40 miles east of Sacramento. Word of the gold on the American River (the river on which Sutter's mill was located on) spread, and hordes of people rushed into California to mine gold. The rush peaked in 1849, and those who came during that year were known as &quot;forty-niners.&quot; The population of the northern California city of San Francisco exploded as a result of the immigration to the region.
+
+Many immigrants that joined the Gold Rush did not find opportunity but rather discrimination at the hands of white prospectors and newly changed government.  One of these, Joaquin Murrieta, known as the Mexican Robin Hood, had become a bandit and hero of those still loyal to Mexico.  As a reaction the Governor of California, John Bigler, formed the California Rangers.  This group went after and allegedly found Murrieta and his companions.  They cut off his head, which was later put on display.  Many still doubt whether the person the California Rangers decapitated was actually Murrieta or some other poor soul. Be that as it may, the memory of Murrieta is still much loved and respected by Mexican Americans today.
+
+Apart from being gained by a handful of very lucky prospectors, a great deal of the wealth generated by the Gold Rush belonged to those who owned businesses that were relevant to gold mining. For example, Levi Strauss, a German Jew, invented denim pants for prospectors when he observed that normal pants could not withstand the strenuous activities of mining. Strauss eventually became a millionaire, and the Levi's brand still is recognized today.
+
+== Mormonism ==
+
+=== The Birth of the Latter Day Saints ===
+
+One continuation of the Second Great Revival is seen in the birth of an American faith, '''Mormonism''', or The Church of God of the Latter Day Saints. Joseph Smith, a resident of New York State, said that he had found golden plates. The documents which he supposedly translated from these plates revealed what he said was a restoration of the faith which Jesus and the apostles had known, a new American-based order. In 1830 he organized what he designated The Church of Christ, or the Church of the Latter Day Saints. This body spread through conversion, its truth seen in its organization and its prosperity. It had several divergences from existing United States law, including the doctrine that men might have more than one wife. After Smith had been arrested in 1844 in Illinois, charged by civil officials with starting a riot and with treason, a crowd broke into the jail where he was being held and murdered him.
+
+=== The Great Mormon Exodus ===
+
+Yet the Latter Day Saints persevered. Smith's successor was another prophet, Brigham Young. Continued conflict between the U.S. Government, most signally the state of Illinois, and the Mormons led to the decision to leave the States and go to a less-settled place. The territory of Utah, obtained through the wars with Mexico, certainly counted as less-settled: a vast alkali desert, punctuated by grotesque mountains, and sparsely peopled by Spanish-speaking settlements and Indian tribes. 
+
+The Mormons began sending out a few pioneers for the new territory as early as 1846. In the two decades afterward, while conversion and population growth further increased the Mormons, about 70,000 people made the trek through difficult conditions. In some cases the migrants walked on foot through hostile landscapes, carrying all their goods with them in handcarts they pulled themselves. 
+
+When they reached Utah, they formed tightly-organized, top-down structures driven by doctrine and individual discipline. The settlers diverted mountain streams to their fields. In places which had been waste, they created fertile farms and productive vegetable gardens.
+
+=== Continuing Skirmishes ===
+
+Yet even in this new land, conflicts continued between Mormons and the U.S. government. In the spring of 1857, President James Buchanan appointed a non-Mormon, Alfred Cumming, as governor of the Utah Territory, replacing Brigham Young, and dispatched troops to enforce the order. The Mormons prepared to defend themselves and their property; Young declared martial law and issued an order on Sept. 15, 1857, forbidding the entry of U.S. troops into Utah. The order was disregarded, and throughout the winter sporadic raids were conducted by the Mormon militia against the encamped U.S. army. Buchanan dispatched (Apr., 1858) representatives to work out a settlement, and on June 26, the army entered Salt Lake City, Cumming was installed as governor, and peace was restored.
+
+In 1890, the president of the Mormon Church, Wilford Woodruff, ruled that there would be no more plural marriages. Other distinctive practices which had become Church practice under Joseph Smith continued, including theocratic rule and declaration of people as gods. By 1896, when Utah became one of the United States, it was both Mormon and as American as Massachusetts or New York State.
+
+== Public Schools and Education ==
+The Board of Education in Massachusetts was established in 1837, making it the oldest state board in the United States. Its responsibilities were and are to interpret and implement laws for public education in the Commonwealth of Massachusetts. Public education in the Commonwealth was organized by the regulations adopted by the Board of Education, which were good faith interpretations of Massachusetts and federal law.&lt;ref&gt;A People and A Nation, Eighth Edition&lt;/ref&gt; The Board of Education was also responsible for granting and renewing school applications, developing and implementing the Massachusetts Comprehensive Assessment System, submitting yearly budget proposals for public education to the Massachusetts General Court, setting standards for teachers, certifying teachers, principals, and superintendents, and monitoring achievements of districts in the Commonwealth.
+
+There was a movement for reform in public education. The leader of this movement was Horace Mann, a Massachusetts lawyer and reformer. He supported free, tax-supported education to replace church schools and the private schools set up by untrained, young men. Mann proposed universal education, which would help Americanize immigrants. During Mann’s tenure as secretary of the Massachusetts Board of Education from 1837 to 1848, Massachusetts led the common school movement brought training for teachers, lengthened school years and raised the teachers pay to attract people to that profession.&lt;ref&gt;A People and A Nation, Eighth Edition&lt;/ref&gt;
+
+In this period education began being extended more and more to women. Early elementary schools had separate rooms for boy students and girl students. Now some elementary classes became co-educational, and women began to be hired as teachers. The first woman's college, Mt. Holyoke, was founded in South Hadley, Massachusetts. It was created by Mary Lyon, and intended as a liberal arts college.
+
+== Dred Scott v. Stanford - 1857 ==
+'''Dred Scott''' was an African-American slave who first sued for his freedom in 1846. His case stated that he and his wife Harriet had been transported to both the state of Illinois and Minnesota territory. Laws in both places made slavery illegal. Dred and Harriet began with two separate cases, one for each of them. Slaves were not allowed legal marriage, but the two considered themselves married, and wanted to protect their two teenage daughters. As Dred became ill, the two merged their suit. At first it was the rule that state courts could decide if African-Americans in their jurisdictions were slave or free. After many years and much hesitation, the Supreme Court agreed to hear the case.&lt;ref&gt;&quot;A People and A Nation&quot; eighth edition&lt;/ref&gt; The United States Supreme Court ruled 7-2 in favor of the slave master, citing precedent that found that neither Dred nor his wife could claim citizenship. As they were not  citizens, they did not have a claim in Federal Court. The majority argument cited the Missouri Compromise of 1854 to state that a temporary residence outside of Missouri did not immediately emancipate them, since the owner would be unfairly deprived of property.
+
+==Ostend Manifesto==
+Southern slave owners had a special interest in Spanish-held Cuba. Slavery existed on the island, but a recent rebellion in Haiti had spurred some Spanish officials to consider emancipation. The Southerners did not want freed slaves so close to their shores, and other observers thought Manifest Destiny should be extended to Cuba. In 1854 three American diplomats, Pierre Soulé (the minister to Spain), James Buchanan (the minister to Great Britain), and John Y. Mason (the minister to France), met in Ostend, Belgium. They held in common the same views as many Southern Democrats. The diplomats together issued a warning to Spain that it must sell Cuba to the United States or risk having it taken by force. This statement had not been authorized by the Franklin Pierce administration and was immediately repudiated. Reaction, both at home and abroad, was extremely negative.
+
+== Women's History of the Period ==
+=== Declaration of Sentiments ===
+1848  marked the year of the Declaration of Sentiments; it was a document written as a plea for the end of discrimination against women in all spheres of Society. Main credit is given to Elizabeth Cady Stanton for writing the document. The document was presented at the first women's rights convention held at Seneca Falls, New York. Though the convention was attended by 300 women and men, only 100 of them actually signed the document which included; 68 women and 32 men.
+
+=== Elizabeth Blackwell ===
+In 1849 Elizabeth Blackwell became the first woman to receive a medical degree. She attended Geneva College in New York and graduated on January 23, 1849. Even though she had her medical degree she was still banned from practicing in most hospitals. She then relocated to Paris, France and continued her training as a midwife instead of a physician. While in Paris she contracted an eye infection from a small baby that forced her to lose her right eye. It was replaced by a glass eye which ended her medical career.
+
+=== Missouri v. Celia ===
+This murder trial took place in Calloway County, Missouri beginning October 9, 1855. It involved a slave woman named Celia and her master Robert Newsome. After being purchased at the age of 14 in 1850 Celia bore two of her masters children.  Soon after becoming intimate with another slave while still being sought after by her master Celia became pregnant. On June 23, 1855, feeling unwell from the pregnancy, Celia pleaded with her master to let her rest; when Newsome ignored her pleas she struck him twice in the head with a heavy stick. She then spent the night burning his corpse in her fireplace and grinding the smaller bones into pieces with a rock. Although Missouri statutes forbade anyone &quot;to take any woman unlawfully against her will and by force, menace or duress, compel her to be defiled,&quot; the judge residing over the case instructed the jury that Celia, being enslaved, did not fall within the meaning of &quot;any woman&quot; thus since the &quot;sexual abuser&quot; was her master the murder was not justified on the claim of self-defense. Celia was found guilty of the crime on October 10, 1855 and was sentenced to be hanged. The case still remains significant in history because it graphically illustrates the dreadful truth that enslaved women had absolutely no recourse when it came to being raped by their masters.
+
+==Panic of 1857==
+
+The Panic of 1857 introduced the United States, at least in a small way, to the intricate dealings of the worldwide economy. On the same day that the Central America wrecked, Cincinnati's Ohio Life Insurance and Trust Company ceased operation thanks to embezzlement. News of the twin disasters spread quickly, in part because of the telegraph now becoming common. Investors, including British investors, began to withdraw money from Wall Street in massive numbers. Bank failures increased, mostly in the industrial Northeast and New England states, while the West and South, still more dependent on agriculture, seemed to weather the storm better. There were many underlying causes for the Panic of 1857, and by the time the twin disasters occurred the United States was well on its way into the economic downturn. For 3 years the Crimean War had involved European and Asian countries which increase foreign dependence on American agriculture. The return of the men and land to agricultural production meant an abundance of crops in 1857 which led to falling prices for farm goods. Land speculation, too, had become rampant throughout the United States. This led to an unsustainable expansion of the railroads. As investment money dried up, the land speculation collapsed, as did many of the railroads shortly thereafter. Attempts were made by the federal government to remedy the situation. A bank holiday was declared in October, 1857 and Secretary of the Treasury Howell Cobb recommended the government selling revenue bonds and reducing the tariff (Tariff of 1857). By 1859 the country was slowly pulling out of the downturn, but the effect lasted until the opening shots of the Civil War.
+
+== Rebellion at Harper's Ferry, Virginia ==
+=== John Brown ===
+John Brown had been born in Connecticut on May 19, 1800. He grew up in Ohio, where his father worked as a tanner and a minister near Oberlin, Ohio. His father preached abolitionism, and John Brown learned from him. He married twice, his first wife dying while giving birth to their seventh child. He would ultimately father twenty children, eleven of them surviving to adulthood. He started several failed business ventures and land deals in Ohio and Massachusetts. For a while he settled in a community of both black and white settlers. He lived there peacefully until the mid-1850s. Then two of his sons who had moved to Kansas asked him for guns to defend themselves against Missouri Border Ruffians. After two failed defense efforts, Brown left the Kansas area to avoid prosecution for the Pottawatomie massacre. He was already gaining some mention in the press for his efforts. He moved back East and decided to  plan a way to destroy slavery in America forever.
+
+=== Brown's Raid On Harper's Ferry ===
+After the troubles in Kansas Brown decided on a plan. A lightly-defended armory in Harper's Ferry, Northern Virginia, contained 100,000 muskets and rifles. An attacker would need some monetary investment to obtain a battalion of men, a similar number of rifles, and a thousand pikes. With the weapons seized at the armory, Brown planned on arming sympathizers and slaves freed by his personal army as it swept through the South. Harper's Ferry had no plantations, and Brown expected no resistance from the local townspeople. On October 16, 1859, Brown carried out his raid, which he planned as the beginning of his revolution. However, instead of his battalion of 450 men, he went in with a group of twenty, including two of his sons. They easily overtook the single nightwatchman and killed several townspeople on the way in, including a free African American man who discovered their plot. Brown had also underestimated the resolve of the local townspeople, who formed a militia and surrounded Brown and his raiders in the armory. After a siege of two days, the U.S. Army sent in a detachment of Marines from Washington, D.C., the closest available contingent. The marines, led by Robert E. Lee, stormed the armory, and in a three minute battle ten of Brown's men were killed. Brown and six others were taken alive and imprisoned for a swift trial. Brown and five of his raiders were hung before the end of the year. Three others were killed in early 1860.
+
+=== Public Reaction ===
+News of the rebellion spread rapidly around the country by telegraph and newspaper, though opinions differed about what it meant. ''The Charleston Mercury'' of November seven, 1859, represents one Southern view: &quot;With five millions of negroes turned loose in the South, what would be the state of society? It would be worse than the 'Reign of Terror'. The day of compromise is passed.&quot;&lt;ref&gt;reprinted at http://www.eastconn.org/tah/1011PJ1_RegionalReactionsJohnBrownRaidLesson.pdf&lt;/ref&gt; The reaction was most mixed and vigorous among those who called themselves Christians. Abraham Lincoln typified the response of many others when he said that, though Brown &quot;agreed with us in thinking slavery wrong,&quot; &quot;[t]hat cannot excuse violence, bloodshed, and treason.&quot;&lt;ref&gt;Lincoln, Abraham. Speech in ''The Illinois State Journal'' of December 12, 1859, &quot;in Leavenworth city on the 4th inst. as we find it in ''the Leavenworth Register.'' Basler, Roy P., editor; Marion Dolores Pratt and Lloyd A. Dunlap, assistant editors. Collected Works of Abraham Lincoln. New Brunswick, N.J: Rutgers University Press, 1953. Vol. 3, p. 502. http://quod.lib.umich.edu/l/lincoln/lincoln3/1:166?rgn=div1;view=fulltext&lt;/ref&gt; The Unitarian William Lloyd Garrison, already having swerved from his previously-held pacifism, on the day of Brown's death preached a sermon commemorating him. &quot;Whenever there is a contest between the oppressed and the oppressor, -– the weapons being equal between the parties, –- God knows that my heart must be with the oppressed, and always against the oppressor. Therefore, whenever commenced, I cannot but wish success to all slave insurrections.&quot;&lt;ref&gt;Reprinted at http://www.historyplace.com/speeches/garrison.htm.&lt;/ref&gt; The Congregationalist Minister Henry Ward Beecher likewise supported Brown from the pulpit. In short, a faction of White people of faith both conservative and liberal began saying that only by violence could slavery be struck from America.
+
+== Election of 1860 ==
+
+The new-born Republican party supported Northern industry, as the Whigs had done. It also promised a tariff for the protection of industry and pledged the enactment of a law granting free homesteads to settlers who would help in the opening of the West. But by 1860, it had become the party of abolition. Many Republicans believed that Lincoln's election would prevent any further spread of slavery. It selected Abraham Lincoln of Illinois as its presidential candidate, and Hannibal Hamlin of Maine as its vice-presidential candidate. 
+
+The Democratic party split in two. The main party or the Northern Democrats could not immediately decide on a candidate, and after several votes, their nominating convention was postponed when the Southern delegates walked out. When it eventually resumed, the party decided on Stephen Douglas of Illinois as its candidate. The first vice-presidential candidate, Benjamin Fitzpatrick, dropped his name from consideration once his home state of Alabama seceded from the Union. His replacement was Herschel Johnson of Georgia. The Southern delegates from the Democratic party selected their own candidate to run for president. John C. Breckenridge of Kentucky with Joseph Lane of Oregon as their vice-presidential candidate.
+
+Former Whigs and Southern Republicans who supported the Union in the slavery issue formed the Constitutional Union party. Tennessee senator John Bell was chosen as the Constitutional Union party presidential candidate, over former Texas governor Sam Houston. Harvard President Edward Everett was chosen as the vice-presidential candidate.  
+
+Abraham Lincoln won the election with only forty percent of the vote. But with the electorate split four ways, it led to a landslide victory in the Electoral College. Lincoln garnered 180 electoral votes without being listed on any of the ballots of any of the future secessionist states in the deep South (except for Virginia, where he received 1.1% of the vote). Stephen Douglas won just under 30% of the popular vote, but only carried 2 states for a total of 12 electoral votes. John Breckenridge carried every state in the deep South, Maryland, and Delaware, for a total of 72 electoral votes. Bell carried the border slave states of Kentucky, Virginia, and Tennessee, for a total of 39 electoral votes. Except for the split decision in the presidential election of 1824, no President in US History has won with a smaller percentage of the popular vote. 
+
+Lincoln's election ensured South Carolina's secession, along with Southern belief that they now no longer had a political voice in Washington. Other Southern states followed suit. They claimed that they were no longer bound by the Union, because the Northern states had in effect broken a constitutional contract by not honoring the South's right to own slaves as property.
+
+==Questions For Review==
+
+1. What affect did proslavery sentiments have on the Mexican War?
+
+2. Reconstruct Brown's raid in terms of what happened first, second, and so on.
+ 
+{{chapnav|War, Nationalism, and Division|Civil War}}
+
+==References==
+{{reflist}}</text>
+      <sha1>enlrnkpzyhc4wv0kck6wj5qkgqo6tr5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>GCSE Science/Uses of electromagnets</title>
+    <ns>0</ns>
+    <id>1396</id>
+    <revision>
+      <id>2480297</id>
+      <parentid>2480296</parentid>
+      <timestamp>2013-01-21T17:48:52Z</timestamp>
+      <contributor>
+        <ip>109.154.62.127</ip>
+      </contributor>
+      <text xml:space="preserve">Electromagnets are used inside all sorts of devices. A very simple device is the electromagnet that is used in scrap yards to pick up cars. It can then drop them once the electric current is turned off. This page looks at some more complicated devices that use electromagnets.
+
+==What are Electromagnets?==
+Electromagnets are a type of magnet that you can make using a piece of iron, a wire (that you have to coil around the iron) and a battery.  You have to switch on the battery, which should be connected to the wire. The iron will attract other metals, just like a magnet.  If you leave the wire attached to the battery, it will begin to get hot. This will also work with a non magnetic core, but the electromagnet will be weaker. The more coils you have, the stronger the electromagnet will be.
+
+You can use electromagnets for lots of things: loudspeakers, relays and circuit-breakers. They are also used in car scrap-yards to pick up magnetic waste (e.g. Old cars),cand with any form of magnetically recordable media: VCR tapes, computer hard drives, cassette tapes, and credit card stripes.
+
+==How Do They Work?==
+Every wire has a magnetic field around it, but this only happens if there is current flowing through it.  Every current produces a magnetic field. This effect is used in electromagnets.
+The field which is produced by the electromagnet is similar to the field around a bar magnet. If it has no iron core it will still produce a field, only it won’t be so strong because the iron makes it stronger.
+The iron core becomes magnetised when the current is switched on and it loses its magnetism when it is switched off. A steel core however, will always keep its magnetism.
+
+==The electric bell==
+
+===Step by Step Explanation===
+Once the battery is connected a current flows in the wire loops around the U shaped soft iron core. 
+
+This turns the core into an electromagnet.
+
+The electromagnet attracts the armature which is also made of soft iron.
+
+As the armature moves towards the electromagnet, it causes the hammer to strike the bell. At the same time it breaks the circuit at X.
+
+The break in the circuit causes the current to stop flowing.
+
+The soft iron core loses its magnetic field and releases the armature which springs back to its original position.
+
+The contact screw touches the springy metal and completes the circuit. The whole cycle is repeated over and over until the battery is disconnected or runs down.
+
+Hope you will find this information helpful!
+
+==The Loud Speaker==
+
+{| align=&quot;right&quot;
+|-
+| [[Image:Loud speaker.png]]
+|-
+| A cut through diagram of a typical speaker
+|}
+
+A speaker is made of a paper cone attached to a coil which acts as a small electromagnet. The coil is fitted over a permanent magnet, and as the current flows through the coil it is either attracted or repelled depending on which direction the current flows. A typical signal from an amplifier will be a varying current, and so the cone will vibrate back and forth at the same frequency as the current. As the cone vibrates, it sets up pressure waves in the air, which we hear as sound.
+
+[[Category:GCSE Science]]</text>
+      <sha1>9xu8z4m8i84g5inkhk1lvqzgfk9hj5x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>United States Government/Authors</title>
+    <ns>0</ns>
+    <id>1397</id>
+    <revision>
+      <id>954975</id>
+      <parentid>954974</parentid>
+      <timestamp>2007-08-31T06:54:35Z</timestamp>
+      <contributor>
+        <username>Remi</username>
+        <id>58775</id>
+      </contributor>
+      <minor />
+      <comment>casing of &quot;Wikibook&quot;</comment>
+      <text xml:space="preserve">This book, '''US Constitution and Government''', was initiated and written by [[User:Lord Emsworth|Lord Emsworth]], with slight contributions by [[User:Karl Wick|Karl Wick]] and [[User:Tamu125|Tamu Schwoeffermann]]. Although the content of the book is comprehensive, it still needs to be edited and revised. 
+
+The original version of the book was finished on September 30, 2003, making it the first &quot;finished&quot; Wikibook on the site.
+
+{{USConstitionAndGovtTOC}}
+
+[[Category:United States Government]]</text>
+      <sha1>ak0lpt5cqcmqgbbqb3bq3psi9gu3bl6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Lord Emsworth</title>
+    <ns>2</ns>
+    <id>1398</id>
+    <revision>
+      <id>1940837</id>
+      <parentid>1174726</parentid>
+      <timestamp>2010-09-29T15:01:31Z</timestamp>
+      <contributor>
+        <ip>78.60.217.102</ip>
+      </contributor>
+      <comment>mistake</comment>
+      <text xml:space="preserve">Principal author of the books [[US Constitution and Government]] and [[US History]], Lord Emsworth edits from the ease and comfort of his very own borrowed internet browser.
+
+Hello, my name is Martin M. Elissetche. I'm a PhD student at the University of Maryland and the creator of a social science dictionary located at www.socialsciencedictionary.org. I wanted to know if I could place a copy of your book on my web site or whether you prefer if I just link to it. Please let me know what you think at info@socialsciencedictionary.org. Cheers, m.</text>
+      <sha1>1mqxsui2vuxxxt9rn9rarel3qqs0cao</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,1901 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>C Programming/Procedures and functions</title>
+    <ns>0</ns>
+    <id>2132</id>
+    <revision>
+      <id>2675476</id>
+      <parentid>2580656</parentid>
+      <timestamp>2014-06-21T13:46:39Z</timestamp>
+      <contributor>
+        <username>JackPotte</username>
+        <id>99248</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">{{C Programming/Navigation|Control|Error handling}}
+
+In C programming, all executable code resides within a '''function'''.  A function is a named block of code that performs a task and then returns control to a caller. Note that other programming languages may distinguish between a &quot;function&quot;, &quot;subroutine&quot;, &quot;subprogram&quot;, &quot;procedure&quot;, or &quot;method&quot; -- in C, these are all functions.
+
+A function is often executed (called) several times, from several different places, during a single execution of the program.
+After finishing a subroutine, the program will branch back (return) to the point after the call.
+
+Functions are a powerful programming tool.
+
+As a basic example, suppose you are writing code to print out the first 5 squares of numbers, do some intermediate processing, then print the first 5 squares again. We could write it like this:
+  
+&lt;source lang=c&gt;
+#include &lt;stdio.h&gt;
+
+int main(void)
+{
+  int i;
+  for(i=1; i &lt;= 5; i++)
+  {
+     printf(&quot;%d &quot;, i*i);
+  }
+  for(i=1; i &lt;= 5; i++)
+  {
+     printf(&quot;%d &quot;, i*i);
+  }
+  return 0;
+}
+&lt;/source&gt;
+
+We have to write the same loop twice. We may want to somehow put this code in a separate place and simply jump to this code when we want to use it.  This would look like:
+
+&lt;source lang=c&gt;
+#include &lt;stdio.h&gt;
+
+void Print_Squares(void)
+{
+  int i;
+  for(i=1; i &lt;=5; i++)
+  {
+    printf(&quot;%d &quot;, i*i);
+  }
+}
+
+int main(void)
+{
+  Print_Squares();
+  Print_Squares();
+  return 0;
+}
+&lt;/source&gt;
+
+This is precisely what functions are for.
+
+== More on functions==
+A function is like a black box. It takes in input, does something with it, then spits out an answer.
+
+Note that a function may not take any inputs at all, or it may not return anything at all. In the above example, if we were to make a function of that loop, we may not need any inputs, and we aren't returning anything at all (Text output doesn't count - when we speak of ''returning'' we mean to say meaningful data that the program can use).
+
+We have some terminology to refer to functions:
+* A function, call it ''f'', that uses another function ''g'', is said to ''call'' ''g''. For example, ''f'' calls ''g'' to print the squares of ten numbers.
+* A function's inputs are known as its ''arguments''
+* A function ''g'' that gives some kind of answer back to ''f'' is said to ''return'' that answer.  For example, ''g'' returns the sum of its arguments.
+
+== Writing functions in C==
+It's always good to learn by example. Let's write a function that will return the square of a number.
+
+&lt;source lang=c&gt;
+int square(int x)
+{
+   int square_of_x;
+   square_of_x = x * x;
+   return square_of_x;
+}
+&lt;/source&gt;
+
+To understand how to write such a function like this, it may help to look at what this function does as a whole. It takes in an &lt;tt&gt;int&lt;/tt&gt;, x, and squares it, storing it in the variable square_of_x. Now this value is returned. 
+
+The first int at the beginning of the function declaration is the type of data that the function returns. In this case when we square an integer we get an integer, and we are returning this integer, and  so we write &lt;tt&gt;int&lt;/tt&gt; as the return type.
+
+Next is the name of the function. It is good practice to use meaningful and descriptive names for functions you may write. It may help to name the function after what it is written to do. In this case we name the function &quot;square&quot;, because that's what it does - it squares a number.
+
+Next is the function's first and only argument, an &lt;tt&gt;int&lt;/tt&gt;, which will be referred to in the function as x. This is the function's ''input''. 
+
+In between the braces is the actual guts of the function. It declares an integer variable called square_of_x that will be used to hold the value of the square of x. Note that the variable square_of_x can '''only''' be used within this function, and not outside. We'll learn more about this sort of thing later, and we will see that this property is very useful. 
+
+We then assign x multiplied by x, or x squared, to the variable square_of_x, which is what this function is all about.  Following this is a &lt;tt&gt;return&lt;/tt&gt; statement. We want to return the value of the square of x, so we must say that this function returns the contents of the variable square_of_x.
+
+Our brace to close, and we have finished the declaration.
+
+Written in a more concise manner, this code performs exactly the same function as the above:
+
+&lt;source lang=c&gt;
+int square(int x)
+{
+   return x * x;
+}
+&lt;/source&gt;
+
+Note this should look familiar - you have been writing functions already, in fact - main is a function that is always written.
+
+=== In general ===
+In general, if we want to declare a function, we write
+  ''type'' ''name''(''type1'' ''arg1'', ''type2'' ''arg2'', ...)
+  {
+    /* ''code'' */
+  } 
+
+We've previously said that a function can take no arguments, or can return nothing, or both. What do we write if we want the function to return nothing? We use C's &lt;tt&gt;void&lt;/tt&gt; keyword. &lt;tt&gt;void&lt;/tt&gt; basically means &quot;nothing&quot; - so if we want to write a function that returns nothing, for example, we write
+
+&lt;source lang=c&gt;
+void sayhello(int number_of_times)
+{
+  int i;
+  for(i=1; i &lt;= number_of_times; i++) {
+     printf(&quot;Hello!\n&quot;);
+  }
+}
+&lt;/source&gt;
+
+Notice that there is no &lt;tt&gt;return&lt;/tt&gt; statement in the function above. Since there's none, we write &lt;tt&gt;void&lt;/tt&gt; as the return type. (Actually, one can use the &lt;tt&gt;return&lt;/tt&gt; keyword in a procedure to return to the caller before the end of the procedure, but one cannot return a value as if it were a function.)
+
+What about a function that takes no arguments? If we want to do this, we can write for example
+
+&lt;source lang=c&gt;
+float calculate_number(void)
+{
+  float to_return=1;
+  int i;
+  for(i=0; i &lt; 100; i++) {
+     to_return += 1;
+     to_return = 1/to_return;
+  }
+  return to_return;
+}
+&lt;/source&gt;
+
+Notice this function doesn't take any inputs, but merely returns a number calculated by this function.
+
+Naturally, you can combine both void return and void in arguments together to get a valid function, also.
+
+=== Recursion ===
+
+Here's a simple function that does an infinite loop. It prints a line and calls itself, which again prints a line and calls itself again, and this continues until the stack overflows and the program crashes. A function calling itself is called recursion, and normally you will have a conditional that would stop the recursion after a small, finite number of steps.
+
+&lt;source lang=c&gt;
+      // don't run this!
+void infinite_recursion()
+{
+    printf(&quot;Infinite loop!\n&quot;);
+    infinite_recursion();
+}
+&lt;/source&gt;
+
+A simple check can be done like this. Note that ++depth is used so the increment will take place before the value is passed into the function. Alternatively you can increment on a separate line before the recursion call. If you say print_me(3,0); the function will print the line Recursion 3 times.
+
+&lt;source lang=c&gt;
+void print_me(int j, int depth)
+{
+   if(depth &lt; j) {
+       printf(&quot;Recursion! depth = %d j = %d\n&quot;,depth,j); //j keeps its value
+       print_me(j, ++depth);
+   }
+}
+&lt;/source&gt;
+
+Recursion is most often used for jobs such as directory tree scans, seeking for the end of a linked list, parsing a tree structure in a database and factorising numbers (and finding primes) among other things.
+
+=== Static functions ===
+
+If a function is to be called only from within the file in which it is declared, it 
+is appropriate to declare it as a static function.  When a function is declared static, the compiler will now compile to an object file in a way that prevents the function from being called from code in other files.   Example:
+
+&lt;source lang=c&gt;
+static int compare( int a, int b )
+{
+    return (a+4 &lt; b)? a : b;
+}
+&lt;/source&gt;
+
+== Using C functions==
+We can now ''write'' functions, but how do we use them? When we write main, we place the function outside the braces that encompass main.
+
+When we want to use that function, say, using our &lt;tt&gt;calculate_number&lt;/tt&gt; function above, we can write something like
+
+&lt;source lang=c&gt;
+ float f;
+ f = calculate_number();
+&lt;/source&gt;
+
+If a function takes in arguments, we can write something like
+
+&lt;source lang=c&gt;
+ int square_of_10;
+ square_of_10 = square(10);
+&lt;/source&gt;
+
+If a function doesn't return anything, we can just say
+
+&lt;source lang=c&gt;
+ say_hello();
+&lt;/source&gt;
+since we don't need a variable to catch its return value.
+
+== Functions from the C Standard Library == 
+While the C language doesn't itself contain functions, it is usually linked with the C Standard Library.  To use this library, you need to add an #include directive at the top of the C file, which may be one of the following:
+
+{|
+|
+* &lt;tt&gt;[[w:Assert.h|&lt;assert.h&gt;]]&lt;/tt&gt;
+* &lt;tt&gt;[[w:Ctype.h|&lt;ctype.h&gt;]]&lt;/tt&gt;
+* &lt;tt&gt;[[w:Errno.h|&lt;errno.h&gt;]]&lt;/tt&gt;
+* &lt;tt&gt;[[w:Float.h|&lt;float.h&gt;]]&lt;/tt&gt;
+|
+* &lt;tt&gt;[[w:Limits.h|&lt;limits.h&gt;]]&lt;/tt&gt;
+* &lt;tt&gt;[[w:Locale.h|&lt;locale.h&gt;]]&lt;/tt&gt;
+* &lt;tt&gt;[[w:Math.h|&lt;math.h&gt;]]&lt;/tt&gt;
+* &lt;tt&gt;[[w:Setjmp.h|&lt;setjmp.h&gt;]]&lt;/tt&gt;
+|
+* &lt;tt&gt;[[w:Signal.h|&lt;signal.h&gt;]]&lt;/tt&gt;
+* &lt;tt&gt;[[w:Stdarg.h|&lt;stdarg.h&gt;]]&lt;/tt&gt;
+* &lt;tt&gt;[[w:Stddef.h|&lt;stddef.h&gt;]]&lt;/tt&gt;
+* &lt;tt&gt;[[w:Stdio.h|&lt;stdio.h&gt;]]&lt;/tt&gt;
+| valign=&quot;top&quot; |
+* &lt;tt&gt;[[w:Stdlib.h|&lt;stdlib.h&gt;]]&lt;/tt&gt;
+* &lt;tt&gt;[[w:String.h|&lt;string.h&gt;]]&lt;/tt&gt;
+* &lt;tt&gt;[[w:Time.h|&lt;time.h&gt;]]&lt;/tt&gt;
+* &lt;tt&gt;[[w:Complex.h|&lt;complex.h&gt;]]&lt;/tt&gt;
+|
+|}
+
+The functions available are:
+{| class=&quot;wikitable&quot;
+! &lt;tt&gt;&lt;assert.h&gt;&lt;/tt&gt;
+! &lt;tt&gt;&lt;limits.h&gt;&lt;/tt&gt;
+! &lt;tt&gt;&lt;signal.h&gt;&lt;/tt&gt;
+! &lt;tt&gt;&lt;stdlib.h&gt;&lt;/tt&gt;
+|-
+|
+* assert(int)
+|
+* (constants only)
+|
+* int raise(int sig). This 
+* void* signal(int sig, void (*func)(int))
+|
+* atof(char*), atoi(char*), atol(char*)
+* strtod(char * str, char ** endptr ), strtol(char *str, char **endptr), strtoul(char *str, char **endptr)
+* rand(), srand()
+* malloc(size_t), calloc (size_t elements, size_t elementSize), realloc(void*, int)
+* free (void*)
+* exit(int), abort()
+* atexit(void (*func)())
+* getenv
+* system
+*qsort(void *, size_t number, size_t size, int (*sortfunc)(void*, void*))
+* abs, labs
+* div, ldiv
+|-
+! &lt;tt&gt;&lt;ctype.h&gt;&lt;/tt&gt;
+! &lt;tt&gt;&lt;locale.h&gt;&lt;/tt&gt;
+! &lt;tt&gt;&lt;stdarg.h&gt;&lt;/tt&gt;
+! &lt;tt&gt;&lt;string.h&gt;&lt;/tt&gt;
+|-
+|
+* isalnum, isalpha, isblank
+* iscntrl, isdigit, isgraph
+* islower, isprint, ispunct
+* isspace, isupper, isxdigit
+* tolower, toupper
+|
+*struct lconv* localeconv(void);
+*char* setlocale(int, const char*);
+|
+*va_start (va_list, ap)
+*va_arg (ap, (type))
+*va_end (ap)
+*va_copy (va_list, va_list)
+|
+* memcpy, memmove
+* memchr, memcmp, memset
+* strcat, strncat, strchr, strrchr
+* strcmp, strncmp, strccoll
+* strcpy, strncpy
+* strerror
+* strlen
+* strspn, strcspn
+* strpbrk
+* strstr
+* strtok
+* strxfrm
+|-
+! errno.h
+!math.h
+! stddef.h
+!time.h
+|-
+|
+* (errno)
+|
+* sin, cos, tan
+* asin, acos, atan, atan2
+* sinh, cosh, tanh
+* ceil
+* exp
+* fabs
+* floor
+* fmod
+* frexp
+* ldexp
+* log, log10
+* modf
+* pow
+* sqrt
+|
+* offsetof macro
+|
+* asctime (struct tm* tmptr)
+* clock_t clock()
+*char* ctime(const time_t* timer)
+*double difftime(time_t timer2, time_t timer1)
+*struct tm* gmtime(const time_t* timer)
+*struct tm* gmtime_r(const time_t* timer, struct tm* result)
+*struct tm* localtime(const time_t* timer)
+*time_t mktime(struct tm* ptm)
+*time_t time(time_t* timer)
+*char * strptime(const char* buf, const char* format, struct tm* tptr)
+*time_t timegm(struct tm *brokentime)
+|-
+! float.h
+! setjmp.h
+! colspan=2 | stdio.h
+|-
+|
+* (constants)
+|
+*int setjmp(jmp_buf env) 	
+*void longjmp(jmp_buf env, int value)
+|
+*fclose
+*fopen, freopen
+*remove
+*rename
+*rewind
+*tmpfile
+*clearerr
+*feof, ferror 
+*fflush
+* fgetpos, fsetpos
+*fgetc, fputc
+*fgets, fputs
+*ftell, fseek
+|
+* fread, fwrite
+*getc, putc
+*getchar, putchar, fputchar
+*gets, puts
+*printf, vprintf
+*fprintf, vfprintf
+*sprintf, snprintf, vsprintf, vsnprintf
+*perror
+*scanf, vscanf
+*fscanf, vfscanf
+*sscanf, vsscanf
+*setbuf, setvbuf
+*tmpnam
+*ungetc
+|}
+
+* [[/printf/]]
+* [http://www.utas.edu.au/infosys/info/documentation/C/CStdLib.html#ctype.h full list]
+
+== Variable-length argument lists ==
+Functions with variable-length argument lists are functions that can take a varying number of arguments. An example in the C standard library is the &lt;tt&gt;printf&lt;/tt&gt; function, which can take any number of arguments depending on how the programmer wants to use it.
+
+C programmers rarely find the need to write new functions with variable-length arguments.
+If they want to pass a bunch of things to a function, they typically define a structure to hold all those things -- perhaps a linked list, or an array -- and call that function with the data in the arguments.
+
+However, you may occasionally find the need to write a new function that supports a variable-length argument list.
+To create a function that can accept a variable-length argument list, you must first include the standard library header &lt;tt&gt;stdarg.h&lt;/tt&gt;. Next, declare the function as you would normally. Next, add as the last argument an ellipsis (&quot;...&quot;). This indicates to the compiler that a variable list of arguments is to follow. For example, the following function declaration is for a function that returns the average of a list of numbers:
+
+&lt;source lang=c&gt;
+  float average (int n_args, ...);
+&lt;/source&gt;
+
+Note that because of the way variable-length arguments work, we must somehow, in the arguments, specify the number of elements in the variable-length part of the arguments. In the &lt;tt&gt;average&lt;/tt&gt; function here, it's done through an argument called &lt;tt&gt;n_args.&lt;/tt&gt; In the &lt;tt&gt;printf&lt;/tt&gt; function, it's done with the format codes that you specify in that first string in the arguments you provide.
+
+Now that the function has been declared as using variable-length arguments, we must next write the code that does the actual work in the function.
+To access the numbers stored in the variable-length argument list for our &lt;tt&gt;average&lt;/tt&gt; function, we must first declare a variable for the list itself:
+
+&lt;source lang=c&gt;
+  va_list myList;
+&lt;/source&gt;
+
+The &lt;tt&gt;va_list&lt;/tt&gt; type is a type declared in the &lt;tt&gt;stdarg.h&lt;/tt&gt; header that basically allows you to keep track of your list. To start actually using &lt;tt&gt;myList&lt;/tt&gt;, however, we must first assign it a value. After all, simply declaring it by itself wouldn't do anything. To do this, we must call &lt;tt&gt;va_start&lt;/tt&gt;, which is actually a macro defined in &lt;tt&gt;stdarg.h.&lt;/tt&gt; In the arguments to &lt;tt&gt;va_start&lt;/tt&gt;, you must provide the &lt;tt&gt;va_list&lt;/tt&gt; variable you plan on using, as well as the name of the last variable appearing before the ellipsis in your function declaration:
+
+&lt;source lang=c&gt;
+#include &lt;stdarg.h&gt;
+float average (int n_args, ...)
+{
+    va_list myList;
+    va_start (myList, n_args);
+    va_end (myList);
+}
+&lt;/source&gt;
+
+Now that &lt;tt&gt;myList&lt;/tt&gt; has been prepped for usage, we can finally start accessing the variables stored in it. To do so, use the &lt;tt&gt;va_arg&lt;/tt&gt; macro, which pops off the next argument on the list. In the arguments to &lt;tt&gt;va_arg&lt;/tt&gt;, provide the &lt;tt&gt;va_list&lt;/tt&gt; variable you're using, as well as the primitive data type (e.g. &lt;tt&gt;int&lt;/tt&gt;, &lt;tt&gt;char&lt;/tt&gt;) that the variable you're accessing should be:
+
+&lt;source lang=c&gt;
+#include &lt;stdarg.h&gt;
+float average (int n_args, ...)
+{
+    va_list myList;
+    va_start (myList, n_args);
+    
+    int myNumber = va_arg (myList, int);
+    va_end (myList);
+}
+&lt;/source&gt;
+
+By popping &lt;tt&gt;n_args&lt;/tt&gt; integers off of the variable-length argument list, we can manage to find the average of the numbers:
+
+&lt;source lang=c&gt;
+#include &lt;stdarg.h&gt;
+float average (int n_args, ...)
+{
+    va_list myList;
+    va_start (myList, n_args);
+    
+    int numbersAdded = 0;
+    int sum = 0;
+     
+    while (numbersAdded &lt; n_args) {
+        int number = va_arg (myList, int); // Get next number from list
+        sum += number;
+        numbersAdded += 1;
+    }
+    va_end (myList);
+     
+    float avg = (float)(sum) / (float)(numbersAdded); // Find the average
+    return avg;
+}
+&lt;/source&gt;
+
+By calling &lt;tt&gt;average (2, 10, 20)&lt;/tt&gt;, we get the average of &lt;tt&gt;10&lt;/tt&gt; and &lt;tt&gt;20&lt;/tt&gt;, which is &lt;tt&gt;15.&lt;/tt&gt;
+
+{{C Programming/Navigation|Control|Error handling}}
+
+[[fr:Programmation C/Fonctions et procédures]]
+[[it:C/Blocchi e funzioni/Funzioni]]
+[[pl:C/Funkcje]]</text>
+      <sha1>n81pyicf15bc06st9zv89kznzp0cvg4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>C Programming/Compiling</title>
+    <ns>0</ns>
+    <id>2133</id>
+    <revision>
+      <id>2464493</id>
+      <parentid>2354049</parentid>
+      <timestamp>2012-12-17T11:15:08Z</timestamp>
+      <contributor>
+        <ip>213.21.168.2</ip>
+      </contributor>
+      <text xml:space="preserve">{{C Programming/Navigation|Preliminaries|Structure and style}}
+
+Having covered the basic concepts of C programming, we can now briefly discuss the process of ''compilation''.
+
+Like any programming language, C by itself is completely incomprehensible to a [[w:microprocessor|microprocessor]]. Its purpose is to provide an intuitive way for humans to provide instructions that can be easily converted into machine code that ''is'' comprehensible to a microprocessor. The '''''compiler''''' is what takes this code, and translates it into the machine code. 
+
+To those new to programming, this seems fairly simple. A naive compiler might read in every source file, translate everything into machine code, and write out an executable. This could work, but has two serious problems. First, for a large project, the computer may not have enough memory to read all of the source code at once. Second, if you make a change to a single source file, you would rather not have to recompile the ''entire'' application. 
+
+To deal with these problems, compilers break their job down into steps; for each source file (each &lt;code&gt;.c&lt;/code&gt; file), the compiler reads the file, reads the files it references with &lt;code&gt;#include&lt;/code&gt;, and translates it to machine code. The result of this is an &quot;object file&quot; (&lt;code&gt;.o&lt;/code&gt;). Once every object file is made, a &quot;linker&quot; collects all of the object files and writes the actual program. This way, if you change one source file, only that file needs to be recompiled and then the application needs to be re-linked. 
+
+Without going into the painful details, it can be beneficial to have a superficial understanding of the compilation process. 
+
+== Preprocessor ==
+The preprocessor provides the ability for the inclusion of header files, macro expansions, conditional compilation, and line control.
+Many times you will need to give special instructions to your compiler. This is done by inserting preprocessor [[w:Preprocessor directives|directives]] into your code. When you begin compiling your code, a special program called the preprocessor scans the source code and performs simple substitution of tokenized strings for others according to predefined rules. The preprocessor is not a part of the C language.
+
+In C language, all preprocessor directives begin with the pound character (#). You can see one preprocessor directive in the [[Hello world program]] introduced in [[C Programming/A taste of C|A taste of C]]:
+
+Example: 
+
+&lt;source lang=&quot;c&quot;&gt;
+ #include &lt;stdio.h&gt; 
+&lt;/source&gt;
+
+This directive causes the header to be included into your program. Other directives such as &lt;code&gt;#pragma&lt;/code&gt; control compiler settings and macros. The result of the preprocessing stage is a text string. You can think of the preprocessor as a non-interactive text editor that prepares your code for the compilation step.
+The language of preprocessor directives is agnostic to the grammar of C, so the C preprocessor can also be used independently to process other kinds of text files.
+
+== Syntax Checking ==
+This step ensures that the code is valid and will sequence into an executable program. Under most compilers, you may get messages or warnings indicating potential issues with your program (such as a statement always being true or false, etc.) 
+
+When an error is detected in the program, the compiler will normally report the file name and line that is preventing compilation.
+
+== Object Code ==
+The compiler produces a machine code equivalent of the source code that can then be linked into the final program. The code itself can't be executed yet, as it has to complete the linking stage. 
+
+It's important to note after discussing the basics that compilation is a &quot;one way street&quot;. That is, compiling a C source file into machine code is easy, but &quot;decompiling&quot; (turning machine code into the C source that creates it) is not. Decompilers for C do exist, but they rarely create useful code.
+
+== Linking ==
+Linking combines the separate object codes into one complete program by integrating libraries and the code and producing either an [[W:Executable|executable program]] or a [[W:Library (computing)|library]]. Linking is performed by a linker, which is often part of a compiler.
+
+Common errors during this stage are either missing functions, or duplicate functions.
+
+== Automation ==
+For large C projects, many programmers choose to automate compilation, both in order to reduce user interaction requirements and to speed up the process by only recompiling modified files.
+
+Most integrated development environments have some kind of project management, which makes such automation very easy. On UNIX-like systems, [[make]] and Makefiles are often used to accomplish the same.
+
+[[de:C-Programmierung: Kompilierung]]
+[[es:Programación_en_C/Compilar_un_programa]]
+[[et:Programmeerimiskeel C/Kompileerimine]]
+[[fr:Programmation C-C%2B%2B/Modularité et compilation]]
+[[it:C/Compilatore e precompilatore/Compilatore]]
+[[pt:Programar em C/Utilizando um compilador]]
+
+{{C Programming/Navigation|Preliminaries|Structure and style}}</text>
+      <sha1>fj4lph6irncsks26fdjhsqspmi1lmtr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Hephaestos</title>
+    <ns>3</ns>
+    <id>2134</id>
+    <revision>
+      <id>154177</id>
+      <parentid>7595</parentid>
+      <timestamp>2003-11-20T11:40:15Z</timestamp>
+      <contributor>
+        <username>Karl Wick</username>
+        <id>6</id>
+      </contributor>
+      <comment>hail hephaestos !</comment>
+      <text xml:space="preserve">Hi Hephaestos :) Nice to see Wikibooks has dragged ''yet another'' soul from Wikipedia! I'm sure your user page will be as popular here as it is there ;) Have fun! [[User:Dysprosia|Dysprosia]] 01:25, 20 Nov 2003 (UTC)
+
+Hephaestos ! Well, this makes for a sunny morning. Welcome ! --[[User:Karl Wick|Karl Wick]]</text>
+      <sha1>gl6cy8q2k5hh9nxiwc99w6ocdbx9jar</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Hephaestos</title>
+    <ns>2</ns>
+    <id>2135</id>
+    <revision>
+      <id>154178</id>
+      <timestamp>2003-11-20T01:29:05Z</timestamp>
+      <contributor>
+        <username>Hephaestos</username>
+        <id>186</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">Hi all, yes same one. :)</text>
+      <sha1>047wljc0mhvg1aornbj3ffg1ek6pit7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Discrete Mathematics/Finite fields</title>
+    <ns>0</ns>
+    <id>2138</id>
+    <revision>
+      <id>2545136</id>
+      <parentid>2545135</parentid>
+      <timestamp>2013-07-24T13:12:34Z</timestamp>
+      <contributor>
+        <ip>162.138.200.3</ip>
+      </contributor>
+      <comment>/* The Zp case */</comment>
+      <text xml:space="preserve">Recall from the previous section that we considered the case where '''F'''[''x'']/&lt;m(''x'')&gt; analogous to modular arithmetic but with polynomials, and that when we are looking at numbers modulo ''n'', we have a field iff '''Z'''&lt;sub&gt;n&lt;/sub&gt; is a field if ''n'' is prime.
+
+Can we say something similar about '''F'''[''x'']/&lt;m(''x'')&gt;? Indeed, if m(''x'') is irreducible then '''F'''[''x'']/&lt;m(''x'')&gt; is a field.
+
+This section deals with these kinds of fields, known as a '''finite field'''.
+
+== Definitions==
+We have the object '''F'''[''x'']/&lt;m(''x'')&gt; where this is the set of polynomials in '''F'''[''x''] are divided by the polynomial m(''x'').
+
+Of the elements in '''F'''[''x'']/&lt;m(''x'')&gt; we can easily define addition, subtraction, multiplication, division and so on normally but with a reduction modulo m(''x'') to get the desired remainder.
+
+We have that '''F'''[''x'']/&lt;m(''x'')&gt; is a commutative ring with identity, and if m(''x'') is irreducible then '''F'''[''x'']/&lt;m(''x'')&gt; is a field. 
+
+If m(''x'') has degree ''n'', then 
+:'''F'''[''x'']/&lt;m(''x'')&gt;={''a''&lt;sub&gt;n-1&lt;/sub&gt;''x''&lt;sup&gt;n-1&lt;/sup&gt;+''a''&lt;sub&gt;n-2&lt;/sub&gt;''x''&lt;sup&gt;n-2&lt;/sup&gt;+...+''a''&lt;sub&gt;0&lt;/sub&gt;x&lt;sup&gt;0&lt;/sup&gt;|''a''&lt;sub&gt;i&lt;/sub&gt;&amp;isin;'''F'''}
+If '''F''' is '''Z'''&lt;sub&gt;p&lt;/sub&gt; (so ''p'' is prime) then |'''F'''[''x'']/&lt;m(''x'')&gt;|=''p''&lt;sup&gt;n&lt;/sup&gt;
+
+== Properties==
+Now remember with complex numbers '''C''', we have &quot;invented&quot; the symbol i to stand for the root of the solution ''x''&lt;sup&gt;2&lt;/sup&gt;+1=0. In fact, we have '''C'''='''R'''[''x'']/&lt;''x''&lt;sup&gt;2&lt;/sup&gt;+1&gt;. 
+
+When we have a ''general'' finite field, we can do this also. We write this often as '''F'''[''x'']/&lt;m(''x'')&gt;='''F'''(&amp;alpha;) where &amp;alpha; is &quot;the root of&quot; m(''x'') - we ''define'' &amp;alpha; to be the root of m(''x'').
+
+'''F'''(&amp;alpha;) in fact is the smallest field which contains '''F''' and &amp;alpha;.
+
+== Finite field theorems ==
+We have a number of theorems associated with finite fields. 
+
+# If '''F''' is a finite field, |'''F'''|=''q'', then ''q''=''p''&lt;sup&gt;k&lt;/sup&gt; for some ''k'' &lt;math&gt;\ge&lt;/math&gt; 1 and ''p'' prime. 
+# There then is a monic irreducible polynomial m(''x'') with degree ''k'' such that '''F'''='''Z'''&lt;sub&gt;p&lt;/sub&gt;[''x'']/&lt;m(''x'')&gt;='''Z'''&lt;sub&gt;p&lt;/sub&gt;(&amp;alpha;) with &amp;alpha; a root of m(''x'') over '''Z'''&lt;sub&gt;p&lt;/sub&gt;
+# There is an element &amp;gamma;&amp;isin;'''F''' such that the order (the least element ''n'' such that &amp;gamma;&lt;sup&gt;n&lt;/sup&gt;=1) of &amp;gamma; is ''q''-1, so &amp;gamma; is primitive in '''F''', and we can generate elements of '''F''' (not zero) from powers of &amp;gamma;, i.e. '''F'''={0, &amp;gamma;&lt;sup&gt;0&lt;/sup&gt;=1, &amp;gamma;&lt;sup&gt;1&lt;/sup&gt;, ..., &amp;gamma;&lt;sup&gt;q-2&lt;/sup&gt;, &amp;gamma;&lt;sup&gt;q-1&lt;/sup&gt;=1}
+# '''F''' is a [[Algebra/Vector space|vector space]] with dimension ''k'' over '''Z'''&lt;sub&gt;p&lt;/sub&gt;. It has basis {1, &amp;alpha;, &amp;alpha;&lt;sup&gt;2&lt;/sup&gt;,...,&amp;alpha;&lt;sup&gt;n-1&lt;/sup&gt;} where ''n'' is the degree of m(''x''), so we have '''F'''={''a''&lt;sub&gt;n-1&lt;/sub&gt;&amp;alpha;&lt;sup&gt;n-1&lt;/sup&gt;+...+''a''&lt;sub&gt;0&lt;/sub&gt;&amp;alpha;&lt;sup&gt;0&lt;/sup&gt;|''a''&lt;sub&gt;i&lt;/sub&gt;&amp;isin;'''F'''}
+# If ''a''&amp;isin;F, ''a''+...+''a'' ''p'' times (''pa'') is 0.
+# If m&lt;sub&gt;2&lt;/sub&gt;(''x'') is any other irreducible polynomial of degree ''k'' over '''Z'''&lt;sub&gt;p&lt;/sub&gt; then '''F''' is ''isomorphic'' (meaning basically equal to, except for a change in symbols) to '''Z'''&lt;sub&gt;p&lt;/sub&gt;/&lt;m&lt;sub&gt;2&lt;/sub&gt;(''x'')&gt; - so all ways of writing this field are basically the same. So there is essentially one field of size ''q''=''p''&lt;sup&gt;k&lt;/sup&gt; and we denote it GF(''p''&lt;sup&gt;k&lt;/sup&gt;) (GF meaning [[w:Evariste Galois|Galois]] Field).
+
+== Some examples==
+Let's look at a few examples that go through these ideas. 
+
+=== The complex numbers===
+[[Algebra/Complex Numbers|Complex numbers]], briefly, are numbers in the form
+: &lt;math&gt; a + bi&lt;/math&gt;
+where ''i'' is the solution to the equation ''x''&lt;sup&gt;2&lt;/sup&gt;+1=0
+
+These numbers in fact form a field, however it is not a finite field. 
+
+Take m(''x'')=''x''&lt;sup&gt;2&lt;/sup&gt;+1, with the field '''F''' being '''R'''. Then we can form the complex numbers as '''F'''/&lt;m(''x'')&gt;. Now '''F'''/&lt;m(''x'')&gt; = { ''a''+''bx'' | ''a'', ''b'' &amp;isin; '''R'''} because the remainders must be of degree less than m(''x'') - which is 2.
+
+So then (''a''+''bx'')(''c''+''dx'')=''ac''+''bdx''&lt;sup&gt;2&lt;/sup&gt;+(''ad''+''bc'')''x''.
+
+But remember that we are working in '''F'''/&lt;m(''x'')&gt;. So ''x''&lt;sup&gt;2&lt;/sup&gt; modulo ''x''&lt;sup&gt;2&lt;/sup&gt;+1, can be written as (''x''&lt;sup&gt;2&lt;/sup&gt;+1)-1=-1, and substituting -1 above yields a rather familiar expression.
+
+If we let the symbol ''i'' to be the &quot;root of ''x''&lt;sup&gt;2&lt;/sup&gt;+1&lt;/sup&gt;&quot;, then ''i''&lt;sup&gt;2&lt;/sup&gt;+1=0 and ''i''&lt;sup&gt;2&lt;/sup&gt;=-1. The rest of the field axioms follow from here. We can then say the complex numbers '''C'''='''R'''/&lt;''x''&lt;sup&gt;2&lt;/sup&gt;+1&gt;='''R'''(''i'').
+
+=== The '''Z'''&lt;sub&gt;p&lt;/sub&gt; case ===
+We can still do this for some field in general. Let's take '''Z'''&lt;sub&gt;3&lt;/sub&gt; for example, and pick m(''x'')=''x''&lt;sup&gt;2&lt;/sup&gt;+''x''+2. m(''x'') is irreducible - m(0)=2, m(1)=4=1, m(2)=4+2+2=8=2.
+
+So '''Z'''&lt;sub&gt;3&lt;/sub&gt;/&lt;''x''&lt;sup&gt;2&lt;/sup&gt;+''x''+2&gt; is a finite field. Assume &amp;alpha; is a root of m(''x''). Then '''Z'''&lt;sub&gt;3&lt;/sub&gt;(&amp;alpha;) = { ''a''+''b''&amp;alpha;|''a'', ''b'' &amp;isin; '''Z'''&lt;sub&gt;3&lt;/sub&gt;}. Since '''Z'''&lt;sub&gt;3&lt;/sub&gt;/&lt;''x''&lt;sup&gt;2&lt;/sup&gt;+''x''+2&gt; is finite, we can list out all its elements. We have the constant terms, then the &amp;alpha; terms, then the &amp;alpha;+constant terms, and so on. We have {0, 1, 2, &amp;alpha;, &amp;alpha;+1, &amp;alpha;+2, 2&amp;alpha;, 2&amp;alpha;+1, 2&amp;alpha;+2}.
+
+Now we have &amp;alpha;&lt;sup&gt;2&lt;/sup&gt;+&amp;alpha;+2=0, then
+: &amp;alpha;&lt;sup&gt;2&lt;/sup&gt;=-&amp;alpha;-2
+: &amp;alpha;&lt;sup&gt;2&lt;/sup&gt;=2&amp;alpha;-2=2&amp;alpha;+1
+(Recall the coefficients are in '''Z'''&lt;sub&gt;3&lt;/sub&gt;! We are working in '''Z'''&lt;sub&gt;3&lt;/sub&gt;/&lt;m(''x'')&gt;)
+
+We can verify multiplication works mod m(''x'') - for example
+: (1+2&amp;alpha;)(2+&amp;alpha;) = 2 + &amp;alpha;+4&amp;alpha;+2&amp;alpha;&lt;sup&gt;2&lt;/sup&gt;
+Reducing coefficients normally mod 3 we get
+: (1+2&amp;alpha;)(2+&amp;alpha;) = 2 + 2&amp;alpha; + 2&amp;alpha;&lt;sup&gt;2&lt;/sup&gt;
+Now using the formula above for &amp;alpha;&lt;sup&gt;2&lt;/sup&gt;
+: (1+2&amp;alpha;)(2+&amp;alpha;) 
+:: = 2 + 2&amp;alpha; + 2(2&amp;alpha;+1) 
+:: = 2 + 2&amp;alpha;+4&amp;alpha;+2
+:: = 2 + 6&amp;alpha;+2
+:: = 2 + 2 = 4 = 1
+
+Verify for yourself that multiplication and other operations work too.
+
+== Primitive elements==
+Recall from [[../Modular arithmetic/]] that the order of a number ''a'' modulo ''n'', in a field, is the least power such that ''a''&lt;sup&gt;''k''-1&lt;/sup&gt;=1 in '''Z'''&lt;sub&gt;n&lt;/sub&gt;, with ''k'' the size of this field. Since the order is defined over a field, this leads us to consider whether we have primitive elements in '''F'''[''x'']/&lt;m(''x'')&gt; - which we do. If we have '''F'''(&amp;alpha;), just like in '''Z'''&lt;sub&gt;n&lt;/sub&gt;, &amp;alpha; is primitive iff the order of &amp;alpha; is ''q''-1 where ''q'' is the number of elements in '''F'''[''x'']/&lt;m(''x'')&gt;.
+
+Let's take '''Z'''&lt;sub&gt;2&lt;/sub&gt;/&lt;''x''&lt;sup&gt;2&lt;/sup&gt;+''x''+1&gt;. Is &amp;alpha; (root of ''x''&lt;sup&gt;2&lt;/sup&gt;+''x''+1) primitive?
+
+First, if &amp;alpha; is a root of ''x''&lt;sup&gt;2&lt;/sup&gt;+''x''+1, 
+:&amp;alpha;&lt;sup&gt;2&lt;/sup&gt;+&amp;alpha;+1=0
+:&amp;alpha;&lt;sup&gt;2&lt;/sup&gt;=-&amp;alpha;-1=&amp;alpha;+1
+
+Now, let us calculate powers of &amp;alpha;
+: 1, &amp;alpha;
+: &amp;alpha;&lt;sup&gt;2&lt;/sup&gt;=&amp;alpha;+1
+: &amp;alpha;&lt;sup&gt;3&lt;/sup&gt;=&amp;alpha;(&amp;alpha;&lt;sup&gt;2&lt;/sup&gt;)=&amp;alpha;(&amp;alpha;+1)=&amp;alpha;&lt;sup&gt;2&lt;/sup&gt;+&amp;alpha;=(&amp;alpha;+1)+&amp;alpha;=1
+
+Recall that the size of this field is 4 (the ''n'' in '''Z'''&lt;sub&gt;n&lt;/sub&gt;, in this case, 2, raised to the power of the degree of the polynomial, in this case 2). Now we have &amp;alpha;&lt;sup&gt;3&lt;/sup&gt;=&amp;alpha;&lt;sup&gt;4-1&lt;/sup&gt;=1, and &amp;alpha; is primitive.
+
+We generally want to look at powers of &amp;alpha; in '''F'''(&amp;alpha;), to see whether they are primitive, since we already know about the orders of the constants in '''F'''(&amp;alpha;) - which we've looked at in [[../Modular arithmetic/]].
+
+{{BookCat}}</text>
+      <sha1>mvtbkxy1jkd2m5z204vmvypwwphadq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Zabek</title>
+    <ns>2</ns>
+    <id>2140</id>
+    <revision>
+      <id>154183</id>
+      <parentid>7592</parentid>
+      <timestamp>2003-11-20T11:13:32Z</timestamp>
+      <contributor>
+        <username>Zabek</username>
+        <id>282</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">Hi.
+
+Brief personal introduction: I am involved in academia, education, and community work.
+
+What brings me here?
+
+I am am extremely interested in the idea of creating a virtual home for open-source annotated texts, a home where readers could create their own commentaries, introductions, critical apparatus, or any other aids for reading and study that might be interesting and helpful.
+
+I strongly feel that such a project should be a separate project from Wikibooks.  There is a fundamental difference between creating a school textbook, where the text is primarily a means for presenting the ''topic'', versus a primary text where the ''text'' itself is at the center of attention.
+
+But meanwhile the annotated texts are here, and I'd be happy to help contribute what I can to them.
+
+(By the way, yes, I have read the discussion about &quot;Project Sourceberg.&quot;)</text>
+      <sha1>hc55vdn7syn78t8nqligbzvqeyvgisw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Noldoaran</title>
+    <ns>3</ns>
+    <id>2142</id>
+    <revision>
+      <id>412299</id>
+      <parentid>412287</parentid>
+      <timestamp>2006-03-28T20:59:46Z</timestamp>
+      <contributor>
+        <username>Zephram Stark</username>
+        <id>13489</id>
+      </contributor>
+      <minor />
+      <comment>simplified</comment>
+      <text xml:space="preserve">Welcome Noldoaran, I hope you enjoy yourself here. Thanks in advance for any contributions. Maybe you will have a bit of extra time what with the strike and all ;-) --[[User:Karl Wick|Karl Wick]]
+[[Image:Wikiversity-logo-zs.png|frame|WV logo proposal—globe by Noldoaran]]
+
+==[[:Image:Globe.png]]==
+I love the picture you created. May I use it as part of a logo for Wikiversity? I consider your rendering to be the best choice, but if you don't feel comfortable having it used in a Wikimedia copyrighted logo, I will trade it for a different globe. If you are willing to give this work to Wikimedia, do you have a bigger bitmap or a vector version? --[[User:Zephram Stark|Zephram Stark]] 17:40, 26 March 2006 (UTC)</text>
+      <sha1>pzehln81cimq20o0v9lii4fmk65r5lz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Getting Started/Introduction</title>
+    <ns>0</ns>
+    <id>2143</id>
+    <revision>
+      <id>2694563</id>
+      <parentid>2694562</parentid>
+      <timestamp>2014-08-25T11:04:48Z</timestamp>
+      <contributor>
+        <ip>116.123.220.179</ip>
+      </contributor>
+      <comment>/* Characteristics of life */</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+= Biology - The Life Science =
+
+The word '''''biology''''' means, &quot;the science of life&quot;, from the Greek ''' bios,'''  ''life'', and ''' logos,''' ''word'' or ''knowledge.'' Therefore, Biology is the science of Living Things. That is why Biology is sometimes known as Life Science.
+
+The science has been divided into many subdisciplines, such as [[botany]], bacteriology, [[anatomy]], zoology, histology, mycology, embryology, parasitology, [[genetics]], [[Molecular Biology|molecular biology]], systematics, immunology, [[microbiology]], physiology, [[Cell Biology|cell biology]], cytology, [[ecology]], and virology. Other branches of science include or are comprised in part of biology studies, including [[paleontology]], taxonomy, evolution, phycology, helimentology, protozoology, entomology,  biochemistry, biophysics, biomathematics, bio engineering, bio climatology and anthropology. 
+
+
+== Characteristics of life ==
+
+Not all scientists agree on the definition of just what makes up life. Various characteristics describe most living things. However, with most of the characteristics listed below we can think of one or more examples that would seem to break the rule, with something nonliving being classified as living or something living classified as nonliving. Therefore we are careful not to be too dogmatic in our attempt to explain which things are living or nonliving.
+
+*Living things are composed of '''matter structured in an orderly way''' where simple molecules are ordered together into much larger macromolecules.
+
+An easy way to remember this is GRIMNERD C
+All organisms;
+- '''G'''row, '''R'''espire, '''I'''nteract, '''M'''ove, Need '''N'''utrients, '''E'''xcrete (Waste), '''R'''eproduce,'''D'''eath, '''C'''ells (Made of)
+
+*Living things are '''sensitive,''' meaning they are able to ''' respond to stimuli. '''
+
+*Living things are able to '''grow''', '''develop''', and '''reproduce'''. 
+
+*Living things are able to '''adapt''' over time by the process of '''natural selection'''.
+
+*All known living things use the '''hereditary molecule, [[w:DNA|DNA]]'''.
+
+*Internal functions are coordinated and '''regulated''' so that the internal environment of a living thing is relatively constant, referred to as '''[[w:homeostasis|homeostasis]].'''
+
+Living things are organized in the microscopic level from atoms up to [[w:cell|cells]]. Atoms are arranged into molecules, then into [[w:macromolecule|macromolecules]], which make up [[w:organelle|organelles]], which work together to form cells. Beyond this, cells are organized in higher levels to form entire multicellular organisms. Cells together form [[General Biology/Tissues|tissues]], which make up organs, which are part of organ systems, which work together to form an entire organism. Of course, beyond this, organisms form populations which make up parts of an ecosystem. All of the Earth's ecosystems together form the diverse environment that is the earth.
+
+Example:-
+
+sub atoms, atoms, molecules, cells, tissues, organs, organ systems, organisms, population, community, eco systems
+
+'''Emergent property''' is viewed in the biological organization of life, ranging from the subatomic level to the entire biosphere. Emergent properties are not unique to life, but biological systems are far more complex, making the emergent properties of life difficult to study.
+
+'''Systems biology''' is a biology-based inter-disciplinary field of study that focuses on complex interactions within biological systems, using a holistic approach.
+
+Biologists study properties of life, with reductionist approach and holistic approach.
+
+== Nature of science ==
+
+Science is a '''methodology''' for '''learning about the world'''. It involves the '''application of knowledge'''.
+
+The scientific method deals with '''systematic investigation''', '''reproducible results''', the formation and testing of '''hypotheses''', and '''reasoning.''' 
+
+Reasoning can be broken down into two categories, '''induction''' (specific data is used to develop a generalized observation or conclusion) and '''deduction''' (general information leads to specific conclusion). Most reasoning in science is done through induction.
+
+Science as we now know it arose as a discipline in the 17th century.
+
+== Scientific method ==
+
+
+The scientific method is not a step by step, linear process.  It is an intuitive process, a methodology for learning about the world through the application of knowledge.  Scientists must be able to have an &quot;imaginative preconception&quot; of what the truth is.  Scientists will often observe and then hypothesize the reason why a phenomenon occurred.  They use all of their knowledge and a bit of imagination, all in an attempt to uncover something that might be true.    A typical scientific investigation might go like so:
+
+:You ''observe'' that a room appears dark, and you ponder ''why'' the room is dark.  In an attempt to find explanations to this curiosity, your mind unravels several different ''hypotheses''.  One hypothesis might state that the lights are turned off.  Another hunch might be that the room's lightbulb has burnt out.  Worst yet, you could be going blind.  To discover the truth, you ''experiment''.  You feel your way around the room and find a light switch and turn it on.  No light.  You ''repeat'' the experiment, flicking the switch back and forth.  Still nothing.  That means your initial hypothesis, the room is dark because the lights are off, has been ''rejected''.  You devise more experiments to test your hypotheses, utilizing a flashlight to prove that you are indeed not blind.  In order to ''accept'' your last remaining hypothesis as the truth,  you could ''predict'' that changing the light bulb will fix the problem.  If all your predictions succeed, the original hypothesis is valid and is accepted.  In some cases, however, your predictions will not occur, in which you'll have to start over.  Perhaps the power is off.
+[[Image:Ap_biology_scienceofbiology01.jpg|thumbnail|right|400px|'''How Science is Done'''&lt;br&gt;&lt;small&gt;A diagram that illustrates scientific investigation&lt;/small&gt;]]
+
+
+Scientists first make observations that raise a particular question.  In order to explain the observed phenomenon, they develop a number of possible explanations, or hypotheses.  This is the inductive part of science, observing and constructing plausible arguments for why an event occurred.  Experiments are then used to eliminate one of more of the possible hypotheses until one hypothesis remains.  Using deduction, scientists use the principles of their hypothesis to make predictions, and then test to make sure that their predictions are confirmed.  After many trials (repeatability) and all predictions have been confirmed, the hypothesis then may become a theory.
+
+'''Quick Definitions'''
+
+:'''Observation''' - Quantitative and qualitative measurements of the world.
+:'''Inference''' - Deriving new knowledge based upon old knowledge.
+:'''Hypotheses''' - A suggested explanation.
+:'''Rejected Hypothesis''' - An explanation that has been ruled out through experimentation.
+:'''Accepted Hypothesis''' - An explanation that has not been ruled out through excessive experimentation and makes verifiable predictions that are true.
+:'''Experiment''' - A test that is used to rule out a hypothesis or validate something already known.
+:'''Scientific Method''' - The process of scientific investigation.
+:'''Theory''' - A widely accepted hypothesis that stands the test of time.  Often tested, and usually never rejected.
+
+The scientific method is based primarily on the testing of hypotheses by experimentation. This involves a '''control''', or subject that does not undergo the process in question. A scientist will also seek to limit variables to one or another very small number, single or minimum number of variables. The procedure is to form a hypothesis or prediction about what you believe or expect to see and then do everything you can to violate that, or falsify the hypotheses. Although this may seem unintuitive, the process serves to establish more firmly what is and what is not true. 
+
+A founding principle in science is a lack of absolute truth: the accepted explanation is the most likely and is the basis for further hypotheses as well as for falsification. All knowledge has its relative uncertainty.
+
+'''Theories''' are hypotheses which have withstood repeated attempts at falsification. Common theories include evolution by natural selection and the idea that all organisms consist of cells. The scientific community asserts that much more evidence supports these two ideas than contradicts them.
+
+== Charles Darwin ==
+
+[[Image:Hw-darwin.jpg|left|130px]]
+
+Charles Darwin is most remembered today for his contribution of the theory of '''evolution through natural selection'''. 
+
+The seeds of this theory were planted in Darwin's mind through observations made on a five-year voyage through the New World on a ship called the Beagle. There, he studied fossils and the geological record, geographic distribution of organisms, the uniqueness and relatedness of island life forms, and the affinity of island forms to mainland forms.
+
+Upon his return to England, Darwin pondered over his observations and concluded that evolution must occur through natural selection. He declined, however, to publish his work because of its controversial nature. However, when another scientist, Wallace, reached similar conclusions, Darwin was convinced to publish his observations in 1859. His hypothesis revolutionized biology and has yet to be falsified by empirical data collected by mainstream scientists.
+
+== After Darwin ==
+
+Since Darwin's day, scientists have amassed a more complete '''fossil record''', including '''microorganisms''' and '''chemical fossils'''. These fossils have supported and added subtleties to Darwin's theories. However, the age of the Earth is now held to be much older than Darwin thought. Researchers have also uncovered some of the preliminary mysteries of the mechanism of heredity as carried out through '''genetics''' and '''DNA''', areas unknown to Darwin. Another growing area is '''comparative anatomy''' including homology and analogy. 
+
+Today we can see a bit of evolutionary history in the '''development ''' of embryos, as certain (although not all) aspects of development recapitulate evolutionary history. 
+
+The [[molecular biology]] study of slowly mutating genes reveal considerable evolutionary history consistent with fossil and anatomical record.
+
+== Challenges to Darwin ==
+
+[[Image:Editorial_cartoon_depicting_Charles_Darwin_as_an_ape_(1871).jpg|right|125px]]
+
+Darwin and his theories have been challenged many times in the last 150 years. The challenges have been primarily religious based on a perceived conflict with the preconceived notion of creationism. Many of those who challenge Darwin have been adherents to the young earth hypothesis that says that the Earth is only some 6000 years old and that all species were individually created by a god. Some of the proponents of these theories have suggested that chemical and physical laws that exist today were different or nonexistent in earlier ages. However, for the most part, these theories are either not scientifically testable and fall outside the area of attention of the field of biology, or have been disproved by one or more fields of science.
+
+''This text is based on notes very generously donated by Dr. Paul Doerder, Ph.D., of Cleveland State University.''</text>
+      <sha1>hytth4oz8aj8qs24rt110ta1ck129ao</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Zhuo Jia Dai</title>
+    <ns>2</ns>
+    <id>2144</id>
+    <revision>
+      <id>2584089</id>
+      <parentid>2481263</parentid>
+      <timestamp>2013-11-23T05:08:10Z</timestamp>
+      <contributor>
+        <ip>119.56.125.102</ip>
+      </contributor>
+      <text xml:space="preserve">Hi, my name is Zhuo Jia Dai. I am a maths grad from the [[w:University of Sydney | University of Sydney]]. I like maths, although I'm not terribly good at it. My other interests include [[w:Go (board game)|Go (board game)]], films, [[w:football|football]] (soccer) and, diminishingly, video games. 
+
+I love political satire and &quot;[[w:Yes Minister|Yes Minister/Yes Prime minister]]&quot; are my favourite comedy series of all time. I also like the [[w:The Chaser|Chaser]] boys.
+
+I mainly edit [[High School Mathematics Extensions]].
+
+Below is a modified version of my honours thesis. I intend to continue to improve it and eventually turn it into a wikibook. Please contact me about any suggestions/corrections you may have.
+
+[[:File:Algebraic_Geometric_Coding_Theory.pdf|Thesis -- Algebraic Geometric Coding Theory (PDF)]]</text>
+      <sha1>25xezms2kmeg4uurhpgqtdq63zx4eav</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/How do you ... ?/Ten Apples and a Basket</title>
+    <ns>0</ns>
+    <id>2146</id>
+    <revision>
+      <id>875184</id>
+      <parentid>875183</parentid>
+      <timestamp>2007-05-24T00:23:33Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>fix link name</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/How do you ... ?|How do you... ?]] | Ten Apples and A Basket 
+----
+
+'''Ten Apples and A Basket puzzle'''
+
+You have a basket containing ten apples.  You have ten friends, who each desire an apple.  You give each of your friends one apple.
+
+After ten minutes, each of your friends has one apple each.  Yet there is an apple remaining in the basket.
+
+How is this possible?
+
+'''[[Puzzles/How do you ... ?/Ten Apples and a Basket/Solution|Solution]]'''
+
+[[Category:Puzzles]]</text>
+      <sha1>9zpob94xpb28p6dvlozap9oia6mvuwx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/How do you ... ?/Ten Apples and a Basket/Solution</title>
+    <ns>0</ns>
+    <id>2147</id>
+    <revision>
+      <id>2457670</id>
+      <parentid>2065562</parentid>
+      <timestamp>2012-12-10T03:49:37Z</timestamp>
+      <contributor>
+        <ip>201.220.215.13</ip>
+      </contributor>
+      <text xml:space="preserve">&lt; [[Puzzles/How do you ... ?/Ten Apples and a Basket|Back to Problem]]
+
+Solutions:
+
+*To your first nine friends, you give them an apple each. To your tenth friend, you hand her the basket containing the apple.  She has an apple, but she also has the basket containing the apple.
+
+* You have ten apples in a basket.  You have an eleventh apple in your hand.  You give out the one in your hand and nine of your ten from the basket, leaving one in the basket for you.
+
+//Solutions below are only humorous and not Logical //
+
+*Since it doesn't say there are '''only'''(Do in the real world we always use only? Surely we mean it without saying else every sentence of us will include &quot;only&quot;. Consider &quot;My name is only Ramjane&quot;.) ten apples in the basket, it's possible the basket could start out with eleven apples in it. Then when you give out ten apples to your ten friends, you still have one apple in the basket.
+
+*You discover a horrible secret about your friend Brian, end your friendship and put his apple back in the basket
+*Alternately, end Brian, and take the apple back.
+
+*The basket is lying under an apple tree. At the right moment you shake the tree, catching a falling apple.
+
+*Ask Brian to wait a minute for his apple. Give the first apple to the second friend, the second to the third, the third to the fourth, the fourth to the fifth, the fifth to the sixth, the sixth to the seventh, the seventh to the eighth, the eighth to the ninth and the ninth apple to Brian, the tenth man, leaving one remaining apple in the basket.
+
+*You consider yourself as one of the friends, and so you still have the basket with an apple.
+
+*You went back to the store and bought another apple.
+
+*Two of your apples got frisky in the basket and had little applets
+
+*The tenth friend was a magician so he created the eleventh apple.
+
+*You are a kid and your tenth friend is an imaginary one.
+
+[[Category:Puzzles]]</text>
+      <sha1>5mv884k1wqq8jjk6u4i6tiw0usp6c55</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Getting Started/Matter</title>
+    <ns>0</ns>
+    <id>2149</id>
+    <revision>
+      <id>1761142</id>
+      <parentid>1760991</parentid>
+      <timestamp>2010-04-19T19:34:06Z</timestamp>
+      <contributor>
+        <username>Thenub314</username>
+        <id>38087</id>
+      </contributor>
+      <comment>Undo revision 1760991 by [[Special:Contributions/131.6.84.110|131.6.84.110]] ([[User talk:131.6.84.110|talk]]) Isn't this the accepted theory on evolution?</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+=The Nature of Molecules=
+==[[w:Matter|Matter]]==
+Matter is defined as anything that has [[w:mass|mass]] (an amount of matter in an object) and occupies [[w:space#Physics|space]] (which is measured as [[w:volume|volume]]).
+* Particles, from smallest to largest
+*# Subatomic particles
+*#* [[w:Electrons|Electrons]]
+*#* [[w:Protons|Protons]]
+*#* [[w:Neutrons|Neutrons]]
+*# Atoms
+*# Molecules
+*# Macromolecules
+* Origin of matter
+*# [[w:Big Bang|Big Bang]], about 13.7 billion years ago
+*# [[w:Hydrogen|Hydrogen]], [[w:Helium|helium]]
+*# Heavier elements formed in suns, super nova
+*#* Earth's matter predates formation of sun, 4.5 billion years ago
+* All matter consists of atoms, which are composed of : electrons, protons, neutrons
+
+==[[w:Atom|The atom]]==
+* Example: Hydrogen
+** The simplest element
+** One proton (+)
+** One electron in orbit (-)
+* Built by adding one proton (and one electron) at a time
+* Number of protons determines atomic number and number of electrons
+* Neutrons
+** Neutral charge
+** Contribute mass
+** May decay
+* [[w:Oxygen|Oxygen]]
+** 8 protons (mass)
+** 8 electrons
+** 8 neutrons (mass)
+
+==Mass and isotopes==
+* Atomic mass
+** Sum of masses of protons and neutrons
+** Measured in daltons or AMU (Atomic Mass Unit)
+** An AMU is 1/12 the mass of Carbon-12
+** proton ~1 AMU or dalton
+** 6.024 x 10&lt;sup&gt;23&lt;/sup&gt; daltons/gram
+* Atoms with same atomic number belong to same element
+* Isotopes
+** Same atomic number but different atomic mass
+** Some are radioactive
+** Uses of isotopes
+*** Radioactive: 3H, 14C, 32P, 35S
+**** Tracers in biochemical reactions
+**** Detection of molecules in recombinant DNA technology (genetic engineering)
+**** Half-life: dating of rocks, fossils
+*** Non-radioactive (N, C, O)
+**** Diet of organisms (including fossils)
+**** Biochemical tracers
+
+==Electrons==
+* Negative charge
+* Held in orbit about nucleus by attraction to positively charged nucleus
+* Atom may gain or lose electron, altering charge
+** Cation: loses electron, positive charge
+*** Na&lt;sup&gt;+&lt;/sup&gt;
+** Anion: gains electron, negative charge
+*** Cl&lt;sup&gt;-&lt;/sup&gt;
+* Determine chemical properties of atoms
+** Number
+** Energy level
+
+==Chemical bonds==
+* Form molecules
+* Enzymes: make, break, rearrange chemical bonds in living systems
+* Ionic
+* Covalent
+** Sharing of one or more pairs of electrons
+*** Called single, double, or triple
+** No net charge (as in ionic bonds)
+** No free electrons
+** Give rise to discrete molecules
+** Hydrogen
+
+==Chemical reactions==
+* Formation and breaking of chemical bonds
+* Shifting arrangement of atoms
+* Reactants -&gt; products
+* Reactions are influenced by:
+** Temperature
+** Concentration of reactants, products
+** Presence of catalysts (enzymes)
+* Oxidation:reduction
+==[[w:Water|Water]]==
+* Essential for life
+* ~75% earth's surface is water
+* Life evolved in water
+* Solvent for many types of solutes
+* High specific heat
+* High polarity
+**Creates a slightly negative Oxygen and a Slightly positive hydrogen
+**allows formation of Hydrogen Bonds
+
+===Hydrogen bonding===
+* A type of polar interaction
+* Critical for:
+** Protein structure
+** Enzymatic reactions
+** Movement of water in plant stems
+* Weak and transient
+* Powerful cumulative effect
+** Solubility of many compounds
+** Cohesion (capillary action)
+** Lower density of ice
+* Formed between molecules other than water
+** Protein structure
+** [[w:DNA|DNA]], [[w:RNA|RNA]] structure
+Water organizes nonpolar molecules
+* Nonpolar molecules: no polarity (+/-) charges
+* Hydrophobic: exclude water because they don't form hydrogen bonds with it
+* Consequences:
+** Membranes
+** Protein structure
+* Hydrophilic: polar substances associate with water
+Ionization of water: H&lt;sub&gt;2&lt;/sub&gt;O -&gt; H&lt;sup&gt;+&lt;/sup&gt; + OH&lt;sup&gt;-&lt;/sup&gt; 
+* Forms a Hydrogen ion (H&lt;sup&gt;+&lt;/sup&gt;), hydroxide ion (OH&lt;sup&gt;-&lt;/sup&gt;)
+* Due to spontaneous breakage of covalent bond
+* At 25°C, 1 liter of water contains 10-7 moles of H&lt;sup&gt;+&lt;/sup&gt; ions: 10-7 moles/liter
+pH
+* A convenient way of indicating H&lt;sup&gt;+&lt;/sup&gt; concentration
+* [[w:pH|pH]] = -log[H&lt;sup&gt;+&lt;/sup&gt;]
+* For water, pH = -log[10-7] = 7
+* Since for each H&lt;sup&gt;+&lt;/sup&gt; in pure water, there is one OH&lt;sup&gt;-&lt;/sup&gt;, pH of 7 indicates neutrality
+* Logarithmic scale
+
+Buffer
+* Reservoir for H&lt;sup&gt;+&lt;/sup&gt;
+* Maintains relatively constant pH over buffering range
+
+''This text is based on notes very generously donated by Dr. Paul Doerder, Ph.D., of the Cleveland State University.''</text>
+      <sha1>lkcovwox7rktib99q4xiwhyxq550d10</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Getting Started/Chemical Building Blocks of Life</title>
+    <ns>0</ns>
+    <id>2150</id>
+    <revision>
+      <id>2525402</id>
+      <parentid>2525399</parentid>
+      <timestamp>2013-05-12T21:27:12Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/173.56.208.37|173.56.208.37]] ([[User talk:173.56.208.37|talk]]) to last version by 24.171.225.66</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+=The Chemical Building Blocks of Life=
+Building blocks of life
+* Carbon based: organic molecules
+* Carbohydrates: CHO
+* Lipids: CHO, water insoluble
+* Proteins: CHONS, structure/function in cells
+* Nucleic acids: CHONP, hereditary (genetic) information
+==[[w:Carbon|Carbon]]==
+* Can make 4 [[w:covalent bonds|covalent bonds]]
+** Chains
+*** Straight
+*** Branched
+*** Ring
+** [[w:Hydrocarbons|Hydrocarbons]] (C, H): store energy
+** Functional groups
+*** Attach to carbon
+*** Alter chemical properties
+*** Form macromolecules
+*** Sapoteton
+
+==[[w:Carbohydrates|Carbohydrates]]==
+* Principally CHO (rare N, S and P)
+** 1C:2H:1O ratio
+** Energy rich (many C-H bonds)
+* Monosaccharides (principal: [[w:glucose|glucose]])
+** Simple sugars
+** Principle formula: C&lt;sub&gt;6&lt;/sub&gt;H&lt;sub&gt;12&lt;/sub&gt;O&lt;sub&gt;6&lt;/sub&gt;
+** Form rings in water solution
+* Disaccharides (sucrose, lactose)
+* Polysaccharides (starch, glycogen, cellulose, chitin)
+
+==Stereoisomers==
+* Bond angles of carbon point to corners of a tetrahedron
+* When 4 different groups are attached to a carbon, it is asymmetric, leading to various types of isomerism
+** Stereoisomers: (D, L)
+* Same chemical properties
+* Different biological properties
+* D sugars, L amino acids
+
+==[[w:Lipids|Lipids]]==
+* C-H bonds (nonpolar) instead of C-OH bonds as in carbohydrates
+** High energy
+** Hydrophobic (insoluble in water)
+* Categories
+** Fats: glycerol and three fatty acids
+** Phospholipids: primary component of membranes
+** Prostaglandins: chemical messengers (hormones)
+** Steroids: membrane component; hormones
+** Terpenes: pigments; structure
+
+===[[w:Fatty acid|Fatty acids]]===
+* Hydrocarbon chain
+** Even number of C, 14-&gt;20
+** Terminates in carboxyl group
+
+* Saturated: contain maximum number of hydrogens (all single bonds); maximum energy
+* Unsaturated: one or more double bonds
+** Usually higher melting point
+** Many common oils are polyunsaturated
+
+==[[w:Proteins|Proteins]]==
+* Polymer of amino acids
+** 21 different amino acids found in proteins
+** Sequence of amino acids determined by gene
+* Amino acid sequence determines shape of molecule
+** Linked by peptide bond (covalent)
+* Functions
+** regulate chemical reactions and cell processes [enzymes]
+** form bone and muscle; various other tissues
+** facilitate transport across cell membrane [carrier proteins]
+** fight disease [antibodies]
+* Motifs: folding patterns of secondary structure 
+* Domains: structural, functional part of protein often independent of another part; often encoded by different exons
+* Shape determines protein's function
+
+===[[w:Amino acids|Amino acids]]===
+* 21 commonly found in proteins
+** 21st is selenocysteine, not mentioned in text
+* Common structure
+** Amino group: NH&lt;sub&gt;2&lt;/sub&gt;
+** Carboxyl group: COOH
+** R group- 4 different kinds of R groups
+*** acidic
+*** basic
+*** hydrophilic (polar)
+*** hydrophobic (nonpolar)
+* Confer individual properties on amino acids
+* [[w:Amino acid#List of amino acids|List of amino acids]]
+
+===Structure===
+* Primary structure: the amino acid sequence
+** Determines higher orders of structure
+** Critical for structure and function of protein
+* Secondary: stabilized by intramolecular hydrogen bonding
+** helix
+** sheet
+* Tertiary: folding, stabilized by ionic bonds (between R groups), hydrogen bonding, van der Waal's forces, hydrophobic interactions
+* Quaternary: _ 2 polypeptides
+
+===Function===
+* Requires proper folding, cofactors, pH, temperature, etc.
+* Proteins are often modified after synthesis
+** Chemical modification
+** Addition of heme groups (hemoglobin, cytochrome)
+* Denatured proteins can not function properly
+* Proteins are degraded by proteosome as part of constant turnover of cell components
+
+==Hereditary (Genetic) information==
+* Nucleic acids
+** DNA: deoxyribonucleic acid
+* Hereditary information of all cells
+* Hereditary information for many viruses
+** RNA: ribonucleic acid
+* Hereditary information of certain viruses ([[w:HIV|HIV]])
+* Intermediate in gene expression
+* Composed of nucleotides
+** Ribonucleotides
+** Deoxyribonucleotides
+===RNA DNA origin===
+* Which came first?
+* Paradox: DNA encodes protein necessary for its own replication
+* Discovery of catalytic RNA by Cech and Altman suggested that RNA might have been first self-replicating molecule
+* DNA evolved as more stable type of storage molecule
+
+''This text is based on notes very generously donated by Dr. Paul Doerder, Ph.D., of the Cleveland State University.''
+
+Proteins:
+Their building block is amino acids. The bond connecting 2 of the amino acids together are called peptide bonds.  One of these bonds makes a monopeptide, two a dipeptide, and any more than that makes a polypeptide.</text>
+      <sha1>em1s0yjpb8nv6w2zzw8ng1sjm04qle6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Getting Started/History and Origin of Life</title>
+    <ns>0</ns>
+    <id>2151</id>
+    <revision>
+      <id>2295267</id>
+      <parentid>2295076</parentid>
+      <timestamp>2012-04-01T19:59:46Z</timestamp>
+      <contributor>
+        <username>Recent Runes</username>
+        <id>66908</id>
+      </contributor>
+      <comment>Undid revision 2295076 by [[Special:Contributions/71.230.30.204|71.230.30.204]] ([[User talk:71.230.30.204|discuss]]) - &quot;hypotheses&quot; is the correct spelling here</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+=Life: History and Origin=
+
+==Properties of life==
+# Organization: Being structurally composed of one or more cells, which are the basic units of life. 
+#* prokaryote: no nucleus 
+#* eukaryote: membrane bound nucleus.&lt;br /&gt;
+# Sensitivity: respond to stimuli.&lt;br /&gt;
+# Energy Processing&lt;br /&gt;
+# Growth and Development&lt;br /&gt;
+# Reproduction&lt;br /&gt;
+#* hereditary mechanisms to make more of self; DNA based.
+# Regulation, including homeostasis.&lt;br /&gt;
+# Evolution.
+
+==Origin of life: 3 hypotheses ==
+ 
+* Extraterrestrial origin (panspermia): meteor, comet borne from elsewhere in universe 
+** evidence of amino acids and other organic material in space (but often both D &amp; L forms) 
+** questionable bacterial fossils in Martian rock
+-However, this would imply that some other origin of life was likely because it would have had to happen elsewhere before it could be transported here, and the only difference would be that life did not originate on Earth. 
+* Spontaneous origin on earth: primitive self-replicating macromolecules acted upon by natural selection ((macro)Evolution is one example of this)
+-This is often attacked for the seeming impossibility for life to have been produced by a chemical reaction triggered by lightning and the ability of any produced DNA to actually be in a sequence that could produce a working model of life if replicated. It is also attacked for religious reasons, as it bypasses things like the idea of a supreme being directly creating humans. It also seems unlikely to some that such huge changes are possible in evolution without evidence of an &quot;in-between stage&quot; that is credible. Many of the stages of man are disputed due to their somewhat shakey grounds. For example, bones from other animals have been taken accidentally in some cases to be part of a humanoid, and complete skeletons have been sketched out from a limited number of bones.
+* Special creation: religious explanations (Intelligent Design is one popular example of this.)  These explanations contend that life was created by God (or perhaps some other Intelligent Designer).
+** Proponents of Intelligent design suggest that the vast complexity of life could only have been intentionally designed while other creationists cite biblical support. 
+-This is often attacked for many of the same reasons that religion is attacked, and is often regarded as superstitious and/or unscientific.
+
+* It is debated as to whether schools should teach one hypothesis or the other when talking about the origin of life. However, since they are all currently known major hypotheses (and sometimes hypotheses proven wrong are shown for educational purposes), this wikibook includes what it can without discriminating unfairly against one hypothesis or the other.
+
+==The early earth==
+It is believed that the Earth was formed about 4.5 billion years ago. 
+* Heavy bombardment by rubble ceased about 3.8 billion years ago.
+* Reducing atmosphere: much free H 
+** also H&lt;sub&gt;2&lt;/sub&gt;O, NH&lt;sub&gt;3&lt;/sub&gt;, CH&lt;sub&gt;4&lt;/sub&gt; 
+** little, if any, free O&lt;sub&gt;2&lt;/sub&gt; 
+** with numerous H electrons, require little energy to form organic compounds with C 
+* Warm oceans, estimated at 49-88°C 
+* Lack of O&lt;sub&gt;2&lt;/sub&gt; and consequent ozone (O&lt;sub&gt;3&lt;/sub&gt;) meant considerable UV energy 
+
+Chemical reactions on early earth 
+* UV and other energy sources would promote chemical reactions and formation of organic molecules 
+* Testable hypothesis: Miller-Urey experiment 
+** simulated early atmospheric conditions 
+** found amino acids, sugars, etc., building blocks of life 
+** won Nobel prize for work 
+** experiment showed prebiotic synthesis of biological molecules was possible
+
+Issues
+* Miller later conceded that the conditions in his experiments were not representative of what is currently thought to be those of early earth
+* He also conceded that science has no answer for how amino acids could self-organize into replicating molecules and cells
+* In the 50 years since Miller-Urey, significant issues and problems for biogenesis have been identified.  This is a weak hypothesis at this time.
+* Conclusion: Life exists, we don't know why.
+
+==Origin of cells==
+Cells are very small and decompose quickly after death.  As such, fossils of the earliest cells do not exist. Scientists have had to form a variety of theories on how cells (and hence life) was created on Earth.
+* Bubble hypothesis 
+** A. Oparin, J.B.S. Haldane, 1930’s 
+* Primary abiogenesis: life as consequence of geochemical processes 
+* Protobionts: isolated collections of organic material enclosed in hydrophobic bubbles 
+** Numerous variants: microspheres, protocells, protobionts, micelles, liposomes, coacervates 
+* Other surfaces for evolution of life 
+** deep sea thermal vents 
+** ice crystals 
+** clay surfaces 
+** tidal pools
+
+==The RNA world?==
+* DNA &amp;rarr; RNA &amp;rarr; polypeptide (protein) 
+* Catalytic RNA: ribozyme 
+** discovered independently by Tom Cech and Sid Altman (Nobel prize) 
+** catalytic properties: hydrolysis, polymerization, peptide bond formation, etc. 
+* Self-replicating RNA molecule may have given rise to life 
+** consistent with numerous roles for RNA in cells as well as roles for ribonucleotides (ATP) 
+** relationship to bubble-like structures is uncertain 
+==The earliest cells==
+* Microfossils 
+** ~3.5 by 
+** resemble bacteria: prokaryotes 
+** biochemical residues 
+** stromatolites 
+* Archaebacteria (more properly Archaea) 
+** extremophiles: salt, acid, alkali, heat, methanogens 
+** may not represent most ancient life 
+* Eubacteria 
+** cyanobacteria: photosynthesis 
+* atmospheric O&lt;sub&gt;2&lt;/sub&gt;; limestone deposits 
+* chloroplasts of eukaryotes 
+Cyanobacteria
+
+==Major steps in evolution of life==
+* Prebiotic synthesis of macromolecules 
+* Self replication 
+** RNA? (primitive metabolism) 
+* DNA as hereditary material 
+* 1st cells 
+* Photosynthesis 
+* Aerobic respiration 
+* Multicellularity (more than once) 
+
+''This text is based on notes very generously donated by Dr. Paul Doerder, Ph.D., of the Cleveland State University.''</text>
+      <sha1>frdqn2v0zapnrs76z4yqw08dg1jnc8a</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Cells/Membranes</title>
+    <ns>0</ns>
+    <id>2153</id>
+    <revision>
+      <id>2066271</id>
+      <parentid>534179</parentid>
+      <timestamp>2011-03-06T04:52:28Z</timestamp>
+      <contributor>
+        <username>Avicennasis</username>
+        <id>314063</id>
+      </contributor>
+      <minor />
+      <comment>[[WP:AWB/T|Typo fixing]], typos fixed: of of → of using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+=Membranes=
+== Biological membranes ==
+[[image:bilayer.png|thumb|400px|Plasma membrane bilayer]]
+Biological membranes surround cells and serve to keep the insides separated from the outsides. They are formed of [[en:lipid bilayer|phospholipid bilayer]]s, which by definition are a double layer of [[en:Fatty acid|fatty acid]] molecules (mostly [[en:phospholipid|phospholipid]]s, lipids containing lots of phosphorus).  
+
+[[en:Proteins|Proteins]] serve very important functions in cellular membranes. They are '''active transports''' in and out of the cell, acting as gatekeepers. They relay '''signals''' in and out of the cell. Proteins are the '''site of many enzymatic reactions''' in the cell, and play a role in '''regulation of cellular processes.'''
+
+==Phospholipid==
+Phospholipid bilayer
+* basis of biological membranes and cellular organisms
+* contains a charged, hydrophilic (attracted to water) head and two hydrophobic (repelled by water) hydrocarbon tails
+* In presence of water, phospholipids form bilayer
+** maximize hydrogen bonds between water
+** creates barrier to passage of materials
+** fluid mosaic model shows horizontal (common) and &quot;flip-flop&quot; (rare) movement of phospholipids
+
+==Fluid mosaic model==
+* Current model of membrane
+* Phospholipid bilayer
+** Phospholipids
+* Move freely in lipid layer, but rarely switch layers
+* Different phospholipids in each layer in different organelles
+** Glycolipids
+** Sterols (cholesterol in animals)
+* Transmembrane proteins &quot;float&quot; in fluid lipid bilayer
+** also called intrinsic, integral proteins
+* Exterior (extrinsic, peripheral) proteins
+==Membrane proteins==
+* Transport channels
+* Enzymes
+* Cell surface receptors
+* Cell surface identity markers
+* Cell adhesion proteins
+* Attachments to cytoskeleton
+Integral membrane proteins
+* Anchoring to membrane
+** Protein has attached phosphatidylinositol (GPI) linkage, anchors protein in outer layer (no picture)
+** Protein has one or more hydrophobic transmembrane domains
+* -helix
+* -sheet
+
+
+----
+'''Channel protein
+Transport across membranes'''
+'''* Diffusion'''
+** From higher concentration to lower concentration
+** Membranes are selectively permeable
+* Ions diffuse through membrane channels
+** Selective
+** Movement determined by diffusion and voltage differences
+* '''Facilitated diffusion'''
+** Carrier protein, physically binds transported molecule
+*''' Osmosis'''
+* Diffusion of water down concentration gradient
+* In cell: various solutes (amino acids, ions, sugars, etc.)
+** interact with water, e.g., hydration shells
+* Water moves through aquaporin channels into cell
+* Depends upon the concentration of all solutes in solution
+** Hyperosmotic solution: higher concentration of solutes
+** Hypoosmotic solution: lower concentration of solutes
+** Isoosmotic solution: solute concentrations equal
+* Water moves from hypoosmotic solution to hyperosmotic solution
+Osmotic pressure
+'''Bulk transport'''
+* Endocytosis: energy requiring
+** Phagocytosis
+* Solid material, typically food
+** Pinocytosis
+* Primarily liquid
+'''** Receptor-mediated endocytosis'''
+* Pits on cell surface coated with clathrin and receptors
+* Bind specific proteins
+* Exocytosis
+** Discharge of materials from vesicle at cell surface
+
+==Receptor-mediated endocytosis==
+Active transport
+* Energy required (usually ATP)
+* Highly selective
+* Works against concentration gradient
+* Many examples, e.g., Na&lt;sup&gt;+&lt;/sup&gt;/K&lt;sup&gt;+&lt;/sup&gt; pump
+Cotransport (coupled transport)
+* Does not use ATP directly
+* Molecule is transported in connection with another molecule that is moving down a concentration gradient
+** Example: Na&lt;sup&gt;+&lt;/sup&gt; gradient is established by a Na&lt;sup&gt;+&lt;/sup&gt; pump, with higher concentration on outside of cell. Cotransport channel carries Na+ and another molecule (e.g. glucose) into cell
+* May involve proton (H&lt;sup&gt;+&lt;/sup&gt;) pumps (chemiosmosis - ATP production)
+
+''This text is based on notes very generously donated by Dr. Paul Doerder, Ph.D., of the Cleveland State University.''</text>
+      <sha1>g8aa1qvrvgh4l6bdq8ezj2wzrxvtuch</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Cells/Cell-Cell Interactions</title>
+    <ns>0</ns>
+    <id>2154</id>
+    <revision>
+      <id>2066273</id>
+      <parentid>1419908</parentid>
+      <timestamp>2011-03-06T04:52:34Z</timestamp>
+      <contributor>
+        <username>Avicennasis</username>
+        <id>314063</id>
+      </contributor>
+      <minor />
+      <comment>[[WP:AWB/T|Typo fixing]], typos fixed: distiguish → distinguish using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+=Cell-cell interactions=
+with the environment 
+with each other 
+  
+
+
+==Cell signaling ==
+* Signaling requires 
+** Signal 
+** Cell receptor (usually on surface) 
+* Signaling is important in: 
+** Response to environmental stimuli 
+** Sex 
+** Development 
+* Major area of research in biology today 
+  
+===Types of signaling ===
+* Direct contact (e.g., gap junctions between cells) 
+* Paracrine:  Diffusion of signal molecules in extracellular fluid; highly local 
+* Endocrine: Signal (hormone) molecule travels through circulatory system 
+* Synaptic: neurotransmitters
+
+====Types of signal molecules ====
+* Hormones: chemically diverse 
+** Steroid 
+** Polypeptide 
+** Vitamin/amino acid derived 
+* Cell surface proteins/glycoproteins 
+* Ca&lt;sup&gt;2+&lt;/sup&gt;, NO 
+* Neurotransmitter 
+** Several hundred types 
+** Some are also hormones e.g. Estrogen, progesterone
+
+====Receptor molecules ====
+* Intracellular 
+** Protein that binds signal molecule in cytoplasm 
+** Bound receptor may act as: 
+* Gene regulator 
+* Enzyme 
+* Cell surface 
+** Gated ion channels (neurotransmitter receptor) 
+** Enzymic receptors 
+** G protein-linked receptors
+=====Cell surface protein =====
+* Tissue identity 
+** glycolipids 
+** MHC proteins 
+* Immune systems 
+** distinguish self from not-self 
+* Intercellular adhesion 
+** permanent contact 
+** help form sheets of cells, tissues 
+** may permit signaling 
+======Example: G proteins ======
+* Transmembrane surface receptor binds signal molecule 
+* Conformational change allows binding of G protein on cytoplasmic side 
+* G protein binds GTP, becomes activated 
+* G protein activates intracellular signal cascade 
+** Change  in gene expression 
+** Secrection 
+** Many other possible consequences
+
+==Communicating junctions ==
+* Gap junctions 
+** animals 
+** small molecules and ions may pass 
+* Plasmodesmata 
+** plants 
+** lined with plasma membrane 
+** permit passage of water, sugars, etc. 
+  
+===Gap junctions===
+
+
+''This text is based on notes very generously donated by Dr. Paul Doerder, Ph.D., of the Cleveland State University.''</text>
+      <sha1>san3rjoks11b1h69kipk30f3vgsn5lx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Interlingua</title>
+    <ns>0</ns>
+    <id>2160</id>
+    <revision>
+      <id>2609714</id>
+      <parentid>2265857</parentid>
+      <timestamp>2014-02-17T01:36:06Z</timestamp>
+      <contributor>
+        <username>Frglz</username>
+        <id>361526</id>
+      </contributor>
+      <minor />
+      <comment>/* External links */</comment>
+      <text xml:space="preserve">Interlingua is an international auxiliary language that uses simple grammar and vocabulary common among Romance and Germanic languages.  This means that it is a great option for speakers of those languages looking to learn another, or for speakers of other languages who are looking for a nice gateway in English, Italian, Spanish, French, German, etc.  
+
+* [[w:Interlingua|Read the Wikipedia article on &quot;Interlingua&quot;]]
+* Textbooks in English on Interlingua:
+** [[/On the Grammar of Interlingua/]]
+** [[/Basic Interlingua English Dictionary/]]  {{stage short|50%|May 17, 2007}}
+* Libros de texto in Interlingua:
+** [[/Curso de conversation/]] per Harleigh Kyson.
+
+== External links ==
+* [http://www.interlingua.com/ied/ Interlingua&amp;mdash;English Dictionary]
+* [http://members.optus.net/~ado_hall/interlingua/gi/ A Grammar of Interlingua]
+* [http://wikisource.org/wiki/Main_Page:Interlingua Textos original de Wikisource]
+* [http://wikisource.org/wiki/Brochure_tiratorio Brochure tiratorio]
+* [[w:ia:Wikipedia:Frontispicio|Wikipedia in Interlingua]]
+
+{{Subjects|Constructed languages}}
+{{alphabetical|I}}
+{{status|0%}}
+
+[[it:Interlingua]]
+[[he:אינטרלינגואה]]
+[[pl:Interlingua]]</text>
+      <sha1>4s7kv6vham7q95emo3r7do3pq4cvq3n</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Charles Darwin</title>
+    <ns>0</ns>
+    <id>2161</id>
+    <redirect title="General Biology/Gallery of Biologists/Charles Darwin" />
+    <revision>
+      <id>393712</id>
+      <parentid>154202</parentid>
+      <timestamp>2006-03-09T18:24:00Z</timestamp>
+      <contributor>
+        <username>Robert Horning</username>
+        <id>1227</id>
+      </contributor>
+      <comment>Changing redirect</comment>
+      <text xml:space="preserve">#REDIRECT [[General Biology/Gallery of Biologists/Charles Darwin]]</text>
+      <sha1>owo3a0bsgfq99n1awkw67f3c2rdeffc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Cells/Energy and Metabolism</title>
+    <ns>0</ns>
+    <id>2162</id>
+    <revision>
+      <id>1721939</id>
+      <parentid>1701739</parentid>
+      <timestamp>2010-02-17T17:42:17Z</timestamp>
+      <contributor>
+        <ip>117.201.82.37</ip>
+      </contributor>
+      <comment>/* Free energy */</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+=Energy and Metabolism=
+==Energy ==
+* The capacity to do work. 
+** Kinetic energy: energy of motion (ex. jogging).
+** Potential energy: stored energy (ex. a lion that is about to leap on its prey).
+* Many forms of energy: e.g., 
+** Heat 
+** Sound 
+** Electric current 
+** Light 
+** All convertible to heat 
+* Most energy for biological world is from sun 
+* Heat (energy of random molecular motion, thermal energy) 
+** Convenient in biology 
+** All other energy forms can be converted to heat 
+** Thermodynamics: study of thermal energy 
+* Heat typically measured in kilocalories 
+** Kcal: 1000 calories 
+** 1 calorie: amount of heat required to raise the temperature of one gram of water one degree Celsius (°C) 
+* Heat plays major role in biological systems 
+** Ecological importance 
+** Biochemical reactions
+
+==Oxidation–Reduction==
+* Energy flows into biological world from sun 
+* Light energy is captured by photosynthesis 
+** Light energy raises electrons to higher energy levels 
+** Stored as potential energy in covalent C-H bonds of sugars 
+* Strength of covalent bond is measured by amount of energy required to break it 
+** 98.8 kcal/mole of C-H bonds 
+* In chemical reaction, energy stored in covalent bonds may transfer to new bonds.  When this involves transfer of electrons, it is oxidation–reduction reaction 
+* Always take place together 
+** Electron lost by atom or molecule through oxidation is gained by another atom or molecule through reduction 
+** Potential energy is transferred from one molecule to another (but never 100%) 
+* Often called redox reactions 
+** Photosynthesis 
+** Cellular Respiration
+** Chemiosynthesis
+** Autotrophs
+** Heterotrophs
+
+==NAD&lt;sup&gt;+&lt;/sup&gt; ==
+* Common electron acceptor/donor in redox reactions 
+* Energetic electrons often paired with H&lt;sup&gt;+&lt;/sup&gt;
+
+==Free energy ==
+* Energy required to break and subsequently form other chemical bonds 
+** Chemical bonds: sharing of electrons, tend to hold atoms of molecule together 
+** Heat, by increasing atomic motion, makes it easier to break bonds (entropy) 
+* Energy available to do work in a system 
+* In cells, G = H - TS
+** G = Gibbs’ free energy 
+** H =  H (enthalpy) energy in molecule’s chemical bonds 
+** TS (T, temperature in °K; S, entropy) 
+* Chemical reactions break and make bonds, producing changes in energy 
+* Under constant conditions of temperature, pressure and volume, &amp;Delta;G = &amp;Delta;H - T&amp;Delta;S
+* &amp;Delta;G, change in free energy 
+** If positive (+), H is higher, S is lower, so there is more free energy; endergonic reaction, does not proceed spontaneously; require input of energy (e.g., heat) 
+** If negative (–), H is lower, S is higher.  Product has less free energy; exergonic; spontaneous
+
+===Activation energy =       ==
+* Reactions with –&amp;Delta;G often require activation energy 
+** e.g., burning of glucose 
+** Must break existing bonds to get reaction started 
+* Catalysts lower activation energy
+
+==Enzymes ==
+* Biological catalysts 
+** Protein 
+** RNA (ribozyme) 
+* Stabilizes temporary association between reactants (substrates) to facilitate reaction 
+** Correct orientation 
+** Stressing bonds of substrate 
+* Lower activation energy 
+* Not consumed (destroyed) in reaction 
+  
+===Carbonic anhydrase ===
+* Important enzyme of red blood cells 
+* CO&lt;sub&gt;2&lt;/sub&gt; + H&lt;sub&gt;2&lt;/sub&gt;O &amp;rarr; H&lt;sub&gt;2&lt;/sub&gt;CO&lt;sub&gt;3&lt;/sub&gt; -&gt; HCO&lt;sub&gt;3&lt;/sub&gt; + H&lt;sup&gt;+&lt;/sup&gt; 
+*  Carbonic anhydrase catalyzes 1st reaction 
+** Converts water to hydroxyl 
+** Orients the hydroxyl and CO&lt;sub&gt;2&lt;/sub&gt;
+
+===Enzyme mechanism ===
+* One or more active sites which bind substrates (reactants) 
+** Highly specific 
+* Binding may alter enzyme conformation, inducing better fit
+
+===Factors affecting enzyme activity ===
+* Substrate concentration 
+* Product concentration 
+* Cofactor concentration 
+* Temperature 
+* pH 
+* Inhibitors 
+** Competitive: bind to active site 
+** Noncompetitive: bind to 2nd site, called allosteric site; changes enzyme conformation 
+* Activators 
+** Bind to allosteric sites, increase enzyme activity 
+  
+====Cofactors ====
+* Required by some enzymes 
+* Positively charged metal ions 
+** e.g., ions of [[en:Zinc|Zn]], Mo, Mg, Mn
+** Draw electrons away from substrate (stress chemical bonds) 
+* Non-protein organic molecules (coenzymes) 
+** E.g., NAD&lt;sup&gt;+&lt;/sup&gt;, NADP&lt;sup&gt;+&lt;/sup&gt;, etc. 
+** Major role in oxidation/reduction reactions by donating or accepting electrons
+
+==ATP ==
+* Adenosine triphosphate 
+* Major energy currency of cells, power endergonic reactions 
+* Stores energy in phosphate bonds 
+** Highly negative charges, repel each other 
+* Makes these covalent bonds unstable 
+** Low activation energy 
+* When bonds break, energy is transferred 
+* ATP &amp;rarr; ADP + Pi + 7.3 kcal/mole
+
+==Biochemical pathways ==
+* Metabolism: sum of chemical reactions in cell/organism 
+* Many anabolic and catabolic reactions  occur in sequences (biochemical pathways) 
+* Often highly regulated 
+Evolution of biochemical pathways 
+* Protobionts or 1st cells likely used energy rich substrates from environment 
+* Upon depletion of a substrate, selection would favor catalyst which converts another molecule into the depleted molecule 
+* By iteration, pathway evolved backward
+
+''This text is based on notes very generously donated by Paul Doerder, Ph.D., of the Cleveland State University.''</text>
+      <sha1>l9psjp6ubch1vyy8e1yag6ktkld2o62</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Cells/Respiration</title>
+    <ns>0</ns>
+    <id>2163</id>
+    <revision>
+      <id>1526075</id>
+      <parentid>1182510</parentid>
+      <timestamp>2009-06-09T16:10:00Z</timestamp>
+      <contributor>
+        <ip>69.143.187.15</ip>
+      </contributor>
+      <comment>/* Glycolysis overview */</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+=Respiration: harvesting of energy =
+Glucose + O&lt;sub&gt;2&lt;/sub&gt; &amp;rarr; CO&lt;sub&gt;2&lt;/sub&gt; + H&lt;sub&gt;2&lt;/sub&gt;O + ATP 
+==Energy ==
+* Energy is primarily in C-H bonds (C-O too) 
+* Chemical energy drives metabolism 
+** Autotrophs: harvest energy through photosynthesis or related process (plants, algae, some bacteria) 
+** Heterotrophs: live on energy produced by autotrophs (most bacteria and protists, fungi, animals) 
+* Digestion: enzymatic breakdown of polymers into monomers 
+* Catabolism: enzymatic harvesting of energy 
+* Respiration: harvesting of high energy electrons from glucose 
+==Respiration ==
+* Transfer of energy from high energy electrons of glucose to ATP 
+* Energy depleted electron (with associated H&lt;sup&gt;+&lt;/sup&gt;) is donated to acceptor molecule 
+** Aerobic respiration: oxygen accepts electrons, forms water 
+** Anaerobic respiration: inorganic molecule accepts hydrogen/electron 
+** Fermentation: organic molecule accepts hydrogen/electron
+
+==Respiration of glucose ==
+* C&lt;sub&gt;6&lt;/sub&gt;H&lt;sub&gt;12&lt;/sub&gt;O&lt;sub&gt;6&lt;/sub&gt; + 6 O&lt;sub&gt;2&lt;/sub&gt; &amp;rarr; 6 CO&lt;sub&gt;2&lt;/sub&gt; + 6 H&lt;sub&gt;2&lt;/sub&gt;O + energy 
+* &amp;Delta;G = -720 kcal/mole under cellular conditions 
+* Largely from the 6 C-H bonds 
+* Same energy whether burned or catabolized 
+* In cells, some energy produces heat, most is transferred to ATP
+
+==Alternative anaerobic respiration ==
+* Methanogens (Archaebacteria). 
+** CO&lt;sub&gt;2&lt;/sub&gt; is electron acceptor, forming CH&lt;sub&gt;4&lt;/sub&gt; 
+* Sulfur bacteria 
+** SO&lt;sub&gt;4&lt;/sub&gt; reduced to H&lt;sub&gt;2&lt;/sub&gt;S 
+** Formation of H&lt;sub&gt;2&lt;/sub&gt;S set stage for evolution of photosynthesis (H&lt;sub&gt;2&lt;/sub&gt;S as electron donor before H&lt;sub&gt;2&lt;/sub&gt;O) 
+** About 2.7 by, based on ratio of 32S/34S, where only biological processes produce 32S enrichment
+
+==Glycolysis overview ==
+Glycolysis accounting 
+* Oxidation 
+** Two electrons (one proton) are transferred from each G3P to NAD&lt;sup&gt;+&lt;/sup&gt; forming NADH 
+2NADH 
+* Substrate level phosphorylation 
+** G3P to pyruvate forms 2 ATP molecules 
+ 4 ATP (from 2 G3P) 
+–2 ATP (priming) 
+  2 ATP (net gain)
+
+Summary: The net input of glycolysis is 2 ATP molecules which are used to split one glucose molecule.  The net yield of this step is 2 ATP and 2 pyruvate.
+
+==Regeneration of NAD&lt;sup&gt;+&lt;/sup&gt; ==
+* Reduction of NAD&lt;sup&gt;+&lt;/sup&gt; to NADH can deplete NAD&lt;sup&gt;+&lt;/sup&gt; supply; it must be regenerated 
+* Two pathways, coupled to fate of pyruvate 
+** With oxygen: enter electron transport chain, forming water (and ATP) 
+** Without oxygen: fermentation 
+* lactate 
+* ethanol
+
+==Alcohol fermentation ==
+
+==Lactate formation ==
+Either [[w:Lactate|lactic acid]] or alcohol can be formed as a result of anaerobic respiration in cells.
+
+==Krebs cycle: overview ==
+* Matrix of mitochondrion 
+* Priming steps 
+** Joining of acetyl-CoA to oxaloacetate 
+** Isomerization reactions 
+* Energy extraction steps in Krebs cycle 
+** Per glucose 
+* 6 NADH 
+* 2 FADH&lt;sub&gt;2&lt;/sub&gt; 
+* 2 ATP (from GTP) 
+* 4 CO&lt;sub&gt;2&lt;/sub&gt;
+
+==ATP production ==
+* Chemiosmosis (Mitchell) 
+* H&lt;sup&gt;+&lt;/sup&gt; (from NADH and FADH&lt;sub&gt;2&lt;/sub&gt;) is pumped against a gradient into the intermembranal space of the mitochondrion (creates voltage potential) 
+* Diffusion back into matrix through ATP synthase channels drives synthesis of ATP (ADP + Pi &amp;rarr; ATP) 
+* ATP exits mitochondrion by facilitated transport
+
+==Evolution of aerobic respiration ==
+* Preceded by evolution of photosynthesis (O2 needed; also, prior evolution of electron transport and chemiosmosis) 
+* High efficiency of ATP production compared to glycolysis 
+** Fostered evolution of heterotrophs 
+** Fostered evolution of mitochondria by endosymbiosis in eukaryotes</text>
+      <sha1>6ajqwzmdipo2a4qxdas80bplh3h4r1z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

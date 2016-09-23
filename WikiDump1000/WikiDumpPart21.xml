@@ -1,0 +1,1845 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Organic Chemistry/Overview of Functional Groups</title>
+    <ns>0</ns>
+    <id>701</id>
+    <revision>
+      <id>2676517</id>
+      <parentid>2542860</parentid>
+      <timestamp>2014-06-25T19:03:43Z</timestamp>
+      <contributor>
+        <username>McZusatz</username>
+        <id>489683</id>
+      </contributor>
+      <minor />
+      <comment>(Script)  [[File:Aldehyde-skeletal.png]] → [[File:Skeletal formula of a aldehyde group.svg]] svg avail</comment>
+      <text xml:space="preserve">==Introduction==
+The number of known organic compounds is quite large.  In fact, there are many times more organic compounds known than all the other (inorganic) compounds discovered so far, about 7 million organic compounds in total.  Fortunately, organic chemicals consist of a relatively few similar parts, combined in different ways, that allow us to predict how a compound we have never seen before may react, by comparing how other molecules containing the same types of parts are known to react.
+
+These parts of organic molecules are called '''functional groups'''.  The identification of functional groups and the ability to predict reactivity based on functional group properties is one of the cornerstones of organic chemistry.
+
+Functional groups are '''specific atoms, ions, or groups of atoms''' having consistent properties. A functional group makes up part of a larger molecule.
+
+For example, '''-OH''', the hydroxyl group that characterizes alcohols, is an oxygen with a hydrogen attached. It could be found on any number of different molecules.
+
+Just as elements have distinctive properties, functional groups have '''characteristic chemistries'''. An '''-OH''' group on one molecule will tend to react similarly, although perhaps not identically, to an '''-OH''' on another molecule.
+
+'''Organic reactions usually take place at the functional group''', so learning about the reactivities of functional groups will prepare you to understand many other things about organic chemistry.
+
+==Memorizing Functional Groups==
+
+Don't assume that you can simply skim over the functional groups and move on. As you proceed through the text, the writing will be in terms of functional groups. It will be assumed that the student is familiar with most of the ones in the tables below. It's simply impossible to discuss chemistry without knowing the &quot;lingo&quot;. It's like trying to learn French without first learning the meaning of some of the words.
+
+One of the easiest ways to learn functional groups is by making flash cards. Get a pack of index cards and write the name of the functional group on one side, and draw its chemical representation on the other.
+
+For now, a list of the most important ones you should know is provided here. Your initial set of cards should include, at the very least: Alkene, Alkyne, Alkyl halide (or Haloalkane), Alcohol, Aldehyde, Ketone, Carboxylic Acid, Acyl Chloride (or Acid Chloride), Ester, Ether, Amine, Sulfide, and Thiol. After you've learned all these, add a couple more cards and learn those. Then add a few more and learn those. Every functional group below is eventually discussed at one point or another in the book. But the above list will give you what you need to continue on.
+
+And don't just look at the cards. Say and write the names and draw the structures. To test yourself, try going through your cards and looking at the names and then drawing their structure on a sheet of paper. Then try going through and looking at the structures and naming them. Writing is a good technique to help you memorize, because it is more active than simply reading. Once you have the minimal list above memorized backwards and forwards, you're ready to move on. But don't stop learning the groups. If you choose to move on without learning the &quot;lingo&quot;, then you're not going to understand the language of the chapters to come. Again, using the French analogy, it's like trying to ignore learning the vocabulary and then picking up a novel in French and expecting to be able to read it.
+
+===Functional groups containing ...===
+
+In [[organic chemistry]] '''functional groups''' are submolecular structural motifs, characterized by specific elemental composition and connectivity, that confer reactivity upon the molecule that contains them.
+
+Common functional groups include:
+
+{| class=&quot;wikitable&quot; style=&quot;background: #ffffff; text-align: center;&quot;
+|-
+! Chemical class
+! Group
+! Formula
+! Graphical Formula
+! Prefix
+! Suffix
+! Example
+|-
+| [[Organic_Chemistry/Glossary#A|Acyl halide]] || Haloformyl
+| RCOX
+| [[Image:Acyl-halide-skeletal.png|75px|Acyl halide]]
+| haloformyl- || -oyl halide
+| [[Image:Acetyl-chloride.png|75px|Acetyl chloride]]&lt;br /&gt;[[w:Acetyl chloride|Acetyl chloride]]&lt;br/&gt;''(Ethanoyl chloride)''
+|-
+| [[Organic_Chemistry/Glossary#A|Alcohol]] || [[Hydroxyl]]
+| OH
+| [[Image:Alcohol-(general)-skeletal.png|75px|Hydroxyl]]
+| hydroxy- || -ol
+| [[Image:Methanol-2D.png|90px|methanol]]&lt;br&gt;[[w:Methanol|Methanol]]
+|-
+| [[Organic_Chemistry/Glossary#A|Aldehyde]] || [[Organic_Chemistry/Glossary#A|Aldehyde]]
+| RCHO
+| [[Image:Skeletal formula of a aldehyde group.svg|75px|Aldehyde]]
+| oxo- || -al
+| [[Image:Acetaldehyde-skeletal.png|75px|acetaldehyde]]&lt;br&gt;[[w:Acetaldehyde|:Acetaldehyde]]&lt;br/&gt;''(Ethanal)''
+|-
+| [[Organic_Chemistry/Glossary#A|Alkane]] || [[Alkyl]]
+| RH&lt;sub&gt;n&lt;sub&gt;
+| [[Image:Alkyl-(general)-skeletal.svg|75px|Alkyl]]
+| alkyl- || -ane
+| [[Image:Methane-2D-stereo.svg|75px|methane]]&lt;br&gt;[[w:Methane|Methane]]
+|-
+| [[Organic_Chemistry/Glossary#A|Alkene]] || [[Organic_Chemistry/Glossary#A|Alkenyl]]
+| R&lt;sub&gt;2&lt;/sub&gt;C=CR&lt;sub&gt;2&lt;/sub&gt;
+| [[Image:Alkene-2D-skeletal.svg|75px|Alkene]]
+| alkenyl- || -ene
+| [[Image:Ethylene-2D.png|75px|ethylene]]&lt;br&gt;[[w:Ethylene|Ethylene]]&lt;br/&gt;''(Ethene)''
+|-
+| [[Organic_Chemistry/Glossary#A|Alkyne]] || [[Organic_Chemistry/Glossary#A|Alkynyl]]
+| RC≡CR'
+| [[Image:Alkyne general.svg|100px|Alkyne]]
+| alkynyl- || -yne
+| [[Image:Acetylene-2D.svg|100px|acetylene]]&lt;br&gt;[[w:Acetylene|Acetylene]]&lt;br/&gt;''(Ethyne)''
+|-
+| [[Organic_Chemistry/Glossary#A|Amide]] || [[Carboxamide]]
+| RCONR&lt;sub&gt;2&lt;/sub&gt;
+| [[Image:Amide-(tertiary)-skeletal.png|75px|Amide]]
+| carboxamido- || -amide
+| [[Image:Acetamide skeletal.svg|75px|acetamide]]&lt;br&gt;[[w:Acetamide|Acetamide]]&lt;br/&gt;''(Ethanamide)''
+|-
+| rowspan=&quot;4&quot; | [[Organic_Chemistry/Glossary#A|Amine]]s
+| [[Organic_Chemistry/Glossary#A|Primary amine]]
+| RNH&lt;sub&gt;2&lt;/sub&gt;
+| [[Image:1°-amino-group.png|75px|Primary amine]]
+| amino- || -amine
+| [[Image:Methylamine-2D.png|75px|methylamine]]&lt;br&gt;[[w:Methylamine|Methylamine]]&lt;br/&gt;''(Methanamine)''
+|-
+| [[Organic_Chemistry/Glossary#A|Secondary amine]]
+| R&lt;sub&gt;2&lt;/sub&gt;NH
+| [[Image:Amine-(secondary).png|75px|Secondary amine]]
+| amino- || -amine
+| [[Image:Dimethylamine-2D.png|75px|dimethylamine]]&lt;br&gt;[[w:Dimethylamine|Dimethylamine]]
+|-
+| [[Organic_Chemistry/Glossary#A|Tertiary amine]]
+| R&lt;sub&gt;3&lt;/sub&gt;N
+| [[Image:Amine-(tertiary).png|75px|Tertiary amine]]
+| amino- || -amine
+| [[Image:Trimethylamine chemical structure.png|75px|trimethylamine]]&lt;br&gt;[[w:Trimethylamine|Trimethylamine]]
+|-
+| [[Quaternary ammonium cation|4° ammonium ion]]
+| R&lt;sub&gt;4&lt;/sub&gt;N&lt;sup&gt;+&lt;/sup&gt;
+| [[Image:Quaternary-ammonium-cation.svg|75px|Quaternary ammonium cation]]
+| ammonio- || -ammonium
+| [[Image:Choline-skeletal.png|75px|choline]]&lt;br&gt;[[w:Choline|Choline]]
+|-
+| [[Organic_Chemistry/Glossary#A|Azo compound]]
+| [[Azo compound|Azo&lt;br /&gt;(Diimide)]]
+| RN&lt;sub&gt;2&lt;/sub&gt;R'
+| [[Image:Azo-group.png|75px|Azo.pngl]]
+| azo- || -diazene
+| [[Image:Methyl-orange-skeletal.png|150px|Methyl orange]]&lt;br/&gt;[[w:Methyl orange|Methyl orange]]
+|-
+| [[Organic_Chemistry/Glossary#T|Toluene derivative]]
+| [[Organic_Chemistry/Glossary#B|Benzyl]]
+| RCH&lt;sub&gt;2&lt;/sub&gt;C&lt;sub&gt;6&lt;/sub&gt;H&lt;sub&gt;5&lt;/sub&gt;&lt;br /&gt;RBn
+| [[Image:Benzyl-group.svg|75px|Benzyl]]
+| benzyl-
+| 1-(''substituent'')toluene
+| [[Image:Benzyl-bromide-skeletal.svg|75px|Benzyl bromide]]&lt;br /&gt;[[w:Benzyl bromide|Benzyl bromide]]&lt;br /&gt;''(1-Bromotoluene)''
+|-
+| [[Organic_Chemistry/Glossary#C|Carbonate]]
+| [[Carbonate ester]]
+| ROCOOR
+| [[Image:Carbonate-group.png|75px|Carbonate]]
+|
+| alkyl '''carbonate'''
+|
+|-
+| [[Organic_Chemistry/Glossary#C|Carboxylate]]
+| [[Carboxylate]] || RCOO&lt;sup&gt;−&lt;/sup&gt;
+| [[Image:Carboxylate-resonance-hybrid.png|75px|Carboxylate]]&lt;br&gt;
+[[Image:Carboxylate-canonical-forms.png|75px|Carboxylate]]
+| carboxy- || -oate
+| [[Image:Sodium-acetate-2D-skeletal.png|75px|Sodium acetate]]&lt;br /&gt;[[w:Sodium acetate|Sodium acetate]]&lt;br /&gt;''(Sodium ethanoate)''
+|-
+| [[Organic_Chemistry/Glossary#C|Carboxylic acid]]
+| [[Carboxyl]] || RCOOH
+| [[Image:Carboxylic-acid-skeletal.svg|75px|Carboxylic acid]]
+| carboxy- || -oic acid
+| [[Image:Acetic-acid-2D-skeletal.svg|75px|Acetic acid]]&lt;br /&gt;[[w:Acetic acid|Acetic acid]]&lt;br /&gt;''(Ethanoic acid)''
+|-
+| rowspan=&quot;2&quot; | [[Organic_Chemistry/Glossary#C|Cyanate]]s
+| [[Cyanate]] || ROCN
+| [[Image:Cyanate-group.png|75px|Cyanate]]
+| cyanato-
+| alkyl '''cyanate'''
+|
+|-
+| [[Organic_Chemistry/Glossary#C|Thiocyanate]] || RSCN
+| [[Image:Thiocyanate-group.png|75px|Thiocyanate]]
+| thiocyanato-
+| alkyl '''thiocyanate'''
+|
+|-
+| [[Organic_Chemistry/Glossary#C|Ether]] || [[Ether]]
+| ROR'
+| [[Image:Ether-(general).png|75px|Ether]]
+| alkoxy-
+| alkyl alkyl '''ether'''
+| [[Image:Diethyl-ether-2D-skeletal.png|75px|Diethyl ether]]&lt;br&gt;[[w:Diethyl ether|Diethyl ether]]&lt;br&gt;''(Ethoxyethane)''
+|-
+| [[Organic_Chemistry/Glossary#E|Ester]] || [[Ester]]
+| RCOOR'
+| [[Image:Ester-skeletal.png|Ester|75px]]
+|  || -oate
+| [[Image:Ethyl butyrate.png|75px|Ethyl butyrate]]&lt;br&gt;[[w:Ethyl butyrate|Ethyl butyrate]]&lt;br&gt;''(Ethyl butanoate)''
+|-
+| [[Organic_Chemistry/Glossary#H|Haloalkane]] || [[Halogen|Halo]]
+| RX
+| [[Image:Halide-group.png|75px|Halide group]]
+| halo- || alkyl '''halide'''
+| [[Image:Chloroethane-skeletal.png|75px|Chloroethane]]&lt;br&gt;[[w:Chloroethane|Chloroethane]]&lt;br&gt;''(Ethyl chloride)''
+|-
+| Hydroperoxide (see [[Organic_Chemistry/Glossary#O|organic peroxide]])
+| [[Organic peroxide|Hydroperoxy]]
+| ROOH
+| [[Image:Hydroperoxide-group-2D.png|75px|Hydroperoxy]]
+| hydroperoxy-
+| alkyl '''hydroperoxide'''
+| [[Image:Methyl-ethyl-ketone-peroxide-2D-skeletal.png|75px|Methyl ethyl ketone peroxide]]&lt;br /&gt;[[w:Methyl ethyl ketone peroxide|Methyl ethyl ketone peroxide]]
+|-
+| rowspan=&quot;4&quot; | [[Organic_Chemistry/Glossary#I|Imine]]
+| Primary ketimine
+| RC(=NH)R'
+| [[Image:Imine-(primary)-skeletal.png|75px|Imine]]
+| imino- || -imine
+|
+|-
+| Secondary ketimine
+| RC(=NR'')R'
+| [[Image:Imine-(secondary)-skeletal.png|75px|Imine]]
+| imino- || -imine
+|
+|-
+| Primary aldimine
+| RC(=NH)H
+| [[Image:Aldimine-(primary)-skeletal.png|75px|Imine]]
+| imino- || -imine
+|
+|-
+| Secondary aldimine
+| RC(=NR')H
+| [[Image:Aldimine-(secondary)-skeletal.png|75px|Imine]]
+| imino- || -imine
+|
+|-
+| [[Organic_Chemistry/Glossary#I|Isocyanide]] || [[Isocyanide]]
+| RNC
+| 
+| isocyano-
+| alkyl '''isocyanide'''
+|
+|-
+| rowspan=&quot;2&quot; | [[Organic_Chemistry/Glossary#I|Isocyanate]]s
+| [[Isocyanate]] || RNCO
+| [[Image:Isocyanate-group.png|75px|Isocyanate]]
+| isocyanato-
+| alkyl '''isocyanate'''
+|
+|-
+| [[Organic_Chemistry/Glossary#I|Isothiocyanate]] || RNCS
+| [[Image:Isothiocyanate-group.png|75px|Isothiocyanate]]
+| isothiocyanato-
+| alkyl '''isothiocyanate'''
+| [[Image:Allyl-isothiocyanate-2D-skeletal.png|75px|Allyl isothiocyanat]]&lt;br /&gt;[[w:Allyl isothiocyanate|Allyl isothiocyanate]]
+|-
+| [[Organic_Chemistry/Glossary#K|Ketone]] || [[Ketone]]
+| RCOR'
+| [[Image:Ketone-skeletal.png|Ketone|75px]]
+| keto-, oxo- || -one
+| [[Image:Butanone-structure-skeletal.png|75px|Butanone]]&lt;br /&gt;[[w:Methyl ethyl ketone|Methyl ethyl ketone]]&lt;br&gt;''(Butanone)''
+|-
+| [[Organic_Chemistry/Glossary#N|Nitrile]] || [[Nitrile]]
+| RCN
+| [[Image:Nitrile-(general)-skeletal.png|75px|Nitrile]]
+| cyano- ||
+alkane'''nitrile'''&lt;br&gt;
+alkyl '''cyanide'''
+| [[Image:Benzonitrile structure.png|75px|Benzonitrile ]]&lt;br /&gt;[[w:Benzonitrile|Benzonitrile]]&lt;br&gt;''(Phenyl cyanide)''
+|-
+| [[Organic_Chemistry/Glossary#N|Nitro compound]]
+| [[Nitro functional group|Nitro]]
+| RNO&lt;sub&gt;2&lt;/sub&gt;
+| [[Image:Nitro-group.png|75px|Nitro]]
+| nitro- || &amp;nbsp;
+| [[Image:Nitromethane2.png|75px|Nitromethane]]&lt;br /&gt;[[w:Nitromethane|Nitromethane]]
+|-
+| [[Organic_Chemistry/Glossary#N|Nitroso compound]]
+| [[Nitroso]] || RNO
+| [[Image:Nitroso-compound-2D.png|75px|Nitroso]]
+| nitroso- || &amp;nbsp;
+| [[Image:Nitrosobenzene.png|75px|Nitrosobenzene]]&lt;br /&gt;[[w:Nitrosobenzene|Nitrosobenzene]]
+|-
+| [[Organic_Chemistry/Glossary#P|Peroxide]]
+| [[Organic peroxide|Peroxy]]
+| ROOR
+| [[Image:Peroxy-group.png|75px|Peroxy]]
+| peroxy-
+| alkyl '''peroxide'''
+| [[Image:DTBP.png|75px|Di-tert-butyl peroxide]]&lt;br /&gt;[[w:Di-tert-butyl peroxide|Di-tert-butyl peroxide]]
+|-
+| [[Organic_Chemistry/Glossary#B|Benzene derivative]]
+| [[Phenyl]]
+| RC&lt;sub&gt;6&lt;/sub&gt;H&lt;sub&gt;5&lt;/sub&gt;
+| [[Image:Phenyl-group.png|75px|Phenyl]]
+| phenyl- || -benzene
+| [[Image:Cumene-2D-skeletal.png|75px|Cumene]]&lt;br /&gt;[[w:Cumene|Cumene]]&lt;br/&gt;''(2-phenylpropane)''
+|-
+| [[Organic_Chemistry/Glossary#P|Phosphine]] || Phosphino
+| R&lt;sub&gt;3&lt;/sub&gt;P
+| [[Image:Phosphine-general.svg|75px|A tertiary phosphine]]
+| phosphino- || -phosphane
+| [[Image:Methylpropylphosphane-skeletal.svg|75px|Methylpropylphosphane]]&lt;br /&gt;Methylpropylphosphane
+|-
+| [[Organic_Chemistry/Glossary#P|Phosphodiester]]
+| [[Phosphate]]
+| HOPO(OR)&lt;sub&gt;2&lt;/sub&gt;
+| [[Image:Phosphodiester-group.png|75px|Phosphodiester]]
+| phosphoric acid di(''substituent'') ester
+| di(''substituent'') hydrogenphosphate
+| [[w:DNA|DNA]]
+|-
+| [[Organic_Chemistry/Glossary#P|Phosphonic acid]] || Phosphono
+| RP(=O)(OH)&lt;sub&gt;2&lt;/sub&gt;
+| [[Image:Phosphonic-acid-generic.png|75px|Phosphono group]]
+| phosphono-
+| ''substituent'' phosphonic acid
+| [[Image:Benzylphosphonic-acid-2D-skeletal.png|75px|Benzylphosphonic acid]]&lt;br /&gt;Benzylphosphonic acid
+|-
+| [[Organic_Chemistry/Glossary#P|Phosphate]] || Phosphate
+| ROP(=O)(OH)&lt;sub&gt;2&lt;/sub&gt;
+| [[Image:Phosphate-group.png|75px|Phosphate group]]
+| phospho- ||
+| [[Image:G3P-2D-skeletal.png|75px|Glyceraldehyde 3-phosphate]]&lt;br /&gt;[[w:Glyceraldehyde 3-phosphate|Glyceraldehyde 3-phosphate]]
+|-
+| [[Organic_Chemistry/Glossary#P|Pyridine derivative]]
+| [[Pyridine|Pyridyl]]
+| RC&lt;sub&gt;5&lt;/sub&gt;H&lt;sub&gt;4&lt;/sub&gt;N
+|
+[[Image:4-pyridyl.png|75px|4-pyridyl group]]&lt;br&gt;
+[[Image:3-pyridyl.png|75px|3-pyridyl group]]&lt;br&gt;
+[[Image:2-pyridyl.png|75px|2-pyridyl group]]&lt;br&gt;
+|
+4-pyridyl&lt;br&gt;(pyridin-4-yl)&lt;br&gt;&lt;br&gt;
+3-pyridyl&lt;br&gt;(pyridin-3-yl)&lt;br&gt;&lt;br&gt;
+2-pyridyl&lt;br&gt;(pyridin-2-yl)
+| -pyridine
+| [[Image:Nicotine-2D-skeletal.png|75px|Nicotine]]&lt;br /&gt;[[w:Nicotine|Nicotine]]
+|-
+| [[Organic_Chemistry/Glossary#S|Sulfide]]
+|
+| RSR'
+| [[Image:Sulfide-group-2D.png|75px|Sulfide group]]
+|
+| di(''substituent'') sulfide
+| [[Image:Dimethylsulfide.png|75px|Dimethyl sulfide]]&lt;br /&gt;[[w:Dimethyl sulfide|Dimethyl sulfide]]
+|-
+| [[Organic_Chemistry/Glossary#S|Sulfone]]
+| [[Sulfone|Sulfonyl]]
+| RSO&lt;sub&gt;2&lt;/sub&gt;R'
+| [[Image:Sulfone.png|75px|Sulfonyl group]]
+| sulfonyl-
+| di(''substituent'') sulfone
+| [[Image:Dimethylsulfone_Structure.png|75px|Dimethyl sulfone]]&lt;br /&gt;Dimethyl sulfone&lt;br&gt;''([[w:Methylsulfonylmethane|Methylsulfonylmethane]])''
+|-
+| [[Organic_Chemistry/Glossary#S|Sulfonic acid]] || Sulfo
+| RSO&lt;sub&gt;3&lt;/sub&gt;H
+| [[Image:Sulfonic-acid.png|75px|Sulfonyl group]]
+| sulfo-
+| ''substituent'' '''sulfonic acid'''
+| [[Image:Benzenesulfonic-acid-2D-skeletal.png|75px|Benzenesulfonic acid]]&lt;br /&gt;Benzenesulfonic acid
+|-
+| [[Organic_Chemistry/Glossary#S|Sulfoxide]]
+| [[Sulfoxide|Sulfinyl]]
+| RSOR'
+| [[Image:Sulfoxide.png|75px|Sulfinyl group]]
+| sulfinyl-
+| di(''substituent'') '''sulfoxide'''
+| [[Image:Diphenyl-sulfoxide.png|75px|Diphenyl sulfoxide]]&lt;br /&gt;Diphenyl sulfoxide
+|-
+| [[Organic_Chemistry/Glossary#T|Thiol]]
+| [[Thiol|Sulfhydryl]]
+| RSH
+| [[Image:Thiol-group.png|75px|Sulfhydryl]]
+| mercapto-, sulfanyl-
+| -thiol
+| [[Image:Ethanethiol-skeletal.png|75px|Ethanethiol]]&lt;br /&gt;[[w:Ethanethiol|Ethanethiol]]&lt;br /&gt;''(Ethyl mercaptan)''
+|}
+''Note: The table above is adapted from the Functional Groups table on [[w:Functional_groups|Wikipedia.]]''
+
+
+Combining the names of functional groups with the names of the parent [[w:Alkanes|alkanes]] generates a powerful [[w:systematic name|systematic nomenclature]] for naming [[w:organic compound|organic compounds]].
+
+The non-hydrogen atoms of functional groups are always associated with each by [[w:covalent bond|covalent bond]]s, as well as with the rest of the molecule. When the group of atoms is associated with the rest of the molecule primarily by ionic forces, the group is referred to more properly as a [[w:polyatomic ion|polyatomic ion]] or [[w:complex ion|complex ion]]. And all of these are called [[w:radical|radical]]s, by a meaning of the term ''radical'' that predates the [[w:free radical|free radical]].
+
+The first carbon after the carbon that attaches to the functional group is called the [[w:alpha carbon|alpha carbon]].
+
+==Mnemonics for Functional Groups==
+These are possible mnemonics for the common functional groups.
+
+&lt;b&gt;Vowels&lt;/b&gt;: Remember the vowels &quot;A&quot;, &quot;E&quot;, and &quot;Y&quot; for Alkane, Alkene, and Alkyne. Alkanes have only single covalent bonds. Alkenes have at least one double bond. Alkynes have at least one triple bond. The letters &quot;I&quot;, &quot;O&quot;, and &quot;U&quot; are not used. Furthermore, &quot;O&quot; and &quot;U&quot; would result in awkward pronunciations.
+
+&lt;b&gt;Alcohol&lt;/b&gt;: Look for the &quot;C-O-H&quot; in &quot;Alcohol.&quot;
+
+&lt;b&gt;Ether&lt;/b&gt;: Ethers were anesthetics used in the 1800s. Dr. Kellogg also lived at the same time. Corn Flakes are made by Kellogg's. A rooster or cock (C-O-C) is the cornflake mascot.
+
+&lt;b&gt;Amine&lt;/b&gt;: Remember the &quot;N&quot; stands for nitrogen.
+
+&lt;b&gt;Aldehyde&lt;/b&gt;: This sounds like &quot;Adelaide,&quot; the Australian city. Australia is at the end of the Asian islands, and aldehydes are at the end of the hydrocarbon chain. The &quot;Y&quot; indicates a C=O double bond.
+
+&lt;b&gt;Ketone&lt;/b&gt;: Imagine the diagonal strokes of &quot;K&quot; forming the C=O double bond. [[File:Ketone_Functional_Group_Mnemonic_K.png]]
+
+&lt;b&gt;Carboxylic Acid&lt;/b&gt;: &quot;Box&quot; stands for boxed wine or C-O-H, alcohol. The &quot;Y&quot; indicates a C=O double bond.
+
+&lt;b&gt;Ester&lt;/b&gt;: This sounds like &quot;Estelle&quot; George Costanza's mother in the TV show &lt;u&gt;Seinfeld&lt;/u&gt;. George's nickname was Koko or Coco. So think of O=C-O-C.
+
+&lt;b&gt;Amide&lt;/b&gt;: Amine with a &quot;D&quot;. D for double.
+
+
+
+{{BookCat}}</text>
+      <sha1>2byipknv9ylyyuzxk6lalwa3msv2p4m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Abstract Algebra</title>
+    <ns>0</ns>
+    <id>702</id>
+    <revision>
+      <id>2400697</id>
+      <parentid>2348581</parentid>
+      <timestamp>2012-08-26T21:38:02Z</timestamp>
+      <contributor>
+        <username>Espen180</username>
+        <id>311725</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">This book is on ''abstract algebra'' (abstract algebraic systems), an advanced set of topics related to [[algebra]], including groups, rings, ideals, fields, and more. Readers of this book are expected to have read and understood the information presented in the [[Linear Algebra]] book, or an equivalent alternative.
+
+== Contents ==
+{{Algebra}}
+# Introduction
+## [[/Sets/]]
+## [[/Equivalence relations and congruence classes/]]
+## [[/Functions/]]
+## [[/Binary Operations/]]
+## [[/Linear Algebra/]]
+## [[/Number Theory/]]
+# Group Theory
+## [[/Group Theory/Group|Groups]]
+## [[/Group Theory/Subgroup|Subgroups]]
+## [[/Group Theory/Cyclic groups|Cyclic groups]]
+## [[/Group Theory/Permutation groups|Permutation groups]]
+## [[/Group Theory/Homomorphism|Homomorphism]]
+## [[/Group Theory/Normal subgroups and Quotient groups|Normal subgroups and Quotient groups]]
+## [[/Group Theory/Products and Free Groups|Products and Free groups]]
+## [[/Group Theory/Group actions on sets|Group actions on sets]]
+## [[/Group Theory/The Sylow Theorems|The Sylow Theorems]]
+# Rings
+## [[/Rings/]]
+## [[/Ring Homomorphisms/]]
+## [[/Ideals/]]
+## [[/Integral domains/]]
+## [[/Fraction Fields/]]
+## [[/Polynomial Rings/]]
+# Fields
+## [[/Fields/]]
+## [[/Factorization/]]
+## [[/Splitting Fields and Algebraic Closues/]]
+## [[/Separability, Normal Extensions/]]
+# Vector Spaces
+## [[/Vector Spaces/]]
+# Modules
+## [[/Modules/]]
+## [[/Hypercomplex numbers/]]
+# Algebras
+## [[/Algebras/]]
+## [[/Boolean algebra/]]
+## [[/Clifford Algebras/]]
+## [[/Quaternions/]]
+## [[/Galois Theory/]]
+# Further abstract algebra
+## [[/Category theory/]]
+## [[/Lattice theory/]]
+## [[/Matroids/]]
+# [[/Authors/]]
+
+==Related books==
+* See [[Subject:Algebra]]
+
+==Information for contributors==
+* [[/Manual of Style/]]
+
+{{Subjects|Algebra|University level mathematics books}}
+{{alphabetical|A}}
+{{status|50%}}
+
+[[it:Algebra/Algebra astratta]]</text>
+      <sha1>hv73spdlpp8tab86eb5ooyubx9tzzyf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Japanese/Vocabulary/Everyday Phrases</title>
+    <ns>0</ns>
+    <id>704</id>
+    <revision>
+      <id>2174783</id>
+      <parentid>1799267</parentid>
+      <timestamp>2011-10-03T16:52:09Z</timestamp>
+      <contributor>
+        <username>HethrirBot</username>
+        <id>475400</id>
+      </contributor>
+      <minor />
+      <comment>Robot: Cosmetic changes</comment>
+      <text xml:space="preserve">== Greetings ==
+* 今晩は　(こんばんは) - Good evening (generally used after 6pm).
+* 今日は　(こんにちは) - Hello; good day; good afternoon.
+* おはよう - Casual &quot;Good morning&quot; (generally used until 10am).
+** おはようございます - Formal &quot;Good morning.&quot;
+* お休み　(おやすみ) - Casual &quot;Good night.&quot;
+** おやすみなさい - Formal &quot;Good night.&quot;
+
+== Yes and No ==
+* はい - yes (formal)
+* ええ - yes (slightly less formal)
+* いいえ - no (formal)
+* うん - yeah/uh-huh (casual)
+* ううん - no/uh-uh (casual)
+* いや - no (casual, indicates displeasure)
+
+== Eating ==
+* いただきます - Polite phrase to say before eating.
+* ごちそうさまでした - Polite phrase to say after eating.
+
+== Praise ==
+* おめでとう - Congratulations
+** おめでとうございます - Stronger congratulations.
+* よく出来ました。 - Good job. (You did well.)
+
+== Please and Thank You ==
+* ~ ください - ~ please. (Usually used with the -te form of the verb)
+* おねがいします - please (Slightly more polite)
+* どうぞ - please (Casual)
+* どうも - Thanks.
+* ありがとう - Thank you. (Casual)
+** どうもありがとう - Thank you very much. (Casual)
+** ありがとうございます - Thank you. (Polite)
+** どうもありがとうございます - Thank you very much. (Polite)
+* すみません - excuse me. 
+** どうもすみません - Thanks a lot. (Usually when someone goes out of their way to help)
+* どういたしまして - You are welcome.
+* いいえ - Not at all/No problem.
+
+== Getting Attention ==
+* すみません - Excuse me.
+** あのうすみません - Ah, excuse me ...
+** すみませんが - Excuse me, but ...
+* おい - Hey (Somewhat rude)
+
+== Apology ==
+* ごめん - Sorry.
+** ごめんなさい - I am really sorry. (more formal)
+** ごめんね - Sorry (soft/fem.).
+** ごめんな - Sorry (masc.).
+** ごめんよ - Sorry (masc. or Kansai dialect).
+* すみません - I'm sorry.
+
+== Farewells ==
+* しつれいします。- goodbye for use with social superiors
+* さようなら - Goodbye. (Primarily before a long absence.)
+* じゃまた　- See you later.
+* じゃ - Bye! See you soon. (Mostly used by men )
+* じゃね - Bye! See you soon.(Mostly used by women)
+* また明日　(またあした) - See you tomorrow.
+* またね　- Later.
+* また会いましょう　(またあいましょう) See you again.
+* またどうぞ　- Please come again.
+* バイバイ - Borrowed from English, Bye Bye.
+* いってきます　- I'm leaving (said when leaving the house)
+* いってらっしゃい　- Have a safe trip (response to いってきます)
+* ただいま - I'm home (said when returning home)
+* おかえりなさい - Welcome back
+** おかえり - Less formal than the above
+
+== Finding the bathroom ==
+
+* トイレ (といれ) - Toilet
+* お手洗い (おてあらい) - Restroom (variants are 御手洗い and 手洗い)
+* 便所 (べんじょ) - Lavatory
+* 化粧室 (けしょうしつ) - Powder room
+
+* すみません。トイレはどこですか。 - Excuse me. Where is the bathroom?
+* すみません。お{{furi|手洗|てあら|い}}はどちらですか。 - Excuse me.  Which way is the restroom?
+
+== Hesitation noises ==
+Hesitation noises, or vocal pauses, are the &quot;uh&quot; and &quot;um&quot; of a language, filler sounds we produce when we pause to think while speaking.    Using the correct hesitation noises can make the difference between natural sounding Japanese, and awkward foreign sounding speech.
+
+They are:
+* あのう - Usually when you are about to say something.
+* ええと - When you are just thinking.
+* まぁ　 - &quot;Well...&quot; used for considering, reconsidering, etc...
+* さぁ　 - Another thinking sound) Used for when you're not sure of the information.
+* 何だっけ (なんだっけ) - &quot;What's it called...&quot; used when trying to remember something specific.
+* そうですね - Acknowledges what was previously said.  More of a staller than a hesitation noise.  Somewhat more formal. Also used to show you care what the speaker is saying.
+
+{{BookCat}}</text>
+      <sha1>ey9osg7uc9a81gyo79d4fzqy2w5hgof</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>File:Micelle Self-assembly.png</title>
+    <ns>6</ns>
+    <id>709</id>
+    <revision>
+      <id>1686367</id>
+      <parentid>903586</parentid>
+      <timestamp>2009-12-25T21:44:27Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>moved [[File:Micelle.png]] to [[File:Micelle Self-assembly.png]]: Clashes with file at Commons.</comment>
+      <text xml:space="preserve">GFDL and CC-BY-SA, [[User:Magnus Manske/Mark Dalton images|by permission]] from the original author, Mark W. Dalton. The [http://web.ahc.umn.edu/~mwd/mwd.html original site] is currently (2007-06-18) unavailable.
+
+{{Cc-by-sa-2.5,2.0,1.0}}
+{{GFDL}}</text>
+      <sha1>g7qmjhi2e7w78s32ny6j64j7siljavk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Japanese/Introduction</title>
+    <ns>0</ns>
+    <id>710</id>
+    <revision>
+      <id>2678131</id>
+      <parentid>2676728</parentid>
+      <timestamp>2014-07-02T16:29:46Z</timestamp>
+      <contributor>
+        <ip>216.82.182.34</ip>
+      </contributor>
+      <comment>Hyperlinked Anguar to its wikipedia page</comment>
+      <text xml:space="preserve">{{wikipedia|Japanese language}}
+Japanese is spoken by 130 million people. This makes it the [[w:List of languages by total speakers|ninth most spoken language]] by native speakers. Linguists debate over the classification of the Japanese language, and one general theory asserts that Japanese is an isolated language and thus a language family of its own, known as  Japonic languages. Another major theory includes Japanese as part of a hypothetical Altaic language family which spans most of Central Asia and would also include Turkic, Mongolic, Tungusic, and Korean languages. Neither of these theories has yet been generally accepted.
+
+Japan is the only country where Japanese is the sole official language (though the island of  [[w:Angaur|Angaur]] has Japanese as one of three official languages). There are, however, numerous speakers in other countries. These are largely due to emigration, most notably to the United States of America (California and Hawaii, in particular), Brazil and the Philippines. Furthermore, when Japan occupied and colonized much of East Asia, Southeast Asia, and the Pacific, the locals were educated in the Japanese language. Many elderly locals in Korea, Taiwan, and parts of China still speak Japanese.
+
+Japan has steadily developed for many centuries and, unlike many other cultures, has not been seriously affected by any major invasions until recent times. A substantial part of the vocabulary, though, has been borrowed over the years from Chinese, Portuguese, Dutch, German, French, and most recently English.
+
+== Grammar ==
+{{wikipedia|Japanese grammar}}
+{{Further|Japanese/Grammar|l1=Grammar}}
+While Japanese grammar is very regular, it is markedly different from English. Japanese has been deemed a subject&amp;ndash;object&amp;ndash;verb (SOV) and topic-prominent language, whereas English is a subject&amp;ndash;verb&amp;ndash;object (SVO) and subject-prominent language.
+
+To illustrate, the English sentence “Cats eat mice” contains a subject (cats), a verb (eat), and an object (mice), in an SVO order, where the “-s” is a ''plural marker'', and “mouse” &amp;rarr; “mice” is a plural marker by [[w:Apophony|ablaut]], but only the word order indicates which is the subject and the object&amp;mdash;i.e. which is dining and which is the meal.
+
+{| class=&quot;wikitable&quot;
+| {{furi|猫|ねこ|}}
+| は
+| {{furi|鼠|ねずみ|}}
+| を
+| {{furi|食|く|う}}
+|-
+| Neko
+| wa
+| nezumi
+| o
+| kū
+|-
+| Cat
+|
+| mouse
+|
+| eat
+|}
+
+The topic-prominence is not obvious in this example; “cat” is the subject (the agent) in English, but it is the topic (what the sentence is ''about'') in Japanese. In the above example, “{{furi|猫|ねこ|}}は” is the topic, and “{{furi|鼠|ねずみ|}}を{{furi|食|く|う}}” is the comment.
+
+The verb “kū” means “eat” in the sense of one animal consuming another. To speak about a person eating, it would make more sense to use the word “taberu” which means “eat,” as in to consume a meal.&lt;ref&gt;[http://japanese.stackexchange.com/questions/3016/what-is-the-difference-between-「食う」-and- 「食べる」]&lt;/ref&gt;
+
+Japanese does not have articles (the words, “a” or “an”, or “the”), nor is it mandatory to indicate number (singular versus plural.) In the sentence above, “{{furi|猫|ねこ|}}” could mean either “cat” or “cats.” The “mouse/mice” ablaut does not occur in Japanese, which is an agglutinative language (inflecting by appending) and highly regular. In Japanese, the plural is formed by adding the ending “-tachi,” or “-ra.” Thus, the word, “cats” would be “nekotachi,” and is always plural, but the word “neko” can be either singular or plural. “Nekora,” however, would sound rather strange, as “-ra” and “-tachi” are not necessarily interchangeable. For the beginner, therefore, it is best not to worry about learning plural endings.
+
+For the English speaking student of Japanese grammar, the greatest hurdles to cross are probably the thought process of the Japanese sentence and learning the seemingly endless variety of endings available for modifying verbs and the order in which they can be strung together. 
+
+The grammatical paradigm of SVO or SOV is completely irrelevant in the study of Japanese and other languages outside the Indo-European family of languages. In truth, it is not only unimportant, it is untrue, and will cause the student of the language to fail in acquiring fluency, because it is an artificial imposition of an Indo-European construct on a non-Indo-European language. Japanese, like [[w:Tagalog|Tagalog]] and many other languages, uses affixes to explicitly demonstrate grammatical relationships instead of using syntax. In Japanese, word order will not change the meaning of the sentence. However, it will change the emotional character. An SVO word order is not incorrect in Japanese, and native speakers use it frequently, as a matter of fact to heighten the emotional charge. Thus, “あれは何だ” is a simple question: “What is that?” But “何だあれは” should receive an exclamation point at the end because the word order indicates that the speaker is clearly upset or at least annoyed by whatever “that” is.
+
+Japanese sentences thus are not SOV. They are TV: T stands for topic and V for verb. Verbs are really the secret to success in acquiring fluency in Japanese. Thus, greatest attention should be given to learning the verb forms.
+
+There are two tenses of time: past and present. The present tense is used to describe future events. All past tense verbs have the ending “-た” (“-ta”) or “-だ” (“-da.”) The present tense always ends in the vowel “-u” in the positive and “-nai” in the negative. There is only one exception: the word, “だ” (“da”), which is the present tense of “be” (“am,” “are,” “is.”) As in probably all languages, this verb is highly irregular in Japanese and its usage must simply be memorized. For the English speaker the two time tenses should be quite easy to remember because in English the past tense is usually indicated by a final “-t” or “-d,” and the present tense of the basic positive present tense verb “do” ends in the “u” sound. The “-nai” ending sounds similar to “nay” in English. In conversational Japanese, a complete sentence will end in a present tense or past tense verb. As indicated earlier, there are many other possible endings, but they are not used in the final position to complete a sentence, nor are they used at the end of the active verb.
+
+Beyond the verb, there are words that indicate the function of words and phrases as they relate to the verb. The most important of these are “は” (“wa”), “が” (“ga”), “に” (“ni”), “の” (“no”), “を” (“o”), and “で” (“de.”) “は” marks what is being discussed. “が” follows the word that is the agent of the verb. This means who is doing something is the active tense, and who is receiving the action of a passive verb. In both cases, they mark “the who.” “に” indicates the direction toward and is usually translated as “in,” “to,” “at.” “の” indicates possession or source and usually is translated as “-’s” or “of.” “を” is only appropriate with active transitive verbs because it marks the direct object. Finally, “で” at the end of a place word indicates where a verb happened. It is usually translated “at,” “on,” or “in.” Added to the end of word that represents an object, it marks the instrument of the verb, what was used to perform the verb. It is translated, “with.” 
+
+猫は、ピッちゃんが家に帰ってきて、台所で犬のえさを食った. “Cats-wa, Pitchan-ga house-ni came-and, kitchen-de dog-no chow-o ate.” (The “て” verb ending indicates incompletion.) “Speaking of cats, Pitchan came home and ate the dog’s food in the kitchen.”
+
+Thus, every word or phrase in a Japanese sentence takes an ending that explicitly denotes the function of that word or phrase and how it relates to the verb.
+
+== Levels of politeness ==
+{{Wikipedia|Keigo}}
+{{further|Japanese/Grammar/Politeness|l1=Politeness}}
+Japanese culture and society is based on a hierarchy of higher status (目上 ''meue'') and lower status (目下 ''meshita''). As such, there are three varying levels of politeness. Because Japanese is primarily a &quot;vertical&quot; society, all relationships contain an element of relative station. For example, a student is a lower station than a teacher, and therefore a student would use polite language when speaking to a teacher, but the teacher would use plain language when speaking to a student. A salesperson talking to a customer would place himself far below the customer, and would therefore use honorific language, whereas the customer would use either plain or polite language.
+
+Honorific language is not a separate category from plain and polite language, but a separate concept that uses different rules. When using honorific language, a Japanese speaker modifies nouns, verbs, and adjectives to either lower himself and his associates, or exalt someone else and that individual's associates. Whereas the use of plain or polite language is determined by the relative station of the person ''to'' whom you are speaking, the use of honorific language is determined by the relative station of the person ''about'' whom you are speaking. Exalted language is applied when you are speaking about someone who is due respect, such as a professor, an executive, a political official, or a customer. Exalted language is only applied to other people, never to oneself. Humble language, however, is ''only'' applied to oneself and people associated with oneself. It would be inappropriate, for example, to use humble language to describe a beggar, even though he would be extremely low on the social ladder.
+
+== The Japanese writing system ==
+{{wikipedia|Japanese writing system}}
+{{further|Japanese/Japanese writing system|l1=Japanese writing system}}
+Japanese is written mostly using three writing scripts, ''kanji'', ''hiragana'' and ''katakana''. Kanji are Chinese characters that were first introduced to Japan in the 4th century. Unlike Chinese, Japanese is a highly inflected language with words changing their ending depending on case, number, etc. For this reason, the hiragana and katakana syllabaries were created. The hiragana serve largely to show the inflection of words, as conjunctions and such. The katakana are mainly used for loan-words from other languages.
+
+=== Kanji ===
+{{further|Japanese/Kanji|l1=Kanji}}
+The Japanese writing system is derived from the Chinese ideographic character set (Japanese: 漢字 ''kanji'', Mandarin: 汉字 ''hanzi''). They are usually very similar to Traditional Chinese characters. Though kanji are Chinese in origin their use is dictated by Japanese grammar. Each character may be read in different ways depending on the context it is in. 
+
+The number of existing Chinese characters has been variously estimated at between 40,000 and 80,000; however, only a small subset is commonly used in modern Japanese. An educated Japanese person will generally be able to read between 2,000 and 4,000 characters. In order to be literate in the Japanese language, the student should strive to master at least the 2,136 general-use characters (常用漢字 &amp;ndash; ''[[w:Jōyō kanji|jōyō kanji]]'') established by the Ministry of Education.
+
+=== Hiragana and katakana ===
+{{further|Japanese/Kana|l1=Kana}}
+The syllabaries, known as ''kana'' ({{furi|仮名|かな}}), were developed around 900 AD by simplifying kanji to form the ''hiragana'' (ひらがな, or 平仮名) and the more angular ''katakana'' (カタカナ, or 片仮名). Hiragana can be recognized by the characteristic curved shapes, while katakana are identifiable by their sharp edges and straight lines. The creation of one of the scripts has been attributed to Kūkai (774-835, alias Kōbō Daishi) the famous monk who introduced Shingon Buddhism to Japan.
+
+Hiragana and katakana are almost completely phonetic&amp;mdash;much more so than the English alphabet. Each set, however, is referred to as a ''syllabary'' rather than an alphabet because each character represents an entire syllable with only a single consonant (which is a more recent addition) (see [[../Pronunciation/]] for more). The syllabary charts in Japanese are referred to as the ''gojūon'' ({{furi|五十音|ごじゅうおん}}), meaning &quot;fifty sounds&quot; because they are written in a five by ten chart. However, there are a few gaps in the table where certain sounds have fallen out of use. Modern Japanese can be written using 46 kana.
+
+In practical use, hiragana is used to write, for example, [[w:Inflection|inflectional]] endings for adjectives and verbs (送り仮名 ''okurigana''), grammatical particles (助詞 ''joshi'') and auxiliaries (助動詞 ''jodōshi''), Japanese words that have no kanji (or not commonly known kanji), and annotations to kanji to indicate pronunciation (振り仮名 ''furigana''). Katakana is used to write, for example, foreign words and names, [[w:Onomatopoeia|onomatopoeia]], emphasized words (somewhat like italicized words in English text), and technical and scientific words, such as plant, animal, and mineral names.
+
+[[Japanese/Contents|Contents]]
+
+== References ==
+{{reflist}}
+
+[[Category:{{BOOKNAME}}|{{SUBPAGENAME}}]]</text>
+      <sha1>mv37mawwoj2394fgymbokr6u74jmw8j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CACS/Glossary/URI</title>
+    <ns>0</ns>
+    <id>711</id>
+    <revision>
+      <id>2007547</id>
+      <parentid>1508368</parentid>
+      <timestamp>2010-12-22T16:40:57Z</timestamp>
+      <contributor>
+        <username>Smallman12q</username>
+        <id>319255</id>
+      </contributor>
+      <comment>added regex for RFC2396 from http://stackoverflow.com/questions/189878/regex-to-validate-the-index-of-a-website-vs-a-specific-page by eyelidlessness cc-by-sa2.5</comment>
+      <text xml:space="preserve">'''Uniform Resource Identifier (URI)''' &lt;small&gt;''(Internet)''&lt;/small&gt; The '''URI''' is a phase that identifies any object on the internet by specifying the protocol, web address, file location, and name of the object. The URI may also contain data for delivery to the target server, such as a user id or query. A ''URL'' is one form of a URI. When accessing the Web, The URI is usually displayed in a special field in the ''toolbar'' of a ''browser''. URI originally stood for a ''Universal Resource Identifier'', and details are available from the ''Internet Engineering Task Force'' in [http://www.ietf.org/rfc/rfc1630.txt RFC1630 at IETF Web site].
+
+The following regex may be used to validate strings for the [http://www.ietf.org/rfc/rfc2396.txt RFC2396 specification]:
+&lt;source lang=&quot;reg&quot;&gt;
+/^(https?|ftp):\/\/(?#                                      protocol
+)(([a-z0-9$_\.\+!\*\'\(\),;\?&amp;=-]|%[0-9a-f]{2})+(?#         username
+)(:([a-z0-9$_\.\+!\*\'\(\),;\?&amp;=-]|%[0-9a-f]{2})+)?(?#      password
+)@)?(?#                                                     auth requires @
+)((([a-z0-9][a-z0-9-]*[a-z0-9]\.)*(?#                       domain segments AND
+)[a-z]{2}[a-z0-9-]*[a-z0-9](?#                              top level domain OR
+)|(\d|[1-9]\d|1\d{2}|2[0-4][0-9]|25[0-5]\.){3}(?#
+    )(\d|[1-9]\d|1\d{2}|2[0-4][0-9]|25[0-5])(?#             IP address
+))(:\d+)?(?#                                                port
+))(((\/+([a-z0-9$_\.\+!\*\'\(\),;:@&amp;=-]|%[0-9a-f]{2})*)*(?# path
+)(\?([a-z0-9$_\.\+!\*\'\(\),;:@&amp;=-]|%[0-9a-f]{2})*)(?#      query string
+)?)?)?(?#                                                   path and query string optional
+)(#([a-z0-9$_\.\+!\*\'\(\),;:@&amp;=-]|%[0-9a-f]{2})*)?(?#      fragment
+)$/i
+&lt;/source&gt;
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>6ycrsmjbics0r7s5h67gk4mylc8ur11</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks talk:Administrators' noticeboard/Archive 1</title>
+    <ns>5</ns>
+    <id>714</id>
+    <restrictions>move=sysop</restrictions>
+    <revision>
+      <id>996885</id>
+      <parentid>207883</parentid>
+      <timestamp>2007-10-08T14:04:23Z</timestamp>
+      <contributor>
+        <username>Darklama</username>
+        <id>7662</id>
+      </contributor>
+      <minor />
+      <comment>[[Wikibooks talk:Vandalism in progress]] moved to [[Wikibooks talk:Administrators' noticeboard/Archive 1]]: old discussion making an archive instead of merging it.</comment>
+      <text xml:space="preserve">== Origins ==
+
+Initial text adapted from [[en:Wikipedia:Vandalism in progress]]. --[[User:Maveric149|mav]] 23:50, 18 Aug 2003 (UTC)
+
+I've removed large chunks from the page. But, I think the simpler layout will benefit contributors. ''(''&lt;sub&gt;Donovan&lt;/sub&gt;|[[User:Geocachernemesis|Geocachernemesis]]|&lt;sup&gt;[[User_talk:Geocachernemesis|Interact]]&lt;/sup&gt;'')'' 01:33, 2 August 2005 (UTC)
+
+:Much clearer now. This page is beginning to feel like it should be interpreted as 'Requests for banning', analagous to 'Votes for deletion'. I'm wondering if we shouldn't perhaps adopt the more traditional format of the VfD page, where new requests are placed at the bottom with '==' headings, using the '&amp;section=new' hack, and get processed incrementally by admins. There wouldn't need to be any voting, as it ought to be obvious from a user's contribs whether they're a vandal or not. - [[User:Aya|Aya]]&amp;nbsp;&lt;sup&gt;[[User talk:Aya|T]]&amp;nbsp;[[Special:Contributions/Aya|C]]&lt;/sup&gt; 23:19, 2 August 2005 (UTC)
+
+::Feel free to rewrite it, the simpler the better. ''(''&lt;sub&gt;Donovan&lt;/sub&gt;|[[User:Geocachernemesis|Geocachernemesis]]|&lt;sup&gt;[[User_talk:Geocachernemesis|Interact]]&lt;/sup&gt;'')'' 00:20, 3 August 2005 (UTC)
+
+::: I'll leave it for now, since there are more important things to do, and no-one actually seems to use the page except you and I, especially now that we have sufficient admins in place to swiftly block vandals. - [[User:Aya|Aya]]&amp;nbsp;&lt;sup&gt;[[User talk:Aya|T]]&amp;nbsp;[[Special:Contributions/Aya|C]]&lt;/sup&gt; 19:19, 3 August 2005 (UTC)
+
+::::That's very concise and easily followed. :) ''(''&lt;sub&gt;Donovan&lt;/sub&gt;|[[User:Geocachernemesis|Geocachernemesis]]|&lt;sup&gt;[[User_talk:Geocachernemesis|Interact]]&lt;/sup&gt;'')'' 00:19, 6 August 2005 (UTC)
+
+
+== Ass Pus attacks ==
+
+There must be something more that can be done about this idiot.  Is it possible to track him down?  Certainly where I am living the last image he uploaded (the infamous goatse image) would be considered porn and potentially he could be charged with illegal distribution of pornography as a criminal charge.  Any other ideas?  Kicking him off his ISP to make life harder ''for him''?  --[[User:Robert Horning|Rob Horning]] 08:56, 5 August 2005 (UTC)
+
+: I've already spoken to the server administrators. The problem is with [[m:Privacy policy]]. If a user registers for an account, then we can't do an IP block, so he can create infinite numbers of accounts, and retain his anonymity. Perhaps if the community voted to remove this restriction? I'll check if it can be negotiated. - [[User:Aya|Aya]]&amp;nbsp;&lt;sup&gt;[[User talk:Aya|T]]&amp;nbsp;[[Special:Contributions/Aya|C]]&lt;/sup&gt; 16:17, 5 August 2005 (UTC)
+
+:: '''Update''': Under point '5' of [[m:Privacy policy#Policy on release of data derived from page logs]], it seems this information can be released, but doesn't specify a means for doing so. I'm attempting to find out the correct process for releasing this info. - [[User:Aya|Aya]]&amp;nbsp;&lt;sup&gt;[[User talk:Aya|T]]&amp;nbsp;[[Special:Contributions/Aya|C]]&lt;/sup&gt; 16:30, 5 August 2005 (UTC)
+
+::: '''Update''': After having chatted to some of the devs/sysadmin types (who must really hate me by now), it seems they all come from different IP addresses with different open proxies. Point is, there's no reasonable way to block the person (or people) who are doing it completely, without compromising the ability for newbies to use the system in a valid fashion. The best we can do is get IP addresses for users vandalising via open web proxies, and block those. See also [[m:Proxy blocking]]. - [[User:Aya|Aya]]&amp;nbsp;&lt;sup&gt;[[User talk:Aya|T]]&amp;nbsp;[[Special:Contributions/Aya|C]]&lt;/sup&gt; 19:30, 5 August 2005 (UTC)
+
+::::I am wondering if with the IP address we can do something like [http://spamcop.net SpamCop] where we will send annoying e-mails to the ISP complaining about vandalizing web pages.  It seems as though that is also by itself illegal in many juristictions, perhaps even Florida (where these servers are physically located) as this is a form of assult.  Certainly if somebody put up some of the images that this vandal has been using in a supermarket, newspaper page, or other public forum they could get arrested for public lewdness.  Even with open proxies (except for awful places like Chinanet that don't care about the rest of the world...only if it affects chinese citizens will they complain) they do have tracelogs to find the dial-up phone number or DSL connection at some point in the routing.  If it is a corporate internet, the dude would be instantly fired.  It is possible to find out exactly who is doing this, if the ISPs will only cooperate.  As the server farm is in Florida, the [http://www.ftc.gov U.S. Federal Trade Commission] may also be able to help out in terms of applying legal pressure, or sending a goatse image to a senator might just do the trick (if you can explain this is the garbage kids are seeing on supposedly &quot;kid friendly&quot; internet pages like the Wikijunior page that was attacked in the last round).  Since we would know the time and the IP address, this information can be traced to a specific individual.  Technically the data is available, and I do think there would be people that could help out and put this idiot behind bars.  If there needs to be a law written to stop an idiot like this, I am politically active enough I might be able to get some action... particularly on how shocking images like this would be to a typical legislator.  --[[User:Robert Horning|Rob Horning]] 20:14, 5 August 2005 (UTC)
+
+:::::Because this guy is an attention seeking vandal, the less attention they receive the, less active they will be. We can fix the damage caused quite easily, so I wouldn't worry about them too much. But, I agree that we should also be applying pressure to track them down too, because they are a poor example for new contributors to Wikibooks. ''(''&lt;sub&gt;Donovan&lt;/sub&gt;|[[User:Geocachernemesis|Geocachernemesis]]|&lt;sup&gt;[[User_talk:Geocachernemesis|Interact]]&lt;/sup&gt;'')'' 00:28, 6 August 2005 (UTC)
+
+
+== New procedure ==
+
+For account-based vandalism attacks (especially ass pus), if you email the details to &lt;code&gt;brion AT pobox DOT com&lt;/code&gt; then he will attempt to mass-block the IP on all Wikimedia wikis. Be sure to include:
+
+* The fact it originated on en.wikibooks.org
+* The username of the vandal
+
+[[User:Aya|Aya]]&amp;nbsp;&lt;sup&gt;[[User talk:Aya|T]]&amp;nbsp;[[Special:Contributions/Aya|C]]&lt;/sup&gt; 15:39, 8 August 2005 (UTC)</text>
+      <sha1>jgpos8ik64fea37i3gacjo51ss64br8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Copyright</title>
+    <ns>4</ns>
+    <id>717</id>
+    <redirect title="Wikibooks:Copyrights" />
+    <revision>
+      <id>152856</id>
+      <timestamp>2003-08-19T00:06:04Z</timestamp>
+      <contributor>
+        <username>Maveric149</username>
+        <id>7</id>
+      </contributor>
+      <comment>#REDIRECT [[Wikibooks:Copyrights]]</comment>
+      <text xml:space="preserve">#REDIRECT [[Wikibooks:Copyrights]]</text>
+      <sha1>0myfg6en5xvz1hh281pqv9qxheo1ovn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Mailing list</title>
+    <ns>4</ns>
+    <id>718</id>
+    <redirect title="Wikibooks:Contact us" />
+    <revision>
+      <id>1045697</id>
+      <parentid>152857</parentid>
+      <timestamp>2007-12-05T23:22:43Z</timestamp>
+      <contributor>
+        <username>Mike.lifeguard</username>
+        <id>55262</id>
+      </contributor>
+      <minor />
+      <comment>Redirecting to [[Wikibooks:Contact us#Mailing Lists]]</comment>
+      <text xml:space="preserve">#REDIRECT [[Wikibooks:Contact us#Mailing Lists]]</text>
+      <sha1>3l6ch1uvt60mwd7sygl8xxl5vstvtv0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Policy</title>
+    <ns>4</ns>
+    <id>721</id>
+    <redirect title="Wikibooks:Policies and guidelines" />
+    <revision>
+      <id>152859</id>
+      <timestamp>2003-08-19T00:11:07Z</timestamp>
+      <contributor>
+        <username>Maveric149</username>
+        <id>7</id>
+      </contributor>
+      <comment>#REDIRECT [[Wikibooks:Policies and guidelines]]</comment>
+      <text xml:space="preserve">#REDIRECT [[Wikibooks:Policies and guidelines]]</text>
+      <sha1>3qxvtine3y8ce43b9z7cgvueoekzeca</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Japanese/Grammar/Verbs</title>
+    <ns>0</ns>
+    <id>722</id>
+    <revision>
+      <id>2688073</id>
+      <parentid>2671528</parentid>
+      <timestamp>2014-08-03T11:50:19Z</timestamp>
+      <contributor>
+        <username>Sky6t</username>
+        <id>464357</id>
+      </contributor>
+      <minor />
+      <comment>/* Ichidan class */</comment>
+      <text xml:space="preserve">{{Japanese todo|
+* Verify
+* Expand on verb inflections
+* Link to current verb inflections
+}}
+&lt;div style=&quot;float:right&quot;&gt;__TOC__&lt;/div&gt;
+Japanese verbs, (動詞; &lt;span title=&quot;dōshi&quot;&gt;どうし&lt;/span&gt;), inflect heavily to indicate ''formality'', ''tense'' or ''mood'', primarily in their ending. There are two tenses, several levels of formality and three classes of verbs, depending on their inflection. The two tenses are perfective (often considered past tense) and present (or technically, non-past, as the future tense is not indicated). Out of the several levels of formality, two are the most common: plain and polite.
+
+Japanese verbs are officially categorised into five classes,&lt;ref&gt;
+These are
+* {{furi|五段|ごだん}}
+* {{furi|上一段|かみいちだん}} (the single-row conjugation verbs ending in iru)
+* {{furi|下一段|しもいちだん}} (the single-row conjugation verbs ending in eru)
+* カ{{furi|行|ぎょう}}{{furi|変格|へんかく}} (only {{furi|来|く|る}}
+* サ{{furi|行|ぎょう}}{{furi|変格|へんかく}} (only する)
+&lt;/ref&gt; but as two of these inflect much the same and another two only contain one verb each, these are usually merged into three when Japanese is taught as a foreign language. These are the ''consonant stem''-, ''vowel stem''- and ''irregular'' classes.&lt;ref&gt;These go by various names in English. The the consonant stem class is also called ''godan'' class or ''five-row'' class while the vowel stem class is also called ''ichidan'' class or ''one-row'' class. The irregular verbs are not known as such in Japanese, but {{furi|変格|へんかく}}, literally: different case, indicating that it's different from normal, but not irregular in itself.&lt;/ref&gt;
+
+Dictionaries use the plain present positive form (commonly known as ''dictionary form'') as the headword for verbs.
+
+Verbs are classed based on their conjugations. Their endings don't determine the class, but are a general indicator. 
+{| class=&quot;wikitable&quot;
+! Form !! Endings
+|-
+| '''vowel-stem verbs''' (''ichidan'')&lt;ref&gt;{{furi|一段動詞|いちだんどうし}}, also known as a type II verb.&lt;/ref&gt;
+| All of these end with &lt;span title=&quot;(i)ru&quot;&gt;(い)る&lt;/span&gt; or &lt;span title=&quot;(e)ru&quot;&gt;(え)る&lt;/span&gt;, but some with that ending are consonant stem verbs.
+|-
+| '''consonant-stem verbs''' (''godan'')&lt;ref&gt;{{furi|五段動詞|ごだんどうし}}, also known as a type I verb.&lt;/ref&gt;
+| End in &lt;span title=&quot;u&quot;&gt;う&lt;/span&gt;, &lt;span title=&quot;ku&quot;&gt;く&lt;/span&gt;, &lt;span title=&quot;gu&quot;&gt;ぐ&lt;/span&gt;, &lt;span title=&quot;su&quot;&gt;す&lt;/span&gt;, &lt;span title=&quot;tsu&quot;&gt;つ&lt;/span&gt;, &lt;span title=&quot;nu&quot;&gt;ぬ&lt;/span&gt;, &lt;span title=&quot;bu&quot;&gt;ぶ&lt;/span&gt;, &lt;span title=&quot;mu&quot;&gt;む&lt;/span&gt; or &lt;span title=&quot;ru&quot;&gt;る&lt;/span&gt;.
+|-
+| ''irregular verbs'' 
+| Only two verbs: &lt;span title=&quot;suru&quot;&gt;する&lt;/span&gt; (''e.'' to do) and &lt;span title=&quot;kuru&quot;&gt;{{furi|来|く|る}}&lt;/span&gt; (''e.'' to come).
+|}
+
+Different inflections can also have suffixes. These may also be verbs with their own conjugations.  Not all suffixes can be used on all verb inflections and others may only follow the verb stem.  Examples are  [[/te form/iru/|conjunctive + いる]], &lt;span title=&quot;seru&quot;&gt;せる&lt;/span&gt;・&lt;span title=&quot;saseru&quot;&gt;させる&lt;/span&gt; (causative), and &lt;span title=&quot;rareru&quot;&gt;られる&lt;/span&gt; (potential).
+
+Ignoring the formality and the negative conjugations, the following is a list of verb conjugations
+* non-past
+* past
+* causative
+* causative-passive
+* [[/te form/|conjunctive]]
+* conditionals
+* passive
+* potential
+* imperative
+* volitional
+* provisional
+
+== Ichidan class ==
+
+Vowel-stem verbs end on a full syllable (hence the term: ''vowel''-stem). In a sense, the final &quot;&lt;span title=&quot;ru&quot;&gt;る&lt;/span&gt;&quot; of the dictionary form is dropped and the respective endings just added on.
+
+The Japanese term &quot;&lt;span title=&quot;ichidan&quot;&gt;{{furi|一|いち}}{{furi|段|だん}}&lt;/span&gt;&quot; refers to the fact that the stem ending occupies only one row in the [[Japanese/Kana Chart|kana chart]].
+
+The following table shows a few forms of the verb &quot;&lt;span title=&quot;taberu&quot;&gt;食べる&lt;/span&gt;&quot; (&lt;span title=&quot;taberu&quot;&gt;たべる&lt;/span&gt;, ''e.'' to eat):
+{| class=&quot;wikitable&quot;
+! Form !! Word
+|-
+| Plain present positive || &lt;span title=&quot;taberu&quot; lang=&quot;ja&quot;&gt;食べる&lt;/span&gt;
+|-
+| Plain past positive    || &lt;span title=&quot;tabeta&quot; lang=&quot;ja&quot;&gt;食べた&lt;/span&gt;
+|-
+| Plain present negative || &lt;span title=&quot;tabenai&quot; lang=&quot;ja&quot;&gt;食べない&lt;/span&gt;
+|-
+| Plain past negative    || &lt;span title=&quot;tabenakatta&quot; lang=&quot;ja&quot;&gt;食べなかった&lt;/span&gt;
+|-
+| Imperative  ||&lt;span title=&quot;tabeso&quot; lang=&quot;ja&quot;&gt;食べろ&lt;/span&gt; or&lt;br /&gt; &lt;span title=&quot;tabeyo&quot; lang=&quot;ja&quot;&gt;食べよ&lt;/span&gt;
+|-
+| Volitional  || &lt;span title=&quot;tabeyō&quot; lang=&quot;ja&quot;&gt;食べよう&lt;/span&gt;
+|-
+| Conjunctive || &lt;span title=&quot;tabete&quot; lang=&quot;ja&quot;&gt;食べて&lt;/span&gt;
+|-
+| Conditional || |&lt;span title=&quot;tabereba&quot; lang=&quot;ja&quot;&gt;食べれば&lt;/span&gt;
+|}
+
+== Godan class ==
+
+Consonant-stem verbs end in the middle of a syllable (hence the term; ''consonant''-verb). That syllable changes depending on the form. The plain form has an {{lang|ja|う}} ''u'' sound (''&lt;u&gt;u&lt;/u&gt;'', ''ts&lt;u&gt;u&lt;/u&gt;'', ''r&lt;u&gt;u&lt;/u&gt;'', ''k&lt;u&gt;u&lt;/u&gt;'', ''g&lt;u&gt;u&lt;/u&gt;'', ''b&lt;u&gt;u&lt;/u&gt;'', ''m&lt;u&gt;u&lt;/u&gt;'', ''s&lt;u&gt;u&lt;/u&gt;''), the {{lang|ja|～ます}} ''-masu'' form has an {{lang|ja|い}} ''i'' sound (''&lt;u&gt;i&lt;/u&gt;'', ''ch&lt;u&gt;i&lt;/u&gt;'', ''r&lt;u&gt;i&lt;/u&gt;'', ''k&lt;u&gt;i&lt;/u&gt;'', ''g&lt;u&gt;i&lt;/u&gt;'', ''b&lt;u&gt;i&lt;/u&gt;'', ''m&lt;u&gt;i&lt;/u&gt;'', ''sh&lt;u&gt;i&lt;/u&gt;''), and the negative form has an {{lang|ja|あ}} ''a'' sound (''w&lt;u&gt;a&lt;/u&gt;'', ''t&lt;u&gt;a&lt;/u&gt;'', ''r&lt;u&gt;a&lt;/u&gt;'', ''k&lt;u&gt;a&lt;/u&gt;'', ''g&lt;u&gt;a&lt;/u&gt;'', ''b&lt;u&gt;a&lt;/u&gt;'', ''m&lt;u&gt;a&lt;/u&gt;'', ''s&lt;u&gt;a&lt;/u&gt;''). The potential form has an {{lang|ja|え}} ''e'' sound (''&lt;u&gt;e&lt;/u&gt;'', ''t&lt;u&gt;e&lt;/u&gt;'', ''r&lt;u&gt;e&lt;/u&gt;'', ''k&lt;u&gt;e&lt;/u&gt;'', ''g&lt;u&gt;e&lt;/u&gt;'', ''b&lt;u&gt;e&lt;/u&gt;'', ''m&lt;u&gt;e&lt;/u&gt;'', ''s&lt;u&gt;e&lt;/u&gt;'') and the volitional form has an {{lang|ja|おう}} ''ō'' sound (''&lt;u&gt;ō&lt;/u&gt;'', ''t&lt;u&gt;ō&lt;/u&gt;'', ''r&lt;u&gt;ō&lt;/u&gt;'', ''k&lt;u&gt;ō&lt;/u&gt;'', ''g&lt;u&gt;ō&lt;/u&gt;'', ''b&lt;u&gt;ō&lt;/u&gt;'', ''m&lt;u&gt;ō&lt;/u&gt;'', ''s&lt;u&gt;ō&lt;/u&gt;''), so putting these together with the sounds above shows that verb conjugations follow the vowel syllabary of the Japanese character set:　あ ''a'', い ''i'', う ''u'', え ''e'' and お ''o''.
+
+The Japanese term &quot;{{furi|五|ご}}{{furi|段|だん}}&quot; comes from the fact that the stem's last syllable spans all five rows of the [[Japanese/Kana Chart|kana chart]] in at least one form.
+
+The following table shows a few forms of the consonant-stem verb &quot;話す&quot; (はなす ''e.'' to speak).
+{| class=&quot;wikitable&quot;
+! Form !! Word !! Row !! Syllable Morph !! Conjugation Suffix
+|-
+| Plain present positive || 話す        || う || || 
+|-
+| Plain past positive    || 話した      || い || す -&gt; し || た/った/いた/んだ
+|-
+| Plain present negative || 話さない    || あ || す -&gt; さ || ない
+|-
+| Plain past negative    || 話さなかった || あ || す -&gt; さ || なかった 
+|-
+|Imperative&lt;ref&gt;The plain imperative as seen above is quite rude, and its use is generally limited to close male friends or colleagues if the intent is not to insult.&lt;/ref&gt;
+| 話せ || え || す -&gt; せ ||
+|-
+| Volitional&lt;ref&gt;The volitional indicates a presumption or suggestion on the speaker's part to do something, and in addition to being used in a few verb phrase constructions, a verb in volitional form corresponds to &quot;let's {verb}&quot;&lt;/ref&gt;
+| 話そう || お || す -&gt; そ || う
+|-
+| Conjunctive || 話して || い || す -&gt; し || て/って/いて/んで
+|-
+| Conditional || 話せば || え || す -&gt; せ || ば
+|}
+
+The て-form (conjunctive) and past positive form of a consonant-stem verb change the root for euphony according to the last syllable of the root (example in parentheses):
+{| class=&quot;wikitable&quot;
+! stem || て-form || past
+| rowspan=10 |
+! style=&quot;background: #e5e7bF;&quot; | example || style=&quot;background: #e5e7bF;&quot; | て-form || style=&quot;background: #e5e7bF;&quot; | past || style=&quot;background: #e5e7bF;&quot; | reading (meaning)
+|-
+| 〜う  || って || った || 買う || 買って || 買った || かう (to buy)
+|-
+| 〜く  || いて || いた || 書く || 書いて || 書いた ||  かく (to write)
+|-
+| 〜ぐ  || いで || いだ || 泳ぐ || 泳いで || 泳いだ || およぐ (to swim)
+|-
+| 〜す  || して || した || 話す || 話して || 話した || はなす (to speak, to talk)
+|-
+| 〜つ  || って || った || 勝つ || 勝って || 勝った || かつ (to win)
+|-
+| 〜ぶ  || んで || んだ || 学ぶ || 学んで || 学んだ || まなぶ (to study)
+|-
+| 〜ぬ  || んで || んだ || 死ぬ || 死んで || 死んだ || しぬ (to die)
+|-
+| 〜む  || んで || んだ || 佇む || 佇んで || 佇んだ || ただずむ (to stand still)
+|-
+| 〜る  || って || った || 去る || 去って || 去った || さる (to leave)
+|}
+
+行く (いく) (to go) has an exceptional て-form 行って (いって).
+
+If the verb stem ends on &quot;う&quot; such as in the verb 買う(かう, ''e.'' to buy) then its negative stem becomes -わ as in 買わない (&quot;to not buy&quot;). This is because the root is treated as '''kawu''' (despite the &quot;wu&quot; syllable not existing in modern Japanese).
+
+== Irregular verbs ==
+
+Two common verbs do not share a conjugation pattern with any other verb. They are therefore commonly classed as &quot;irregular&quot; verbs. Formally, they are called &quot;変格&quot; (へんかく) verbs, as opposed to the regular &quot;正格&quot; (せいかく) verbs. These are &quot;する&quot; (''e.'' to do) and &quot;{{furi|来|く|る}}&quot; (''e.'' to come). The following table shows some of their conjugation forms.
+
+{| class=&quot;wikitable&quot;
+! Form || する || 来る
+|-
+| Plain present positive || する || くる
+|-
+| Plain past positive    || した || きた
+|-
+| Plain present negative || しない || こない
+|-
+| Plain past negative    || しなかった || こなかった
+|-
+| Imperative  || せよ or しろ || こい
+|-
+| Volitional  || しよう || こよう
+|-
+| Conjunctive || して   || きて
+|-
+| Conditional || すれば || くれば
+|}
+
+Many verbs end on &quot;〜する&quot; and can be grouped in three categories:
+* ''Verbalised nouns''. These are nouns which form verbs by appending &quot;〜する&quot;. Examples: {{furi|勉強|べんきょう|する}}, {{furi|注意|ちゅうい|する}}, &quot;{{furi|過労死|かろうし|する}}, {{furi|長生|ながい|きする}} and {{furi|値|あたい|する}}.
+* Verbs that cannot stand alone without the &quot;する&quot; suffix. Examples: {{furi|発|はっ|する}}, {{furi|接|せっ|する}} and {{furi|達|たっ|する}}.
+* Verbs that cannot stand alone, end on an &quot;ん&quot; and therefore take the ''voiced'' &quot;ずる&quot;. Examples: {{furi|存|ぞん|ずる}}, {{furi|感|かん|ずる}}, {{furi|先|さき|んずる}} and {{furi|重|おも|んずる}}. These verbs are commonly inflected the same as the ''ichidan'' forms, with &quot;ずる&quot; being replaced by &quot;じる&quot; thus: {{furi|存|ぞん|じる}}, {{furi|感|かん|じる}}, {{furi|先|さき|んじる}} and {{furi|重|おも|んじる}}.
+
+The only commonly-used combination with &quot;来る&quot; is &quot;やってくる&quot;, meaning &quot;to come&quot;.&lt;ref&gt;&quot;やる&quot; is a common prefix with flexible meaning that implies action.&lt;/ref&gt;
+
+== Polite forms ==
+
+The polite (or formal) forms are simple as all of the consonant-stem verbs sit in the い-line (行く→行き) and the inflections are the same for consonant- and vowel-stem verbs.
+
+The following table shows the polite forms for &quot;行く&quot; (いく, ''e.'' to go):
+{| class=&quot;wikitable&quot;
+! Form !! Word
+|-
+| Polite present positive || 行きます
+|-
+| Polite past positive    || 行きました
+|-
+| Polite present negative || 行きません
+|-
+| Polite past negative    || 行きませんでした
+|-
+| Polite volitional  || 行きましょう
+|-
+| Polite conjunctive || 行きまして&lt;ref name=&quot;historical&quot;&gt;The polite conjunctive and -conditional are rarely used. The plain forms are usually used in their place.&lt;/ref&gt;
+|-
+| Polite conditional || 行きますれば&lt;ref name=&quot;historical&quot; /&gt;
+|}
+
+The imperative (〜ませ) is not used in formal forms except for a few polite verbs (see below).
+
+== Other irregularities ==
+
+A small number of verbs tend to be conjugated differently from the groups that they are normally placed in.
+
+=== Polite language ===
+
+The verbs below are all consonant stem verbs but conjugate differently. While the regular forms also exist, they are seldom used.
+
+{| class=&quot;wikitable&quot;
+! Verb !! polite present positive !! Imperative
+|-
+| くださる     || くださいます    || ください
+|-
+| なさる      || なさいます      || なさい
+|-
+| いらっしゃる || いらっしゃいます || いらっしゃい
+|-
+| おっしゃる   || おっしゃいます   || おっしゃい
+|}
+
+The conjunctive and past forms of the first two verbs, &quot;くださる&quot; and &quot;なさる&quot;, also have the alternative forms &quot;くだすって／くだすった&quot; and &quot;なすって／なすった&quot;, in addition to the normal regular conjugations &quot;くださって／くださった&quot; and &quot;なさって／なさった&quot;. These alternative forms have, however, fallen into disuse. While they are often encountered when reading texts from a few decades ago, the regular conjugations are usually used today.
+
+The first three of the above verbs are also the only ones where the imperative form &quot;ませ&quot; of the auxiliary verb, &quot;ます&quot;, is used to add an extra level of politeness:
+{{Japanese example|
+: くださいませ, なさいませ, いらっしゃいませ}}
+
+Additionally, ございます, which originally came from the now-defunct ''yodan'' (四段, ''e.'' four-row) classical Japanese verb &quot;ござる&quot;, is also used, although in modern usage, it is always used with the ます auxiliary verb ending. There is no imperative form (i.e. you cannot use ませ like above).
+
+=== 得る ===
+得る (うる/える, ''e.'' to get, or to be able to) is the only surviving ''nidan'' (二段, ''e.'' two-row) class verb in modern Japanese. It has conjugations as in the below table:
+{| class=&quot;wikitable&quot;
+! Form !! Word !! Reading
+|-
+|Non-past || 得る || うる／える
+|-
+|Past || 得た || えた
+|-
+|Negative non-past || 得ない || えない
+|-
+|Negative past || 得なかった || えなかった
+|-
+|Imperative || 得ろ || えろ
+|-
+|Volitional || 得よう || えよう
+|-
+|Conjunctive || 得て || えて
+|-
+|Conditional || 得れば || うれば
+|}
+
+&quot;得る&quot; can be read both as &quot;える&quot; in its ''terminal form'' (at the end of the sentence, or in situations such as attaching to べき). The &quot;うる&quot; reading is also used in those situations and in the ''attributive form'' (e.g. when attached to nouns). It is therefore incorrect to say &quot;えるもの&quot; as the correct form would be &quot;うるもの&quot;. The combination &quot;あり得る&quot; is normally read &quot;ありうる&quot; in the present forms. All other conjugations follow the table above.
+
+=== Miscellaneous irregularities ===
+
+The vowel stem verb &quot;呉れる&quot; (くれる ''e.'' ) imperative form &quot;くれ&quot; (rather than the expected &quot;くれろ&quot;). Other &quot;くれる&quot; verbs of other unrelated meanings conjugate to the usual &quot;くれろ&quot;.
+
+The consonant stem verb &quot;ある&quot; expresses existence, but absence is expressed with the adjective &quot;ない&quot;. Note that many textbooks also treat &quot;ない&quot; as a verb. The reader may also wish to be aware that more formal &quot;ぬ&quot; negative form and its conjunctive form, &quot;ず&quot;, are still used: &quot;あらぬ&quot;/&quot;あらず&quot;.
+
+
+=== Summary of verb conjugations ===
+{| border=&quot;0&quot;
+|-
+| style=&quot;vertical-align:top;&quot; |
+{| class=&quot;wikitable&quot;  style=&quot;margin:1em auto 1em auto;&quot;
+! 辞書形&lt;br /&gt;''dictionary form''
+! ます形&lt;br /&gt;''polite form''{{ref|SummaryTable1a|a}}
+! 否定形&lt;br /&gt;''negative form''{{ref|SummaryTable1b|b}}
+! て形&lt;br /&gt;''&quot;te&quot; form''
+! た形&lt;br /&gt;''perfective form''
+
+|- 
+! ～う ''-u''{{ref|SummaryTable1c|c}}
+| ～います ''-imasu''
+| ～わない ''-wanai''
+| rowspan=&quot;3&quot; align=&quot;center&quot; | ～って ''-tte''
+| rowspan=&quot;3&quot; align=&quot;center&quot; | ～った ''-tta''
+
+|- 
+! ～つ ''-tsu''
+| ～ちます ''-chimasu''
+| ～たない ''-tanai''
+
+|- 
+! ～る ''-ru''
+| ～ります ''-rimasu''
+| ～らない ''-ranai''
+
+|- 
+! ～く ''-ku''{{ref|SummaryTable1d|d}}
+| ～きます ''-kimasu''
+| ～かない ''-kanai''
+| align=&quot;center&quot; | ～いて ''-ite''
+| align=&quot;center&quot; | ～いた ''-ita''
+
+|- 
+! ～ぐ ''-gu''
+| ～ぎます ''-gimasu''
+| ～がない ''-ganai''
+| align=&quot;center&quot; | ～いで ''-ide''
+| align=&quot;center&quot; | ～いだ ''-ida''
+
+|- 
+! ～ぶ ''-bu''
+| ～びます ''-bimasu''
+| ～ばない ''-banai''
+| rowspan=&quot;2&quot; align=&quot;center&quot; | ～んで ''-nde''
+| rowspan=&quot;2&quot; align=&quot;center&quot; | ～んだ ''-nda''
+
+|- 
+! ～む ''-mu''
+| ～みます ''-mimasu''
+| ～まない ''-manai''
+
+|- 
+! ～す ''-su''
+| ～します ''-shimasu''
+| ～さない ''-sanai''
+| align=&quot;center&quot; | ～して ''-shite''
+| align=&quot;center&quot; | ～した ''-shita''
+
+|- 
+! (～い)る ''-iru''{{ref|SummaryTable1e|e|name=iru}}
+| rowspan=&quot;2&quot; | ～ます ''-masu''
+| rowspan=&quot;2&quot; | ～ない ''-nai''
+| rowspan=&quot;2&quot; align=&quot;center&quot; | ～て ''-te''
+| rowspan=&quot;2&quot; align=&quot;center&quot; | ～た ''-ta''
+
+|- 
+! (～え)る ''-eru''{{ref|SummaryTable1e|e|name=eru}}
+
+|- 
+! する ''suru''
+| します ''shimasu''
+| しない ''shinai''
+| align=&quot;center&quot; | して ''shite''
+| align=&quot;center&quot; | した ''shita''
+
+|- 
+! くる ''kuru''
+| きます ''kimasu''
+| こない ''konai''
+| align=&quot;center&quot; | きて ''kite''
+| align=&quot;center&quot; | きた ''kita''
+
+|}
+*{{note|SummaryTable1a|a|Since the polite ～ます ''-masu'' form ends with ～す ''-su'', the polite past form mostly follows the ～す ''-su'' rules. So for example the polite form of 話す ''hanasu'' is 話します ''hanashimasu'', and the polite past form is 話しました ''hanashimashita'', but the polite negative form is 話しません ''hanashimasen''. See other examples of the polite form at the [[wikipedia:Japanese_grammar#The_copula_.28.E3.81.A0_da.29|Japanese grammar]] Wikipedia entry.}}
+*{{note|SummaryTable1b|b|Since the negative ～ない ''-nai'' form ends with ～い ''-i'', any further inflection of the negative form will behave as an [[wikipedia:Japanese_equivalents_of_adjectives#i-adjectives|''i''-adjective]]. For example, 話さない ''hanasanai'' &quot;not talking&quot; becomes 話さなかった（です） ''hanasanakatta(desu)'' &quot;didn't talk&quot;.}}
+*{{note|SummaryTable1c|c}}Two exceptions are {{lang|ja|問う}} ''tou'' &quot;to question&quot; which conjugates to {{lang|ja|問うて}} ''toute'' and the even less common {{lang|ja|請う}} ''kou'' &quot;to request&quot; which conjugates to {{lang|ja|請うて}} ''koute''.
+*{{note|SummaryTable1d|d}}The only exception is {{lang|ja|行く}} ''iku'' which conjugates to {{lang|ja|いって}} ''itte''.
+*{{note|SummaryTable1e|e}}Not all verbs ending with {{lang|ja|いる}} ''iru'' or {{lang|ja|える}} ''eru'' are vowel stems, some are consonant stems instead like 走る ''hash&lt;u&gt;iru&lt;/u&gt;'' &quot;run&quot; and 帰る ''ka&lt;u&gt;eru&lt;/u&gt;'' &quot;return&quot;. A full list of the many exceptions can be found at the [[wikipedia:Japanese_consonant_and_vowel_verbs#List_of_consonant_stem_verbs_ending_in_iru|Japanese consonant and vowel verbs]] Wikipedia entry.
+
+| style=&quot;vertical-align:top;&quot; |
+{| class=&quot;wikitable collapsible&quot;
+! 辞書形&lt;br /&gt;''dictionary form''
+! 可能形{{ref|SummaryTable2a|a}}&lt;br /&gt;''potential form''
+! 条件形{{ref|SummaryTable2b|b}}&lt;br /&gt;''conditional form''
+! 意向形{{ref|SummaryTable2c|c}}&lt;br /&gt;''volitional form''
+
+|-
+! ～う ''-u''
+| ～える ''-eru''
+| ～えば ''-eba''
+| ～おう ''-ō''
+
+|-
+! ～つ ''-tsu''
+| ～てる ''-teru''
+| ～てば ''-teba''
+| ～とう ''-tō''
+
+|-
+! ～る ''-ru''
+| ～れる ''-reru''{{ref|SummaryTable2d|d}}
+| ～れば ''-reba''
+| ～ろう ''-rō''
+
+|-
+! ～く ''-ku''
+| ～ける ''-keru''
+| ～けば ''-keba''
+| ～こう ''-kō''
+
+|-
+! ～ぐ ''-gu''
+| ～げる ''-geru''
+| ～げば ''-geba''
+| ～ごう ''-gō''
+
+|-
+! ～ぶ ''-bu''
+| ～べる ''-beru''
+| ～べば ''-beba''
+| ～ぼう ''-bō''
+
+|-
+! ～む ''-mu''
+| ～める ''-meru''
+| ～めば ''-meba''
+| ～もう ''-mō''
+
+|-
+! ～す ''-su''
+| ～せる ''-seru''
+| ～せば ''-seba''
+| ～そう ''-sō''
+
+|-
+! (～い)る ''-iru''
+| rowspan=&quot;2&quot; | ～られる ''-rareru''
+| rowspan=&quot;2&quot; | ～れば ''-reba''
+| rowspan=&quot;2&quot; | ～よう ''-yō''
+
+|-
+! (～え)る ''-eru''
+
+|-
+! する ''suru''
+| できる ''dekiru''
+| すれば ''sureba''
+| しよう ''shiyō''
+
+|-
+! くる ''kuru''
+| こられる ''korareru''
+| くれば ''kureba''
+| こよう ''koyō''
+
+|}
+*{{note|SummaryTable2a|a|All of the potential forms end in える ''eru'' or いる ''iru'' so they follow the vowel-stem (一段動詞 ''ichidandoushi'') rules. 話せる ''hanaseru'' becomes 話せます ''hanasemasu''.}}
+*{{note|SummaryTable2b|b|Conditional form is like saying &quot;if ...&quot; or &quot;when ...&quot;. &lt;!--i adj ～ければ, na adj ～であれば（・なら）--&gt;}}
+*{{note|SummaryTable2c|c|Also called the conjectural/tentative/presumptive form, it is the plain form of ～ましょう ''-mashō''. ～ましょう ''-mashō'' is used as an inclusive command (&quot;let's ...&quot;), but becomes an inclusive query (&quot;shall we ...?&quot;) when ''ka'' is added (食べましょうか ''tabe mashō ka'' &quot;Shall we eat?&quot;). ''-ō to omoimasu'' indicates the speaker's conjecture (&quot;I think (I will)&quot;) and ''-ō to omotte imasu'' indicates the speaker's current intentions (&quot;I'm thinking (I will)&quot;). &lt;!--''-u tsumori desu'' &quot;intend to (do) ...&quot; is very similar to ''-ō to omotte imasu'' but conveys a firm determination.--&gt; ''-ō to suru/-ō to shite iru/-ō to shite imasu'' indicates intention (&quot;(be) about to&quot;).&lt;ref name=&quot;Lampkin2010&quot;&gt;{{cite book|author=Rita Lampkin|title=Japanese Verbs &amp; Essentials of Grammar, Third Edition|url=http://books.google.com/books?id=x_RVQgAACAAJ|date=14 May 2010|publisher=McGraw-Hill Education|isbn=978-0-07-171363-4|pages=14–40}}&lt;/ref&gt;}}
+*{{note|SummaryTable2d|d}}The exception is 分かる ''wakaru'' &quot;to understand&quot; which already expresses ability innately without a conjugation.
+
+|-
+
+| style=&quot;width:56%; vertical-align:top;&quot; |
+{| class=&quot;wikitable collapsible  selected&quot;
+! Example&lt;br /&gt;dictionary word
+! Example&lt;br /&gt;polite form
+! Example&lt;br /&gt;negative form
+! Example&lt;br /&gt;present form
+! Example&lt;br /&gt;perfective form
+
+|- 
+| align=&quot;right&quot; | あら'''う''' ''ara'''u''''' &lt;small&gt;&quot;wash&quot;&lt;/small&gt;
+| align=&quot;right&quot; | あら'''います''' ''ara'''imasu'''''
+| align=&quot;right&quot; | あら'''わない''' ''ara'''wanai'''''
+| align=&quot;right&quot; | あら'''って''' ''ara'''tte'''''
+| align=&quot;right&quot; | あら'''った''' ''ara'''tta'''''
+
+|- 
+| align=&quot;right&quot; | ま'''つ''' ''ma'''tsu''''' &lt;small&gt;&quot;wait&quot;&lt;/small&gt;
+| align=&quot;right&quot; | ま'''ちます''' ''ma'''chimasu'''''
+| align=&quot;right&quot; | ま'''たない''' ''ma'''tanai'''''
+| align=&quot;right&quot; | ま'''って''' ''ma'''tte'''''
+| align=&quot;right&quot; | ま'''った''' ''ma'''tta'''''
+
+|- 
+| align=&quot;right&quot; | と'''る''' ''to'''ru''''' &lt;small&gt;&quot;take&quot;&lt;/small&gt;
+| align=&quot;right&quot; | と'''ります''' ''to'''rimasu'''''
+| align=&quot;right&quot; | と'''らない''' ''to'''ranai'''''
+| align=&quot;right&quot; | と'''って''' ''to'''tte'''''
+| align=&quot;right&quot; | と'''った''' ''to'''tta'''''
+
+|- 
+| align=&quot;right&quot; | か'''く''' ''ka'''ku''''' &lt;small&gt;&quot;write&quot;&lt;/small&gt;
+| align=&quot;right&quot; | か'''きます''' ''ka'''kimasu'''''
+| align=&quot;right&quot; | か'''かない''' ''ka'''kanai'''''
+| align=&quot;right&quot; | か'''いて''' ''ka'''ite'''''
+| align=&quot;right&quot; | か'''いた''' ''ka'''ita'''''
+
+|- 
+| align=&quot;right&quot; | いそ'''ぐ''' ''iso'''gu''''' &lt;small&gt;&quot;hurry&quot;&lt;/small&gt;
+| align=&quot;right&quot; | いそ'''ぎます''' ''iso'''gimasu'''''
+| align=&quot;right&quot; | いそ'''がない''' ''iso'''ganai'''''
+| align=&quot;right&quot; | いそ'''いで''' ''iso'''ide'''''
+| align=&quot;right&quot; | いそ'''いだ''' ''iso'''ida'''''
+
+|- 
+| align=&quot;right&quot; | し'''ぬ''' ''shi'''nu'''''{{ref|ExampleTable1a|a|name=shinu}} &lt;small&gt;&quot;die&quot;&lt;/small&gt;
+| align=&quot;right&quot; | し'''にます''' ''shi'''nimasu'''''
+| align=&quot;right&quot; | し'''なない''' ''shi'''nanai'''''
+| align=&quot;right&quot; | し'''んで''' ''shi'''nde'''''
+| align=&quot;right&quot; | し'''んだ''' ''shi'''nda'''''
+
+|- 
+| align=&quot;right&quot; | よ'''ぶ''' ''yo'''bu''''' &lt;small&gt;&quot;call out&quot;&lt;/small&gt;
+| align=&quot;right&quot; | よ'''びます''' ''yo'''bimasu'''''
+| align=&quot;right&quot; | よ'''ばない''' ''yo'''banai'''''
+| align=&quot;right&quot; | よ'''んで''' ''yo'''nde'''''
+| align=&quot;right&quot; | よ'''んだ''' ''yo'''nda'''''
+
+|- 
+| align=&quot;right&quot; | の'''む''' ''no'''mu''''' &lt;small&gt;&quot;drink&quot;&lt;/small&gt;
+| align=&quot;right&quot; | の'''みます''' ''no'''mimasu'''''
+| align=&quot;right&quot; | の'''まない''' ''no'''manai'''''
+| align=&quot;right&quot; | の'''んで''' ''no'''nde'''''
+| align=&quot;right&quot; | の'''んだ''' ''no'''nda'''''
+
+|- 
+| align=&quot;right&quot; | はな'''す''' ''hana'''su''''' &lt;small&gt;&quot;speak&quot;&lt;/small&gt;
+| align=&quot;right&quot; | はな'''します''' ''hana'''shimasu'''''
+| align=&quot;right&quot; | はな'''さない''' ''hana'''sanai'''''
+| align=&quot;right&quot; | はな'''して''' ''hana'''shite'''''
+| align=&quot;right&quot; | はな'''した''' ''hana'''shita'''''
+
+|- 
+| align=&quot;right&quot; | み'''る''' ''mi'''ru''''' &lt;small&gt;&quot;see&quot;&lt;/small&gt;
+| align=&quot;right&quot; | み'''ます''' ''mi'''masu'''''
+| align=&quot;right&quot; | み'''ない''' ''mi'''nai'''''
+| align=&quot;right&quot; | み'''て''' ''mi'''te'''''
+| align=&quot;right&quot; | み'''た''' ''mi'''ta'''''
+
+|- 
+| align=&quot;right&quot; | たべ'''る''' ''tabe'''ru''''' &lt;small&gt;&quot;eat&quot;&lt;/small&gt;
+| align=&quot;right&quot; | たべ'''ます''' ''tabe'''masu'''''
+| align=&quot;right&quot; | たべ'''ない''' ''tabe'''nai'''''
+| align=&quot;right&quot; | たべ'''て''' ''tabe'''te'''''
+| align=&quot;right&quot; | たべ'''た''' ''tabe'''ta'''''
+
+|- 
+| align=&quot;right&quot; | する ''suru''{{ref|ExampleTable1a|a|name=suru}} &lt;small&gt;&quot;do&quot;&lt;/small&gt;
+| align=&quot;right&quot; | します ''shimasu''
+| align=&quot;right&quot; | しない ''shinai''
+| align=&quot;right&quot; | して ''shite''
+| align=&quot;right&quot; | した ''shita''
+
+|- 
+| align=&quot;right&quot; | 勉強 ''benkyou'' &lt;small&gt;&quot;study&quot;&lt;/small&gt;
+| align=&quot;right&quot; | 勉強'''します''' ''benkyou'''shimasu'''''
+| align=&quot;right&quot; | 勉強'''しない''' ''benkyou'''shinai'''''
+| align=&quot;right&quot; | 勉強'''して''' ''benkyou'''shite'''''
+| align=&quot;right&quot; | 勉強'''した''' ''benkyou'''shita'''''
+
+|- 
+| align=&quot;right&quot; | くる ''kuru''{{ref|ExampleTable1a|a|name=kuru}} &lt;small&gt;&quot;come&quot;&lt;/small&gt;
+| align=&quot;right&quot; | きます ''kimasu''
+| align=&quot;right&quot; | こない ''konai''
+| align=&quot;right&quot; | きて ''kite''
+| align=&quot;right&quot; | きた ''kita''
+
+|}
+{{note|ExampleTable1a|a}}The only example of this form. See the Wikipedia entry on [[wikipedia:Japanese irregular verbs|Japanese irregular verbs]] for more.
+
+| style=&quot;vertical-align:top;&quot; |
+{| class=&quot;wikitable collapsible collapsed&quot;
+! 辞書形&lt;br /&gt;''dictionary form''
+! 受身･尊敬{{ref|SummaryTable3a|a|name=eru1}}&lt;br /&gt;''passive verb''
+! 使役{{ref|SummaryTable3a|a|name=eru2}}&lt;br /&gt;''causative verb''
+! 禁止形{{ref|SummaryTable3b|b}}&lt;br /&gt;''prohibitive form''
+! 命令形{{ref|SummaryTable3c|c}}&lt;br /&gt;''imperative form''
+
+|-
+! ～う ''-u''
+| ～われる ''-wareru''
+| ～わせる ''-waseru''
+| ～うな ''-u na''
+| ～え ''-e''
+
+|-
+! ～つ ''-tsu''
+| ～たれる ''-tareru''
+| ～たせる ''-taseru''
+| ～つな ''-tsu na''
+| ～て ''-te''
+
+|-
+! ～る ''-ru''
+| ～られる ''-rareru''
+| ～らせる ''-raseru''
+| ～るな ''-ru na''
+| ～れ ''-re''
+
+|-
+! ～く ''-ku''
+| ～かれる ''-kareru''
+| ～かせる ''-kaseru''
+| ～くな ''-ku na''
+| ～け ''-ke''
+
+|-
+! ～ぐ ''-gu''
+| ～がれる ''-gareru''
+| ～がせる ''-gaseru''
+| ～ぐな ''-gu na''
+| ～げ ''-ge''
+
+|-
+! ～ぶ ''-bu''
+| ～ばれる ''-bareru''
+| ～ばせる ''-baseru''
+| ～ぶな ''-bu na''
+| ～べ ''-be''
+
+|-
+! ～む ''-mu''
+| ～まれる ''-mareru''
+| ～ませる ''-maseru''
+| ～むな ''-mu na''
+| ～め ''-me''
+
+|-
+! ～す ''-su''
+| ～される ''-sareru''
+| rowspan=&quot;3&quot; | ～させる ''-saseru''
+| ～すな ''-su na''
+| ～せ ''-se''
+
+|-
+! (～い)る ''-iru''
+| rowspan=&quot;2&quot; | ～られる ''-rareru''
+| (～い)るな ''-iru na''
+| rowspan=&quot;2&quot; | ～ろ ''-ro''
+
+|-
+! (～え)る ''-eru''
+| (～え)るな ''-eru na''
+
+|-
+! する ''suru''
+| される ''sareru''
+| させる ''saseru''
+| するな ''suru na''
+| しろ ''shiro''
+
+|-
+! くる ''kuru''
+| こられる ''korareru''
+| こさせる ''kosaseru''
+| くるな ''kuru na''
+| こい ''koi''
+
+|}
+*{{note|SummaryTable3a|a|All of these verbs end in える ''eru'' so conjugation from here follows the vowel-stem (一段動詞 ''ichidandoushi'') rules. る ''ru'' can simply be replaced with ます ''masu'' to make it polite.}}
+*{{note|SummaryTable3b|b|Used to command someone not to do something. An example is 入るな ''hairu na'' &quot;Do not enter.&quot;}}
+*{{note|SummaryTable3c|c|The imperative form can be used as a command, e.g. 黙れ ''damare'' &quot;shut up!&quot;, やめ ''yame'' &quot;stop!&quot; or 止まれ ''tomare'' &quot;Stop (sign)&quot;. Non-volitional verbs (e.g. ある ''aru'', わかる ''wakaru'', できる ''dekiru'') have no imperative form and くれる ''kureru'' &quot;to give&quot; is an exception that conjugates to くれ ''kure'' (the plain form of ～てください ''-te kudasai'' &quot;Please (do)...&quot;).&lt;br /&gt;A politer way of telling someone to do something is to use (''masu'' stem)～なさい ''-nasai'' instead (e.g. 飲みなさい ''nominasai'' &quot;Drink up.&quot;, しなさい ''shinasai'' &quot;Do (what was said).&quot;), or more informally, (''masu'' stem)～な ''-na''. Imperative form: たくさん食べな ''takusan tabena'' &quot;Eat a lot.&quot; Prohibitive form: たくさん食べるな ''takusan taberu na'' &quot;Don't pig out!&quot;}}
+
+|}
+
+See the [[Wikipedia:Japanese_adjectives#Inflection|adjective inflection]] Wikipedia page for present negative, past and past negative forms of ''i'' and ''na'' adjectives.
+
+== Notes and references ==
+&lt;references /&gt;
+
+[[fr:Japonais/Grammaire/Verbes]]</text>
+      <sha1>imh2qccjl1fg4sht7ln6qw04112mwvj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Please do not bite the newcomers</title>
+    <ns>4</ns>
+    <id>723</id>
+    <revision>
+      <id>1991723</id>
+      <parentid>1893326</parentid>
+      <timestamp>2010-12-04T23:09:39Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <comment>nav template; spacing; wording; change link from failed proposal to help namespace version</comment>
+      <text xml:space="preserve">{{guideline|WB:BITE}}
+
+Newcomers are prospective members of the Wikibooks community and therefore a valuable resource. We must treat newcomers with kindness and patience&amp;mdash;nothing scares potentially valuable contributors away faster than a hostile atmosphere. Newcomers, by definition, lack knowledge about the way we do things. We were all newcomers once, and most of us were enthusiastic, but lacked knowledge of how the project worked, and how to find that information. Many of us still consider ourselves newcomers after months (or years) of contributing.
+
+Even if you never were a typical newcomer&amp;mdash;perhaps you were just super careful to read up on everything before even making slight contributions&amp;mdash;understand that we do encourage contributors (yes, also newcomers) to [[WB:BOLD|be bold]] and keep in mind the value of others in the community. Pride for your successful contributions to Wikibooks is hardly cause for looking down on enthusiastic newcomers.
+
+== Correcting mistakes ==
+When newcomers make mistakes, try to correct them and politely point out some avenues for reading up on [[Wikibooks:Policies and guidelines|best common practices]]. Also consider leaving a welcome note on the newcomer's [[Help:talk page|talk page]] to let them know that they are welcome here (there are some useful ones available on [[Wikibooks:Templates/User messages]]).
+
+New contributors are often hesitant to make changes, especially major ones, such as [[WB:NPOV|NPOV]]ing and moving. Rather than being annoyed by their timidness, kindly encourage them to [[Wikibooks:Be bold|be bold in updating pages]]. Avoid hostile comments about the newcomer's ignorance. Be very careful with the wording of your edit summaries as these cannot be reworded later.
+
+When you give advice to new contributors, tone the rhetoric down even a few notches from the usual mellow discourse that dominates Wikibooks. Try to make the newcomer feel genuinely welcome, not as though they must win your approval in order to be granted membership into an exclusive club.
+
+== Stepping back and mentoring ==
+If you find these frustrating, don't correct them and just ''let it pass''. Newcomers that stick around are usually the most diligent in hunting down all their early mistakes once they get to know the project. The best way to stop that is to drive them away before they learn.
+
+Remember that writing a book is hard to do right. There are going to be a number of experiments that go way beyond even just learning how to edit. Newcomers need a ''mentor'' far more than a ''critic''.  If you see common mistakes being made, instead of complaining about recurring issues, consider write or improving [[Help:Contents|our documentation]] for future newcomers, help making it accessible and point newcomers to it.
+
+== Final thoughts ==
+Stay on the safe side by always assuming that newcomers sincerely want to contribute positively (a fair assumption since most do). Just because they do not know much about our standard editing practices doesn't mean they aren't willing to learn. Give them a chance!
+
+
+{{Wikibooks policies and guidelines}}</text>
+      <sha1>r40pmxcgiexkjok0bx1bt1n0agewdi3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks talk:Please do not bite the newcomers</title>
+    <ns>5</ns>
+    <id>724</id>
+    <revision>
+      <id>1483287</id>
+      <parentid>1483285</parentid>
+      <timestamp>2009-04-27T20:27:34Z</timestamp>
+      <contributor>
+        <username>Swift</username>
+        <id>33592</id>
+      </contributor>
+      <comment>/* Major copyedit */ new section</comment>
+      <text xml:space="preserve">Initial text adapted from [[en:Wikipedia:Please do not bite the newcomers]] --[[User:Maveric149|mav]] 00:19, 19 Aug 2003 (UTC)~
+
+== Welcome committee ==
+Do we have a wikibooks-specific
+[[Welcoming committee]]
+something like
+[[w:Wikipedia:Welcoming_committee]]
+set up at Wikibooks already?
+Is there a better place to discuss adapting the
+([[w:Wikipedia:Standard_user_greeting]])
+for Wikibooks?
+I see we already have a standardized welcome message:
+&lt;nowiki&gt;{{subst:welcome}}&lt;/nowiki&gt; and &lt;nowiki&gt;{{subst:anon}}&lt;/nowiki&gt;.
+(See {{tl|welcome}} and {{tl|anon}} for details).
+----
+(copied from [[w:Wikipedia:Welcoming_committee]])
+
+For quick welcomes, you can use {{tl|welcome}}, or your own version of that template. If you do, use &lt;nowiki&gt;{{subst:welcome}}, not just {{welcome}}.&lt;/nowiki&gt;  Remember that doing this is less personal; it's a bit like handing someone a brochure instead of talking to them. As an alternative, you can use a cut-and-paste greeting, like [[w:User:Isomorphic/newuser|this one]].  That way you can avoid retyping generic text, but you can easily add a sentence or two that personalize it for the specific user you're greeting.
+
+The greetings messages should be placed on the user's [[Wikipedia:talk page|talk page]], not their [[Wikipedia:user page|user page]], so that they will get the &quot;You have new messages&quot; box.
+
+For anonymous IPs that you would like to suggest they get a user name, you can use either {{tl|welcomeip}} (which requires your user name as a parameter) or {{tl|anon}}.
+----
+--[[User:DavidCary|DavidCary]] 03:20, 22 December 2005 (UTC)
+
+: While this is an old messege, in the interst of future readers: No, we don't. A good number of regulars welcome newcomers, though. We have the [[Wikibooks:Reading room/Assistance|assistance reading room]] and it's relatives that serve to aid newcomers as well as others with most issues. --[[User:Swift|Swift]] ([[User talk:Swift|talk]]) 20:25, 27 April 2009 (UTC)
+
+== Major copyedit ==
+
+I've just made a considerable [http://en.wikibooks.org/w/index.php?title=Wikibooks:Please_do_not_bite_the_newcomers&amp;diff=1483278&amp;oldid=1366972 edit to the contents]. I think I've preserved the spirit of the guideline, but figured I'd leave a note on this here. --[[User:Swift|Swift]] ([[User talk:Swift|talk]]) 20:27, 27 April 2009 (UTC)</text>
+      <sha1>rui6p4ux5qchq2ew9utg6yw5qjvte9p</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Wikibooks-L</title>
+    <ns>4</ns>
+    <id>725</id>
+    <redirect title="Wikibooks:Contact us" />
+    <revision>
+      <id>1045698</id>
+      <parentid>152863</parentid>
+      <timestamp>2007-12-05T23:23:00Z</timestamp>
+      <contributor>
+        <username>Mike.lifeguard</username>
+        <id>55262</id>
+      </contributor>
+      <minor />
+      <comment>Redirecting to [[Wikibooks:Contact us#Mailing Lists]]</comment>
+      <text xml:space="preserve">#REDIRECT [[Wikibooks:Contact us#Mailing Lists]]</text>
+      <sha1>3l6ch1uvt60mwd7sygl8xxl5vstvtv0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:NPOV dispute</title>
+    <ns>4</ns>
+    <id>730</id>
+    <revision>
+      <id>2365442</id>
+      <parentid>2001127</parentid>
+      <timestamp>2012-06-17T19:13:12Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>recat</comment>
+      <text xml:space="preserve">{{useful}}
+
+NPOV ('''N'''eutral '''P'''oint '''O'''f '''V'''iew) content, is one that has been written without advocating a particular viewpoint on a subjective issue. This is especially important when dealing with controversial issues. In a neutral representation, the content is constructed in such a way none of the pertinent differing points of view are prominently presented. Wikibooks content needs to be based in facts not falsehoods, opinions or judgments.
+
+&quot;Neutral point of view&quot; should not be confused with &quot;point of view espoused by an international body such as the United Nations&quot;; writing in NPOV style requires recognizing that even widely held or widely respected points of view are not necessarily all-encompassing.
+
+== Tagging non-NPOV content ==
+Modules under '''[[Wikibooks:Neutral point of view|NPOV]] dispute''' are listed in [[:Category:NPOV disputes]]. An NPOV label not only indicates that the content is perceived as biased (not conforming to a ''neutral point of view'') by one or more Wikibookians, but that consensus on the expressed views is lacking. Should consensus be reached, the content is fixed or deleted.
+
+If you find content that you think is biased, you can add {{tl|npov}} to the top of the page and leave a note with your rationale on the talk page. The label is meant to indicate that a discussion is ongoing, and hence that the module contents are disputed and volatile.
+
+== Resolving NPOV disputes ==
+Wikibooks is best served by trying to present a fair, neutral description of the facts — among which are the facts that various interpretations and points of view exist (of course, there are limits to what POVs are considered worth mentioning, which can be an area of conflict). Those criticizing content as biased, often do so on grounds that viewpoints are expressed as facts. In this case, citing sources to back these facts should solve the dispute.
+
+There may also be a disagreement over what the facts represent. It should be noted that ''factual'' statements do not equal ''neutral'' statements.  Neutrality implies presenting competing versions fairly.  Personal conviction has ''no relevance''.  If a significant number of other interested parties ''really does'' disagree with us, no matter how wrong we think they are, the discussion will be recast as a fair presentation of the dispute between the parties.
+
+Wording (including page titles), selective use of viewpoints or undue weight given to one are also versions of bias. This may be a harmless case of a book being still in progress, or limited expertise on the behalf of current contributors. Adding the missing content or making a note of it (for example in the {{tl|npov}} template) would constitute an acceptable interim solution.
+
+If content that you think is objective has been tagged with the template message, '''don't panic'''. Views differ, and Wikibooks caters to everyone. As long as the content complies with [[Wikibooks:What is Wikibooks]] and can be backed by sources, there should be a way to represent it in a way that is fair to all sides. It may be tricky and compromises are probably needed, but it should be manageable.  Keep in mind that no edit is irreversible.  All versions are in the page history. [[WB:CIVIL|Be civil]] and [[WB:AGF|assume good faith]].
+
+== See also ==
+* [[Wikibooks:Neutral point of view]] is an official policy and must be followed.
+* [[:Category:NPOV disputes]]
+* [[Wikibooks:Accuracy dispute]]
+
+[[Category:NPOV disputes| ]]</text>
+      <sha1>ij4awuoj815v2kqz5evjfr1odra4t4k</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks talk:NPOV dispute</title>
+    <ns>5</ns>
+    <id>731</id>
+    <revision>
+      <id>1663291</id>
+      <parentid>1663290</parentid>
+      <timestamp>2009-11-23T05:47:13Z</timestamp>
+      <contributor>
+        <username>Panic2k4</username>
+        <id>2865</id>
+      </contributor>
+      <minor />
+      <comment>/* Make this page a unstable version of Wikibooks:Neutral point of view */</comment>
+      <text xml:space="preserve">Initial text adapted from [[en:Wikipedia:NPOV dispute]] --[[User:Maveric149|mav]] 00:55, 19 Aug 2003 (UTC)
+
+== A way of dealing with NPOV disputes ==
+
+If there are biased points of view, each with valid points, perhaps it would be instructive to let the reader decide by presenting all points of view and allowing the reader to evaluate the merits of each case. Absorption of multiple valid points of view can be most instructive in my understanding, if each point of view is presented with rational thought, clear reasoning, and careful evidence.
+
+== Make this page a unstable version of [[Wikibooks:Neutral point of view]] ==
+I have some small simplification edits to the text, if no one objects I will attempt to further determine what has been said about the subject on project see if this text diverges from what is stated on the above source of the text and move it into a unstable branch of the [[Wikibooks:Neutral point of view]] policy (or similar action).  As it is its partial duplicating the policy (even if offers a consistent and more actual approach to the issue).  --[[User:Panic2k4|Panic]] ([[User talk:Panic2k4|talk]]) 05:45, 23 November 2009 (UTC)</text>
+      <sha1>tv6kh9fpnjyc6bxijdmcdmc66tzihou</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Accuracy dispute</title>
+    <ns>4</ns>
+    <id>732</id>
+    <restrictions>move=sysop</restrictions>
+    <revision>
+      <id>2365441</id>
+      <parentid>2001126</parentid>
+      <timestamp>2012-06-17T19:12:33Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <comment>recat</comment>
+      <text xml:space="preserve">{{useful}}
+
+If a Wikibooks [[WB:MODULE|module]] links to this page, it is because someone is concerned that the module may be significantly inaccurate. You can use the following wiki-code to add such a header:
+
+: &lt;nowiki&gt;{{disputed}}&lt;/nowiki&gt;
+
+The accuracy of an module may be a cause for concern if:
+* It contains a lot of unlikely information, without providing references.
+* It contains information which is particularly difficult to verify.
+* In, for example, a long list, some errors have been found, suggesting that the list as a whole may need further checking.
+* It has been written by a user who is known to write inaccurately on the topic.
+
+If you come across a page with an accuracy dispute, the best way to solve the problem is to [[w:peer review|peer review]] the content, and check whether it's inaccurate. Once you've checked, edit the page to remove the header, and put something like the following in your [[WB:ES|edit summary]]:
+
+: Verified module—removed accuracy dispute
+
+Don't remove accuracy disputes simply because the material ''looks'' reasonable: please take the time to properly verify it. Please also add to the module any sources you used to verify the information in it.
+
+==See also==
+* [[:Category:Accuracy disputes]]
+* [[:Category:Pages needing attention]]
+* [[Wikibooks:NPOV dispute]]
+
+[[Category:Accuracy disputes| ]]</text>
+      <sha1>9shnzos3pvqvsg91sel2qnflqbzhecc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks talk:Accuracy dispute</title>
+    <ns>5</ns>
+    <id>733</id>
+    <revision>
+      <id>695652</id>
+      <parentid>695607</parentid>
+      <timestamp>2006-12-24T07:42:11Z</timestamp>
+      <contributor>
+        <username>Darklama</username>
+        <id>7662</id>
+      </contributor>
+      <minor />
+      <comment>[[Wikibooks talk:The pisdute of accuracies]] moved to [[Wikibooks talk:Accuracy dispute]]: revert vandalism</comment>
+      <text xml:space="preserve">Initial text adapted from [[en:Wikipedia:Accuracy dispute|Wikipedia:Accuracy dispute]] --[[User:Maveric149|mav]] 00:58, 19 Aug 2003 (UTC)</text>
+      <sha1>em6lo7w5jtnsswck8cuwxcxxka5lqr4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Help:FAQ</title>
+    <ns>12</ns>
+    <id>734</id>
+    <revision>
+      <id>2715611</id>
+      <parentid>2693842</parentid>
+      <timestamp>2014-10-20T08:12:09Z</timestamp>
+      <contributor>
+        <username>Doostdar</username>
+        <id>1069119</id>
+      </contributor>
+      <text xml:space="preserve">__NOEDITSECTION__ {{Wikibooks help}} {{shortcut|WB:FAQ}}
+
+This is a collection of [[w:FAQ|frequently asked questions]]. If you can't find the answer to your question here, there are several other options.
+
+* If you are new to Wikibooks, you may want to read [[Using Wikibooks]], the [[Wikibooks:Welcome|newcomers]] page for helpful information and links to get you started, or the rest of the [[Help:Contents|help pages]].
+* If you still can't find your answer, you can visit the [[WB:HELP|reading room]] and ask your question there; other Wikibookians will do their best to give you an answer.
+* If you prefer more active help, you can visit the [[irc:wikibooks|#wikibooks]] channel on irc.freenode.net.
+* You can also [[Wikibooks:Contact us|contact us]] some other ways as well for help.
+
+== General FAQs ==
+* [[/Overview/]] - General questions about the project.
+* [[/Readers/]] - Finding, reading and using Wikibooks material.
+* [[/Contributing/]] - Why you might want to contribute, and how you can do it.
+* [[/Editing/]] - The nuts and bolts of creating and editing Wikibooks pages.
+* [[/Administration/]] - What are Administrators, what are the administration tasks.
+* [[/Problems/]] - Questions relating to present and past difficulties and criticisms.
+
+== See also ==
+* [[Help:Glossary|Glossary]]
+
+[[Category:Wikibooks FAQ| ]]
+
+[[es:Wikilibros:Preguntas frecuentes]]
+[[fr:Aide:Foire aux questions]]
+[[hu:Segítség:Gyakran ismétlődő kérdések]]
+[[hy:Օգնություն:ՀՏՀ]]
+[[ja:ヘルプ:よくある質問]]
+[[ms:Wikibooks:FAQ]]
+[[nl:Help:Veelgestelde vragen]]
+[[pt:Ajuda:Perguntas frequentes]]
+[[vi:Wikibooks:Câu thường hỏi]]
+[[fa:راهنما:سوالات رایج]]</text>
+      <sha1>m36s46fiamvgiptnztilqaxttapukiy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Help talk:FAQ</title>
+    <ns>13</ns>
+    <id>735</id>
+    <revision>
+      <id>2000521</id>
+      <parentid>676594</parentid>
+      <timestamp>2010-12-15T03:30:00Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>clean out bad topics; {{metatalk}}</comment>
+      <text xml:space="preserve">{{metatalk}}
+
+== Transclude subpages? ==
+I think we should transclude the subpage FAQs into one massive one with appropriate subsections. Having to go to 8 different FAQs is kind of stupid and forces me to choose what &quot;role&quot; I'm searching for questions in, when what I really want is just an answer, regardless of what organizational section the answer falls into. [[User:Kellen|Kellen]]&amp;nbsp;&lt;sup&gt;[[User_talk:Kellen|T]]&lt;/sup&gt; 16:28, 5 May 2006 (UTC)</text>
+      <sha1>iol2t5i9p6zwqp7y9yq74m74aqnqtsk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

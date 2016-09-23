@@ -1,0 +1,1335 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>GCSE Science/Electricity multiple choice practice question 8 answer 4</title>
+    <ns>0</ns>
+    <id>3311</id>
+    <revision>
+      <id>491297</id>
+      <parentid>381477</parentid>
+      <timestamp>2006-06-18T07:41:37Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <text xml:space="preserve">Sorry this is the wrong answer.It is quite possible to answe this question from the information given.
+
+From Ohm's Law
+
+:R=V/I
+
+But V/I is also the ''slope'' (or ''gradient'') of the line on the graph. So with a constant slope, we must have a constant resistance.
+
+[[GCSE Science/Electricity multiple choice practice question 8|Go back and try again&gt;&gt;]]
+
+[[Category:GCSE Science]]</text>
+      <sha1>7w091unegen5mxt6y7j3gn7npv1uksa</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:Sabbut</title>
+    <ns>3</ns>
+    <id>3314</id>
+    <revision>
+      <id>155251</id>
+      <parentid>25558</parentid>
+      <timestamp>2004-04-14T20:54:38Z</timestamp>
+      <contributor>
+        <username>Karl Wick</username>
+        <id>6</id>
+      </contributor>
+      <text xml:space="preserve">Hi Sabbut. Thanks for all your edits on the Spanish Wikibook. We are always very glad to have native Spanish speakers
+among us. [[User:ThomasStrohmann]]
+
+----
+Sabbut, thank you for your edits on the [[Spanish]] book. I'll work on the book more if you want to work tag team, that is work collaboratively on it. The book has a lot of potential but needs work to meet it. What do you think? --[[User:Karl Wick|Karl Wick]] 20:54, 14 Apr 2004 (UTC)</text>
+      <sha1>f1is0ga4abtjugqb8z11e56nu733374</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Soup</title>
+    <ns>102</ns>
+    <id>3315</id>
+    <revision>
+      <id>2681662</id>
+      <parentid>2619747</parentid>
+      <timestamp>2014-07-16T03:01:05Z</timestamp>
+      <contributor>
+        <username>JoeHebda</username>
+        <id>1485577</id>
+      </contributor>
+      <minor />
+      <comment>History section, updated with information about microwave &amp; slow cooker soup.</comment>
+      <text xml:space="preserve">{{cookwork}}
+{{cookdp}}
+
+Soup is a savoury liquid food that is made by combining ingredients, such as meat, vegetables and/or legumes in hot stock or water, until the flavor is extracted.
+
+Traditionally, soups are classified into two broad groups: clear soups and thick soups. The established French classifications of clear soups are bouillon and consommé. Thick soups are classified depending upon the type of thickening agent used: purées are vegetable soups thickened with starch; bisques are made from puréed shellfish thickened with cream; cream soups are thickened with béchamel sauce; and veloutés are thickened with eggs, butter and cream. Other ingredients commonly used to thicken soups and broths include rice, flour, and grain.
+
+==History==
+
+The word soup originates from &quot;sop&quot;, a dish originally consisting of a soup or thick stew which was soaked up with pieces of bread. The modern meaning of sop has been limited to just the bread intended to be dipped.
+
+Boiling was not a common cooking technique until the invention of waterproof containers (which probably came in the form of pouches made of clay or animal skin) about 5,000 years ago (possibly longer), so soups presumably were little-known before that time.
+
+With the invention of microwave ovens, it is possible to prepare soup without the long hours of traditional stove-top simmering. While microwave soups can be completed in minutes, slow cookers and crock pot soup recipes often require many hours to complete albeit with the convenience of virtually unattended cooking and low energy usage.
+
+
+[[Category:Soup recipes|Soup]]</text>
+      <sha1>s57wak9vmnxx0pxmzv34tcf1aoj4kev</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Trigonometry</title>
+    <ns>0</ns>
+    <id>3317</id>
+    <revision>
+      <id>2551215</id>
+      <parentid>2551210</parentid>
+      <timestamp>2013-08-22T15:32:45Z</timestamp>
+      <contributor>
+        <ip>160.39.84.81</ip>
+      </contributor>
+      <comment>/* Going Spherical */</comment>
+      <text xml:space="preserve">{{B3D:N2P/Hidden begin|title=For how to help with this book, click here.}}
+* Do add new material and examples and make corrections.  It all helps.
+* Decide whether new material is book 1,2 or 3.  We want book 1 to be ready to use in K12 education.  Book 3, especially the for-enthusiasts parts can progress to post-graduate level - that's fine - as long as it's still recognisably trig.
+* Have a look at [[Trigonometry/Teachers_Notes/About_This_Book|About This Book]], and even modify that, so we have a planned structure and so that it's easier for people to know where to add new content.
+
+All help is welcome. 
+
+{{Hidden end}}
+
+&lt;!--Spacer--&gt;
+
+[[Image:OpenTrigonometry.png|350px|right]]
+
+{{Wikiversity|Topic:Trigonometry}}
+{{warning|The '''structure''' of this book is still '''being developed'''. 
+
+The pages marked with a * are not currently accessed when reading the book in 'next page' order.}} 
+{{PDF version|Trigonometry}}
+{{Print version|/Print version/||Trigonometry}}
+
+{{warning| The '''PDF Version''' of the book is not always up-to-date with the latest changes, so it is recommended to read the book online.}}
+
+
+{{stages}}
+
+==Trigonometry Book 1==
+Book 1 is pre-calculus trigonometry.  We assume the student is relatively new to algebra and do algebra step by step.  
+
+Many of the pages have closely related free/YouTube [[Trigonometry/Teachers_Notes/Khan_Academy_Videos|videos at the Khan Academy]].  This is by design.  Many students find the video presentation helpful with learning mathematical material.
+
+As with all three trigonometry books, we have a &quot;[[Trigonometry/For Enthusiasts/Introductions|for Enthusiasts]]{{stage|25%}}&quot; section, which is for the student who finds the normal content and pace too slow and too easy, and yet still needs exercises and practice with Book 1 trigonometry.  
+
+* [[/Introduction/|Introduction]] {{stage|100%}}
+=== Lengths, Angles and Areas in Triangles ===
+* [[/Similar,Congruent,Isosceles, and Equilateral|Similar,Congruent,Isosceles, and Equilateral]] {{stage|100%}}
+* [[/Angles_of_a_triangle_sum_to_180_Degrees|Angles of a triangle sum to 180 Degrees]] {{stage|100%}}
+* [[/Exercise: Congruent Triangles|Exercise: Congruent Triangles]] {{stage|100%}}
+* [[/Exercise: Chasing Angles|Exercise: Chasing Angles]] {{stage|100%}}
+* [[/The Pythagorean Theorem|The Pythagorean Theorem]] {{stage|100%}}
+* [[/Proof: Pythagorean Theorem|Proof: Pythagorean Theorem]] {{stage|100%}}
+* [[/Exercise: A Puzzle Triangle|Exercise: A Puzzle Triangle]] {{stage|100%}}
+* [[Trigonometry/Conventions|Conventions]] {{stage|100%}}
+* [[/Proof: Angles sum to 180|Proof: Angles sum to 180]] {{stage|100%}}
+* [[/Areas of Triangles|Areas of Triangles]] {{stage|100%}}
+* [[/Heron's Formula|Heron's Formula]] {{stage|100%}}
+
+=== Trig Functions for Triangles ===
+* [[/Plotting (Cos t, Sin t)|Plotting (Cos t, Sin t)]] {{stage|75%}}
+* [[/Cosine and Sine|Cosine and Sine]] {{stage|75%}}
+* [[/Soh-Cah-Toa|Soh-Cah-Toa]] {{stage|100%}}
+* [[/Sine_Squared_plus_Cosine_Squared|Sine Squared plus Cosine Squared]] {{stage|100%}}
+* [[/Radians|Radians]] {{stage|100%}}
+* [[/The Unit Circle/|The Unit Circle]] {{stage|75%}}
+* [[/Law of Sines/]] {{stage|100%}}
+* [[/Law of Cosines/]] {{stage|100%}}
+* [[Trigonometry/Solving Triangles Given ASA|Solving Triangles Given ASA]] {{stage|100%}}
+* [[Trigonometry/Solving Triangles Given SAS|Solving Triangles Given SAS]] {{stage|100%}}
+* [[Trigonometry/Worked Example: Area of a Roof|Worked Example: Area of a Roof]] {{stage|25%}}
+* [[Trigonometry/Worked Example: Oil Tanker Arriving in Port|Worked Example: Oil Tanker Arriving in Port]] {{stage|25%}}
+* * [[/Angles of Elevation and Depression|Exercises: Angles of Elevation and Depression]] {{stage|50%}}
+* [[Trigonometry/The most Difficult Triangles to Solve|The most Difficult Triangles to Solve]] {{stage|75%}}
+
+===Trig Functions as Functions===
+* [[Trigonometry/Graphs_of_Sine_and_Cosine_Functions|Graphs of Sine, Cos and Tan]] {{stage|75%}}
+* [[Trigonometry/Phase and Frequency|Phase and Frequency]] {{stage|100%}}
+* [[Trigonometry/Graph of Sine Squared|Graph of Sine Squared]] {{stage|100%}}
+* [[Trigonometry/Addition Formula for Sines|Addition Formula for Sines]] {{stage|100%}}
+* [[Trigonometry/Addition Formula for Cosines|Addition Formula for Cosines]] {{stage|100%}}
+* [[Trigonometry/Double-Angle Formulas|Double Angle Formulas]] {{stage|100%}} 
+* * [[Trigonometry/Waves in and out of Phase|Waves in and out of Phase]] {{stage|25%}}
+* * [[Trigonometry/Beat Frequencies|Beat Frequencies]] {{stage|75%}}
+* * [[Trigonometry/Worked Example: Ferris Wheel Problem|Worked Example: Ferris Wheel Problem]] {{stage|100%}}
+* * [[Trigonometry/Worked Example: Simplifying Angles|Worked Example: Simplifying Angles]] {{stage|75%}}
+* * [[Trigonometry/Cosecant, Secant, Cotangent|Cosecant, Secant, Cotangent]] {{stage|100%}}
+* * [[Trigonometry/Graphs_of_Other_Trigonometric_Functions|Graphs of Cosec, Sec and Cot]] {{stage|75%}}
+* * [[Trigonometry/Inverse_Trigonometric_Functions|Inverse Trigonometric Functions]] {{stage|100%}}
+* * [[Trigonometry/Simplifying a sin(x) + b cos(x)|Simplifying a sin(x) + b cos(x)]] {{stage|75%}}
+
+=== Trigonometry References ===
+* * [[/Remembering Trig Formulae/]] {{stage|100%}}
+* * [[/Trigonometric Formula Reference/]] {{stage|100%}}
+* * [[/Trigonometric Unit Circle and Graph Reference/]] {{stage|25%}}
+* * [[/Selected Angles Reference/]] {{stage|25%}}
+* * [[/Law of Tangents/]] {{stage|100%}}
+
+=== For Enthusiasts===
+
+* * [[Trigonometry/For_Enthusiasts/Regular Polygons|Regular Polygons]] {{stage|25%}}
+* * [[Trigonometry/For Enthusiasts/What Tessellations are Possible with Regular Polygons|What Tessellations are Possible with Regular Polygons?]] {{stage|25%}}
+* * [[/Proof: Heron's Formula|Proof: Heron's Formula]] {{stage|75%}}
+* * [[/Compass Bearings|Compass Bearings]] {{stage|100%}}
+* * [[Trigonometry/For Enthusiasts/Transformation of products into sums|Transformation of products into sums]] {{stage|25%}}
+* * [[Trigonometry/For Enthusiasts/The Distance from New York to Tokyo|The Distance from New York to Tokyo]]{{stage|50%}}
+* * [[Trigonometry/For Enthusiasts/Lissajous Figures|Lissajous Figures]] {{stage|50%}}
+* * [[Trigonometry/For Enthusiasts/The CORDIC Algorithm|The CORDIC Algorithm]] {{cs}}{{stage|25%}}
+* * [[Trigonometry/For Enthusiasts/Nyquist Frequency|Nyquist Frequency]] {{cs}}{{stage|0%}}
+* * [[Trigonometry/For Enthusiasts/Pythagorean Triples|Pythagorean Triples]] {{stage|50%}}
+* * [[Trigonometry/A Brief History of Trigonometry|A Brief History of Trigonometry]] {{stage|75%}}
+
+== Teachers Notes ==
+* * [[Trigonometry/Teachers_Notes/About_This_Book#Book_1|About This Book (Book 1)]] {{stage|75%}}
+* * [[Trigonometry/Teachers_Notes/Khan_Academy_Videos|Khan Academy Videos]] {{stage|50%}}
+* * [[Trigonometry/Teachers_Notes/Common_Student_Errors#Book_1|Common Student Errors (Book 1)]] {{stage|0%}}
+
+
+
+&lt;br/&gt;
+
+
+== Trigonometry Book 2 ==
+Book 2 is also pre-calculus trigonometry.  However, the algebra moves at a brisker pace than in Book 1.  The topics are not central to understanding trigonometry as it is usually taught in schools, now that a lot of former content has been dropped.  
+
+One rule of thumb of the topics in Book 2 is the union of the set of all topics in high-school contest related to trigonometry, applications, and the topics in the classical book ''Plane and Spherical Trigonometry'' by Palmer [http://archive.org/details/planeandspherica029718mbp (link)], subtracting any thoroughly discussed topics in Book 1, and excluding any topic that requires substantial use of calculus or the concept of limit (which should be done in Book 3).
+
+The topics are useful, for example, for students interested in maths contests.  In the enthusiasts section there are topics and exercises that are useful to students who will go on to do work with computer graphics.  
+
+Book 2 trigonometry deepens the understanding of the many relationships ''between triangles and circles''.  It also shows how to tackle some harder trigonometric function identities.
+
+* [[/Book 2 Introduction|Introduction]] {{stage|0%}}
+===More Geometry===
+* * [[/Geometric Definitions of Trig Functions/]] {{stage|25%}}
+* * [[Trigonometry/Thales Theorem|Thales Theorem: Quick construction of a right angle]] {{stage|25%}}
+* * [[Trigonometry/Ellipses|Ellipses]] {{stage|0%}}
+* * [[Trigonometry/Spirals|Spirals]] {{stage|0%}}
+===More on Trigonometric Identities===
+* * De Moivre's Formula
+* * [[/Verifying Trigonometric Identities/]] {{stage|25%}}
+* * [[/Solving Trigonometric Equations/]] {{stage|25%}}
+* * [[/Sum into Product/]] (Exercises) {{stage|25%}}
+* * [[Trigonometry/The sine of 18 degrees|The sine of 18º]] {{stage|100%}}
+* * [[Trigonometry/The sine of 15 degrees|The sine of 15º]] {{stage|75%}}
+* * [[/The transcendence of sine/]] {{stage|0%}}
+* * [[Trigonometry/The summation of finite series|The summation of sined or cosined arithmetic sequence]] {{stage|100%}}
+* * [[Trigonometry/For_Enthusiasts/Less-Used Trig Identities|Other Trig Identities]] {{stage|25%}}
+
+===Going Spherical===
+* * [[Trigonometry/For Enthusiasts/Triangles on a Sphere|Triangles on a Sphere]]{{stage|75%}}
+* * Application: [[Trigonometry/For Enthusiasts/The Distance from New York to Tokyo|The Distance from New York to Tokyo]]
+* * Applications of spherical trigonometry (astronomy)
+
+===Applications===
+
+* * Related problems in practical use of trigonometry
+* * Relation between sine x, x, tangent x for small x
+* * Side opposite small angle given
+* * Length of long sides given
+* * Orthogonal projection
+* * Bipolar (biangular) coordinates
+* * [[Trigonometry/Solving triangles by half-angle formulae|Solving triangles by half-angle formulae]] {{stage|100%}}
+* * [[Trigonometry/The distance and dip of the horizon|The distance and dip of the horizon]] {{stage|100%}}
+* * [[Trigonometry/Cyclic Quadrilaterals and Ptolemy's Theorem|Cyclic Quadrilaterals and Ptolemy's Theorem]] {{stage|25%}}
+* * [[Trigonometry/Area of a quadrilateral|Area of a quadrilateral]] {{stage|25%}}
+* * Area of sector or segment
+* * Widening of pavements on curves
+* * Reflection and Refraction of a ray of light
+
+
+
+==== Circles, Points and Triangles Associated with a Triangle ====
+* * [[Trigonometry/Circles and Triangles/The Circumcircle|The Circumcircle]] {{stage|25%}}
+* * [[Trigonometry/Circles and Triangles/The Incircle|The Incircle]] {{stage|25%}}
+* * [[Trigonometry/Circles and Triangles/The Excircles|The Excircles]] {{stage|75%}}
+* * [[Trigonometry/Circles and Triangles/Other Centres of a Triangle|Other Centres of a Triangle]] {{stage|50%}}
+* * [[Trigonometry/Power of a Point|Power of a Point]] {{stage|0%}}
+* * [[Trigonometry/Circles and Triangles/Ceva's Theorem|Ceva's Theorem]] {{stage|50%}}
+* * [[Trigonometry/Circles and Triangles/Orthocentric points|Orthocentric points]] {{stage|0%}}
+* * [[Trigonometry/Circles and Triangles/The Excentral Triangle|The Excentral Triangle]] {{stage|50%}}
+* * [[Trigonometry/Circles and Triangles/The Pedal Triangle|The Pedal Triangle]] {{stage|50%}}
+* * [[Trigonometry/Circles and Triangles/The Nine-point Circle|The Nine-point Circle]] {{stage|50%}}
+* * [[Trigonometry/Circles and Triangles/Brocard's Theorem|Brocard's Theorem]] {{stage|50%}}
+* * [[Trigonometry/Circles and Triangles/The Fermat Point|The Fermat Point]] {{stage|75%}}
+* * [[/Reflections in a triangle|Reflections in a triangle]] {{stage|75%}}
+* * [[Trigonometry/Circles and Triangles/Morley's Triangle|Morley's Triangle]] {{stage|75%}}
+* * [[Trigonometry/Circles and Triangles/Viviani's theorem|Viviani's theorem]] {{stage|50%}}
+* * [[Trigonometry/Circles and Triangles/Napoleon's theorem|Napoleon's theorem]] {{stage|50%}}
+* * [[Trigonometry/Circles and Triangles/The Miquel Point|The Miquel Point]] {{stage|50%}}
+* * [[Trigonometry/Circles and Triangles/Philo's Line|Philo's Line]] {{stage|50%}}
+* * [[Trigonometry/Circles and Triangles/Menelaus' theorem|Menelaus' theorem]] {{stage|75%}}
+* * [[Trigonometry/Circles and Triangles/Area bisectors|Area bisectors]] {{stage|50%}}
+* * [[Trigonometry/Circles and Triangles/The Pivot theorem|The Pivot theorem]] {{stage|50%}}
+* * [[Trigonometry/Circles and Triangles/The Seven circles theorem|The Seven circles theorem]] {{stage|50%}}
+* * [[Trigonometry/Circles and Triangles/The Simson line|The Simson line]] {{stage|50%}}
+* * [[Trigonometry/Circles and Triangles/Thebault's theorem|Thebault's theorem]] {{stage|50%}}
+
+==== Application to Algebra====
+* * [[Trigonometry/The solution of cubic equations|The solution of cubic equations]] {{stage|75%}}
+
+==== Surveying ====
+
+==== Applications to Graphics ====
+* * [[Trigonometry/For_Enthusiasts/Delaunay_triangulation|The Delaunay Triangulation]] {{cs}}{{stage|50%}}
+
+=== Where do These Belong? ===
+''This section is for Book 2 pages where we don't yet know how they should fit in.
+
+* * [[/Some Little-known Trigonometric Functions/]] {{stage|100%}}
+
+=== for Enthusiasts===
+
+* * [[/For Enthusiasts/A Generalization of Pythagoras' Theorem|A Generalization of Pythagoras' Theorem]] {{stage|50%}}
+* * [[Trigonometry/The Eyeball Theorem|The Eyeball Theorem]] {{stage|25%}}
+* * [[Trigonometry/Casey's Theorem|Casey's Theorem]] {{stage|0%}}
+
+== Teachers Notes ==
+* * [[Trigonometry/Teachers_Notes/About_This_Book#Book_2|About This Book (Book 2)]] {{stage|75%}}
+* * [[Trigonometry/Teachers_Notes/Khan_Academy_Videos|Khan Academy Videos]] {{stage|50%}}
+* * [[Trigonometry/Teachers_Notes/Common_Student_Errors#Book_2|Common Student Errors (Book 2)]] {{stage|0%}}
+
+
+
+
+=== Scrap Heap ===
+These are pages that are on the way out.
+* [[/Trigonometric identities/]] {{stage|25%}}
+* * [[/Concepts/|Core concepts of trigonometry]] {{stage|25%}}
+* * [[/Prerequisites and Basics/]] {{stage|25%}}
+* [[/Addition and Subtraction Theorems/]] {{stage|25%}}
+* [[Trigonometry/More About Addition Formulas|More About Addition Formulas]] {{stage|25%}} - Some Content may need extracting to book 1.
+* * [[/Collection of Problems/]] {{stage|25%}}
+* * [[Trigonometry/For Enthusiasts/Degrees Minutes and Seconds|Degrees Minutes and Seconds]] {{stage|25%}}
+* * [[Trigonometry/For Enthusiasts/Doing without Sine|Doing without Sine]] {{stage|25%}}
+* * [[/Reflections in a line|Reflections in a line]] {{stage|0%}} (possibly could be worked into an intro/review on matrices - book 3 intro chapters)
+
+
+
+
+== Trigonometry Book 3 ==
+Book 3 uses and builds on calculus, complex numbers, matrices.  We assume the student is relatively fluent with algebra.  We will often combine simple steps to keep proofs/explanations short.  Book 1 is a prerequisite, but book 2 isn't.
+
+There are many computing related topics, particularly in the &quot;for Enthusiasts&quot; section.
+
+* [[/Book 3 Introduction|Introduction]] {{stage|0%}}
+
+===Calculus and complex numbers===
+* [[/Some preliminary results|Some preliminary results]] {{stage|100%}}
+* [[Trigonometry/Derivative of Sine|Derivative of Sine]] {{stage|100%}}
+* [[Trigonometry/Derivative of Cosine|Derivative of Cosine]] {{stage|100%}}
+* [[Trigonometry/Derivative of Tangent|Derivative of Tangent]] {{stage|100%}}
+* [[Trigonometry/Derivative of Inverse Functions|Derivative of Inverse Functions]] {{stage|100%}}
+* [[Trigonometry/Power Series for e to the x|Power Series for e&lt;sup&gt;''x''&lt;/sup&gt;]] {{stage|50%}}
+* [[Trigonometry/Power Series for Cosine and Sine|Power Series for Cosine and Sine]] {{stage|75%}}
+* Numeric computation of Cosine and Sine
+* [[Trigonometry/e to the i Pi|e&lt;sup&gt;''i''&amp;pi;&lt;/sup&gt;]] {{stage|75%}}
+* [[Trigonometry/Cosh, Sinh and Tanh|Cosh, Sinh and Tanh]] {{stage|75%}}
+* [[Trigonometry/Functions of complex variables|Functions of complex variables]] {{stage|50%}}
+
+===Basis Functions===
+* [[Trigonometry/A Square Wave in Sines|A Square Wave in Sines]] {{stage|0%}}
+* [[Trigonometry/The Gibbs Overshoot|The Gibbs Overshoot]] {{cs}}{{stage|0%}}
+* [[Trigonometry/The Plancherel Identity|The Plancherel Identity]] {{stage|0%}}
+
+===Beyond the Fourier Transform===
+* [[/Eigenfunctions|Eigenfunctions]] {{cs}}{{stage|0%}}
+* [[/Representation Theory|Representation Theory]] {{stage|0%}}
+* [[/The Pontryagin Dual|The Pontryagin Dual]] {{stage|0%}}
+* [[/Wavelets|Wavelets]] {{cs}}{{stage|0%}}
+
+=== Where do These Belong? ===
+''This section is for Book 3 pages where we don't yet know how they should fit in.
+* [[Trigonometry/Trig Substitutions|Trig Substitutions]] {{stage|0%}}
+* [[/Vectors in the Plane/]] {{stage|25%}}
+* [[/Vectors and Dot Products/]] {{stage|25%}}
+* [[/Trigonometric Form of the Complex Number/]] {{stage|25%}}
+* [[/Applications and Models|Simple Harmonic Oscillator]] {{stage|25%}}
+* * [[/Calculating Pi|Calculating &amp;pi;]] {{stage|25%}}
+* * [[/Some theorems using vectors|Some theorems using vectors]] {{stage|25%}}
+* * [[/Price's Theorem|Price's Theorem]] {{stage|25%}}
+
+=== for Enthusiasts===
+* * [[/For Enthusiasts/Chebyshev Polynomials|Chebyshev Polynomials]] {{cs}}{{stage|25%}}
+* * [[/For Enthusiasts/Trigonometry Done Rigorously|Trigonometry done Rigorously]] {{stage|25%}}
+* * [[/For Enthusiasts/The Fast Fourier Transform|The Fast Fourier Transform]] {{cs}}{{stage|0%}}
+* * [[/For_Enthusiasts/Erdős–Mordell_inequality|Erdős–Mordell inequality]] {{stage|25%}}
+* * [[/For_Enthusiasts/Hilbert's third Problem|Hilbert's third Problem]] {{stage|50%}}
+* * [[/For_Enthusiasts/Wavelet Compression|Wavelet Compression]] {{cs}}{{stage|0%}}
+
+== Teachers Notes ==
+* * [[Trigonometry/Teachers_Notes/About_This_Book#Book_3|About This Book (Book 3)]] {{stage|50%}}
+* * [[Trigonometry/Teachers_Notes/Common_Student_Errors#Book_3|Common Student Errors (Book 3)]] {{stage|0%}}
+
+==Authors==
+[[User:lmov|Lmov]], [[User:Alsocal|Alsocal]], [[User:Robinson0120|Robinson0120]],&lt;br/&gt;
+[[User:Evil saltine|Evil saltine]], [[User:jedwards|JEdwards]], [[User:llg|llg]], [[User:programmermatt|Programmermatt]], [[User:Douglas W. Mitchell|Douglas W. Mitchell]]
+
+Also thanks to the many contributors to mathematical articles on Wikipedia from which some of the content has been lifted.
+
+{{Subjects|K-12 mathematics|Geometry}}
+{{Alphabetical|T}}
+{{status|50%}}
+__NOTOC__
+
+[[da:Matematik A/Trigonometri]]
+[[de:Mathematik: Schulmathematik: Trigonometrie]]
+[[es:Trigonometría]]
+[[fr:CMC/3ème/Trigonométrie]]
+[[it:Trigonometria]]
+[[pt:Matemática elementar/Trigonometria]]</text>
+      <sha1>ch0pyn4r5n8y69wc2c2e1ubsxdwplnm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Trigonometry/Radians</title>
+    <ns>0</ns>
+    <id>3318</id>
+    <revision>
+      <id>2628324</id>
+      <parentid>2628319</parentid>
+      <timestamp>2014-04-09T14:28:47Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <comment>Rejected the last text change (by [[Special:Contributions/117.224.169.210|117.224.169.210]]) and restored revision 2623240 by QuiteUnusual</comment>
+      <text xml:space="preserve">__TOC__
+
+{{TrigBoxOpen}}
+&lt;b&gt;There are 360&lt;sup&gt;o&lt;/sup&gt; in&lt;br&gt;
+a complete circle&lt;/b&gt;
+{{TrigBoxClose}}
+
+
+==Units of Measure==
+
+We have been measuring angles in degrees, with 360&lt;sup&gt;o&lt;/sub&gt; in a complete circle.
+
+===Choice of Units for Length and Weight===
+In measuring many quantities we have a choice of units.  For example with distances we can use the metric system and measure in metres, kilometres, centimetres, millimetres.  It is also possible to measure distances in miles, yards, feet and inches.  With weights we can measure in kilogrammes and grammes.  We can also measure in pounds and ounces.
+
+===Choice of Units for Measuring Time===
+In measuring time we choose to have sixty seconds in a minute and sixty minutes in an hour.  We could devise a new more metric system for time and divide an hour into 100 units, each three fifths of our current minute, and then divide these shorter 'minutes' up into 100 units each of which would be about a third of a second.  
+
+===Why 60?  Why 360?===
+The choice of dividing into 60 is not entirely arbitrary.  60 can be divided evenly into 2,3,4,5 or 6 or 10 or 12 parts.  60 can't be divided evenly into 7 equal parts, each a whole number in size, but it's still pretty good.  Using 360 degrees in a full circle gives us many ways to divide the circle evenly with a whole number of degrees.  Nevertheless, we could divide the circle into other numbers of units.
+
+==Metric Degrees?==
+
+From the earlier talk of the metric system you might be anticipating that we are about to divide the circle up into 100 or 1000 'degrees'.  There ''is'' actually a unit called the 'grade' or 'Gradian' (Grad on calculators which have it) in which angles are measured by dividing a right angle up into 100 equal parts, each of one Gradian in size.  One Gradian is 0.9 of a degree - quite close to being one degree.  The grade is in turn divided into 100 minutes and one minute into 100 seconds.  This ''centesimal'' system (from the Latin ''centum'', 100) was introduced as part of the metric system after the French Revolution.  The Gradian unit is nothing like as widely used as either degrees or the units that interests us most on this page.  The unit we introduce here is called the Radian.
+
+==Choice of Units for Radians==
+
+Radians are quite large compared to degrees (and to Gradians).  There are about 6.28 Radians to a complete circle.  There are about 57.3 degrees in one Radian.
+
+{{ExerciseRobox|title=Exercise: Check the Statements}}
+Are the statements:
+* There are about 6.28 Radians to a complete circle.  
+* There are about 57.3 degrees in one Radian.
+Compatible?  It is not hard to check.  
+
+: '''Digression:''' In maths books it is well worth quickly checking statements that can be checked easily.  It helps reinforce your understanding and confirm that you are understanding what is being said.  Also, unfortunately, it isn't that unusual for maths books have tiny slips in them, where the person writing the book has written say, &lt;math&gt;\displaystyle x_i&lt;/math&gt; instead of &lt;math&gt;\displaystyle x_j&lt;/math&gt; or some other small slip.  These tend to happen where the author knows the material very well and is seeing what he expects to see rather than what is actually written.  They can be very confusing to someone new to the material.  These kinds of mistakes can also happen in wikibooks, sometimes a visitor trying to improve the content can actually introduce errors.  In wikibooks you may also see sudden changes in notation or notation that does not match a diagram, where material has been written by different people.
+
+{{Robox/Close}}
+
+
+We said &quot;there are about 6.28 Radians to a complete circle&quot;.  The exact number is &lt;math&gt;\displaystyle 2\pi&lt;/math&gt;, making the number of radians in a complete circle the same as the length of the circumference of a unit circle.
+
+Remember that: 
+
+{{TrigBoxOpen}}
+&lt;b&gt;The circumference of a circle is&lt;br&gt;
+&lt;math&gt;\displaystyle 2\pi \times R&lt;/math&gt;&lt;br&gt;
+where &lt;math&gt;\displaystyle R&lt;/math&gt; is the radius.&lt;/b&gt;
+{{TrigBoxClose}}
+
+
+
+==Justifying Choice of Units for Radians==
+
+At this stage in explaining trigonometry it is rather difficult to justify the use of these strange units.  There aren't even an exact whole number of radians in a complete circle.  In more advanced work, particularly when we use calculus they become the most natural units to use for angles with functions like &lt;math&gt;\displaystyle \cos \alpha&lt;/math&gt; and &lt;math&gt;\displaystyle \sin \alpha&lt;/math&gt;.  A flavour of that, but it is only a hint as to why it is a good unit to use, is that for very small angles. 
+
+:&lt;math&gt;\displaystyle \sin \alpha \approx \alpha&lt;/math&gt;
+
+And the approximation is better the smaller the angle is.  This ''only works if we choose Radians as our unit of measure'' and small angles.  
+
+
+{{ExampleRobox|title=Worked Example: Small angles in Radians and Degrees}}
+
+We claim that for small angles measured in radians the angle measure and the sine of the angle are very similar.
+
+Let us take one millionth of a circle.  In degrees that is 0.00036 degrees.  In Radians that is &lt;math&gt;\displaystyle \frac{2\pi}{1,000,000} \approx 0.00000628 &lt;/math&gt; Radians.  The angle of course is the same.  It's one millionth of a circle, however we choose to measure it. It is just as with weights where a weight is the same whether we measure it in kilogrammes or pounds.
+
+The sine of this angle, which is the same value whether we chose to measure the angle in degrees or in radians, it turns out, is about 0.00000628.  If your calculator is set to use degrees then &lt;math&gt;\displaystyle \sin 0.00036^\circ&lt;/math&gt; will give you this answer.
+
+{{Robox/Close}}
+
+
+==The Radian Measure==
+
+{{TrigBoxOpen}}
+&lt;b&gt;There are&lt;br&gt;
+&lt;math&gt;\displaystyle 2\pi&lt;/math&gt; Radians&lt;br&gt;
+in a complete circle.&lt;/b&gt;
+{{TrigBoxClose}}
+
+
+It is traditional to measure angles in degrees; there are 360 degrees in a full revolution.  In mathematically more advanced work we use a different unit, the [[w:radian|radian]].  This makes no fundamental difference, any more than the laws of physics change if you measure lengths in metres rather than inches.  In advanced work, '''If no unit is given on an angle measure, the angle is assumed to be in radians.'''
+
+{{TrigBoxOpen}}
+&lt;math&gt;\frac{3\pi}{2}^{c} \equiv \frac{3\pi}{2} \;\mathrm{rad.} \equiv \frac{3\pi}{2}&lt;/math&gt;
+{{TrigBoxClose}}
+
+A notation used to make it really clear that an angle is being measured in radians is to write 'radians' or just 'rad' after the angle.  Very very occasionally you might see a superscript c written above the angle in question.  
+
+===What You need to Know===
+
+For book one of trigonometry you need to know how to convert from degrees to radians and from radians to degrees.  You also need to become familiar with frequently seen angles which you know in terms of degrees, such as &lt;math&gt;\displaystyle 90^\circ&lt;/math&gt; in terms of radians as well (it's &lt;math&gt;\displaystyle \pi/2&lt;/math&gt; Radians).  Angles in Radians are nearly always written in terms of multiples of Pi.
+
+You will also need to be familiar with switching your calculator between degrees and radians mode.
+
+Everything that is said about angles in degrees, such as that the angles in a triangle add up to 180 degrees has an equivalent in Radians.  The angles in a triangle add up to &lt;math&gt;\displaystyle \pi&lt;/math&gt; Radians.
+
+====Defining a radian====
+
+A single radian is defined as the angle formed in the minor sector of a circle, where the minor arc length is the same as the radius of the circle.
+
+[[Image:Define_a_radian.png|frame|center|Defining a radian with respect to the unit circle.]]
+
+
+
+&lt;center&gt;
+&lt;math&gt;1 rad \approx 57.296^{\circ}&lt;/math&gt;
+&lt;/center&gt;
+
+====Measuring an angle in radians====
+The size of an angle, in radians, is the length of the circle arc ''s'' divided by the circle radius ''r''.   
+
+&lt;math&gt;\mbox{angle in radians} = \frac sr&lt;/math&gt;
+
+[[Image:Radians_Angle_Definition.svg|center|thumb|150px|Measuring an Angle in Radians]]
+
+We know the circumference of a circle to be equal to &lt;math&gt;2 \pi r&lt;/math&gt;, and it follows that a central angle of one full counterclockwise revolution gives an arc length (or circumference) of &lt;math&gt;s = 2 \pi r&lt;/math&gt;. Thus 2 &amp;pi; radians corresponds to 360&amp;deg;, that is, there are &lt;math&gt;2\pi&lt;/math&gt; radians in a circle.
+
+==Converting between Radians and Degrees==
+Because there are 2&amp;pi; radians in a circle:
+
+&lt;div style=&quot;margin: 0 auto 1em auto;border:2px solid blue; text-align:center;width:40%;&quot;&gt;
+
+&lt;strong&gt;To convert degrees to radians:&lt;/strong&gt;&lt;br /&gt;
+&lt;math&gt; \theta ^{c} = \theta^\circ \times \frac{\pi}{180}&lt;/math&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;margin: 0 auto 0 auto;border:2px solid blue; text-align:center;width:40%;&quot;&gt;
+
+&lt;strong&gt;To convert radians to degrees:&lt;/strong&gt;&lt;br /&gt;
+&lt;math&gt; \phi ^\circ= \phi^{c} \times \frac{180}{\pi}&lt;/math&gt;
+
+&lt;/div&gt;
+
+==Exercises==
+
+{{ExerciseRobox|title=Conversion from degrees to radians}}
+* Convert
+:* 180&amp;deg; into radian measure.
+
+
+:* 90&amp;deg; into radian measure.
+
+
+:* 45&amp;deg; into radian measure.
+
+
+:* 137&amp;deg; into radian measure.
+
+
+{{Robox/Close}}
+
+
+{{ExerciseRobox|title=Conversion from radians to degrees}}
+* Convert:
+:* &lt;math&gt;\frac{\pi}{3}&lt;/math&gt; into degree measure.
+
+
+:* &lt;math&gt;\frac{\pi}{6}&lt;/math&gt; into degree measure.
+
+
+:* &lt;math&gt;\frac{7\pi}{3}&lt;/math&gt; into degree measure.
+
+
+:* &lt;math&gt;\frac{3\pi}{4}&lt;/math&gt; into degree measure.
+
+
+{{Robox/Close}}
+
+
+{{Trig/NAV
+|previous=Sine Squared plus Cosine Squared
+|next=The Unit Circle
+}} 
+
+
+{{BookCat}}</text>
+      <sha1>avbfs1b8qjfypmdn5sfvot30ivglj3n</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Interlingua</title>
+    <ns>1</ns>
+    <id>3319</id>
+    <revision>
+      <id>2151755</id>
+      <parentid>1866547</parentid>
+      <timestamp>2011-08-01T07:53:17Z</timestamp>
+      <contributor>
+        <username>Almafeta</username>
+        <id>8908</id>
+      </contributor>
+      <comment>/* Expansion */ new section</comment>
+      <text xml:space="preserve">{{WikiProject Languages}} 
+
+Jay, es un multo bon cosa que tu ha comenciate iste pagina pro interlingua in wikibooks.org. Io spera que tote le textos litterari/religiose e non-encyclopedic, como le traductiones del Biblia e de Don Quichotte, potera esser movite a ci, a fin que ia.wikipedia.org pote retornar a esser un encyclopedia e non un repositorio de textos qualcunque.
+
+:''Le Biblia e Don Quixote deberea plus tosto esser addite a '''[http://wikisource.org Wikisource]''', que es destinate a libros original, historic, etc.'' &amp;mdash; [[User:Ensjo|Ensjo]] 11:56, 21 Jan 2004 (UTC)
+
+Io vole remarcar in ultra que le entratas pro le IED e le duo glossarios tue pare plus apte a wiktionary.org (un sito specialmente pro dictionarios, que jam include interlingua in su pagina principal) que ci.
+
+Que nos usa systematicamente ia.wikipedia.org pro articulos encyclopedic, wiktionary.org pro definitiones de dictionario, e wikibooks.org pro libros electronic.
+
+- Martijn
+
+This wikibook is really lousy. Compare to the wikibook of Lingua Franca Nova.
+
+== Expansion ==
+
+Anyone mind if I alter this wikibook's organization for expansion purposes?  [[User:Almafeta|Almafeta]] ([[User talk:Almafeta|discuss]] • [[Special:Contributions/Almafeta|contribs]]) 07:53, 1 August 2011 (UTC)</text>
+      <sha1>cmggdho9mk6721prkya75058byc11br</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Natevw</title>
+    <ns>2</ns>
+    <id>3320</id>
+    <revision>
+      <id>155256</id>
+      <parentid>9971</parentid>
+      <timestamp>2003-12-16T01:54:12Z</timestamp>
+      <contributor>
+        <username>Natevw</username>
+        <id>353</id>
+      </contributor>
+      <text xml:space="preserve">I am Nathan. My personal website is called [http://homepages.dordt.edu/~nthnlvnd/index.html natevw's website], hosted at the college I attend.
+
+One subject I wish to study further is the freedom of this gnu way of thinking.</text>
+      <sha1>qp8tr28vbx8lwcwpl5u0eul1gnu98dh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>How to Write an Essay</title>
+    <ns>0</ns>
+    <id>3324</id>
+    <revision>
+      <id>2582537</id>
+      <parentid>2582536</parentid>
+      <timestamp>2013-11-18T13:28:39Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <text xml:space="preserve">{{pp-protected|reason=of excessive spamming}} 
+==Contents==
+#[[/Basics/]]
+##[[/Parts|Research and Preparation]]
+##[[/Parts|Parts of an Essay]]
+##[[/Five Point Essay/]]
+##[[/Types of Essay/]]
+#[[/Free Response|How to write a Free Response]]
+#[[/Authors/]]
+#[[/AP/Introduction|AP essays]]
+#[[/DBQ/|Document Based Questions (DBQ)]]
+
+==Contributing==
+
+This is a wiki textbook -- feel free to edit it, update it, correct it, and otherwise increase its teaching potential.
+
+{{Subjects|Written communication}}
+{{Alphabetical|H}}
+{{status|25%}}</text>
+      <sha1>doc8mhiwqs3muv7ocot4hddn8o4bds6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>How to Write an Essay/Authors</title>
+    <ns>0</ns>
+    <id>3325</id>
+    <revision>
+      <id>1624492</id>
+      <parentid>1495528</parentid>
+      <timestamp>2009-09-04T18:20:56Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>moved [[How to write an essay/Authors]] to [[How to Write an Essay/Authors]]: Title casing.</comment>
+      <text xml:space="preserve">Original Author: [[User:Pingveno|Pingveno]]
+
+Modified by [[User:sjoplin|sjoplin]]
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>od0ei111o769ds1bn0s93fsjnus3w7u</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cell Biology/Cell division/Cell cycle</title>
+    <ns>0</ns>
+    <id>3333</id>
+    <revision>
+      <id>2693505</id>
+      <parentid>2433899</parentid>
+      <timestamp>2014-08-22T00:44:23Z</timestamp>
+      <contributor>
+        <username>DNashPhD</username>
+        <id>1768875</id>
+      </contributor>
+      <comment>Added information, hopefully breaking down genes and genome a little further</comment>
+      <text xml:space="preserve">The normal cell cycle consists of 2 major stages.  The first is interphase, during which the cell lives and grows larger.  The second is Mitotic Phase.
+Interphase is composed of three subphases.  G&lt;sub&gt;1&lt;/sub&gt; phase (first gap), S phase (synthesis), and G&lt;sub&gt;2&lt;/sub&gt; phase (second gap). The interphase is the growth of the cell.  The normal cell functions of creating proteins and organelles.
+The Mitotic Phase is composed of Mitosis and Cytokinesis. [[Cell Biology/Cell division/Mitosis|Mitosis]], when the cell divides. Mitosis can be further divided into multiple phases.  Cytokinesis, which is when the two daughter cells complete their separation.  Mitosis is the division of the nucleus and cytokinesis is the division of the cytoplasm. There is some overlap between there two sub phases.
+Reproductive cell division is called meiosis, which yields a nonidentical daughter cells that have only one set of chromosomes. In other words, they have half as many chromosomes as the parent cell. Meiosis occurs in gonads, ovaries or testes. Therefore combining two gametes together produce 46 chromosomes. 
+
+==From Wikipedia==
+The '''cell cycle''' is the cycle of a biological cell, starting from the time it is first formed from a dividing parent cell until its own division into two cells, consisting of repeated mitotic cell division and interphase (the growth phase). A cell spends the overwhelming majority of its time in the interphase(about 90% of time).
+
+==Background Information==
+DNA, deoxyribonucleic acid, consists of four nucleic acids, A, T, C, and G.  In a cell, the DNA provides the directions for creating all of the proteins necessary for cell viability, health, growth, function, and replication.  The unique DNA sequence that encodes each protein is called a gene, and the complete set of genes for an organism or cell is referred to as it's genome.  Prokaryotic genomes are often a single long DNA molecule, and Eukaryotic genomes consist of number of DNA molecules. A typical human cell has about 2 m of DNA, which is 250,000 times greater than the cell's diameter.  Before a cell divides the DNA is first copied then separated so that each daughter cell ends up with a complete genome. 
+Chromosomes are the packaged DNA molecules. Because of chromosomes, the replication and distribution of so much DNA is manageable. Every eukaryotic species has a characteristic number of chromosomes in each cell nucleus. They contain two sets of each chromosome: one set inherited from each parent. For example human somatic cells (all body cells except the reproductive cells) each contain 46 chromosomes; the reproductive cells, gametes, have half as many chromosomes as somatic cells. The number of chromosomes in somatic cells varies widely among species. Eukaryotic chromosomes are made of chromatin that is a complex of DNA and associated protein molecules. Each single chromosome contains one very long, linear DNA molecule that carries several hundred to a few thousand genes; the associated proteins maintain the structure of the chromosome and help control the gene activity. 
+When a cell is not dividing, each chromosome is a long thins chromatic fiber; however after DNA duplication chromosomes condense. Each chromatin fiber coils and folds. Each duplicated chromosome has two sister chromatids, containing an identical DNA molecule, initially attached along adhesive protein complex; such attachment is called sister chromatid cohesion. In condensed form of chromosome, a center narrow part is called centromere, a specialized region where the two chromatids are closely attached. The other part of a chromatid on either side of the centromere is referred as arm. Once the sister chromatids separate, they are considered individual chromosomes.
+
+== Overview ==
+[[File:cell_cycle.png|right|frame|Schematic of the cell cycle. I=Interphase, M=Mitosis. The duration of mitosis in relation to the other phases has been exaggerated in this diagram.]]
+
+Mitotic phase includes both mitosis and cytokinesis which is usually the shortest part of the cell cycle. 
+Interphase accounts about 90%of the cycle; during interphase the cell grows and copies its chromosomes in preparation for cell division. Interphase is divided into sub phases: G&lt;sub&gt;1&lt;/sub&gt; phase (&quot;first gap&quot;), the S phase (&quot;synthesis&quot;), and G&lt;sub&gt;2&lt;/sub&gt; phase (&quot;second gap&quot;). The chromosomes are duplicated only during the S phase. During G&lt;sub&gt;1&lt;/sub&gt; phase cell grows until S phase where the cell prepares for the cell division during G&lt;sub&gt;2&lt;/sub&gt; phase. Based from human cell, M phase only takes about 1 hour while the S phase occupy about 10-12 hours.
+
+The cell cycle consists of
+*'''G&lt;sub&gt;1&lt;/sub&gt; phase''', the first growth phase
+*'''S phase''', during which the DNA is replicated, where S stands for the Synthesis of DNA.
+*'''G&lt;sub&gt;2&lt;/sub&gt; phase''' is the second growth phase, also the preparation phase for the
+*'''M phase''' or [[Cell Biology/Cell division/Mitosis|mitosis]] and [[Cell Biology/Cell division/Mitosis#Cytokinesis|cytokinesis]], the actual [[Cell Biology/Cell division|division]] of the cell into two daughter cells
+The cell cycle stops at several checkpoints and can only proceed if certain conditions are met, for example, if the cell has reached a certain diameter. Some cells, such as neurons, never divide once they become locked in a '''G&lt;sub&gt;0&lt;/sub&gt; phase'''.
+
+==Mitosis==
+Mitosis has five stages: prophase, prometaphase, metaphase, anaphase, and telophase. 
+Mitotic spindle starts to form in the cytoplasm during prophase. it is made of microtubules and other associated proteins. while the mitotic spindle assembles, the microtubules of the cytoskeleton disassemble, providing the material used to construct the spindle. In animal cells, the assembly of spindle microtubules starts at the centrosome, the microtubule-organizing center. In plant cells, the centrioles are not present.
+During interphase in animal cells, the single centrosome replicates; the two centrosomes remain together near the nucleus and they move apart during prophase and prometaphase of mitosis as spindle microtubules grows. The two centrosomes are located at the opposite end of the cell. Then aster, a radial array of short microtubules, extends from each centrosome. Kinetochore is a structure of proteins associated with specific sections of chromosomal DNA at the centromere. Each of the two sister chromatids of a replicated chromosome contains kinetochore as it face in opposite direction. During prometaphase, kinetochore microtubules form as come of the spindle microtubules attach to the kinetochores. After the microtubuels are attached to chromosome's kinetochores, the chromosome begins to move towards the pole from which those microtubules extend. the chromosomes moves in a motion like a tug-of-war. Metaphase plate is the imaginary plane that formed during metaphase the centromeres of all the duplicated chromosomes are on the plane midway between the spindle's two poles. The other microtubules that did not attach to kinetochores overlap and interact with other nonkinetochore microtubules from the opposite pole. The nonkinetochore microtubules are responsible for elongating the whole cell during anaphase. During anaphase, the cohesins holding the sister chromatids of each chromosome are cleaved by enzymes. Then the chromatids separated, and they move towards the opposite ends of the cell. The region of overlap is reduced as motor proteins attached to the microtubules move away from one another, using ATP. As the microtubules push apart from each other, their spindle poles are pushed apart, elongating the cell. As the duplicate groups of chromosomes arrive at the opposite ends of the elongated parent cell, the telophase begins; during telophase nuclei reforms and cytokinesis begins.
+
+*'''G&lt;sub&gt;2&lt;/sub&gt; of Interphase''':During G&lt;sub&gt;2&lt;/sub&gt; phase, a nuclear envelope bounds the nucleus, and two centrosomes forms by replication of a single centrosome. In animal cells, each centrosome contains two centrioles. The chromosomes are duplicated during S phase but cannot be seen since they are not condensed yet. 
+*'''Prophase''': the chromatin fibers coils and dense into chromosomes and the nucleoli disappear. Each duplicated chromosome has tow identical sister chromatids joined at their centromeres along with their arms by cohesins, then the mitotic spindle form. The asters are the radial arrays of shorter microtubules that extend from the centrosomes. Propelled by the lengthening microtubules, the centrosomes move away from each other. 
+*'''Prometaphase''': As the nuclear envelope fragments, the microtubules extending from each centrosome invade the nuclear area. the chromosome become more condensed as each of the two chromatids of each chromosome has a kinetochore. Some of the microtubules attach to the kinetochores (&quot;kinetochore microtubules&quot; and other nonkinetochore microtubules interact with each from fromt he opposite pole of the spindle. 
+*'''Metaphase''': Metaphse is the longest stage of mitosis. The centrosomes are placed at the opposite poles of the cell. The chromosomes' centromeres lie ont he metaphse plate as the chromosome convene on the metaphase plate. Each kinetochores of the sister chromatids are attacged to kinetochore microtubules coming from opposite poles.
+*'''Anaphase''': Anaphase is the shortest stage of mitosis, and begins whent he cohesin proteins are cleaved, allowing the two sister chromatids of each pair to part suddenly. The two liberated daughter chromosomes moves towards oppostie ends of the cell as the kinetochore microtubules shorten. The cell starts to elongate and nonkinetochore microtubules lengthen. By the end of anaphase, the two ends of the cell have equivalent collections of chromosome. 
+*'''Telophse''': Two daughter nuclei form in the cell, and nuclear envelopes arise fromt he fragments of the parent cell's nuclear envelope. As nucleoli reappear, the chromosome become less condensed, and completes the division of the one nucleus into two genetically identical nuclei. 
+*'''Cytokinesis''': In animal cells, cytokinesis involves formation of cleavage furrow; in plante cell the cleavage furrow does not exist. The formation of cell wall in the middle of cell (cell plate) divides the cell into two daughter cells. 
+
+== Details of mitosis ==
+[[File:interphase_mitosis.png|frame|left|Schematic of interphase (brown) and mitosis (yellow).]]
+
+{{BookCat}}
+
+== Cytokinesis==
+The cytokinesis process begins with cleavage. Cleavage furrow, a shallow groove in the cell surface near the old metaphase plate, is the first sign of cleavage. As it process, contractile ring of actin microfilaments form on the cytoplasmic side. The actin microfilaments interact with the myosin molecules, and cause the ring to contract. As the cleavage furrow deepens, the cell is separated into two with its own nucleus. For plant cells, there is no cleavage furrow because they have the cell walls. Instead of forming cleavages, vesicles derived from the Golgi apparatus move along microtubules to the middle of the cells, and forms cell plate. As the cell plate enlarges, and surrounding membrane fuses with the plasma membrane along the perimeter of the cell and from two daughter cells.
+
+==Binary Fission==
+Binary fission is a method of asexual reproduction by &quot;division in half&quot;. In prokaryotes, binary fission does not involve mitosis, but in single celled eukaryotes that undergo binary fission. In bacteria, motst genes are carried on a single bacterial chromosome that consists of a circular DNA molecule and associated proteins. The chromosome of the bacterium Escherichia coli, is 500 times as long as the cell when it is sctreched out. At the origin of replication, DNA of the bacterial chromosome begins to replicate. As the chromosome continues to replicate, one origin moves rapidly toward the opposite end of the cell, and the cell elongates. When the replication is complete the bacterium is about twice its initial size, and its plasma membrane grows inward, dividing the parent E. coli cell into two daughter cells. Bacteria don’t have mitotic spindles; the two origins of replication end up at opposite ends of the cell or in some other very specific location. 
+
+==The Evolution of Mitosis==
+Since the prokaryotes were on Earth more than a billion years than eukaryotes that mitosis had its origins in simpler prokaryotic mechanism of the cell reproduction can be assumed. Some of the proteins involved in bacterial binary fission are related to eukaryotic proteins that function in mitosis. Possible hypothesis of evolution of mitosis is that prokaryotic cell's reproduction gave rise to mitosis. 
+
+
+==The Cell Cycle Control System==
+Based from mammalian cell grow experiment, possible hypothesis was supported: the cell cycle is driven by specific signaling molecules present in the cytoplasm. In this experiment two cells in different phase of the cell cycle were fused to form a single cell with two nuclei. One cell was in the S phase and the other was in G&lt;sub&gt;1&lt;/sub&gt;, and G&lt;sub&gt;1&lt;/sub&gt; nucleus immediately entered the S phase, as though stimulated by chemicals present in the cytoplasm of the first cell. Therefore, if a cell undergoing mitosis (M phase) was fused with another cell in any stage of its cell cycle, the second nucleus enteres mitosis. Other experiments on animal cells and yeasts demonstrates the sequential events of the cell cycle control system; the cell cycle control system operates set of molecules in the cell that both triggers and coordinates key events in the cell cycles. The cell cycle control system proceeds on its own, but it is regulated at certain checkpoints by internal and external signals. Animal cells have built-in stop signals that halt the cell cycle at checkpoints until they get go-ahead signals. The signals report whether crucial cellular processes that should have occurred by that point have in fact been completed correctly and thus whether or not the cell cycle should proceed. The three check points are in G&lt;sub&gt;1&lt;/sub&gt;, G&lt;sub&gt;2&lt;/sub&gt;, and M phase. 
+For mammalian cells, G&lt;sub&gt;1&lt;/sub&gt; check points are the most important. When a cell receives a go-ahead signal at the G&lt;sub&gt;1&lt;/sub&gt; checkpoint, the cell complete the G&lt;sub&gt;1&lt;/sub&gt;, S, G&lt;sub&gt;2&lt;/sub&gt; and M phases and divide; however when a cell does not get a go-ahead signal, it will exit the cycle and enter non dividing state, G&lt;sub&gt;0&lt;/sub&gt; phase. Most of human cells are in G&lt;sub&gt;0&lt;/sub&gt; phase, such as mature nerve cells and muscle cells. However the liver cells can re-enter the cycle by external signals such as growth factor released during injury. 
+Rhythmic fluctuations in the abundance and activity of cell cycle control molecules pase the sequential events of the cell cycle. The regulatory molecules are portins of two types: protein kinases and cyclins. Portin kinases are enzymes that activate or inactivate other proteins by phosphorylating. The protein kinases give the go-ahead signals at the G&lt;sub&gt;1&lt;/sub&gt; and G&lt;sub&gt;2&lt;/sub&gt; checkpoints. The kinases that drive the cell cycle are present at a constant concentration in the growing cell, but they are in an inactive form. In order to activate them, kinase must be attached to a cyclin, a protein that cyclically fluctuating concentration in the cell. Because of such requirement, these are called cyclin-dependent kinases or Cdks. The activity of cdks rises and falls with changes in the concentration of its cyclin partner. The cylclin level rises during the S and G&lt;sub&gt;2&lt;/sub&gt; phases and then falls rapidly during M phase. MPF, the maturation -promoting factor, or M-phase -promoting factor, activity corresponds to the peaks of cyclin concentration. MPF triggers the cell's passage past the G&lt;sub&gt;2&lt;/sub&gt; checkpoint into M phase. MPF acts both directly as a kinase and indirectly by activating other kinases.
+During anaphase, MPF hels switch itself off by initiating a process that leads to the destruction of its own cyclin. The Cdk, noncyclin part of MPF, persists in the cell in inactive form until it associates with new cyclin molecules synthesized during the S and G&lt;sub&gt;2&lt;/sub&gt; phase of the next round of the cycle.
+Density-dependent inhibition is a phenomenon in which crowded cells stop dividing. It is caused by external physical factor. Also most animal cells exhibit anchorage dependence; in order to divide, the cells must be attached to a substratum; like a cell density, anchorage is signaled to the cell cycle control system via pathways involving plasma membrane proteins and elements of cytoskeleton linked to them. The loss of cell cycle controls leads to cancer cells, which exhibit neither density-dependent inhibition nor anchorage dependence. 
+
+==Reference==
+Berg, Jeremy M., John L. Tymoczko, and Lubert Stryer. Biochemistry. 7th ed. New York: W.H. Freeman, 2012. Print.
+
+Reece, Campbell, Lisa A. Urry, Michael L. Cain, Steven A. Wasserman, Peter V. Minosky, and Robert B. Jackson. Biology. 8th ed. San Francisco: Cummings, 2010. Print.</text>
+      <sha1>rlj1tqo2d6odlkvv9fe5uijhd4kewd8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cell Biology/Cell division/Meiosis</title>
+    <ns>0</ns>
+    <id>3334</id>
+    <revision>
+      <id>2363841</id>
+      <parentid>2363713</parentid>
+      <timestamp>2012-06-14T21:28:09Z</timestamp>
+      <contributor>
+        <username>Recent Runes</username>
+        <id>66908</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/69.94.169.130|69.94.169.130]] ([[User talk:69.94.169.130|talk]]) to last version by 222.149.75.88</comment>
+      <text xml:space="preserve">'''Meiosis''' is a special type of cell division that is designed to produce gametes.  Before meiosis occurs, the cell will be double diploid and have a pair of each chromosome, the same as before mitosis.  
+
+Meiosis consists of 2 cell divisions, and results in four cells.  The first division is when genetic crossover occurs and the traits on the chromosomes are shuffled.  The cell will perform a normal prophase, then enter metaphase during which it begins the crossover, then proceed normally through anaphase and telophase.
+
+The first division produces two normal diploid cells, however the process is not complete.  The cell will prepare for another division and enter a second prophase.  During the second metaphase, the chromosome pairs are separated so that each new cell will get half the normal genes.  The cell division will continue thorough anaphase and telophase, and the nuclei will reassemble.  The result of the divisions will be 4 haploid gamete cells.
+
+==Crossover==
+Crossover is the process by which two chromosomes paired up during prophase I of meiosis exchange a distal portion of their DNA. Crossover occurs when two chromosomes, normally two homologous instances of the same chromosome, break and connect to each other's ends. If they break at the same locus, this merely results in an exchange of genes. This is the normal way in which crossover occurs. If they break at different loci, the result is a duplication of genes on one chromosome and a deletion on the other. If they break on opposite sides of the centromere, this results in one chromosome being lost during cell division. 
+
+Any pair of homologous chromosomes may be expected to cross over three or four times during meiosis. This aids evolution by increasing independent assortment, and reducing the genetic linkage between genes on the same chromosome.
+
+[[Category:Cell Biology]]</text>
+      <sha1>1v152dzjxkiltl5xmalnlfg47knhcgj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cell Biology/Cell division/Mitosis</title>
+    <ns>0</ns>
+    <id>3335</id>
+    <revision>
+      <id>2289453</id>
+      <parentid>2289452</parentid>
+      <timestamp>2012-03-19T19:54:08Z</timestamp>
+      <contributor>
+        <username>Recent Runes</username>
+        <id>66908</id>
+      </contributor>
+      <minor />
+      <comment>Protected &quot;[[Cell Biology/Cell division/Mitosis]]&quot;: Excessive vandalism/spam (‎[edit=autoconfirmed] (indefinite) ‎[move=autoconfirmed] (indefinite))</comment>
+      <text xml:space="preserve">Mitosis is the normal type of cell division.  Before the cells can divide, the chromosomes will have duplicated and the cell will have twice the normal set of genes.
+
+The first step of cell division is '''prophase''', during which the nucleus dissolves and the chromosomes begin migration to the midline of the cell.  (Some biology textbooks insert a phase called &quot;prometaphase&quot; at this point.)The second step, known as '''metaphase''', occurs when all the chromosomes are aligned in pairs along the midline of the cell.  As the cell enters '''anaphase''', the chromatids, which form the chromosomes, will separate and drift toward opposite poles of the cell.  As the separated chromatids, now termed chromosomes, reach the poles, the cell will enter '''telophase''' and nuclei will start to reform.  The process of mitosis ends after the nuclei have reformed and the cell membrane begins to separate the cell into two daughter cells, during '''cytokinesis'''.
+[[Image:Major events in mitosis.svg|right|thumb|350px|Mitosis divides genetic information during cell division.]] 
+
+The mitotic phase which includes both mitosis and cytokinesis is the shortest part of the cell cycle. The interphase cycle accounts for about 90% of the cell cycle. This phase is where the cell grows and copies its chromosomes in preparation for cell division. In the G1 phase which is also called the “first gap” the cell grows as it copies its chromosomes. In S phase, the cell starts to synthesize the DNA and completes preparation for cell division. In G2 it starts to divide.
+
+In biology, Mitosis is the process of chromosome segregation and nuclear division that follows replication of the genetic material in eukaryotic cells. This process assures that each daughter nucleus receives a complete copy of the organism's genetic material. In most eukaryotes, mitosis is accompanied with cell division or cytokinesis, but there are many exceptions, for instance among fungi. There is another process called meiosis, in which the daughter nuclei receive half the chromosomes of the parent, which is involved in gamete formation and other similar processes, which makes the parent cell still active.
+
+Mitosis is divided into several stages, with the remainder of the cell's growth cycle considered interphase. Properly speaking, a typical cell cycle involves a series of stages: G1, the first growth phase; S, where the genetic material is duplicated; G2, the second growth phase; and M, where the nucleus divides through mitosis. Mitosis is divided into prophase, prometaphase, metaphase, anaphase and telophase. 
+
+The whole procedure is very similar among most eukaryotes, with only minor variations. As prokaryotes lack a nucleus and only have a single chromosome with no centromere, they cannot be properly said to undergo mitosis.
+
+==Prophase ==
+
+[[Image:ProphaseSH.png|200px|thumb]]
+
+The genetic material (DNA), which normally exists in the form of chromatin condenses into a highly ordered structure called a chromosome. Since the genetic material has been duplicated, there are two identical copies of each chromosome in the cell. Identical chromosomes (called sister chromosomes) are attached to each other at a DNA element present on every chromosome called the centromere. When chromosomes are paired up and attached, each individual chromosome in the pair is called a chromatid, while the whole unit (confusingly) is called a chromosome. Just to be even more confusing, when the chromatids separate, they are no longer called chromatids, but are called chromosomes again. The task of mitosis is to assure that one copy of each sister chromatid - and only one copy - goes to each daughter cell after cell division. 
+
+The other important piece of hardware in mitosis is the centriole, which serves as a sort of anchor. During prophase, the two centrioles - which replicate independently of mitosis - begin recruiting microtubules (which may be thought of as cellular ropes or poles) and forming a mitotic spindle between them. By increasing the length of the spindle (growing the microtubules), the centrioles push apart to opposite ends of the cell nucleus. It should be noted that many eukaryotes, for instance plants, lack centrioles although the basic process is still similar.
+
+==Prometaphase ==
+
+[[Image:InterphaseSH.png|thumb|300px]]
+
+Some biology texts do not include this phase, considering it a part of prophase. In this phase, the nuclear membrane dissolves in some eukaryotes, reforming later once mitosis is complete. This is called open mitosis, found in most multicellular forms. Many protists undergo closed mitosis, in which the nuclear membrane persists throughout. 
+
+Now kinetochores begin to form at the centromeres. This is a complex structure that may be thought of as an 'eyelet' for the microtubule 'rope' - it is the attaching point by which chromosomes may be secured. The kinetochore is an enormously complex structure that is not yet fully understood. Two kinetochores form on each chromosome - one for each chromatid. 
+
+When the spindle grows to sufficient length, the microtubules begin searching for kinetochores to attach to.
+
+==Metaphase ==
+
+[[Image:metaphaseSH.png|thumb|300px]]
+As microtubules find and attach to kinetochores, they begin to line up in the middle of the cell. Proper segragation requires that every kinetochore be attached to a microtubule before separation begins. It is thought that unattached kinetochores control this process by generating a signal - the mitotic spindle checkpoint - that tells the cell to wait before proceeding to anaphase. There are many theories as to how this is accomplished, some of them involving the generation of tension when both microtubules are attached to the kinetochore. 
+
+When chromosomes are bivalently attached - when both kinetochores are attached to microtubules emanating from each centriole - they line up in the middle of the spindle, forming what is called the metaphase plate. This does not occur in every organism - in some cases chromosomes move back and forth between the centrioles randomly, only roughly lining up along the midline.
+
+==Anaphase== 
+
+[[Image:AnaphaseSH.png|thumb|250px]]
+
+Anaphase is the stage of meiosis or mitosis when chromosomes separate and move to opposite poles of the cell (opposite ends of the nuclear spindle). Centromeres are broken and chromatids rip apart. 
+
+When every kinetochore is attached to a microtubule and the chromosomes have lined up along the middle of the spindle, the cell proceeds to anaphase. This is divided into two phases. First, the proteins that bind the sister chromatids together are cloven, allowing them to separate. They are pulled apart by the microtubules, towards the respective centrioles to which they are attached. Next, the spindle axis elongates, driving the centrioles (and the set of chromosomes to which they are attached) apart to opposite ends of the cell. These two stages are sometimes called 'early' and 'late' anaphase. 
+
+At the end of anaphase, the cell has succeeded in separating identical copies of the genetic material into two distinct populations.
+
+==Telophase ==
+
+[[Image:TelophaseSH.png|thumb|200px]]
+
+The nonkinetochore microtubules elongate the cell and try to cut the cell in two. The nuclear envelopes start to become created by fragments of the parents cell’s nuclear envelope. Then, the chromatids start to become less tightly coiled together. By this point, cytokinesis is fully under way.
+
+==Cytokinesis==
+Cytokinesis refers to the physical division of one eukaryotic cell. Cytokinesis generally follows the replication of the cell's chromosomes, usually mitotically, but sometimes meiotically. Except for some special cases, the amount of cytoplasm in each daughter cell is the same. In animal cells, the cell membrane forms a cleavage furrow and pinches apart like a balloon. In plant cells, a cell plate forms, which becomes the new cell wall separating the daughters. Various patterns occur in other groups.
+
+
+In plant cells, cytokinesis is followed through by the usage of contracting ring of microfilaments that pull the cleavage furrow within itself, cutting the cell in two. In plant cells, vesicles from the Golgi apparatus start to form a cell plate within the center of the cell. When this cell plate solidifies and connects the two ends of the cell, a new cell wall is created and two daughter cells are produced.
+
+[[Image:cyto.png|thumb|center|800px|alt=The difference between Cytokinesis for animal and plant cells.]]
+
+==Regulation of Cell Cycle==
+
+Protein kinases are enzymes that activate or inactivate other proteins by phosphorylating them. These give out the signals for the G1 and G2 checkpoints to occur. However, to be active, the kinase must be attached to a cyclin. This is why it is called a CDK or a cyclin-dependent kinase.
+
+Internal kinetochores exhibit a wait function.  Not until all kinetochores are attached to a spindle microtubule does the cell process starts. This helps prevent some chromosomes from being left behind. Density dependent inhibition is when cells have a cue to multiply until a certain level of density is fulfilled. This means that a cell keeps multiplying until there is a full layer or until a certain level of pressure is built upon each other.
+
+One possible explanation of why cancer cells do not follow normal signals is because they have an abnormality in the signaling pathway that conveys the growth factor’s signal to the cell-cycle control system. Usually, a cell will follow normal checkpoints due to the release of CDK in the system that regulate the cell process. However, in a cancer cell, the checkpoints are random. This means that because the cell does not follow density-dependent inhibition or follow the growth signals, the cell replicates at random points.
+
+[[Category:Cell Biology]]</text>
+      <sha1>5hlwdv1g1miug89f1ly44eullvwybym</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Transwiki log/Articles moved to here</title>
+    <ns>4</ns>
+    <id>3336</id>
+    <revision>
+      <id>2394899</id>
+      <parentid>2394887</parentid>
+      <timestamp>2012-08-16T22:47:03Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/Torchiest|Torchiest]] ([[User talk:Torchiest|talk]]) to last version by Adrignola</comment>
+      <text xml:space="preserve">{{mbox|text=Please note that English Wikibooks has [[Special:Import]] enabled for many WMF projects. We can (usually) import ''all'' revisions of an article, making copy-and-paste transwikis a thing of the past. Please request imports at [[Wikibooks:Requests for Import|WB:RFI]] instead of doing a manual transwiki. If import fails, the local admin will complete an old-school transwiki.}}
+
+Use {{tlxs|twwp|WIKIPEDIAARTICLENAME}} &lt;nowiki&gt;~~~~&lt;/nowiki&gt; if the page was moved into our Transwiki: namespace (most likely).
+
+(Please record both moves here)
+
+{{Archive box|
+*[[/2003/]]
+*[[/2004/]]
+*[[/2005/]]
+*[[/2006/]]
+*[[/2007/]]
+}}
+
+== Works transwikied to English Wikibooks from another project. ==
+
+===July 2008===
+
+* [[Transwiki:PCB layout guidelines]] merged into [[Practical Electronics/PCB Layout]] --[[User:DavidCary|DavidCary]] ([[User talk:DavidCary|talk]]) 00:22, 28 July 2008 (UTC)
+
+=== September 2008 ===
+*[[Transwiki:Windows 2000/XP hard drive migration]] to be merged somewhere. ''' &amp;ndash; [[User:Mike.lifeguard|&lt;font color=&quot;Indigo&quot;&gt;Mike.lifeguard&lt;/font&gt;]]''' | &lt;sup&gt;[[User talk:Mike.lifeguard|&lt;font color=&quot;Indigo&quot;&gt;talk&lt;/font&gt;]]&lt;/sup&gt; 16:11, 8 September 2007 (UTC)
+
+=== November 2008 ===
+* [[Transwiki:Useful unix command]] from English Wikipedia, merging into [[Guide to UNIX]] and [[Guide to X11]] --[[User:Kernigh|Kernigh]] 06:40, 23 November 2005 (UTC)
+**[[Image:Yes_check.svg|15px| ]] '''{{{1|Done}}}'''--[[User:CFeyecare|&lt;font face=&quot;Kristen ITC&quot; size=&quot;3.5&quot; color=&quot;crimson&quot;&gt;''''' CFeyecare '''''&lt;/font&gt;]]&lt;font color = &quot;black&quot;&gt;&lt;sup&gt;'''''[[User talk:CFeyecare| Talk!]]'''''&lt;/sup&gt;&lt;/font&gt;[[User:CFeyecare/templates/signature-tracker| ]] 18:15, 19 November 2008 (UTC)</text>
+      <sha1>t2v55r34y553rfq1qbcte1231pu0zfp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Transwiki</title>
+    <ns>0</ns>
+    <id>3337</id>
+    <redirect title="Wikibooks:Transwiki log" />
+    <revision>
+      <id>155271</id>
+      <parentid>10431</parentid>
+      <timestamp>2003-12-20T23:29:37Z</timestamp>
+      <contributor>
+        <username>Gentgeen</username>
+        <id>279</id>
+      </contributor>
+      <comment>reaimed a redirect</comment>
+      <text xml:space="preserve">#redirect [[Wikibooks:Transwiki log]]</text>
+      <sha1>170oq4ejnq1xrhewme9u4d205kd70iw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Computer Programming/DOS Programming</title>
+    <ns>0</ns>
+    <id>3338</id>
+    <revision>
+      <id>2653000</id>
+      <parentid>2030585</parentid>
+      <timestamp>2014-05-10T09:01:45Z</timestamp>
+      <contributor>
+        <username>JackPotte</username>
+        <id>99248</id>
+      </contributor>
+      <comment>/* Batch files */</comment>
+      <text xml:space="preserve">==About the platform==
+
+MS-DOS was Microsoft's first Operating System.  It was built upon QDOS (Quick and Dirty Operating System), which was based on Gary Kildall's CP/M.  The original MS-DOS was simplistic and very difficult to use for the untrained.  As time progressed, the interface remained essentially the same (keyboard on a text console), however it had some significant usability features (e.g. DOSKey) implemented as well.  Microsoft retained the crown of most used DOS until it usurped its own OS with Windows, however there were other non Microsoft versions of DOS as well.  DR-DOS was the primary non MS-DOS and did fairly well until Windows 95 arrived.  Afterwards, most people abandoned the non-GUI DOS system.  A few diehards survived, however, and some have produced a version of DOS written under an Open Source license known as FreeDOS.  Although abandoned by its &quot;creator&quot;, DOS is still a stable and viable operating system, although it has been overshadowed by Windows and the most popular open source operating system, Linux.
+
+DOS is still occasionally used on boot disks, so system recovery software may sometimes be written for DOS.
+
+The most popular languages for use on the DOS platform, besides DOS batch files and Intel x86 [[Assembly Language]], are [[Programming:C|C]] and [[Programming:BASIC|BASIC]].
+
+See [[QEMU/FreeDOS]] and [[A Neutral Look at Operating Systems/DOS]] for more information about FreeDOS.
+
+==C/C++ Compilers==
+
+The main compiler for 32-bit DOS is DJGPP ( http://www.delorie.com/djgpp ).  Nevertheless, 16 bit programs make up a substantial amount of the pre-Windows 95 program set, and so you may need to find a 16 bit compiler if you want to program on extremely old computers.
+
+For the most part however, one can just use a 32 bit DOS extender, such as CWSDPMI.
+
+==Batch files==
+
+DOS allows the use of [[Windows Batch Scripting|batch files]], which are a collection or &quot;batch&quot; of DOS prompt commands stored in a file.  When a user types in the filename (with or without the extension) of a batch file, DOS will perform each command listed in the .bat file, then return control to DOS.
+
+==Assembly Language==
+
+DOS comes with a low-level debugger called '''DEBUG'''.  This allows debugging of an executable program which it loads into memory along with DEBUG.  This is done by running DEBUG ''program'' at the DOS prompt, where ''program'' is the name of your program.  DEBUG will work with .com and .exe executables.  You must include the file extension in the filename when you call it using DEBUG.  DEBUG does not work with .bat files.
+
+DEBUG can also be run without a file to view CPU register contents, memory, and to assemble machine instructions directly into memory.  A brief walkthrough of how to run DEBUG to view and change memory and registers, as well as assemble and run some basic machine instructions can be viewed [http://asmfloat.blogspot.com/2010/08/dos-redeemed.html here].
+
+[[Category:Computer Programming|DOS Programming]]
+
+[[fr:DOS]]
+[[ja:MS-DOS/PC DOS入門]]
+[[pt:MS-DOS]]</text>
+      <sha1>mxt37qtf5awkqbfwzhpl4zxfixxdbe5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks talk:Templates/Maintenance</title>
+    <ns>5</ns>
+    <id>3341</id>
+    <revision>
+      <id>1790618</id>
+      <parentid>1419087</parentid>
+      <timestamp>2010-05-09T08:19:19Z</timestamp>
+      <contributor>
+        <username>Wmheric</username>
+        <id>334473</id>
+      </contributor>
+      <comment>/* rename and moveto confusion */ new section</comment>
+      <text xml:space="preserve">I don't like the idea of a stub module, it doesn't sound professional, perhaps changing it to &quot;under construction&quot; would be better. [[User:Gentgeen|Gentgeen]] 13:09, 16 Dec 2003 (UTC)
+
+Does anyone notice the fact that the stub link currently goes to a nonexistent page, and the list under [[Wikibooks:Find or fix a stub]] is empty? It seems, from my new-user perspective, that some administrative tasks need to be done here that haven't been... if you're going to have boilerplate stub text (which nobody, incidentally, seems to be using) it really ought to link to something that exists! [[User:Glenn Willen|Glenn Willen]] 13:43, 9 May 2004 (UTC)
+
+== '''rename''' and '''moveto''' confusion ==
+
+It seems that the names of these two templates should be the other way round.
+--[[User:Wmheric|Wmheric]] ([[User talk:Wmheric|talk]]) 08:19, 9 May 2010 (UTC)</text>
+      <sha1>4fr8wiv71hudr2cspklym9w3sm1x1vo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:C++ Programming/Programming Languages/C++/Code/Statements/Variables</title>
+    <ns>1</ns>
+    <id>3343</id>
+    <revision>
+      <id>1905389</id>
+      <parentid>1903151</parentid>
+      <timestamp>2010-08-01T19:06:19Z</timestamp>
+      <contributor>
+        <username>Panic2k4</username>
+        <id>2865</id>
+      </contributor>
+      <comment>Replaced content with '{{:Talk:C++ Programming/Content}}'</comment>
+      <text xml:space="preserve">{{:Talk:C++ Programming/Content}}</text>
+      <sha1>ehaipea8vkrs4aitt13iv0ks6a67p16</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Pulsar</title>
+    <ns>2</ns>
+    <id>3345</id>
+    <revision>
+      <id>155277</id>
+      <parentid>10086</parentid>
+      <timestamp>2003-12-16T22:28:17Z</timestamp>
+      <contributor>
+        <username>Pulsar</username>
+        <id>377</id>
+      </contributor>
+      <text xml:space="preserve">Hello!
+
+Je ne cause pas un traite mot d'anglais, enfin presque donc s'il vous plait écrivez moi en français. Merci d'avance.
+
+Connaissance en ''Basic assembleur-X86'', de bonnes notions des bases de données, mais seulement des rudiments dans les langages dédié actuels.</text>
+      <sha1>6k667t4tj4xe3eau3pr4yjm508kh7wn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Structured Query Language</title>
+    <ns>1</ns>
+    <id>3347</id>
+    <revision>
+      <id>2594152</id>
+      <parentid>2594113</parentid>
+      <timestamp>2013-12-16T21:18:07Z</timestamp>
+      <contributor>
+        <username>Ftiercel</username>
+        <id>239666</id>
+      </contributor>
+      <minor />
+      <comment>/* Further Extensions */ OK.</comment>
+      <text xml:space="preserve">== General comments ==
+
+&quot;Maybe it would be a good idea create an entire book about databases and reference that as a requirement for learning SQL..&quot;
+:I agree. The same would also go for having a book about [[Computer Programming]] as a prerequisite for learning [[C++ Programming|C++]]. [[User:Noldoaran|Noldoaran]] 03:21, 17 Dec 2003 (UTC)
+::See [[Computer Programming/Database Programming|Programming:Database Programming]]. --[[User:Lathspell|Lathspell]] 23:41, 6 September 2006 (UTC)
+
+You need to introduce language elements in their properly defined categories (DDL / DML/ DCL).  Also, the section on relational database history is out of place.  If you're going to talk about databases in general, put that section BEFORE any information on SQL itself, so that you can introduce SQL in that context.  Also, you might consider removing the references to the term &quot;relational&quot;, since many would argue that SQL DBMSs certainly are not.
+: Done. I left &quot;relational&quot; though as SQL is about relational (in the math sense) databases although maybe not about &quot;relational in the strict sense of Codds 12 rules&quot; (which probably nobody I personally know has ever read :)). Or where are the violations?  --[[User:Lathspell|Lathspell]] 00:11, 7 September 2006 (UTC)
+
+== SQL Syntax? ==
+
+Should SQL keywords like SELECT, WHERE, JOIN, ect be in all capitals in the examples?  Some of them are, while others are in all lowercase.  I feel as though this would make the syntax more readable and it is pretty much standard to do so anyway. --Nick Manley 03:10, 17 October 2006 (UTC)
+: Definetly yes! --[[User:Lathspell|Lathspell]] 06:41, 28 November 2006 (UTC)
+
+== Should we drop all these empty sections? ==
+
+I suggest we gank all the empty sections.  In the beginning, we just should just accumulate as much SQL-related material as we can, and then later try to organize it.
+: No empty sections visible? Already removed? --[[User:Lathspell|Lathspell]] 00:11, 7 September 2006 (UTC)
+
+== DBMS's ==
+We should also mention IMB DB2 and MS SQL Server since these are also two major DBMS's
+--[[User:Doc0tis|Nathan]] 21:35, 16 November 2005 (UTC)
+: Done. --[[User:Lathspell|Lathspell]] 00:11, 7 September 2006 (UTC)
+
+== Factual Error? ==
+Is text actually a SQL standard datatype?? --[[User:Doc0tis|Nathan]] 21:34, 16 November 2005 (UTC)
+: No it's at least not in the SQL2003 standard. Replaced with &quot;integer&quot;. --[[User:Lathspell|Lathspell]] 00:11, 7 September 2006 (UTC)
+
+== Revisions ==
+I did some major revisions on the JOINS secion. I hope to continue and complete these changes --[[User:Doc0tis|Nathan]] 20:35, 12 December 2005 (UTC)
+
+I changed an error in the &quot;ADDING DATA&quot; section it was quantiy now it quantiy_available to match the code in the table creation. Also I note when I SELECT * FROM fruit; I get 1's in the second column. after checking the mysql reference it is probably due to not specifying the &quot;precision and the scale&quot; http://dev.mysql.com/doc/refman/4.1/en/numeric-types.html I'm not sure if this is common with most kinds of SQL as I am just learning but... perhaps a note should be made --[[User:xenoterracide|Caleb]] Wed May 24 20:42:40 EDT 2006
+
+I reordered the introduction so that it now goes from Databases -&gt; Relational Databases -&gt; SQL -&gt; SQL servers. The language commands were tried to be grouped into DDL and DML to make it easier for other people to find the right point for additions. --[[User:Lathspell|Lathspell]] 00:11, 7 September 2006 (UTC)
+
+== From IP talk page ==
+
+I think that the assertion that SQL is &quot;a method for specifying the means of requesting data...&quot; is convoluted and incorrect.  SQL isn't a method: it's a language.  SQL also doesn't specify the ''means'', or how to accomplish the task  Rather, it specifies the ''ends'': the desired or expected result of the operation.  I added a more descriptive definition of SQL as a declarative language to further clarify this point.
+
+I also removed the paragraph that incorrectly stated that SQL is ''non-programmable''.  Of course SQL is programmable, since it is after all a database programming language.  I think the original author may have confused this term with ''non-procedural'', which has quite a different meaning.  In any case, I added a reference to the characteristics of procedural database languages to further clarify how the contrast between SQL as a declarative language.  Further expansion of this topic could be useful to show the steps to perform a query using dBase/xBase code vs. SQL.
+
+I also think the term ''metadata'' shouldn't be used without a definition or reference to its meaning, since it isn't a term that readers should be expected to know.
+
+Introducing foreign keys without first discussing primary keys is not a very good idea.  Foreign key specifications won't work without primary keys, so the CREATE TABLE example with the REFERENCES clause wouldn't ever work.  Creating tables without primary keys is also a very bad example.  I also noticed that primary keys are being used later in the examples, but with no prior description of them.
+
+(thanks for moving my comments here - I'm a Wikibooks newbie).
+   &lt;small&gt;—The preceding unsigned comment was added by [[User:76.175.21.1|76.175.21.1]] ([[User talk:76.175.21.1|talk]] • [[Special:Contributions/76.175.21.1|contribs]]) 16:34, 24 Dec 2006  (UTC{{{3|}}})&lt;/small&gt;&lt;!-- Template:Unsigned2 --&gt;
+
+== Expansion of SQL description ==
+
+I added several examples of simple SQL commands to give the reader a quick overview of what SQL syntax actually looks like in practice.  I also expanded the discussion of how SQL is used in context with other languages, with a brief introduction to two tier client/server processing and middleware libraries.  Additional examples showing SQL used within these other language contexts might be useful, however it's probably time to create additional pages to go into these details.
+--[[User:Sqldbaguy|Sqldbaguy]] 03:48, 25 December 2006 (UTC)
+
+== printable version problem ==
+
+The queries example are in scroll panes on the printable version, they should be in regular wrappable cells.  Please feel free to MOVE this notice to some other page but the problem should be addressed and I'd like to know where it should be.  --[[User:DynV|DynV]] 00:43, 1 March 2007 (UTC)
+
+
+== Comment on proposed merging MySQL implementations into this book ==
+I would recommend against discussing any relational database implementation syntaxes. It tends to become a black whole of comparisons, or separate segments of a chapter that would be better served as a separate version of the text. This book seems to focus squarely on the subject of the general concepts that are consistent the SQL standards, thus should be to all implementations. My feeling is that it is best to learn the standard then go on to learn implementation, of which I now have implemented projects on MySQL, Oracle &amp; SQL Server. The MySQL book is developing on it's own. Merging MySQL has two problems, first it would make it more difficult for those trying find content only for MySQL and second it would make this book loose focus on what is common between all implementations of SQL. Compounding this is merging MySQL indicate content on Oracle, DB2, and SQL Server all need to be added since all three have larger market shares than MySQL (at least as of 2005). [[User:69.149.16.104|69.149.16.104]] 02:03, 6 October 2007 (UTC)
+
+== Extensions ==
+I have plans to create some more pages for our book during spring and summer 2012. You can find a first draft of TOC at [[User:Kelti/sandbox|my sandbox]]. Comments desired!
+
+As I'm not a native English speaking person, I like to get your support concerning accurate phrasing. You may write directly into my sandbox. --[[User:Kelti|Kelti]] ([[User talk:Kelti|discuss]] • [[Special:Contributions/Kelti|contribs]]) 12:45, 19 March 2012 (UTC)
+:Good news. I have several advices for you :)
+:* [[w:SQL:2011|SQL:2011]] has been published three months ago. You have the chance to write documentation for this latest specification instead of the [[w:SQL:2008|SQL:2008]] specification.
+:* I think you'd rather add your pages one by one directly in the final location instead of writing your pages in a sandbox. Each time a page is finished, you can add the page in the summary. The documentation would be improved in real time. If someone modifies an existing page, you won't have to merge the content. And you know ''&quot;Motivation lack always strikes when it shouldn't&quot;'' :) To be sure your work will be merged one day, merge your work constantly.
+:Good contributions. [[User:Ftiercel|Ftiercel]] ([[User talk:Ftiercel|discuss]] • [[Special:Contributions/Ftiercel|contribs]]) 20:18, 22 March 2012 (UTC)
+
+I have finished the first block of five additional pages and will integrate them to the book mid of May. Please review them (content and my poor english phrasing) by correcting the text directly in my sandbox and give me feedback in discussion pages. Here is the link: [[User:Kelti/sandbox]] --[[User:Kelti|Kelti]] ([[User talk:Kelti|discuss]] • [[Special:Contributions/Kelti|contribs]]) 10:02, 9 May 2012 (UTC)
+: OK. [[User:Ftiercel|Ftiercel]] ([[User talk:Ftiercel|discuss]] • [[Special:Contributions/Ftiercel|contribs]]) 01:07, 11 May 2012 (UTC)
+
+
+
+== Further Extensions ==
+I plan to merge the book at end of 2013 with the content of my [[User:Kelti/sandbox|sandbox]] and its subpages. There are ten new pages, which overlaps in form and content with existing pages. As my work is not finished I leave the old pages 'as is'. In the new version preliminary there will be two tracks: the 'classic track' with the unchanged, actual pages and the new 'evolving track' with the new pages. I/we shall move the classic track to the evolving track, so that it gets superfluous one day.
+
+Some more comments:
+* I use a new data model with 4 tables. I think this one is easierer to understand and at the same time an example of all possible relationships: 1:n and n:m.
+* I have tested all statements against MySQL and Oracle. If possible, please test against MS SQL Server, db2 and postgres.
+* The new pages focus on textual explanations, examples and exercises. The SQL syntax is of course also presented, but is not a priority.
+* Please review the new pages (content and especially my poor english phrasing) by correcting the text directly in my sandbox.
+--[[User:Kelti|Kelti]] ([[User talk:Kelti|discuss]] • [[Special:Contributions/Kelti|contribs]]) 19:51, 16 December 2013 (UTC)
+:I will read that. [[User:Ftiercel|Ftiercel]] ([[User talk:Ftiercel|discuss]] • [[Special:Contributions/Ftiercel|contribs]]) 21:18, 16 December 2013 (UTC)</text>
+      <sha1>cgiprngto98z7n7qxubnept4anu6vdl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Russian/Useful Words and Expressions</title>
+    <ns>0</ns>
+    <id>3348</id>
+    <revision>
+      <id>2617304</id>
+      <parentid>2469436</parentid>
+      <timestamp>2014-03-16T15:42:34Z</timestamp>
+      <contributor>
+        <ip>83.237.46.59</ip>
+      </contributor>
+      <text xml:space="preserve">{{Russian}}
+;До́брое у́тро (''Dobroye utro'') :good morning
+;До́брый день (''Dobriy den'') :good day
+;До́брый ве́чер (''Dobriy vecher'') :good evening
+;Здра́вствуйте (''Zdravstvuyte'') :it's a kind of universal greeting, you can use it 24 hours a day, though only once per day to the same person.  formal.
+;Споко́йной но́чи (''Spokoynoy nochi'') :good night (literally, 'peaceful night')
+;Приве́т (''Privyet'') :hi. informal.
+;До свида́ния (''Do svidanya'') :good bye
+;Пока́ (''Poka'') :bye; also used as English &quot;until&quot;: подождите, пока я приду (wait until I come)
+
+;Пожа́луйста (''Pozhalusta'') :please; also used for saying &quot;you are welcome&quot; as an abreviation of &quot;please think nothing of it&quot;
+;Спаси́бо (''Spasiba'') :thanks
+
+;Прошу́ проще́ния (''Proshu proshsheniya'') :I'm sorry / excuse me
+;Извини́те (''Izvinitye'') :I'm sorry / excuse me (less formal)
+
+;Да (''Da'') :yes
+;Нет (''Nyet'') :no / not
+
+;Как дела́? (''Kak dyela?'') :How are you?
+;Хорошо́. (''Kharasho'') :Fine.
+
+;Я бу́ду борщ с больши́м коли́чеством смета́ны (в рестора́не) (''Ya budu borshcht s bal'shim kalichistvuhm smitany (fristarani)'') :I'll take borshch with lots of sour cream (in the restaurant).
+
+;Как Вас зову́т? (''Kak Vas zovut?'') :What is your name? (lit. &quot;What do [they] call you?&quot;)
+;Меня́ зову́т... (''Menya zovut...'') :May name is... (lit. &quot;[they] call me ...&quot;)
+;Когда́ Вы родили́сь/роди́лись? (''Kogda Vy rodilis?'') :When were you born?
+;Где Вы родили́сь/роди́лись? (''Gdye Vy rodilis?'') :Where were you born?
+;Где Вы живёте? (''Gdye Vy zhivyotye?'') :Where do you live?
+;Кто Вы? (''Kto Vy?'') :Who are you?
+;Где Вы? (''Gdye Vy?'') :Where are you?
+;Где Вы у́читесь? (''Gdye Vy u chityes?'') :Where do you study?
+;Ру́сский язы́к о́чень краси́вый. (''Russkiy yazyk ochen' krasivy'') :The Russian language is very beautiful.
+;Я Вас люблю́. (''Ya Vas lublyu.'') :I love you.
+;Я хочу́ есть. (''Ya khochu yest'.'') :I'm hungry (I want to eat).
+;Я хочу́ пить. (''Ya khochu pit'.'') :I'm thirsty (I want to drink).
+;Мне ну́жен перево́дчик. (''Mne nuzhen pervodchik.'') :I need an interpreter/translator.
+
+
+{| border=0 cellpadding=3 cellspacing=0
+|- bgcolor=#eeeeee
+! Translation !! Phrase !! Transcription !! Literal translation
+|-
+| Russian
+| русский
+| /{{IPA|ˈruskʲɪj}}/ ([[Media:CPIDL Russian - russkij.ogg|listen]])
+|-
+| hello
+| здравствуйте
+| /{{IPA|ˈzdrastvujtʲe}}/ ([[Media:CPIDL Russian - Zdravstvujte.ogg|listen]])
+| be healthy ([[imperative]] 2nd person plural/singular polite)
+|-
+| good-bye
+| до свидания
+| /{{IPA|do svʲɪˈdanja}}/ ([[Media:CPIDL Russian - do svidania.ogg|listen]])
+| until seeing
+|-
+| please
+| пожалуйста
+| /{{IPA|poˈʐalujsta}}/ ([[Media:CPIDL Russian - pozhalujsta.ogg|listen]])
+|-
+| thank you
+| спасибо
+| /{{IPA|spʌˈsʲibə}}/ ([[Media:CPIDL Russian - Spasibo.ogg|listen]])
+|-
+| that one
+| тот
+| /{{IPA|tot}}/ ([[Media:CPIDL Russian - tot.ogg|listen]])
+|-
+| how much?
+| сколько?
+| /{{IPA|ˈskolʲko}}/ ([[Media:CPIDL Russian - skol'ko.ogg|listen]])
+|-
+| English
+| английский
+| /{{IPA|anˈglʲijskʲɪj}}/ ([[Media:CPIDL Russian - anglijskij.ogg|listen]])
+|-
+| yes
+| да
+| /{{IPA|da}}/ ([[Media:CPIDL Russian - da.ogg|listen]])
+|-
+| no
+| нет
+| /{{IPA|nʲɛt}}/ ([[Media:CPIDL Russian - net.ogg|listen]])
+| “there isn’t” (short for не есть)
+|-
+| sorry
+| извините
+| /{{IPA|ɪzvʲɪˈnitʲɪ}}/
+|-
+| I don’t understand
+| не понимаю
+| /{{IPA|nʲe ponɪˈmaju}}/
+|-
+| I don’t speak Russian
+| не говорю по‑русски
+| /{{IPA|nʲɪ govʌˈrʲu po.ˈruskʲɪ}}/
+|-
+| generic toast
+| за здоровье
+| /{{IPA|zə zdʌˈrovjɪ}}/ ([[Media:CPIDL Russian - za zdorovje.ogg|listen]])
+| for health
+|-
+| Do you speak English?
+| говорите по‑английски?
+| /{{IPA|govʌˈrʲitʲɪ po.anˈglʲijskʲɪ}}/ ([[Media:CPIDL Russian - vi govorite.ogg|listen]])
+|-
+| where’s the bathroom?
+| где здесь туалет?
+| /{{IPA|gdɛ zdesʲ tuaˈlɛt}}/
+| where here (is) (the) toilet?
+|-
+| I love you
+| Я тебя люблю 
+| /{{IPA|ya teˈbʲa lʲuˈblʲu}}/
+|}
+
+[[Category:Russian]]</text>
+      <sha1>f0o9zbdr26vsot53kpqi6wcbl7yebqt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

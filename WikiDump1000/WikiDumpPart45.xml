@@ -1,0 +1,737 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Puzzles/Logic puzzles/Hats/Solution</title>
+    <ns>0</ns>
+    <id>1646</id>
+    <revision>
+      <id>647564</id>
+      <parentid>647559</parentid>
+      <timestamp>2006-11-13T04:47:12Z</timestamp>
+      <contributor>
+        <username>Think Fast</username>
+        <id>10874</id>
+      </contributor>
+      <minor />
+      <comment>change links -&gt; naming convention</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Logic puzzles|Logic puzzles]] | [[Puzzles/Logic puzzles/Hats|Hats]] | Solution
+----
+The first man saw at most 1 blue hat in front of him, for if he saw 2 he would have said &quot;red&quot; (there are only 2 blue hats).
+
+The second man saw a red hat in front of him, for if he saw a blue hat he would have said &quot;red&quot; (the first man saw at most 1 blue hat).
+
+That's how the last man now knows the 2nd man saw a red hat on him.
+
+[[Category:Puzzles]]</text>
+      <sha1>g75k3ebzyat2cyz70tpjfnz1xrry9tf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/How do you ... ?/The Burning Island/Solution</title>
+    <ns>0</ns>
+    <id>1647</id>
+    <revision>
+      <id>2398943</id>
+      <parentid>875171</parentid>
+      <timestamp>2012-08-22T21:02:25Z</timestamp>
+      <contributor>
+        <ip>80.219.189.192</ip>
+      </contributor>
+      <text xml:space="preserve">The man picks up a piece of wood and lights it from the fire on the west end of the island. He then carries it over to set fire to the middle of the island. Fortunately, the wind is hurricane strength, so the fire from the middle only burns the east side of the island.
+
+The man then goes to the east side of the island, where the fire from the west side can't spread, because the east side has already burned down.
+
+The man survives the fire, but dies of starvation, with all the food in the forest burnt.
+----
+*&lt;b&gt;Comments&lt;/b&gt;
+#The puzzle, as stated, does not assert that the &lt;b&gt;entire&lt;/b&gt; island is covered by the forest, but the solution is trivial unless it is.
+#In a real fire, the smoke being blown eastward across the island would be as much of a danger to the man as the flames.  (He must have had a source of fresh water on the island to survive... he could dip his shirt in that to use as a gas mask.  He should also lie flat on the ground to try to stay below the smoke.)
+#The puzzle does not state anything about the flatness of the island. The presence of hills or canyons would affect the path the fire would take, possibly offering areas of safety due to the fire making its own fire break (a fire break being essentially the solution described above).
+#The fire set in the middle of the island would not burn the entire east side of the island, but only a triangular area extending eastward from the point the fire was set. The shape of the triangle would be determined by the balance between the tendency of the fire to burn outward in a circle from where it was started and the force of the wind. This being the case, and with the assertion of hurricane-force winds, the far end of the triangle, where the man would have to stand, might be too narrow to shield him from the heat and smoke.
+#Nothing in the puzzle asserts the shape of the island. The entire surface of the island burns only if the island perimeter is convex. If there are concave areas, a peninsula is formed, and the tip of the peninsula would be unscathed. The shape and size of the peninsula would be relevant, per the reasoning above about fire cutting a triangular shape. This solution has the added advantage that the tip of the peninsula would be free of smoke.
+##If the island was a circle, which is a convex shape, and the fire burnt in a triangle, not all could burn. If the island was shaped like the concave greek letter &amp;Lambda; (or the roman letter V) and the fire started at the tip, the whole island could burn. Currently, the problem states the whole island would burn without intervention, anyway.
+#When one considers that one does not typically find trees on a beach, the man could just make his way to the west beach. The fire and smoke would both travel away from him.  
+*um... if the island is circled by cliffs how is he supposed to get to the beach?
+#And if cliffs surround the island and he can't get back on, the most obvious question is: ''how did he get on in the first place?''
+#*Clearly he crash landed
+#Perhaps the man survives the fire by entering the luxurious fire-retardent home, complete with cable television and beer.
+#The puzzle doesn't state that the man would die on impact by jumping off the cliff. He could jump off the island and survive the fire.  Most likely he would die of starvation or dehydration, just as he would on the burned out island as stated in the current solution.
+*  The man can dig a hole in the ground deep enough to withstand the fire for a few minutes which time would be enough for the fire to recede from his location.
+* The man can cut part of the wood and therefore stop it from burning the whole island.
+
+[[Category:Puzzles]]</text>
+      <sha1>9zly7p16ombgy5nf5t0g585fngnc0e9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Geometric Puzzles/Connecting Stars/Solution</title>
+    <ns>0</ns>
+    <id>1648</id>
+    <revision>
+      <id>647759</id>
+      <parentid>498888</parentid>
+      <timestamp>2006-11-13T05:22:59Z</timestamp>
+      <contributor>
+        <username>Think Fast</username>
+        <id>10874</id>
+      </contributor>
+      <minor />
+      <comment>[[Puzzles/Connecting Stars/Solution]] moved to [[Puzzles/Geometric Puzzles/Connecting Stars/Solution]]: naming convention</comment>
+      <text xml:space="preserve"> '''*'''---'''*'''---'''*'''---
+ |\         /
+ | \       /
+ |  \     /
+ '''*'''   '''*'''   '''*'''
+ |    \ /
+ |     X
+ |    / \
+ '''*'''   '''*'''   '''*'''
+ |  /     \
+ | /
+ |/
+
+[[Category:Puzzles]]</text>
+      <sha1>074vzgtylxpwvuee32bib19wt06pptt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Geometric Puzzles/Rubber Band/Solution 1</title>
+    <ns>0</ns>
+    <id>1649</id>
+    <revision>
+      <id>647773</id>
+      <parentid>647772</parentid>
+      <timestamp>2006-11-13T05:25:44Z</timestamp>
+      <contributor>
+        <username>Think Fast</username>
+        <id>10874</id>
+      </contributor>
+      <minor />
+      <comment>capitalization of links</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Geometric Puzzles|Geometric puzzles]] | [[Puzzles/Geometric Puzzles/Rubber Band|Rubber Band]] | Solution 1
+----
+
+Stretch the rubber band, and draw a line along it on the plane.
+
+By stretching the rubber band, while holding the loose end to the nail, you can measure 4cm. By folding it again, you can measure 2cm. Similarly, you can measure 1cm and then 0.5cm. Mark the 0.5cm on the line, and using the last 0,5cm of the rubber band, mark the line you drew at 0.5cm intervals, so you can use it as a ruler.
+
+Draw two circles around the nail, with radius 1.5cm and 2cm. Using 6cm of the rubber band, make a triangle, with a corner touching each circle, and the last corner at the nail. You now have a right angle at the nail.
+
+[[Category:Puzzles]]</text>
+      <sha1>0ocg4ecqqt1cxnqj2wtrzeyq37mygo7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Arithmetical puzzles/Two 4s Equal 64?/Solution</title>
+    <ns>0</ns>
+    <id>1650</id>
+    <revision>
+      <id>870391</id>
+      <parentid>870387</parentid>
+      <timestamp>2007-05-18T16:39:29Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>NC</comment>
+      <text xml:space="preserve">&lt; [[Puzzles/Arithmetical puzzles/Two 4s Equal 64?|Back to Problem]]
+
+
+Some answers are &lt;math&gt;\sqrt{\sqrt{\sqrt{4^{4!}}}}&lt;/math&gt;, &lt;math&gt;\sqrt{\sqrt{{\sqrt{4}^{4!}}}}&lt;/math&gt;, &lt;math&gt;4^{\log{\sqrt{\sqrt{\sqrt{\exp{4!}}}}}}&lt;/math&gt; and &lt;math&gt;4^{-\lfloor\tan{4!}\rfloor}&lt;/math&gt;.
+
+[[Category:Puzzles]]</text>
+      <sha1>bfqjbst18tk5ee40qxlibbuppmle2ri</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/Decision puzzles/Monty Hall</title>
+    <ns>1</ns>
+    <id>1651</id>
+    <revision>
+      <id>872721</id>
+      <parentid>382579</parentid>
+      <timestamp>2007-05-20T22:56:36Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles:Decision puzzles:Monty Hall]] moved to [[Talk:Puzzles/Decision puzzles/Monty Hall]]: NC</comment>
+      <text xml:space="preserve">Either this is too tough, too easy or too well known.
+
+Spoiler:
+
+
+Which participant in the game know what at which times ?
+
+----
+
+I've reformulated it a bit, hope it's clearer. Alternatively, I completely misunderstood the question, and have changed the meaning completely. Hope I didn't seem impolite on the solution page, I've seen a similar question before on a different site, just phrased as ambiguously as possible, with a whole forum of people arguing over what it means. [[User:Cyp|Cyp]] 15:18, 19 Oct 2003 (UTC)
+
+No, in my opinion you did not sound impolite. Any folks from the US here, who now the original version of the game show ? I only now the German version &quot;Geh aufs Ganze&quot; where the &quot;goat&quot; is called &quot;Zonk&quot; and is a stuffed red toy. So, as far as I guess, a &quot;goat&quot; is not a real animal (thus making no sound and rendering the last condition superfluous). And you actually do not have to know in the beginning, what Monty will do in the second round (opening a door with a goat). It does not make any difference, neither for your first nor your second choice. But, you are right, let us be as precise as possible. [[User:doopdoop|doopdoop]]
+
+: A goat is a thing with horns and bleats somewhat like a sheep. ([[User:Dysprosia|Dysprosia]] not logged in, [[User:129.94.6.30|129.94.6.30]] 22:22, 19 Oct 2003 (UTC))
+
+:As far as I could tell, it may be relevant knowing in advance that whether you choose the door with the prize would not influence what he does after you make the choice, an (unlikely) example, maybe he would open a door with a goat, if you choose the door with the prize (hoping you decide you want the goat more than the prize), otherwise dance around jumping up and down, if you choose a door with a goat (because he gets the prize instead). (Not that my speculation is important/relevant anyway, with the current form of the question.) [[User:Cyp|Cyp]] 22:43, 19 Oct 2003 (UTC)</text>
+      <sha1>530cvkzwd6w79libcfum0sgtrcs76jm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Arithmetical puzzles/Three Daughters/Solution</title>
+    <ns>0</ns>
+    <id>1652</id>
+    <revision>
+      <id>1676215</id>
+      <parentid>1207963</parentid>
+      <timestamp>2009-12-07T03:26:52Z</timestamp>
+      <contributor>
+        <ip>74.132.40.157</ip>
+      </contributor>
+      <text xml:space="preserve">The answer is 2, 2 and 9.
+
+The product of their ages is 36, leaving the possibilities
+
+{1,1,36}, {1,2,18}, {1,3,12}, {1,4,9}, {1,6,6}, {2,2,9}, {2,3,6} and {3,3,4}.
+
+Knowing the sum of their ages is not sufficient to determine their ages, eliminating {1,1,36} (38), {1,2,18} (21), {1,3,12} (16), {1,4,9} (14), {2,3,6} (11) and {3,3,4} (10), leaving only
+
+{1,6,6} and {2,2,9}.
+
+Knowing that there exists an eldest daughter eliminates {1,6,6}, leaving only {2,2,9}.
+
+[[Category:Puzzles]]
+
+How does knowing that there exists an eldest daughter eliminate {1,6,6}?  One daughter can be older than another but both have the same age in years.
+
+Hey, questioner, we're going by the same number of years.  We are taking that 
+both daughters in the thrown out {1, 6, 6} choice are EXACTLY 6-years-old.</text>
+      <sha1>6qn4b71d0g99gvc6b0zm0pqycijdw7k</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Arithmetical puzzles/Digits of the Square/Solution</title>
+    <ns>0</ns>
+    <id>1653</id>
+    <revision>
+      <id>872611</id>
+      <parentid>872608</parentid>
+      <timestamp>2007-05-20T22:30:48Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>NC</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Arithmetical puzzles|Arithmetical puzzles]] | [[Puzzles/Arithmetical puzzles/Digits of the Square|Digits of the Square]] | Solution
+----
+
+Looking at the last digit, the last digit must be either 0, 1, 5 or 6.
+
+Then looking at the last two digits, the last two digits must be either 00, 01, 25 or 76.
+
+Then looking at the last three digits, the last three digits must be either 000, 001, 625 or 376.
+
+Then looking at the last four digits, the last four digits must be either 0000, 0001, 0625 or 9376.
+
+Out of those, only 9376 is a 4 digit number.
+
+[[Category:Puzzles]]</text>
+      <sha1>mbtuos5wtjaprqcf48nb6r335zpoy0g</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Decision puzzles/12 Coins/Solution</title>
+    <ns>0</ns>
+    <id>1654</id>
+    <revision>
+      <id>872686</id>
+      <parentid>872681</parentid>
+      <timestamp>2007-05-20T22:50:36Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>NC</comment>
+      <text xml:space="preserve">[[Puzzles]] |[[Puzzles/Decision puzzles|Decision puzzles]]|[[Puzzles/Decision puzzles/12 Coins|12 Coins]]|Solution
+
+You need 3 weighings.
+
+There are 12 possible places for the fake coin to be and it can either be heavy or light, leaving 24 possibilities. Each weighing can give 3 results. (One side heavier, other side heavier, or both sides equal.) 2 weighings can at most only differentiate between 9 possibilities, therefore 2 or less weighings is ''not'' sufficient.
+
+Label the coins with the symbols &lt;tt&gt;αβγδABCD$£€¤&lt;/tt&gt;. Start at state S00.
+
+ State | Weighings | Pile L | Pile R | if L&lt;R   | if L=R   | if L&gt;R   | Candidates in
+ &lt;u&gt;      |    left   |        |        |          |          |          |  αβγδABCD$£€¤&lt;/u&gt;
+ &lt;u&gt; S00  |  3        | αβγδ   | ABCD   | goto S01 | goto S02 | goto S03 |  ????????????&lt;/u&gt;
+ &lt;u&gt; S01  |  2        | αβC    | Bγδ    | goto S04 | goto S05 | goto S06 |  LLLLHHHH    &lt;/u&gt;
+ &lt;u&gt; S02  |  2        | αβγ    | $£€    | goto S07 | goto S08 | goto S09 |          ????&lt;/u&gt;
+ &lt;u&gt; S03  |  2        | αβC    | Bγδ    | goto S10 | goto S11 | goto S12 |  HHHHLLLL    &lt;/u&gt;
+ &lt;u&gt; S04  |  1        | α      | β      | α light  | B heavy  | β light  |  LL   H      &lt;/u&gt;
+ &lt;u&gt; S05  |  1        | A      | D      | D heavy  |  error   | A heavy  |      H  H    &lt;/u&gt;
+ &lt;u&gt; S06  |  1        | γ      | δ      | γ light  | C heavy  | δ light  |    LL  H     &lt;/u&gt;
+ &lt;u&gt; S07  |  1        | $      | £      | £ heavy  | € heavy  | $ heavy  |          HHH &lt;/u&gt;
+ &lt;u&gt; S08  |  1        | α      | ¤      | ¤ light  |  error   | ¤ heavy  |             ?&lt;/u&gt;
+ &lt;u&gt; S09  |  1        | $      | £      | $ light  | € light  | £ light  |          LLL &lt;/u&gt;
+ &lt;u&gt; S10  |  1        | γ      | δ      | δ heavy  | C light  | γ heavy  |    HH  L     &lt;/u&gt;
+ &lt;u&gt; S11  |  1        | A      | D      | A light  |  error   | D light  |      L  L    &lt;/u&gt;
+  S12  |  1        | α      | β      | β heavy  | B light  | α heavy  |  HH   L
+
+
+
+== Reasoning ==
+Since one of the coin is fake, and it can be lighter or heavier, that gives 2 X 12 = 24 possible answers. Also notice that each weighing can have 3 possible outcomes (left lighter, right lighter, equal), and with 3 weighting there are 3&lt;sup&gt;3&lt;/sup&gt; = 27 possible outcome. Because 27 &gt; 24, it is possible(although not certainly) to have a solution.
+=== First weighing ===
+Suppose we put x coins on both side of the weigh, we want to ensure that no matter what the outcome is, the remaining case still satisfy the condition of possible outcomes &gt; possible answers, otherwise the plan fails.
+In case the result is equal, only the coins not on weigh can be faked, since we don't know yet whether it is lighter or heavier, that leaves 2(12-2x) possible answers. With 2 weighing lefts, there are 3&lt;sup&gt;2&lt;/sup&gt; = 9 possible outcomes. Hence 2(12-2x)&lt;9.
+When one side is lighter, it can be that one of the coins on the lighter side is lighter, or one of the coins on the heavier side is heavier, which leaves 2x possible answers. Hence we have 2x&lt;9.
+Solving the equation, we get x=4.
+
+[[Category:Puzzles]]</text>
+      <sha1>jlfkh6wyd2pot727nwbuhfs5oue349h</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Decision puzzles/Monty Hall/Solution</title>
+    <ns>0</ns>
+    <id>1655</id>
+    <revision>
+      <id>1747378</id>
+      <parentid>1747368</parentid>
+      <timestamp>2010-03-30T23:17:43Z</timestamp>
+      <contributor>
+        <ip>84.148.63.112</ip>
+      </contributor>
+      <comment>undone my own stupid stuff until I've done more research :)</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Decision puzzles]] | [[Puzzles/Decision puzzles/Monty Hall|Monty Hall]] | Solution
+----
+
+
+There is a prior 1/3 chance of the door you picked being the door with the prize, and a 2/3 chance of a different door being the door with the prize.
+
+Therefore, if you want the prize, it is better to switch, and if you want a nice goat, it is better to stick with the door you chose.
+
+== Reasoning ==
+There are three doors: the door you first chose, the door that Monty opened, and the third door. Because there are two doors left, one with the prize, then one might want to believe that there is a 1/2 chance of obtaining the prize either way.
+
+However, before Monty opened any door, there was a 1/3 chance that the door contained the prize. When Monty opens a different door, you learn nothing about the door that you first chose. Thus, the chance of the door you first chose containing the prize remains 1/3, not 1/2.
+
+However, when Monty opens a door with the goat, the probability of that door containing the prize drops to 0. As the probabilities must sum to 1, and the probability of a prize at the door you first chose remains 1/3, the probability of a prize at the third door rises to 2/3. This rise in probability results only because you learned that Monty decided not to open that particular door.
+
+== Calculations ==
+Let &lt;math&gt;D_p&lt;/math&gt; be the door you first picked; let &lt;math&gt;D_o&lt;/math&gt; be the door which Monty opened; let &lt;math&gt;D_r&lt;/math&gt; be the third and remaining door. &lt;math&gt;C&lt;/math&gt; is a car or other prize and &lt;math&gt;G&lt;/math&gt; is any goat. Suppose you choose the third door &lt;math&gt;D_r&lt;/math&gt;, then what is the probability &lt;math&gt;p&lt;/math&gt; that this door contains the prize?
+
+&lt;math&gt;
+\begin{matrix}
+p &amp; = &amp; P(D_r = C | D_o = G)\\
+  &amp; = &amp; P(D_r = C, D_p = C | D_o = G) + P(D_r = C, D_p = G | D_o = G)\\
+  &amp; = &amp; P(D_r = C | D_p = C, D_o = G) P(D_p = C | D_o = G)\\
+  &amp;   &amp; + P(D_r = C | D_p = G, D_o = G) P(D_p = G | D_o = G)\\
+  &amp; = &amp; \underbrace{P(D_r = C | D_p = C, D_o = G)}_{=0}
+        \underbrace{P(D_p = C)}_{=\frac{1}{3}}\\
+  &amp;   &amp; + \underbrace{P(D_r = C | D_p = G, D_o = G)}_{=1}
+          \underbrace{P(D_p = G)}_{=\frac{2}{3}}\\
+  &amp; = &amp; 0 * \frac{1}{3} + 1 * \frac{2}{3} = \frac{2}{3}
+\end{matrix}
+&lt;/math&gt;
+
+Line-by-line, these equations state:
+# &lt;math&gt;p&lt;/math&gt; is equal to the probability that your door &lt;math&gt;D_r&lt;/math&gt; contains a goat on condition that Monty opens a door with a goat.
+# We partition &lt;math&gt;p&lt;/math&gt; into two cases, one where the door you first picked &lt;math&gt;D_p&lt;/math&gt; has a prize &lt;math&gt;C&lt;/math&gt;, and one where it has a goat &lt;math&gt;G&lt;/math&gt;. Now &lt;math&gt;p&lt;/math&gt; is the probability that both &lt;math&gt;D_r&lt;/math&gt; and &lt;math&gt;D_p&lt;/math&gt; have prizes on condition that Monty reveals a goat, plus the probability that &lt;math&gt;D_p&lt;/math&gt; has a prize and &lt;math&gt;D_p&lt;/math&gt; has a goat, on condition that Monty reveals goat.
+# Using the formula &lt;math&gt;P(A, B) = P(A | B) P(B)&lt;/math&gt;, we state for the second partition that the probability of &lt;math&gt;D_r&lt;/math&gt; having a prize and &lt;math&gt;P_p&lt;/math&gt; having a goat, on condition that Monty reveals a goat, is equal to the probability of &lt;math&gt;D_r&lt;/math&gt; having a prize on condition that both other doors have goats, times the probability that that &lt;math&gt;D_p&lt;/math&gt; has a goat on condition that Monty reveals a goat. We act likewise for the first partition.
+# Monty ''always'' reveals a goat, and never a prize, so &lt;math&gt;D_o = G&lt;/math&gt; is a condition that is always true. We remove that condition from the equations. We then make some substitutions: the probability of door &lt;math&gt;D_p&lt;/math&gt; (or any door) is 1/3 for a prize, and 2/3 for a goat. We know that door &lt;math&gt;D_r&lt;/math&gt; cannot contain a prize if door &lt;math&gt;D_p&lt;/math&gt; already has it, so that probability is 0. But if doors &lt;math&gt;D_p&lt;/math&gt; and &lt;math&gt;D_o&lt;/math&gt; both contain goats, then &lt;math&gt;D_r&lt;/math&gt; must contain the prize for probability one.
+# We calculate zero times 1/3 plus one times 2/3, giving &lt;math&gt;p = \frac{1}{3}&lt;/math&gt;.
+
+Intuitively this means that in 2/3 of the cases we initially pick a goat and the entertainer shows us where the car is by revealing the other goat. Only in 1/3 of the cases we picked the car initially and by changing our decision we pick a goat.
+
+[[Category:Puzzles]]</text>
+      <sha1>trxwwl1ajsn0uymlohnld84emhf6ypn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Action sequences/Sharing Milk/Solution</title>
+    <ns>0</ns>
+    <id>1656</id>
+    <revision>
+      <id>870322</id>
+      <parentid>870320</parentid>
+      <timestamp>2007-05-18T16:11:55Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>NC</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Action sequences|Action sequences]] | [[Puzzles/Action sequences/Sharing Milk|Sharing Milk]] | Solution
+----
+
+{| width=&quot;200&quot; border=&quot;1&quot; cellpadding=&quot;2&quot;
+! style=&quot;background:#efefef;&quot;|'''Move'''
+! style=&quot;background:#efefef;&quot;|'''8 l'''
+! style=&quot;background:#efefef;&quot;|'''5 l'''
+! style=&quot;background:#efefef;&quot;|'''3 l'''
+|-
+|Start      || 8 || 0 || 0
+|-
+|8 l to 5 l || 3 || 5 || 0
+|-
+|5 l to 3 l || 3 || 2 || 3
+|-
+|3 l to 8 l || 6 || 2 || 0
+|-
+|5 l to 3 l || 6 || 0 || 2
+|-
+|8 l to 5 l || 1 || 5 || 2
+|-
+|5 l to 3 l || 1 || 4 || 3
+|-
+|3 l to 8 l || 4 || 4 || 0
+|}
+
+[[Category:Puzzles]]</text>
+      <sha1>407fabynskqofsc8myeyf5y6oev8bdf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Action sequences/Crossing the River/Solution</title>
+    <ns>0</ns>
+    <id>1657</id>
+    <revision>
+      <id>870341</id>
+      <parentid>870338</parentid>
+      <timestamp>2007-05-18T16:17:10Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>NC</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Action sequences|Action sequences]] | [[Puzzles/Action sequences/Crossing the River|Crossing the River]] | Solution
+----
+
+Label the farmer F, wolf W, goat G, cabbage C, river . and boat &amp;lt;  &amp;gt;.
+
+ FWGC &amp;lt;  &amp;gt;.....
+       ........
+  W C  ..&amp;lt;FG&amp;gt;..
+       ........
+  W C  .....&amp;lt;  &amp;gt; F G
+       ........
+  W C  ..&amp;lt;F &amp;gt;..    G
+       ........
+ FW C &amp;lt;  &amp;gt;.....    G
+       ........
+    C  ..&amp;lt;FW&amp;gt;..    G On this trip, the farmer can take either the Wolf or the cabbage.  All else 
+       ........         remains the same.
+    C  .....&amp;lt;  &amp;gt; FWG
+       ........
+    C  ..&amp;lt;FG&amp;gt;..   W
+       ........
+ F GC &amp;lt;  &amp;gt;.....   W
+       ........
+   G   ..&amp;lt;FC&amp;gt;..   W
+       ........
+   G   .....&amp;lt;  &amp;gt; FW C
+       ........
+   G   ..&amp;lt;F &amp;gt;..   W C
+       ........
+ F G  &amp;lt;  &amp;gt;.....   W C
+       ........
+       ..&amp;lt;FG&amp;gt;..   W C
+       ........
+       .....&amp;lt;  &amp;gt; FWGC
+
+[[Category:Puzzles]]</text>
+      <sha1>35voogvo8cj9t7wouzp6i4mm2c2vcpp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Action sequences/Crossing the River II/Solution/</title>
+    <ns>0</ns>
+    <id>1658</id>
+    <revision>
+      <id>870350</id>
+      <parentid>695459</parentid>
+      <timestamp>2007-05-18T16:19:21Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>NC</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Action sequences|Action sequences]] | [[Puzzles/Action sequences/Crossing the River II|Crossing the River II]] | Solution
+----
+
+Label the fathers A, B and C, the sons a, b and c, river . and boat &amp;lt;  &amp;gt;.
+
+ AaBbCc &amp;lt;  &amp;gt;.....
+         ........
+ A B Cc  ..&amp;lt;ab&amp;gt;..
+         ........
+ A B Cc  .....&amp;lt;  &amp;gt;  a b
+         ........
+ A B Cc  ..&amp;lt;b &amp;gt;..   a
+         ........
+ A BbCc &amp;lt;  &amp;gt;.....   a
+         ........
+ A B C   ..&amp;lt;bc&amp;gt;..   a
+         ........
+ A B C   .....&amp;lt;  &amp;gt;  a b c
+         ........
+ A B C   ..&amp;lt;c &amp;gt;..   a b
+         ........
+ A B Cc &amp;lt;  &amp;gt;.....   a b
+         ........
+     Cc  ..&amp;lt;AB&amp;gt;..   a b
+         ........
+     Cc  .....&amp;lt;  &amp;gt; AaBb
+         ........
+     Cc  ..&amp;lt;Bb&amp;gt;..  Aa
+         ........
+   BbCc &amp;lt;  &amp;gt;.....  Aa
+         ........
+    b c  ..&amp;lt;BC&amp;gt;..  Aa
+         ........
+    b c  .....&amp;lt;  &amp;gt; AaB C
+         ........
+    b c  ..&amp;lt;a &amp;gt;..  A B C
+         ........
+  a b c &amp;lt;  &amp;gt;.....  A B C
+         ........
+      c  ..&amp;lt;ab&amp;gt;..  A B C
+         ........
+      c  ....&amp;lt;  &amp;gt;  AaBbC
+         ........
+      c  ..&amp;lt;C &amp;gt;..  AaBb
+         ........
+     Cc &amp;lt;  &amp;gt;.....  AaBb
+         ........
+         ...&amp;lt;Cc&amp;gt;.  AaBb
+         ........
+         .....&amp;lt;  &amp;gt; AaBbCc
+[[Category:Puzzles]]</text>
+      <sha1>oxoam9i7lflvvsh21hg62aj1zxcs055</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Medium Sequence 1/Solution</title>
+    <ns>0</ns>
+    <id>1659</id>
+    <revision>
+      <id>519160</id>
+      <parentid>519156</parentid>
+      <timestamp>2006-07-12T07:45:02Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">The sequence is a&lt;sub&gt;n&lt;/sub&gt; = A(n,n), starting at a&lt;sub&gt;0&lt;/sub&gt;. (A is of course the [[w:Ackermann function|Ackermann function]].)
+
+So the next number in the sequence is &lt;math&gt;2^{2^{2^{65536}}}-3&lt;/math&gt;.
+
+[[Category:Puzzles]]</text>
+      <sha1>o3j590syazo72g9cbgqck59t2fwpyou</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Geometric Puzzles/Matchsticks</title>
+    <ns>0</ns>
+    <id>1660</id>
+    <revision>
+      <id>647794</id>
+      <parentid>647793</parentid>
+      <timestamp>2006-11-13T05:31:03Z</timestamp>
+      <contributor>
+        <username>Think Fast</username>
+        <id>10874</id>
+      </contributor>
+      <minor />
+      <comment>capitalization</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Geometric Puzzles|Geometric puzzles]] | Matchsticks
+----
+
+You have 6 unit length matchsticks, and you urgently need to make 4 triangles with unit length sides. You can't use anything except matchsticks to make the triangles, and the matchsticks are indestructable and non-replicable. How do you solve the dilemma?
+
+[[Puzzles/Geometric Puzzles/Matchsticks/Solution|Solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>i07kccfunoaatx86m25sh3svzzt3qwy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Geometric Puzzles/Matchsticks/Solution</title>
+    <ns>0</ns>
+    <id>1661</id>
+    <revision>
+      <id>647789</id>
+      <parentid>519105</parentid>
+      <timestamp>2006-11-13T05:30:04Z</timestamp>
+      <contributor>
+        <username>Think Fast</username>
+        <id>10874</id>
+      </contributor>
+      <minor />
+      <comment>[[Puzzles/Matchsticks/Solution]] moved to [[Puzzles/Geometric Puzzles/Matchsticks/Solution]]: naming convention</comment>
+      <text xml:space="preserve">Arrange the six matchsticks along the edges of a [[Wikipedia:tetrahedron | tetrahedron]], or triangular pyramid.  The matchsticks will form 4 triangular faces.
+
+[[Category:Puzzles]]</text>
+      <sha1>74p68r4x6976rc324ysb225oa0elejg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Abstract Algebra/Group Theory</title>
+    <ns>1</ns>
+    <id>1662</id>
+    <revision>
+      <id>1901908</id>
+      <parentid>1901755</parentid>
+      <timestamp>2010-07-25T14:54:40Z</timestamp>
+      <contributor>
+        <username>Arydye001</username>
+        <id>371698</id>
+      </contributor>
+      <minor />
+      <comment>Asked about Lengthy Proofs</comment>
+      <text xml:space="preserve">[[File:Cyanocitta-cristata-004.jpg|x300px]]
+----
+
+== Linking to other pages ==
+* Are people happy with the fact that this page is just a page of links to other pages?
+** It doesn't seem very book-like to me.
+** It seems that the amount of content we have here would easily fit on one page at the moment, and 
+** if it doesn't perhaps it could be broken down into larger conceptual topics rather than individual theorems. If other people agree with this, I don't mind doing the work to restructure it myself.
+--[[User:Fishpi|Fishpi]] ([[User talk:Fishpi|talk]]) 09:26, 18 July 2010 (UTC)
+
+&lt;small&gt;:Hi, Fishpi. Seeing others working on the same book is always nice.
+
+:* Issue 1: Should the index for theorems for groups be entirely on this page
+::* I seem to agree with you that some of the links should be moved to the page &quot;Abstract Algebra&quot;.
+::* The theorems seems too small to be moved to &quot;Abstract Algebra&quot;
+::* I feel moving links to whole sections like [&quot;Group&quot; and its theorem (cancellations...)], [&quot;Subgroup&quot; and its theorems] to &quot;Abstract Algebra&quot; might be a good idea.
+
+:* Issue 2: one theorem, one page?
+::* For me, I think this book need not to be like a book in print and hope that smaller sections can encourage readers to read the whole book
+::* Using more pages online would not waste real paper. Unlike real paper books, we can use more pages.
+::* I feel learning step by step on many pages is less terrifying than to learn everything on a single page 
+::* Beginners like me might &lt;font color = Purple&gt;~ scream in terror ~&lt;/font&gt; If they see a Big page (like the [[Abstract_Algebra/Groups/Older_Version |Older Version]]).
+::* New contents will all cram into a single page when this page grows, if no one try to subdivide it at the beginning. In a moment, people will again see a Big page (I have confidence that many people will work on this book).
+
+: Is that good for our readers?&lt;/small&gt;
+
+--[[User:Arydye001|Arydye001]] ([[User talk:Arydye001|talk]]) 15:12, 18 July 2010 (UTC)
+
+::I'd say the most important thing is that we have good content, so I don't mean to be dictatorial about how it is laid out. I'm new to the Wikibooks project myself, and I've been trying to get used to how things are done round here. My main interest in Wikibooks is in producing books that can be read on an e-book reader or similar, so I tend to favour a structure with fewer links.
+
+::I see your point about people being scared by a page with lots of theorems on it, but there is one advantage to laying things out on one page, which is that the reader can easily skip backwards and forwards as they read down the page (if results of earlier theorems are used in proving later theorems).
+
+::I say we focus on producing good quality content at the moment and don't worry about changing the structure, but I'd be interested to hear what other people have to say. [[User:Fishpi|Fishpi]] ([[User talk:Fishpi|talk]]) 17:36, 18 July 2010 (UTC)
+
+
+::: I agree that many pages means a lot of distracting flipping or clicking even if the pages are cross-linked.
+::: Too few pages means a lot of scrolling and less selectivity in reading.
+::: the book should find a balance on amount of content on a page.[[User:Arydye001|Arydye001]] ([[User talk:Arydye001|talk]]) 17:51, 18 July 2010 (UTC)
+
+=Lengthy Proofs=
+* Can lengthy proofs show the idea behind them? [[User:Arydye001|Arydye001]] ([[User talk:Arydye001|talk]]) 14:54, 25 July 2010 (UTC)</text>
+      <sha1>486go8ye86zi2r49yo28a3lqr2gkhk2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/Logic puzzles/Lying about your Age/Solution</title>
+    <ns>1</ns>
+    <id>1664</id>
+    <revision>
+      <id>647550</id>
+      <parentid>238825</parentid>
+      <timestamp>2006-11-13T04:45:19Z</timestamp>
+      <contributor>
+        <username>Think Fast</username>
+        <id>10874</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles:Logic puzzles:Lying about your Age:Solution]] moved to [[Talk:Puzzles/Logic puzzles/Lying about your Age/Solution]]: naming convention</comment>
+      <text xml:space="preserve">That's correct, Cyp, congratulations! Would you like to write up how you got the solution? [[User:ThomasStrohmann | Thomas]]
+
+Done. [[User:Cyp|Cyp]] 17:56, 18 Oct 2003 (UTC)</text>
+      <sha1>i5zg7em6g99zlnuxu468fnihpbi4jfy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/Decision puzzles/12 Coins/Solution</title>
+    <ns>1</ns>
+    <id>1665</id>
+    <revision>
+      <id>1862450</id>
+      <parentid>872683</parentid>
+      <timestamp>2010-06-28T08:35:18Z</timestamp>
+      <contributor>
+        <ip>194.190.194.74</ip>
+      </contributor>
+      <text xml:space="preserve">Wow, this is excellent, Cyp! [[User:ThomasStrohmann | Thomas]]
+
+:Thanks. I've actually solved it once before, (maybe a few years ago), so it didn't take too long. (Saw on another forum.) [[User:Cyp|Cyp]]
+
+What if you lift the requirement to determine whether the coin is heavier or lighter? I can solve the pullzle with 13 coins then, but no more. Funny, especially considering that number of possible outcomes drops from 24 to 12 (with 12 coins). --[[Special:Contributions/194.190.194.74|194.190.194.74]] ([[User talk:194.190.194.74|talk]]) 08:35, 28 June 2010 (UTC)</text>
+      <sha1>garyfcwdscp3d5vffdrizj0vsuqrom3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/Arithmetical puzzles/Two 4s Equal 64?/Solution</title>
+    <ns>1</ns>
+    <id>1666</id>
+    <revision>
+      <id>870389</id>
+      <parentid>540499</parentid>
+      <timestamp>2007-05-18T16:38:37Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles:Arithmetical puzzles:Two 4s Equal 64?/Solution]] moved to [[Talk:Puzzles/Arithmetical puzzles/Two 4s Equal 64?/Solution]]: Someone fixed half of this one...</comment>
+      <text xml:space="preserve">Nice job, Cyp [[User:ThomasStrohmann | Thomas]]</text>
+      <sha1>28b56gzlflfoq5cpeh786gxu1kc60hj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

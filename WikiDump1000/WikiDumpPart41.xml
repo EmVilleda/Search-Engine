@@ -1,0 +1,730 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>Puzzles/Geometric Puzzles/Connecting Stars</title>
+    <ns>0</ns>
+    <id>1515</id>
+    <revision>
+      <id>647762</id>
+      <parentid>599238</parentid>
+      <timestamp>2006-11-13T05:23:49Z</timestamp>
+      <contributor>
+        <username>Think Fast</username>
+        <id>10874</id>
+      </contributor>
+      <minor />
+      <comment>change links -&gt; naming convention</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Geometric Puzzles|Geometric puzzles]] | Connecting Stars
+----
+
+ '''*'''   '''*'''   '''*'''
+ &amp;nbsp;
+ &amp;nbsp;
+ &amp;nbsp;
+ '''*'''   '''*'''   '''*'''
+ &amp;nbsp;
+ &amp;nbsp;
+ &amp;nbsp;
+ '''*'''   '''*'''   '''*'''
+
+''In the above picture cross all the stars with 4 straight lines and without taking the pencil off the paper (or screen;)!''
+
+[[Puzzles/Geometric Puzzles/Connecting Stars/Solution|solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>qev0tmf0tqwi9jsc43hd6na4q0u1z7a</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/Geometric Puzzles/Connecting Stars</title>
+    <ns>1</ns>
+    <id>1516</id>
+    <revision>
+      <id>599240</id>
+      <parentid>498886</parentid>
+      <timestamp>2006-10-01T10:20:57Z</timestamp>
+      <contributor>
+        <username>SBJohnny</username>
+        <id>19237</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles/Connecting Stars]] moved to [[Talk:Puzzles/Geometric Puzzles/Connecting Stars]]: naming convention</comment>
+      <text xml:space="preserve"> |\
+ | \     /
+ *  *  *
+ |    X
+ *  *  *
+ | /     \
+ *--*--*--
+
+man, tough in ASCII :) [[User:Dysprosia|Dysprosia]] 08:09, 7 Oct 2003 (UTC)
+
+:That's correct, Nice job Dysprosia! And thanks for your cool ASCII art ;) [[User:ThomasStrohmann | Thomas]]</text>
+      <sha1>kowlya3iqg6ho17pgcq0o7gjz5083mm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Geometric Puzzles/Rubber Band</title>
+    <ns>0</ns>
+    <id>1517</id>
+    <revision>
+      <id>647785</id>
+      <parentid>647784</parentid>
+      <timestamp>2006-11-13T05:29:10Z</timestamp>
+      <contributor>
+        <username>Think Fast</username>
+        <id>10874</id>
+      </contributor>
+      <minor />
+      <comment>correct capitalization of links</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Geometric Puzzles|Geometric puzzles]] | Rubber Band
+----
+
+Imagine a rubber band which is infinitely thin and fixed on one end onto a plane with a nail. In its relaxed state it measures exactly 6cm and can be stretched to exactly 8cm.
+
+''Your task is to construct a right-angled triangle in the plane using only the rubber band, your absolutely precise hands and a sharp pencil.''
+
+[[Puzzles/Geometric Puzzles/Rubber Band/Solution 1|Solution 1]] | [[Puzzles/Geometric Puzzles/Rubber Band/Solution 2|Solution 2]]
+
+[[Category:Puzzles]]</text>
+      <sha1>eicw9j0xeuz706bnysyviyw5kc32ocv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/Geometric Puzzles/Rubber Band</title>
+    <ns>1</ns>
+    <id>1518</id>
+    <revision>
+      <id>647776</id>
+      <parentid>647765</parentid>
+      <timestamp>2006-11-13T05:26:07Z</timestamp>
+      <contributor>
+        <username>Think Fast</username>
+        <id>10874</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles/Geometric puzzles/Rubber Band]] moved to [[Talk:Puzzles/Geometric Puzzles/Rubber Band]]: capitalization</comment>
+      <text xml:space="preserve">One point (A) of the triangle will be the point where the band is fixed to the plane.
+Get the next point (B) by folding the relaxed band in half (so that it's 3cm long) and
+marking the endpoint with the pencil. The third point is more tricky. First, stretch out
+the band completely, hold it down with your finger at B and then draw a half circle (which
+will have radius 5) to the right. Also, mark the point E on this half circle: E is the point
+where the second half of the band goes over A (see below). Now repeat the process on the 
+other side: First we measure out the distance 3cm by folding the relaxed band. We get the 
+point D (which lies on the straight line that's going through AE!). Again, we draw the half 
+circle around D with the stretched (8cm) band; but now to the left. The point above A where 
+the two half circles cross is our third triangle point (C). The construction with the two 
+5cm-radius half circles around B and D guarantees that AC will be in a right angle to AB, 
+thus making ABC into a right-angled triangle (the side lengths will be AB=3cm, AC=4cm, BC=5cm 
+which satisfies Pythagoras' theorem). [[User:ThomasStrohmann | Thomas]]
+
+Figure:
+     C
+    /|
+   / |
+  /  |  
+ B---A.E.D</text>
+      <sha1>da3o0ns05f9dz977csfjvgye04vvkl6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Arithmetical puzzles</title>
+    <ns>0</ns>
+    <id>1519</id>
+    <revision>
+      <id>1391877</id>
+      <parentid>872672</parentid>
+      <timestamp>2009-01-29T14:28:00Z</timestamp>
+      <contributor>
+        <username>Swift</username>
+        <id>33592</id>
+      </contributor>
+      <minor />
+      <comment>rm {{hc-navhead|Puzzles|Set theory puzzles}}: deprecated by software feature</comment>
+      <text xml:space="preserve">* [[Puzzles/Arithmetical puzzles/Two 4s Equal 64?|Two 4s Equal 64?]]
+* [[Puzzles/Arithmetical puzzles/Four 4s Equal...|Four 4s Equal...]]
+* [[Puzzles/Arithmetical puzzles/Three Daughters|Three Daughters]]
+* [[Puzzles/Arithmetical puzzles/Eggs to Market|Eggs to Market]]
+* [[Puzzles/Arithmetical puzzles/Digits of the Square|Digits of the Square]]
+* [[Puzzles/Arithmetical puzzles/Luxury Cars|Luxury Cars]]
+* [[Puzzles/Arithmetical puzzles/Hotel Refund|Hotel Refund]]
+* [[Puzzles/Arithmetical puzzles/Logarithms Puzzle|Logarithms Puzzle]]
+* [[Puzzles/Arithmetical puzzles/Guess my Number|Guess my Number]]
+
+== Rule of three ==
+
+* [[Puzzles/Arithmetical puzzles/Hens and Eggs|Hens and Eggs]]
+
+[[Category:Puzzles]]</text>
+      <sha1>h9w40fa5elvzf76q0sgfyhkc00idk3u</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Arithmetical puzzles/Two 4s Equal 64?</title>
+    <ns>0</ns>
+    <id>1520</id>
+    <revision>
+      <id>870392</id>
+      <parentid>870383</parentid>
+      <timestamp>2007-05-18T16:40:26Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>NC</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Arithmetical puzzles|Arithmetical puzzles]] | Two 4's equals 64?
+----
+
+You can use the number 4 twice (but no other numbers) and as many mathematical operators as you wish to write
+an expression that is equal to 64.
+
+''What is the expression?''
+
+[[Puzzles/Arithmetical puzzles/Two 4s Equal 64?/Solution| solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>sg7xw9v173p41q55vqxgx6gppchkvb6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/Arithmetical puzzles/Two 4s Equal 64?</title>
+    <ns>1</ns>
+    <id>1521</id>
+    <revision>
+      <id>870385</id>
+      <parentid>589645</parentid>
+      <timestamp>2007-05-18T16:37:46Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles:Arithmetical puzzles:Two 4s Equal 64?]] moved to [[Talk:Puzzles/Arithmetical puzzles/Two 4s Equal 64?]]: NC</comment>
+      <text xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Arithmetical puzzles/Three Daughters</title>
+    <ns>0</ns>
+    <id>1522</id>
+    <revision>
+      <id>2555898</id>
+      <parentid>870410</parentid>
+      <timestamp>2013-09-11T04:14:36Z</timestamp>
+      <contributor>
+        <ip>2602:306:CECB:5060:8558:191C:DCE3:5CFB</ip>
+      </contributor>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Arithmetical puzzles|Arithmetical puzzles]] | Three Daughters
+----
+
+A salesman is at the door of a family house and tries to convince the mother to buy some of his
+products. She says: &quot;Well, I don't really need the products, but if you can guess how old my three
+daughters are I will do you a favor and buy one of them.&quot; The salesman asks the woman for a
+little help and she tells him: &quot;The product of their ages is 36.&quot; As the salesman is
+not able to figure out the ages, she gives him another clue: &quot;The sum of their ages is same as the 
+number of my house (13).&quot; The salesman calculates for a little while but then says: &quot;I'm sorry, Miss,
+but I still can't figure out their ages.&quot; The mother agrees to give him a final hint: &quot;My eldest daughter 
+plays piano.&quot; After that hint the salesman was able to tell the mother her daughters ages and sell one
+of his items.
+
+''How did he figure that out?''
+
+[[Puzzles/Arithmetical puzzles/Three Daughters/Solution| solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>e8ut0rolrd80xxkbi4xe66w5rlab728</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/Arithmetical puzzles/Three Daughters</title>
+    <ns>1</ns>
+    <id>1523</id>
+    <revision>
+      <id>870406</id>
+      <parentid>360871</parentid>
+      <timestamp>2007-05-18T16:46:43Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles:Arithmetical puzzles:Three Daughters]] moved to [[Talk:Puzzles/Arithmetical puzzles/Three Daughters]]: NC</comment>
+      <text xml:space="preserve">Clue 1 - product of ages is 36: Ages must be one of
+* 36, 1, 1 (although this is pretty unlikely)
+* 18, 2, 1
+* 12, 3, 1
+* 9,  4, 1
+* 9,  2, 2
+* 6,  3, 2
+* 4,  3, 3
+
+Am I missing any?
+
+Clue 2 - sum of ages is same as number of my house
+* 36 + 1 + 1 = 38
+* 18 + 2 + 1 = 21
+* 12 + 3 + 1 = 16
+
+* 9  + 4 + 1 = 14
+* 9  + 2 + 2 = 13
+* 6  + 3 + 2 = 11
+* 4  + 3 + 3 = 10
+
+Since the salesman knows the number of the house, he should be able to work it out. If two of the sums were the same, and one of them had the largest two ages the same, then the third clue (''My eldest daughter plays piano'') would confirm that it was the other one.
+
+So what is wrong with my math? I have missed something otherwise I would need clue 3. [[User:Nanobug|Nanobug]] 20:54, 10 Oct 2003 (UTC)
+
+:In the paragraph &quot;since the salesman...&quot; you have analyzed the situation perfectly! You are indeed missing one combination (hint: it adds up to 13) [[User:ThomasStrohmann | Thomas]]
+
+----
+
+The missing combination is 1, 6, 6. Combining with Nanobug's work above, the complete solution is:
+
+Clue 1: Product is 36.
+
+Factors of 36: 1, 2, 3, 4, 6, 9, 12, 18, 36. Find all combinations with product 36:
+
+:1, 1, 36
+:1, 2, 18
+:1, 3, 12
+:1, 4, 9
+:1, 6, 6
+:2, 2, 9
+:2, 3, 6
+:3, 3, 4
+
+Clue 2: Sum is house number.
+
+Sums are:
+
+:1 + 1 + 36 = 38
+:1 + 2 + 18 = 21
+:1 + 3 + 12 = 16
+:1 + 4 + 9 = 14
+:1 + 6 + 6 = 13
+:2 + 2 + 9 = 13
+:2 + 3 + 6 = 11
+:3 + 3 + 4 = 10
+
+Clue 3: Eldest plays piano.
+
+Presumably, this means there is no tie for oldest age. (Since the ages are only given to the year, it is possible for two to have the same age but one be elder than the other. Interpeted this way the clue tells us nothing. But the salesman derived pertinant information from it, so we must also.)
+
+Now the salesman knows the housenumber (though we don't). Thus if the house number is other than 13, the salesman would have been able to figure out the answer after clue 2. So the number is 13. (I guess we know it after all :-). By clue three we eliminate 1, 6, 6. So the ages of the daughters are
+
+:2, 2, and 9
+
+[[User:Eric119|Eric119]] 03:17, 11 Oct 2003 (UTC)
+
+:That's right. nice job, Eric! [[User:ThomasStrohmann | Thomas]]
+
+:: Duh! Of course! [[User:Nanobug|Nanobug]] 20:37, 13 Oct 2003 (UTC)</text>
+      <sha1>oxudaupoke2btqfxjsj2o8b5z4vfg3e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Decision puzzles</title>
+    <ns>0</ns>
+    <id>1524</id>
+    <revision>
+      <id>1391876</id>
+      <parentid>872729</parentid>
+      <timestamp>2009-01-29T14:27:37Z</timestamp>
+      <contributor>
+        <username>Swift</username>
+        <id>33592</id>
+      </contributor>
+      <comment>rm {{hc-navhead|Puzzles|Set theory puzzles}}: deprecated by software feature</comment>
+      <text xml:space="preserve">* [[Puzzles/Decision puzzles/12 Coins|12 Coins]]
+* [[Puzzles/Decision puzzles/Weighings Once More|Weighings Once More]]
+* [[Puzzles/Decision puzzles/Yet Another Weighing|Yet Another Weighing]]
+* [[Puzzles/Decision puzzles/Monty Hall|Monty Hall]]
+
+[[Category:Puzzles]]</text>
+      <sha1>6fdlyj8r9tbjs10romhv65fkbt9vdnu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Decision puzzles/12 Coins</title>
+    <ns>0</ns>
+    <id>1525</id>
+    <revision>
+      <id>872691</id>
+      <parentid>872688</parentid>
+      <timestamp>2007-05-20T22:51:40Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>the ONE time I don't click preview...</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Decision puzzles|Decision puzzles]] | 12 coins
+----
+
+You are handed 12 metal coins which look alike. However, one of them
+is fake and weighs either more or less than each of the other 11 coins (which all have identical weight). To measure or compare weights you have only a pan balance that tips down to the side with the greater weight or stays in balance if both pans hold equal weights.
+
+''With how many weightings can you find the fake coin and also determine if its weight is more or less than the weight of the other coins? How do you do it?''
+
+[[Puzzles/Decision puzzles/12 Coins/Solution|solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>5gfvmuolri8vnzjx25uajy4rw5gvcud</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/Decision puzzles/12 Coins</title>
+    <ns>1</ns>
+    <id>1526</id>
+    <revision>
+      <id>872679</id>
+      <parentid>382583</parentid>
+      <timestamp>2007-05-20T22:48:59Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles:Decision puzzles:12 Coins]] moved to [[Talk:Puzzles/Decision puzzles/12 Coins]]: NC</comment>
+      <text xml:space="preserve">For the 12 coins I would split them into 3 groups of four \and call them group A, B, and C
+Then I would perform 3 weighings. A-B A-C B-C. The two groups that do not contain the fake will balance so the fake is in the other one. Also since I know that the other two groups are genuine i can easilly tell if the fake is lighter or heavier by seeing which way the balancve went when the fake group was weighed against one of the other two.
+
+I now have four coins, and know if the fake is heavier or lighter . So I split in half and weigh then split in half and weigh again. 
+
+This gives 5 weighings in total. [[User:Theresa knott|Theresa knott]] 09:19, 6 Oct 2003 (UTC)
+
+:Good, this is a valid solution! If you want you can try and improve it - the optimum is just 3 weighings.[[User:ThomasStrohmann | Thomas]]
+::OK I'm thinking out loud here so let's see what I xcome up with:
+
+Split into three groups ABC as before. WEIGH A-B they will either balance or not.
+
+
+'''scenario 1 A and B balance'''
+
+*The fake is therefore in C.
+*label the coins s,t,u,v
+*weigh s,t, against u,v. and note which side goes down
+*Now weight s,u, against t,v. 
+*from this you can work out the fake.
+*Total 3 weighings
+[[User:Theresa knott|Theresa knott]]
+
+
+'''scenario 2 A and B  do not balance'''
+*Note which group A or B was heavier.
+*Split A into two subgroups w,x each with two coins in Split B into y, z.
+*rearrange As wy, xz and reweigh. note which side was heavier.
+*From this you can work out wich pair of coins contains the fake and if the fake is heavier or lighter.
+*Let's say x comes out as heavier than the other three groups, weigh the two coins of x against one another to find the fake
+*Total 3 weighings
+
+(Man I'm proud of myself. That one was tricky)[[User:Theresa knott|Theresa knott]] 08:41, 7 Oct 2003 (UTC)
+
+: You're on the right way... However, there are some little issues still there. For scenario 1 you could for example observe that s,t is heavier than u,v and that s,u is heavier than t,v. But there are still two possibilities left: s could be fake and heavier OR v could be fake and lighter. Similarly, in the second weighing of scenario 2 you will for instance not know whether a coin of w is fake and heavier or a coin of z is fake and lighte. Keep working on it, you're really close! [[User:ThomasStrohmann | Thomas]]
+
+Lord Emsworth:
+Now restaing &quot;A and B do not Balance&quot;
+
+* Note whether A is heavier or B is heavier.
+* The Heavy coins will be referred to as Hi while the light coins will be referred to as Lt. The coins themselves will become H1, H2, H3, or H4, and also L1, L2, L3, and L4.
+* Obviously, group C has only normal coins: the abnormality is in Hi or Lt. (C is also counted as C1, C2, C3, and C4)
+* Take H1 and put it in Lt, and take L1 and put it in C, creating [1 group: three Lt + one Hi] and [1 group: three C + 1 Lt]. 
+* NOTE: H1 cannot be lighter than C &amp; L1 cannot be heavier than C
+:# IF [three Lt + one Hi] = [three C + 1 Lt] THEN [H2 or H3 or H4] is counterfit and heavier. ''C is assumed normal. If the two sides are equal, then both sides are normal. This only leaves H2, H3, and H4.''
+:# IF [three Lt + one Hi] &lt; [three C + 1 Lt] THEN [L2 or L3 or L4] is counterfit and lighter. ''The side with H1 is lighter, so H1 cannot be heavy. Therefore, H1 is normal. The side with L1 is heavier, so L1 cannot be light. Therefore L1 is normal. C is assumed normal. This only leaves L2, L3, or L4 as light and counterfit.
+:# IF [three Lt + one Hi] &gt; [three C + 1 Lt] THEN L1 is counterfit and lighter or H1 is counterfit and heavier. ''Since the Cs are defined as normal but are on the lighter side, two possibilities exist: one coin with the C's is light or one coin with the Lt's is heavy. Thus, either H1 is heavy and counterfit or L1 is light and counterfit.''
+* Next Step: 
+:# [H2 or H3 or H4] is heavier: Compare H3 and H4. If they are equal, then H2 is counterfit and heavy. If H3 is heavier than H4, H3 is counterfit and heavy. If H4 is heavier than H3, H4 is counterfit and heavy.
+:# [L2 or L3 or L4] is lighter: Compare L3 and L4. If they are equal, then L2 is counterfit and light. If L3 is lighter than L4, L3 is counterfit and light. If L4 is lighter than L3, L4 is counterfit and light.
+:# H1 is counterfit and heavy or L1 is counterfit and light: Compare L1 and C. If L1 is equal to C, then H1 is counterfit and heavy. If L1 is lighter than C, then L1 is counterfit and light.
+QED(Is this the right acronym?) [[User:Lord Emsworth|Lord Emsworth]] 00:26, 11 Oct 2003 (UTC)
+
+:very good explanation Lord Elmsworth! This solves the case where A and B are not in balance. For A and B in balance we will need a similar trick to find the fake coin. [[User:ThomasStrohmann | Thomas]]
+
+'''using scenario 1 A and B balance'''
+*The fake is therefore in C.
+*label the coins in pile C {S,T,U,V} and label all the other coins N (for normal weight)
+*weigh S vs T
+*If they weigh the same then S and T can be marked/changed to N
+*If they don't weigh the same then U and V can be marked/changed to N
+* This should leave you with two unknowns (either {S,T} or (U,V))
+*Then weigh either of the two unknowns against one of the N coin
+*If the scale balances the other is the fake if not the one being weighed is the fake
+(Note: if the scale balances we know which is the fake but we do not know if it was lighter or heavier, if the scale tips in either direction the weight difference will be known)
+ *Total 3 weighings</text>
+      <sha1>5gx6c783xvgq63202255rzpn0lnswdx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Decision puzzles/Weighings Once More</title>
+    <ns>0</ns>
+    <id>1527</id>
+    <revision>
+      <id>872703</id>
+      <parentid>872694</parentid>
+      <timestamp>2007-05-20T22:53:32Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>NC</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Decision puzzles|Decision puzzles]] | Weighings once more
+----
+
+You want to use a balance to weigh items that have an integral weight between 1 ounce and 40 ounces
+(integral means that no fractions such as 1.5 ounces are allowed).
+
+''What is the fewest number of weights you need?''
+
+[[Puzzles/Decision puzzles/Weighings Once More/Solution| solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>1ibvam8hlw1tnni6b7x5bimi91uf535</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/Decision puzzles/Weighings Once More</title>
+    <ns>1</ns>
+    <id>1528</id>
+    <revision>
+      <id>872696</id>
+      <parentid>647915</parentid>
+      <timestamp>2007-05-20T22:52:13Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles:Decision puzzles:Weighings Once More]] moved to [[Talk:Puzzles/Decision puzzles/Weighings Once More]]: NC</comment>
+      <text xml:space="preserve">I would tentatively say 8, the number of divisors of 40? [[User:Dysprosia|Dysprosia]] 04:38, 11 Oct 2003 (UTC)
+
+You can see the weights as a kind of &quot;physical bits&quot;, because it can be either in the collection or not. 
+
+With n bits you can represent no more than &lt;math&gt;2^n&lt;/math&gt; different states (including 0), which is proved trivially. Therefore, for a given 40 states, the lower bound for the number of weights is 6.
+
+At first, we select 5 weights to represent the numbers 1 to 31:
+
+:1 2 4 8 16
+
+For the sixth weight, we can choose any weight &lt;math&gt;a&lt;/math&gt; with  &lt;math&gt;9\le a\le 32 &lt;/math&gt;
+
+[[User:doopdoop|doopdoop]]
+
+:The solution is OK, however, it can be done with less weights. (hint: you can also place weights on the side of the object you want to weigh - so one weight can carry more information than just a bit:). [[User:ThomasStrohmann | Thomas]]
+
+This looks like the same puzzle as [[Puzzles/Logic puzzles/Scales and Weights|Scales and Weights]] (also solved, with the better solution listed) [[User:Valhalla|Valhalla]] 12:45, 11 Jun 2005 (UTC)</text>
+      <sha1>1e801smju9whmd79trrfcze1pkdpcpy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Action sequences</title>
+    <ns>0</ns>
+    <id>1529</id>
+    <revision>
+      <id>870364</id>
+      <parentid>870313</parentid>
+      <timestamp>2007-05-18T16:25:33Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>NC</comment>
+      <text xml:space="preserve">[[Puzzles]] | Action sequences
+----
+
+* [[Puzzles/Action sequences/Sharing Milk|Sharing Milk]]
+* [[Puzzles/Action sequences/Three Bottles|Three Bottles]]
+* [[Puzzles/Action sequences/Crossing the River|Crossing the River]]
+* [[Puzzles/Action sequences/Crossing the River II|Crossing the River II]]
+* [[Puzzles/Action sequences/Barrel of Ale|Barrel of Ale]]
+
+[[Category:Puzzles]]</text>
+      <sha1>7tqg4rbv6oyu8y3vvdt82ksd8iu5d67</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Action sequences/Sharing Milk</title>
+    <ns>0</ns>
+    <id>1530</id>
+    <revision>
+      <id>870324</id>
+      <parentid>870316</parentid>
+      <timestamp>2007-05-18T16:12:27Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>NC</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Action sequences|Action sequences]] | Sharing Milk
+----
+
+You have an 8 liter bucket full of milk and two empty buckets, one with a 5 liter volume and the other
+with a 3 liter volume.  You have no means of measurement other than the buckets themselves, which are not calibrated.
+
+''How can you evenly distribute the milk into two portions of precisely 4 liters?''
+
+[[Puzzles/Action sequences/Sharing Milk/Solution|Solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>9fv0hfhvai1wjvzax9yhd512x8c7vqq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/Action sequences/Sharing Milk</title>
+    <ns>1</ns>
+    <id>1531</id>
+    <revision>
+      <id>870318</id>
+      <parentid>335135</parentid>
+      <timestamp>2007-05-18T16:10:36Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles:Action sequences:Sharing Milk]] moved to [[Talk:Puzzles/Action sequences/Sharing Milk]]: NC</comment>
+      <text xml:space="preserve">* Pour 3 from '''8''' into '''3'''
+* Pour 3 from '''3''' into '''5'''
+* Pour 3 from '''8''' into '''3'''
+* Pour 2 from '''3''' into '''5''' ('''5''' is then full, leaving 1 in '''3''')
+* Pour 5 from '''5''' into '''8'''
+* Pour 1 from '''3''' into '''5'''
+* Pour 3 from '''8''' into '''3'''
+* Pour 3 from '''3''' into '''5''' ('''5''' had 1 in it, now it has 4, '''8''' also has 4, problem solved)
+[[User:Nanobug|Nanobug]] 20:41, 10 Oct 2003 (UTC)
+
+:Absolutely right! Good job, Nanobug. (In the official solution we might want to show the amount of milk in each bucket for every step) [[User:ThomasStrohmann | Thomas]]
+
+== This solution is one move shorter ==
+
+* Pour 5 from '''8''' into '''5'''
+* Pour 3 from '''5''' into '''3''' (leaving 2 in '''5''')
+* Pour 3 from '''3''' into '''8''' (now 6 in '''8''')
+* Pour 2 from '''5''' into '''3'''
+* Pour 5 from '''8''' into '''5''' (leaving 1 in '''8''')
+* Pour 1 from '''5''' into '''3''' (which is now full, leaving 4 in '''5''')
+* Pour 3 from '''3''' into '''8'''
+
+-- [[User:Smjg|Smjg]] 15:17, 8 Nov 2004 (UTC)</text>
+      <sha1>chzz8q2bt5mbq3i3yvmqei9v8uawge9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Action sequences/Crossing the River</title>
+    <ns>0</ns>
+    <id>1532</id>
+    <revision>
+      <id>870342</id>
+      <parentid>870334</parentid>
+      <timestamp>2007-05-18T16:17:51Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>NC</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Action sequences|Action sequences]] | Crossing the River
+----
+
+A farmer wants to cross a river and take with him a wolf, a goat, and a cabbage. There is a boat that can fit himself plus either the wolf, the goat, or the cabbage. If the wolf and the goat are alone on one shore, the wolf will eat the goat. If the goat and the cabbage are alone on the shore, the goat will eat the cabbage.
+
+''How can the farmer bring the wolf, the goat, and the cabbage across the river?''
+
+[[Puzzles/Action sequences/Crossing the River/Solution|Solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>jupwqyjzb8rwrvjrb6jmi125hwqqdo2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Puzzles/Action sequences/Crossing the River</title>
+    <ns>1</ns>
+    <id>1533</id>
+    <revision>
+      <id>870336</id>
+      <parentid>334488</parentid>
+      <timestamp>2007-05-18T16:15:43Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Puzzles:Action sequences:Crossing the River]] moved to [[Talk:Puzzles/Action sequences/Crossing the River]]: NC</comment>
+      <text xml:space="preserve">Hmmm, I thought it was easy, but no one's posted? Here goes. Farmer takes goat over, leaves wolf and cabbage. Leaves goat and returns to original side. takes cabbage, goes to opposite side. When he returns, takes the goat with him to the original side, leave the goat and pick up the wolf. Go over, leave wolf with cabbage on opposite side, return for goat. There you go. [[User:Etothex|Etothex]] 02:05, 11 Oct 2003 (UTC)
+
+:Yep, that's right! Good job. [[User:ThomasStrohmann | Thomas]]</text>
+      <sha1>olzi1l21ckzaga9w4xubm8nofpsqkwi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Action sequences/Crossing the River II</title>
+    <ns>0</ns>
+    <id>1534</id>
+    <revision>
+      <id>870355</id>
+      <parentid>870351</parentid>
+      <timestamp>2007-05-18T16:21:21Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>I dont know how that ended up as a redlink... but fixed it</comment>
+      <text xml:space="preserve">[[Puzzles]] | [[Puzzles/Action sequences|Action sequences]] | Crossing the River II
+----
+
+There are six persons on the shore: Three fathers and each of them has a son. The sons are afraid to be nearby a different father (or fathers) if their own father is not there (both at the boat and the either of shores). There is a boat that can hold a maximum of two persons (you can assume that the sons are able to row the boat).
+
+''How can the six people get across the river?''
+
+[[Puzzles/Action sequences/Crossing the River II/Solution/|Solution]]
+
+[[Category:Puzzles]]</text>
+      <sha1>ns5ewofzf4t1watt27x3h0qp5zkjfbv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

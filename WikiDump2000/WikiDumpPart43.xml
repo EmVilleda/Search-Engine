@@ -1,0 +1,3844 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>French/Grammar/Tenses/Imperfect</title>
+    <ns>0</ns>
+    <id>1564</id>
+    <revision>
+      <id>2276972</id>
+      <parentid>2276970</parentid>
+      <timestamp>2012-03-01T13:04:54Z</timestamp>
+      <contributor>
+        <ip>115.248.114.51</ip>
+      </contributor>
+      <comment>/* Examples */</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{FrenchToC}}&lt;/noinclude&gt;
+
+''Imparfait'' in French
+
+== Usage of the Imperfect ==
+
+The imperfect is used in French under several different circumstances. The imperfect is used:
+ 
+* To refer to previously ongoing and repeated events that are now completely finished.
+
+* To express an action that happened often in the past, such as a habit that one has grown out of. For example, &quot;I '''used to eat''' a kiwi while watching the news.&quot; is in French, &quot;Je '''mangeais''' un kiwi en regardant les informations.&quot;
+
+* In describing the past, including things such as: time, location, weather, age, physical appearance, physical and emotional conditions or states, attitudes and desires and other mental experiences.
+
+* Actions that occurred while something else was happening.
+
+* To compare and contrast events in the present with events in the past. 
+
+* To talk about the emotions or abstract qualities of a person/thing in the past or to discuss an irritating quality or subject.
+
+* To suggest or ask certain &quot;forceful&quot; questions such as, &quot;Si on faisait une promenade?&quot;
+
+* When phrases like ''I used to do...'' and ''I would do...'' are used in English.
+
+== Formation of the Imperfect ==
+
+=== Imperfect Stem ===
+
+* For ''all'' verbs except for ''&amp;ecirc;tre'', the imperfect stem is determined by removing the -ons from the nous form of the present indicative of the verb. 
+* Certain verbs (-cer and -ger verbs) are stem-changing in the nous form of the present indicative; these are stem-changing the imperfect also. The stem change that applies in the present indicative is retained when conjugating the je, tu, il, and ils forms of the imperfect. That stem change is reversed when conjugating the nous and vous forms of the imperfect. 
+* For &amp;ecirc;tre, the imperfect stem is ''&amp;eacute;t-''.
+
+=== Imperfect Ending ===
+
+* To conjugate in the imperfect, add the appropriate ending to the imperfect stem.
+
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+je
+|
+-ais
+|-
+|
+tu
+|
+-ais
+|-
+|
+il
+|
+-ait
+|-
+|
+nous
+|
+-ions
+|-
+|
+vous
+|
+-iez
+|-
+|
+ils
+|
+-aient
+|}
+
+===Examples===
+
+'''Aller'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+j'
+|
+allais
+|-
+|
+tu
+|
+allais
+|-
+|
+il
+|
+allait
+|-
+|
+nous
+|
+allions
+|-
+|
+vous
+|
+alliez
+|-
+|
+ils
+|
+allaient
+|}
+
+'''Être'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+j'
+|
+étais
+|-
+|
+tu
+|
+étais
+|-
+|
+il
+|
+était
+|-
+|
+nous
+|
+étions
+|-
+|
+vous
+|
+étiez
+|-
+|
+ils
+|
+étaient
+|}
+
+===Exceptions===
+
+'''Manger'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+je
+|
+mangeais
+|-
+|
+tu
+|
+mangeais
+|-
+|
+il
+|
+mangeait
+|-
+|
+nous
+|
+mangions
+|-
+|
+vous
+|
+mangiez
+|-
+|
+ils
+|
+mangeaient
+|}
+
+'''Commencer'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+je
+|
+commençais
+|-
+|
+tu
+|
+commençais
+|-
+|
+il
+|
+commençait
+|-
+|
+nous
+|
+commencions
+|-
+|
+vous
+|
+commenciez
+|-
+|
+ils
+|
+commençaient
+|}
+
+== Exercises ==
+
+Translate the following sentences into English:
+-Je ''jouais'' au foot quand j''avais'' douze ans, mais maintenant je nage parfois. Quand j'''avais'' douze ans j'''étais'' en forme. Une fois, le douze décembre, je ''me suis cassé'' la jambe, et je ne ''jouais'' plus au foot. Quelle tristesse!
+-Quand j'''avais'' dix ans, je ''mangeais'' beaucoup de frites.
+
+&lt;noinclude&gt;{{French Tenses}}&lt;/noinclude&gt;</text>
+      <sha1>8f53e2red9fvps41nmpvolovn2lwkqs</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Grammar/Tenses/Past historic</title>
+    <ns>0</ns>
+    <id>1565</id>
+    <revision>
+      <id>1984119</id>
+      <parentid>1978553</parentid>
+      <timestamp>2010-12-01T00:48:37Z</timestamp>
+      <contributor>
+        <username>Fetchcomms</username>
+        <id>294508</id>
+      </contributor>
+      <comment>ce</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{FrenchToC}}&lt;/noinclude&gt;
+
+== Usage of the Simple Past ==
+The simple past is mostly a literary tense, used in fairy tales, and perhaps newspapers. It is one that native French students are expected to recognize but not use.
+
+== Formation of the Simple Past ==
+
+To conjugate in this tense, one finds the stem and appends the following, as according to the table:
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#CCFFCC&quot;
+|-
+!
+Subject
+!
+Add Ending
+!
+Conjugated Verb
+|-
+|
+JE
+|
+-ai
+|
+dansai
+|-
+|
+Tu
+|
+-as
+|
+dansas
+|-
+|
+Il / Elle / On
+|
+-a
+|
+dansa
+|-
+|
+Nous
+|
+-âmes
+|
+dansâmes
+|-
+|
+Vous
+|
+-âtes
+|
+dansâtes
+|-
+|
+Ils / Elles
+|
+-èrent
+|
+dansèrent
+|}
+
+It should be noted that être, along with a few other verbs are consistent in their irregularities in the passé simple as well.
+
+
+
+=== Simple Past Stems ===
+
+* For normal verbs (not irregular);
+-er, changes it to é (manger = mangé)
+&lt;br&gt;-ir, take off the r (choisir = choisi)
+&lt;br&gt;-re, take off the re and add a u
+&lt;p&gt;
+* Certain verbs (-cer and -ger verbs) are stem-changing in the nous form of the present indicative; these are stem-changing the simple past also. The stem change that applies in the present indicative is retained when conjugating the je, tu, il, nous, and vous forms of the simple past. That stem change is reversed when conjugating the ils form of the simple past.
+* For irregular verbs whose past participle end in -u, (but not for regular -re verbs, whose past participle also end in -u), that past participle is also the simple past stem.
+* Some verbs have irregular simple past stems.
+
+'''Irregular Stems'''
+
+{| border=&quot;1&quot;
+|-
+!
+Verb
+!
+Simple Past stem
+|-
+|
+s'asseoir
+|
+s'ass-
+|-
+|
+conduire
+|
+conduis-
+|-
+|
+dire
+|
+d-
+|-
+|
+&amp;eacute;crire
+|
+&amp;eacute;criv-
+|-
+|
+faire
+|
+f-
+|-
+|
+joindre
+|
+joign-
+|-
+|
+mettre
+|
+m-
+|-
+|
+na&amp;icirc;tre
+|
+naqu-
+|-
+|
+peindre
+|
+peign-
+|-
+|
+prendre
+|
+pr-
+|-
+|
+rire
+|
+r-
+|-
+|
+voir
+|
+v-
+|}
+
+=== Simple Past Endings ===
+
+* To conjugate in the past tense, add the appropriate ending to the past participle. There is one set of endings for irregular verbs whose past participles end in -u (&quot;irregular endings&quot;), and another set for all other verbs (&quot;regular endings&quot;).
+
+'''Regular Endings'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+je
+|
+-ai
+|-
+|
+tu
+|
+-as
+|-
+|
+il
+|
+-a
+|-
+|
+nous
+|
+-&amp;acirc;mes
+|-
+|
+vous
+|
+-&amp;acirc;tes
+|-
+|
+ils
+|
+-&amp;egrave;rent
+|}
+
+'''Irregular Endings'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+je
+|
+-s
+|-
+|
+tu
+|
+-s
+|-
+|
+il
+|
+-t
+|-
+|
+nous
+|
+-^mes
+|-
+|
+vous
+|
+-^tes
+|-
+|
+ils
+|
+-rent
+|}
+
+=== Irregular Conjugations ===
+
+* The conjugations for ''&amp;ecirc;tre'', ''mourir'', and ''venir'' are entirely irregular, and are not based on past simple stems or endings.
+
+'''&amp;Ecirc;tre'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+fus
+|-
+|
+tu
+|
+fus
+|-
+|
+il
+|
+fut
+|-
+|
+nous
+|
+fûmes
+|-
+|
+vous
+|
+fûtes
+|-
+|
+ils
+|
+furent
+|}
+
+'''Mourir'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+mourus
+|-
+|
+tu
+|
+mourus
+|-
+|
+il
+|
+mourut
+|-
+|
+nous
+|
+mour&amp;ucirc;mes
+|-
+|
+vous
+|
+mour&amp;ucirc;tes
+|-
+|
+ils
+|
+moururent
+|}
+
+'''Venir'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+vins
+|-
+|
+tu
+|
+vins
+|-
+|
+il
+|
+vint
+|-
+|
+nous
+|
+v&amp;icirc;nmes
+|-
+|
+vous
+|
+v&amp;icirc;ntes
+|-
+|
+ils
+|
+vinrent
+|}
+
+&lt;noinclude&gt;{{French Tenses}}&lt;/noinclude&gt;</text>
+      <sha1>8lsd7k3avbmewwhzwm0yvafg0ychi2i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Grammar/Tenses/Present perfect</title>
+    <ns>0</ns>
+    <id>1566</id>
+    <revision>
+      <id>2255088</id>
+      <parentid>2255074</parentid>
+      <timestamp>2012-01-21T12:23:42Z</timestamp>
+      <contributor>
+        <username>Panic2k4</username>
+        <id>2865</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/213.132.48.232|213.132.48.232]] ([[User talk:213.132.48.232|talk]]) to last version by 82.22.8.106</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{French Grammar Header}}&lt;/noinclude&gt;
+
+The passé composé is a perfect tense, and is therefore composed of an auxiliary verb and a past participle. With most verbs, that auxililary verb is avoir. 
+
+==Meaning==
+In English, verbs conjugated in the passé composé literally means ''have/has ____ed''. While there is a simple past tense in French, it is only used in formal writing, so verbs conjugated in the passé composé can also be used to mean the English simple tense. 
+*For example, the passé composé form of parler (to speak), [''avoir''] parlé, literally means ''has/have spoken'', but also means ''spoke''. In French, the passé composé covers &quot;I ate&quot;, &quot;I did eat&quot; and &quot;I have eaten&quot; - J'ai mangé.
+
+==When to use==
+You use the passé composé when you want to express that:
+#Something has been completed in the past.
+#Something was done a certain amount of times in the past. (if the something was ongoing, the [[French/Grammar/Tenses/Imperfect|imparfait]] should be used)
+#A series of somethings was completed in the past.
+
+==Formation==
+
+===Introduction===
+To conjugate a verb in the passé composé, the auxiliary (or helping) verb, usually avoir, is conjugated in the present indicative and the past participle is then added. '''It is important to remember that there is only *one* verb in the passé composé'''. While the past participle looks like a verb, it is not - it functions more like an adjective. This is important to remember because when you negate in the passé composé, you negate the ''only'' verb, which is the auxiliary verb (ex. &quot;Je n'ai pas mangé&quot;; &quot;I have not eaten&quot;). This works exactly the same way in English - the only verb is the auxiliary verb, which is also the only thing negated in English (&quot;I ''have not'' eaten&quot;).
+
+===Formation Summary===
+The compound past is a compound tense- it consists of two verbs, the [[French/Grammar/Verbs/Auxiliary|auxiliary verb]] (&quot;helper verb&quot;) and the past participle of the verb one seeks to use in this tense.
+
+To form the passé composé, you need to take the auxiliary verb - either avoir (or être for irregular verbs), then make it agree with the subject of the sentence, like in the [[French/Grammar/TensesPresent indicative|present indicative]] tense.  We then take the [[French/Grammar/Verbs/Past participle|past participle]] of the verb, and stick that on the end. 
+Every verb has one past participle that does not change (there are some exceptions, as one will learn later). To find the past participle, the stem of the infinitive must be determined. To do so, drop the -er, -ir, -oir or -re, as usual.
+
+If we want to make the statement negative, for example if we didn't do something in the past, we must always put the negative structure such as ''ne ... pas'' around the auxiliary verb, immediately before the past participle. For example, ''&quot;Je ne peux pas&quot;,''.  
+
+Also, [[French/Grammar/Verbs/Reflexive|reflexive or pronomial verbs]] must be conjugated with être under most circumstances. For example, the verb &quot;se reflechir&quot; is conjugated in the first person singular by ''&quot;Je me suis reflechi,&quot;''.
+
+===Auxiliary Verb Formation===
+*The auxiliary verb is always either avoir or être.
+*The tense of the verb depends upon the tense that avoir or être is conjugated in.
+**When the auxiliary verb is conjugated in the passé composé, for example, the auxiliary verb is conjugated in the present indicative.
+***J'ai fini. - I have finished.
+
+
+
+====Auxiliary Verb - Être====
+Conjugate être in the present indicative.
+{| class=&quot;wikitable&quot;
+| je suis||nous sommes
+|-
+| tu es||vous êtes
+|-
+| il est||ils sont
+|}
+
+===Past Participle Formation===
+*'''-er''' verbs - replace -er with é
+*'''-ir''' verbs - replace -ir with i
+*'''-re''' verbs - replace -re with u
+*irregular verbs - must be memorized
+
+{| class=&quot;wikitable&quot;
+! colspan=4 | Formation of the Past Participle
+|-
+! Verb Group||Infinitive||Stem||Past Participle
+|-
+! -er verbs
+| jou'''er'''||jou||jou'''é'''
+|-
+!-ir verbs
+|fin'''ir'''||fin||fin'''i'''
+|-
+! -re verbs
+|répond'''re'''||répond||répond'''u'''
+|}
+
+====Avoir + Past Participle====
+{| class=&quot;wikitable&quot;
+| '''J'ai joué.'''||I have played||'''Nous avons joué.'''||We have played.
+|-
+| '''Tu as joué.'''||You have played.||'''Vous avez joué.'''||You have played.
+|-
+| '''Il/Elle/On a joué.'''||He has played.||'''Ils/Elles ont joué.'''||They have played.
+|}
+
+
+====Être + Past Participle====
+{| class=&quot;wikitable&quot;
+| '''Je suis allé(e).'''||I went.||'''Nous sommes allé(e)s.'''||we went
+|-
+| '''Tu es allé(e).'''||You went.||'''Vous êtes allé(e)(s).*'''||you (all) went
+|-
+| '''Il/On est allé.'''||He went.||'''Ils sont allés.'''||they went
+|-2
+| '''Elle est allée.'''||She went.||'''Elles sont allées.'''||they went
+|}
+
+*Note that for the starred ''vous'' form, the S (which is always added for ''nous'' and ''ils/elles'') is not added if the ''vous'' is simply denoting the singular, formal you.
+
+===Past Participle Agreement with Preceding Direct Objects===
+The past participle must agree with the direct object of a clause in gender and plurality if the direct object goes before the verb.
+*the direct object is ''masculine singular'' - no change
+**J'ai fini le jeu. - I have finished the game.
+**Je l'ai fini. - I have finished it.
+*the direct object is ''feminine singular'' - add an '''e''' to the past participle
+**J'ai fini la tâche. - I have finished the task.
+**Je l'ai finie. - I have finished it.
+*the direct object is ''masculine plural'' - add an '''s''' to the past participle.
+**J'ai fini les jeux. - I have finished the games.
+**Je les ai finis. - I have finished them.
+*the direct object is ''feminine plural'' - add an '''es''' to the past participle.
+**J'ai fini les tâches. - I have finished the tasks.
+**Je les ai finies. - I have finished them.
+
+===Avoir ou Être?===
+In most circumstances, the auxiliary verb is avoir. However, with certain verbs, the auxiliary verb is être. This occurs under two different circumstances:
+
+'''1. Reflexive verbs''' always take être.
+:This distinguishes them from verbs with preceding objects pronouns. 
+
+:{| class=&quot;wikitable&quot; 
+! colspan=2| Reflexive Verbs vs. Verbs with Preceding Object Pronouns
+|-
+|'''Je me ''suis'' parlé.'''||I spoke to myself.
+|-
+|'''Il m'''a'' parlé.'''||He spoke to me.
+|}
+
+'''2. The House of Être:''' Most verbs form the ''passé composé'' with ''avoir'', however there are a small number of verbs that are always conjugated with ''être''. Seventeen special intransitive verbs take ''être'' (four of which can also take ''avoir'', as explained below).
+
+{| class=&quot;wikitable&quot; 
+! colspan=4| Verbs that take '''ÊTRE''' in the Passé Composé
+|-
+|Devenir||To become||Je suis devenu(e) normalien(ne).||I became an Ivy League student.
+|-
+|Revenir||To come back||Je suis revenu(e) dans cette salle pour chercher mon cahier.||I came back to this classroom to find my notebook.
+|-
+|Mourir||To die||Je suis mort(e) à cause des examens.&lt;br&gt;Il est mort en 1917.||I died because of my exams.&lt;br&gt;He died in 1917.
+|-
+|Rentrer||To re-enter or go home||Je suis rentré(e) de l'école.&lt;br&gt;Il est rentré tôt de l'école.||I came home from school.&lt;br&gt;He came back early from school.
+|-
+|Sortir*||To go out||Je suis sorti(e) avec des amis.||I went out with some friends.
+|-
+|Venir||To come||Je suis venu(e) vous parler.&lt;br&gt;Je suis venu(e) en France.||I came to speak to you.&lt;br&gt;I came to France.
+|-
+|Aller||To go||Je suis allé(e) à la cantine.&lt;br&gt;Je suis allé(e) au cinéma.||I went to the cafeteria.&lt;br&gt;I went to the cinema.
+|-
+|Naître||To be born (*not* a passive verb in French)||Je suis né(e) le 1 janvier.&lt;br&gt;Je suis né(e) en octobre.||I was born on January 1st.&lt;br&gt;I was born in October.
+|-
+|Descendre*||To go/take down||Je suis descendu(e) du vélo.&lt;br&gt;Il est descendu du train.||I got down from the bike.&lt;br&gt;He got out of the train.
+|-
+|Entrer||To enter||Je suis entré(e) par la porte.&lt;br&gt;Je suis entré(e) dans ma chambre.||I came in by the door.&lt;br&gt;I entered in my (bed)room.
+|-
+|Retourner||To return||Je suis retourné(e) au café le lendemain.&lt;br&gt;Il est retourné au restaurant.||I went back to the café the next day.&lt;br&gt;He returned to the restaurant.
+|-
+|Tomber||To fall||Je suis tombé(e) de ma chaise.&lt;br&gt;Je suis tombé(e) dans la piscine.||I fell out of my seat.&lt;br&gt;I fell into the pool.
+|-
+|Rester||To stay (*not* to rest)||Je suis resté(e) chez moi samedi soir.&lt;br&gt;Je suis resté(e) à la maison.||I stayed home on Saturday night.&lt;br&gt;I stayed home.
+|-
+|Arriver||To arrive||Je suis arrivé(e) en cours à l'heure.&lt;br&gt;Le train est arrivé.||I arrived in class on time.&lt;br&gt;The train has arrived.
+|-
+|Monter*||To mount, to put up, to go up, to get on||Je suis monté dans la car de l'école.||I got on the school bus.
+|-
+|Passer (par)*||To pass (by)||Je suis passé par la bibliothèque.&lt;br&gt;Il est passé devant la maison.||I passed by the library.&lt;br&gt;It happened in front of the house.
+|-
+|Partir||To leave||Je suis parti(e) pour étudier en France.&lt;br&gt;Elle est partie travailler.||I left to go study in France.&lt;br&gt;She left to go to work.
+|}
+::A useful mnemonic to help you remember these is &quot;DR.MRS.VANDERTRAMPP&quot;. Because all of these verbs except mourir, naître and rester are also verbs of movement (but be careful! not all movement verbs take être!), many also find it useful to draw a house with the verbs being acted out (&quot;The House of Être&quot;).
+
+'''2.a. Exceptions'''
+Note that there are four verbs above that are followed by a star (''sortir, descendre, monter, passer''). When a direct object is used with these verbs, the auxiliary verb becomes ''avoir''.
+
+{| class=&quot;wikitable&quot; 
+! colspan=3 | Être Verbs that take Avoir when they are followed by a Direct Object
+|-
+|SORTIR (être)||Je suis sorti(e) hier soir.||I went out last night.
+|-
+|SORTIR (avoir)||J'ai sorti le lit de ma chambre.||I took the bed out of my room.
+|-
+|DESCENDRE (être)||Je suis descendu(e) dans l'ascenseur.||I came down in the elevator.
+|-
+|DESCENDRE (avoir)||J'ai descendu le criminel.||I brought down the criminal.
+|-
+|DESCENDRE (avoir)||J'ai descendu le tableau du mur.||I took down the painting from the wall.
+|-
+|MONTER (être)||Je suis monté par l'escalier.||I came up by the stairs.
+|-
+|MONTER (avoir)||Mon chien a monté un autre chien, le cochon.&lt;br&gt;Je suis monté(e) au sommet.||My dog mounted the other dog, the pig.&lt;br&gt;I climbed to the top.
+|-
+|PASSER (être)||Je suis passé par la Tour Eiffel quand je me baladais dans le parc.||I passed by the Eiffel Tower when I was walking in the park.
+|-
+|PASSER (avoir)||J'ai passé mon examen de maths.||I took my math test. (NB: to pass an exam is ''réussir''; to take an exam, use ''passer'')
+|}
+
+&lt;noinclude&gt;{{French Tenses}}&lt;/noinclude&gt;
+
+[[es:Francés/Gramática/El verbo/Tiempos/Le passé composé]]</text>
+      <sha1>3kjqle4hx4b22pzecfi19aj0p6d28f4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>German/Lesson 1</title>
+    <ns>0</ns>
+    <id>1569</id>
+    <revision>
+      <id>2653640</id>
+      <parentid>2627311</parentid>
+      <timestamp>2014-05-11T17:57:47Z</timestamp>
+      <contributor>
+        <username>Harrybrowne1986</username>
+        <id>430968</id>
+      </contributor>
+      <minor />
+      <comment>m</comment>
+      <text xml:space="preserve">&lt;small&gt;&lt;&lt; [[German/Introduction|Vorwort]] |&lt;/small&gt; '''Lektion 1''' &lt;small&gt;| [[German/Lesson 2|Lektion 2]] &gt;&gt; |&lt;/small&gt;
+----
+
+[[File:Heidelberg Seitenstraße.jpg|thumb|336px|Auf der Straße]]
+
+== Grammatik 1-1 ~ Introduction to German grammar ==
+Knowing the parts of speech (how words function in a sentence) is important for anyone attempting to learn a second language.  English speakers will find many strong parallels between their language and German. However, as noted in the [[German/Introduction|introduction]], German grammar signals&amp;mdash;how words indicate their function in a sentence&amp;mdash;are more complex than English, and identifying the meaning of words in a German sentence is difficult without understanding these clues or signals to word function that come from the grammatical rules. The basic lessons (Level II) of this textbook are set up to first introduce the parts of speech, and then bring in the rules that govern these. Pay particular attention to both '''word endings''' and sentence '''word order''' as you progress in learning the German language.
+
+Following is a short conversation piece (''Gespräch'').  Play the audio file first, then attempt to repeat what you hear, reading the spoken parts of the conversation. Go back and forth (listening and then speaking) until the German flows easily from your lips. This may take considerable practice. Refer to the vocabulary (''Vokabeln'') below to understand the meaning of the German sentences you are hearing and speaking. 
+
+== Gespräch 1-1 ~ ''Die Freunde'' ==
+:&lt;big&gt;Heinrich trifft Karl auf der Straße. Heinrich und Karl sind Freunde.&lt;/big&gt;
+:* ''Heinrich'': &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Guten Tag, Karl. Wie geht es dir?
+:* ''Karl'': &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Guten Tag. Danke, mir geht es gut. Und dir?
+:* ''Heinrich'': &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Danke, mir geht es gut. Auf Wiedersehen.
+:* ''Karl'': &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Auf Wiedersehen!
+&lt;/big&gt;
+
+In this conversation we learn several simple greetings exchanged between friends meeting very briefly on the street.
+
+== Vokabeln 1-1 ==
+This first vocabulary (''Vokabeln'') may seem a bit long considering you have been 
+presented with only the brief conversation piece above, but it also contains all of the 
+German words you have encountered up to this point in the Level II textbook, including 
+words in photo captions and lesson section headers. The layout of the ''Vokabeln'' is 
+explained in the [[German/Introduction|Lesson Layout Guide]] in the German~English 
+textbook introduction, but the four parts of the ''Vokabeln'' are labeled in this first 
+lesson to reenforce the concept. Note that column 3 may contain (in parentheses) 
+additional notes about a word in column 1. Also, you can find the greeting phrases that 
+appear in the simple conversations above (and many others) in [[German/Appendices/Phrasebook|Appendix
+2]], a German-English phrase book.
+
+              NOUNS
+
+ der Anhang, die Anhänge      appendix, appendices      (singular and plural)
+ die Brücke                   bridge
+ der Freund, die Freunde      friend, friends           (singular and plural)
+ das Ge'''spräch''', die Ge'''spräch'''e  conversation, conversations
+ die Gram'''mat'''ik                grammar                   (note irregular stress) 
+ die Lek'''tion'''                  lesson                    (note irregular stress)
+ die Straße                   street
+ das Tor                      gateway
+ die Vo'''ka'''beln                 word list, vocabulary
+ das Vorwort                  foreword, preface         (introduction to a book)
+
+              SHORT PHRASES
+
+ auf der Straße               on the street
+ Auf Wiedersehen              Good bye
+ Mir geht es gut              I am fine                 (lit: 'It goes with me good')
+ Guten Tag!                   Good day                  (greeting)
+ Und dir?                     And you?                  (implied: 'And how are you?')
+ unter Freunden               between friends
+ Wie geht es dir?             How are you               (lit: 'How goes it with you?') 
+ Wie geht's?                  How are you?              (casual, but more commonly used)
+
+              VERBS
+
+ gehen                        go                        (''geht'' is &quot;goes&quot;)
+ treffen                      meet, come upon           (''trifft'' is &quot;meets&quot;)
+
+              OTHER &quot;SMALL&quot; WORDS (adjectives, adverbs, prepositions, etc.)
+
+ danke                        thank you; thanks
+ dir                          (with or for) you
+ einfach                      simple
+ es                           it
+ gut                          good
+ mir                          (with or to) me
+ und                          and 
+ wie?                         how?
+
+:* &lt;small&gt;&lt;&lt; [[German/Introduction|Lesson Layout Guide]]&lt;br/&gt;
+::&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[German/Appendices/Alphabet|Pronunciation Guide]] &gt;&gt; &lt;/small&gt;
+
+== Gespräch 1-2 ~ ''Die Studenten'' == 
+:&lt;big&gt;Markus ist Student. Er studiert Biologie. Er begegnet Katrin. Sie studiert Mathematik. Markus und Katrin sind Freunde.&lt;/big&gt;
+:*''Markus'': &lt;big&gt;&amp;nbsp;&amp;nbsp;Hallo, Katrin! Wohin gehst du?&lt;/big&gt;
+:*''Katrin'': &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Ich gehe einkaufen. Der Kühlschrank ist fast leer. Ich brauche Wurst und Käse. Und du? Wohin gehst du? 
+:*''Markus'': &lt;big&gt;&amp;nbsp;&amp;nbsp;Zur Uni. Ich habe viel zu tun. 
+:*''Katrin'': &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Gut! Dann bis bald. Tschüss. 
+:*''Markus'': &lt;big&gt;&amp;nbsp;&amp;nbsp;Tschüss, Katrin.
+&lt;/big&gt;
+
+Here again, two friends (college students) meet casually and discuss briefly what each is doing.
+
+== Grammatik 1-2 ~ Word Order in Questions ==
+Basic or '''normal word order''' in simple German sentences is the same as in English&amp;mdash;subject then verb then verb object:
+:     ''Ich habe Käse''   ~   I (subject) have (verb) cheese (verb object = what you &quot;have&quot;)                 
+Unlike with English sentence structure, a question sentence in German is formed by reversing subject and verb: 
+:     ''Hast du Käse?''  ~    Have (verb) you (subject) cheese?                     
+This is called '''inverted word order'''. Examples are provided in Gespräch 1-1 and Gespräch 1-2. As another example, consider the statement: ''Er studiert Biologie'' ('He studies biology'). A question statement might be: ''Was studiert er?'' ('What studies he?'; although in English, we would usually say: &quot;What is he studying?&quot;). The normal word order of subject (''er'' or &quot;he&quot;) then verb (''studiert'' or &quot;study&quot;) is reversed and, in this case, an '''interrogative''' (''was'' or &quot;what&quot;) added onto the front replacing the unknown (to the speaker) object (here, &quot;biology&quot;). Additional examples of questions formed from basic statements illustrate inverted word order:
+: ''Wie geht es dir?'' from ''Es geht mir gut.'' ('It goes well with me.')
+: ''Wohin geht sie?'' from ''Sie geht einkaufen.'' ('She goes shopping.')
+: ''Was ist fast leer?'' from ''Der Kühlschrank ist fast leer.'' ('The fridge is almost empty.')
+: ''Was brauche ich?'' from ''Ich brauche Wurst und Käse.'' ('I need sausage and cheese.')
+: ''Versteht sie mich?'' from ''Sie versteht mich.'' ('She understands me.')
+
+== Grammatik 1-3 ~ Introduction to pronouns ==
+A '''[[Wikipedia:en:Pronoun|pronoun]]''' (''Pronomen'') is a short word that takes the place of a noun previously mentioned in the sentence, paragraph, or conversation. A pronoun substitutes for a noun or noun phrase and designates persons or things asked for, previously specified, or understood from context.  A specific pronoun in English as well as German has '''person''', '''number''', and '''case'''. You will be encountering all of the common German pronouns in the next several lessons, so we will track these as they appear. The following '''familiar''' personal pronouns are introduced in this lesson (''Lektion 1''):
+  ''ich'' &amp;ndash; I      (1st person, singular, nominative case)
+  ''mich'' &amp;ndash; me    (1st person, singular, accusative case)
+  ''mir'' &amp;ndash; me     (1st person singular, dative case)
+
+  ''du'' &amp;ndash; you     (2nd person, singular, nominative case)
+  ''dich'' &amp;ndash; you   (2nd person, singular, accusative case)
+  ''dir'' &amp;ndash; you    (2nd person singular, dative case)
+
+  ''er'' &amp;ndash; he      (3rd person singular, nominative case)
+  ''sie'' &amp;ndash; she    (3rd person singular, nominative case) 
+  ''es'' &amp;ndash; it      (3rd person singular, nominative case)
+Pronoun '''person''' describes the relationship of the word to the speaker (that is, ''1st person'' &lt;u&gt;is&lt;/u&gt; the speaker; ''2nd person'' is &lt;u&gt;spoken to&lt;/u&gt;; and ''3rd person'' is &lt;u&gt;spoken about&lt;/u&gt;). Pronoun '''number''' refers to whether the word represents one (''singular'') or more than one (''plural'') person or object. Finally, '''case''' indicates how the pronoun is used in a sentence, as will be explained over the next several lessons.  For now, note in the examples you have already encountered, the three cases of 1st person singular pronouns in German: ''ich'', ''mich'', and ''mir''.  In English these are: 'I', 'me', and (''to'' or ''with'') 'me' &amp;mdash; in essence, there are really just two cases in English: subjective ('I') and objective ('me'). You will shortly see that there are similarities, yet distinct differences, in the cases as used by the English and German languages.
+
+== Vokabeln 1-2 ==
+              NOUNS
+ 
+ die Antwort, die Antworten   answer(s)                 (singular and plural)
+ die Biolo'''gie'''                 biology                   (note irregular stress)
+ die Freundin, die Freunde    (female) friend, friends  (compare ''der Freund'')
+ der Käse                     cheese
+ der Kühlschrank              refrigerator
+ die Mathema'''tik'''               mathematics               (note irregular stress)
+ das Pro'''no'''men                 pronoun                   (note irregular stress)
+ der Student, die Studentin   student, (female) student
+ die Uni                      university                (a short form of ''die Universität'') 
+ die Über'''setz'''ung              translation               (lit. &quot;over-setting&quot;)
+ die Universi'''tät'''              university                (note irregular stress)
+ die Wurst                    sausage, banger
+
+              SHORT PHRASES
+
+ Dann bis bald!                then until (we) soon (meet again) (&quot;until then&quot;)
+ zu tun                        to do
+
+              VERBS
+
+ begegnen                     meet
+ brauchen                     need, want, require
+ einkaufen gehen              go shopping
+ haben                        have
+ studieren                    study
+ verstehen                    understand
+
+               OTHER &quot;SMALL&quot; WORDS
+
+ an                           to (towards)
+ bald                         soon
+ bis                          until
+ dann                         then
+ du                           you
+ er                           he
+ fast                         almost
+ hallo                        hello
+ ich                          I
+ leer                         empty, vacant
+ mich                         me
+ schön                        beautiful                 (in this case, 'nice' or 'fine')
+ sehr                         very
+ sie                          she                       
+ tschüss                      so long                   (good bye)
+ viel                         much
+ was?                         what?
+ wohin?                       where?
+:*&lt;small&gt;&lt;&lt; [[German/Introduction#Layout_of_Lessons|Lesson Layout Guide]]&lt;br/&gt;
+::&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[German/Appendices/Alphabet|Pronunciation Guide]] &gt;&gt; &lt;/small&gt;
+
+== &lt;font color=&quot;SaddleBrown&quot;&gt;Übersetzung 1-1&lt;/font&gt; ==
+By referring back to lesson examples, you should be able to write out the following sentences in German.  On a piece of paper, first number and write each English sentence. Then review the lesson above and produce a German sentence that says the same thing as each English sentence. After all seven lines are translated, follow the ''Antworten'' (answers) link to compare your work with the correct ones. Do not be too concerned at this point if your spelling of the German verbs do not match the answers.  You will learn all about German verb forms in later lessons.
+
+# Good day, Mark! How are you?
+# Thanks, I am well. And you?
+# Good bye, Henry!
+# Catherine needs cheese.
+# She understands the lesson well.
+# So long, Mark! Until we meet again.
+# Where is he going?
+
+:* [[German/Answers_1#Lektion_1 Antworten|Antworten]] &gt;
+
+{{BookCat}}
+&lt;noinclude&gt;{{German/Level II/Footer}}&lt;/noinclude&gt;</text>
+      <sha1>5g475gw34o6mpqo9hojo77cg1235t68</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Puzzles/Decision puzzles/Weighings Once More/Solution</title>
+    <ns>0</ns>
+    <id>1570</id>
+    <revision>
+      <id>872699</id>
+      <parentid>512170</parentid>
+      <timestamp>2007-05-20T22:52:41Z</timestamp>
+      <contributor>
+        <username>Mattb112885</username>
+        <id>33615</id>
+      </contributor>
+      <minor />
+      <comment>[[Puzzles:Decision puzzles:Weighings Once More:Solution]] moved to [[Puzzles/Decision puzzles/Weighings Once More/Solution]]: NC</comment>
+      <text xml:space="preserve">Pathetic drawing following
+      /|\
+     / | \
+    /  |  \#
+  ---- | ----
+       |
+    -------  
+
+
+Weight to be measured is #.
+
+We prove, that 4 is the minimum size of a weighing set to measure the numbers from 1 to 40.
+
+* First Observation: each weight of your weighing set can be in three states. It can be on the left side, on the right side or not on the scale at all. So, for n weights, there is a maximum of 3&lt;sup&gt;n&lt;/sup&gt; combinations possible.
+
+* Second Observation: A valid weighing for a object of weight x must satisfy the equation
+ W&lt;sub&gt;l&lt;/sub&gt; = W&lt;sub&gt;r&lt;/sub&gt; + x
+where W&lt;sub&gt;l&lt;/sub&gt; and W&lt;sub&gt;r&lt;/sub&gt; are the sum of all weights on left resp. right side. x has a unique solution for every pair of W&lt;sub&gt;l&lt;/sub&gt; and W&lt;sub&gt;r&lt;/sub&gt;.
+
+* Third observation: if there is a valid weighing for a positive x, there must be a valid weighing for -x. For every weighing set there is a trivial solution for 0. If we want a solution for all numbers from 1 to 40, n must be at least 4, because 3&lt;sup&gt;4&lt;/sup&gt;&amp;nbsp;=&amp;nbsp;2&amp;nbsp;•&amp;nbsp;40&amp;nbsp;+&amp;nbsp;1.
+
+
+Now, we construct a minimum solution:
+
+Lemma:  The weighing set S(n)&amp;nbsp;=&amp;nbsp;{1,&amp;nbsp;3,&amp;nbsp;...,&amp;nbsp;3&lt;sup&gt;n&lt;/sup&gt;} can measure all weights between 1 and |S(n)|.  
+
+Proof by induction:
+For S(0) the lemma trivially holds.
+Assume that the lemma holds for S(n). We will now prove that it holds for S(n+1).
+Because S(n) is a subset of S(n+1), we can surely measure all weighs between 1 and |S(n)|&amp;nbsp;=&amp;nbsp;(3&lt;sup&gt;n&amp;nbsp;+&amp;nbsp;1&lt;/sup&gt;)/2 without using the weight 3&lt;sup&gt;n+1&lt;/sup&gt;. By adding this weight on the left side, we can reach all solutions between 3&lt;sup&gt;n+1&lt;/sup&gt;&amp;nbsp;-&amp;nbsp;(3&lt;sup&gt;n+1&lt;/sup&gt;)/2&amp;nbsp;=&amp;nbsp;|S(n)|&amp;nbsp;+&amp;nbsp;1 and 3&lt;sup&gt;n+1&lt;/sup&gt;&amp;nbsp;+&amp;nbsp;(3&lt;sup&gt;n+1&lt;/sup&gt;)/2&amp;nbsp;=&amp;nbsp;3&lt;sup&gt;n+2&lt;/sup&gt;/2&amp;nbsp;=&amp;nbsp;|S(n+1)|. QED.
+
+Because of |S(3)|&amp;nbsp;=&amp;nbsp;40, a solution to the problem is the weighing set {1,3,9,27}, which is minimal.
+
+Questions:
+*Prove that this is a unique solution. 
+*Can somebody think about an extension to a &quot;fourth dimension&quot; ?
+
+[[Category:Puzzles]]</text>
+      <sha1>i7fetpozxbh3gi9wxomlgyje4c6frt1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Grammar/Tenses/Past conditional</title>
+    <ns>0</ns>
+    <id>1571</id>
+    <revision>
+      <id>2361503</id>
+      <parentid>2359931</parentid>
+      <timestamp>2012-06-09T17:09:54Z</timestamp>
+      <contributor>
+        <username>Recent Runes</username>
+        <id>66908</id>
+      </contributor>
+      <comment>move comment to talk page</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{FrenchToC}}&lt;/noinclude&gt;
+
+== Usage of the Past Conditional ==
+Past conditional is used to refer to an event that could have taken place in the past. Eg. &quot;If he had not got hungry, we would have gone further.&quot;
+
+== Formation of the Past Conditional ==
+
+* The past conditional is a compound tense- it consists of two verbs, the auxiliary verb and the past participle one seeks to use in this tense.
+* The auxiliary verb is conjugated as if it were being used in the present conditional.
+* The past participle is placed immediately after the auxiliary verb.
+* A negative structure such as ''ne ... pas'' is always placed around the auxiliary verb, not the past participle.
+
+&lt;noinclude&gt;{{French Tenses}}&lt;/noinclude&gt;
+
+[[es:Francés/Gramática/El verbo/Tiempos/Le conditionnel passé]]</text>
+      <sha1>9xf270u0ten0owzaolyycsmdaz49h63</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Grammar/Verbs/Auxiliary</title>
+    <ns>0</ns>
+    <id>1572</id>
+    <revision>
+      <id>1846172</id>
+      <parentid>376315</parentid>
+      <timestamp>2010-06-19T18:47:50Z</timestamp>
+      <contributor>
+        <username>Hagindaz</username>
+        <id>19723</id>
+      </contributor>
+      <minor />
+      <comment>formatting</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{French}}&lt;/noinclude&gt;
+
+== Usage ==
+
+== ''Avoir'' or ''&amp;ecirc;tre'' ==
+
+* For the verbs ''aller'', ''arriver'', ''descendre'', ''entrer'', ''monter'', ''mourir'', ''na&amp;icirc;tre'', ''passer'', ''partir'', ''rentrer'', ''rester'', ''retourner'', ''sortir'', ''tomber'', and ''venir'', the auxiliary verb is ''&amp;ecirc;tre''.
+* For pronomial verbs (verbs indicating that the subject performs the action upon itself) ''&amp;ecirc;tre'' is the auxiliary verb. 
+* For all other verbs, ''avoir'' is the auxiliary verb.
+* When a verb that is normally conjugated with ''&amp;ecirc;tre'' is used transitively (along with a direct object), ''avoir'' is the auxiliary verb.
+* When a pronomial verb is used with an indirect object, ''avoir'' is the auxiliary verb.
+
+&lt;noinclude&gt;{{French/Grammar/Tenses}}&lt;/noinclude&gt;</text>
+      <sha1>db8a0ea0shsd3yo2bv1jdtxp5usp849</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Grammar/Verbs/Past participle</title>
+    <ns>0</ns>
+    <id>1573</id>
+    <revision>
+      <id>2417302</id>
+      <parentid>2416789</parentid>
+      <timestamp>2012-10-09T21:54:13Z</timestamp>
+      <contributor>
+        <username>Recent Runes</username>
+        <id>66908</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/Ultimatewikimaster12345|Ultimatewikimaster12345]] ([[User talk:Ultimatewikimaster12345|talk]]) to last version by Avicennasis</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{French}}&lt;/noinclude&gt;
+
+== Usage ==
+This is added after an auxiliary verb for many past tenses, including passé composé.
+{{sectstub}}
+
+== Formation ==
+
+* For a regular -er verb, the past participle is determined by replacing the -er with ''&amp;eacute;''.
+* For a regular -ir verb, the past participle is determined by removing the final ''r''.
+* For a regular -re verb, the past participle is determined by replacing the -re with ''u''.
+* Irregular verbs have irregular past participles, as shown by the table.
+* For verbs with the auxiliary verb ''&amp;ecirc;tre'', the past participle must agree with the subject. For verbs with the auxiliary ''avoir'', the participle never agree with the subject, but with a possible direct complement, if it is written before the verb. For example, in the sentence ''il les a eus'', the participle ''eus'' agree with the direct complement ''les'', because it's written before the verb, but in the sentence ''il a eu les facture'', the participle ''eu'' does not agree with ''les factures''.
+
+The table below shows additions to the normal past participle that must be made based on the gender and number of the subject.
+
+{| class=&quot;wikitable&quot;
+! colspan=2 | Irregular past participles
+|-
+!
+Verb
+!
+Past participle
+|-
+|
+atteindre
+|
+atteint
+|-
+|
+avoir
+|
+eu
+|-
+|
+boire
+|
+bu
+|-
+|
+conduire
+|
+conduit
+|-
+|
+conna&amp;icirc;tre
+|
+connu
+|-
+|
+construire
+|
+construit
+|-
+|
+courir
+|
+couru
+|-
+|
+couvrir
+|
+couvert
+|-
+|
+craindre
+|
+craint
+|-
+|
+croire
+|
+cru
+|-
+|
+devoir
+|
+d&amp;ucirc;
+|-
+|
+dire
+|
+dit
+|-
+|
+&amp;eacute;crire
+|
+&amp;eacute;crit
+|-
+|
+&amp;ecirc;tre
+|
+&amp;eacute;t&amp;eacute;
+|-
+|
+faire
+|
+fait
+|-
+|
+falloir
+|
+fallu
+|-
+|
+instruire
+|
+instruit
+|-
+|
+joindre
+|
+joint
+|-
+|
+lire
+|
+lu
+|-
+|
+mettre
+|
+mis
+|-
+|
+mourir
+|
+mort
+|-
+|
+offrir
+|
+offert
+|-
+|
+ouvrir
+|
+ouvert
+|-
+|
+na&amp;icirc;tre
+|
+n&amp;eacute;
+|-
+|
+para&amp;icirc;tre
+|
+paru
+|-
+|
+peindre
+|
+peint
+|-
+|
+pleuvoir
+|
+plu
+|-
+|
+pouvoir
+|
+pu
+|-
+|
+prendre
+|
+pris
+|-
+|
+produire
+|
+produit
+|-
+|
+recevoir
+|
+re&amp;ccedil;u
+|-
+|
+savoir
+|
+su
+|-
+|
+souffrir
+|
+souffert
+|-
+|
+suivre
+|
+suivi
+|-
+|
+tenir
+|
+tenu
+|-
+|
+venir
+|
+venu
+|-
+|
+vivre
+|
+vécu
+|-
+|
+voir
+|
+vu
+|-
+|
+vouloir
+|
+voulu
+|}
+
+{| class=&quot;wikitable&quot;
+! colspan=3 | Past participle agreement
+|-
+! Gender
+! Number
+! Add
+|-
+|
+masculine
+|
+singular
+|
+-
+|-
+|
+masculine
+|
+plural
+|
+-s
+|-
+|
+feminine
+|
+singular
+|
+-e
+|-
+|
+feminine
+|
+plural
+|
+-es
+|}
+
+&lt;noinclude&gt;{{French/Grammar/Tenses}}&lt;/noinclude&gt;</text>
+      <sha1>8p6vqctfjf3zmq7sgudqbpwnccrogg2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Grammar/Tenses/Past subjunctive</title>
+    <ns>0</ns>
+    <id>1574</id>
+    <revision>
+      <id>1978568</id>
+      <parentid>1647280</parentid>
+      <timestamp>2010-11-24T00:24:59Z</timestamp>
+      <contributor>
+        <username>Recent Runes</username>
+        <id>66908</id>
+      </contributor>
+      <comment>exclude header and footer from print versions</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{FrenchToC}}&lt;/noinclude&gt;
+
+== Usage of the Past Subjunctive ==
+
+== Formation of the Past Subjunctive ==
+
+* The past subjunctive is a compound tense- it consists of two verbs, the auxiliary verb and the past participle one seeks to use in this tense.
+* The auxiliary verb is conjugated as if it were being used in the present subjunctive.
+* The past participle is added immediately after the auxiliary verb.
+* A negative structure such as ''ne ... pas'' is always placed around the auxiliary verb, not the past participle.
+
+&lt;noinclude&gt;{{French Tenses}}&lt;/noinclude&gt;
+
+[[es:Francés/Gramática/El verbo/Tiempos/Le subjonctif passé]]</text>
+      <sha1>ltwi1rao6dwa961lfeh54ynw1emxkst</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Grammar/Tenses/Past anterior</title>
+    <ns>0</ns>
+    <id>1575</id>
+    <revision>
+      <id>2247959</id>
+      <parentid>2234097</parentid>
+      <timestamp>2012-01-08T23:48:45Z</timestamp>
+      <contributor>
+        <username>Recent Runes</username>
+        <id>66908</id>
+      </contributor>
+      <comment>Undid revision 2234097 by [[Special:Contributions/Snood1205|Snood1205]] ([[User talk:Snood1205|discuss]]) Example looked incorrectly formed</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{FrenchToC}}&lt;/noinclude&gt;
+
+== Usage of the Past Anterior ==
+* The past anterior is used for actions completely terminated before the main past action. It translates as ''to have done something (before doing something else).'' Ex: I had gone to the store before I picked him up.
+
+== Formation of the Past Anterior ==
+
+* The past anterior is a compound tense- it consists of two verbs, the auxiliary verb and the past participle one seeks to use in this tense.
+* The auxiliary verb is conjugated as if it were being used in the pass&amp;eacute; simple.
+* The past participle is added immediately after the auxiliary verb.
+* A negative structure such as ''ne ... pas'' is always placed around the auxiliary verb, not the past participle.
+
+&lt;noinclude&gt;{{French Tenses}}&lt;/noinclude&gt;
+
+[[es:Francés/Gramática/El verbo/Tiempos/Le passé antérieur]]</text>
+      <sha1>5xsq27m4k9dk1emd6j94qgoiizrb0ho</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Grammar/Tenses/Future anterior</title>
+    <ns>0</ns>
+    <id>1576</id>
+    <revision>
+      <id>2235858</id>
+      <parentid>2235841</parentid>
+      <timestamp>2011-12-14T01:10:25Z</timestamp>
+      <contributor>
+        <username>Recent Runes</username>
+        <id>66908</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/216.243.212.197|216.243.212.197]] ([[User talk:216.243.212.197|talk]]) to last version by Avicennasis</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{French}}&lt;/noinclude&gt;
+
+== Usage ==
+This is used in a sentence when there is something in a future tense, but this action is also in the future, but before the other future.
+This is called the &quot;futur anterieur&quot; in French.
+
+== Formation ==
+
+* The future anterior is a compound tense—it consists of two verbs, the auxiliary verb and the past participle one seeks to use in this tense.
+* The auxiliary verb is conjugated as if it were being used in the future indicative.
+* The past participle is added immediately after the auxiliary verb.
+* A negative structure such as ''ne ... pas'' is always placed around the auxiliary verb, not the past participle.
+
+&lt;noinclude&gt;{{French/Grammar/Tenses}}
+
+[[es:Francés/Gramática/El verbo/Tiempos/Le futur antérieur]]&lt;/noinclude&gt;</text>
+      <sha1>8dzi5s4161t4ok0amj7l9p20lk71t8e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Grammar/Tenses/Pluperfect of the indicative</title>
+    <ns>0</ns>
+    <id>1577</id>
+    <revision>
+      <id>1978561</id>
+      <parentid>1647283</parentid>
+      <timestamp>2010-11-24T00:22:02Z</timestamp>
+      <contributor>
+        <username>Recent Runes</username>
+        <id>66908</id>
+      </contributor>
+      <comment>exclude header and footer from print versions</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{FrenchToC}}&lt;/noinclude&gt;
+
+In French the ''pluperfect'' is called ''le plus-que-parfait''. In English, it is also called the ''more than perfect''.
+
+==Formation==
+* The pluperfect is a compound tense - it consists of two verbs, the auxiliary verb and the past participle of the verb one seeks to use in this tense.
+* The auxiliary verb is conjugated as if it were being used in the imperfect.
+* The past participle is added immediately after the auxiliary verb.
+* A negative structure such as ''ne ... pas'' is always placed around the auxiliary verb, immediately before the past participle.
+* All past participle agreement rules that apply to composed tenses apply to the pluperfect.
+
+==Usage==
+The pluperfect is used to describe a past action that occurred before a second past action that is in the ''passé composé'' or ''imparfait''.
+*Elle était vieille, mais elle avait été jeune. - She was old, but she had been young.
+*Je l'aurais aidé si j'avais su. - I would've helped him if I had known.
+*J'étais parti(e) quand tu m'as téléphoné. - I had already left when you called (me).
+
+&lt;noinclude&gt;{{French Tenses}}&lt;/noinclude&gt;
+
+[[es:Francés/Gramática/El verbo/Tiempos/Le plus-que-parfait de l'indicatif]]</text>
+      <sha1>q0w8fos3hx1ivv53etfiqvmmbhwm6qt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Grammar/Tenses/Past imperative</title>
+    <ns>0</ns>
+    <id>1578</id>
+    <revision>
+      <id>1978573</id>
+      <parentid>1647292</parentid>
+      <timestamp>2010-11-24T00:28:48Z</timestamp>
+      <contributor>
+        <username>Recent Runes</username>
+        <id>66908</id>
+      </contributor>
+      <comment>exclude header and footer from print versions</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{FrenchToC}}&lt;/noinclude&gt;
+
+== Usage of the Past Imperative ==
+
+== Formation of the Past Imperative ==
+
+* The imperatif pass&amp;eacute; is a compound tense- it consists of two verbs, the auxiliary verb and the past participle of the verb one seeks to use in this tense.
+* The auxiliary verb is conjugated as if it were being used in the present imperative.
+* The past participle is added immediately after the auxiliary verb.
+* A negative structure such as ''ne ... pas'' is always placed around the auxiliary verb, immediately before the past participle.
+
+&lt;noinclude&gt;{{French Tenses}}&lt;/noinclude&gt;
+
+[[es:Francés/Gramática/El verbo/Tiempos/L'impératif passé]]</text>
+      <sha1>1kzxo1r8egkxfequivgh50owfpw2azr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Grammar/Tenses/Pluperfect subjunctive</title>
+    <ns>0</ns>
+    <id>1579</id>
+    <revision>
+      <id>2191979</id>
+      <parentid>1978565</parentid>
+      <timestamp>2011-10-18T16:25:42Z</timestamp>
+      <contributor>
+        <ip>190.152.226.251</ip>
+      </contributor>
+      <comment>/* Usage of the Pluperfect Subjunctive */</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{FrenchToC}}&lt;/noinclude&gt;
+
+== Usage of the Pluperfect Subjunctive ==
+
+The French pluperfect subjunctive is the least common literary tense - it's the literary equivalent of the past subjunctive.
+
+Like all literary tenses, the pluperfect subjunctive is used only in literature, historical writings, and other very formal writing, so it is important to be able to recognize it but chances are that you will never in your life need to conjugate it.
+
+== Formation of the Pluperfect Subjunctive ==
+
+* The pluperfect subjunctive is a compound tense- it consists of two verbs, the auxiliary verb and the past participle of the verb one seeks to use in this tense.
+* The auxiliary verb is conjugated as if it were being used in the imperfect subjunctive.
+* The past participle is added immediately after the auxiliary verb.
+* A negative structure such as ''ne ... pas'' is always placed around the auxiliary verb, immediately before the past participle.
+
+&lt;noinclude&gt;{{French Tenses}}&lt;/noinclude&gt;</text>
+      <sha1>57ysq944uxps0ttsoswuq6f3pv8lgov</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Grammar/Tenses/Past conditional, 2nd form</title>
+    <ns>0</ns>
+    <id>1580</id>
+    <revision>
+      <id>1978574</id>
+      <parentid>376327</parentid>
+      <timestamp>2010-11-24T00:29:40Z</timestamp>
+      <contributor>
+        <username>Recent Runes</username>
+        <id>66908</id>
+      </contributor>
+      <comment>exclude header and footer from print versions</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{FrenchToC}}&lt;/noinclude&gt;
+
+== Usage of the Second Form of the Past Conditional ==
+
+== Formation of the Second Form of the Past Conditional ==
+
+* The second form of the past conditional is a compound tense- it consists of two verbs, the auxiliary verb and the past participle of the verb one seeks to use in this tense.
+* The auxiliary verb is conjugated as if it were being used in the imperfect subjunctive.
+* The past participle is added immediately after the auxiliary verb.
+* A negative structure such as ''ne ... pas'' is always placed around the auxiliary verb, immediately before the past participle.
+
+&lt;noinclude&gt;{{French Tenses}}&lt;/noinclude&gt;</text>
+      <sha1>d286olcawth4cledktn0vy5kp46wb0o</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Grammar/Tenses/Imperfect subjunctive</title>
+    <ns>0</ns>
+    <id>1583</id>
+    <revision>
+      <id>2066479</id>
+      <parentid>1978559</parentid>
+      <timestamp>2011-03-06T06:07:09Z</timestamp>
+      <contributor>
+        <username>Avicennasis</username>
+        <id>314063</id>
+      </contributor>
+      <minor />
+      <comment>[[WP:AWB/T|Typo fixing]], typos fixed: exmaple → example using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{FrenchToC}}&lt;/noinclude&gt;
+
+== Usage of the Imperfect Subjunctive ==
+The subjunctive imperfect is very rarely employed in French, it is not common to use it in literature. It can in all instances be replaced by the subjunctive present.
+The subjunctive imperfect may be employed in any instance in which the subjunctive is requires, so long as it is in the past.
+For example: &quot;Il fallait que le garçon allât à l'école&quot;. Fallait (falloir) is followed by the subjunctive. The subjunctive imperfect however is not used by French speakers, it is viewed as archaic. The previously given example would usually be expressed by &quot;Il fallait que le garçon aille à l'école&quot;.
+
+== Formation of the Imperfect Subjunctive ==
+
+=== Imperfect Subjunctive Stems ===
+
+* For regular -er verbs, the imperfect subjunctive stem is the conjugation of the verb in the simple past for the il form.
+* For regular -ir verbs, regular -re verbs, and irregular verbs, the imperfect subjunctive stem is the conjugation of the verb in the simple past for the il form, after removing the final ''t'' in that conjugation.
+
+=== Imperfect Subjunctive Endings ===
+
+* To conjugate in the imperfect subjunctive, add the appropriate ending to the imperfect subjunctive stem. There is one set of endings for irregular verbs whose past participles end in -u (&quot;irregular endings&quot;), and another set for all other verbs (&quot;regular endings&quot;).
+
+'''Imperfect Subjunctive Endings'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+je
+|
+-sse
+|-
+|
+tu
+|
+-sses
+|-
+|
+il
+|
+-^t
+|-
+|
+nous
+|
+-ssions
+|-
+|
+vous
+|
+-ssiez
+|-
+|
+ils
+|
+-ssent
+|}
+
+=== Irregular Conjugations ===
+
+* The verb ''venir'' is irregular, but only in the il form.
+
+'''Irregular Endings'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+je
+|
+vinsse
+|-
+|
+tu
+|
+vinsses
+|-
+|
+il
+|
+v&amp;icirc;nt
+|-
+|
+nous
+|
+vinssions
+|-
+|
+vous
+|
+vinssiez
+|-
+|
+ils
+|
+vinssent
+|}
+
+&lt;noinclude&gt;{{French Tenses}}&lt;/noinclude&gt;
+
+[[es:Francés/Gramática/El verbo/Tiempos/L'imparfait du subjonctif]]</text>
+      <sha1>jjorzccocbc9uuzoejm01x5g145vkhz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Grammar/Tenses/Imperative</title>
+    <ns>0</ns>
+    <id>1584</id>
+    <revision>
+      <id>2581021</id>
+      <parentid>2580890</parentid>
+      <timestamp>2013-11-12T12:58:12Z</timestamp>
+      <contributor>
+        <username>Whym</username>
+        <id>109931</id>
+      </contributor>
+      <comment>Rejected the last text change (by [[Special:Contributions/99.237.102.10|99.237.102.10]]) and restored revision 2479525 by Xania</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{FrenchToC}}&lt;/noinclude&gt;
+
+== Usage of the Imperative ==
+This tense is used to give commands, express requests or make suggestions.
+
+== Formation of the Imperative ==
+
+The imperative is used in ''tu'', ''nous'' and ''vous'' forms; the ''nous'' and ''vous'' forms are the same as the indicative in both regular and irregular verbs (except the 3 irregulars shown below). The ''tu'' form is also the same unless it comes from an infinitive that ends in -er, in which case the ''tu'' form would drop the 's' (e.g.: parles -&gt; parle).
+
+You could also drop the 's' when an -ir verb have the same endings as an er verb.
+
+The infinitive can also be used as the imperative, but only for impersonal commands, e.g.: ''mettre la ceinture''.
+
+
+=== Regular Conjugations ===
+
+* ''danser'', ''perdre'' &amp; ''finir'' are regular verbs that can be used in the imperative.
+
+'''Danser'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+(Tu)
+|
+danse
+|-
+|
+(Nous)
+|
+dansons
+|-
+|
+(Vous)
+|
+dansez
+|}
+
+'''Perdre'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+(Tu)
+|
+perds
+|-
+|
+(Nous)
+|
+perdons
+|-
+|
+(Vous)
+|
+perdez
+|}
+
+'''finir'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+(Tu)
+|
+finis
+|-
+|
+(Nous)
+|
+finissons
+|-
+|
+(Vous)
+|
+finissez
+|}
+
+=== Irregular Verbs in their Imperative Conjugations ===
+
+* ''faire'', ''aller'', ''venir'', ''sortir'', and ''partir''
+
+'''Faire'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+(Tu)
+|
+fais
+|-
+|
+(Nous)
+|
+faisons
+|-
+|
+(Vous)
+|
+faites
+|}
+
+'''Aller'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+(Tu)
+|
+va
+|-
+|
+(Nous)
+|
+allons
+|-
+|
+(Vous)
+|
+allez
+|}
+
+'''Venir'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+(Tu)
+|
+viens
+|-
+|
+(Nous)
+|
+venons
+|-
+|
+(Vous)
+|
+venez
+|}
+
+'''Sortir'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+(Tu)
+|
+sors
+|-
+|
+(Nous)
+|
+sortons
+|-
+|
+(Vous)
+|
+sortez
+|}
+
+=== Irregular Conjugations ===
+
+* ''&amp;Ecirc;tre'', ''Avoir'', ''Savoir'', &amp; ''Vouloir'' are the only verbs that are irregular in the imperative.
+
+'''Être'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+(Tu)
+|
+sois
+|-
+|
+(nous)
+|
+soyons
+|-
+|
+(vous)
+|
+soyez
+|}
+
+'''Avoir'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+(Tu)
+|
+aie
+|-
+|
+(nous)
+|
+ayons
+|-
+|
+(vous)
+|
+ayez
+|}
+
+'''Savoir'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+(Tu)
+|
+sache
+|-
+|
+(nous)
+|
+sachons
+|-
+|
+(vous)
+|
+sachez
+|}
+
+'''Vouloir'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+(Tu)
+|
+veuille
+|-
+|
+(nous)
+|
+veuillons
+|-
+|
+(vous)
+|
+veuillez
+|}
+
+&lt;noinclude&gt;{{French Tenses}}&lt;/noinclude&gt;</text>
+      <sha1>6m4iiysg4nasl0n37tv0pw1wl5bv53i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>French/Grammar/Tenses/Present indicative</title>
+    <ns>0</ns>
+    <id>1586</id>
+    <revision>
+      <id>2606516</id>
+      <parentid>2606512</parentid>
+      <timestamp>2014-02-05T00:16:08Z</timestamp>
+      <contributor>
+        <username>Hoo man</username>
+        <id>364188</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/24.79.174.128|24.79.174.128]] ([[User talk:24.79.174.128|talk]]) to last version by JackPotte</comment>
+      <text xml:space="preserve">&lt;noinclude&gt;{{FrenchToC}}&lt;/noinclude&gt;
+
+== Usage of the Present ==
+When you want to talk about something that's happening now.
+
+
+
+== Formation of the Present ==
+
+To form the present tense, there are seven categories of verbs that you need to know about, sorted by their endings, and if they are regular (follow the rules) or irregular (have their own rules).
+
+They are:
+*-er verbs
+*-ir verbs
+*-re verbs
+
+and
+*irregular -er verbs
+*irregular -ir verbs
+*irregular -re verbs
+*really really irregular verbs
+
+===Regular Verbs===
+
+==== Regular -er Verbs ====
+
+* For non stem-changing regular -er verbs, the stem is determined by removing the final -er.
+* After determining the stem, conjugate by adding the appropriate endings.
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+je
+|
+-e
+|-
+|
+tu
+|
+-es
+|-
+|
+il
+|
+-e
+|-
+|
+nous
+|
+-ons
+|-
+|
+vous
+|
+-ez
+|-
+|
+ils
+|
+-ent
+|}
+
+==== Conjugation of Regular -ir Verbs ====
+
+* For regular -ir verbs, the stem is determined by removing the final -ir.
+* After determining the stem, conjugate by adding the appropriate endings.
+
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+je
+|
+-is
+|-
+|
+tu
+|
+-is
+|-
+|
+il
+|
+-it
+|-
+|
+nous
+|
+-issons
+|-
+|
+vous
+|
+-issez
+|-
+|
+ils
+|
+-issent
+|}
+
+==== Conjugation of Regular -re Verbs ====
+
+* For regular -re verbs, the stem is determined by removing the final -re.
+* After determining the stem, conjugate by adding the appropriate endings.
+
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+je
+|
+-s
+|-
+|
+tu
+|
+-s
+|-
+|
+il
+|
+-
+|-
+|
+nous
+|
+-ons
+|-
+|
+vous
+|
+-ez
+|-
+|
+ils
+|
+-ent
+|}
+
+=== Irregular Conjugations ===
+
+* Several verbs are irregularly conjugated in the present.
+* Some verbs can be categorized by the general pattern they follow, while others are completely irregular.
+* Irregular verbs are too numerous to be entirely provided here. Only some common irregular verbs will be shown.
+
+==== Stem Changing -er Verbs ====
+
+* Several French verbs are stem-changing; the endings for conjugation basically remain the same, but slight changes occur with the stem. 
+* One may divide the category of stem-changing verbs into two subcategories: verbs whose stems change only in the nous form and verbs whose stems change only in the je, tu, il, and ils forms.
+
+'''-cer Verbs'''
+
+* To conjugate a -cer verb in the nous form, change the ''c'' to a ''&amp;ccedil;''.
+* Conjugations in the je, tu, il, vous, and ils forms remain unaffected.
+
+'''-ger Verbs'''
+
+* To conjugate a -ger verb in the nous form, add an ''e'' between the final ''g'' and the ending ''ons''.
+* Conjugations in the je, tu, il, vous, and ils forms remain unaffected.
+
+'''-ayer, -oyer, and -uyer Verbs'''
+
+* To conjugate an -ayer, -oyer, or -uyer verb in the je, tu, il, and ils forms, change the ''y'' to ''i''.
+* Conjugations in the nous and vous forms remain unaffected.
+
+'''-eler Verbs'''
+
+* To conjugate an -eler verb in the je, tu, il, and ils forms, change the ''l'' to ''ll''.
+* Conjugations in the nous and vous forms remain unaffected.
+
+'''-eter Verbs'''
+
+* To conjugate an -eter verb in the je, tu, il, and ils forms, change the ''t'' to ''tt''.
+* Conjugations in the nous and vous forms remain unaffected.
+
+'''Verbs with ''e'' in the second to last syllable'''
+
+* To conjugate a verb with an ''e'' in the second to last syllable in the je, tu, il, and ils forms, change the ''e'' to ''&amp;egrave;''.
+* Conjugations in the nous and vous forms remain unaffected.
+
+'''Verbs with ''&amp;eacute;'' in the second to last syllable'''
+
+* To conjugate a verb with an ''&amp;eacute;'' in the second to last syllable in the je, tu, il, and ils forms, change the ''&amp;eacute;'' to ''&amp;egrave;''.
+* Conjugations in the nous and vous forms remain unaffected.
+
+==== Irregular -ir Verb Patterns ====
+
+'''Couvrir'''
+
+* The verbs ''couvrir'', ''cueillir'', ''offrir'', ''ouvrir'', and ''souffrir'', follow this pattern.
+* The stem is determined by removing the final -ir.
+* Although the verbs are -ir verbs, they are treated like regular -er verbs for the purpose of conjugation. Thus, they utilize the regular endings for -er verbs.
+
+'''Dormir'''
+
+* The verbs ''dormir'', ''mentir'', ''partir'', ''sentir'', ''servir'', and ''sortir'' follow this pattern.
+* For conjugating the plural forms (nous, vous, ils), the stem is determined by removing the final -ir.
+* For conjugating the singular forms (je, tu, il), the stem is the same as the plural stem, except that the last letter of the plural stem is removed in addition to the -ir.
+* The verb ending pattern for these verbs is as follows:
+
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+je
+|
+-s
+|-
+|
+tu
+|
+-s
+|-
+|
+il
+|
+-t
+|-
+|
+nous
+|
+-ons
+|-
+|
+vous
+|
+-ez
+|-
+|
+ils
+|
+-ent
+|}
+
+==== Irregular -re Verb Patterns ====
+
+'''-aindre, -eindre, and -oindre Verbs'''
+
+* Verbs ending with -aindre, -eindre, and -oindre follow this pattern.
+* For conjugating the singular forms (je, tu, il), the stem is determined by removing the final -dre.
+* For conjugating the plural forms (nous, vous, ils), the stem is the same as the singular stem, except that a ''g'' is immediately after the final ''i'' and before the final ''n''.
+* The verb ending pattern for these verbs is as follows:
+
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Ending
+|-
+|
+je
+|
+-s
+|-
+|
+tu
+|
+-s
+|-
+|
+il
+|
+-t
+|-
+|
+nous
+|
+-ons
+|-
+|
+vous
+|
+-ez
+|-
+|
+ils
+|
+-ent
+|}
+
+==== Completely Irregular Verbs ====
+
+'''Aller'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+vais
+|-
+|
+tu
+|
+vas
+|-
+|
+il
+|
+va
+|-
+|
+nous
+|
+allons
+|-
+|
+vous
+|
+allez
+|-
+|
+ils
+|
+vont
+|}
+
+'''S'asseoir'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je m'
+|
+assieds
+|-
+|
+tu t'
+|
+assieds
+|-
+|
+il s'
+|
+assied
+|-
+|
+nous nous
+|
+asseyons
+|-
+|
+vous vous 
+|
+asseyez
+|-
+|
+ils s'
+|
+asseyent
+|}
+
+'''Avoir'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+j'
+|
+ai
+|-
+|
+tu
+|
+as
+|-
+|
+il
+|
+a
+|-
+|
+nous
+|
+avons
+|-
+|
+vous
+|
+avez
+|-
+|
+ils
+|
+ont
+|}
+
+'''Boire'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+bois
+|-
+|
+tu
+|
+bois
+|-
+|
+il
+|
+boit
+|-
+|
+nous
+|
+buvons
+|-
+|
+vous
+|
+buvez
+|-
+|
+ils
+|
+boivent
+|}
+
+'''Conduire'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+conduis
+|-
+|
+tu
+|
+conduis
+|-
+|
+il
+|
+conduit
+|-
+|
+nous
+|
+conduisons
+|-
+|
+vous
+|
+conduisez
+|-
+|
+ils
+|
+conduisent
+|}
+
+'''Conna&amp;icirc;tre'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+connais
+|-
+|
+tu
+|
+connais
+|-
+|
+il
+|
+conna&amp;icirc;t
+|-
+|
+nous
+|
+connaissons
+|-
+|
+vous
+|
+connaissez
+|-
+|
+ils
+|
+connaissent
+|}
+
+'''Croire'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+crois
+|-
+|
+tu
+|
+crois
+|-
+|
+il
+|
+croit
+|-
+|
+nous
+|
+croyons
+|-
+|
+vous
+|
+croyez
+|-
+|
+ils
+|
+croient
+|}
+
+'''Devoir'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+dois
+|-
+|
+tu
+|
+dois
+|-
+|
+il
+|
+doit
+|-
+|
+nous
+|
+devons
+|-
+|
+vous
+|
+devez
+|-
+|
+ils
+|
+doivent
+|}
+
+'''Dire'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+dis
+|-
+|
+tu
+|
+dis
+|-
+|
+il
+|
+dit
+|-
+|
+nous
+|
+disons
+|-
+|
+vous
+|
+dites
+|-
+|
+ils
+|
+disent
+|}
+
+'''&amp;Eacute;crire'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+j'
+|
+&amp;eacute;cris
+|-
+|
+tu
+|
+&amp;eacute;cris
+|-
+|
+il
+|
+&amp;eacute;crit
+|-
+|
+nous
+|
+&amp;eacute;crivons
+|-
+|
+vous
+|
+&amp;eacute;crivez
+|-
+|
+ils
+|
+&amp;eacute;crivent
+|}
+
+'''&amp;Ecirc;tre'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+suis
+|-
+|
+tu
+|
+es
+|-
+|
+il
+|
+est
+|-
+|
+nous
+|
+sommes
+|-
+|
+vous
+|
+&amp;ecirc;tes
+|-
+|
+ils
+|
+sont
+|}
+
+'''Faillir'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+faillis / faux
+|-
+|
+tu
+|
+faillis / faux
+|-
+|
+il
+|
+faillit / faut
+|-
+|
+nous
+|
+faillissons / faillons
+|-
+|
+vous
+|
+faillissez / faillez
+|-
+|
+ils
+|
+faillissent / faillent
+|}
+
+'''Faire'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+fais
+|-
+|
+tu
+|
+fais
+|-
+|
+il
+|
+fait
+|-
+|
+nous
+|
+faisons
+|-
+|
+vous
+|
+faites
+|-
+|
+ils
+|
+font
+|}
+
+'''Falloir''' (This verb can only be used in the impersonnal form)
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+il
+|
+faut
+|}
+
+'''Lire'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+lis
+|-
+|
+tu
+|
+lis
+|-
+|
+il
+|
+lit
+|-
+|
+nous
+|
+lisons
+|-
+|
+vous
+|
+lisez
+|-
+|
+ils
+|
+lisent
+|}
+
+'''Mettre'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+mets
+|-
+|
+tu
+|
+mets
+|-
+|
+il
+|
+met
+|-
+|
+nous
+|
+mettons
+|-
+|
+vous
+|
+mettez
+|-
+|
+ils
+|
+mettent
+|}
+
+'''Mourir'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+meure
+|-
+|
+tu
+|
+meures
+|-
+|
+il
+|
+meurt
+|-
+|
+nous
+|
+mourons
+|-
+|
+vous
+|
+mourez
+|-
+|
+ils
+|
+meurent
+|}
+
+'''Na&amp;icirc;tre'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+nais
+|-
+|
+tu
+|
+nais
+|-
+|
+il
+|
+na&amp;icirc;t
+|-
+|
+nous
+|
+naissons
+|-
+|
+vous
+|
+naissez
+|-
+|
+ils
+|
+naissent
+|}
+
+'''Prendre'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+prends
+|-
+|
+tu
+|
+prends
+|-
+|
+il
+|
+prend
+|-
+|
+nous
+|
+prenons
+|-
+|
+vous
+|
+prenez
+|-
+|
+ils
+|
+prennent
+|}
+
+'''Rire'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+ris
+|-
+|
+tu
+|
+ris
+|-
+|
+il
+|
+rit
+|-
+|
+nous
+|
+rions
+|-
+|
+vous
+|
+riez
+|-
+|
+ils
+|
+rient
+|}
+
+'''Savoir'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+sais
+|-
+|
+tu
+|
+sais
+|-
+|
+il
+|
+sait
+|-
+|
+nous
+|
+savons
+|-
+|
+vous
+|
+savez
+|-
+|
+ils
+|
+savent
+|}
+
+'''Sortir'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+sors
+|-
+|
+tu
+|
+sors
+|-
+|
+il
+|
+sort
+|-
+|
+nous
+|
+sortons
+|-
+|
+vous
+|
+sortez
+|-
+|
+ils
+|
+sortent
+|}
+
+'''Venir'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+viens
+|-
+|
+tu
+|
+viens
+|-
+|
+il
+|
+vient
+|-
+|
+nous
+|
+venons
+|-
+|
+vous
+|
+venez
+|-
+|
+ils
+|
+viennent
+|}
+
+'''Vivre'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+vis
+|-
+|
+tu
+|
+vis
+|-
+|
+il
+|
+vit
+|-
+|
+nous
+|
+vivons
+|-
+|
+vous
+|
+vivez
+|-
+|
+ils
+|
+vivent
+|}
+
+'''Voir'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+vois
+|-
+|
+tu
+|
+vois
+|-
+|
+il
+|
+voit
+|-
+|
+nous
+|
+voyons
+|-
+|
+vous
+|
+voyez
+|-
+|
+ils
+|
+voient
+|}
+
+'''Vouloir'''
+
+{| border=&quot;1&quot;
+|-
+!
+Subject
+!
+Conjugation
+|-
+|
+je
+|
+veux
+|-
+|
+tu
+|
+veux
+|-
+|
+il
+|
+veut
+|-
+|
+nous
+|
+voulons
+|-
+|
+vous
+|
+voulez
+|-
+|
+ils
+|
+veulent
+|}
+
+&lt;noinclude&gt;{{French Tenses}}&lt;/noinclude&gt;
+
+[[es:Francés/Gramática/El verbo/Tiempos/Le présent de l'indicatif]]</text>
+      <sha1>5tebhd0ipwwwlh1jurvb3xb226m33e3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>German/Lesson 3</title>
+    <ns>0</ns>
+    <id>1588</id>
+    <revision>
+      <id>2653643</id>
+      <parentid>2542915</parentid>
+      <timestamp>2014-05-11T17:58:57Z</timestamp>
+      <contributor>
+        <username>Harrybrowne1986</username>
+        <id>430968</id>
+      </contributor>
+      <minor />
+      <comment>m</comment>
+      <text xml:space="preserve">&lt;small&gt;&lt;&lt; [[German/Lesson_2|Lesson 2]] |&lt;/small&gt; '''Lektion 3''' &lt;small&gt;| [[German/Lesson 4|Lektion 4]] &gt;&gt; |&lt;/small&gt;
+----
+&lt;Big&gt;&lt;big&gt;''Die Zahlen'' ~ &lt;/big&gt;The Numbers&lt;/Big&gt;
+
+== Lektion 3 ~ ''Zählen von 1 bis 12'' ==
+'''Counting''' in any language is a valuable skill best learned early on. In German as in English, there are both '''cardinal''' (counting) and '''ordinal''' (place or order) numbers, and number formation is similar in that the first twelve numbers are unique. Above twelve, numbers are formed by combination. For example, 13 is ''dreizehn'' and 14 is ''vierzehn''.  Higher numbers will be the subject of later lessons.
+
+Note in the table how ordinals are formed from the cardinals in German by adding ''te''. 'Ten' becomes 'tenth' in English; ''zehn'' become ''zehnte'' in German.  As in English, there are several nonconforming variants: ''erste'', ''dritte'', and ''siebte''. 
+
+{| cellpadding=&quot;3&quot;
+|-
+|
+{| border=&quot;1&quot; bgcolor=&quot;#FFFFCC&quot; cellpadding=&quot;2&quot;
+|-
+| colspan=&quot;2&quot; | &amp;nbsp;'''cardinal&amp;nbsp;numbers'''&amp;nbsp;
+| colspan=&quot;2&quot; | &amp;nbsp;'''ordinal&amp;nbsp;numbers'''&amp;nbsp;
+|-
+| one&amp;nbsp; || eins&amp;nbsp; || 1st&amp;nbsp;
+| erste&amp;nbsp;
+|-
+|
+two
+|
+zwei
+|
+2nd
+|
+zweite
+|-
+|
+three
+|
+drei
+|
+3rd
+|
+dritte
+|-
+|
+four
+|
+vier
+|
+4th
+|
+vierte
+|-
+|
+five
+|
+fünf
+|
+5th
+|
+fünfte
+|-
+|
+six
+|
+sechs
+|
+6th
+|
+sechste
+|-
+|
+seven
+|
+sieben
+|
+7th
+|
+siebte
+|-
+|
+eight
+|
+acht
+|
+8th
+|
+achte
+|-
+|
+nine
+|
+neun
+|
+9th
+|
+neunte
+|-
+|
+ten
+|
+zehn
+|
+10th
+|
+zehnte
+|-
+|
+eleven
+|
+elf
+|
+11th
+|
+elfte
+|-
+|
+twelve
+|
+zwölf
+|
+12th
+|
+zwölfte
+|}
+| &lt;b&gt;&lt;big&gt;Aussprache&lt;/big&gt;&lt;/b&gt;&lt;br&gt;Learning the German words for the numbers provides an excellent opportunity to practice German pronunciations. Following are some helpful hints for English speakers attempting to count in German. A &quot;dental sound&quot; is made by moving the tongue into the back of the upper teeth&amp;mdash;almost as if the word started with a 't'. A &quot;gutteral sound&quot; comes from deep in the throat. Also, remember, in words of more than one syllable, the emphasis is on the first syllable. final consonants are cut off quickly in German, not drawn out as in many English words. English speakers might call this being curt or brusque with each word. 
+''eins''    say ''''eyen'''-zah' but drop the 'ah'; 'z' is between an 's' and 'z'
+''zwei''    sounds like 'zveye'; the 'w' is between a 'v' and a 'w'
+''drei''    sounds like &quot;dry&quot;, but with dental 'd' and roll the 'r'
+''vier''    sound is between &quot;fear&quot; and 'fee-yahr'
+''fünf''    say 'foon-fah' without the 'ah'; very slight 'r' after the 'ü'
+''sechs''   sounds like &quot;sex&quot;, but with a more dental leading 's'
+''sieben''  sounds like &quot;'''see''' Ben&quot; (use dental 's')
+''acht''    sounds like 'ahkt'; the 'ch' is guttural
+''neun''    sounds like &quot;loin&quot; with an 'n'
+''zehn''    sounds like the name, &quot;Zane&quot;, but the 'z' is more dental
+''elf''     sounds pretty much like &quot;elf&quot; (the German 'e' is a little higher)
+''zwölf''   sounds like 'zwolf', but the 'o' is closer to 'u' in 'up'
+|}
+'''Audio''': [[media:Zahlen_1_bis_12.ogg|OGG]] (385KB)
+----
+
+== Grammatik 3-1 ~ Telling time (hours) ==
+Knowing the numbers from 1 to 12, you can now begin asking and telling time in German.
+&lt;div style=&quot;float:right;margin:1em 0 1em 1em;text-align:center;&quot;&gt;[[Image:20030805121140!IMG 3161 2 web.jpg|Grazer Uhrturm]]&lt;br&gt;&lt;small&gt;''Der Uhrturm von Graz''&lt;/small&gt;&lt;/div&gt;
+
+=== Gespräch 3-1 ===
+:&lt;big&gt;Zwei Jungen, Heinrich und Karl, sind Freunde. Sie begegnen sich eines Nachmittags.&lt;/big&gt;
+:* ''Heinrich'': &lt;big&gt;&amp;nbsp;Karl. Wie geht's?
+:* ''Karl'': &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Hallo!
+:* ''Heinrich'': &lt;big&gt;&amp;nbsp;Willst du spielen? Ich habe einen Ball.
+:* ''Karl'': &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Wie spät ist es?
+:* ''Heinrich'': &lt;big&gt;&amp;nbsp;Es ist ein Uhr.
+:* ''Karl'': &lt;big&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Dann kann ich bis zwei Uhr spielen.
+:* ''Heinrich'': &lt;big&gt;&amp;nbsp;Das ist gut. Wir spielen eine Stunde lang!&lt;/big&gt;
+
+Asking for the time is accomplished by the sentence: ''Wie spät ist es?'' (&quot;How late is it?&quot;). The answer places the hour in the line ''Es ist ____ Uhr'' (&quot;It is __ o'clock&quot;), substituting the correct cardinal value (except ''ein'' is used instead of ''eins''). One could also ask: ''Wieviel Uhr ist es?'' (not used very often anymore) or respond ''Es ist eins'' or ''Es ist drei'', etc.&amp;mdash;which may be imprecise, unless the time is close to the hour. The following sentences also relate to telling time:
+{|
+|''Er fragt nach der Uhrzeit.''
+|He asks the time.
+|-
+|''Sie begegnen sich eines Nachmittags.''
+|They meet each other one afternoon.
+|-
+|''Es ist halb vier.''
+|It is half past three (3:30).
+|-
+|''Es ist Viertel nach zwölf.''
+|It is a quarter after twelve (12:15).
+|-
+|''Es ist Viertel vor elf.''
+|It is a quarter to eleven (10:45).
+|-
+|''Es ist drei Viertel elf.''*
+|It is a quarter to eleven (10:45).
+|-
+|''Es ist fünf vor neun.''
+|It is five minutes to (until) nine (08:55).
+|-
+|''Es ist fünf Minuten vor neun.''
+|It is five minutes to (until) nine (08:55).
+|-
+|''Es ist zehn nach elf.''
+|It is ten minutes after eleven (11:10).
+|-
+|''Es ist zehn Minuten nach elf.''
+|It is ten minutes after eleven (11:10).
+|-
+|''Es ist acht nach.''
+|It is eight minutes after the last full hour (??:08).
+|-
+|''Es ist zehn vor.''
+|It is ten minutes to (until) the next full hour (??:50).
+|-
+|''Es ist drei durch.''*
+|It is between three and four (03:??).
+|-
+|''Es ist elf Uhr drei''
+|It is three minutes after eleven (11:03). 
+|-
+|''Es ist elf Uhr und drei Minuten''
+|It is three minutes after eleven (11:03).
+|}
+: * &lt;small&gt;this is only regional - many Germans may not understand&lt;/small&gt; 
+
+Knowing how to express the quarter, half, and three quarter hours will allow you to give the time more precisely. We will, of course, revisit this subject. Once you know how to count beyond twelve, the hour's division into 60 minutes can be expressed. Also, Germans (like most Europeans) utilize what is known in America as &quot;military time&quot; or a 24-hour clock.
+
+== Vokabeln 3-1 ==
+Also included in the vocabulary for Lesson 3 are the ordinal and cardinal numbers 1 through 12 from ''Lektion 3'' above.
+ der Ball                   ball
+ der Junge, die Jungen      boy, boys
+ das Lernen                 learning, study
+ der Nachmittag             afternoon
+ die Stunde                 hour
+ die Uhr                    watch (timepiece); also &quot;o'clock&quot;
+ der Uhrturm                clock tower
+ die Uhrzeit                time, time of day
+ das Viertel                quarter
+ die Zahl, die Zahlen       number, numbers
+
+ bis zwei Uhr               until two o'clock
+ das ist gut                very well (lit.: &quot;that is good&quot;)
+ eines Nachmittags          one (unspecified) afternoon
+ ich kann... spielen        I can play
+ es ist                     it is
+ willst du ...?             do you want ...? (familiar form)
+
+ fragen                     ask (a question) 
+ spielen                    play
+ zählen                     count
+
+ dann                       then
+ halb                       half, halfway to
+ nach                       about, after
+ spät                       late
+ vor                        before, until
+ zu                         to
+:* &lt;small&gt;[[German/Appendices/Alphabet|Pronunciation Guide]] &gt;&gt;&lt;/small&gt;
+----
+
+== Grammatik 3-2 ~ Introduction to Nouns ==
+A '''[[Wikipedia:en:Noun|noun]]''' is a fundamental part of speech, occurring in sentences in two different ways: as subjects (performers of action), or objects (recipients of action). As a generality, a noun is the name of a &quot;person, place, or thing&quot;. Nouns are classified into proper nouns (e.g. &quot;Janet&quot;), common nouns (e.g. &quot;girl&quot;), and pronouns (e.g. &quot;she&quot; and &quot;which&quot;). A '''proper noun''' (also called ''proper name'') is a noun which denotes a unique entity. The meaning of a proper noun, outside of what it references, is frequently arbitrary or irrelevant (for example, someone might be named Tiger Smith despite being neither a tiger nor a smith). Because of this, they are often not translated between languages, although they may be transliterated &amp;mdash; for example, the German surname &quot;Knödel&quot; becomes &quot;Knoedel&quot; in English, as opposed to &quot;Dumpling&quot;. Proper nouns are capitalized in English and all other languages that use the Latin alphabet; this is one way to recognize them. However, '''in German both proper and common nouns are capitalized''' (as are certain formal pronouns; see [[German/Lesson 2#Grammatik 2-3 ~ Familiar and Polite Pronoun Forms|Grammatik 2-3]]).
+----
+
+== Grammatik 3-3 ~ Gender of Nouns ==
+We have seen evidence of word gender in the pronouns we have been enountering; notably 'he', 'she', and 'it' in English and ''er'', ''sie'', and ''es'' in German. Just like many other languages (but not English), German has '''genders''' for nouns as well. Noun gender is indicated by the ''definite article'', which should always be learned as part of the noun. For this reason, nouns presented in each lesson's ''Vokabeln'' include the gender appropriate definite article.    
+
+=== Definite Articles ===
+The definite article (''bestimmter Artikel'') is equivalent to an English 'the', and the three basic gender forms of definite articles in German are as follows:
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#FFFFCC&quot;
+|-
+|
+&amp;nbsp;'''''der'''''&amp;nbsp;
+|
+&amp;nbsp;masculine&amp;nbsp;
+|-
+|
+&amp;nbsp;'''''die'''''
+|
+&amp;nbsp;feminine
+|-
+|
+&amp;nbsp;'''''das'''''
+|
+&amp;nbsp;neuter
+|}
+
+To say 'the book' in German, you would say ''das Buch'', because ''Buch'' is a '''neuter''' noun. To say 'the man' in German, you would say ''der Mann'', because ''Mann'' is a '''masculine''' noun. To say 'the woman' in German, you would say ''die Frau'', because ''Frau'' is a '''feminine''' noun.
+
+Noun gender does not always derive from actual gender where gender might be applicable. For example, 'the boy' is ''der Junge'' (''masculine''); but 'the girl' is ''das Mädchen'' (''neuter''). Also, nouns that have no inherent gender are not necessarily neuter. From this lesson: 'the watch or time piece' is ''die Uhr'' ('feminine').
+
+Because German is generally more structured than English, it is important when learning German nouns to always learn them with their gender correct definite article; and in the ''Vokabeln'' nouns are always given with their associated definite article. That is, you must memorize the word for 'book' in German as ''das Buch'', not simply ''Buch''. Not just definite articles, but indefinite articles and adjectives have endings that must match the gender of the noun they precede. Using the wrong gender can alter the meaning of a German sentence, so in forming a proper sentence with ''Buch'', you will need to know that it is a neuter noun.
+
+=== Indefinite Articles ===
+In addition to the definite articles&amp;mdash;&quot;the&quot; in English and ''der''-words in German&amp;mdash;discussed above, both languages have '''indefinite articles''' (''unbestimmter Artikel''). Indefinite articles  precede nouns in the same way that definite articles do, but convey a general or indefinite sense.  These are &quot;a&quot; or &quot;an&quot; in English.  Thus, 'the book' or ''das Buch'' refers to a definite or specific book, whereas 'a book' or ''ein Buch'' is indefinite about which book is referred to.  Indefinite articles also have gender as shown here:
+
+
+{| border=&quot;1&quot; bgcolor=&quot;#FFFFCC&quot;
+|-
+|
+&amp;nbsp;'''''ein'''''
+|
+&amp;nbsp;''der''&amp;nbsp;
+|
+&amp;nbsp;masculine&amp;nbsp;
+|-
+| &amp;nbsp;'''''eine''''' ||
+&amp;nbsp;''die''
+|
+&amp;nbsp;feminine
+|-
+| &amp;nbsp;'''''ein''''' ||
+&amp;nbsp;''das''
+|
+&amp;nbsp;neuter
+|}
+
+Here are some examples of indefinite articles (underlined) used in German sentences:
+{|
+|''Ich habe &lt;u&gt;einen&lt;/u&gt; Ball.''
+|I have a ball.
+|- 
+|''Heute lesen wir &lt;u&gt;ein&lt;/u&gt; Buch.''
+|Today we read a book.
+|-
+|''Markus trifft &lt;u&gt;einen&lt;/u&gt; Studenten auf der Straße.''
+|Mark meets a student on the street.
+|-
+|''Die Geschäftsleute haben &lt;u&gt;eine&lt;/u&gt; Antwort.''
+|The business people have an answer.
+|-
+|''&lt;u&gt;Ein&lt;/u&gt; Freund spielt Ball mit ihm.''
+|A friend plays ball with him.
+|}
+Why, you ask, are there words like ''einen'' in some sentences above&amp;mdash;a spelling that does not appear in the gender table? The tables for both the definite and indefinite articles above are simplified at this stage, giving only articles in the nominative case (applied to words that are subjects of verbs). In the very next lesson you will start to address all the other cases in German.  However, the '''[[German/Lesson 2#Grammatik 2-2 ~ Pronouns in the Nominative Case|nominative case]]''' is the one used to signify the gender of a noun, as in our ''Vokabeln''.
+
+== Vokabeln 3-2 ==
+
+ das Buch                   book
+ die Frau                   woman
+ der Knödel                 dumpling
+ das Mädchen                (young) girl 
+ der Mann                   man
+
+ lesen                      read
+
+:* &lt;small&gt;[[German/Appendices/Alphabet|Pronunciation Guide]] &gt;&gt;&lt;/small&gt;
+----
+
+== &lt;font color=&quot;#CC3399&quot;&gt;Übersetzung 3-1&lt;/font&gt; ==
+Translate the following sentences into German:
+&lt;big&gt;&lt;font color=&quot;#CC3399&quot;&gt;
+# I am reading until ten o'clock.
+# It is nine thirty.
+# It is a quarter to ten.
+# Cathy is a student at the university.
+# She meets Mark on the street.
+# Henry has a ball.
+# The girl is a friend.
+# Mr. Smith has a question.
+&lt;/font&gt;&lt;/big&gt;
+:* [[German/Answers_1#Lektion_3 Antworten|Antworten]] &gt;
+
+{{BookCat}}
+&lt;noinclude&gt;{{German/Level II/Footer}}&lt;/noinclude&gt;</text>
+      <sha1>ilwy5hihvhevf1se0u5nnq506mjhtr4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:GCSE Science/Electrolysis</title>
+    <ns>1</ns>
+    <id>1593</id>
+    <revision>
+      <id>382526</id>
+      <parentid>153703</parentid>
+      <timestamp>2006-03-01T15:36:38Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <comment>[[Talk:Electrolysis (GCSE science)]] moved to [[Talk:GCSE Science/Electrolysis]]: rename</comment>
+      <text xml:space="preserve">To the anon user. Why did you remove questions 3 and 4 ? [[User:Theresa knott|Theresa knott]] 13:07, 15 Oct 2003 (UTC)</text>
+      <sha1>6y6qc1zza9nsx9cdxtuajsgymgdthax</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,2335 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>General Biology/Cells/Photosynthesis</title>
+    <ns>0</ns>
+    <id>2164</id>
+    <revision>
+      <id>1807089</id>
+      <parentid>1783267</parentid>
+      <timestamp>2010-05-24T23:57:01Z</timestamp>
+      <contributor>
+        <ip>71.85.201.57</ip>
+      </contributor>
+      <comment>/* Accessory pigments */</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+=Photosynthesis =
+&lt;center&gt; '''6 CO&lt;sub&gt;2&lt;/sub&gt; + 6 H&lt;sub&gt;2&lt;/sub&gt;O &amp;rarr; C&lt;sub&gt;6&lt;/sub&gt;H&lt;sub&gt;12&lt;/sub&gt;O&lt;sub&gt;6&lt;/sub&gt; + 6 O&lt;sub&gt;2&lt;/sub&gt;'''&lt;/center&gt;
+
+* One of most important reactions in history of life: 
+** source of atmospheric O&lt;sub&gt;2&lt;/sub&gt; 
+** ultimately led to aerobic respiration and eukaryotes 
+* Responsible for bulk of glucose production 
+* Early experiments showed that mass of plant must be derived from substances in the air, not the soil 
+* Experiments with isotopes showed that liberated oxygen comes from water 
+* Experiments also showed that light is essential but that some reactions (e.g., reduction of CO&lt;sub&gt;2&lt;/sub&gt;) continue in the dark 
+* Plants do two big, important things during photosynthesis: gain energy (absorb light) and build sugar (glucose).  
+* Photosynthesis can be divided into two series of chemical reactions: the light (light-dependent) reactions and the dark (light-independent) reactions.  In light reactions, light is absorbed; in dark reactions, sugar is built.
+* Occurs when plants, algae, and autotrophic bacteria absorb light energy and build glucose.  
+
+==Light Reactions==
+* Part of the electromagnetic spectrum
+* Consists of units of energy called photons 
+* Photons at UV end of spectrum have more energy than those at the red end 
+*Occur on the surface of thylakoid disks
+* Chlorophyll and other plant pigments differentially absorb photons 
+** Chlorophyll a: light to chemical energy 
+** Chlorophyll b: accessory chlorophyll 
+** Chlorophylls absorb primarily blue and red (green reflected back, hence the green color of plants) 
+
+===Accessory pigments===
+* Chlorophyll is a major light gathering pigment 
+** Absorbs light with considerable efficiency (i.e., retaining energy) 
+* Accessory pigments 
+** Chlorophyll b 
+** Carotenoinds 
+* capture light of wavelengths not captured by chlorophylls 
+* Confer other colors to plant leaves (autumn colors too) 
+Photosynthetic steps 
+* Primary photoevent: light photon captured by photosystem and energy transferred to electron donated by water 
+* Electron transport: excited electron is shuttled along imbedded series of electron carriers to proton pump and electron is transferred to acceptor 
+* Chemiosmosis: transport of protons back into chloroplast drives synthesis of ATP
+
+===The Even More Detailed Light Reactions===
+
+'''What the Light Reactions Do:'''
+
+The light reactions of photosynthesis occur in chloroplasts in and on the thylakoid disks.  During the light reactions, light energy charges up ATP molecules.  More specifically, light turns the chloroplast into an acid battery, and this battery charges up ATP.
+
+'''How the &quot;Chloroplast-Battery&quot; Charges ATP:'''
+
+The '''stroma''' is the fluid inside of the chloroplasts, and it carries a negative charge.  This means that it contains about a &quot;gazillion&quot; extra electrons.  The solvent of stroma is water.
+
+The fluid inside the thylakoid disks is positively charged because it contains a lot of hydrogen (H+) ions.  The pH here is low, making the fluid very acidic.  The solvent of thylakoid disk fluid is water.
+
+A chloroplast acts like a battery, because it has separated a strong positive charge and a strong negative charge in two different compartments.  Energy is released when H+ ions (free protons) flow from the inside of a thylakoid disk to the stroma.  This is electrical energy, since it is a flow of charged particles.
+
+The protons pass through special channels (made of protein) in the thylakoid membrane; this reaction is 'exothermic.'  The energy that is given off is used to fuel this reaction (Pi is the phosphate ion):
+                     ADP + Pi --&gt; ATP
+
+The proton can go to the negative stroma, but only if it uses its energy to charge up ATP.  Since one reaction wants to go, and the other one doesn't, and since the first reaction releases energy and the second one absorbs energy, the two reactions are known to be 'coupled' together so that the first fuels the second.  Of course, a special enzyme must be involved for this to happen.
+
+'''Chlorophyll Molecules on a Thylakoid Disk:'''
+
+Hundreds of chlorophyll molecules cover the surface of a thylakoid disk, making the disk green.  The nonpolar &quot;tails&quot; of the chlorophyll molecule are embedded in the membrane of the thylakoid.
+
+==“Dark” reactions==
+* ATP drives endergonic reactions 
+* NADPH provides hydrogens for reduction of CO&lt;sub&gt;2&lt;/sub&gt; to carbohydrate (C-H bonds) 
+*Occur in the stroma
+*First step in carbon fixation 
+
+===The Detailed Dark Reactions===
+
+'''What the Dark Reactions Do:'''
+
+The dark reactions build sugar from carbon dioxide gas (CO2), water (H2O), and energy from ATP molecules that were charged up during the light reactions.  The dark reactions occur in the stroma of a chloroplast.  Dark reactions usually occur in the light, but they don't have to.  They'll occur in the dark until the chloroplast's supply of ATP runs out (usually about 30 seconds).
+
+'''The Calvin Cycle:'''
+
+The Calvin Cycle is the fancy name for the metabolic pathway that builds sugar.  This means that it involves a whole lot of chemical reactions, and it uses a lot of different enzymes to catalyze the reactions.
+
+Carbon dioxide gas is stable, therefore the bonds that hold the carbon and oxygen atoms are strong.  Therefore it takes a lot of energy to break the bonds and separate the carbon atoms from the oxygen atoms.  The energy needed to do this comes from ATP molecules.
+
+When inorganic carbon (like from CO2) is being added to an organic molecule (such as sugar), this is called carbon fixation.
+
+It takes 2 complete turns of the Calvin Cycle to make a glucose molecule.  
+
+
+''Some portions of this text is based on notes very generously donated by Paul Doerder, Ph.D., of the Cleveland State University.''  The detailed portions are not provided by Dr. Doerder.</text>
+      <sha1>8ybj6nvp99zckkrnqzgakrvugjdwnrc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Cells/How Cells Divide</title>
+    <ns>0</ns>
+    <id>2165</id>
+    <revision>
+      <id>2550336</id>
+      <parentid>2550319</parentid>
+      <timestamp>2013-08-18T18:01:31Z</timestamp>
+      <contributor>
+        <username>LlamaAl</username>
+        <id>716551</id>
+      </contributor>
+      <comment>Undid revision 2550319 by [[Special:Contributions/Karthik kumaran|Karthik kumaran]] ([[User talk:Karthik kumaran|discuss]])</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+How cells divide
+==Prokaryote cell division ==
+* Binary fission 
+** Doubling of cell contents, including DNA 
+** Fission to divide contents 
+* Segregation of replicated genomes by growth of membrane between attachment points 
+* Partitioning of cytoplasmic components 
+* Escherichia coli 
+** Capable of cell division every 20 minutes under optimal conditions (DNA in continuous state of replication) 
+** Model organism of bacterial cell division
+
+==Bacterial DNA replication==
+* Replication follows rules of base pairing, with each polynucleotide chain serving as template for synthesis of its complement. 
+* Genetic evidence showed that the bacterial chromosome is circular long before there was corroborating physical evidence. 
+Eukaryotic chromosomes 
+* Discovered by Walther Fleming in 1882 in dividing cells of salamander larvae, following improvements in microscopes and staining technology 
+** He called division mitosis (mitos = “thread”) 
+* Chromosome number is constant in a species 
+** Ranges from 2 to &gt;500 (46 in human somatic cells) 
+** Homologous pairs, one contributed by each parent 
+** Change in number is cause and consequence of speciation 
+* Chromosome constancy and their precise division in mitosis and meiosis led biologists to postulate that they were carriers of hereditary information 
+
+==Chromosome number ==
+* 1N = number of chromosomes in gamete 
+* 1N = haploid chromosome number 
+* 2N = number of chromosomes in somatic cells (cells that are not egg or sperm) 
+* 2N = diploid 
+* Deviations from N or 2N are usually lethal in animals 
+Chromosome numbers 
+
+==Eukaryotic chromosomes ==
+* Consist of chromatin 
+** DNA and associated proteins, mainly histones 
+** Nucleosomal organization 
+** Euchromatin: unwound chromatin, in basic nucleosomal configuration; genes available for expression 
+** Heterochromatin: highly condensed except during replication 
+* Karyotype: array of chromosomes an individual possesses 
+** Clinical importance (Down syndrome; cancer) 
+** Evolutionary importance (speciation)
+
+==Chromosome organization==
+
+==Human karyotype stained by chromosome painting ==
+
+==Chromosomes ==
+* Homologous pairs 
+** Inherited one from each parent 
+** Identical in length and position of centromere 
+** Contain identical or similar genes 
+** Homologous pair = homologs 
+* Morphology 
+** After replication, consist of two sister chromatids attached to a centromere 
+
+==Human chromosomes ==
+* Diploid number = 2n = 46 = 23 pairs of homologs 
+* Haploid number = 23 (gametes) 
+* Each replicated chromosome contains 2 sister chromatids = 92 chromatids 
+Cell cycle 
+* Growth and division cycle of cells 
+* Precisely controlled by biochemical and gene activity, except in cancer 
+* Phases 
+** G1: primary growth phase 
+** S:  DNA replication; chromosome replication 
+** G2: second growth phase; preparation for mitosis 
+** M: mitosis; nuclear division 
+** C: cytoplasmic division 
+
+==Mitotic cell cycle ==
+* Cells exiting the cell cycle are said to be in G0 
+* Cell cycle time varies with stages of life cycle and development, with G1 the most variable 
+* DNA replication occurs during S phase of the cell cycle following G1.
+  - at this point the chromosomes are composed of two sister chromotids connected by a common centromere.
+
+==Replicated human chromosomes ==
+
+==Mitosis ==
+* Nuclear division 
+** equational division of replicated chromosomes 
+** chromatids move to opposite poles 
+* Continuous process 
+** prophase 
+** metaphase 
+** anaphase 
+** telophase 
+* Driven by motors and microtubules 
+* No change in chromosome number 
+** N &amp;rarr; N by mitosis 
+** 2N &amp;rarr; 2N by mitosis 
+*  May be accompanied by cytokinesis 
+Kinetochore 
+Microtubules attach to kinetochores. 
+Metaphase 
+* Momentary alignment of chromosomes in center of cell 
+Anaphase 
+
+==Plant mitosis ==
+* Similar to animal mitosis 
+* New cell wall formed between cells from membrane partition 
+Cell cycle control 
+* Cell cycle events are regulated by protein complexes and checkpoints 
+* Discovered by microinjection of proteins in to eggs, by mutational analysis and by techniques of molecular biology 
+Molecular control of cell cycle: Cdk and cyclin 
+* Cyclin dependent protein kinase (Cdk) 
+** Phosphorylate serine/threonine of target regulatory proteins 
+** Function only when bound to cyclin 
+* Cyclin: short-lived proteins that bind to cdks 
+
+==Controlling the cell cycle==
+* External signals initiate cell division in multicellular organisms 
+* Growth factors: extracellular regulatory signals 
+** Usually soluble; bind to cell surface receptor 
+** Sometimes membrane bound, requiring cell-cell contact with receptor 
+** E.g., upon wound, platelets release PDGF which stimulates fibroblasts to enter cell cycle (exit G0), to heal wound 
+
+==Cancer ==
+* Unregulated cell proliferation 
+* Cancer cells have numerous abnormalities 
+** &gt;46 chromosomes 
+** Mutations in proto-oncogenes 
+* Encode proteins stimulating the cell cycle 
+* May be regulated by phosphorylation 
+* Often over expressed in cancer cells 
+** Mutations in tumor-suppressor genes 
+* Encode proteins inhibiting the cell cycle 
+** Often bind to products of proto-oncogenes 
+* May be regulated by phosphorylation
+
+==Mutations and cancer ==
+
+''This text is based on notes very generously donated by Paul Doerder, Ph.D., of the Cleveland State University.''</text>
+      <sha1>dn1g0yxdpc39zhioiz3487pqjrrod05</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Cells/Sexual Reproduction</title>
+    <ns>0</ns>
+    <id>2166</id>
+    <revision>
+      <id>2520131</id>
+      <parentid>1693257</parentid>
+      <timestamp>2013-05-04T05:29:21Z</timestamp>
+      <contributor>
+        <ip>116.71.166.65</ip>
+      </contributor>
+      <comment>/* Crossing over */</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+=Sexual reproduction=
+==Sexual==
+* Exclusively eukaryotes 
+* Fusion of two haploid genomes 
+** Fertilization (= syngamy) 
+** Forms new individuals in multicellular organisms as result of fusion of egg and sperm 
+* Plants 
+* Animals 
+* Meiosis yields haploid genomes at some point in life cycle
+
+==Sexual life cycle ==
+Typical animal life cycle 
+* Meiosis occurs in germ line cells in gonads producing haploid gametes 
+* All other cells are somatic cells 
+*Alternation of generations
+*Sexual intercourse
+
+==Meiosis ==
+* Gives rise to genetic variation
+* Reduction division: 2n to n 
+* Preceded by one round of DNA (chromosome) replication 
+* Two rounds of nuclear (&amp; usually cell) division 
+** Meiosis I 
+* Synapsis of homologs 
+* Segregation of homologs 
+* Reduction division, 2n to n 
+** Meiosis II 
+* No chromosome replication 
+* Segregation of sister chromatids 
+* Formation of 4 haploid (n) cells
+* Two nuclear divisions, usually 2 cell divisions, only one round of replication 
+* Meiosis I 
+** Prophase: synapsis and crossing over 
+** Metaphase 
+** Anaphase: chromosome segregation 
+** Telophase 
+* Meiosis II (mitosis-like) 
+** Prophase 
+** Metaphase 
+** Anaphase: sister chromosome segregation 
+** Telophase
+
+==Prophase I: synapsis ==
+* Complete alignment of replicated homologs 
+* Synapsis occurs throughout the entire length of a pair of homologs 
+* Key to chromosome segregation 
+* Synapsis, crossing over 
+* Subdivided into 5 continuous stages 
+
+==Crossing over ==
+* Reciprocal, physical exchange between nonsister chromatids 
+* Type of recombination; mixes maternal and paternal genes 
+* Visual evidence: chiasmata
+
+==Microtubules and anaphase I ==
+* During prophase microtubules attach to kinetochores on one side of centromere 
+* The metaphase checkpoint insures proper attachment 
+* A phosphorylation event initiates motor activity and anaphase 
+
+==Meiosis II ==
+* Cytologically similar to mitosis 
+** No preceding DNA replication 
+** Chromatids segregate and move to opposite poles as chromosomes 
+** 4 haploid cells produced 
+* In animals, these cells differentiate into gametes 
+* In plants and many other organisms, these cells divide by mitosis, followed some time later by gamete formation 
+
+==Evolution of sex ==
+* Asexual reproduction: all offspring genetically identical to parent 
+* Sex: recombination destroys advantageous combinations 
+* So why sex? 
+** Many hypotheses 
+** Effect repair of genetic damage? 
+* Much pachytene repair as well as gene conversion 
+* Some protists form diploid cells in response to stress 
+** Recombination breaks up combinations of genes favoring parasites, thus reducing parasitism? 
+
+==Consequences of sex ==
+* Recombination: generates genetic diversity 
+** Crossing over 
+** Independent assortment 
+* Random fertilization 
+** Qualities of gamete usually do NOT reflect qualities of genes enclosed in gamete 
+
+''This text is based on notes very generously donated by Paul Doerder, Ph.D., of the Cleveland State University.''</text>
+      <sha1>7e6hhvdv7xmdamjt3zpfgp2ih7pku4p</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Genetics/Inheritance</title>
+    <ns>0</ns>
+    <id>2167</id>
+    <revision>
+      <id>2167021</id>
+      <parentid>2066265</parentid>
+      <timestamp>2011-09-11T16:20:06Z</timestamp>
+      <contributor>
+        <username>Ltellez</username>
+        <id>470633</id>
+      </contributor>
+      <minor />
+      <comment>/* Mendel’s experiments */</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+=[[w:Gregor Mendel|Gregor Mendel]] and biological inheritance = 
+[[en:Charles Darwin|Charles Darwin]], for all he contributed to the science of biology, never knew about the mechanism by which living things inherit traits from previous generations, or how new traits arise.  
+
+As any schoolchild can tell you, this mechanism of interitance has since been found to be '''[[w:DNA|DNA]]''', or deoxyribonucleic acid. DNA allows for stable inheritance of traits: the code in each strand of DNA is replicated precisely through the pairing of basic units along each strand. The error rate in this replication is amazingly low; not even one base pair in a million matches out of sequence.
+
+However, when even one base pair is added to a new strain of DNA in an order differently than in the parent chain, it can be the basis of a '''mutation'''. 
+These changes in DNA sequences are the microscopic origin of changes in traits of all studied living things. Even the smallest difference in a strand of DNA can result in a change in traits that can cost the life of the organism. Mutations can produce proteins with a new or altered function. In humans, the example of [[w:Sickle cell anaemia|Sickle cell anemia]] is commonly given as its origin is a difference of only one base pair in a section of DNA that encodes red blood cells.
+
+Individual sequences of DNA that encode for specific proteins are called '''genes''' and are the units of heredity. Each one has a set [[w:nucleotide|nucleotide]], and together all of the genes (and some  sequence of DNA that apparently do not code for any biologically important functions) together make up the entire '''[[w:chromosome|chromosome]]'''
+
+==Mendel ==
+* Discovered principle of genetic segregation via numerous experiments utilizing pea plants
+* Inferred the existence of genes through segregation of phenotypes 
+* Used quantitative methods: counted; ratios
+* Work is model of scientific method
+* In particular, observed the F2 progeny, which lead to the discovery of dominant and recessive traits
+* Published work in 1866, went unnoticed 
+* In 1900 his scientific paper was “rediscovered” 
+* Mendel is acknowledged as founder of Genetics 
+** still used alphabet letters to designate genes 
+** still refer to dominant and recessive genes 
+** still refer to segregation of alleles in meiosis 
+** principle of segregation applies to all sexually reproducing organisms; Mendel’s results were immediately applied to humans in 1900
+==Mendel’s experiments ==
+* 1856, began experiments with the garden pea, Pisum sativum 
+* 1865, presented results to the Bruno natural history society, which he helped found 
+* 1866, published his results in proceedings of the society 
+* Naegeli encouraged Mendel to reproduce results in another species, which failed because the species did not undergo true fertilization
+* discrete traits in Pisum sativum
+** pure-breeding lines
+** dominant/recessive alleles
+* alleles are two alternate versions of a gene
+** gametes contain hybridized chromosomes that are formed during meiosis
+** homozygous has two of the same allele
+** heterozygous has two different alleles
+* reciprocal F1 crosses (all exhibiting dominant phenotypes); F2; F3 
+* counted offspring, noted ratios 
+* inferred genotypes from phenotypes 
+* tested hypotheses with testcrosses 
+* attempted to repeat with another species
+
+== Mendel’s seven pairs of traits ==
+# Seed form (round or wrinkled)
+# Cotyledon color (green or yellow)
+# Seed coat color (white or colored)
+# Pod form (inflated or constricted)
+# Pod color (green or yellow)
+# Flower position (axial or terminal)
+# Plant heights (tall or short)
+
+==Locus ==
+*The location of a specific gene within a chromosome
+
+==Modern Y chromosome ==
+Y-chromosome is the most evolved chromosome. Generally it is thought that if Y- chromosome is present in an individual then he will be male. But if mutation occurs at sex determining region or zinc factor then it will not code for testis determining factor, and results in normal female. This type of female's frequency is 1/250000.
+
+==Chromosome phenomena ==
+* X-chromosome inactivation 
+** Barr bodies 
+* Nondisjunction: failure of chromosome segregation at meiosis or mitosis 
+** Results in 2N ± 1 chromosome number 
+* Trisomy 2N + 1 
+** Usually lethal. Trisomy 21 (Down) exception 
+* Monosomy 2N ** 1 
+** Lethal except XO 
+** Usually maternal origin in humans 
+==X-chromosome inactivation==
+In females, one X-chromosone is randomly switched off forming a Barr body.
+
+==Barr body ==
+Dense region in the nucleus formed by the inactive X-chromosome.
+
+==Human genetic disorders==
+
+'''Down's Syndrome(Mongolism)'''
+
+Down's Syndrome is usually produced  by the nondisjunction of chromosome 21 during oogenesis and sometimes during spermatogenesis. The individual suffering from this type of syndrome has 47 chromosomes instead of the normal 46. The extra chromosome is not a sex chromosome but an autosome.
+      
+Most cases of mongolism were found to occur
+in children born by women in their forties. The affected
+children, called mongoloids, show mental retardation 
+and have a shorter life expectancy. Their most prominent
+feature is the Mongolian folds in their eyes; hence, 
+the term mongolism.
+
+'''Klinefelter's Syndrome'''
+
+When an XY-bearing sperm unites with an X-bearing 
+egg, the resulting condition is called Klinefelter's 
+Syndrome, or sexually undeveloped male. Individuals 
+having the syndrome show the following characteristics:
+*    testes are small
+*    sperms are never produced
+*    breasts are enlarged
+*    body hair is sparse
+*    individuals are mentally defective
+     
+The same abnormal meiotic division may occur in
+females. They produce eggs with XX or no sex chromosomes.
+Such egg, when fertilized by a Y-bearing sperm, will not 
+develop (YO). This is because YO is lethal--it wil cause 
+death to the offspring.</text>
+      <sha1>hslrtsxj1k8ssgmfxsakslzsufj8m6a</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Genetics/DNA, The Genetic Material</title>
+    <ns>0</ns>
+    <id>2168</id>
+    <revision>
+      <id>2206901</id>
+      <parentid>2206893</parentid>
+      <timestamp>2011-11-07T23:01:28Z</timestamp>
+      <contributor>
+        <username>Xania</username>
+        <id>40302</id>
+      </contributor>
+      <minor />
+      <comment>minor fix</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+=DNA: The Genetic Material =
+==DNA ==
+DNA stands for ''Deoxyribose Nucleic Acid''. That is, a nucleic acid with two sugars. DNA is the hereditary material of cells and is considered the blueprint of life. DNA is found in all kingdoms of life. Even most viruses have DNA. A molecule of DNA is chemically stable (it does not have a 2-prime alcohol group.)
+
+When someone says DNA, they may be referring to one's genetic material on multiple levels: They may be speaking about a single deoxyribose nucleic acid molecule, a section of a double helix, a section of a chromosome, or one's entire hereditary composition.
+
+* antiparallel
+* Double helix 
+** Semiconservative replication 
+** Sequence of nucleotides encodes functional RNA or polypeptide
+
+==Historical perspective ==
+* Mitosis and meiosis 
+** Regular distribution of chromosomes suggested that they contain hereditary information 
+** Bridges/Morgan, using Drosophila melanogaster showed that genes are on chromosomes (1910s) 
+* Hammerling: nucleus contains hereditary information (1930s) 
+* Griffith: transformation of bacteria (1928) 
+* Avery, MacLeod, McCarty:  transforming substance is DNA (1944) 
+* Hershey, Chase: DNA is hereditary material of viruses (1952) 
+* Rosalind Franklin
+* Watson and Crick: structure of DNA (1953)
+
+==Hershey-Chase Experiment ==
+The Hershey and Chase experiment was one of the leading suggestions that DNA was a genetic material.  Hershey and Chase used phages, or viruses, to implant their own DNA into a bacterium.  They did two experiments marking either the DNA in the phage with a radioactive phophorus or the protein of the phage with radioactive sulfur.  With the bacteria that was infected by the phages with radioactive DNA the DNA in the bacteria was radioactive.  In the bacteria that was infected with the radioactive protein the bacteria was radioactive, not the DNA.  This proves that DNA is a genetic material and it is passed on in viruses.
+
+==DNA/RNA components ==
+* Miescher: discovered DNA, 1869 
+===Structure of DNA===
+DNA is in a double helix structure made up of nucleotides.  The &quot;backbone&quot; of the double helix is composed of phosphates connected to a five carbon sugar called ''deoxyribose'', . The &quot;rungs&quot; are composed of nitrogenous bases, Purines and Pyrimidines. Purines contain  Adenine(A) and Guanine(G) and have two rings in their structures. Pyrimidines contain Cytosine(C) and Thymine (T) and have one ring in their structures.
+
+==Chemical structure of DNA ==
+* Polynucleotide 
+** Phosphodiester bonds between nucleotides 
+** 5’-pGpTpCpGpTpApApTp-OH 3’ 
+* Chargaff’s rules, in DNA: equimolar amounts 
+** A = T 
+** G = C
+
+==3D structure of DNA ==
+* [http://en.wikipedia.org/wiki/James_D._Watson James Watson] and [http://en.wikipedia.org/wiki/Francis_Crick Francis Crick] ([http://en.wikipedia.org/wiki/1953 1953]) 
+** Nucleotide 
+** Keto and amino forms of bases 
+** Chargaff’s rules 
+** X-ray crystallographic data ([http://en.wikipedia.org/wiki/Rosalind_Franklin Rosalind Franklin])
+
+==Franklin ==
+* X-ray diffraction of DNA crystals 
+* revealed regular pattern explained by antiparallel double helix 
+DNA model 
+* Double helix of polynucleotides 
+** antiparallel 
+** 3’-5’ phosphodiester bonds 
+* Base pairs held by hydrogen bonds 
+** AT 
+** GC 
+* There are about 10 base pairs per turn of helix 
+* model has predictive power 
+** mode of DNA replication 
+** encoding of genetic information
+
+==DNA replication==
+* Conservative model 
+** One double helix of both old strands 
+** One double helix of two new strands 
+* Dispersed 
+** Each strand mixture of old new 
+* Semiconservative 
+** Meselson-Stahl experiment confirmed its viability over the previous two
+*** grew ''E. coli'' bacterium in a culture containing 15N (a heavy isotope of nitrogen)
+*** bacterium assimilated the 15N into their DNA
+*** a similar process was then done using 14N, a lighter isotope
+*** following centrifugation, the densities were observed to be that of combined in the middle, and 14N on top, thereby confirming the semiconservative model
+
+==DNA replication ==
+* Semiconservative 
+* New nucleotides added to 3’ –OH 
+* Replication fork 
+** Replication complex 
+* DNA polymerase 
+* Associated enzymes/proteins 
+** Energy from phosphate bonds of triphosphate nucleotide substrates (dNTP) 
+==DNA polymerases ==
+* Prokaryotes, E. coli 
+** 3 DNA polymerases 
+** III is main enzyme for DNA replication 
+** ~1000 nt/sec 
+* Eukaryotes 
+** 6 DNA polymerases 
+* Add nucleotide to 3’ –OH end 
+* All require primer, i.e., free 3’ –OH 
+==DNA replication complex ==
+* Helicase &quot;unzips&quot; the DNA double helix
+* Primase: synthesize RNA primer 
+* Single-strand binding proteins 
+* DNA gyrase (topoisomerase) 
+
+* DNA polymerase III 
+* DNA polymerase I (remove primer, fill gaps)
+
+==DNA replication ==
+* 5’ &amp;rarr; 3’ replication 
+** Nucleotide addition at 3’ –OH 
+** No exceptions 
+* New strands are oriented in opposite direction due to 5’ &amp;rarr; 3’ constraint 
+** Leading strand: continuous replication 
+** Lagging strand: discontinuous replication 
+*** contains multiple Okazaki fragments
+* Joined by DNA ligase
+
+==DNA replication fork==
+* primer required by all DNA polymerases 
+==Replication units ==
+==Replicon ==
+A region of DNA that is replicated from a single origin.
+
+==What is gene? ==
+* Garrod 
+** “inborn errors of metabolism” 
+** Alkaptonuria: enzyme deficiency 
+* Beadle and Tatum 
+** One gene one enzyme 
+** Genetic and biochemical analysis in Neurospora 
+* Today:  gene is sequence of nucleotides encoding functional RNA molecule or the amino acid sequence of a polypeptide
+
+''This text is based on notes very generously donated by Paul Doerder, Ph.D., of the Cleveland State University.''</text>
+      <sha1>tiusx6eoj24dla95xddphvltidbe3bc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Genetics/Gene Expression</title>
+    <ns>0</ns>
+    <id>2169</id>
+    <revision>
+      <id>2435362</id>
+      <parentid>2435016</parentid>
+      <timestamp>2012-11-06T21:16:48Z</timestamp>
+      <contributor>
+        <username>Xania</username>
+        <id>40302</id>
+      </contributor>
+      <comment>RV to previous version</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+=Gene expression =
+Flow of genetic information 
+* DNA &amp;rarr; mRNA &amp;rarr; polypeptide 
+* Transcription: DNA &amp;rarr; mRNA 
+** RNA polymerase 
+** Nucleus in eukaryotes 
+** Transcription also makes rRNA and tRNA 
+* Translation: mRNA &amp;rarr; polypeptide 
+** Ribosomes: protein and rRNA 
+** Genetic code and tRNA
+
+==“Central Dogma” ==
+
+==The Genetic Code ==
+* Triplet codon 
+** 64 triplet codons (43) 
+** Experimentally deciphered in 1961 
+* Nearly universal 
+** Implies common ancestor to all living things 
+** Minor exceptions: certain ciliates, mitochondria, chloroplasts 
+* Still evolving 
+
+==Transcription ==
+* RNA polymerase 
+** NTP substrates 
+** Synthesizes single stranded RNA complementary to template strand of DNA 
+** New nucleotides to 3’ end 
+* Begins at promoter site 
+** no primer necessary 
+* Ends at terminator site 
+* Much posttranscriptional modification in eukaryotes 
+==Transcription bubble ==
+Promoter site 
+* Prokaryotes 
+** -10 nt, TATA box 
+** -35 nt, additional signal 
+* Eukayotes 
+** -25, TATAAA box 
+** Additional signals upstream 
+* Promoters may be strong or weak 
+* In eukaryotes, access to promoter depends upon state of chromatin coiling 
+==Eukaryote mRNA ==
+* Synthesized as pre-mRNA, processed in nucleus 
+* 5’ end: GTP cap placed in inverted position 
+** Essential for ribosome recognition 
+* 3’ end: poly-A tail; non-templated addition of ~50-250 A nucleotides; stability 
+* Introns: intervening sequences removed 
+==Translation ==
+* Requires: 
+** mRNA 
+** tRNA 
+** ribosomes 
+** translation factors (various proteins) 
+* In prokaryotes, takes place on growing mRNA 
+* In eukaryotes, in cytoplasm on free ribosomes and RER 
+* AUG start codon to stop codon 
+==Translation in bacteria ==
+tRNA 
+* Transfer RNA 
+* Two important parts 
+** Anticodon 
+* Hydrogen bonds with mRNA codon 
+** 3’ end 
+* Accepts amino acid (using energy of ATP) 
+* Aminoacyl-tRNA synthetase 
+==Aminoacyl tRNA synthase ==
+* Enzyme used to bind amino acid from the cytoplasm to tRNA, which then transfers that amino acid to the ribosome for polypeptide formation
+==Ribosome structure ==
+
+==Large ribosome subunit ==
+==Translation ==
+* Initiation complex 
+** Small ribosomal subunit 
+** mRNA 
+** fMet-tRNA (prokaryotes only; met-tRNA in eukaryotes) 
+** Initiation factors 
+* Elongation 
+** Ribosome 
+** mRNA 
+** tRNAs 
+** Elongation factors 
+==Initiation complex ==
+==Elongation, translocation ==
+* incoming tRNA enters the A site 
+* rRNA catalyzes peptide bond formation.  Note that growing peptide is attached to what was incoming tRNA at P site after translocation. 
+* empty tRNA leaves via E site; recycled 
+* A site ready for next charged tRNA 
+
+
+==Introns/exons ==
+* In eukaryotes, coding regions of gene may be interrupted by introns, noncoding regions of DNA (RNA) 
+* Introns 
+** 22- &gt;10,000 nt in length 
+** 5’ GU &amp;hellip; 3’ AG removal sequence 
+** Not essential to genes 
+** May constitute &gt;90% of gene 
+* removed from pre-mRNA to form mRNA 
+* Exon: often codes for functional domain of protein 
+** translatable mRNA
+
+''This text is based on notes very generously donated by Paul Doerder, Ph.D., of the Cleveland State University.''</text>
+      <sha1>doa0fjfd6aiyaln4pgr31s81j65mk90</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Indonesian/Conjugation</title>
+    <ns>0</ns>
+    <id>2170</id>
+    <revision>
+      <id>1809863</id>
+      <parentid>1809860</parentid>
+      <timestamp>2010-05-30T06:45:39Z</timestamp>
+      <contributor>
+        <username>Kayau</username>
+        <id>96589</id>
+      </contributor>
+      <comment>Undo revision 1809860 by [[Special:Contributions/61.247.52.79|61.247.52.79]] ([[User talk:61.247.52.79|talk]]) today isn't april fools day... :) i'm not buying it</comment>
+      <text xml:space="preserve">=== Pembentukan Kata ''(Word Forming)'' ===
+
+In Indonesian, you can form a new word from an existing word. For example, in English, you form the word ''organize'' from the word ''organ''. Further, you can add ''-ization'' suffix on it and thus ''organization''. This example pretty much illustrates how Indonesian words are formed. Certainly, this formation is not necessarily the same and it's far richer than that. You'll learn shortly why.
+
+The word formation is very attached to Indonesian / Malay culture. Some of the formations may not make sense to the westerners. However, with some stretch of imagination, you should be able to cope with it. Many Asian language speakers, on the other hand, will find it very intuitive and much more structured than, say, Chinese.
+
+Using these formations, you just need to memorize one type of word (either the noun form, the verb form, or the adjective form). You can then ''nounize'' the verb or ''verbize'' the noun or form other interesting words.
+
+In a sense, the word formation is the irregular side of Indonesian since you must know which word works with which affixes. This can be confusing for beginners. However, even if you use the incorrect affixes, as long as it doesn't lead to preexisting meaning, sympathetic speakers would understand.
+
+=== Susunan Aktif / Pasif ''(Active / Passive Formation)'' ===
+* [[Indonesian/prefix me|Awalan me-]] ''Prefix me-''
+* [[Indonesian/affix me kan and me i|Imbuhan me-kan dan me-i]] ''Affix me-kan and me-i''
+* [[Indonesian/prefix ber|Awalan ber-]] ''Prefix ber-''
+* [[Indonesian/affix ber kan and ber i|Imbuhan ber-an dan ber-i]] ''Affix ber-kan and ber-i''
+* [[Indonesian/prefix di|Awalan di-]] ''Prefix di-''
+* [[Indonesian/affix di kan and di i|Imbuhan di-kan dan di-i]] ''Affix di-kan and di-i''
+* [[Indonesian/prefix ter|Awalan ter-]] ''Prefix ter-''
+* [[Indonesian/affix ter kan and ter i|Imbuhan ter-kan dan ter-i]] ''Affix ter-kan and ter-i''
+
+=== Imbuhan Sederhana Lain ''(Other Simple Affixes)'' ===
+* [[Indonesian/suffix kan|Akhiran -kan]] ''Suffix -kan''
+* [[Indonesian/suffix i|Akhiran -i]] ''Suffix -i''
+* [[Indonesian/suffix lah|Akhiran -lah]] ''Suffix -lah''
+* [[Indonesian/suffix an|Akhiran -an]] ''Suffix -an''
+* [[Indonesian/suffix nya|Akhiran -nya]] ''Suffix -nya''
+* [[Indonesian/prefix ke|Awalan ke-]] ''Prefix ke-''
+* [[Indonesian/prefix pe|Awalan pe-]] ''Prefix pe-''
+* [[Indonesian/prefix se|Awalan se-]] ''Prefix se-''
+
+=== Imbuhan komposit ''(Composite Affixes)'' ===
+* [[Indonesian/affix ke an and ke i|Imbuhan ke-an dan ke-i]] ''Affix ke-an and ke-i''
+* [[Indonesian/affix pe an and pe i|Imbuhan pe-an dan pe-i]] ''Affix pe-an and pe-i''
+* [[Indonesian/affix per an and per i|Imbuhan per-an dan per-i]] ''Affix per-an and per-i''
+* [[Indonesian/affix ter kan and ter i|Imbuhan ter-kan dan ter-i]] ''Affix ter-kan and ter-i''
+* [[Indonesian/affix se nya|Imbuhan se-nya]] ''Affix se-nya''
+
+=== Imbuhan kompleks ''(Complex Affixes)'' ===
+* [[Indonesian/affix memper kan and memper i|Imbuhan memper-kan dan memper-i]] ''Affix memper-kan and memper-i''
+* [[Indonesian/affix diper kan and diper i|Imbuhan diper-kan dan diper-i]] ''Affix diper-kan and diper-i''
+
+=== Imbuhan spesifik ''(Specific Affixes)'' ===
+I call these very specific affixes because, unlike the previous ones, they can only be used in very few words.
+
+* [[Indonesian/suffix man wan wati ita|Akhiran -man, -wan, -wati, dan -ita]] ''Suffix -man, -wan, -wati, -ita''
+* [[Indonesian/infix en el er|Sisipan -en-, -el-, -er-]] ''Infix -en-, -el-, dan -er-''
+
+{{BookCat}}</text>
+      <sha1>pox18bti87p1ia0tpejcp5jjwvpkv7l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Indonesian/prefix me</title>
+    <ns>0</ns>
+    <id>2171</id>
+    <revision>
+      <id>1729539</id>
+      <parentid>1729519</parentid>
+      <timestamp>2010-03-03T07:35:20Z</timestamp>
+      <contributor>
+        <username>Drfrogsplat</username>
+        <id>330143</id>
+      </contributor>
+      <comment>added link back to conjugation page</comment>
+      <text xml:space="preserve">A form of [[Indonesian/Conjugation|Indonesian Conjugation]]
+
+== Awalan me- ''(Prefix me-)'' ==
+
+Prefix ''me-'' is used '''to form active verbs'''. You may combine any nouns, any adjective, numbers, and even verbs themselves to form another verb.
+
+Prefixing any words with ''me-'' would require a minor spelling change (inflection) in order to facilitate a smooth transition in pronunciation. The inflection is based solely on the first letter of the original word. This is an example of [http://en.wikipedia.org/wiki/Consonant_mutation consonant mutation]. See the table below.
+
+
+{| border=&quot;1&quot; align=&quot;top&quot;
+|-
+! ''First letter''
+! ''Inflection''
+! ''Example''
+|-
+| vowels, g, h || ''me-'' &amp;rarr; ''meng-''
+| uji &amp;rarr; menguji (= to test), garuk &amp;rarr; menggaruk (= to scratch), hitung &amp;rarr; menghitung (= to count)
+|-
+| b, f, v || ''me-'' &amp;rarr; ''mem-''
+| beri &amp;rarr; memberi (= to give), fitnah &amp;rarr; memfitnah (= to falsely accuse)
+|-
+| c, d, j || ''me-'' &amp;rarr; ''men-''
+| cari &amp;rarr; mencari (= to search), dapat &amp;rarr; mendapat (= to obtain), jangkau &amp;rarr; menjangkau (= to reach)
+|-
+| k
+| ''me-'' &amp;rarr; ''meng-'', drops the ''k''
+| kandung &amp;rarr; mengandung (= to contain or to be pregnant [if applied to a person])
+|-
+| p
+| ''me-'' &amp;rarr; ''mem-'', drops the ''p''
+| putih &amp;rarr; memutih (= to turn white)
+|-
+| s
+| ''me-'' &amp;rarr; ''meny-'', drops the ''s''
+| satu &amp;rarr; menyatu (= to become one / to unite)
+|-
+| t
+| ''me-'' &amp;rarr; ''men-'', drops the ''t''
+| tulis &amp;rarr; menulis (= to write)
+|}
+
+Note:
+* Since original Indonesian words have no ''q'', ''x'', and ''z'', the inflection is adapted from the existing ones. The ''q'' and ''x'' words would follow ''g'' rules, ''z'' words would follow ''j'' words.
+* Other initial letters (l, m, n, r, w, and y) don't have spelling changes.
+* If the word is monosyllabic (only has one syllable), regardless of the first letter of the word, the ''me-'' always turns into ''menge-'', then add the word. For example: ''cat'' (= paint) &amp;rarr; ''mengecat'' (= to paint), ''bor'' (= boring tool / drill) &amp;rarr; ''mengebor'' (= to make a hole with drill).
+
+== Me- + Kata Kerja ''(Me- + Verb)'' ==
+
+Verbs can be combined with ''me-'' prefix. The meaning is exactly the same as the infinitive. The semantics may be different depending on the type of verbs. To refresh our mind -- there are two kinds of verbs in Indonesian:
+* Transitive verbs (verbs that can have objects)
+* Intransitive verbs (verbs that cannot have objects, [almost] equivalent to reflexive verbs)
+
+=== Me- + Kata Kerja Transitif ''(Me- + Transitive Verbs)'' ===
+
+Transitive verbs can not be used in a sentence in their infinitive forms, except for a few words (e.g. ''makan'' (= to eat), ''minum'' (= to drink)). So, in order to use it, you must conjugate it with ''me-'' or some other prefixes.
+
+Example:
+* Saya memakan roti ''(= I eat [a slice of] bread)''
+* Dia menulis buku ''(= He/she writes [a] book(s))''
+
+=== Me- + Kata Kerja Intransitif ''(Me- + Intransitive Verbs)'' ===
+
+Unlike transitive verbs, only a few of intransitive verbs can be conjugated with ''me-''. Example:
+* Dia menangis ''(= He/she cries)''
+
+Most intransitive verbs must be used in their infinitive forms (e.g. ''tidur'' (= to sleep)) or use other affixes.
+
+Note that, the sense of transitivity is not the same with other languages like Spanish. Here the word ''tari'' (= to dance) is considered intransitive.
+* Wati menari ''(= Wati dances)''
+
+== Me- + Kata Benda ''(Me- + Noun)'' ==
+
+When ''me-'' prefix is combined with a noun, the new word could mean one of the following:
+
+&lt;ul&gt;
+&lt;li&gt;To put the noun on some other noun&lt;br&gt;
+cat (= paint) &amp;rarr; mengecat (= to paint)&lt;br&gt;
+e.g. Bapak mengecat tembok (= Father paint the wall).&lt;/li&gt;
+&lt;li&gt;To indicate that the subject turns into the noun (most of the times, figuratively)&lt;br&gt;
+&lt;ul&gt;&lt;li&gt;batu (= stone) &amp;rarr; membatu (= to turn to stone)&lt;br&gt;
+e.g. Dia membatu (= He/she turns to stone [figuratively, to indicate that he/she doesn't move for hours])&lt;/li&gt;
+&lt;li&gt;kuping (= ear) &amp;rarr; menguping (= to turn to ear [i.e. to eavesdrop])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;To produce the noun&lt;br&gt;
+sambal (= chili) &amp;rarr; menyambal (= to make chili)&lt;br&gt;
+Comment: Indonesian rarely use this notion, but Malay do. Indonesian people usually prefer the phrase ''&quot;membuat sambal&quot;'' instead.
+&lt;li&gt;To do work with the noun&lt;br&gt;
+bajak (= plow) &amp;rarr; membajak (= to plow)&lt;br&gt;
+Note: ''Membajak'' can also mean ''to hijack''.
+&lt;/ul&gt;
+
+Note: The trickiest part of ''me-'' is when it is being combined with noun. Not all nouns can be combined with ''me-'' and the meaning is highly dependant on the culture.
+
+== Me- + Kata Sifat ''(Me- + Adjective)'' ==
+
+When combined with adjective, the ''me-'' prefix indicates the subject changes more into or to turn to the indicated adjective. For example:
+
+* Besar (= big) &amp;rarr; membesar (= to become bigger)
+* Kecil (= small) &amp;rarr; mengecil (= to become smaller)
+* Panas (= hot) &amp;rarr; memanas (= to become hotter)
+* Panjang (= long) &amp;rarr; memanjang (= to become longer)
+* Putih (= white) &amp;rarr; memutih (= to turn white)
+* Kuning (= yellow) &amp;rarr; menguning (= to turn yellow)
+
+Note: Adjective that describes emotions cannot be combined with ''me-''.
+
+== Me- + Kata Bilangan ''(Me- + Numbers)'' ==
+
+The only numbers that can be conjugated with ''me-'' are ''satu'' (= one) and ''dua'' (= two).
+
+* Satu &amp;rarr; menyatu (= to unite)
+* Dua &amp;rarr; mendua (= to split into two)&lt;br&gt;Perhatiannya mendua (= His attention is split into two [i.e. not focused])&lt;br&gt;Hatinya mendua (= His heart is split into two [i.e. not loyal])
+
+== Me- + Kata Tempat ''(Me- + Places)'' ==
+
+When combined with places, ''me-'' would indicate that the subject is going to the said place.
+
+* Udara (= air) &amp;rarr; mengudara (= to go to the air [for radio/tv program or airplane])
+* Laut (= sea) &amp;rarr; melaut (= to go to the sea [for ships/sailors])
+* Darat (= ground/land) &amp;rarr; mendarat (= to land [for ships/airplane])
+* Seberang (= across) &amp;rarr; menyeberang (= to cross [the street, sea, river])
+
+== Me- + Kata Seru ''(Me- + Expletive)'' ==
+
+Note that the ''expletives'' doesn't mean ''swear words'' here, but rather the words that mimic sounds. For example: &quot;Moo&quot;, &quot;Baa&quot;, &quot;Quack&quot;, etc.
+
+When expletives are combined with ''me-'', it indicates that the subject produces the indicated sound.
+
+* Aum (= tiger roar) &amp;rarr; mengaum (= to roar like tigers)
+* Lenguh (= moo) &amp;rarr; melenguh (= to moo like cows)
+
+[[Category:Indonesian]]
+{{alphabetical|I}}</text>
+      <sha1>hj3bnnon97lapwkip5c7fxcjp5shzvd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Mathematics</title>
+    <ns>0</ns>
+    <id>2172</id>
+    <redirect title="Subject:Mathematics" />
+    <revision>
+      <id>1852582</id>
+      <parentid>1852526</parentid>
+      <timestamp>2010-06-23T13:03:15Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>Protected &quot;[[Mathematics]]&quot;: High-impact page ([edit=sysop] (indefinite) [move=sysop] (indefinite))</comment>
+      <text xml:space="preserve">#REDIRECT [[Subject:Mathematics]]</text>
+      <sha1>14p2maivqhvhf6zlukhbggbe86uadf5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Discrete Mathematics/Number representations</title>
+    <ns>0</ns>
+    <id>2175</id>
+    <revision>
+      <id>2544995</id>
+      <parentid>2065177</parentid>
+      <timestamp>2013-07-23T19:35:06Z</timestamp>
+      <contributor>
+        <ip>162.138.200.3</ip>
+      </contributor>
+      <comment>/* Converting to continued fraction representation */  fix to equation</comment>
+      <text xml:space="preserve">You are already familiar with writing a number down, and having it mean a certain combination of tens, hundreds, and so on. This is one form of '''number representation''', but there are others. We will look at number bases and continued fractions.
+
+
+
+
+== Number bases==
+You are already familiar with base-10 number representation. For example, the number 2818 is the same as
+: 2&amp;times;10&lt;sup&gt;3&lt;/sup&gt;+8&amp;times;10&lt;sup&gt;2&lt;/sup&gt;+1&amp;times;10&lt;sup&gt;1&lt;/sup&gt;+8&amp;times;10&lt;sup&gt;0&lt;/sup&gt;
+
+We can replace the number 10 here with any number and we obtain a different number. In general, we can represent an integer ''n'' in a base ''b'' by the following:
+: ''a''&lt;sub&gt;k&lt;/sub&gt;''b''&lt;sup&gt;k&lt;/sup&gt;+''a''&lt;sub&gt;k-1&lt;/sub&gt;''b''&lt;sup&gt;k-1&lt;/sup&gt;+...+''a''&lt;sub&gt;0&lt;/sub&gt;''b''&lt;sup&gt;0&lt;/sup&gt;
+where the ''a''&lt;sub&gt;i&lt;/sub&gt; are all less than ''b''.
+
+We write a number base ''b'' as (''a''&lt;sub&gt;k&lt;/sub&gt;''a''&lt;sub&gt;k-1&lt;/sub&gt;...''a''&lt;sub&gt;0&lt;/sub&gt;)&lt;sub&gt;''b''&lt;/sub&gt;.
+
+For example, if we have the numeral 243 in base 6, we write it (243)&lt;sub&gt;6&lt;/sub&gt;. When we are in base 10 we simply write the number: for example the numeral 155 in base 10 is simply written 155.
+
+However, given a number in a base ''b'', how can we convert it to our natural base 10 system? Likewise, how can we convert a number from our base 10 system to base ''b''?
+
+The first is relatively easy, the other more difficult.
+
+=== Converting base ''b'' to base 10 ===
+We simply use the definition of a base-''b'' number to convert a base-''b'' number to base 10 - that is we simply multiply out.
+
+For example
+:(919)&lt;sub&gt;12&lt;/sub&gt;=9&amp;times;12&lt;sup&gt;2&lt;/sup&gt;+12&lt;sup&gt;1&lt;/sup&gt;+9=1317.
+
+=== Converting base 10 to base ''b''===
+This task however is slightly more difficult, and there are several ways of performing this task.
+
+One method is to write each step using the division algorithm from the [[../Number theory/]] section. For example, if we wish to convert 1317 to base 12:
+: 1317 = 12 &amp;times; 109 + 9
+: 109  = 12 &amp;times; 9 + 1
+: 9    = 12 &amp;times; 0 + 9
+
+
+So in base 12, (919)&lt;sub&gt;12&lt;/sub&gt;=1317.
+
+== Real numbers ==
+We've just seen how we can convert ''integers'' from base to base, but how do we work with converting ''real'' numbers?
+
+Recall in base 10 we write a number such as 11.341 as
+: 1&amp;times;10&lt;sup&gt;1&lt;/sup&gt;+1&amp;times;10&lt;sup&gt;0&lt;/sup&gt;+3&amp;times;10&lt;sup&gt;-1&lt;/sup&gt;+4&amp;times;10&lt;sup&gt;-2&lt;/sup&gt;+1&amp;times;10&lt;sup&gt;-3&lt;/sup&gt;
+
+and so we can extend our definition above of a base-''b'' number to be
+:
+''a''&lt;sub&gt;k&lt;/sub&gt;''b''&lt;sup&gt;k&lt;/sup&gt;+''a''&lt;sub&gt;k-1&lt;/sub&gt;''b''&lt;sup&gt;k-1&lt;/sup&gt;+...+''a''&lt;sub&gt;0&lt;/sub&gt;''b''&lt;sup&gt;0&lt;/sup&gt;+''a''&lt;sub&gt;-1&lt;/sub&gt;''b''&lt;sup&gt;-1&lt;/sup&gt;+...
+
+where the ''a''&lt;sub&gt;i&lt;/sub&gt; are all less than ''b'', and the sum could terminate or go on indefinitely.
+
+Again, how are we to convert these numbers from base to base? We can convert the integral part, but what about the ''fractional part'' (the part less than 1)?
+
+=== Converting fractional ''n'' to base-''b''===
+Say we wish to convert .341 in base 10 to base 6.
+
+We write a table, using the following rules
+:&lt;math&gt;c_i = \lfloor{6\gamma_{i-1}}\rfloor&lt;/math&gt;
+:&lt;math&gt;\gamma_i = 6\gamma_{i-1}-c_i&lt;/math&gt;
+
+ ''i''      ''c''&lt;sub&gt;i&lt;/sub&gt;                   &amp;gamma;&lt;sub&gt;i&lt;/sub&gt;                6&amp;gamma;&lt;sub&gt;i&lt;/sub&gt;
+ 0      0                   .341                2.046
+ 1      2                   .046                0.276
+ 2      0                   .276                1.656
+ 3      1                   .656                3.936
+ 4      3                   .936                5.616
+ 5      5                   .616                3.696
+ 6      3                   .696                4.176
+ 7      4                   .176                1.056
+ 8      1                   .056                0.336
+ 9      0                   .336                2.016
+
+It looks like this expansion will go on forever! We need to calculate for further values of i to see whether we hit a repeat value of &amp;gamma;&lt;sub&gt;i&lt;/sub&gt; to see whether we get a repetition.
+
+So we have the approximation that .341 is near to (.20135341)&lt;sub&gt;6&lt;/sub&gt;. (''Calculate this using the definition. How close is our approximation?'')
+
+&lt;!-- note to self: provide an example of a repeater --&gt;
+
+If we obtain a base-''b'' representation for example, that looks something like (.18191819181918191819...)&lt;sub&gt;b&lt;/sub&gt; we call the representation ''periodic''. We often write this as
+: &lt;math&gt;(.\overline{1819})_b&lt;/math&gt;
+
+We use this same procedure to convert a fractional number to base-''b'' by replacing the 6 above with ''b''.
+
+== Converting fractional ''n'' to base 10==
+We have a nifty trick we can use to convert a fractional ''n'' in base-''b'' to base 10 provided the representation repeats. Let us look at an example:
+
+Consider &lt;math&gt;(.\overline{3145})_7=\alpha&lt;/math&gt;.
+Now then
+: &lt;math&gt;(3145.\overline{3145})_7 = 7^4\alpha&lt;/math&gt;
+And now
+: &lt;math&gt;(3145)_7+(.\overline{3145})_7=7^4\alpha&lt;/math&gt;
+which is
+: &lt;math&gt;(3145)_7+\alpha=7^4\alpha&lt;/math&gt;
+Then
+: &lt;math&gt;(3145)_7=7^4\alpha - \alpha&lt;/math&gt;
+: &lt;math&gt;(3145)_7=(7^4-1)\alpha&lt;/math&gt;
+And finally
+: &lt;math&gt;{(3145)_7 \over 7^4-1}=\alpha&lt;/math&gt;
+On converting (3145)&lt;sub&gt;7&lt;/sub&gt; to base 10, we obtain the following
+: &lt;math&gt;\alpha=1111/2400&lt;/math&gt;
+
+== Continued fractions==
+In a sense, the base-''b'' representation is nice, but it has a few shortcomings in respect to accuracy. We cannot reliably represent the number &lt;math&gt;\sqrt{2}&lt;/math&gt; using base-''b'' representation. This is where the ''continued fraction'' representation comes in handy, which has some nice properties regarding quadratic irrationals.
+
+A ''continued fraction'' is a number in the form
+:&lt;math&gt; q_0 + {1 \over q_1 + {1 \over q_2 + {1 \over q_3+\ldots}}}&lt;/math&gt;
+
+Since this notation is clearly rather cumbersome, we abbreviate the above to
+:&lt;math&gt;[q_0; q_1, q_2, q_3, \ldots]&lt;/math&gt;
+
+Again we ask ourselves how can we convert from and to this number representation? Again converting from is simpler than converting to.
+
+=== Converting from continued fraction representation ===
+We simply use our definition of the continued fraction to convert from a continued fraction. This may look difficult, but in fact is quite simple depending on which end one starts with. Let's look at an example
+
+Consider
+:&lt;math&gt;\alpha=[3; 1, 2, 5]&lt;/math&gt;
+Now, we work from right to left. We first have the fraction 
+:&lt;math&gt;{1 \over 5}&lt;/math&gt;
+The next digit 2 tells us to perform
+:&lt;math&gt;2+{1\over 5}=11/5&lt;/math&gt;
+and then take the reciprocal to get
+:&lt;math&gt;{5 \over 11}&lt;/math&gt;
+Now the next digit 1 tells us to perform
+:&lt;math&gt;1+{5 \over 11}={16 \over 11}&lt;/math&gt;
+and then to take the reciprocal to get
+:&lt;math&gt;{11 \over 16}&lt;/math&gt;
+Now we must add ''q''&lt;sub&gt;0&lt;/sub&gt; which is always greater than 1 and we get the result:
+:&lt;math&gt;\alpha={59 \over 16}&lt;/math&gt;
+
+=== Converting to continued fraction representation===
+Again, we draw up a table.
+
+Consider the fraction 12/22, and use the following rules in the table
+&lt;!-- : &amp;theta;&lt;sub&gt;i&lt;/sub&gt;=&amp;theta;&lt;sub&gt;i-1&lt;/sub&gt;-''q''&lt;sub&gt;i-1&lt;/sub&gt; --&gt;
+&lt;!-- previous not only wasn't using math mode — and thus wasn't very readable — it looks like the power was missing from the first term; the results didn't match the table. --&gt;
+: &lt;math&gt;\theta_i = \theta_{i-1}^{-1} - q_{i-1}&lt;/math&gt;
+: &lt;math&gt;q_i = \lfloor \theta_i^{-1} \rfloor&lt;/math&gt;
+ i   &amp;theta;&lt;sub&gt;i&lt;/sub&gt;      &amp;theta;&lt;sub&gt;i&lt;/sub&gt;&lt;sup&gt;-1&lt;/sup&gt;     q&lt;sub&gt;i&lt;/sub&gt;
+ 0   12/22   .       0
+ 1   12/22   22/12   1
+ 2   5/6     6/5     1
+ 3   1/5     5/1     5
+
+(stop since next row will be full of 0s)
+
+So now the continued fraction for 12/22 is [0; 1, 1, 5].
+
+=== Converting a periodic continued fraction to quadratic irrational===
+Firstly, we make note of a nice property of periodic continued fractions (where the sequence of ''q''&lt;sub&gt;i&lt;/sub&gt; repeat), that 
+: every periodic continued fraction is a number in the form 
+:: &lt;math&gt;{a \pm \sqrt{b} \over c}\ \mathrm{for}\ a, b, c \in\mathbb{Z}&lt;/math&gt;
+
+For example, consider the continued fraction 
+:&lt;math&gt;\begin{matrix}
+\alpha &amp; = &amp; [2; 2, 1, 2, 2, 1 ...] \\
+       &amp; = &amp; [2; \overline{2, 1, 2}]\end{matrix}&lt;/math&gt;
+Now
+:&lt;math&gt;[2; \overline{2, 1, 2}]=[2; 2, 1, \overline{2, 2, 1}]&lt;/math&gt;
+which we can rewrite as
+:&lt;math&gt;\alpha=2+{1 \over {2 + {1 \over {1 + {1\over \alpha}}}}}&lt;/math&gt;
+Now we can simplify to obtain
+:&lt;math&gt;\alpha=2+{1 \over {2 + {1 \over {\alpha+1 \over \alpha}}}}&lt;/math&gt;
+:&lt;math&gt;\alpha=2+{1 \over {2 + {\alpha \over \alpha+1}}}&lt;/math&gt;
+:&lt;math&gt;\alpha=2+{1 \over {3\alpha+2 \over \alpha+1}}&lt;/math&gt;
+:&lt;math&gt;\alpha=2+{\alpha+1 \over 3\alpha+2}&lt;/math&gt;
+:&lt;math&gt;\alpha={7\alpha+5 \over 3\alpha+2}&lt;/math&gt;
+:&lt;math&gt;\alpha{(3\alpha+2)}={7 \alpha+5}&lt;/math&gt;
+:&lt;math&gt;\alpha{(3\alpha+2)}-5=7 \alpha&lt;/math&gt;
+:&lt;math&gt;3\alpha^2+2\alpha-5=7 \alpha&lt;/math&gt;
+:&lt;math&gt;3\alpha^2+2\alpha-7 \alpha-5=0&lt;/math&gt;
+:&lt;math&gt;3\alpha^2-5 \alpha-5=0&lt;/math&gt;
+which is a quadratic equation and can be solved to obtain
+:&lt;math&gt;\alpha={\frac{5 + {\sqrt{85}}}{6}}&lt;/math&gt;.
+
+Note that we can always roll up the continued fraction into the form (a&amp;alpha;+b)/(c&amp;alpha;+d)=&amp;alpha;, which demonstrates the point that every quadratic irrational has a repeating continued fraction representation
+
+=== Convergents ===
+Say we have a continued fraction [''q''&lt;sub&gt;0&lt;/sub&gt;; ''q''&lt;sub&gt;1&lt;/sub&gt;, ... ] which represents a number ''n''. Let us examine the following series of fractions [''q''&lt;sub&gt;0&lt;/sub&gt;], [''q''&lt;sub&gt;0&lt;/sub&gt;; ''q''&lt;sub&gt;1&lt;/sub&gt;], [''q''&lt;sub&gt;0&lt;/sub&gt;; ''q''&lt;sub&gt;1&lt;/sub&gt;, ''q''&lt;sub&gt;2&lt;/sub&gt;] and so on. Each element of the series is known as a ''convergent''. It turns out that the series of convergents provide the best rational approximations to ''n''.
+
+These can be calculated from the continued fraction representation, but also from the calculation table. Let us take &lt;math&gt;\sqrt{6}&lt;/math&gt;.
+
+Continue as before, but place an extra -1 row, and set u&lt;sub&gt;-1&lt;/sub&gt;=1, v&lt;sub&gt;-1&lt;/sub&gt;=0. Iterate with the rules
+:&lt;math&gt;u_{i+1}=q_{i+1}u_i+v_{i-1}&lt;/math&gt;
+:&lt;math&gt;v_{i+1}=q_{i+1}v_i+v_{i-1}&lt;/math&gt;
+:&lt;math&gt;\begin{matrix}
+i   &amp; \theta_i      &amp; \theta_i^{-1} &amp; q_i &amp; u_i &amp; v_i\\
+-1  &amp;               &amp;               &amp;     &amp; 1   &amp; 0 \\   
+0   &amp; \sqrt{6}      &amp;               &amp; 2   &amp; 2   &amp; 1 \\
+1   &amp; 2-\sqrt{6}    &amp; 1+\sqrt{3/2}  &amp; 2   &amp; 5   &amp; 2 \\
+2   &amp; -1+\sqrt{3/2} &amp; 2+\sqrt{6}    &amp; 4   &amp; 22  &amp; 9 \\
+3   &amp; -2+\sqrt{6}   &amp; 1+\sqrt{3/2}  &amp; 2   &amp; 49  &amp; 20 \\
+\end{matrix}
+&lt;/math&gt;
+and the sequence repeats and the continued fraction is [2; 2, 4, 2, 4, ... ]. We can continue the process to generate more convergents - the convergents are 2, 5/2, 22/9, 49/20, ...
+
+{{BookCat}}</text>
+      <sha1>ie99c7o7baxma1evxh3jdso44yihflk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Genetics/Gene Regulation</title>
+    <ns>0</ns>
+    <id>2177</id>
+    <revision>
+      <id>2015907</id>
+      <parentid>1059904</parentid>
+      <timestamp>2011-01-12T09:10:44Z</timestamp>
+      <contributor>
+        <ip>80.84.1.23</ip>
+      </contributor>
+      <comment>/* Lac operon of E. coli */</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+=Gene regulation =
+* Not all genes are expressed in a cell 
+* Gene expression can be turned on and off 
+* Multiple levels of regulation gene function 
+** Transcription initiation 
+* State of chromatin 
+* Transcription factors 
+** Post-transcriptional 
+* mRNA processing 
+* mRNA half-life 
+* Translational 
+* Post-translational 
+** Protein modification 
+==Transcriptional control ==
+* State of chromatin 
+** Euchromatin: transcriptionally active 
+** Heterochromatin: transcriptionally inactive 
+** Chemical modification of histones 
+** Methylation of bases 
+* Transcription factors 
+** Bind to DNA at promoter or other regulatory sites (enhancers) 
+* Recognize base sequence through major and minor grooves 
+** Recruit RNA polymerase 
+==DNA grooves ==
+Categories of transcription factors in eukaryotes 
+* Helix-turn-helix 
+** Two small &quot;-helices 
+** Fit into DNA groove 
+* Homeodomain 
+** Highly conserved helical domains 
+** ~60 amino acids 
+* Zinc finger motif 
+** Zn atom bound 
+* Leucine zipper 
+** dimer 
+==Regulatory proteins ==
+* Activity may depend upon allosteric binding of small molecules 
+** cAMP 
+** Co-repressors 
+** Inhibitors 
+* Binding to promoter region may “bend” DNA, making it accessible to other regulatory proteins 
+==Lac operon of E. coli ==
+* Single promoter region for cluster of genes 
+* Regulated and transcribed as a single unit 
+* Operons typical in prokaryotes 
+* Repressor: turns OFF gene expression 
+lac repressor 
+* Turns off transcription by blocking access by RNA polymerase 
+* repressor in activated by allosteric binding of lactose 
+Regulation in eukaryotes 
+* Both proximal (promoter) and distal (enhancer) to gene 
+* Typically transcription unit encodes a single polypeptide 
+* Promoter 
+** TATA box 
+** Other elements (regulatory sequences) may be present 
+* Enhancers 
+** Work upstream, downstream, close, far from gene 
+** Bend DNA
+
+==Alternative splicing ==
+* Single transcript gives rise to 2 or more mature mRNAs 
+** encode different polypeptides with shared domains 
+** tissue and developmentally specific
+
+''This text is based on notes very generously donated by Paul Doerder, Ph.D., of the Cleveland State University.''</text>
+      <sha1>s38gzndmahllwl3arhi0og0eldoxtrj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Genetics/Mutation</title>
+    <ns>0</ns>
+    <id>2178</id>
+    <revision>
+      <id>2550263</id>
+      <parentid>2332832</parentid>
+      <timestamp>2013-08-18T02:29:56Z</timestamp>
+      <contributor>
+        <username>Delphidupe</username>
+        <id>1011736</id>
+      </contributor>
+      <comment>/* Substitution */</comment>
+      <text xml:space="preserve">{{GenBioTOC}}  (This Page was Last Edited December 2005)
+=Mutation = 
+
+A mutation is a permanent change to an organism's genetic material ([[w:DNA|DNA]] or RNA).  Mutations are a rare but significant biological process, since they provide the variation on which [[General Biology/Evolution|evolution]] acts and are also the source of cancer.
+
+An organism's genetic material is made up of polymers (chains) of four different [[w:nucleotide|nucleotides]], like a recipe book written in a language of only four letters.  A mutation event is when the order of the nucleotides in DNA change, usually when the DNA is being copied.
+
+Mutations come in a number of forms:
+==Point Mutations==
+Point mutations are all mutations which involve a single nucleotide.  These come in the form of substitutions, insertions and deletions:
+
+==Substitution==
+Substitution Mutations: In substitution mutations, a nitrogenous base of a triplet codon of DNA is replaced by another nitrogen base or some derivative of the nitrogen base, changing the codon. The altered codon codes for a different amino acid substitution.The substitution mutations are of two types:
+
+
+1.Transitions: It is the replacement of one purine in a polynucleotide chain by another purine(A by G or G by A) or one pyrimidine by another pyrimidine(T by C or C by T)
+
+2.Transversions:A base pair substitution involving the substitution of a purine by pyrimidine  or pyrimidine by a purine is called transversion.
+
+===Insertion===
+
+===Deletion===
+
+==Larger mutations==
+Larger mutations which involve more than one nucleotide also include insertions and deletions, but can also include inversions, rearrangement of nucleotides and duplication of entire genes:
+
+===Inversion===
+
+===Rearrangement===
+
+===Gene/Exon Duplications===
+
+====Transposition====
+
+====Retrotransposition====
+
+==Chromosomal mutations==
+Chromosomal mutations involve changes to entire chromosomes.  These mutations are particularly rare:
+
+===Translocation===
+
+===Fusion===
+
+===Fission===
+
+===Segmental Duplication===
+
+===Chromosomal Duplication===
+
+===Genome Duplication===
+
+== Causes of mutations ==
+
+== Effects of mutations ==
+Mutations can have a variety of different effects depending on the type of mutation, the significance of the piece of genetic material affected and whether the cells affected are germ-line cells.  Only mutations in germ-line cells can be passed on to children, while mutations elsewhere can cause cell-death or cancer.
+
+Mutations can be classified by their effects:
+
+===Silent Mutation===
+
+Silent Mutations are DNA mutations that do not result in a change to the amino acid sequence or a protein. They may occur in a non-coding region (outside of a gene or within an intron), or they may occur within an exon in a manner that does not alter the final amino acid chain.
+
+===Frameshift===
+
+===Missense Mutation===
+
+Missense mutations are types of point mutations where a single nucleotide is changed to cause substitution of a different amino acid. This in turn can render the resulting protein nonfunctional. Such mutations are responsible for diseases such as Epidermolysis bullosa.
+
+===Nonsense Mutation===
+
+== Further reading ==
+=== Books ===
+* Jones, S. 1993. ''The Language of the Genes''. Harper Collins ISBN 0006552439.
+=== Websites ===
+* [[w:Mutation|Wikipedia: Mutation]]
+* [http://www.evowiki.org/Mutation|EvoWiki:Mutation]
+
+==Original notes==
+
+* “Rare” change in nucleotide sequence 
+** Somatic vs germline 
+* only those in germline are heritable 
+** Point mutation 
+* Single nucleotide change 
+** Change in gene position 
+* Transposition 
+* Chromosomal rearrangement 
+* Mutagenic agents 
+* Raw material for evolutionary change 
+==Point mutation ==
+* Ionizing radiation 
+** UV light induces thymine dimers 
+* Reparable 
+* Error during DNA synthesis 
+* Movement of transposons 
+** McClintock 
+* Chemical mutagens 
+* May alter 
+** Properties of promoter, enhancer 
+** Amino acid sequence of polypeptide
+==Acquisition of genetic variability ==
+* Mutation 
+* Sex (fusion of genomes) 
+* Recombination 
+** Crossing over 
+* Reciprocal (may result in gene conversion) 
+* Unequal (gives rise to gene families) 
+** Independent segregation 
+* Transposition by transposons 
+* Conjugation in bacteria 
+** One way transfer from donor to recipient 
+==Eukaryote genome ==
+* Thousands of transposons 
+* Millions of transposon derived elements 
+** LINES, SINES 
+* Above may constitute largest portion of genome 
+* Pseudogenes 
+* Tandem clusters (rRNA genes; nucleolus) 
+* Multigene families 
+* Single-copy genes (one copy per 1n) 
+==Barbara McClintock ==
+* Discovered transposons in perhaps greatest and ultimately most important intellectual endeavors in genetics 
+** Maize 
+** Worked alone 
+* Transposons: likely responsible for considerable evolution in eukaryotic genomes 
+* Likely origin of viruses 
+
+''This text is based on notes very generously donated by Paul Doerder, Ph.D., of the Cleveland State University.''</text>
+      <sha1>4guvr94sq203zbifucd2mj93vp49wrs</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Genetics/Recombinant DNA Technology</title>
+    <ns>0</ns>
+    <id>2179</id>
+    <revision>
+      <id>2602662</id>
+      <parentid>2172541</parentid>
+      <timestamp>2014-01-21T23:08:36Z</timestamp>
+      <contributor>
+        <ip>131.178.109.97</ip>
+      </contributor>
+      <comment>/* Restriction endonucleases */</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+=Recombinant DNA technology =
+* Revolutionized modern biology 
+** Ability to manipulate genes in vitro 
+* Hybrid genes, including combining genes of different species 
+* Detailed study of gene function 
+** Determine nucleotide sequences of genes and their regulators (deduce amino acid sequences of proteins) 
+* Genome projects: complete nucleotide sequence of &gt;40 genomes, including human 
+* Made possible by convergence of: 
+** discovery of restriction enzymes 
+** genetics of bacteria and their plasmids 
+==Recombinant DNA technology ==
+* Uses 
+** Detailed study of gene function 
+* Homeostasis, response to stress 
+* Development (birth defects) 
+** Evolution of genes informs on evolution of life 
+* Human betterment 
+** Medicine 
+* Identification, treatment of genetic disorders 
+* Molecular medicine: from deduced amino acid sequences, design better drugs 
+** Foods 
+* Improve crop yield, resistance to disease 
+* Improve nutritional value 
+** Forensics 
+* DNA fingerprinting: guilt or innocence 
+==Restriction endonucleases ==
+Originally found in bacteria to prevent invasion of viral DNA, cuts double stranded DNA that is unmethylated, will not cut newly synthesized DNA since hemi-methylated, a product of semi-conservative replication of DNA
+* sever phosphodiester bonds of both polynucleotide strands in order to combine foreign DNA
+** create restriction fragments (restriction digestion) 
+** 5’ phosphate and 3’ –OH at ends 
+* usually nucleotide specific target sequence 
+** 4-6 bp most common, the more bases, then the more specific for recombination
+** cuts in or near sequence 
+** ends 
+* sticky=overhanging ends, 5’ or 3’ 
+* blunt ends - straight cut, will anneal with any other blunt end in the presence of high ligase 
+* Hundreds of know restriction endonucleases, usually named after the bacteria that it was found in
+** e.g. EcoR1, Alu1, BamHI, HindIII
+
+==Restriction endonucleases ==
+Gene cloning 
+* Cloning: 
+** Restriction digestion of DNA 
+** insertion of restriction fragment into cloning vector 
+* Bacterial plasmid 
+* Bacterial virus 
+* Yeast artificial chromosomes 
+* Transformation of bacteria with recombinant plasmid, virus 
+* Screening for clone of interest by using reporter genes or resistance upon exposure to anti-biotic
+
+==Uses of cloned gene ==
+* Determine nucleotide sequence and deduce amino acid sequence from genetic code 
+** Submit to GenBank (available on WWW) 
+* Manipulate gene to study function 
+** In vitro 
+** In vivo 
+* Transgenic (recombinant) organisms 
+* Knockout organisms 
+* Medical and commercial uses 
+==Other molecular procedures ==
+* Polymerase chain reaction (Mullis) 
+** Amplifies target DNA without cloning 
+** Target amount can be single molecule 
+** Amplified DNA can be sequenced, cloned, etc. 
+* Southern blotting 
+** Used to identify restriction fragments carrying particular gene 
+** Also used for DNA fingerprinting and RFLP analysis 
+* cDNA construction 
+** Reverse transcription from mRNA template 
+==RFLP(restriction fragment length polymorphism) analysis ==
+* Basis of DNA fingerprinting using SNP - single nucleotide polymorphisms and repeats of DNA sequence
+* Many uses 
+** Criminal cases using multiple probes
+** Parentage 
+** Species identification 
+** Gene evolution 
+** Species evolution
+
+==Sanger DNA sequencing ==
+* Uses dideoxynucleotides (ddNTP), a template strand, DNA polymerase 1 (Also known as Kornberg enzymes) and dNTPs
+** Missing 3’-OH for nulceopjilic attack for elongation
+** DNA synthesis stops after one is incorporated into DNA fragment
+** ratio of ddNTP to dNTP determines likelihood of termination
+* Manual method with 32P-labeled ddATP and 4 test tubes - ddATP, ddCTP, ddGTP, ddTTP
+* Automated method using ddNTPs labeled with fluorescent dyes in capillary tube
+** Often done commercially
+
+==Automated sequencing ==
+Typical machine 
+** 2 hour sequencing run 
+** 600-1000 bases per sample 
+** multiple samples 
+* Up to 500,000 bases per day (12 hr) 
+* Data processed by computer 
+* In big labs, sequencing reactions also are automated
+==Genome projects==
+* Determine entire nucleotide sequence of genome 
+* &gt;40 genomes sequenced 
+** Helicobacter pylori 
+** Escherichia coli 
+** Saccharomyces cerevisiae 
+** Caenorhabditis elegans 
+** Drosophila melanogaster 
+** Homo sapiens (first rough draft) 
+* Computer identifies all genes, based on properties of genes (e.g., start/stop codons, introns, etc.). 
+==Biochips ==
+* Microarray of DNA fragments, size of postage stamp; can be expensive, but has decreased in cost 
+Microarray chips contain wells of DNA that code for specific genes that uses the concept of hybridization with the gene of interest to see if a gene is expressed or is present. 
+* Designed to detect: 
+** mutated genes (SNPs) 
+** expressed genes 
+* Instant DNA profile (“GATTACA”)
+
+==DNA chip controversies ==
+* Medicine 
+** Risks and informed consent for gene replacement therapy 
+** Alteration of human gene pool 
+** Parental choice 
+** Privacy 
+* Genetically modified foods 
+** Safety 
+** Labeling 
+* Forensics 
+** Mandatory tests 
+** Reliability standards 
+==Gene patenting ==
+* Techniques to study and manipulate genes are patented (e.g., cloning and PCR) 
+* Should genes be patented? 
+** Are they the intellectual property of the discoverer? 
+** Don’t they belong to all of us? 
+** Should indigenous peoples be compensated for useful genes extracted from their local plants and fungi?
+==Stem cells ==
+* Totipotent cells from early embryo 
+** grow into any tissue or cell type 
+* Recombinant genes can be introduced 
+* Considerable use in analyzing gene expression in mice 
+* Possible therapeutic use in humans 
+* Very controversial
+
+''This text is based on notes very generously donated by Paul Doerder, Ph.D., of the Cleveland State University.''</text>
+      <sha1>rs3mg8qe01lyhrifatrnrozv0dq6bch</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Classification of Living Things/Classification and Domains of Life</title>
+    <ns>0</ns>
+    <id>2180</id>
+    <revision>
+      <id>2714473</id>
+      <parentid>2709124</parentid>
+      <timestamp>2014-10-17T07:45:30Z</timestamp>
+      <contributor>
+        <ip>14.139.241.115</ip>
+      </contributor>
+      <text xml:space="preserve">{{GenBioTOC}}
+
+
+=== Classification 
+ ===
+
+In science, the practice of classifying organisms is called '''taxonomy''' (Taxis means arrangement and nomos means method). The modern taxonomic system was developed by the Swedish botanist Carolus (Carl) Linneaeus (1707-1788). He used simple physical characteristics of organisms to identify and differentiate between different species, and is based around genetics.  
+  
+Linneaeus developed a hierarchy of groups for taxonomy. To distinguish different levels of similarity, each classifying group, called '''taxon''' (pl. taxa) is subdivided into other groups. To remember the order, it is helpful to use a mnemonic device. The taxa in hierarchical order: 
+*Domain - Archea, Eubacteria, Eukaryote 
+*Kingdom - Plants, Animals, Fungi, Protists, Eubacteria (Monera), Archaebacteria 
+*Phylum 
+*Class
+*Order 
+*Family 
+*Genus 
+*Species 
+  
+The domain is the broadest category, while species is the most specific category available. The taxon Domain was only introduced in 1990 by Carl Woese, as scientists reorganise things based on new discoveries and information. For example, the European Hare would be classified as follows: 
+  
+Eukaryote --&gt; Animal --&gt; Chordata --&gt; Mammalia --&gt; Lagomorpha --&gt; Leporidae --&gt; Lepus --&gt; ''Lepus europaeus''. 
+  
+'''Binomial nomenclature''' is used to name an organism, where the first word beginning with a capital is the genus of the organism and the second word beginning with lower-case letter is the species of the organism. The name must be in italics and in Latin, which was the major language of arts and sciences in the 18th century. The scientific name can be also abbreviated, where the genus is shortened to only its first letter followed by a period. In our example, ''Lepus europaeus'' would become ''L. europaeus'. 
+  
+Taxonomy and binomial nomenclature are both specific methods of classifying an organism. They help to eliminate problems, such as mistaken identity and false assumptions, caused by common names. An example of the former is the fact that a North American robin is quite different from the English robin. An example of the latter is the comparison between crayfish and catfish, where one might believe that they both are fish when in fact, they are quite different.
+
+Nomenclature is concerned with the assignment of names to taxonomic groups in agreement with published rules. To study for a test these are the best words to know 
+taxonomist, biologist, chemist, geologist, unicellular, multi- cellular, bilateral symmetry, radial symmetry, chlorophyll, photosynthesis, respiration, reproduction, vertebrates, endoskeleton, exoskeleton, consumers, decomposers, heterotroph, autotroph, vascular, non-vascular. these are all part of classifying things.
+
+=== Eukaryotes &amp; Prokaryotes ===
+
+Recall that there are two basic types of cells: '''eukaryotes''' and '''prokaryotes'''. 
+
+Eukaryotes are more complex in structure, with nuclei and membrane-bound organelles. Some characteristics of eukaryotes are:
+
+*Large (100 - 1000 μm)
+*DNA in nucleus, bounded by membrane
+*Genome consists of several chromosomes.
+*Sexual reproduction common, by mitosis and meiosis
+*Mitochondria and other organelles present
+*Most forms are multicellular
+*Aerobic
+
+Prokaryotes refer to the smallest and simplest type of cells, without a true nucleus and no membrane-bound organelles. Bacteria fall under this category. Some characteristics:
+
+*Small (1-10 μm)
+*DNA circular, unbounded
+*Genome consists of single chromosome.
+*Asexual reproduction common, not by mitosis or meiosis.
+*No general organelles
+*Most forms are singular
+*Anaerobic
+
+=== The Three Domains ===
+
+The three domains are organised based on the difference between eukaryotes and prokaryotes. Today's living prokaryotes are extremely diverse and different from eukaryotes. This fact has been proven by molecular biological studies (e.g. of RNA structure) with modern technology. The three domains are as follows: 
+
+'''Archea (Archeabacteria)''' consists of archeabacteria, bacteria which live in extreme environments. The kingdom Archaea belongs to this domain.
+
+'''Eubacteria''' consists of more typical bacteria found in everyday life. The kingdom Eubacteria belongs to this domain.
+
+'''Eukaryote''' encompasses most of the world's visible living things. The kingdoms Protista, Fungi, Plantae, and Animalia fall under this category.
+
+=== The Six Kingdoms ===
+
+Under the three domains are six kingdoms in taxonomy. The first two, '''Plants''' and '''Animals''', are commonly understood and will not be expounded here. 
+
+'''Protista''', the third kingdom, was introduced by the German biologist Ernst Haeckel in 1866 to classify micro-organisms which are neither animals nor plants. Since protists are quite irregular, this kingdom is the least understood and the genetic similarities between organisms in this kingdom are largely unknown. For example, some protists can exhibit properties of both animals and plants. 
+
+'''Fungi''' are organisms which obtain food by absorbing materials in their bodies. Mushrooms and moulds belong in this kingdom. Originally, they were part of the plant kingdom but were recategorised when they were discovered not to photosynthesise.
+
+'''Eubacteria''' are bacteria, made up of small cells, which differ in appearance from the organisms in the above kingdoms. They lack a nucleus and cell organelles. They have cell walls made of peptidoglycan. 
+
+'''Archae (or Archaebacteria)''' are bacteria which live in extreme environments, such as salt lakes or hot, acidic springs. These bacteria are in their own category as detailed studies have shown that they have unique properties and features (ex. unusual lipids that are not found in any other organism)which differ them from other bacteria and which allow them to live where they live. Their cell walls lack peptidoglycan.
+&lt;math&gt;&lt;/math&gt;
+
+=== Origins of Diversity ===
+
+The diversity in our planet is attributed to diversity within a species. As the world changed in climate and in geography as time passed, the characteristics of species diverged so much that new species were formed. This process, by which new species evolve, was first described by British naturalist Charles Darwin as '''natural selection'''. 
+
+For an organism to change, genetic mutations must occur. At times, genetic mutations are accidental, as in the case of prokaryotes when they undergo asexual reproduction. For most eukaryotes, genetic mutations occur through sexual reproduction, where meiosis produces haploid gametes from the original parent cells. The fusion of these haploid gametes into a diploid zygote results in genetic variation in each generation. Over time, with enough arrangement of genes and traits, new species are produced. Sexual reproduction creates an immense potential of genetic variety.
+
+One goal of taxonomy is to determine the evolutionary history of organisms. This can be achieved by comparing species living today with species in the past. The comparison in anatomy and structure is based on data from development, physical anatomy, biochemistry, DNA, behaviour, and ecological preferences. The following are examples of how such data is used:
+
+*Anatomy:
+
+Although a horse and a human may look different, there is evidence that their arm structures are quite similar. Their arms' sizes and proportions may be different, but the anatomical structures are quite similar. Such evidence reveals that animals in different taxa may not be that different. Biological features from a common evolutionary origin are known as '''homologous'''.
+
+*Development
+
+*Biochemistry: 
+
+Biochemical analysis of animals similar in appearance have yielded surprising results. For example, although guinea pigs were once considered to be rodents, like mice, biochemistry led them to be in their taxon of their own.
+
+=== Phylogeny, Cladistics &amp; Cladogram ===
+
+Modern taxonomy is based on many hypotheses' of the evolutionary history of organisms, known as '''phylogeny'''. As with the Scientific Method, scientists develop a hypothesis on the history of an animal and utilise modern science and technology to prove the phylogeny. 
+
+'''Cladistics''' is a classification system which is based on phylogeny. Expanding on phylogeny, cladistics is based on the assumption that each group of related species has one common ancestor and would therefore retain some ancestral characteristics. Moreover, as these related species evolve and diverge from their common ancestor, they would develop unique characteristics. Such characteristics are known as '''derived characteristics'''
+
+The principles of phylogeny and cladistics can be expressed visually as a '''cladogram''', a branching diagram which acts as a family (phylogenetic) tree for similar species. A cladogram can also be used to test alternative hypotheses for an animal's phylogeny. In order to determine the most likely cladogram, the derived characteristics of similar species are matched and analysed.
+
+=== Classification of Living Things Practice Questions ===
+
+1. If taxonomists had to select an existing kingdom to reclassify, which of the six would most likely be chosen? Why? 
+
+2. Complete the following without consulting external sources:
+
+a) The species ''caudatum'' is in the family ''Paramecidae''. What would be the binomial name of this organism? 
+
+b) Give the abbreviation of the binomial name.
+
+3. 
+
+a) Irish moss belongs to the genus ''Chondrus''. The name for this species is ''crispus''. Give the binomial name.
+
+b) Give the abbreviation of the binomial name. 
+
+4. Humans and chimpanzees are alike. Which of the following data would most accurately prove this correct?
+
+:a) biochemistry
+:b) DNA
+:c) appearance
+:d) development
+:e) A, B, C
+
+5. Which of the following is out of order?
+
+:a) Kingdom --&gt; Phylum --&gt; Class
+:b) Class --&gt; Family --&gt; Order
+:c) Family --&gt; Order --&gt; Genus
+:d) Genus --&gt; Species
+:e) A, C
+:f) A, B, D
+:g) B, C
+
+6. A taxonomist discovers Organism A and Organism B and wishes to classify them. Which of the following choices is the most informative?
+
+:a) Both organisms are brown.
+:b) Both organisms have a tail. 
+:c) Both organisms have ears.
+:d) Both organisms are nocturnal.
+
+7. DNA analysis is usually done using DNA found in a cell's mitochondria, and not in a cell's nucleus. From your knowledge of mitosis, explain why this is so.
+
+&lt;!-- [[/Answers|Answers to Classification of Living Things Practice Questions]]--&gt;
+1. Arachbacteria
+3.a) Chondrus crispus
+b) C. cripus
+4. B
+5. G
+6. B</text>
+      <sha1>35qscbmza8xwbfn5nmvplr3wnyk4hpe</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Classification of Living Things/Viruses</title>
+    <ns>0</ns>
+    <id>2181</id>
+    <revision>
+      <id>2412166</id>
+      <parentid>2412156</parentid>
+      <timestamp>2012-09-27T17:23:23Z</timestamp>
+      <contributor>
+        <username>Jomegat</username>
+        <id>12605</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/90.213.245.24|90.213.245.24]] ([[User talk:90.213.245.24|talk]]) to last version by Panic2k4</comment>
+      <text xml:space="preserve">==Introduction==
+
+'''Viruses''' are the smallest biological particle (the tiniest are only 20 nm in diameter). However, they are not biological organisms so they are not classified in any kingdom of living things. They do not have any organelles and cannot respire or perform metabolic functions. Viruses are merely strands of DNA or RNA surrounded by a protective protein coat called a '''capsid'''. Viruses only come to life when they have invaded a cell. Outside of a host cell, viruses are completely inert.
+
+Since first being identified in 1935, viruses have been classified into more than 160 major groups. Viruses are classified based on their shape, replication properties, and the diseases that they cause. Furthermore, the shape of a virus is determined by the type and arrangement of proteins in its capsid. Viruses pathogenic to humans are currently classified into 21 groups. 
+
+Viruses can also attack bacteria and infect bacterial cells. Such viruses are called '''bacteriophages'''.
+
+==Viral Replication==
+
+As previously stated, viruses are not a biological life form so they cannot reproduce by themselves. They need to take over a functioning eukaryotic or prokaryotic cell to replicate its DNA or RNA and to make protein coat for new virus particles. 
+
+In order to enter a cell, a virus must attach to a specific receptor site on the plasma membrane of the host cell. The proteins on the surface of the virus act as keys which fit exactly into a matching glycoprotein on the host cell membrane. In some viruses, the attachment protein is not on the surface of the virus but is in the capsid or in the envelope. 
+
+There are two forms of viral replication: the '''lytic cycle''' and the '''lysogenic cycle'''. 
+
+===Lytic Cycle===
+
+# Attachment: The virus binds to specific receptors on the host cell.
+# Entry: There are two ways in which a virus can enter cells. Firstly, the virus can inject its nucleic acid into the host cell. Secondly, if a virus is contained in an envelope, the host cell can phagocytosise the entire virus particle into a vacuole. When the virus breaks out of the vacuole, it then releases its nucleic acid into the cell.
+# Replication: The virus's nucleic acid instructs the host cell to replicate the virus's DNA or RNA.
+# Assembly: New virus particles are assembled.
+# Lysis and Release: The virus directs the production of an enzyme which damages the host cell wall, causing the host cell to swell and burst. The newly formed virus particles are now released.
+
+===Lysogenic Cycle===
+
+# Attachment: Similar to Lytic Cycle
+# Entry: Similar to Lytic Cycle
+# Incorporation: The viral nucleic acids is not replicated, but instead integrated by genetic combination (crossing over) into the host cell's chromosome. When integrated in a host cell this way, the viral nucleic acid as part of the host cell's chromosome is known as a '''prophage'''.
+# Host Cell Reproduction: The host cell reproduces normally. Subsequent cell divisions, daughter cells, contain original father cell's chromosome embedded with a prophage.
+# Cycle Induction: Certain factors now determine whether the daughter cell undergoes the lytic or lysogenic cycle. At any time, a cell undergoing the lysogenic cycle can switch to the lytic cycle.  
+
+The reproduction cycle of viruses with RNA and no DNA is slightly different. A notable example of a RNA-based virus is HIV, a retrovirus. 
+
+====Retrovirus reproductive cycle====
+
+# The retrovirus force RNA into cell, by either one of the two methods of entry (See above).
+# In the retrovirus are reverse transcriptase enzymes, which catalyses the synthesis of a DNA strand complementary to the viral RNA. 
+# Reverse transcriptase catalyses a second DNA strand complementary to the first. With these two strands, the double-stranded DNA can be created. 
+# DNA is then incorporated into the host cell's chromosomes. Similar to the concept of a prophage, this incorporated DNA is called a '''provirus'''. However, the provirus never leaves the host cell, unlike a prophage. 
+# The infected host cell undergoes the lytic or lysogenic cycle.
+
+==Viral Genome==
+
+The genome of a virus consists of DNA or RNA, whose size and configuration vary. The entire genome can exist as a single nucleic acid molecule or several nucleic acid segments. Also, the DNA or RNA may be single-stranded or double-stranded, and either linear or circular.
+
+Not all viruses can reproduce in a host cell by themselves. Since viruses are so small, the size of their genome is limiting. For example, some viruses have coded instructions for only making a few different proteins for the viruses' capsid. On the other hand, the human genome codes for over 30,000 different proteins. Therefore, the lack of coded instructions cause some viruses to need the presence of other viruses to help them reproduce themselves. Such viruses are called '''replication defective'''.
+
+Lastly, it is worthy to note that 70% of all viruses are RNA viruses. As the process of RNA replication (with enzymes and other organelles of the host cell) is more prone to errors, RNA viruses have much higher mutation rates than do DNA viruses.
+
+==Viruses Practice Questions==
+
+# As the name implies, the Tomato Spotted Wilt Virus targets tomatoes. Would it be possible for this virus to target other fruits as well? Explain.
+# If a DNA and a RNA virus both infected somatic cells, which virus would be more difficult to detect?
+# Many people have had cold sores, which are caused by infection with the herpes simplex virus. One characteristic of cold sores is that after a period of inactivity, they will reappear many times during the course of a person's life. Which cycle would the herpes simplex virus undergo?
+# Chicken pox is a common, non-fatal disease usually acquired in adolescence and caused by the varicella zoster virus. In adulthood, many people suffer from shingles, an altered form of the varicella zoster virus. Which cycle would the varicella zoster virus have undergone?
+# Would an antibiotic work for a person suffering from a cold of flu? Explain.
+
+[[/Answers|Answers to Viruses Practice Questions]]
+
+{{BookCat}}</text>
+      <sha1>2mtqtl5t1hejvwrlfz5zuekr35h2oyx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Classification of Living Things/Prokaryotes</title>
+    <ns>0</ns>
+    <id>2182</id>
+    <revision>
+      <id>2066268</id>
+      <parentid>1564519</parentid>
+      <timestamp>2011-03-06T04:51:03Z</timestamp>
+      <contributor>
+        <username>Avicennasis</username>
+        <id>314063</id>
+      </contributor>
+      <minor />
+      <comment>[[WP:AWB/T|Typo fixing]], typos fixed: e.g, → e.g., using [[Project:AWB|AWB]]</comment>
+      <text xml:space="preserve">For Eubacteria, please visit [[General Biology/Classification of Living Things/Eubacteria]].
+
+==Archaea ==
+*    Proposed as separate group from (eu)bacteria by Carl Woese
+**    based on structure and metabolic pathways
+**    inhabit extreme environments
+**    unique branched lipids in membrane
+*    Share traits with both eukaryotes and eubacteria, e.g., RNA polymerase, introns
+*    Biochemically diverse
+*    Economically important
+**    Taq polymerase used in PCR
+===Types===
+*    Methanogens
+*    Halophiles
+*    Thermophiles
+
+
+====Underground bacteria====
+*    Metabolism
+**    built around inorganic energy sources
+*    e.g., basalt reacts with H&lt;sub&gt;2&lt;/sub&gt;O to release hydrogen which is catalytically combined with CO&lt;sub&gt;2&lt;/sub&gt; to form carbohydrate (akin to photosynthesis)
+*    may result in deposit of minerals
+*    Unresolved problems
+**    Did bacteria move downward from surface or did they first evolve there, protected from harsh surface conditions?
+**    Could bacteria be ejected into space in rocks?
+
+==Prokaryote evolution==
+*    Tentative, subject to change
+*    Derived largely from molecular systematics (rRNA sequences)
+*    Note: most bacteria can’t be cultured, thus hard to study! (Studied by PCR of water/soil samples)
+==Domains of life: characteristics==
+
+''This text is based on notes very generously donated by Paul Doerder, Ph.D., of the Cleveland State University.''
+
+{{BookCat}}</text>
+      <sha1>n8wp3zcggv02z0kv77hfzkysdfgxz3p</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Subject:Assembly languages</title>
+    <ns>112</ns>
+    <id>2183</id>
+    <revision>
+      <id>2675400</id>
+      <parentid>2221557</parentid>
+      <timestamp>2014-06-21T03:37:14Z</timestamp>
+      <contributor>
+        <username>JackPotte</username>
+        <id>99248</id>
+      </contributor>
+      <text xml:space="preserve">{{subject page
+ |parent=Computer programming languages
+ |description=This category contains books on '''[[w:assembly language|assembly language]]s''': the lowest-level human-readable method for programming a particular computer. Assembly languages are platform specific, and therefore there is a different assembly language necessary for programming every different type of computer. Assembly languages generally has a one-to-one correspondence with the underlying machine language, which is not human readable.
+}}&lt;noinclude&gt;
+&lt;!-- CATEGORIES AND INTERWIKIS HERE --&gt;
+[[fr:Programmation Assembleur]]
+&lt;/noinclude&gt;</text>
+      <sha1>4m0kgnhacjv3oy279thcfmqh80bkhlw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Classification of Living Things/Eukaryotes/Protists</title>
+    <ns>0</ns>
+    <id>2184</id>
+    <revision>
+      <id>2678835</id>
+      <parentid>2604152</parentid>
+      <timestamp>2014-07-05T13:28:37Z</timestamp>
+      <contributor>
+        <ip>112.198.90.228</ip>
+      </contributor>
+      <comment>/* Classification of Protists */</comment>
+      <text xml:space="preserve">==Introduction==
+
+Out of the six kingdoms, Protista is the most diverse. This is the kingdom of organisms with strange, atypical characteristics. In essence, this kingdom is designated for organisms which do not belong in any other kingdom. The majority of protists are microscopic.
+
+==Classification of Protists==
+
+There are three phyla of protists, based on their type of nutrition.
+
+1. '''Protozoa''' (animal-like protists) are heterotrophs that ingest or absorb their food and helps.
+
+2. '''Algae''' (plant-like protists) are autotrophs they get nutrition from photosythesis.
+
+3. '''Slime moulds''' and '''water moulds''' (fungus-like protists) are also heterotrophs, like protozoa.
+
+==Protozoa==
+
+As heterotrophs, protozoa scavenge materials from their surroundings. Others are predators which actively hunt or ambush small organisms such as bacteria and other protozoa for a source of nutrition. Protozoa can be parasitic as well; they may live inside larger organisms, like humans. Most protozoa live as single cells, although a few form colonies.
+
+Protozoa are generally difficult to identify due to their varied shape. They may appear as jelly-like blobs, spherical sunbursts, or a flattened leaf.  Tiny blood parasites may be only 2 μm long. On the other hand, shell-covered marine may be 5 cm or more in diameter. 
+
+Furthermore, different protozoans have their own complex life cycles. The complexity has led certain organisms to be mistakenly classified for other species. 
+
+Nevertheless, protozoa can move, and so, they are classified based on their methods of locomotion.
+
+&lt;u&gt;Characteristics of Protozoa :&lt;/u&gt;
+
+*About 30,000 species known 
+
+*About 10,000 species are pathogenic, including some of the worst human diseases
+
+*heterotrophic
+
+*highly variable in form and life cycle
+
+*mostly unicellular
+
+*range in size from 0.005 mm to 50 mm
+
+*lack cell walls
+
+they love environment and each other..............
+
+==Algae==
+
+Algae are much simpler than protozoa. They are aquatic and contain chlorophyll. Algae can exist as a single cell or as giant seaweeds 60 m in length. Formerly, algae were classified as plants but this was incorrect as algae lack parts of true plants: leaves, stems, roots, xylem, and phloem. Since algae belong in the kingdom Protista, algae is a broad term used to denote all aquatic eukaryotes which photosynthesise; algae can differ in size and shape as well.
+
+There are six phyla of algae:''' chlorophytes (green algae)''', '''phaeophytes (brown algae)''', '''rhodophytes (red algae)''', '''chrysophytes (diatoms)''', '''pyrrophytes (dinoflagellates)''', and '''euglenophytes (euglenoids)'''. 
+
+===Chlorophytes===
+
+Chlorophytes resemble plants the most. Like plants, their cell walls contain cellulose and they store food in reserve as starch. Chlorophytes can be unicellular or multicellular. Most chlorophytes use flagellae for some locomotion.
+
+===Phaeophytes===
+
+Phaeophytes are nearly all multicellular marine organisms, which are known to us as seaweeds. They have cell walls composed of cellulose and alginic acid (a substance similar to pectin). The cellulose and alignic acid help to retain water and prevent seawood from drying out when exposed to air at low tide. 
+
+Since phaeophytes live in a tidal environment, they have large, flat fronds (a large leaf) which can withstand pounding by waves. Their bases strongly anchor the algae to the rocky seabed and prevent them from being washed out to sea. Phaeophytes are usually found in areas of cold water. 
+
+===Rhodophytes===
+
+Rhodophytes are typically found in warmer seawater, and are more delicate and smaller than brown algae (phaeophytes). Rhodophytes are also able to grow at deeper depths in the ocean, since red algae absorb green, violet, and blue light, the wavelengths of which penetrate the deepest below the water surface. They also have mucilaginous material to resist drying. 
+
+===Chryosophytes===
+
+Chryosophytes are the most abundant unicellular algae in the oceans. They are also one of the biggest components of plankton, a free-floating collection of microorganisms, eggs, and larvae. As photosynthetic organisms, they produce a significant amount of atmospheric oxygen.
+
+The reproduction cycle of chryosophytes is particularly interesting. Note that diatoms reproduce both asexually and sexually. Since diatoms have a rigid cell wall with an outer layer of silica (found in sand and glass), the daughter cells produced by mitosis must fit inside the original cell wall. Therefore, each generation of diatoms is smaller than the one before. The reduction in size continues until the diatoms produce sexually, producing a zygote which eventually grows to the original size as it matures.
+
+===Pyrrophytes===
+
+Pyrrophytes are unicellular, photosynthetic, and mostly aquatic. They have protective coats composed of stiff cellulose. They are more easily identifiable, due to the presence of two flagellae. The longer flagellae propels the dinoflagellate, while the second shorter, flatter flagellae functions as a rudder.
+
+Some species of pyrrophytes are '''zooxanthellae'''. Since they lack cellulose plates, they make their home in coral reefs and animals, such as sea anemones, and molluscs. In returning the favour of sheltering them, dinoflagellates provide carbohydrates to their host through photosynthesis. This is why there are nutrient-rich coral reefs in malnutritions water.
+
+A negative aspect of pyrrophytes is that under certain conditions, species of dinoflagellates reproduce rapidly to form a '''harmful algal bloom (HAB)''', known as a red tide if dinoflagellates are the cause. Such pyrrophytes can produce toxins which may injure or kill wildlife, and additionally any consumers of contaminated wildlife.
+
+===Euglenophytes===
+
+Like pyrrophytes, euglenophytes are small unicellular freshwater organisms with two flagella. They are mainly autotrophic or heterotrophic, depending if they have a red, light-sensitive structure called an '''eyespot'''.
+
+==Slime molds &amp; Water molds==
+
+There are two phyla of slime moulds and one phylum of water moulds.
+
+===Oomycotes (Water moulds)===
+
+Oomycotes are filamentous organisms which resemble fungi, in that they live as saprotrophs.  Oomycotes differ from other moulds with the presence of spores and their sexual life cycle.
+
+===Myxomycotes (Plasmodial slime moulds)===
+
+Myxomycoties are visible to the naked eye as tiny slug-like organisms which creep over decayed and dead matter. This streaming blob containing many nuclei is called a '''plasmodium'''. 
+
+===Acrasiomycotes (Cellular slime moulds) and its reproductive cycle===
+
+Acrasiomycotes exist as individual amoeboid cells with one nucleus each. When in unfavourable conditions, each acrasiomycete cell gathers together to form a '''pseudoplasmodium'''.
+
+====Reproductive Cycle:====
+
+1. One acrasiomycete cell joins with others to form a pseudoplasmodium.
+
+2. The pseudoplasmodium shrinks and forms a smaller plasmodium. 
+
+3. The plasmodium migrates to a suitable environment.
+
+4. The plasmodium develops a sporangia, where original parental nuclei has divided by meiosis into haploid spores to be germinated. 
+
+5. When favourable conditions arise, the spores germinate and are carried away by animals or the wind.
+
+6. Cycle repeats.
+
+==Protists Practice Questions==
+
+1. Which of the following adjectives describe the major food source of protozoa?
+ 
+:a) chemoautotrophic
+:b) photoheterotrophic
+:c) chemoheterotrophic
+:d) heterotrophic
+:e) A, C, D
+:f) C, D
+
+
+2. The protozoan ''Giardia lamblia'' can inhabit a human body's intestinal tract and cause gastroenteritis.
+
+a) Give the abbreviated binomial name of this protozoan.
+
+b) Would the relationship between this protozoan and human being be mutualistic, commensalistic, or parasitic?
+
+3. Found in many products, such as Petri dishes, agar is made from mucilagnious material in seaweed. Of the six phyla of algae, which phyllum/phyla would agar be made from?
+
+4. Which of the following adjectives describe the major food source of Euglenophytes without an eyespot?
+
+:a) photoautotrophic
+:b) photoheterotrophic
+:c) chemoautotrophic
+:d) chemoheterotrophic
+:e) B or C
+:f) C or D
+
+5. Can coral reefs exist in nutrient-poor areas? Explain.
+
+
+&lt;!-- [[/Answers|Answers to Protists Practice Question]] --&gt; 
+
+{{BookCat}}</text>
+      <sha1>joza3owkzc190nmziwokwaojmkmwy5x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Classification of Living Things/Eukaryotes/Fungi</title>
+    <ns>0</ns>
+    <id>2185</id>
+    <revision>
+      <id>2231588</id>
+      <parentid>2231563</parentid>
+      <timestamp>2011-12-07T19:25:35Z</timestamp>
+      <contributor>
+        <username>Jomegat</username>
+        <id>12605</id>
+      </contributor>
+      <comment>Rejected the last text change (by [[Special:Contributions/170.158.74.101|170.158.74.101]]) and restored revision 2201697 by 71.192.147.37</comment>
+      <text xml:space="preserve">==Introduction==
+
+Although you may not recognise fungi, they are just as prevalent as plants and animals. Their spores are in the air which we breathe, fungi allow us to make bread, and mushrooms (a type of fungi) are eaten by us.
+A few types of fungi are unicellular. For example, yeasts live as individual oval or cylindrical cells. However, the majority of fungi live are multicellular. Their bodies are composed of '''hyphae''', a network of fine filaments. In a mushroom, the hyphae are densely packed so it is difficult to see the individual structures when a mushroom is eaten. However, a mushroom is only a specialised reproductive part of the whole fungus. The main part of the fungi is underground in a whole web of hyphae, called a '''mycelium'''. 
+
+In the mycelium, each fungal cell is separated from each other by a septum. Each fungal cell may have one or more nuclei and remains connected to the mycelium because the septa are porous, allowing cytoplasm to flow through the hyphae and fungal cell walls, made of a hard material called '''chitin'''. Some fungi do not have septa, and they appear to be large, branching, multinucleate cells.
+
+==Nutrition==
+
+Fungi are '''saprophytes'''. When they find a source of food (e.g. dead wood, orange peel) , they decompose it and digest it. The enzymes break down larger organic molecules in the substrate into smaller molecules. These smaller molecules diffuse into the fungus, where they are used to allow growth and repair. 
+
+Fungi which feed on living cells are parasitic. For example, athlete's foot grows on the human foot.  These kinds of fungi produce hyphae called '''haustoria''', which can penetrate host cells without immediately killing them. 
+
+However, they are friendlier species of fungi. Many fungi live symbiotically with plants or animals. For example, most trees have fungi living in close contact with their roots. In this relationship, known as a '''mycorrhiza''', there are many benefits:
+
+*Growing around the plant roots and often entering plant cells, the hyphae absorb minerals from the soil and release them in the roots. The fungi gets its source of food (organic nutrients) while delivering food to the plant.
+
+*The mycelium here would increase the surface area, thus the absorptive surface, of the plant roots.
+
+*The fungal cells help to maintain air and water flow in the soil around the roots. 
+
+*The fungi may prevent other potentially pathogenic fungi to attack the tree.
+
+==Fungal Reproduction==
+
+Fungi can reproduce in two ways. Firstly, they make asexually produce through '''fragmentation'''. This occurs when pieces of hyphae are broken off, which then grow into new mycelia.
+
+The second method is by spores. Spores are lightweight structures and windblown designed to be transported over long distances and by many mediums, such as on the bodies of insects and birds. They are additionally light enough to be blown away for hundreds of kilometers. Spores may be asexual and sexual. Their sexual properties can be analysed to classify the four phylla of fungi.
+
+==Types of Fungi==
+
+===Zygospore Fungi (Zygomycetes)===
+
+This phyllum includes bread moulds and other saprotrophs. Comparable to bacteria, this phyllum prefers asexual reproduction over sexual reproduction.
+
+1. Two haploid hyphae of opposite types, also known as '''mating strain +''' and '''mating strain -''', combine and fuse together.
+
+2. '''Plasmogamy''', the union of the two parent hyphae, occurs and results in the creation of a heterokaryotic (n + n) '''zygosporangium or zygospore'''. Note that the zygospore is NOT diploid yet; the haploid nuclei are simply clumped together.
+
+3. Immediately, a thick wall develops around the zygospore to protect it from drying and other hazards. The zygospore becomes dormant.
+
+4. When conditions are favourable, the zygospore absorbs water and undergoes '''karyogamy''' (n + n = 2n), where the haploid nuclei contributed by the two parents fuse to produce diploid zygosporangia. 
+
+5. The now diploid zygosporangium then undergoes meiosis to form haploid sporangia.
+
+6. Through asexual reproduction of fungi (See above for more information), the spores from the sporangia germinate and grow into new mycelia.
+
+7. Back to step #1.
+
+===Club Fungi (Basidiomycetes)===
+
+This phyllum increases mushrooms and shelf fungi. In many ways, the reproduction stages of this phyllum is similar to that of zygomycetes. 
+
+1. Two haploid hyphae of opposite types, also known as '''mating strain +''' and '''mating strain -''', combine and fuse together.
+
+2. Plasmogamy takes place, and a dikaryotic mycelium forms. The dikaryotic mycelium grows faster then the haploid parental mycelia.
+
+3. Environmental factors cause the dikaryotic mycelium to form compact masses which develop into '''basidiocarps''', short-lived reproductive structures. An example is the mushroom. 
+
+4. The basidiocarp gills are lined with terminal dikaryotic cells called '''basidia''', which then undergo karyogamy. 
+
+5. The basidia are now diploid. They undergo meiosis to develop haploid '''basidiospores''', a term referring to a basidiomycete's spores. 
+
+6. Still remaining on the basidiocarp, the haploid basidiospores eject, fall from the basidiocarp, and are dispersed by the wind when mature.
+
+7. In a favourable environment, the basidiospores germinate and grow into short-lived haploid mycelia.
+
+8. Back to Step #1.
+
+{{BookCat}}</text>
+      <sha1>paclbyd9d4dlseltv2lgd8fsh4ut6tf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Biology/Classification of Living Things/Eukaryotes/Plants</title>
+    <ns>0</ns>
+    <id>2186</id>
+    <revision>
+      <id>2170576</id>
+      <parentid>2066269</parentid>
+      <timestamp>2011-09-21T13:11:31Z</timestamp>
+      <contributor>
+        <ip>222.127.188.150</ip>
+      </contributor>
+      <comment>what are the two clasification of the plants</comment>
+      <text xml:space="preserve">{{GenBioTOC}}
+=Multicellular Photosynthetic Autotrophs =
+==Plants ==
+* Multicellular 
+* Cellulose cell walls 
+* Chlorophylls a and b
+* Develop from embryophyte 
+* Alternation of generations 
+* Major food source for terrestrial life 
+* Atmospheric O2 and CO2 balance 
+* Coal deposits 
+* Intimate association with mycorrhizal fungi
+* &gt;250,000 species (~500,000?) 
+* Taxonomy 
+** State of flux 
+* DNA sequencing 
+* Developmental studies 
+** Division (old literature) = phylum (new literature) 
+** ~12 phyla, 9 of which are vascular plants
+
+==Plant phyla==
+Phyla are 12 groupings
+
+==Plant evolution== 
+* Evolved from green algae, likely related to charophytes 
+* Evidence 
+** DNA sequences 
+** homologous chloroplasts: chlorophyll b and beta-carotene; thylakoids in grana; 
+** Cellulose in both groups; also peroxisomes 
+** Mitosis and cytokinesis similar 
+** Sperm ultrastructure
+===Terrestrial adaptations=== 
+* Stomata: pores in leaves for exchange of gases; prevent desiccation 
+* Secondary metabolites: 
+** cuticle: waxy coating to prevent H2O loss 
+** lignin:  hardens wood 
+** sporopollenin: resistant polymer; coats pollen 
+** predator defenses 
+* Embryonic development 
+** gametangia in early plants 
+** spores; seeds 
+* Mycorrhizae 
+* Water/food conducting systems
+
+==Plant phylogeny==
+==Plant life cycles== 
+* Alternation of generations 
+* Sporophyte 
+** diploid 
+** produces spores in sporangia 
+* Gametophyte 
+** develops from spore 
+** haploid 
+** produces gametes in gametangia 
+* Haplodiplontic life cycle 
+    
+==Moss life cycle==
+==Vascular plants== 
+* Most have roots 
+* Aerial shoot systems 
+* Vascular tissue 
+** xylem: water, mineral transport 
+** phloem: food transport 
+* Lignin 
+* Branched sporophyte is dominant stage 
+** amplified production of spores 
+** evolution of complex plant bodies 
+* Dominated Carboniferous (360 my)
+
+==Vascular plant life cycles== 
+* Homosporous (single type of spore)
+* Heterosporous (two types of spore) 
+==Pterophyta (ferns)== 
+* Non-seed plant 
+* Sporophyte conspicuous (vascular tissue) 
+* Rhizome: ground stem, roots 
+* Fronds: leaves 
+* Sori: clusters of sporangia 
+* Motile sperm require external water for fertilization 
+* Originated in Devonian, 350 my 
+Tree fern  
+Fern life cycle 
+==Non-seed plants, continued== 
+* Lycophyta: club mosses 
+** E.g., Lycopodium (“ground pine”) 
+** Many species became extinct 270 my, once dominant (coal formations) 
+** Gametophyte non-photosynthetic, nourished by fungi 
+* Arthrophyta: horsetails 
+** Equisitum 
+** Some fossil forms (300 my) were tree-size (coal) 
+** Photosynthetic stems, no leaves 
+** Silica deposits in epidermal cells
+
+==Seed plants== 
+* 1st appeared in Devonian, 360 my 
+* Seed develops from ovule, protects embryo 
+** withstands drought 
+** dispersal is enhanced 
+** no immediate need for water for germination 
+* Heterosporous 
+** male gametophyte: arise from microspores 
+** female gametophyte: arise from megaspores in ovule in ovary 
+* Two groups 
+** gymnosperms 
+** angiosperms
+ plant
+
+==Sporophyte/gametophyte==
+==Megasporangium (nucellus)== 
+* Key to seed development 
+* Nucellus: solid, fleshy, surrounded by integuments derived from sporophyte (seed coat) 
+* Entire structure called ovule 
+* Flower may have many ovules
+==Pollen== 
+* Develop from microspores, become male gametophyte 
+* Protected by sporopellenin 
+* In most plants, sperm lack flagella (loss) 
+* Many mechanisms to transport pollen 
+** wind 
+** insects, birds,
+==Gymnosperms== 
+* “naked seed” 
+** ovule not fully enclosed by sporophyte at time of pollination 
+* Conifers, cycads, gnetophytes, Ginkgo 
+* Small, inconspicuous plants to giants like sequoia 
+* Conifers: to carry cones  fv
+** male cones, Female conesvv
+** evergreen
+
+==Pine life cycle== 
+==Other Coniferophyta== 
+* Cycadophyta: cycads 
+** tropical, subtropical 
+** flagellated sperm 
+* Gnetophyta 
+** e.g., Ephedra, Mormon Tea 
+* Ginkgophyta: Ginkgo 
+** only one surviving species 
+** diocious (separate % and &amp;trees)
+==Other gymnosperms==
+==Angiosperms== 
+* Flowering plants, Anthophyta 
+** monocots- single seed leaf (grasses, lilies, etc.) 
+** dicots- two seed leaves (roses, pulses, maples) 
+* More specialized xylem (water transport) 
+** vessel elements 
+** fiber cells 
+* Fossils date to 130 my 
+* Animal (e.g., insect) coevolution
+===Monocots vs dicots===
+
+==Earliest angiosperm== 
+* What is earliest angiosperm? 
+* Recent analysis of nucleotide and amino acid sequences suggests that Amborella, a tropical plant found only on the island of New Caledonia, is closest relative to flowering plants
+==Angiosperm flower==
+&lt;nowiki&gt;Insert non-formatted text here&lt;/nowiki&gt;&lt;nowiki&gt;Insert non-formatted text here&lt;/nowiki&gt;
+
+==Angiosperm life cycle  ==
+
+''This text is based on notes very generously donated by Paul Doerder, Ph.D., of the Cleveland State University.''</text>
+      <sha1>gq274vhzv49t7m4fvswkyjiaq2q4r2v</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,1308 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <page>
+    <title>XML - Managing Data Exchange/Contributors</title>
+    <ns>0</ns>
+    <id>4898</id>
+    <revision>
+      <id>2403207</id>
+      <parentid>1581299</parentid>
+      <timestamp>2012-09-02T20:58:17Z</timestamp>
+      <contributor>
+        <username>Sandbergja</username>
+        <id>604598</id>
+      </contributor>
+      <minor />
+      <comment>added book template</comment>
+      <text xml:space="preserve">{{XML-MDE|prev=Glossary|next=Author guidelines}}
+The following people have recorded their contribution to the development of this book.
+
+==Active Contributors==
+The following Wikibookians are actively editing this Wikibook, as of January 28, 2007.  All participants in the project are welcome to add their name, email address, contribution, and affiliation to the following list.  Please keep the list in alphabetical order, based on last name.
+
+* Robert Foley ([[User:Runnerupnj|user page]]) ([mailto:robert.t.foley@gmail.com email])
+
+==Previous Contributors==
+The following Wikibookians have contributed to this Wikibook before January 2007.  These include students from the [[w:University of Georgia|University of Georgia]] who began writing this book for a course in Advanced Data Management, as part of a Master's degree in Internet Technology.
+
+
+{| width=&quot;90%&quot; align=&quot;center&quot; border=&quot;0&quot;
+|- 
+! align=&quot;center&quot; style=&quot;background: #cfc;&quot; | '''Name'''
+! align=&quot;center&quot; style=&quot;background: #cfc;&quot; | '''Role'''
+! align=&quot;center&quot; style=&quot;background: #cfc;&quot; | '''Affiliation'''
+|-valign=&quot;top&quot;
+| Frantz Johan Agerbo
+| Author: CSS &lt;br /&gt;Editor: RSS
+| UGA Exchange student from Agder University College, Norway
+|-valign=&quot;top&quot;
+| Jan Helge Austboe
+| Author: RSS &lt;br /&gt;Editor: CSS
+| UGA Exchange student from Agder University College, Norway
+|-valign=&quot;top&quot;
+| Sabrina Ebright
+| Author: XSL Stylesheets &lt;br /&gt;Editor: Schemas
+| UGA Masters of Internet Technology student
+|-valign=&quot;top&quot;
+| Ricardo A Fernandez
+| Author: VoiceXML &lt;br /&gt;Editor: SVG
+| UGA Masters of Internet Technology student
+|-valign=&quot;top&quot;
+| Hendrik Fischer ([mailto:mail@hendrik-fischer.com email])
+| Author: Parsing XML Files&lt;br /&gt;Editor: DocBook
+| Artificial Intelligence Center, University of Georgia
+|-valign=&quot;top&quot;
+| Charles W. Franks ([mailto:cwf1138@gmail.com email])
+| Author: OpenOffice.org &amp; OpenDocument Format
+| UGA Masters of Internet Technology student
+|-valign=&quot;top&quot;
+| Joshua Griffis
+| Author: The one-to-one relationship
+| UGA Masters of Internet Technology student
+|-valign=&quot;top&quot;
+| Rusen Gul ([mailto:rusengul@terry.uga.edu email])
+| Author: DocBook&lt;br /&gt;Editor: VoiceXML
+| MBA 2004, University of Georgia
+|-valign=&quot;top&quot;
+| Michael Lodick ([mailto:michael@lodick.com email])
+| Author: Web Services&lt;br&gt;Editor: XUL
+| UGA Masters of Internet Technology student
+|-valign=&quot;top&quot;
+| Shirley Loh
+| Author: One-to-Many &lt;br /&gt;Editor: Single Entity
+| UGA Masters of Internet Technology student
+|-valign=&quot;top&quot;
+| Sascha Meissner ([mailto:sascham@uga.edu email])
+| Author: RDF
+| UGA study abroad student&lt;br /&gt;Martin-Luther-University Halle, Germany
+|-valign=&quot;top&quot;
+| M. Chris Neglia ([mailto:mchrisneglia@yahoo.com email])
+| Author: SyncML and SMIL&lt;br /&gt;Editor: Web Services
+| UGA Masters of Internet Technology student
+|-valign=&quot;top&quot;
+| Benjamin Oakes ([[User:Divokz|user page]])
+| Editor: CSS
+| University of Iowa Computer Science student
+|-valign=&quot;top&quot;
+| Danny Popov
+| Author: Chapter 6 &lt;br /&gt;Editor: Chapter 4
+| UGA Masters of Internet Technology student
+|-valign=&quot;top&quot;
+| Farnaz Rabbani
+| Author: Single Entity &lt;br /&gt;Editor: Parsing XML Files
+| UGA Masters of Internet Technology student
+|-valign=&quot;top&quot;
+| Devin Ramo
+| Author: Contributions to Chapters 2-6 &lt;br /&gt;Editor: Overall site, Chapters 1 - 15
+| UGA Management Information Systems student
+|-valign=&quot;top&quot;
+| Anne Rayborn Howard
+| Author: XHTML&lt;br&gt;Editor: XPATH
+| UGA Master of Internet Technology student
+|-valign=&quot;top&quot;
+| Stephen Pavlik ([mailto:pav@uga.edu email])
+| Author: XUL is COOL&lt;br /&gt;Editor: XHTML
+| UGA Masters of Internet Technology student
+|-valign=&quot;top&quot;
+| Rick Watson ([mailto:rwatson@terry.uga.edu email]) ([http://www.terry.uga.edu/~rwatson/ website])
+| Author: Chapter 1 &lt;br /&gt;Editor
+| University of Georgia
+|-valign=&quot;top&quot;
+| Madeleine Wyatt
+| Author: SVG
+| UGA Masters of Internet Technology student
+|}
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>ajguc903j9vlef8trdxslvuo5wutty6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:80.185.119.54</title>
+    <ns>3</ns>
+    <id>4903</id>
+    <revision>
+      <id>156570</id>
+      <timestamp>2004-02-22T20:09:55Z</timestamp>
+      <contributor>
+        <username>R3m0t</username>
+        <id>327</id>
+      </contributor>
+      <text xml:space="preserve">Thank you for your contribution. I will build on it later on. [[User:R3m0t|r3m0t]] [[Special:Contibutions/r3m0t|(cont)]] [[User talk:r3m0t|(talk)]] 20:09, 22 Feb 2004 (UTC)</text>
+      <sha1>edeb3wl0whbi9p1x9ezl52qjaslvdai</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Chemistry</title>
+    <ns>0</ns>
+    <id>4904</id>
+    <redirect title="Subject:Chemistry" />
+    <revision>
+      <id>1821806</id>
+      <parentid>1821805</parentid>
+      <timestamp>2010-06-05T13:45:11Z</timestamp>
+      <contributor>
+        <username>Italienmoose</username>
+        <id>364047</id>
+      </contributor>
+      <minor />
+      <comment>Correct link</comment>
+      <text xml:space="preserve">#REDIRECT [[Subject:Chemistry]]</text>
+      <sha1>jpn3c3dp9zmor6glhwn4qrym2c16z92</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>General Chemistry/Energy changes in chemical reactions</title>
+    <ns>0</ns>
+    <id>4905</id>
+    <revision>
+      <id>2699736</id>
+      <parentid>2699719</parentid>
+      <timestamp>2014-09-12T03:27:27Z</timestamp>
+      <contributor>
+        <username>Ixfd64</username>
+        <id>1653</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/50.154.121.98|50.154.121.98]] ([[User talk:50.154.121.98|talk]]) to last version by QuiteUnusual</comment>
+      <text xml:space="preserve">{{msg:GeneralChemTOC|prev=Types of chemical reactions|next=Predicting Chemical Reactions}}
+
+==Exothermic and Endothermic Reactions==
+The release of energy in chemical reactions occurs when the reactants have higher chemical energy than the products. The chemical energy in a substance is a type of potential energy stored within the substance. This stored chemical potential energy is the ''heat content'' or '''enthalpy''' of the substance.
+
+The collection of substances that is involved in a chemical reaction is referred to as a ''system'' and anything else around it is called the ''surroundings''.
+
+If the enthalpy decreases during a chemical reaction, a corresponding amount of energy must be released to the surroundings.  Conversely, if the enthalpy increases during a reaction, a corresponding amount of energy must be absorbed from the surroundings.  This is simply the '''Law of Conservation of Energy'''.
+
+'''Endothermic''' reactions increase their enthalpy by absorbing heat.  They feel cold to the touch after they have occurred.  
+
+'''Exothermic''' reactions decrease their enthalpy by releasing heat.  They will get warm, and may even burn or explode if they release enough heat.
+
+You are already familiar with enthalpy:  melting ice is endothermic and freezing water is exothermic.
+
+{| class=&quot;wikitable&quot;
+|+ '''Examples'''
+| width=&quot;50%&quot; | When methane burns in air the heat given off equals the decrease in enthalpy that occurs as the reactants are converted to products.
+&lt;br&gt;
+&lt;center&gt;&lt;math&gt;\hbox{CH}_{4(g)} + 2\hbox{O}_{2(g)} \to \hbox{CO}_{2(g)} + 2\hbox{H}_2\hbox{O}_{(g)} + energy&lt;/math&gt;&lt;/center&gt;
+&lt;br&gt;
+The enthalpy difference between the reactants and the products is equal to the amount of energy released to the surroundings. A reaction in which energy is released to the surroundings is called an ''exothermic'' reaction. In this type of reaction the enthalpy, or stored chemical energy, is lower for the products than the reactants.
+| width=&quot;50%&quot; | When ammonium nitrate is dissolved in water, energy is absorbed and the water cools.  This concept is used in &quot;cold packs&quot;.
+&lt;br&gt;
+&lt;center&gt;&lt;math&gt;\hbox{NH}_{4}\hbox{NO}_{3(s)} + water + energy \to \hbox{NH}^+_{4(aq)} + \hbox{NO}^-_{3(aq)}&lt;/math&gt;&lt;/center&gt;
+&lt;br&gt;
+The enthalpy difference between the reactants and the products is equal to the amount of energy absorbed from the surroundings. A reaction in which energy is absorbed from the surroundings is called an ''endothermic'' reaction. In endothermic reactions the enthalpy of the products is greater than the enthalpy of the reactants.
+|}
+
+Because reactions release or absorb energy, they affect the temperature of their surroundings. Exothermic reactions heat up their surroundings while endothermic reactions cool them down.  The study of enthalpy, along with many other energy-related topics, is covered in the [[General Chemistry/Thermodynamics|Thermodynamics]] Unit.
+
+== Activation Energy ==
+Think about the combustion of methane.  It releases enough heat energy to cause a fire.  However, the reaction does not occur automatically.  When methane and oxygen are mixed, an explosion does not instantly occur.  First, the methane must be ignited, usually with a lighter or matchstick.  This reveals something about reactions:  they will not occur unless a certain amount of '''activation energy''' is added first.  In this sense, all reactions absorb energy before they begin, but the exothermic reactions release even more energy.  This can be explained with a graph of potential energy:
+[[Image:Ac com.svg|thumb|center]]
+This graph shows an exothermic reaction because the products are at a lower energy than the reactants (so heat has been released).  Before that can happen, the energy must actually ''increase''.  The amount of energy added before the reaction can complete is the activation energy, symbolized '''E&lt;sub&gt;a&lt;/sub&gt;'''.
+
+{{BookCat}}</text>
+      <sha1>hmgxqkdeddmoemk7nos5cfnhesyixeg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Information technology bookshelf</title>
+    <ns>4</ns>
+    <id>4916</id>
+    <restrictions>edit=autoconfirmed:move=autoconfirmed</restrictions>
+    <revision>
+      <id>2587771</id>
+      <parentid>2024593</parentid>
+      <timestamp>2013-12-05T03:04:24Z</timestamp>
+      <contributor>
+        <username>Aurora</username>
+        <id>95883</id>
+      </contributor>
+      <minor />
+      <comment>/* ICT4D Books */</comment>
+      <text xml:space="preserve">{{deprecated bookshelf|[[Subject:Information technology]]}}
+{{bookshelves}}
+{{bookshelf|Information technology bookshelf}}
+{{stages}}
+----
+
+Welcome to the '''Information and Communication technology bookshelf'''. On this shelf you can find textbooks on IT certification, computer hardware, and ICT topics.
+
+{{computer bookshelf list}}
+
+__TOC__
+
+{{Requested books}}
+
+== Active Wikibooks ==
+* [[CCNA Certification]]
+* [[UMTS]]
+* [[Wireless Mesh Networks]]
+* [[Wireless Mesh Sensors]]
+
+== General Guides ==
+
+:''See also [[Wikibooks:Computing bookshelf#General guides]]''
+*[[The Computer Revolution]] ''includes a timeline'' {{stage|25%|unknown}}
+*[[Calling Tech Support]] {{stage|00%|April 10, 2005}}
+*[[Subject:Software reverse engineering|Reverse Engineering]] {{stage|50%|February 18, 2006}}
+*[[Non-nerd's Guide to Computers]]
+*[[Choosing The Right File Format]] {{stage|25%|jan 1, 2007}}
+*[[Data Recovery]] {{stage|25%|25 June 2007}}
+*[[Business Rule Mining Best Practices|Business Rule Mining]] {{stage|75%|3 January 2009}}
+*[[Security Architecture and Design]]
+{{Requested books}}
+
+== Certification ==
+
+* [[A+ Certification|A+]] {{stage|25%|unknown}}
+* [[AQA Information and Communication Technology]] {{stage|25%|unknown}}
+* [[CCNA Certification]] {{stage|00%|August 2, 2006}}
+* [[CIW Certification]] {{stage|00%|April 10, 2006}}
+* [[GCSE Short Course ICT]]{{stage short|00%|January 11, 2005}}
+* [[LPI Linux Certification]]{{stage short|25%|unknown}}
+* [[Microsoft Certified Professional Developer]]
+* [[.NET Development Foundation]]
+* [[Microsoft Certified IT Professional]]
+* [[Network Plus Certification|Network+]] 
+* [[Certification:SCDJWS|SCDJWS]]{{stage short|25%|unknown}}
+* [[Weblogs:An Introduction]]{{stage short|00%|01. Aug 2005}}
+
+{{Requested books}}
+
+== Hardware &amp; Hardware Programming ==
+
+* [[How To Assemble A Desktop PC]] {{stage|100%|unknown}}
+* [[Computer Hardware]] {{stage|25%|unknown}}
+* [[Embedded Systems]] {{stage|25%|Nov 11, 2005}}
+* [[Emulation]] ''of video game and arcade consoles'' {{stage|25%|unknown}}
+* [[Communication Networks]]
+* [[Wifi]] {{stage|25%|unknown}}
+* [[Wireless Home Network Basics]]
+
+{{Requested books}}
+
+== Serial Communications ==
+
+* [[History of Serial Communications]] {{stage|00%|unknown}}
+* [[Serial Programming|Serial Data Communications Programming Book]] {{stage|50%|unknown}}
+
+{{Requested books}}
+
+== ICT4D Books ==
+
+:''These books have been donated to wikibooks, and many may still be in the process of being transferred in from http://www.apdip.net/publications/iespprimers/ . Users who are interested in helping with this project, please contact [[User talk:Whiteknight|User:Whiteknight]].''
+
+* [[The Information Age]]
+* [[Legal and Regulatory Issues in the Information Economy]]
+* [[E-Commerce and E-Business]]
+* [[Genes, Technology and Policy]]
+* [[E-government]]
+* [[Information and Communication Technologies for Poverty Alleviation]]
+
+[[Category:Wikibooks bookshelves|Information technology bookshelf]]
+
+[[de:Regal:EDV]]
+[[ms:Wikibooks:Rak teknologi maklumat]]</text>
+      <sha1>5frb41qgmva02ivij71ji60qfsnro72</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:LGagnon</title>
+    <ns>2</ns>
+    <id>4917</id>
+    <revision>
+      <id>1111391</id>
+      <parentid>232023</parentid>
+      <timestamp>2008-02-12T00:52:52Z</timestamp>
+      <contributor>
+        <username>Mike's bot account</username>
+        <id>67847</id>
+      </contributor>
+      <minor />
+      <comment>Bot: Fixing redirects</comment>
+      <text xml:space="preserve">{{userpage}}
+
+==Pages created by me:==
+*[[Wikibooks:Information technology bookshelf|Computers bookshelf]]
+*[[Portuguese]]
+**[[Portuguese/Contents|Portuguese:Contents]]
+**[[Portuguese/Contents/Personal Pronouns of Subject|Portuguese: Personal Pronouns of Subject]]
+**[[Portuguese/Contents/Regular verbs|Portuguese:Regular verbs]]
+**[[Portuguese/Contents/Irregular verbs|Portuguese:Irregular verbs]]
+
+==Other Wiki works:==
+*[[w:User:LGagnon|My work at Wikipedia]]
+*[[commons:User:LGagnon|My work at Wikimedia Commons]]
+*[[q:User:LGagnon|My work at Wikiquote]]
+*[[wikisource:User:LGagnon|My work at Wikisource]]
+*[[wiktionary:User:LGagnon|My work at Wiktionary]]</text>
+      <sha1>1sn8yt62gmyxyd850iy7bx02i6bscgf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>User:Yacht</title>
+    <ns>2</ns>
+    <id>4918</id>
+    <revision>
+      <id>156583</id>
+      <parentid>82412</parentid>
+      <timestamp>2005-01-02T19:59:07Z</timestamp>
+      <contributor>
+        <username>Jopxton</username>
+        <id>3922</id>
+      </contributor>
+      <minor />
+      <text xml:space="preserve">{| width=&quot;98%&quot; style=&quot;border: 1px solid #FFA500; background: #FFCE7B&quot; cellpadding=&quot;5&quot;
+|'''You've got one new welcome message from Yacht!'''
+|}
+
+*Info about me is [http://en.wikipedia.org/wiki/User:Yacht here].
+*'''Userful sources:'''
+**http://www.eskimo.com/~scs/cclass/notes/top.html
+**http://www.engin.umd.umich.edu/CIS/course.des/cis400/c/c.html
+
+*[[User:Yacht/Listening Tank]]</text>
+      <sha1>0x4qbqs19qfp5e661rq0ortwgifnvdx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Macroeconomics/Macroeconomic Objectives</title>
+    <ns>0</ns>
+    <id>4922</id>
+    <revision>
+      <id>2552731</id>
+      <parentid>2552728</parentid>
+      <timestamp>2013-08-30T14:28:42Z</timestamp>
+      <contributor>
+        <username>Curtaintoad</username>
+        <id>918300</id>
+      </contributor>
+      <minor />
+      <comment>Revert</comment>
+      <text xml:space="preserve">==Macroeconomic objectives==
+Broadly, the objective of macroeconomic policies is to maximize the level of national income, providing economic growth to raise the utility and standard of living of participants in the economy. There are also a number of secondary objectives which are held to lead to the maximization of income over the long run. While there are variations between the objectives of different national and international entities, most follow the ones detailed below:
+# ''' [[Macroeconomics/Sustainable Economic Growth|Sustainability]] ''' - a rate of growth which allows an increase in living standards without undue structural and environmental difficulties. 'Economic growth' will be studied later on in this book.
+# '''[[w:Full employment|Full employment]]''' - where those who are able and willing to have a job can get one, given that there will be a certain amount of frictional, seasonal and structural unemployment (referred to as the natural rate of unemployment).
+# ''' [[w:Price stability|Price stability]]''' - when prices remain largely stable, and there is not rapid inflation or deflation. Price stability is not necessarily the same as zero inflation, but instead steady levels of low-moderate inflation is often regarded as ideal. It is worth noting that prices of some goods and services often fall as a result of productivity improvements during periods of inflation, as inflation is only a measure of &lt;i&gt;general&lt;/i&gt; price levels. However, inflation is a good measure of 'price stability'. Zero inflation is often undesirable in an economy. (&quot;Internal Balance&quot; is used to describe a level of economic activity that results in full employment with no inflation.)
+# '''External Balance''' - equilibrium in the Balance of payments without the use of artificial constraints. That is, exports roughly equal to imports over the long run.
+# '''Equitable distribution of income and wealth''' - a fair share of the national 'cake', more equitable than would be in the case of an entirely free market.
+# '''[[w:Productivity|Increasing Productivity]]''' - more output per unit of labour per hour. Also, since labor is but one of many inputs to produce goods and services, it could also be described as output per unit of factor inputs per hour.
+# '''Thermal Equilibrium''' - equilibrium in the Balance of payments without the use of artificial constraints. That is, exports roughly equal to imports over the long run.
+
+
+
+
+===Further Reading===
+*[[w:economic growth|Economic Growth]]
+*[[w:Full Employment|Full Employment]]
+*[[w:Inflation|Inflation]]
+*[[w:Balance of Payments|Balance of Payments]]
+
+{{BookCat}}</text>
+      <sha1>ttyhfwk4e6mbu4c8dvjuqzhpt3f9enn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Macroeconomics/Economic Activity</title>
+    <ns>0</ns>
+    <id>4923</id>
+    <revision>
+      <id>2030660</id>
+      <parentid>2030645</parentid>
+      <timestamp>2011-02-14T20:07:14Z</timestamp>
+      <contributor>
+        <username>Jomegat</username>
+        <id>12605</id>
+      </contributor>
+      <minor />
+      <comment>Reverted edits by [[Special:Contributions/66.136.89.119|66.136.89.119]] ([[User talk:66.136.89.119|discuss]]) to last revision by [[User:Fishpi|Fishpi]]</comment>
+      <text xml:space="preserve">'Economic activity' is a very broad term, and can be measured in a number of ways. In general, it means the level of activity, the number of transactions, the value of those transactions and the overall &lt;b&gt;output&lt;/b&gt; or goods and services produced within an economy.
+==Measures of Economic Activity==
+===Gross Domestic Product===
+The most commonly used statistic is the average &quot;[[wikipedia:Gross Domestic Product|Gross Domestic Product]] (GDP)&quot; . GDP is the total money value of all the final goods and services produced in an economy in a given year. However, there are difficulties associated with using GDP, such as inflation - the money value of an economy's products will increase even if there is no &lt;i&gt;real&lt;/i&gt; growth, as inflation reduces the value of money. So, GDP is often adjusted for inflation, the result being called &lt;b&gt;real GDP&lt;/b&gt;.
+
+For example, if the GDP of an economy in 2004 is 1 trillion, and the next year is 1.1 trillion, the change in GDP is 10%. However, if money inflation is 5% then the change in ''real GDP'' is somewhat less than that.
+
+*  &lt;small&gt;see also: [[w:Gross domestic product|Gross domestic product]] on Wikipedia&lt;/small&gt;
+
+=== Gross National Product ===
+
+==Graphical Models of the Economy==
+
+# Using the '''Circular Flow Diagram/Model''' (C.F.D./C.F.M.) we can &quot;top&quot; the flow using
+#* [[wikipedia:Expenditure|Expenditure]]
+#* [[wikipedia:Income|Income]]
+#* [[wikipedia:Output|Output]]&lt;!--  Commented out because image was deleted: [[image:circflmdl.png]] --&gt;&lt;!--  Commented out because image was deleted: [[image:circflwmdl.png]] --&gt;
+# We should obtain the same figure using any of the three methods. However there are difficulties.
+#* '''Statistical''' - systematic of accidental errors in data gathering
+#* The '''shadow economy''' (i.e. undeclared income) - more commonly known as the 'black market'
+#* '''Tax evasion and Tax avoidance'''
+#* '''Many exchanges do not use money'''
+# All these methods can be used. &quot;Incomes received&quot; is most frequently used.
+
+==Terms used in measuring economic activity==
+==== Gross ====
+*Total with no adjustment for inflation, taxation or wear and tear. For example, &quot;I have gross earnings of 40,000, before paying income tax.&quot;
+
+==== Depreciation ====
+*The rate at which things fall in value over time. This may be a result of wear and tear, or obscelesence. For example, cars often rapidly depreciate after a few years.
+
+==== Net ====
+*allowance has been made for wear and tear or obsolescence.
+&amp;rarr; NET = GROSS - rate of DEPRECIATION
+*For example: I have a car worth 20,000. If it depreciates at a rate of 10% [[w:per annum|per annum]], after one year it is worth 20,000 - 2,000 = 18,000
+
+==== Domestic ====
+*activity within a country's economy from production units located within it, regardless of ownership.
+
+==== National ====
+*activity resulting from production units owned by citizens of a country, regardless of location.
+&amp;rarr; NATIONAL = DOMESTIC + NET INCOME FROM OVERSEAS
+
+==== Market Prices ====
+*The amount of money that a willing buyer pays to acquire something from a willing seller, when a buyer and seller are independent and when such an exchange is motivated by only commercial consideration. This price is also known as the equilibrium price.
+
+==== Factor cost ====
+*total cost of the factors of production to produce an item, distinct from the market price. It ignores any [[wikipedia:indirect taxes|indirect taxes]] and subsidies
+&amp;rarr; FACTOR COST = MARKET PRICES - INDIRECT TAXES + SUBSIDIES
+
+==== National Income ====
+*National income is the sum of the incomes that all individuals in the economy earned in the forms of wages, interest, rents, and profits. It excludes government transfer payments and is calculated before any deductions are taken for income taxes.
+
+==== Current prices ====
+*at existing price levels, i.e. [[wikipedia:Money GDP|Money G.D.P.]]
+*also known as '''nominal prices'''
+
+==== Constant prices ====
+*values taken at a base year to remove the effects of [[wikipedia:inflation|inflation]], i.e. Real G.D.P.
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>4uz4r9rnhkbjq5h4q4xoy6ilhlj64ou</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Macroeconomics/Macroeconomic Equilibrium</title>
+    <ns>0</ns>
+    <id>4924</id>
+    <revision>
+      <id>1635369</id>
+      <parentid>1507520</parentid>
+      <timestamp>2009-09-27T00:03:18Z</timestamp>
+      <contributor>
+        <username>Nkav1</username>
+        <id>156216</id>
+      </contributor>
+      <comment>/* Macroeconomic Equilibrium */</comment>
+      <text xml:space="preserve">==Macroeconomic Equilibrium==
+[[wikipedia:Equilibrium|Equilibrium]] is the situation where there is no tendency for change. The [[wikipedia:economics|economy]] can be in equilibrium at any level of economic activity that is a high level ([[wikipedia:boom|boom]]) or a low level ([[wikipedia:recession|recession]]). Due to the size of many modern economies, equilibrium is a very temporary state, as changing variables shift affect the economy.
+
+Macroeconomic Equilibrium can be shown through the C.F.M. using:
+
+{| WIDTH=&quot;75%&quot;
+|-
+|&lt;center&gt;&lt;big&gt;
+''' S + T + M = I + G + X '''
+&lt;/big&gt;&lt;/center&gt;
+|} 
+
+Savings + taxation + imports = investment + government spending + exports
+
+This can be understood as savings approximately equal to investment, government spending to taxation, and similarly imports to exports, at least over the long run. It means that, at equilibrium, injections into the income stream equal the leakages from the income stream. 
+
+----
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+|&lt;center&gt;&lt;big&gt;
+''' &amp;sum;E = &amp;sum;O = &amp;sum;Y '''
+&lt;/big&gt;&lt;/center&gt;
+|} 
+
+Total expenditure = total output = total income
+
+It is easier to remember if you just think that they are really different ways of measuring the same thing, which is the flow of factors through the economy, which can be demonstrated with the CFM.
+
+----
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+|&lt;center&gt;&lt;big&gt;
+''' Leakages = Injections '''
+&lt;/big&gt;&lt;/center&gt;
+|} 
+
+A change in the [[wikipedia:leakages|leakages]] and [[wikipedia:injections|injections]] will cause a new equilibrium to be established where total income (&amp;sum;Y), total output (&amp;sum;O), and total expenditures (&amp;sum;E) will again equate but at either a higher or lower level than the original equilibrium.
+
+Leakages do not have to equal injections
+
+e.g. imports constitute a leakage from the importing country's economy, but an injection to the exporting countries economy.
+
+So looking at the world economy it is zero sum game, where Leakages = Injections, but looking at any one country's economy this need not be the case.
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>tpf5dkos8trdf4x5hojfcm4l8tgi187</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Macroeconomics/Savings and Investment</title>
+    <ns>0</ns>
+    <id>4925</id>
+    <revision>
+      <id>2575923</id>
+      <parentid>2226106</parentid>
+      <timestamp>2013-10-30T08:11:24Z</timestamp>
+      <contributor>
+        <ip>152.106.99.22</ip>
+      </contributor>
+      <comment>/* Savings */</comment>
+      <text xml:space="preserve">==Role of Savings and Investment==
+There are two views of the topic titled Savings and Investment. One is considered to apply to real physical macroeconomic activity, the &quot;Keynesian&quot;, or National Accounts view. The other is considered to apply to money and banking, the &quot;Monetarist&quot; view. They primarily differ slightly in definitions of terms, which consequently lead to different discussions about very different subject matter. The two views actually are different subject areas, making it the historical debate difficult to collate, let alone reconcile.
+
+Keynesians start with accounting definitions, where Savings = Investment, by construction, and tend to emphasize the nonproductive (zero sum) nature of all vehicles by which savings eventually ends up as capital. Monetarists tend to focus on technical distinctions of how savings is transformed from money balances, eventually into capital, and emphasize the value of those vehicles in selecting which capital to invest in.
+
+In a Keynesian sense, savings is whatever is left over after income is spent on consumption of goods and services, investment is what is spent on goods and services that are not 'consumed', but are durable. Since Income = Output, Savings = Investment for the total world's economy (or for a hypothetical 'closed' economy with zero foreign trade).
+
+In a Monetarist sense, savings is the total rate at which units of account exceed expenditures, and are accumulated as unit of account (e.g. dollar) balances with financial intermediaries. Or sometimes hoarded as currency. Investment is the rate at which financial intermediaries and others expend on items &lt;i&gt;intended&lt;/i&gt; to end up as capital that directly creates value, i.e. physical capital, durable goods, human capital, etc. In general, savings does not equal investment, but differs slightly at all times, the differences constituting a behavioral relationship, rather than an accounting one, as in the Keynesian view.
+
+The two views are just looking at very different things. The most commonly referred meaning of the phrase &quot;Savings and Investment&quot; is in first year college economics, where Keynesian and neoclassical macroeconomics are taught, and national accounts, (i.e. the identity Y = C + I + G) is explained.
+
+===[[wikipedia:Savings|Savings]]===
+Saving is what households (i.e. participants in the consumption account) do. The level of saving in the economy depends on a number of factors (incomplete list):
+
+*A higher real interest rate will give a greater return on saving as banks offer more favourable rates.
+*Poor returns on risky forms of saving, e.g. stocks and bonds, make it more advantageous to hold money savings (in contention between Keynesian and Monetarist views here, mostly because of differences in definitions).
+*Poor expectation for future economic growth, increase households' savings as a precaution for a grim future.
+*More disposable income after fixed expenditures (such as mortgage, heating bill, basic goods purchases) have been made (in contention between Keynesian and Monetarist views here, mostly because of differences in definitions).
+*Perceived likelihood of plunder of the future value of savings, via legal or extralegal means, will make saving less attractive (in contention between Keynesian and Monetarist views here, mostly because of differences in definitions).
+
+These factors affect the marginal propensity to save (MPS) - the greater this MPS, the more saving households will do as a proportion of each additional increment of income.
+
+===[[wikipedia:Investment|Investment]]===
+*Investment is made into capital (ie. plant and machinery, also 'human capital' - training and education), with intent to increase productivity, efficiency and output of goods and services
+*In national accounting terms, stocks, bonds, mutual funds, and other items whose value is risky, are NOT investments. They fall into the savings account, not the investment account.
+*In monetary terms, the relationship between savings and investment is modeled, rather than being an accounting identity. Stocks and bonds are considered to be important intermediary forms of savings as it gets transformed into a capital investment that produces value. Mutual funds, CDs, BICs, GICs, pension obligations, insurance annuities, and other forms of savings marketed by financial intermediaries, all &lt;i&gt;consist&lt;/i&gt; of stocks, bonds, and cash balances, which in turn pay for the capital that increases productivity, efficiency and output of goods and services.
+
+====The 2 Forms of Investment====
+a) [[wikipedia:voluntary|voluntary]]
+*normal investment &amp;rarr; plant equipment etc.
+b) [[wikipedia:involuntary|involuntary]]
+*stockpiles or inventories, output not consumed.
+
+&lt;b&gt;&lt;i&gt;Note on so-called &quot;fiscal&quot; policy, i.e. marginal discretionary government spending:&lt;/i&gt;&lt;/b&gt;
+
+a) Planned Injections (J) and Planned Withdrawals(W)
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; | &lt;center&gt; saif buneri
+
+*J &gt; W = &amp;uarr;economy expansion
+*J &lt; W = &amp;darr;economy contraction
+*J = W = -economy at equilibrium
+&lt;/center&gt;
+|} 
+b) Savings and investment flows most likely to change economic activity
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; | &lt;center&gt;
+Y = &lt;i&gt;Consumption&lt;/i&gt;(C) + &lt;i&gt;Savings&lt;/i&gt;(S) &lt;b&gt;
+&lt;br&gt;&amp;rarr;&lt;/b&gt; &lt;i&gt;Output&lt;/i&gt;(O) = C + I &lt;b&gt; &amp;rarr;&lt;/b&gt; Y = O &lt;b&gt; &amp;rarr;&lt;/b&gt; C = C &lt;b&gt; &amp;rarr;&lt;/b&gt; S = I &amp;rarr; &lt;i&gt;&lt;b&gt;Therefore:&lt;/b&gt;&lt;/i&gt;
+&lt;/center&gt;
+|-
+|}
+*&lt;u&gt;Consumers&lt;/u&gt; Y = C + S
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; | &lt;center&gt;
+plan &amp;rarr; 100 = 85 + (15) &lt;b&gt;OR&lt;/b&gt; 100 = 90 + (10)
+&lt;/center&gt;
+|-
+|}
+*&lt;U&gt;Producers&lt;/u&gt; O = C + I
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; | &lt;center&gt;
+plan &amp;rarr; 100 = 90 + 10 &lt;b&gt;OR&lt;/b&gt; 100 = 85 + 15
+&lt;/center&gt;
+|-
+|}
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; | &lt;center&gt;
+actual result &amp;rarr; 100 = 85 + (15) =&gt; meaning a downswing in the economy
+&lt;br&gt;&lt;b&gt;OR&lt;/b&gt;&lt;br&gt;
+actual result &amp;rarr; 100 = 90 + (10) =&gt; meaning an economy upswing
+&lt;/center&gt;
+|-
+|}
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>2j7xuy54d4qnn3vc6femk0q36gibnuo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Macroeconomics/Keynesian Cross Model</title>
+    <ns>0</ns>
+    <id>4926</id>
+    <revision>
+      <id>1507518</id>
+      <parentid>1431421</parentid>
+      <timestamp>2009-05-25T04:06:28Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>+category</comment>
+      <text xml:space="preserve">===[[wikipedia:Keynesian|Keynesian]] Cross Model===
+====Before Injection====
+&lt;!--  Commented out because image was deleted: [[image:keynescross.png]] --&gt;
+====After Injection ([[wikipedia:multiplier process|multiplier process]])====
+&lt;!--  Commented out because image was deleted: [[image:keynesmult.png]] --&gt;
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>be0dfhthkuk3h05uva50tk00622gt7y</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Macroeconomics/Consumption</title>
+    <ns>0</ns>
+    <id>4927</id>
+    <revision>
+      <id>2658712</id>
+      <parentid>2658483</parentid>
+      <timestamp>2014-05-21T19:18:23Z</timestamp>
+      <contributor>
+        <username>Xania</username>
+        <id>40302</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/39.54.163.157|39.54.163.157]] ([[User talk:39.54.163.157|talk]]) to last version by 41.203.180.1</comment>
+      <text xml:space="preserve">=Consumption=
+
+
+{| WIDTH=&quot;100%&quot;
+|-
+| style=&quot;background-color: #FFFFEE; border: solid 1px #FFC92E; padding: 1em;&quot; valign=&quot;top&quot; | 
+==Consumption is:==
+what households, not businesses, do. This involves expenditure on goods and services, such as petrol, shopping and a new fridge. However, consumption can be split down further into &lt;b&gt;durable&lt;/b&gt; and &lt;b&gt;non-durable&lt;/b&gt; purchases.
+*Durable purchases are those that are going to last a long time - often years! These include items like cars, cookers, and televisions. Fridges, cookers, washing machines etc. are all durable goods.
+*Non-durable purchases are those that only last for a short period of time and are 'used up'. A good example of this is going to the shops to buy food and drink.
+|}
+
+==Determinants==
+:The level of consumption in the economy is determined by:
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;top&quot; | 
+*(C) &amp;rarr; Cost of [[wikipedia:Credit|Credit]]
+*(A) &amp;rarr; [[wikipedia:Asset|Asset]] Levels
+*(D) &amp;rarr; [[wikipedia:disposable income|Disposable income]] and [[wikipedia:distribution of income|Distribution of income]]
+*&lt;b&gt;(E) &amp;rarr; [[wikipedia:Expectations|Expectations]]&lt;/b&gt;
+*(T) &amp;rarr; [[wikipedia:Taxation|Taxation]]
+*(S) &amp;rarr; [[wikipedia:Supply|Supply]] (shortages)
+|}
+
+
+{| WIDTH=&quot;100%&quot;
+|-
+| style=&quot;background-color: #FFFFEE; border: solid 1px #FFC92E; padding: 1em;&quot; valign=&quot;top&quot; | 
+===1) Cost of Credit===
+If credit becomes difficult, mainly through expense of interest rates, some households may postpone their credit financed purchases. There will be a reduction in consumption until circumstances change, i.e. accumulate more savings, or a fall in interest rates
+===2) Assets===
+Most [[wikipedia:households|households]] appear to have target levels of assets/wealth at each stage of their life cycle. If assets fall unexpectedly, households will increase their [[wikipedia:saving|saving]] and reduce consumption. This works in reverse for situations like a sudden increase in [[wikipedia:wealth|wealth]].
+
+===3) Disposable Income===
+Disposable income (income is often expressed as 'Y') is income after taxes. It is the amount of total income that can be spent with reasonable freedom by the household. Thus, disposable income is total income minus taxes (and sometimes also regarded as including other fixed payments, such as mortgage repayments). It is that income which can be 'disposed of' with near freedom.
+
+===4) Expectations===
+Individuals' attitudes to the functionality of the economy effects the level of aggregate expenditure. For example, households increase purchases of [[wikipedia:consumer durables|consumer durables]] if they believe interest rates will remain low or job security improves, etc. Expectations are the source of both business and household [[wikipedia:economic indicators|economic indicators]]. Strictly speaking, an expectation is a &lt;b&gt;leading&lt;/b&gt; economic indicator, since it predicts changes in an economy and changes occur before corresponding changes in the economy.
+
+A '''leading indicator''' is an economic statistic that suggests transactions in the future. For example, building permits suggest construction activity in the near term, and hence the hiring of construction workers and purchases of building materials. Purchases of raw materials by manufacturing industries ordinarily suggest a level of likely production. Increases in either suggest increased activity; decreases suggest decreases in near-term activity. Stock prices fit this category because high prices for corporate stocks create the impression of wealth that spurs consumption.
+
+A '''coinciding indicator''' ordinarily indicates activity at the time. It is often a defining characteristic of the economy such as payroll or sales volume.
+
+A '''lagging indicator''' is a statistic that ordinarily follows economic changes. Unemployment rates are a prime example; decisions by most employers to hire workers follow increases in activity and the parallel decision to lay off workers follows decreases in activity.
+
+===5) Taxation===
+A change in the level of taxation on income (income tax) will reduce the amount of disposable income available. Because of this, C could fall. However, if an equal or greater sum were given out in benefits to households, particularly to unemployed, then consumption could even rise. It is important to note that an increase in taxation will not necessarily cause a contraction in consumption. Further, if taxation and benefits were used to redistribute income/wealth from richer to poorer households, consumption might rise. This is because less wealthy households are more likely to spend a greater proportion of their disposable income than extremely rich individuals.
+|}
+
+*Consumption varies between about 40-60% of total expenditure depending on what type of economy you are in, and the period in the economic cycle it is currently at.
+
+==The Keynesian Consumption Function==
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; | &lt;center&gt;&lt;big&gt;
+C = a + b(&amp;Delta;Y)&lt;br&gt;
+a = Autonomous Consumption
+:b = Marginal Propensity to Consume
+&lt;/big&gt;&lt;/center&gt;
+|}
+:[[wikipedia:Autonomous Consumption|Autonomous Consumption]] is the amount of income someone has to spend to survive (level of absolute need)
+:[[wikipedia:MPC|MPC]] is the fraction/proportion of the remaining income that is spent on consumption. In reality it represents the how much of your income you are willing to spend on goods and services, as opposed to saving it for difficult times in the future or for retirement. The MPC is affected by consumer confidence and interest rates as they affect the rate of return on savings.
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; | &lt;center&gt;&lt;big&gt;
+&lt;math&gt;MPC = {\Delta C \over \Delta Y}&lt;/math&gt;
+&lt;/big&gt;&lt;/center&gt;
+|}
+
+===Calculations===
+*What is the [[wikipedia:break-even|break-even]] point when:
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; | &lt;center&gt;&lt;big&gt;
+Example 1
+:C = 50 + 0.5(Y)
+:B = C = Y
+:Y = 50 + 0.5(Y)
+:Y - 0.5(Y) = 50
+:0.5(Y) = 50
+:Y = 100
+&lt;/big&gt;&lt;/center&gt;
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; | &lt;center&gt;&lt;big&gt;
+Example 2
+:C = 50 + 0.9(Y)
+:B = C = Y
+:Y = 50 + 0.9(Y)
+:Y - 0.9(Y) = 50
+:0.1(Y) = 50
+:Y = 500
+&lt;/big&gt;&lt;/center&gt;
+|}
+
+==Note:==
+Saving(S) is not part of A.E. due to it being a leakage, (we analyse it because it helps us determine consumption and impacts on Y levels). The savings function &lt;big&gt;(S = Y - C)&lt;/big&gt; can be derived from the consumption function (c.f.).
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #F3F3FF; border: solid 1px #D6D6FF; padding: 1em;&quot; valign=&quot;top&quot; | &lt;center&gt;&lt;big&gt;
+S = -a + b(Y)
+&lt;/big&gt;&lt;/center&gt;
+|}
+:where b is the Marginal Propensity to Save([[wikipedia:MPS|MPS]])
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>obvr2yhhduc0a7wdtbg4vc2r1r74zpk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Macroeconomics/Investment</title>
+    <ns>0</ns>
+    <id>4928</id>
+    <revision>
+      <id>2366099</id>
+      <parentid>2366041</parentid>
+      <timestamp>2012-06-19T13:36:35Z</timestamp>
+      <contributor>
+        <username>Pi zero</username>
+        <id>75960</id>
+      </contributor>
+      <comment>Undid revision 2366041 by [[Special:Contributions/Bravo89|Bravo89]] ([[User talk:Bravo89|discuss]]) - spam</comment>
+      <text xml:space="preserve">=Investment=
+
+{| WIDTH=&quot;100%&quot;
+|-
+| style=&quot;background-color: #FFFFEE; border: solid 1px #FFC92E; padding: 1em;&quot; valign=&quot;top&quot; | 
+&lt;strong&gt;Investment&lt;/strong&gt; is the expenditure(E) on new [[wikipedia:capital|capital]] equipment which will be used to produce final [[wikipedia:goods &amp; services|goods &amp; services]](g+s) in the future. It includes building construction, housing, etc.
+|}
+
+==Factors Affecting Investment:==
+:The level of I is the most [[wikipedia:volatile|volatile]] component of AE, particularily because it is forward planning/focused.
+===Determinants===
+The level of investment in the economy is determined by:
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;top&quot; | 
+*(T) &amp;rarr; [[wikipedia:Taxation|Taxation]]
+*(W) &amp;rarr; World events
+*(I) &amp;rarr; [[wikipedia:Inflation|Inflation]]
+*(G) &amp;rarr; [[wikipedia:Government policies|Government policies]]
+*(I) &amp;rarr; [[wikipedia:Interest rates|Interest rates]]
+*(S) &amp;rarr; [[wikipedia:Stocks|Stocks]]
+*(P) &amp;rarr; Past [[wikipedia:profits|profits]]
+*(E) &amp;rarr; [[wikipedia:Expectations|Expectations]]
+*(C) &amp;rarr; [[wikipedia:Competition|Competition]]
+
+:&lt;i&gt;think TWIGISPEC!&lt;/i&gt;
+|}
+*Private sector investment comprises 10-20% of AE.
+
+[[Category:{{FULLBOOKNAME}}|{{FULLCHAPTERNAME}}]]</text>
+      <sha1>0a295ia478bshtdamk88e6bsvvbqobp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Active Server Pages</title>
+    <ns>0</ns>
+    <id>4929</id>
+    <revision>
+      <id>2555292</id>
+      <parentid>2555290</parentid>
+      <timestamp>2013-09-09T07:24:29Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/117.195.125.208|117.195.125.208]] ([[User talk:117.195.125.208|talk]]) to last version by 90.163.232.78</comment>
+      <text xml:space="preserve">== How this book is organized ==
+This book is organized into ''modules''. Each module should take you about one hour to complete.
+
+Modules are organized as follows:
+* objectives
+* content
+* summary
+* review questions
+* exercises
+
+Later modules build upon earlier modules, so we encourage you to read them in sequence.
+
+== Table of Contents ==
+* [[/Prerequisites/]]
+* [[/Differences between ASP 3.0 and ASP.NET/]]
+* [[/Your first page/]]
+* [[/Basic ASP Syntax/]]
+* [[/Variable Types/]]
+* [[/Expressions/]]
+* [[/Conditionals and Looping/]]
+* [[/Functions and Subroutines/]]
+* [[/Database Access Using ADO/]]
+* [[/Server-Side Includes/]]
+* [[/Debugging/]]
+
+== Other ASP References ==
+* [[/Appendix A: Language Reference/]]
+* [[/Protecting against user-input (XSS attacks)/]]
+
+{{Subjects|Scripting languages}}
+{{alphabetical|A}}
+{{status|100%}}
+
+[[es:Manual de ASP]]
+[[he:ASP]]</text>
+      <sha1>a0pf45wjcgzwn9zew98q4414bwyklic</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Coq au Vin</title>
+    <ns>102</ns>
+    <id>4935</id>
+    <revision>
+      <id>2686558</id>
+      <parentid>2684846</parentid>
+      <timestamp>2014-07-31T19:13:23Z</timestamp>
+      <contributor>
+        <username>Koavf</username>
+        <id>16549</id>
+      </contributor>
+      <comment>Merge from [[Cookbook:Coq au vin]]</comment>
+      <text xml:space="preserve">{{recipe}} | [[Cookbook:Cuisine of France|Cuisine of France]] | [[Cookbook:Meat|Meat]]
+__NOTOC__
+Many French regions claim '''coq au vin''', or chicken stew, as their own, but legend has it that the recipe originated with [[w:Julius Caesar|Caesar]]'s chef. Different variants exist throughout the world; the following recipe is one. Note that you can also use [[cookbook:capon|capon]].
+
+Serves 4–6.
+
+==Ingredients==
+* 1.5 [[Cookbook:kg|kg]] (about 3.5 lbs) [[cookbook:chicken|chicken]], jointed (or drumsticks, thighs, breasts); get the giblets, and the blood if you can; season beforehand; marrow is important.
+* 1 [[Cookbook:Onion|onion]], [[Cookbook:Dice|diced]]
+* 1 [[Cookbook:Carrot|carrot]], [[Cookbook:Chop|chopped]]
+* 3 [[Cookbook:Tablespoon|tbsp]]  [[Cookbook:Flour|flour]]
+* 1/2 [[Cookbook:Teaspoon|tsp]] [[Cookbook:Salt|salt]]
+* 1/4 tsp [[Cookbook:Pepper|pepper]]
+* 200 [[Cookbook:g|g]] (about 1/4 lb) small [[Cookbook:Mushroom|mushrooms]]
+* 240 ml (1 cup) [[Cookbook:Red Wine|red wine]]
+* 1 clove [[Cookbook:Garlic|garlic]], [[Cookbook:Mincing|minced]]
+* 1 tsp  [[Cookbook:Basil|basil]], chopped and fresh
+* 1 tsp  of fresh or dried Thyme
+* Olive oil for sauteing
+
+==Gear==
+Wide [[cookbook:skillet|skillet]], deep pyrex bowl with lid, and jug.
+
+==Directions==
+#Mix flour, salt and pepper. Coat chicken, onion and carrot in flour mixture and set aside.
+#[[Cookbook:Sautéing|Sauté]] mushrooms, set aside.
+#[[Cookbook:Browning|Brown]] the chicken pieces a few at a time, set aside.
+#Brown onions and carrots. Put chicken into large [[Cookbook:Casserole (pot)|casserole]] on medium-high heat along with onions, carrots and mushrooms.
+#Combine wine, garlic, and basil; pour over chicken. Cover the casserole, cook until chicken is ready (1–1.5 hours), stirring occasionally.
+
+==Variations==
+Nearly all recipes other than those altered for low-fat diets start with [[Cookbook:Lardon|lardons]], or their more available substitutes, unsmoked [[Cookbook:Bacon|bacon]] or [[Cookbook:Pancetta|pancetta]].  The lardons are cooked, and the rendered fat used for browning the other ingredients, and (with the addition of the flour) to form the ''[[Cookbook:Roux|roux]]'' which thickens the sauce.  Generally, a full bottle of red wine is used, and brandy may be added.
+
+Porcini mushrooms, while not particularly authentic, are good in this dish.
+
+* 1.5 [[Cookbook:kg|kg]] (about 3.5 lbs) [[cookbook:chicken|chicken]], jointed (or drumsticks, thighs, breasts); get the giblets, and the blood if you can; season beforehand; marrow is important.
+*1 bottle red [[cookbook:Wine|burgundy]] (or côte du Rhône/Morgon)
+*8 thick slices [[cookbook:pancetta|pancetta]], cut into strips less than width of little finger
+*1 strip of [[cookbook:pork|porkbelly fat]]
+*250g [[cookbook:mushroom|button mushrooms]], whole
+*selection of [[cookbook:mushroom|wild mushroom]]s, sliced - dried is OK (use the soaking liquor)
+*2 large [[cookbook:onion|onion]]s, one for the stock, the other roughly chopped
+*12 small pickling onions (fresh, not pickled), peeled and whole
+*2 stalks [[cookbook:celery|celery]], roughly diced
+*4 [[cookbook:carrot|carrot]]s, cut in thick lengths
+*5 cloves [[cookbook:garlic|garlic]], crushed, leaving one sliced
+*1/2 tsp ground [[cookbook:asafoetida|asafoetida]]
+*5 sprigs [[cookbook:thyme|thyme]] (2 tsps) &amp; 5 [[cookbook:Bay Leaf|bay leaves]]
+*[[cookbook:butter|butter]], [[cookbook:salt|salt]], [[cookbook:pepper|black pepper]], [[cookbook:parsley|parsley]]
+*2 measures of [[cookbook:brandy|brandy]]
+
+For the preceding ingredients, follow this timeline:
+
+#For chicken stock, sear the giblets in a bit of [[cookbook:oil|oil]] in a pan, and [[cookbook:simmer|simmer]] in water with an onion, a carrot and some peppercorns. For the vegetable stock, make up a cupful with ''Vegcon'', just salty (can act as the entire stock - make 1/2 pint). 
+#In the skillet, fry pancetta and porkbelly fat with butter till golden brown. Remove pancetta.
+#To the skillet, add the seasoned chicken pieces skin side down and fry until honey-coloured, then turn. This is vital for the flavour; the skillet must be left sticky. There won't be enough room to do it in one go, so take it in turns. Remove, leaving the porkbelly behind, snipped into pieces. (If you're doing breasts off the bone, sear on skin side only and do not put back into the dish until the oven stage - otherwise they will toughen up.)
+#To the skillet add the chopped onion and the button mushrooms; fry for 5 mins, then add the sliced garlic and immediately flame off one of the measures of brandy.
+#To the skillet add the chicken pieces and pancetta, then pour over all the wine and the chicken &amp; veg stocks. Bring to the boil, then reduce the heat and, adding the crushed garlic and herbs, simmer for 45 mins. Turn the chicken pieces twice. Remove the chicken pieces to the pyrex lid and pour the skillet sauce into the jug; put the jug in the freezer for 30 mins and then remove the fat. At this stage, it is recommended that you refrigerate the whole dish overnight.
+#In the skillet, add some butter along with the wild mushrooms; then pickling onions, carrots and celery; fry till mushrooms brown. Stir in the asafoetida and flame off the second measure of brandy.
+#Add the jug ingredients to the skillet sauce, along with another crushed clove of garlic, and push the veg to the edge of the skillet; reduce the sauce in the skillet until glossy (may need flour stirred in - but it shouldn't be thick): 15 mins.
+#Pour half the sauce into the pyrex bowl, then place the chicken pieces in, and pour the rest of the sauce on top; put the covered pyrex bowl in an oven on 170 C for 90 mins.
+#Sprinkle parsley over each portion, and serve with asparagus/green beans, and steamed potatoes/flat noodles/rice/orzo/[[Cookbook:Colcannon|colcannon]].
+
+This is a difficult dish, but you've got to try it. The asafoetida is a novelty, but it does add pungency.
+
+==External links==
+*[http://www.observer.co.uk/life/story/0,6903,605460,00.html Perfect Coq au Vin] via ''The Observer''
+
+{{wikipedia|Coq au Vin}}
+
+[[Category:Chicken recipes]]
+[[Category:Wine recipes]]
+[[Category:French recipes]]
+[[Category:Stew recipes]]
+[[Category:Main course recipes]]
+[[Category:Braised recipes]]
+[[category:Gluten-free recipes]]
+[[Category:Recipes_with_metric_units]]
+[[fr:Livre de cuisine/Coq au vin]]</text>
+      <sha1>99qxo23zf7c75cq690kjh6lvi3y6epk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Ratatouille</title>
+    <ns>102</ns>
+    <id>4936</id>
+    <revision>
+      <id>2689322</id>
+      <parentid>2371450</parentid>
+      <timestamp>2014-08-06T23:18:12Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>Added pan fried, side dish and images cats.</comment>
+      <text xml:space="preserve">[[Image:Ratatouille.jpg|200px|right]]
+{{recipe}} | [[Cookbook:Cuisine of France#Provence|Provençale recipes]] | [[Cookbook:Vegan cuisine|Vegan Cuisine]]
+__NOTOC__
+'''Ratatouille''' is a traditional [[Cookbook:Cuisine_of_France#Provence|Provençale]] stewed vegetable dish that can be served as a meal on its own, accompanied by [[Cookbook:Rice|rice]], [[Cookbook:Potato|potatoes]] or French [[Cookbook:Bread|bread]], or as a side dish. It can be served hot or cold.
+
+Recipe serves 3-4. Increase quantities to serve more, and add different vegetables as desired for variation.
+
+==Ingredients==
+* [[Cookbook:Olive oil|Olive oil]]
+* 1 [[Cookbook:Onion|onion]]
+* 1 clove [[Cookbook:Garlic|garlic]], or to taste
+* 1 [[Cookbook:Eggplant|eggplant (aubergine)]]
+* 1 green, red, yellow or a combination, [[Cookbook:Bell Pepper|bell pepper]] 
+* 2 [[Cookbook:Zucchini|zucchini (courgettes)]]
+* 6 medium [[Cookbook:Tomato|tomato]]es, ripe (juicy), peeled and seeded
+* [[Cookbook:Salt|salt]] and [[Cookbook:Pepper|pepper]] to taste
+* [[Cookbook:Herbes de Provence|Herbes de Provence]] to taste, (optional), or
+* 1 small bunch [[Cookbook:Basil|basil]], chiffonéd (optional)
+
+==Directions==
+
+#Put a large [[Cookbook:Pots_and_Pans#Enameled_Cast_Iron|casserole]] on the stove on medium heat.
+#When the casserole is hot, add enough olive oil to just cover the bottom. 
+#Cut the zucchini and eggplant into ½ inch slices. Then cut these into rectangles of about 3 by 1 inches. Add to the casserole.&lt;ref name=size&gt;When ratatouille is used as a filling for savoury crêpes or to fill an omelette, the pieces are sometimes cut smaller.&lt;/ref&gt;
+#Sauté the slices until light brown
+#[[Cookbook:Chop|Chop]] the onions and garlic.
+#Cut the green pepper into strips or dice, as preferred.&lt;ref name=size/&gt;  
+#Add the onions and peppers and cook slowly for about 10 minutes until tender but not brown. Stir in the garlic.&lt;ref&gt;While most recipes do not brown the onions, if you like them browned, brown them.  Food traditions have always been subject to individual interpretation.&lt;/ref&gt;
+#Peel and seed the tomatoes. [[Cookbook:Dice|Dice]] them or cut them into quarters, add to the casserole. 
+#Five minutes later, check to see if the tomatoes have made enough juice to almost cover the vegetables - if so, perfect. If not, add water as needed (not too much).
+#Add salt, pepper and Herbes de Provence to taste. In general, 1 [[Cookbook:Teaspoon|tsp]]  of salt, 1/2 [[Cookbook:Teaspoon|tsp]] of pepper and 1 tbsp of the herbs will suffice. 
+#Cover the casserole and let simmer on low heat until the vegetables are tender but still intact, 10 to 20 minutes, or to taste.
+#Remove the lid, raise the heat a little and cook uncovered for another 15 minutes, basting frequently until the liquids have mostly evaporated, leaving a small amount of juice and olive oil.&lt;ref&gt;Unnecessary moisture can also be reduced by straining the liquid into a pan, reducing it over heat, then returning the reduced liquid to the casserole.&lt;/ref&gt;
+&lt;br/&gt;
+
+:N.B. It is important that each of the vegetables retain its own shape and character.  Most authorities agree that ratatouille should not be a mush. Avoid overcooking. Sautéing the eggplant and courgettes initially helps retain their shape and improves their flavour, but is optional. Of course if you personally prefer a more homogeneous dish, it may be cooked for 45 minutes to 1 hour, but this is unusual.
+
+==Notes==
+{{reflist}}
+{{wikipedia}}
+
+ ==See also==
+*[[Cookbook:Ratatouille 2]]
+
+[[Category:Vegan recipes|{{PAGENAME}}]]
+[[Category:Vegetable recipes|{{PAGENAME}}]]
+[[Category:Tomato recipes|{{PAGENAME}}]]
+[[Category:Eggplant recipes|{{PAGENAME}}]]
+[[Category:French recipes|{{PAGENAME}}]]
+[[Category:Zucchini recipes|{{PAGENAME}}]]
+[[Category:Side dish recipes]]
+[[Category:Pan fried recipes]]
+[[Category:Recipes with images]]
+
+[[fr:Livre de cuisine/Ratatouille2]]
+[[tl:Ratatouille]]
+[[ru:Рецепт:Рататуй]]</text>
+      <sha1>8sk0rafa1b4he5ku0lezf58a1pndv5b</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Le Tourin</title>
+    <ns>102</ns>
+    <id>4937</id>
+    <revision>
+      <id>2686082</id>
+      <parentid>1728280</parentid>
+      <timestamp>2014-07-31T00:21:14Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>Added boiled cat.</comment>
+      <text xml:space="preserve">{{recipesummary|Soup recipes|2|30 minutes|2}}
+
+{{recipe}} | [[Cookbook:Soup|Soup]] | [[Cookbook:Cuisine of France|Cuisine of France]]
+
+'''Le Tourin''' is a type of garlic [[Cookbook:Soup|soup]].  This recipe is from the village of Le Fleix in Dordogne.
+
+==Ingredients==
+*10-12 cloves of [[Cookbook:Garlic|garlic]], [[Cookbook:Chop|chopped]]
+*1 [[Cookbook:Tablespoon|tablespoon]] [[Cookbook:Olive oil|olive oil]]
+*1 tablespoon [[Cookbook:Flour|flour]]
+*water &amp;mdash; 4 cups (adjust amount as needed - use distilled, filtered or reverse osmosis water)
+*[[Cookbook:Salt|salt]] to taste
+*1 [[Cookbook:Egg|egg]], separated
+*[[Cookbook:Pepper|pepper]] to taste
+*1 teaspoon [[Cookbook:Vinegar|vinegar]]
+
+Serves 2
+
+==Procedure==
+#In a [[Cookbook:Frying Pan|frying pan]], [[Cookbook:Brown|brown]] the chopped garlic (or optionally, an equal mixture of chopped onions and garlic) in the olive oil.
+#Add the flour.
+#Mix well, then cook for a moment.
+#Add some boiling salted water, and cook for 10 minutes.
+#In a separate dish, mix:
+#*egg yolk
+#*pepper
+#*vinegar
+#Add the egg white to the soup, first tempering in a separate bowl with a [[Cookbook:Whisk|whisk]], so that no large pieces of egg white form.
+#Cook another 5 minutes. Remove from heat and add the egg yolk mixture, again tempering to avoid coagulation.
+#Place thin slices of bread in each soup bowl, and pour the soup on top. Serve hot. Bon appétit.
+
+[[Category:Soup recipes|Le Tourin]]
+[[Category:Vegetarian recipes|Le Tourin]]
+[[Category:French recipes|Le Tourin]]
+[[Category:Garlic recipes|{{PAGENAME}}]]
+[[Category:Boiled recipes]]</text>
+      <sha1>qk819795n6ipwyk9mz1wc2gn6w2m9dn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Crêpe</title>
+    <ns>102</ns>
+    <id>4940</id>
+    <revision>
+      <id>2692523</id>
+      <parentid>2488103</parentid>
+      <timestamp>2014-08-17T14:48:24Z</timestamp>
+      <contributor>
+        <username>Austncorp</username>
+        <id>1540792</id>
+      </contributor>
+      <minor />
+      <comment>/* Procedure */ Adjusted link to whole wheat pancakes</comment>
+      <text xml:space="preserve">{{recipe}} | [[Cookbook:Cuisine of France|Cuisine of France]] | [[Cookbook:Dessert|Dessert]]
+
+[[Image:Crepes dsc07085.jpg|thumb|Crêpes without any fillings]]
+
+A '''crêpe''' is a thin [[Cookbook:Pancake|pancake]]. The French word is from the Latin root ''crispa'' meaning &quot;curled&quot;, from which the English word &quot;crisp&quot; is also derived. It originates from Brittany, a region in the west of [[Cookbook:Cuisine of France|France]], where it is traditionally served with [[Cookbook:Cider|cider]]. Historically, they were cooked on flat rocks (hence the name). Crêpes are usually of two types: sweet or savoury, the main difference is the [[Cookbook:Flour|flour]] used (plain flour or [[Cookbook:Buckwheat|buckwheat]] flour respectively). They may then be rolled or folded, and filled with different ingredients.  Depending on the filling ingredients, filled crêpes can be either a dessert dish or a main course.
+
+This recipe for sweet crêpes is an easy one to start with (for about 20 crêpes):
+
+==Ingredients==
+* 1 [[Cookbook:Cup|cup]] (230 [[Cookbook:mL|mL]]) plain [[Cookbook:Flour|flour]] 
+* 1/2 cup (115 mL) [[Cookbook:Milk|milk]]
+* 2 [[Cookbook:Egg|egg]]s
+* 2 [[Cookbook:Tablespoon|tbsp]] (15 mL) [[Cookbook:Oil|oil]] or melted [[Cookbook:Butter|butter]]
+* 1 pinch of [[Cookbook:Salt|salt]]
+
+==Variations==
+Sweeter crêpe:
+Add 2 [[Cookbook:Teaspoon|teaspoons]] [[Cookbook:Sugar|sugar]] and 1 teaspoon [[Cookbook:Vanilla|vanilla]]
+
+[[Cookbook:Chocolate|Chocolate]] Crêpe:
+Add 2 tablespoons [[Cookbook:Chocolate Sauce|chocolate sauce]]
+&gt;
+See [[Cookbook:Crepe Making|Crepe Making]] for extra help.
+
+An easy variation to the recipe is: 
+
+5 eggs 
+1 cup of flour
+1 cup of milk
+
+Cheesy crepe: Sprinkle Emmental evenly while in the pan.
+
+==Procedure==
+#Put the flour at the bottom of a [[Cookbook:Mixing Bowl|mixing bowl]] and make a hole in the middle where you put the eggs, the melted butter, the salt and a bit of milk. 
+#Mix well by hand (traditionally, you actually use your hand to avoid incorporating air) slowly combining with the flour, you should get a thick paste. Then continue mixing and slowly add the rest of the milk, mix well to avoid making lumps. You may add a bit of [[Cookbook:Liqueur|liqueur]] (traditionally [[Cookbook:Brandy|brandy]] or [[Cookbook:Fleur d'Oranger|fleur d'oranger]]) for more taste. Allow to stand, perhaps for several hours whilst the flour gluten rests - very important to the final texture.
+#Heat a [[Cookbook:Crêpe Pan|crêpe pan]] (non-stick recommended), grease it with some butter, and pour some batter while rolling the pan to make the crêpe as thin as possible (8 finished crepe might add up to a stack 1/4&quot; or 6mm thick).  A drop of water can be used to test the pan temperature: too cold, and the water will sit on the pan, too hot and it will vanish immediately.  At the right temperature, the water will seem to &quot;dance&quot; on the pan. 
+#Cooking may take 30 to 60 seconds until the cooked side looks like the surface of the moon, then turn it over to cook the other side; with some practice, you can flip it in the air by swinging the pan. See the [[Cookbook:Whole Wheat Pancakes|whole-wheat pancakes]] recipe for air-flipping instructions.
+
+Serve with maple syrup, [[Cookbook:Caster Sugar|caster sugar]], jam, spreads, etc.
+
+Crêpes can be filled and folded into triangles or rolled up.  
+
+Some tasty fillings include:
+* [[Cookbook:Sugar|sugar]] and [[Cookbook:Lemon|lemon]]
+* [[Cookbook:Raspberry|raspberry]] jam &amp; chocolate sauce
+* [[Cookbook:Nutella|nutella]] &amp; sliced [[Cookbook:Banana|banana]]
+* nutella &amp; chopped [[Cookbook:Hazelnut|hazelnuts]]
+* [[Cookbook:Whipped Cream|whipped cream]]
+* chocolate, [[Cookbook:Caramel|caramel]] or [[Cookbook:Butterscotch|butterscotch]] sauce
+* [[Cookbook:Frangipane|frangipane]]
+* [[Cookbook:Peanut Butter|peanut butter]]
+* sugar and butter, possibly with [[Cookbook:Lemon|lemon]] or [[Cookbook:Cinnamon|cinnamon]]
+* [[Cookbook:Strawberry|strawberries]], fresh or frozen
+* [[Cookbook:Cream Cheese|cream cheese]] and brown sugar
+* slivers of chicken, broccoli and cheese sauce
+* wrapped around a frankfurter (See cheesy crepe above)
+
+{{wikipedia|Crêpe}}
+
+[[Category:Dessert recipes|{{PAGENAME}}]]
+[[Category:French recipes|{{PAGENAME}}]]
+[[Category:Pancake recipes|{{PAGENAME}}]]
+
+[[fr:Livre de cuisine/Crêpe]]</text>
+      <sha1>mb3r5zs4m0femd4mmh5v2cu7sind2py</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Ratatouille</title>
+    <ns>103</ns>
+    <id>4947</id>
+    <revision>
+      <id>1260093</id>
+      <parentid>1255025</parentid>
+      <timestamp>2008-08-27T16:04:35Z</timestamp>
+      <contributor>
+        <ip>213.156.49.142</ip>
+      </contributor>
+      <text xml:space="preserve">==Talk==
+
+As Provence went abck forth and between Italy and France for a while, basil, the pride of neighboring Liguria, is not at all out of place.
+
+I am sure cucumbers well but they somehow don't ring true in this dish.
+
+n. t.
+
+----------------
+
+A number of the recipes in [[w:wikibooks:fr:Catégorie:Cuisine provençale|Livre de cuisine]] include basil.  So I have added this as an option although I have never tried it myself. [[User:Mike Hayes|Mike Hayes]] ([[User talk:Mike Hayes|talk]]) 19:55, 19 August 2008 (UTC)
+----
+Honest Fraise !
+
+I hope that was a mistake. Courgettes pas concombres.
+
+Tu parles français ?
+
+
+(réponse de fraise): Oui, je parle français, et j'habite en France :) My mother-in-law, who is French, gave me the recipe. She uses cucumbers.
+
+I never used cucumbers though I am from the south, but I guess you are talking of traditional cucumbers, not the type full of water, grown in three days in glasshouses.
+
+Btw, I saw these recipees were on your web site. The design is indicated copyrighted. Are there copyright on these recipees as well ?
+
+Où ça en France ?
+
+[[User:Anthere]]
+
+::Recipes are only copyright if the wording is exactly the same. If you write it in your own words, it is not a copyright infringement. Images are copyright, obviously, but one can find free images of food all over the internet. [[User:Mike Hayes|Mike Hayes]] ([[User talk:Mike Hayes|talk]]) 19:42, 19 August 2008 (UTC)
+
+
+:There are no copyrights on the recipes, and in any case, if you look closely you'll see that I made a few changes (I need to update the recipes on my website as well, but that's another story). They're all recipes I've gathered from friends and family in France. Si tu lis mon &quot;user info&quot;, tu sauras tout de suite où j'habite en France :) - [[User:Fraise|fraise]]
+
+ah, french riviera. Je n avais pas &quot;tilté&quot; :-). No pb for the cp, just wanted to check whether you were aware of the issue. I did not check closely, I just had a peep. [[User:Anthere]]
+
+:Ok, thanks for checking on that! I know it's hard to know just how much a new user is aware of. No worries though, I've read the FAQs and all.&lt;br&gt;&lt;br&gt;(I've moved the other stuff to [http://www.wikipedia.org/wiki/User_talk:Fraise User talk:Fraise])&lt;br&gt;- [[User:Fraise|fraise]]
+
+
+:: Nous sommes voisins alors. I'm not using cumcumber too. [[User:Fenkys|Fenkys]] 14:08, 8 Nov 2003 (UTC)
+
+==Page History==
+
+    * (cur) (last)  . . 23:13, 22 Feb 2004 . . Karen Johnson (transwiking contents)
+    * (cur) (last) . . M 02:02, 18 Dec 2003 . . Olivier
+    * (cur) (last) . . M 03:04, 8 Nov 2003 . . Fenkys (link to ''true'' provencal ratatouille)
+    * (cur) (last) . . 03:37, 12 Jun 2003 . . Fraise (Cucumber is also used)
+    * (cur) (last) . . 01:48, 12 Jun 2003 . . Fraise (Goodness, forgot an ingredient (eggplant))
+    * (cur) (last) . . M 01:45, 12 Jun 2003 . . Anthere
+    * (cur) (last) . . M 01:33, 12 Jun 2003 . . Fraise (Typos!)
+    * (cur) (last) . . 01:32, 12 Jun 2003 . . Fraise (Added recipe)</text>
+      <sha1>594w5ow33w67no3jc6hbwzykk6skyha</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>
